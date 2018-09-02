@@ -1,0 +1,261 @@
+Item 7. MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS  
+
+The purpose of this Managements Discussion and Analysis (MD&A) is to provide an overview of the Companys consolidated financial condition and results of operations as well as an analysis of the factors that caused certain key elements of our financial statements to change from one year to the next.  
+
+In this MD&A, we use certain terms and abbreviations that are defined as follows:  
+
+  AICPA   The American Institute of Certified Public Accountants (like the Accounting Principles Board (APB) and the Financial Accounting Standards Board (FASB), the accounting guidance promulgated by the AICPA are part of the authoritative accounting literature comprising accounting principles generally accepted in the United States). 
+
+  Backlog   Backlog represents the total dollar amount of revenues we expect to record in the future as a result of performing work under contracts that have been awarded to us. With respect to operations and maintenance (O&M) contracts, however, we include in backlog the amount of revenues we expect to receive for only one succeeding year, regardless of the remaining life of the contract. For national government programs (other than U.S. federal O&M contracts), our policy is to include in backlog the full contract award, whether funded or unfunded, excluding option periods. 
+
+  Net cash   From our Consolidated Balance Sheets, net cash means total cash and cash equivalents less total bank and other funded debt. 
+
+  Operating profit   From our Consolidated Statements of Earnings, operating profit means revenues, less direct costs of contracts and SG&A expenses. 
+
+  SG&A expenses   From our Consolidated Statements of Earnings, SG&A expenses means selling, general and administrative expenses. 
+
+  SFAS   Statement of Financial Accounting Standards (these are accounting standards adopted by the FASB).  
+
+Overview  
+
+Net earnings for fiscal 2008 increased by $133.6 million, or 46.5%, as compared to last year, and earnings per share (diluted) grew by 43.8%. The increase in net earnings was due primarily to significant growth in activity on contracts with clients operating in a number of industries and markets including energy and refining-downstream, upstream oil and gas, national government programs, and chemicals and polymers, among others. Technical professional services revenues in fiscal 2008 increased by $1.5 billion, or 33.3%, as compared to last year, while revenues from field services in fiscal 2008 increased by $1.3 billion, or 32.2%, from last year.  
+
+Cash and cash equivalents totaled $604.4 million at September 30, 2008; this is down slightly from our balances at September 30, 2007. Our net cash totaled $547.8 million at September 30, 2008; this is also down slightly from our net cash position from a year ago. We used $264.1 million of cash and cash equivalents in fiscal 2008 to acquire businesses; this was $175.3 million more than what was spent last year. Additions to property and equipment during fiscal 2008 totaled $114.8 million; this was $50.2 million higher than total additions made last year. Most of the increase was due to expenditures relating to fitting-out and expanding new and existing office space, and computer system upgrades and system conversions.  
+
+Our backlog increased $3.1 billion during fiscal 2008, from $13.6 billion at September 30, 2007 to $16.7 billion at September 30, 2008.  
+
+33  
+
+Table of Contents 
+
+We had 57,100 employees and contract staff personnel at September 30, 2008; this is 7,900, or 16.1%, more than at September 30, 2007.  
+
+Critical Accounting Policies  
+
+In order to understand better the changes that may occur to key elements of our financial condition and operating results, a reader of this MD&A should be aware of the critical accounting policies we apply in preparing our consolidated financial statements.  
+
+The consolidated financial statements contained in this report were prepared in accordance with accounting principles generally accepted in the United States. The preparation of our consolidated financial statements and the financial statements of any business performing long-term engineering and construction-type contracts requires management to make certain estimates and judgments that affect both the entitys results of operations and the carrying values of its assets and liabilities. Although our significant accounting polices are described in Note 2 of the Notes to Consolidated Financial Statements, the following discussion is intended to describe those accounting policies that are especially critical to the preparation of our consolidated financial statements.  
+
+Revenue Accounting for Contracts and Use of Joint VenturesIn accounting for long-term engineering and construction-type contracts, we follow the provisions of the AICPAs Statement of Position 81-1Accounting for Performance of Construction-Type and Certain Production-Type Contracts. In general, we recognize revenues at the time we provide services. Depending on the commercial terms of the contract, we recognize revenues either when costs are incurred, or using the percentage-of-completion method of accounting by relating contract costs incurred to date to the total estimated costs at completion. This method of revenue recognition requires us to prepare estimates of costs to complete contracts in progress. In making such estimates, judgments are required to evaluate contingencies such as potential variances in schedule, the cost of materials and labor, and productivity, and the impact of change orders, liability claims, contract disputes, and achievement of contractual performance standards. Many of our engineering and construction contracts provide for reimbursement of costs plus a fixed or percentage fee. In some of the markets we serve there is an increasing trend towards cost-reimbursable contracts with incentive-fee arrangements. In certain instances, we base our incentive fees on achievement of target completion dates, target costs, and/or other performance criteria. Failure to meet these targets or increases in contract costs can result in unrealized incentive fees or non-recoverable costs, which could exceed revenues recognized from the project.  
+
+We provide for contract losses in their entirety in the period they become known, without regard to the percentage of completion.  
+
+The nature of our business sometimes results in clients, subcontractors or vendors presenting claims to us for recovery of costs they incurred in excess of what they expected to incur, or for which they believe they are not contractually responsible. In those situations where a claim against us may result in additional costs to the contract, we include in the total estimated costs of the contract (and therefore, the estimated amount of margin to be earned under the contract) an estimate, based on all relevant facts and circumstances available, of the additional costs to be incurred. Similarly, and in the normal course of business, we may present claims to our clients for costs we have incurred for which we believe we are not contractually responsible. In those situations where we have presented such claims to our clients, we include in revenues the amount of costs incurred, without profit, to the extent it is probable that the claims will result in additional contract revenue, and the amount of such additional revenue can be reliably estimated. Costs associated with unapproved change orders are included in revenues using substantially the same criteria used for claims.  
+
+Certain cost-reimbursable contracts with government customers as well as certain commercial clients provide that contract costs are subject to audit and adjustment. In this situation, revenues are recorded at the time services are performed based upon the amounts we expect to realize upon completion of the contracts. In those situations where an audit indicates that we may have billed a client for costs not allowable under the terms of the contract, we estimate the amount of such nonbillable costs and adjust our revenues accordingly.  
+
+34  
+
+Table of Contents 
+
+As is common in the industry, we execute certain contracts jointly with third parties through various forms of joint ventures and consortiums. For certain of these joint ventures (i.e., where we have an undivided interest in the assets and liabilities of the venture), we recognize our proportionate share of joint venture revenues, costs and operating profit in our Consolidated Statements of Earnings. For other investments in engineering and construction joint ventures, we use the equity method of accounting.  
+
+Accounting for Stock Issued to Employees and OthersWe account for share-based payment transactions in accordance with the provisions of SFAS No. 123RShare-Based Payment. Accordingly, we measure the cost of employee services received in exchange for an award of equity instruments based on the grant-date fair value of the award.  
+
+We use the Black-Scholes option pricing model to compute the grant date fair value of awards of equity instruments. The Black-Scholes model requires the use of highly subjective assumptions in order to compute the hypothetical fair value of a stock option. Changes in these assumptions can cause drastically different values being assigned to a stock option. The value assigned to any stock options that may be awarded in the future as well as the related expense associated with any such awards will be dependent on the assumptions used.  
+
+Accounting for Pension PlansIn accounting for pension plans, we follow the provisions of SFAS No. 87Employers Accounting for Pensions, and SFAS No. 158Employers Accounting for Defined Benefit Pension and Other Postretirement Plans. SFAS 87 and SFAS 158 require the use of assumptions and estimates in order to calculate periodic pension cost, and the value of the plans assets and liabilities. These assumptions include discount rates, investment returns, and projected salary increases, among others. We rely on qualified actuaries to assist us in valuing the financial position of our pension plans, and to provide advice regarding the actuarial assumptions used. The expected rates of return on plan assets for fiscal 2008 ranged from 5.0% to 9.0%; the same as last year. We believe this range of rates reflects the long-term returns expected on the plans assets, considering recent market conditions, projected rates of inflation, the diversification of the plans assets, and the expected real rates of market returns. The discount rates used to compute plan liabilities were changed from a range of 5.20% to 5.75% in fiscal 2007 to a range of 5.25% to 6.25% in fiscal 2008. Changes in the actuarial assumptions may have a material affect on the plans assets and liabilities, and the associated pension expense. Management, together with our actuaries, monitor trends in the marketplace within which our pension plans operate in order to assure the fairness of the actuarial assumptions used.  
+
+Accounting for Income TaxesWe account for income taxes in accordance with SFAS No. 109Accounting for Income Taxes, FASB Interpretation No. 48Accounting for Uncertainty in Income Taxes, an Interpretation of FASB Statement No. 109, and other, applicable authoritative pronouncements. Judgment is required in determining our worldwide provision for income taxes. In the normal course of business, we may engage in numerous transactions every day for which the ultimate tax outcome (including the period in which the transaction will ultimately be included in taxable income or deducted as an expense) is uncertain. Additionally, the tax returns we file are subject to audit and investigation by the Internal Revenue Service, most states in the United States, and by various government agencies representing many jurisdictions outside the United States. Our effective tax rate was 36% in both fiscal 2008 and fiscal 2007. We routinely monitor the appropriateness of our worldwide tax rate, and we adjust our income tax expense in the period it is probable that actual results will differ from our estimates.  
+
+Contractual Guarantees, Litigation, Investigations, and InsuranceIn the normal course of business, we are subject to certain contractual guarantees and litigation. The guarantees to which we are a party generally relate to project schedules and plant performance. Most of the litigation involves us as a defendant in workers compensation; personal injury; environmental; employment/labor; professional liability; and other similar lawsuits. We maintain insurance coverage for various aspects of our business and operations. We have elected, however, to retain a portion of losses that occur through the use of various deductibles, limits, and retentions under our insurance programs. This situation may subject us to some future liability for which we are only partially insured, or completely uninsured. We intend to mitigate any such future liability by continuing to exercise prudent business judgment in negotiating the terms and conditions of our contracts.  
+
+35  
+
+Table of Contents 
+
+In accordance with SFAS No. 5Accounting for Contingencies, we record in our Consolidated Balance Sheets amounts representing our estimated liability relating to such guarantees, litigation, and insurance claims. We rely on qualified actuaries and other professionals to assist us in determining the level of reserves to establish for insurance-related claims that are known and have been asserted against us, and for insurance-related claims that are believed to have been incurred based on actuarial analysis, but have not yet been reported to our claims administrators as of the respective balance sheet dates. We include any adjustments to such insurance reserves in our consolidated results of operations.  
+
+In addition, as a contractor providing services to various agencies of the United States federal government, we are subject to many levels of audits, investigations, and claims by, or on behalf of, the U.S. federal government with respect to contract performance, pricing, costs, cost allocations, and procurement practices. We adjust revenues based upon the amounts we expect to realize considering the effects of any client audits or governmental investigations.  
+
+Testing Goodwill for ImpairmentIn accordance with SFAS No. 142Goodwill and Other Intangible Assets, the amount of goodwill carried in our Consolidated Balance Sheets is tested annually for possible impairment. In conducting the impairment test, we may apply, in accordance with the provisions of SFAS 142, various valuation techniques to estimate the fair value of our reporting units. The values resulting from the application of these valuation techniques are not necessarily representative of the values we might obtain in a sale of our reporting units to a willing third party.  
+
+Foreign CurrenciesWe transact business in various currencies. The functional currency of each of our foreign operations is the currency of the local country. Consequently, and in accordance with SFAS No. 52Foreign Currency Translation, revenues and expenses of operations outside the United States are translated into U.S. dollars using weighted-average exchange rates for the applicable period(s) being translated while the assets and liabilities of operations outside the United States are generally translated into U.S. dollars using period-end exchange rates. The net effect of the foreign currency translation process (translating the income statement accounts at rates that are different from those used to translate balance sheet accounts) is included in stockholders equity as a component of accumulated other comprehensive income in the accompanying Consolidated Balance Sheets. Our net exposure to foreign currency transaction gains and losses is limited because, in general, our various operations invoice clients and satisfy their financial obligations in their respective functional currencies. In situations where our operations incur contract costs in currencies other than their functional currencies, we strive to have a portion of the related contract revenues denominated in the same currencies as the costs. In those situations where revenues and costs are transacted in different currencies, we sometimes enter into foreign exchange contracts in order to limit our exposure to fluctuating foreign currencies. In those situations, we follow the provisions of SFAS No. 133Accounting for Derivative Instruments and Hedging Activities in accounting for our derivative contracts.  
+
+Results of Operations  
+
+General  
+
+Our business focuses exclusively on providing technical, professional, and construction services to a large number of industrial, commercial, and governmental clients around the world. The services we provide generally fall into four broad categories:  
+
+       Project Services (which includes engineering, design, architectural, and similar services);  
+
+       Process, Scientific, and Systems Consulting services (which includes services performed in connection with a wide variety of scientific testing, analysis, and consulting activities);  
+
+       Construction services (which encompasses traditional field construction services as well as modular construction activities, and includes direct-hire construction and construction management services); and  
+
+36  
+
+Table of Contents 
+
+       Operations and Maintenance services (which includes services performed in connection with operating large, complex facilities on behalf of clients as well as services involving process plant maintenance).  
+
+The scope of services we can provide our clients, therefore, ranges from consulting and conceptual design services (which are often required by clients in the very early stages of a project) to complete, single-responsibility, design-build-operate contracts.  
+
+The following table sets forth our revenues by type of service for each fiscal year ended September 30 (in thousands):  
+
+  [DATA_TABLE_REMOVED] 
+
+We focus our services on clients operating in certain industry groups and markets. We believe these industry groups and markets have sufficient common needs to permit cross-utilization of our resources. The following table sets forth our revenues by these industry groups and markets for each fiscal year ended September 30 (in thousands):  
+
+  [DATA_TABLE_REMOVED] 
+
+ (a) Includes projects for our clients operating in the technology and manufacturing; pulp and paper; food and consumer products; and basic resources industries, among others.  
+
+Fiscal 2008 Compared to Fiscal 2007  
+
+We recorded net earnings of $420.7 million, or $3.38 per diluted share, for the fiscal year ended September 30, 2008, compared to net earnings of $287.1 million, or $2.35 per diluted share for fiscal 2007. Total revenues for fiscal 2008 increased by $2.8 billion, or 32.8%, to $11.3 billion, compared to total revenues of $8.5 billion for fiscal 2007.  
+
+Revenues increased among all of the industry groups and markets we serve. We saw particularly robust business activity by clients in both the upstream and downstream sectors of the oil and gas industry. Capital spending by clients operating in the upstream markets continued to be positively influenced during fiscal 2008 by   
+
+37  
+
+Table of Contents 
+
+ higher crude prices. And although crude prices weakened toward the end of fiscal 2008, partly as a result of the late strengthening in the U.S. dollar, we do not expect to see large-scale delays or cancellations by most of our major clients in fiscal 2009. We believe that in certain geographic areas in which we operate, particularly in the Canadian oil sands, there will continue to be significant capital spending by our upstream oil and gas clients in fiscal 2009.  
+
+We also saw significant revenue growth in fiscal 2008 from projects for clients operating in the energy and refining sector of the petroleum market. Most of this growth related to refinery expansion projects. And although we expect such spending to continue in fiscal 2009, we believe we should begin to see increased spending on more environmentally-driven projects. We expect these projects will focus on removing sulfur and benzene from various fuels, and complying with new ambient air quality standards.  
+
+Revenues from projects for our national government clients increased by $476.2 million, or 31.7%, from last year. Most of the increase was attributable to revenues from the U.S. federal government on projects for research and development test engineering, scientific, and other technical services. Although revenues during fiscal 2008 from environmental engineering and remediation projects was relatively flat with fiscal 2007, we believe there are opportunities in this market to grow the business in the future.  
+
+Revenues from projects performed for our buildings and infrastructure clients increased by a combined $524.9 million, or 46.9%, from last year. Part of the increase in infrastructure and buildings work was due to the acquisition of Carter & Burgess, Inc. (Carter & Burgess) in November 2007. These markets also benefited from an increase in capital spending by various clients to improve and develop their transportation infrastructure, and for projects relating to hospitals, medical and research facilities, and other technical buildings and facilities.  
+
+Revenues from projects for our clients in the chemicals and polymers industries increased by $171.5 million, or 13.9%, from last year. The increase was due primarily to continuing high demand to increase production capacity.  
+
+Included in the increase in revenues for fiscal 2008 was a $770.7 million increase in pass-through costs. Pass-through costs totaled $3.5 billion in fiscal 2008 compared to $2.7 billion in fiscal 2007. When we are responsible for subcontract labor or third-party materials and equipment, we reflect the costs of such items in both revenues and costs. The level of pass-through costs included in revenues and costs will vary between reporting periods depending principally on the amount of procurement that clients choose to do themselves, as opposed to using our services, as well as on the normal ramping-up (and winding-down) of field services activities on construction and O&M projects.  
+
+As a percentage of revenues, direct costs of contracts were 84.6% for fiscal 2008, compared to 85.7% for fiscal 2007 (for the remainder of this MD&A, we refer to this percentage relationship as the DC%). The relationship between direct costs of contracts and revenues will fluctuate between reporting periods depending on a variety of factors including the mix of business during the reporting periods being compared as well as the level of margins earned from the various types of services provided. Generally speaking, the more procurement we do on behalf of our clients (i.e., where we purchase equipment and materials for use on projects, and/or procure subcontracts in connection with projects) and the more field services revenues we have relative to technical, professional services revenues, the higher the DC% will be. Because pass-through costs typically generate lower margins, it is not unusual for us to experience an increase or decrease in revenues relating to pass-through costs without experiencing a corresponding increase or decrease in our gross margins and operating profit. The decrease in the DC% in fiscal 2008 as compared to last year was due primarily to a slight increase in the margin rates earned on our technical professional services revenues.  
+
+SG&A expenses for fiscal 2008 increased by $322.0 million, or 41.9%, to $1.1 billion, compared to $769.4 million for fiscal 2007. The increase in SG&A expenses was partially due to the business growth we experienced in fiscal 2008, particularly in support of the technical professional services area of our business.   
+
+38  
+
+Table of Contents 
+
+ Generally speaking, such services require higher labor and facilities costs in order to support those activities. Also contributing to the increase in SG&A expenses was the acquisition in November 2007 of Carter & Burgess.  
+
+Operating profit for fiscal 2008 increased by $201.1 million, or 45.5%, to $643.1 million, compared to $442.0 million for fiscal 2007. As a percentage of revenues, operating profit was 5.7% for fiscal 2008, compared to 5.2% in fiscal 2007. Although the Company improved the margins earned on technical professional services during fiscal 2008 relative to last year, the increase was offset by the higher level of SG&A expenses acquired with Carter & Burgess. As the Company continues to integrate Carter & Burgess, we expect to see a reductions in SG&A expense.  
+
+Interest income for fiscal 2008 decreased by $4.3 million, or 21.8%, to $15.4 million, compared to $19.8 million for fiscal 2007. The decrease in interest income was due primarily to a lower rate of interest earned on our deposits during fiscal 2008 as compared to last year.  
+
+Interest expense for fiscal 2008 decreased by $3.6 million, or 45.0%, to $4.4 million, compared to $8.0 million for fiscal 2007. The decrease in interest expense was due primarily to lower average borrowings outstanding during fiscal 2008 as compared to last year.  
+
+Miscellaneous income, net for fiscal 2008 increased $8.4 million to $3.3 million as compared to last year. Included in this amount is a $10.6 million gain from the sale, recognized in the first quarter of fiscal 2008, of the Companys interest in a business that provides specialized operations and maintenance services for highways and associated facilities.  
+
+We recorded income tax expense of $236.7 million during fiscal 2008, compared to $161.5 million during fiscal 2007. Our overall effective tax rate in fiscal 2008 was 36%the same as fiscal 2007. In the normal course of our business, we may engage in numerous transactions for which the ultimate tax outcome (including the period in which the transaction will ultimately be included in income or deducted as an expense) is uncertain. Additionally, we file income, franchise, gross receipts and similar tax returns in many jurisdictions. Our tax returns are subject to audit and investigation by the Internal Revenue Service, most states in the United States, and by various government agencies representing many jurisdictions outside the United States. We continually monitor the appropriateness of the rate, and we adjust our income tax expense in the period it is probable that actual results will change.  
+
+Fiscal 2007 Compared to Fiscal 2006  
+
+We recorded net earnings of $287.1 million, or $2.35 per diluted share, for fiscal year ended September 30, 2007, compared to net earnings of $196.9 million, or $1.64 per diluted share for the year ended September 30, 2006.  
+
+Total revenues for fiscal 2007 increased by $1.1 billion, or 14.2%, to $8.5 billion, compared to total revenues of $7.4 billion for fiscal 2006. Revenues increased among most of the industry groups and markets we serve, lead by a combined, $608.4 million increase, or 21.7%, in revenues from clients operating in the energy and refining, and the upstream oil and gas industries. Also contributing to the revenue growth in fiscal 2007 were a $240.6 million increase, or 19.1%, in revenues from projects for our national government programs clients; a $114.1 million increase, or 10.1%, in revenues from projects for our clients operating in the chemicals and polymers industries; and a $134.4 million increase, or 24.6%, in revenues from projects for our infrastructure clients.  
+
+With respect to projects for our clients operating in the oil and gas and refining industries, revenue from the downstream sector grew by $264.1 million in fiscal 2007, or 11.7%, compared to fiscal 2006. Most of this increase related to higher capital spending on projects involving the reconfiguration and expansion of existing refineries, and addressing the effects of changing crude inputs  from lighter crudes to heavier crudes that contain   
+
+39  
+
+Table of Contents 
+
+ slightly higher levels of sulfur. We also saw increases in capital spending by many of our refinery clients involving projects driven by government regulations. These include projects to comply with the nonroad diesel emission and other similar standards. Revenue from the upstream sector of the oil & gas and refining industries grew by $344.3 million in fiscal 2007, or 63.0%, compared to fiscal 2006. We saw a high level of spending in fiscal 2007 by our clients on oil and gas extraction projects, particularly in the oil sands area of Canada.  
+
+Revenues from projects for our national government programs clients increased by $240.6 million in fiscal 2007, or 19.1%, compared to fiscal 2006. Most of the increase was due to higher levels of revenue from the U.S. federal government relating to various aerospace and defense projects. Revenues from projects for our clients in the chemicals and polymers industries increased by $114.1 million in fiscal 2007, or 10.1%, compared to fiscal 2006 due to continued demand to increase production capacity. Revenues from projects performed for our infrastructure clients increased by $134.4 million in fiscal 2007, or 24.6%, compared to fiscal 2006. Part of the increase was due to the acquisition of Edwards and Kelcey, Inc. (Edwards and Kelcey) in April 2007. Edwards and Kelcey contributed $67.2 million in revenues during fiscal 2007. The balance of the increase in infrastructure revenues was due to higher spending by clients on projects for improved roads, highways, and bridges.  
+
+Included in the above increase in revenues was a $66.0 million increase in pass-through costs. Pass through costs totaled $2,746.7 million in fiscal 2007 compared to $2,680.7 million in fiscal 2006. Pass through costs as a percentage of field services revenues in fiscal 2007 and 2006 were essentially unchanged.  
+
+The DC% was 85.7% for fiscal 2007, compared to 87.4% for fiscal 2006. The decrease in the DC% in fiscal 2007 as compared to fiscal 2006 was due primarily to the increase in technical professional services revenues relative to field services revenues. Also contributing to the decrease in the DC% was a slight increase in the margin rates earned on our technical professional services revenues.  
+
+SG&A expenses for fiscal 2007 increased by $136.7 million, or 21.6%, to $769.4 million, compared to $632.7 million for fiscal 2006. The increase in SG&A expenses was due almost entirely to the business growth we experienced in fiscal 2007, particularly in support of the technical professional services area of our business. Generally speaking, such services require higher labor and facilities costs in order to support those activities. Also contributing to the increase in SG&A expenses was the acquisition of Edwards and Kelcey, which contributed $22.8 million of SG&A expenses in fiscal 2007.  
+
+Operating profit for fiscal 2007 increased by $140.4 million, or 46.6%, to $442.0 million, compared to $301.6 million for fiscal 2006. As a percentage of revenues, operating profit was 5.2% for fiscal 2007 compared to 4.1% in fiscal 2006. The increase in operating profit during fiscal 2007 as compared to fiscal 2006 was due primarily to the increase in technical professional services revenues; the improvement in our level of SG&A expenses relative to technical professional services revenues; and a slight improvement in the margin rates earned on our technical professional services revenues.  
+
+Interest income for fiscal 2007 increased by $4.6 million, or 29.9%, to $19.8 million, compared to $15.2 million for fiscal 2006. The increase in interest income was due primarily to higher average cash balances on deposit during fiscal 2007 as compared to fiscal 2006 combined with a slight increase in the rate of interest earned on our deposits.  
+
+We recorded income tax expense of $161.5 million during fiscal 2007, compared to $108.4 million during fiscal 2006. Our overall effective tax rate was 36.0% for fiscal 2007 compared to 35.5% in fiscal 2006. The Companys overall effective tax rate for fiscal 2006 was positively affected by the favorable settlement of a matter with the U.S. Internal Revenue Service (IRS), off-set in part by provisions recorded for certain other income tax exposures. The net effect of the IRS settlement and the other income tax exposures was a net reduction of $1.5 million to the fiscal 2006 total tax expense. In the normal course of our business, we may engage in numerous transactions for which the ultimate tax outcome (including the period in which the transaction will ultimately be included in income or deducted as an expense) is uncertain. Additionally, we file   
+
+40  
+
+Table of Contents 
+
+ income, franchise, gross receipts and similar tax returns in many jurisdictions. Our tax returns are subject to audit and investigation by the Internal Revenue Service, most states in the United States, and by various government agencies representing many jurisdictions outside the United States. We continually monitor the appropriateness of the rate, and we adjust our income tax expense in the period it is probable that actual results will change.  
+
+Contractual Obligations  
+
+The following table sets forth certain information about our contractual obligations as of September 30, 2008 (in thousands):  
+
+  [DATA_TABLE_REMOVED] 
+
+ (a) Assumes the Company will make end of lease term residual value guarantee payments of $35.3 million in 2011 and $38.8 million in 2015 with respect to the lease of two office buildings in Houston, Texas.  
+
+ (b) Assumes that future contributions will be consistent with amounts projected to be contributed in fiscal 2009, allowing for certain growth based on rates of inflation and salary increases, but limited to the amount recorded as of September 30, 2008. Actual contributions will depend on a variety of factors, including amounts required by local laws and regulations, and other funding requirements.  
+
+ (c) Assumes that future payments will be consistent with amounts paid in fiscal 2008, allowing for certain growth. Due to the nonqualified nature of the plans, and the fact that benefits are based in part on years of service, the payments included in the schedule were limited to the amount recorded as of September 30, 2008.  
+
+ (d) Represents those liabilities estimated to be under firm contractual commitments as of September 30, 2008.  
+
+Backlog  
+
+The following table summarizes our backlog at September 30, 2008, 2007, and 2006 (in millions):  
+
+  [DATA_TABLE_REMOVED] 
+
+Because the entire value of a contract is added to backlog as soon as the contract is awarded to us (rather than adding the contracts to backlog gradually over time), and because many of our contracts require us to provide services that span over a number of fiscal quarters (and sometimes over fiscal years), we evaluate our backlog on a year-over-year basis, rather than on a sequential, quarter-over-quarter basis. Our backlog at September 30, 2008 increased by $3.1 billion, or 22.9%, to $16.7 billion from $13.6 billion at September 30, 2007. The increase in backlog during fiscal 2008 was attributable primarily to new awards from clients operating in the downstream energy and refining, and national government programs.  
+
+41  
+
+Table of Contents 
+
+In accordance with industry practice, substantially all of our contracts are subject to cancellation or termination at the discretion of the client. During the fourth quarter of fiscal 2008 we removed $2.36 billion of revenue from backlog relating to a project in the Canadian oil sands. We removed the revenue, which would have been performed over the next three fiscal years, after being informed by the client that he intends to transfer the remaining phases of the project to another contractor. The clients decision was the result of a breakdown in our relationship with the client. Of the amount removed from backlog, $2.27 billion was in field services, substantially in the form of pass-through revenues. We are working diligently to rebuild our relationship with this customer. In a situation where a client terminates a contract, we would ordinarily be entitled to receive payment for work performed up to the date of termination and, in certain instances, we may be entitled to allowable termination and cancellation costs.  
+
+While management uses all information available to it to determine backlog, our backlog at any given time is subject to changes in the scope of services to be provided as well as increases or decreases in costs relating to the contracts included therein.  
+
+Total backlog at September 30, 2008 included approximately $3.4 billion, or 20.4% of total backlog, relating to work to be performed either directly or indirectly for the U.S. federal government and its agencies. This compares to approximately $2.2 billion, or 16.5% of total backlog, and $2.2 billion, or 22.3% of total backlog, of U.S. federal backlog at September 30, 2007 and 2006, respectively. Most of our federal contracts require that services be provided beyond one year. In general, these contracts must be funded annually (i.e., the amounts to be spent under the contract must be appropriated by the U.S. Congress to the procuring agency, and then the agency must allot these sums to the specific contracts).  
+
+Subject to the factors discussed in Item 1ARisk Factors, above, we estimate that approximately $9.4 billion, or 56.3%, of total backlog at September 30, 2008 will be realized as revenues within the next fiscal year.  
+
+Effects of Inflation  
+
+The effects of inflation on our business is discussed in detail in Item 1ARisk Factors, and is incorporated herein by reference.  
+
+Liquidity and Capital Resources  
+
+We finance our operations primarily through cash provided by operations. At September 30, 2008, our principal source of liquidity consisted of $604.4 million of cash and cash equivalents, and $234.3 million of available capacity under our $290.0 million unsecured, revolving credit facility discussed below.  
+
+During fiscal 2008, our cash and cash equivalents decreased by $8.9 million, to $604.4 million. This compares to an increase in cash and cash equivalents of $179.3 million during fiscal 2007, and an increase of $194.2 million during fiscal 2006. During fiscal 2008, we generated net cash inflows from operating activities and financing activities of $313.4 million and $98.8 million, respectively. These inflows were offset by outflows from investing activities of $409.9 million and the effect of exchange rate changes of $11.2 million.  
+
+Our operations provided net cash of $313.4 million during fiscal 2008. This compares to net cash inflows of $360.9 million and $223.5 million during fiscal 2007 and 2006, respectively. The $47.5 million decrease in cash provided by operations in fiscal 2008 as compared to fiscal 2007 was due primarily to a $172.4 million decrease relating to the timing of cash receipts and payments within our working capital accounts; a $17.1 million decrease relating to higher stock based compensation (including the related excess tax benefits); and $10.6 million of gains relating to sales of investments and other assets (the cash flows from which are reclassified to the investing section within our Consolidated Statements of Cash Flows). These decreases in cash flows from operations were offset in part by a $133.6 million increase in net earnings; a $14.0 million increase in depreciation and amortization of property, equipment and improvements; and a $3.4 million increase in the amortization of intangible assets.  
+
+42  
+
+Table of Contents 
+
+We used $409.9 million of cash and cash equivalents for investing activities during fiscal 2008. This compares to net cash outflow of $165.8 million and $67.6 million during fiscal 2007 and 2006, respectively. The $244.1 million increase in cash used for investing activities as compared to fiscal 2007 was due primarily to an additional $175.3 million increase in cash used for acquisitions of businesses (net of cash acquired), a $51.3 million increase in cash used for additions to property and equipment, net of disposals, and changes in miscellaneous non-current assets of $27.8 million. These uses were offset in part by a $10.3 million change in investments, net (included in this amount is $14.1 million of cash received in connection with the sale of our interest in a company that provides specialized operations and maintenance services for highways and associated facilities ).  
+
+We used a total of $264.1 million of cash, net of cash acquired and inclusive of acquisition related costs during fiscal 2008 to acquire, among other businesses, Carter & Burgess, Inc., Lindsey Engineering Services Limited, and a 60% interest in Zamel & Turbag Consulting Engineers.  
+
+Our financing activities resulted in net cash inflows of $98.8 million during fiscal 2008. This compares to net cash outflows of $20.3 million during fiscal 2007 and cash inflows of $48.3 million during fiscal 2006. The $119.1 million increase in cash flows from financing activities during fiscal 2008 as compared to fiscal 2007 was due primarily to a $67.7 million net increase in cash flows relating to our borrowing activities, a $32.1 million increase in cash flows attributable to issuances of common stock (including the related excess tax benefits), and a $19.2 million increase to other, long-term deferred liabilities.  
+
+The sub-prime mortgage crisis and the resulting economic downturn have significantly impacted the capital and credit markets. Although it is presently not possible to predict the full effect this situation will have on us, the following is a discussion of some of the risks and possible consequences. Also, please refer to Item 1ARisk Factors, above.  
+
+Risks associated with our customers ability to pay for services and finance projectsAlthough our customer base includes the U.S. and other national governments, as well as a wide range of large, national and multi-national companies operating in a very diverse range of markets, we believe its possible that the current economic downturn and credit crisis may affect some of our customers ability to access the capital they may require to complete their projects. This situation could affect us two ways: First, payments on our accounts receivable may not occur or be delayed. Second, clients may be forced to delay projects that have been awarded to us. If either or both of these situations were to occur, it could have a significant impact on our cash flows. It could also affect our future profitability if major projects are delayed too long, or if they are cancelled altogether. We continue to monitor our accounts receivable very closely. We also stay in touch with our core clients and work closely with them monitoring the economic viability and status of their projects and programs.  
+
+Risks associated with our existing credit agreementWe have a long-term, unsecured revolving credit facility providing up to $290.0 million of debt capacity. This facility is provided by a consortium of twelve banks, one of which was the subject of an acquisition transaction necessitated by severe debt and liquidity pressures. A second bank in the consortium, also suffering from liquidity pressures, has been actively seeking additional capital, outside of the ordinary course of business, from investors and the government. These two banks provide approximately 16% of the total credit under the facility. Although only $55.7 million was outstanding under this facility at September 30, 2008, we rely on this facility to help fund our acquisition transactions as well as provide working capital. The inability of one or more banks in the consortium to meet its commitment under the credit facility could impede our future growth. However, after reviewing the credit worthiness of the banks in the consortium, we have no reason to believe that access to the credit facility is materially at-risk.  
+
+Risks associated with our ability to access short-term assetsOur cash balances and short-term investments are maintained in accounts held by major banks and financial institutions located primarily in North America, Europe, and Asia. None of the banks in which we hold our cash and investments have gone into bankruptcy or   
+
+43  
+
+Table of Contents 
+
+ forced receivership, or have been taken-over by their governments. Some of our accounts hold deposits in amounts that exceed available insurance. Although there is no guaranty that one or more banks in which we hold our cash and investments will not fail, we do not believe, at present, there is a material risk to our ability to access these short-term assets.  
+
+We believe we have adequate liquidity and capital resources to fund our operations and service our debt for the foreseeable future. We had $604.4 million in cash and cash equivalents at September 30, 2008, compared to $613.4 million at September 30, 2007. Our consolidated working capital position at September 30, 2008 was $1.2 billion, compared to $1.0 billion at September 30, 2007. We have a long-term, unsecured revolving credit facility providing up to $290.0 million of debt capacity, under which only $55.7 million was utilized at September 30, 2008 in the form of direct borrowings. We believe that the capacity, terms and conditions of our long-term revolving credit facility is adequate for our working capital and general business requirements.  
+
+Off-Balance Sheet Arrangements  
+
+We are party to financial instruments with off-balance sheet risk, in the form of guarantees not reflected in our balance sheet that arise in the normal course of business. However, such off balance sheet arrangements will not have, nor are they reasonably likely to have, an effect on our financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or resources that is material to investors. See Note 10 Commitments and Contingencies, and Derivative Financial Instruments of Notes to Consolidated Financial Statements beginning on page F-1 of this Annual Report on Form 10-K.  
+
+New Accounting Pronouncements  
+
+In September 2006, the FASB issued Statement of Financial Accounting Standards No. 157Fair Value Measurements. SFAS 157 provides a common definition of fair value and establishes a framework to make the measurement of fair value in generally accepted accounting principles more consistent and comparable. SFAS 157 also requires expanded disclosures to provide information about the extent to which fair value is used to measure assets and liabilities, the methods and assumptions used to measure fair value, and the effect of fair value measures on earnings. SFAS 157 is effective for the Companys 2009 fiscal year, although early adoption is permitted. Although the Company continues to assess the potential effects of SFAS 157, it does not believe that the adoption of SFAS 157 will have a material affect on its consolidated financial statements.  
+
+ Item 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK

@@ -1,0 +1,331 @@
+ITEM 7.MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+This discussion and analysis of financial condition and results of operations should be read in conjunction with our consolidated financial statements and accompanying notes included in Item 8. "Financial Statements and Supplementary Data."
+
+Cautionary Statement
+
+The statements in this Management's Discussion and Analysis that are forward-looking, within the meaning of the Private Securities Litigation Reform Act of 1995, involve numerous risks and uncertainties and are based on current expectations. The reader should not place undue reliance on these forward-looking statements. Our actual results could differ materially from those anticipated in these forward-looking statements for many reasons, including those risks discussed under "Risk Factors" and elsewhere in this document. Often, forward-looking statements can be identified by the use of forward-looking words, such as "anticipates," "believes," "continue," "could," "estimates," "expects," "intends," "may," "plans," "projects," "should," "will," "would" and other similar terminology, or the negative of such terms. We disclaim any responsibility to update or revise any forward-looking statement provided in this Management's Discussion and Analysis for any reason.
+
+Nature of Operations
+
+We design and develop programmable devices and associated technologies, including ICs in the form of PLDs, software design tools and predefined system functions delivered as IP. In addition to our programmable platforms, we provide design services, customer training, field engineering and technical support. Our PLDs include FPGAs, CPLDs and programmable SoCs. These devices are standard products that our customers program to perform desired logic functions. Our products are designed to provide high integration and quick time-to-market for electronic equipment manufacturers in end markets such as Communication & Data Center, Industrial, Aerospace & Defense, and Broadcast, Consumer & Automotive. We sell our products globally through independent domestic and foreign distributors and through direct sales to OEMs by selected independent sales representative firms and by a direct sales management organization.
+
+Critical Accounting Policies and Estimates
+
+The methods, estimates and judgments we use in applying our most critical accounting policies have a significant impact on the results we report in our consolidated financial statements. The SEC has defined critical accounting policies as those that are most important to the portrayal of our financial condition and results of operations and require us to make our most difficult and subjective judgments, often as a result of the need to make estimates of matters that are inherently uncertain. Based on this definition, our critical accounting policies include: valuation of marketable securities, which impacts losses on debt and equity securities when we record impairments; revenue recognition, which impacts the recording of revenues; and valuation of inventories, which impacts cost of revenues and gross margin. Our critical accounting policies also include: the assessment of impairment of long-lived assets which impacts their valuation; the assessment of the recoverability of goodwill, which impacts goodwill impairment; accounting for income taxes, which impacts the provision or benefit recognized for income taxes, as well as, the valuation of deferred tax assets recorded on our consolidated balance sheet; and valuation and recognition of stock-based compensation, which impacts gross margin, R&D expenses, and selling, general and administrative (SG&A) expenses. Below, we discuss these policies further, as well as the estimates and judgments involved. We also have other key accounting policies that are not as subjective, and therefore, their application would not require us to make estimates or judgments that are as difficult, but which nevertheless could significantly affect our financial reporting.
+
+Valuation of Marketable Securities and Non-marketable Securities
+
+Our short-term and long-term investments consist of primarily marketable debt, and to a lesser extent equity securities. As of March 31, 2018, we had marketable debt and equity securities with a fair value of $2.18 billion.
+
+We determine the fair values for marketable debt and equity securities using industry standard pricing services, data providers and other third-party sources and by internally performing valuation testing and analyses. See "Note 3. Fair Value Measurements" to our consolidated financial statements, included in Item 8. "Financial Statements and Supplementary Data," for details of the valuation methodologies. In determining if and when a decline in value below the adjusted cost of marketable debt and equity securities is other than temporary, we evaluate on an ongoing basis the market conditions, trends of earnings, financial condition, credit ratings, any underlying collateral and other key measures for our investments. We did not record any other-than-temporary impairment for marketable debt or equity securities in fiscal 2018, 2017 or 2016.
+
+29
+Our investments in non-marketable equity securities of private companies are accounted for by using the cost method. These investments are measured at fair value on a non-recurring basis when they are deemed to be other-than-temporarily impaired. In determining whether a decline in value of non-marketable equity investments in private companies has occurred and is other than temporary, an assessment is made by considering available evidence, including the general market conditions in the investee’s industry, the investee’s product development status and subsequent rounds of financing and the related valuation and/or our participation in such financings. We also assess the investee’s ability to meet business milestones and the financial condition and near-term prospects of the individual investee, including the rate at which the investee is using its cash, the investee’s need for possible additional funding at a lower valuation and any bona fide offer to purchase the investee from a prospective acquirer. The valuation methodology for determining the fair value of non-marketable equity securities is based on the factors noted above which require management judgment and are Level 3 inputs. See “Note 3. Fair Value Measurements” to our consolidated financial statements, included in Item 8. “Financial Statements and Supplementary Data,” for additional information. When a decline in value is deemed to be other than temporary, we recognize an impairment loss in the current period’s operating results to the extent of the decline. The impairments loss for non-marketable equity securities were not material during all periods presented.
+
+Revenue Recognition
+
+Sales to distributors are made under agreements providing distributor price adjustments and rights of return under certain circumstances. Revenue and costs relating to distributor sales are deferred until products are sold by the distributors to the distributors' end customers (our revenue recognition policy will change starting fiscal 2019, See "Note 2. Summary of Significant Accounting Policies and Concentrations of Risk" to our consolidated financial statements, included in Item 8). For fiscal 2018, approximately 53% of our net revenues were from products sold to distributors for subsequent resale to OEMs or their subcontract manufacturers. Revenue recognition depends on notification from the distributor that product has been sold to the distributor's end customer. Also reported by the distributor are product resale price, quantity and end customer shipment information, as well as inventory on hand. Reported distributor inventory on hand is reconciled to deferred revenue balances monthly. We maintain system controls to validate distributor data and to verify that the reported information is accurate. Deferred income on shipments to distributors reflects the estimated effects of distributor price adjustments and the estimated amount of gross margin expected to be realized when distributors sell through product purchased from us. Accounts receivable from distributors are recognized and inventory is relieved when title to inventories transfers, typically upon shipment from Xilinx at which point we have a legally enforceable right to collection under normal payment terms.
+
+As of March 31, 2018, we had $31.8 million of deferred revenue and $6.6 million of deferred cost of revenues recognized as a net $25.2 million of deferred income on shipments to distributors. As of April 1, 2017, we had $74.2 million of deferred revenue and $19.6 million of deferred cost of revenues recognized as a net $54.6 million of deferred income on shipments to distributors. The deferred income on shipments to distributors that will ultimately be recognized in our consolidated statement of income will be different than the amount shown on the consolidated balance sheet due to actual price adjustments issued to the distributors when the product is sold to their end customers.
+
+Revenue from sales to our direct customers is recognized upon shipment provided that persuasive evidence of a sales arrangement exists, the price is fixed, title has transferred, collection of resulting receivables is reasonably assured, and there are no customer acceptance requirements and no remaining significant obligations. For each of the periods presented, there were no significant formal acceptance provisions with our direct customers.
+
+Revenue from software licenses is deferred and recognized as revenue over the term of the licenses of one year. Revenue from support services is recognized when the service is performed. Revenue from software licenses and support services were less than 5% of net revenues for all of the periods presented.
+
+Allowances for end customer sales returns are recorded based on historical experience and for known pending customer returns or allowances.
+
+Valuation of Inventories
+
+Inventories are stated at the lower of actual cost (determined using the first-in, first-out method) or market (estimated net realizable value). The valuation of inventory requires us to estimate excess or obsolete inventory as well as inventory that is not of salable quality. We review and set standard costs quarterly to approximate current actual manufacturing costs. Our manufacturing overhead standards for product costs are calculated assuming full absorption of actual spending over actual volumes. Given the cyclicality of the market, the obsolescence of technology and product lifecycles, we write down inventory based on forecasted demand and technological obsolescence. These forecasts are developed based on inputs from our customers, including bookings and extended 
+
+30
+but uncommitted demand forecasts, and internal analyses such as customer historical purchasing trends and actual and anticipated design wins, as well as market and economic conditions, technology changes, new product introductions and changes in strategic direction. These factors require estimates that may include uncertain elements. The estimates of future demand that we use in the valuation of inventory are the basis for our published revenue forecasts, which are also consistent with our short-term manufacturing plans. The differences between our demand forecast and the actual demand in the recent past have not resulted in any material write down in our inventory. If our demand forecast for specific products is greater than actual demand and we fail to reduce manufacturing output accordingly, we could be required to write down additional inventory, which would have a negative impact on our gross margin.
+
+Impairment of Long-Lived Assets
+
+Long-lived assets to be held and used are reviewed for impairment if indicators of potential impairment exist. Impairment indicators are reviewed on a quarterly basis. When indicators of impairment exist and assets are held for use, we estimate future undiscounted cash flows attributable to the assets. In the event such cash flows are not expected to be sufficient to recover the recorded value of the assets, the assets are written down to their estimated fair values based on the expected discounted future cash flows attributable to the assets or based on appraisals. Factors affecting impairment of assets held for use include the ability of the specific assets to generate separately identifiable positive cash flows. 
+
+When assets are removed from operations and held for sale, we estimate impairment losses as the excess of the carrying value of the assets over their fair value. Market conditions are amongst the factors affecting impairment of assets held for sale. Changes in any of these factors could necessitate impairment recognition in future periods for assets held for use or assets held for sale. 
+
+Long-lived assets such as property, plant and equipment are considered non-financial assets, and are only measured at fair value when indicators of impairment exist.
+
+Goodwill
+
+Goodwill is not amortized but is subject to impairment tests on an annual basis, or more frequently if indicators of potential impairment exist, and goodwill is written down when it is determined to be impaired. We perform an annual impairment review in the fourth quarter of each fiscal year and compare the fair value of the reporting unit in which the goodwill resides to its carrying value. If the carrying value exceeds the fair value, the goodwill of the reporting unit is potentially impaired. For purposes of impairment testing, Xilinx operates as a single reporting unit. We use the quoted market price method to determine the fair value of the reporting unit. Based on the impairment review performed during the fourth quarter of fiscal 2018, there was no impairment of goodwill in fiscal 2018. Unless there are indicators of impairment, our next impairment review for goodwill will be performed and completed in the fourth quarter of fiscal 2019. To date, no impairment indicators have been identified.
+
+Accounting for Income Taxes
+
+Xilinx is a multinational corporation operating in multiple tax jurisdictions. We must determine the allocation of income to each of these jurisdictions based on estimates and assumptions and apply the appropriate tax rates for these jurisdictions. We undergo routine audits by taxing authorities regarding the timing and amount of deductions and the allocation of income among various tax jurisdictions. Tax audits often require an extended period of time to resolve and may result in income tax adjustments if changes to the allocation are required between jurisdictions with different tax rates. 
+
+In determining income for financial statement purposes, we must make certain estimates and judgments. These estimates and judgments occur in the calculation of certain tax liabilities and in the determination of the recoverability of certain deferred tax assets, which arise from temporary differences between the tax and financial statement recognition of revenue and expense. Additionally, we must estimate the amount and likelihood of potential losses arising from audits or deficiency notices issued by taxing authorities. The taxing authorities' positions and our assessment can change over time resulting in a material effect on the provision for income taxes in periods when these changes occur. 
+
+We must also assess the likelihood that we will be able to recover our deferred tax assets. If recovery is not likely, we must increase our provision for taxes by recording a reserve in the form of a valuation allowance for the deferred tax assets that we estimate will not ultimately be recoverable. 
+
+We perform a two-step approach to recognize and measure uncertain tax positions relating to accounting for income taxes. The first step is to evaluate the tax position for recognition by determining if the weight of available evidence indicates that it is more likely than not that the position will be sustained on audit, including resolution of related appeals or litigation processes, if any. The second step is to measure the tax benefit as the largest amount that is more than 50% likely of being ultimately realized. 
+
+31
+We have recorded provisional estimates associated with the December 22, 2017 enactment of the Tax Cuts and Jobs Act (TCJA). The SEC has provided accounting and reporting guidance that allows us to report provisional amounts within a measurement period up to one year due to the complexities inherent in adopting the changes. As of March 31, 2018, we consider the estimates for the one-time transition tax and for the deferred tax liabilities for U.S. taxes on investments in foreign subsidiaries to be provisional. New guidance from regulators, interpretation of U.S. federal and state laws, and refinement of our estimates from ongoing analysis of data and tax positions may change these provisional amounts. See "Note 14. Income Taxes" to our consolidated financial statements included in Item 8. "Financial Statements and Supplementary Data."
+
+Stock-Based Compensation
+
+Determining the appropriate fair-value model and calculating the fair value of stock-based awards at the date of grant requires judgment. We use the Black-Scholes option-pricing model to estimate the fair value of rights to purchase shares under our ESPP. Option pricing models, including the Black-Scholes model, also require the use of input assumptions, including expected stock price volatility, expected life, expected dividend rate, expected forfeiture rate and expected risk-free rate of return. We use implied volatility based on traded options in the open market as we believe implied volatility is more reflective of market conditions and a better indicator of expected volatility than historical volatility. We will continue to review our input assumptions and make changes as deemed appropriate depending on new information that becomes available. Higher volatility and expected lives result in a proportional increase to stock-based compensation determined at the date of grant. The expected dividend rate and expected risk-free rate of return do not have as significant an effect on the calculation of fair value. 
+
+In addition, we developed an estimate of the number of stock-based awards which will be forfeited due to employee turnover. Quarterly changes in the estimated forfeiture rate have an effect on reported stock-based compensation, as the effect of adjusting the rate for all expense amortization is recognized in the period the forfeiture estimate is changed. If the actual forfeiture rate is higher than the estimated forfeiture rate, then an adjustment is made to increase the estimated forfeiture rate, which will result in a decrease to the expense recognized in the financial statements. If the actual forfeiture rate is lower than the estimated forfeiture rate, then an adjustment is made to decrease the estimated forfeiture rate, which will result in an increase to the expense recognized in the financial statements. The impact of forfeiture true up was not material for all periods presented. The expense we recognize in future periods could also differ significantly from the current period and/or our forecasts due to adjustments in the assumed forfeiture rates.
+
+Results of Operations
+
+The following table sets forth statement of income data as a percentage of net revenues for the fiscal years indicated:
+
+[DATA_TABLE_REMOVED]
+
+Net Revenues
+
+[DATA_TABLE_REMOVED]
+
+32
+Net revenues in fiscal 2018 were $2.54 billion, an increase of 8% as compared to fiscal 2017. Advanced Products revenues increased 28% in fiscal 2018 but were partially offset by declines from our Core Products. The increase in Advanced Products was due to higher Advanced Products sales across all end markets, especially in Industrial, Aerospace & Defense and Broadcast, Consumer & Automotive. Net revenues in fiscal 2017 were $2.35 billion, an increase of 6% as compared to fiscal 2016. Advanced Products revenues increased 45% in fiscal 2017 but were partially offset by declines from our Core Products. The increase in Advanced Products was due to higher sales across all end markets, especially in Communications & Data Center and Industrial, Aerospace & Defense. See also "Net Revenues by Product" and "Net Revenues by End Markets" below for more information on our product and end market categories.
+
+No end customer accounted for more than 10% of net revenues for any of the periods presented.
+
+Net Revenues by Product
+
+We sell our products to global manufacturers of electronic products in end markets such as Communication & Data Center, Industrial, Aerospace & Defense, and Broadcast, Consumer & Automotive. The vast majority of our net revenues are generated from sales of our semiconductor products, but we also generate sales from support products. We classify our product offerings into two categories: Advanced Products and Core Products:
+
+•Advanced Products are our most recent product offerings and include the UltraScale+, UltraScale and 7-series product families.
+
+•Core Products are all other product families.
+
+These product categories are modified on a periodic basis to better reflect the maturity of the products and advances in technology. The most recent modification was made on April 3, 2016, which was the beginning of our fiscal 2017, whereby we reclassified our product categories to be consistent with how these categories are analyzed and reviewed internally. Specifically, we have grouped the products manufactured at the 28nm, 20nm and 16nm nodes into a category named Advanced Products while all other products are included in a category named Core Products. 
+
+Net revenues by product categories for the fiscal years indicated were as follows:
+
+[DATA_TABLE_REMOVED]
+
+Net revenues from Advanced Products increased significantly in fiscal 2018 as a result of sales growth from our 28nm, 20nm and 16nm product families. Sales from our 28nm products were approximately $900.0 million, while sales from our 20nm and 16nm products exceeded $300.0 million and $100.0 million, respectively, during fiscal 2018. We expect sales of Advanced Products to continue to grow as more customer programs enter into volume production with our 28nm, 20nm and 16nm products. In fiscal 2017, growth across all nodes of our Advanced Products families contributed to the strong revenue growth versus the comparable prior year period.
+
+Net revenues from Core Products decreased in both fiscal 2018 and fiscal 2017 from the comparable prior year periods. The decrease in fiscal 2018 was largely driven by the decline in sales from our Virtex-5, Virtex-6 and Spartan-3 product families, while the decrease in fiscal 2017 was largely due to the decline in sales from our Spartan-3 and Virtex-6 product families. 
+
+Net Revenues by End Markets
+
+Our end market revenue data is derived from our understanding of our end customers' primary markets. We classify our net revenues by end markets into the following three categories: Communications & Data Center; Industrial, Aerospace & Defense; and Broadcast, Consumer & Automotive. The percentage change calculation in the table below represents the year-to-year dollar change in each end market.
+
+33
+Net revenues by end markets for fiscal years indicated were as follows:
+
+[DATA_TABLE_REMOVED]
+
+Net revenues from Communications & Data Center decreased in fiscal 2018, but increased in fiscal 2017 from the comparable prior year periods. The decrease in fiscal 2018 was primarily due to lower sales from wireline and wireless. The increase in fiscal 2017 from the comparable prior year period was primarily due to higher sales from wireless, and to a lesser extent from wireline and data center. 
+
+Net revenues from Industrial, Aerospace & Defense increased in fiscal 2018 from the comparable prior year period. The increase in fiscal 2018 was primarily due to higher sales from all sub-segments, primarily aerospace and defense and test and measurement. Net revenues from Industrial, Aerospace & Defense increased in fiscal 2017 from the comparable prior year period. The increase in fiscal 2017 was primarily due to higher sales from test and measurement and aerospace and defense, partially offset by a decrease in sales from industrial, scientific and medical. 
+
+Net revenues from Broadcast, Consumer & Automotive increased in fiscal 2018 and slightly in fiscal 2017 from the comparable prior year periods. The increase in fiscal 2018 was due to higher sales from all sub-segments, primarily consumer. The slight increase in fiscal 2017 was due to higher sales from automotive. 
+
+Net Revenues by Geography
+
+Geographic revenue information reflects the geographic location of the distributors, OEMs or contract manufacturers who purchased our products. This may differ from the geographic location of the end customers. Net revenues by geography for the fiscal years indicated were as follows:
+
+[DATA_TABLE_REMOVED]
+
+Net revenues in North America increased in fiscal 2018 from the comparable prior year period. The increase was primarily due to higher sales from Aerospace and Defense. Net revenues in North America increased in fiscal 2017 from the comparable prior year period. The increase was primarily due to higher sales from Test and Measurement. 
+
+Net revenues in Asia Pacific increased in fiscal 2018 from the comparable prior year period. The increase was primarily due to higher sales from Consumer, and to a lesser extent from Industrial, Scientific and Medical. Net revenues in Asia Pacific increased in fiscal 2017 from the comparable prior year period, which was primarily driven by higher sales from Wireless Communications.
+
+Net revenues in Europe increased in fiscal 2018 and in fiscal 2017 from the comparable prior year periods. The increases were primarily due to higher sales from Test and Measurement, partially offset by lower revenues from Wireless Communications. 
+
+Net revenues in Japan increased in fiscal 2018 from the comparable prior year period. The increase was primarily driven by higher sales in Test and Measurement and Industrial, Scientific and Medical. Net revenues in Japan decreased in fiscal 2017 from the comparable prior year period, which was primarily driven by lower sales in Industrial, Scientific and Medical.
+
+34
+Gross Margin 
+
+[DATA_TABLE_REMOVED]
+
+Gross margin was slightly higher by 0.3 and 0.2 percentage point in fiscal 2018 and in fiscal 2017, respectively, from the comparable prior year periods. The slight increases in gross margin for both periods were primarily due to end-market mix, as the percentage of revenue derived from Industrial, Aerospace & Defense (which has relatively higher gross margin) has increased while the percentage of revenue from Communications & Data Center has decreased in the past two years.
+
+Gross margin may be affected in the future due to multiple factors, including but not limited to those set forth above in "Risk Factors," included in Part I of this Form 10-K, shifts in the mix of customers and products, competitive-pricing pressure, manufacturing-yield issues and wafer pricing. We expect to mitigate any adverse impacts from these factors by continuing to improve yields on our Advanced Products, improve manufacturing efficiencies and improve average selling price management.
+
+In order to compete effectively, we pass manufacturing cost reductions to our customers in the form of reduced prices to the extent that we can maintain acceptable margins. Price erosion is common in the semiconductor industry, as advances in both product architecture and manufacturing process technology permit continual reductions in unit cost. We have historically been able to offset much of this revenue decline in our mature products with increased revenues from newer products.
+
+Research and Development
+
+[DATA_TABLE_REMOVED]
+
+R&D spending increased $38.4 million, or 6%, during fiscal 2018 from the comparable prior year period. The increase was primarily attributable to higher employee compensation (including stock-based compensation) related to our new product development, partially offset by lower mask and wafer spending. R&D spending increased $67.5 million, or 13%, during fiscal 2017 from the comparable prior year period. The increase was primarily attributable to higher mask and wafer spending and employee compensation (including stock-based compensation) related to our new product development.
+
+We plan to continue to selectively invest in R&D efforts in areas such as new products and more advanced process development, IP cores and software development environments. We may also consider acquisitions to complement our strategy for technology leadership and engineering resources in critical areas.
+
+Selling, General and Administrative
+
+[DATA_TABLE_REMOVED]
+
+SG&A expenses increased by $27.1 million or 8% during fiscal 2018, and by $3.5 million or 1% during fiscal 2017, from the comparable prior year periods as we incurred higher employee compensation in both years (including stock based compensation) from higher headcount relating to revenue growth. 
+
+Executive Transition Costs
+
+During the fourth quarter of fiscal 2018, we announced the transition of our President and Chief Executive Officer position, whereby Moshe Gavrielov resigned from those roles and Victor Peng assumed these roles. Additionally, we also implemented restructuring measures to realign resources and drive overall operating efficiencies, which impacted approximately 60 positions in various geographies and functions worldwide. We recorded total transition charges of $33.4 million in the fourth quarter of fiscal 2018, primarily related to severance pay expenses and other benefits. As of the end of fiscal 2018, there was $10.4 million accrual for severance and other benefits that are expected to be paid primarily during fiscal 2019.
+
+The following table summarizes the transition costs accrual activity for fiscal 2018:
+
+35
+[DATA_TABLE_REMOVED]
+
+Amortization of Acquisition-Related Intangibles
+
+[DATA_TABLE_REMOVED]
+
+The amortization expense decreased in fiscal 2018 and 2017 as compared to prior year periods. The decreases were due to certain intangibles that were fully amortized in fiscal 2017 and during fiscal 2018.
+
+Stock-Based Compensation
+
+[DATA_TABLE_REMOVED]
+
+The $30.9 million and $10.9 million increases in stock-based compensation expense for fiscal 2018 and 2017, respectively, as compared to the prior year periods were primarily related to higher expenses associated with restricted stock units, as we granted more restricted stock units at a higher fair value in the recent years. In addition, during fiscal 2018 we incurred $16.6 million of stock-based compensation related to the transition of our President and Chief Executive Officer position.
+
+Interest and Other Income (Expense), Net
+
+[DATA_TABLE_REMOVED]
+
+In fiscal 2018 we had net interest and other income of $5.4 million as compared to net interest and other expense of $8.3 million in fiscal 2017. The increase was primarily due to higher interest income from the investment portfolio, and to a lesser extent lower interest expenses from 2024 Notes and its related interest rate swap contracts as compared to the total interest expenses recognized from the 2017 Convertible Notes that matured in the first quarter of fiscal 2018. The decrease in net interest and other expense in fiscal 2017 from the prior year period was primarily due to higher interest income from the investment portfolio as a result of rising interest rate environment.
+
+Provision for Income Taxes
+
+[DATA_TABLE_REMOVED]
+
+On December 22, 2017, the TCJA was enacted into law. The TCJA provides for numerous significant tax law changes and modifications including the reduction of the U.S. federal corporate income tax rate from 35% to 21%, the requirement for companies 
+
+36
+to pay a one-time transition tax on earnings of certain foreign subsidiaries that were previously tax deferred and the creation of new taxes on certain foreign-sourced earnings. Some provisions of the TCJA began to impact us in fiscal 2018, while other provisions will impact us beginning in fiscal 2019.
+
+The corporate tax rate reduction was effective as of January 1, 2018. Since the Company has a fiscal year rather than a calendar year, it is subject to rules relating to transitional tax rates. As a result, our fiscal 2018 federal statutory rate was a blended rate of 31.5%. The change in the statutory tax rate from 35% to 31.5% for our fiscal 2018 did not have a significant impact on the effective tax rate.
+
+The difference between the blended U.S. federal statutory tax rate of 31.5% and our effective tax rate in fiscal 2018 was primarily due to the one-time transition tax net of the reversal of the related deferred tax liabilities and the beneficial impact of income earned in lower tax rate jurisdictions as discussed in “Note 14. Income Taxes” to our consolidated financial statements, included in “Part II. Item 8, Financial Statements and Supplementary Data.”
+
+The difference between the U.S. federal statutory tax rate of 35% and our effective tax rate in fiscal 2017 was primarily due to income earned in lower tax rate jurisdictions for which no U.S. income tax had been provided, as we intended to permanently reinvest the earnings outside of the U.S.
+
+The increase in the effective tax rate for fiscal 2018 from the comparable prior year period was primarily due to the U.S. federal one-time transition tax of $590.2 million, a remeasurement of certain deferred tax assets and liabilities as a result of the reduction in the corporate income tax rate to 21% in the amount of $25.1 million and a release of reserves for uncertain tax positions in fiscal 2017. The increases in the effective tax rate were partially offset by the reversal of deferred tax liabilities related to U.S. federal income tax on a portion of unremitted foreign earnings that had been accrued through fiscal 2017 in the amount of $381.7 million.
+
+The decrease in effective tax rate in fiscal 2017 compared with fiscal 2016 was primarily due to fiscal 2017 benefits from the adoption of new accounting guidance with respect to share-based payment accounting and the release of reserves for uncertain tax positions upon completion of the Internal Revenue Service examination of fiscal 2012 through 2014.
+
+Accounting Standards Codification (ASC) 740, Income Taxes, requires companies to recognize the effect of the tax law changes in the period of enactment. However, the SEC staff issued Staff Accounting Bulletin 118 which allows companies to record provisional amounts during a measurement period that is similar to the measurement period used when accounting for business combinations. As of March 31, 2018, we recognized provisional amounts for the tax effects of the TCJA which were included as components of income tax expense from continuing operations and reflected in the effective tax rates above. We will continue to assess the impact of the recently enacted tax law on our business and our consolidated financial statements. The final impact of the TCJA recorded by us may vary materially from the provisional impact recorded due to a number of uncertainties and factors, including the need for further guidance and clarification of the new law by U.S. federal and state tax authorities and the need for further guidance on the income tax accounting.
+
+In addition to the impacts of tax reform on fiscal 2018 previously discussed, the TCJA also establishes new tax laws that will be effective for our fiscal 2019, including, but not limited to, (1) a new provision designed to tax low-taxed income of foreign subsidiaries, which allows for the possibility of using foreign tax credits (FTCs) and a deduction of up to 50 percent to offset the income tax liability (subject to some limitations); (2) limitations on the deductibility of certain executive compensation; (3) limitations on the deductibility of entertainment expenses; and (4) limitations on the use of FTCs to reduce the U.S. income tax liability. While each of these provisions is expected to have an impact on our tax expense for fiscal 2019 and future periods, we expect the tax on low-taxed income of foreign subsidiaries to have the most significant impact.
+
+Because of the complexity of the new tax on low-taxed income of foreign subsidiaries, we are continuing to evaluate this provision of the TCJA and the application of ASC 740. Based on recent deliberations by the Financial Accounting Standards Board (FASB), we will be allowed to make an accounting policy choice of either (1) treating taxes due on future U.S. inclusions in taxable income as a current-period expense when incurred or (2) recognize deferred taxes for temporary basis differences expected to reverse as low-taxed income in future years. Our selection of an accounting policy will depend, in part, on analyzing our facts to determine what the impact is expected to be under each method.
+
+Financial Condition, Liquidity and Capital Resources
+
+We have historically used a combination of cash flows from operations and equity and debt financing to support ongoing business activities, acquire or invest in critical or complementary technologies, purchase facilities and capital equipment, repurchase our 
+
+37
+common stock and debentures under our repurchase program, pay dividends and finance working capital. Additionally, our investments in debt securities are liquid and available for future business needs.
+
+Fiscal 2018 Compared to Fiscal 2017 
+
+Cash, Cash Equivalents and Short-term and Long-term Investments
+
+The combination of cash, cash equivalents and short-term and long-term investments as of March 31, 2018 and April 1, 2017 totaled $3.55 billion and $3.44 billion, respectively. As of March 31, 2018, we had cash, cash equivalents and short-term investments of $3.45 billion and working capital of $3.21 billion. As of April 1, 2017, cash, cash equivalents and short-term investments were $3.32 billion and working capital was $2.98 billion.
+
+As of March 31, 2018, we had $1.45 billion of cash, cash equivalents and short-term investments held by our non-U.S. entities. The recent TCJA that was signed into law on December 22, 2017 subjects U.S. companies to a one-time transition tax on total post-1986 earnings and profits of their foreign subsidiaries. The TCJA also generally allows companies to repatriate these accumulated foreign earnings without incurring additional U.S. federal taxes beginning after December 31, 2017. Accordingly, substantially all $1.45 billion of cash, cash equivalents and short-term investments held by our non-U.S. entities will be available for use in the U.S. without incurring additional U.S. federal income taxes. The one-time transition tax liability will be payable in eight annual installments, as outlined in "Contractual Obligations" below. See “Note 14. Income Taxes” to our consolidated financial statements, included in Item 8. "Financial Statements and Supplementary Data," for additional information about the one-time transition tax.
+
+During fiscal 2018, our operations generated net positive cash flow of $820.0 million, which was $114.1 million lower than the $934.1 million generated during fiscal 2017. The positive cash flow from operations generated during fiscal 2018 was primarily from net income as adjusted for non-cash related items and increases in income taxes payable and accrued liabilities. These items were partially offset by increases in accounts receivable, other assets and decreases in deferred income to shipments to distributors and accounts payable. 
+
+Net cash provided by investing activities was $948.2 million during fiscal 2018 as compared to $494.0 million in fiscal 2017. Net cash provided by investing activities during fiscal 2018 consisted of $1.02 billion of net sales and maturity of available-for-sale securities, which were partially offset by $49.9 million of purchases of property, plant and equipment and other intangibles and $25.9 million of other investing activities.
+
+Net cash used in financing activities was $555.6 million in fiscal 2018, as compared to $965.2 million in fiscal 2017. Net cash used in financing activities during fiscal 2018 consisted of $474.3 million of payment to repurchase common stock, $353.1 million of dividend payments to stockholders and $457.9 million of payment for settlement of our $600.0 million principal amount of 2.625% convertible notes issued in June 2010 (2017 Convertible Notes), which were partially offset by $745.2 million of proceeds from issuance of long-term debt and $47.5 million from issuance of common stock under employee stock plans.
+
+Accounts Receivable
+
+Accounts receivable increased by $128.2 million and days sales outstanding (DSO) increased to 53 days at March 31, 2018 from 38 days at April 1, 2017. The accounts receivable were primarily current. The increase was primarily due to timing of customer shipments and collections.
+
+Inventories
+
+Inventories increased to $236.1 million as of March 31, 2018 from $227.0 million as of April 1, 2017, while combined inventory days at Xilinx and distribution decreased to 117 days at March 31, 2018 from 127 days at April 1, 2017. We attempt to maintain sufficient levels of inventory in various product, package and speed configurations in order to keep lead times short and to meet forecasted customer demand as well as address potential supply constraints. Conversely, we also attempt to minimize the handling costs associated with maintaining higher inventory levels and to fully realize the opportunities for cost reductions associated with architecture and manufacturing process advancements. We continually strive to balance these two objectives to provide excellent customer response at a competitive cost.
+
+Property, Plant and Equipment and Other Intangibles 
+
+38
+During fiscal 2018, we invested $49.9 million in property, plant and equipment and other intangibles, as compared to $72.1 million in fiscal 2017. Primary investments in fiscal 2018 were for machinery and equipment, building improvements, computer equipment and equipment related to the support of our new products development and infrastructures.
+
+Current Liabilities
+
+Current liabilities increased to $937.2 million at the end of fiscal 2018 from $897.2 million at the end of fiscal 2017. The changes were primarily due to a net increase in our short-term portion of long-term debt, as we reclassified $499.2 million of our 2019 Notes to short term and paid $457.9 million for conversion of our 2017 Convertible Notes, as well as increases in our income taxes payable and accrued payroll and related liabilities. These increases were partially offset by decreases of $35.3 million in other accrued liabilities and $29.4 million in deferred income on shipments to distributors.
+
+Temporary and Stockholders' Equity
+
+Temporary and stockholders' equity decreased $178.8 million during fiscal 2018 from $2.51 billion in fiscal 2017 to $2.33 billion in fiscal 2018. The decrease was primarily due to repurchase of common stock of approximately $474.3 million and $353.1 million of payment of dividends to stockholders. These decreases were partially offset by $512.4 million in net income for fiscal 2018 and $153.8 million of stock-based compensation.
+
+Fiscal 2017 Compared to Fiscal 2016 
+
+Cash, Cash Equivalents and Short-term and Long-term Investments
+
+The combination of cash, cash equivalents and short-term and long-term investments as of April 1, 2017 and April 2, 2016 totaled $3.44 billion and $3.56 billion, respectively. As of April 1, 2017, we had cash, cash equivalents and short-term investments of $3.32 billion and working capital of $2.98 billion. As of April 2, 2016, cash, cash equivalents and short-term investments were $3.34 billion and working capital was $2.97 billion. 
+
+As of April 1, 2017, we had $2.84 billion of cash, cash equivalents and short-term investments held by our non-U.S. entities. From a financial statement perspective, approximately $1.13 billion of the $2.84 billion held by our non-U.S. entities was available for use in the U.S. without accruing additional U.S. income taxes in excess of the amounts already accrued in our financial statements as of April 1, 2017. The remaining amount of non-U.S. cash, cash equivalents and short-term investments was permanently reinvested and, therefore, no U.S. current or deferred taxes accrued on this amount, which was intended for investment in our operations outside the U.S. 
+
+During fiscal 2017, our operations generated net positive cash flow of $934.1 million, which was $187.8 million higher than the $746.3 million generated during fiscal 2016. The positive cash flow from operations generated during fiscal 2017 was primarily from net income as adjusted for non-cash related items, decrease in accounts receivable and increases in accrued liabilities, accounts payable and income taxes payable. These items were partially offset by increases in inventories and other assets.
+
+Net cash provided by investing activities was $494.0 million during fiscal 2017, as compared to net cash used by investing activities of $423.9 million in fiscal 2016. Net cash provided by investing activities during fiscal 2017 consisted of $587.4 million of net proceeds from sales and maturity of available-for-sale securities, which was partially offset by $72.1 million for purchases of property, plant and equipment and other intangibles and $21.4 million of other investing activities.
+
+Net cash used in financing activities was $965.2 million in fiscal 2017, as compared to $711.1 million in fiscal 2016. Net cash used in financing activities during fiscal 2017 consisted of $522.0 million of cash payment to repurchase of common stock, $332.5 million of dividend payments to stockholders and $142.1 million of payment for settlement of our 2017 Convertible Notes, which were partially offset by $32.8 million of proceeds from issuance of common stock under employee stock plans.
+
+Accounts Receivable
+
+Accounts receivable decreased by $63.5 million and DSO decreased to 38 days at April 1, 2017 from 52 days at April 2, 2016. The decrease was primarily due to timing of customer shipments and collections.
+
+Inventories
+
+Inventories increased to $227.0 million as of April 1, 2017 from $178.6 million as of April 2, 2016, while combined inventory days at Xilinx and distribution increased to 127 days at April 1, 2017 from 109 days at April 2, 2016. We attempt to maintain 
+
+39
+sufficient levels of inventory in various product, package and speed configurations in order to keep lead times short and to meet forecasted customer demand as well as address potential supply constraints. Conversely, we also attempt to minimize the handling costs associated with maintaining higher inventory levels and to fully realize the opportunities for cost reductions associated with architecture and manufacturing process advancements. We continually strive to balance these two objectives to provide excellent customer response at a competitive cost.
+
+Property, Plant and Equipment and Other Intangibles 
+
+During fiscal 2017, we invested $72.1 million in property, plant and equipment and other intangibles, as compared to $34.0 million in fiscal 2016. Primary investments in fiscal 2017 were for building improvements, computer equipment and equipment related to the support of our new products development and infrastructures.
+
+Current Liabilities
+
+Current liabilities decreased to $897.2 million at the end of fiscal 2017 from $944.4 million at the end of fiscal 2016. The change was primarily due to a payment of $142.1 million for conversion of our 2017 Convertible Notes, which was partially offset by increases of $50.0 million in other accrued liabilities and $22.3 million in accrued payroll and related liabilities.
+
+Temporary and Stockholders' Equity
+
+Temporary and stockholders' equity decreased $93.7 million during fiscal 2017 from $2.60 billion in fiscal 2016 to $2.51 billion in fiscal 2017. The decrease was primarily due to repurchase of common stock of approximately $522.0 million, $332.5 million of payment of dividends to stockholders and $18.1 million of other comprehensive loss. These decreases were partially offset by $622.5 million in net income for fiscal 2017, $122.9 million of stock-based compensation, $32.8 million of net issuance of common stock under employee stock plans. 
+
+Liquidity and Capital Resources
+
+Cash generated from operations is used as our primary source of liquidity and capital resources. Our investment portfolio is also available for future cash requirements as is our $400.0 million revolving credit facility entered into in December 2016 (expiring in December 2021). We are not aware of any lack of access to the revolving credit facility; however, we can provide no assurance that access to the credit facility will not be impacted by adverse conditions in the financial markets. Our credit facility is not reliant upon a single bank. There have been no borrowings to date under our existing revolving credit facility.
+
+We repurchased 7.0 million shares of our common stock for approximately $474.3 million during fiscal 2018. During fiscal 2017, we repurchased 9.9 million shares of common stock for approximately $522.0 million. During fiscal 2018, we paid $353.1 million in cash dividends to stockholders, representing $1.40 per common share. During fiscal 2017, we paid $332.5 million in cash dividends to stockholders, representing $1.32 per common share. On April 25, 2018, our Board of Directors declared a cash dividend of $0.36 per common share for the first quarter of fiscal 2019. The dividend is payable on June 4, 2018 to stockholders of record as of May 15, 2018. Our common stock and debentures repurchase program and dividend policy could be impacted by, among other items, our views on potential future capital requirements relating to R&D, investments and acquisitions, legal risks, principal and interest payments on our debentures and other strategic investments.
+
+We anticipate that existing sources of liquidity and cash flows from operations will be sufficient to satisfy our cash needs for the foreseeable future. We will continue to evaluate opportunities for investments to obtain additional wafer capacity, to procure additional capital equipment and facilities, to develop new products, and to potentially acquire technologies or businesses that could complement our business. However, the risk factors discussed in Item 1A and below could affect our cash positions adversely. 
+
+Contractual Obligations
+
+The following table summarizes our significant contractual obligations as of March 31, 2018 and the effect such obligations are expected to have on our liquidity and cash flows in future periods. This table excludes amounts already recorded on our consolidated balance sheet as accounts payable, income taxes payable and other accrued liabilities as of March 31, 2018.
+
+40
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+(2)Due to the nature of our business, we depend entirely upon subcontractors to manufacture our silicon wafers and provide assembly and some test services. The lengthy subcontractor lead times require us to order the materials and services in advance, and we are obligated to pay for the materials and services when completed. We expect to receive and pay for these materials and services in the next three to six months, as the products meet delivery and quality specifications.
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+(5)For purposes of this table we have assumed the outstanding principal of our debentures will be paid on maturity dates, which is March 15, 2019 for the 2019 Notes, March 15, 2021 for the 2021 Notes and June 1, 2024 for the 2024 Notes. See "Note 12. Debt and Credit Facility" to our consolidated financial statements, included in Item 8. "Financial Statements and Supplementary Data," for additional information about our debentures.
+
+(6)Tax obligations represent the future cash payments related to the one-time transition tax that resulted from the enactment of the TCJA as described in “Note 14. Income Taxes” to our consolidated financial statements, included in “Part II. Item 8, Financial Statements and Supplementary Data.” 
+
+As of March 31, 2018, $523.9 million of liabilities were classified as long-term income taxes payable in the consolidated balance sheets. Of the $523.9 million, $512.5 million was the estimated long-term portion of the one-time transition tax that resulted from the enactment of the TCJA. The remaining $11.4 million of the long-term income taxes payable is for uncertain tax positions and related interest and penalties. Since the Company is unable to reasonably estimate the timing of settlements and any future payments related to uncertain tax positions, these liabilities have been excluded from the contractual obligations table above.
+
+Off-Balance-Sheet Arrangements
+
+As of March 31, 2018, we did not have any significant off-balance-sheet arrangements, as defined in Item 303(a)(4)(ii) of SEC Regulation S-K.
+
+Recent Accounting Pronouncements
+
+See "Note 2. Summary of Significant Accounting Policies and Concentrations of Risk" to our consolidated financial statements, included in Item 8. "Financial Statements and Supplementary Data," for information about recent accounting pronouncements, including the expected dates of adoption and estimated effects, if any, on our consolidated financial statements.
+
+ITEM 7A.QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK

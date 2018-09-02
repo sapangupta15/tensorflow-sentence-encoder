@@ -1,0 +1,53 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk  
+
+Market risk is the potential loss arising from adverse changes in market rates and market prices such as interest rates, foreign currency exchange rates, and changes in the market value of equity instruments. We are exposed to market risk, primarily related to foreign exchange and interest rates. We actively monitor these exposures. Historically, in order to manage the volatility relating to these exposures, we entered into a variety of derivative financial instruments, mainly interest rate swaps, cross-currency swaps and forward rate agreements. Currently we only employ basic contracts, that is, without options, embedded or otherwise. Our objective is to reduce, where it is deemed appropriate to do so, fluctuations in earnings, cash flows and the value of our net investments in subsidiaries resulting from changes in interest rates and foreign currency rates. It is our policy not to trade in financial instruments.  
+
+Foreign Currency Exchange Rate Risk  
+
+We operate globally and we predominantly generate revenue and expenses in local currencies. Because of fluctuations (including possible devaluations) in currency exchange rates or the imposition of limitations on conversion of foreign currencies into our reporting currency, we are subject to currency translation exposure on the profits of our operations, in addition to transaction exposure.  
+
+Foreign currency translation risk is the risk that exchange rate gains or losses arise from translating foreign entities statements of earnings and balance sheets from functional currency to our reporting currency (the U.S. Dollar) for consolidation purposes. Translation risk exposure is managed by creating natural hedges in our financing or by using derivative financial instruments aimed at offsetting certain exposures in the statement of earnings or the balance sheet. We do not use derivative financial instruments for trading or speculative purposes.  
+
+The table below details the percentage of revenues and expenses by currency for the year ended December 31, 2011 and the year ended December 31, 2010:  
+
+  [DATA_TABLE_REMOVED] 
+
+Based on the year ended December 31, 2011, a one cent change in the U.S. dollar/Euro exchange rate would have impacted revenues by approximately $8 million annually, with an immaterial impact on operating income.  
+
+We have operations in both our Buy and Watch segments in Venezuela and our functional currency for these operations was the Venezuelan bolivares fuertes. Venezuelas currency was considered hyperinflationary as of January 1, 2010 and further, in January 2010, Venezuelas currency was devalued and a new currency exchange rate system was announced. We evaluated the new exchange rate system and concluded that our local currency transactions will be denominated in U.S. dollars effective as of January 1, 2010 and until Venezuelas currency is deemed to be non hyperinflationary. We recorded a charge of $7 million associated with the currency devaluation in January 2010 in our foreign exchange transaction (losses)/gains, net line item in the consolidated statement of operations. In June 2010, a further revision to the currency exchange rate system was made and in December 2010, the government of Venezuela eliminated the preferential exchange rate. Neither the impact of the hyperinflationary accounting or the subsequent changes to the exchange rate system had a material impact on our consolidated results of operations for the year ended December 31, 2011 or 2010 nor are they expected to have an impact on our consolidated financial statements prospectively.  
+
+Effective in July 2010, we designated our Euro denominated variable rate senior secured term loans due 2013 and 2016 as non-derivative hedges of our net investment in a European subsidiary. Subsequent to this designation gains or losses attributable to fluctuations in the Euro as compared to the U.S. Dollar associated with  
+
+63  
+
+Table of Contents 
+
+ this debenture were recorded to currency translation adjustment within stockholders equity, net of income tax. We recorded losses of $43 million (net of tax of $17 million) to currency translation adjustment during the second half of 2010 associated with changes in foreign currency exchange rates attributable to these loans and therefore no gains or losses were recorded within our net income/(loss) during that period. Our net income/(loss) reflected foreign currency exchange gains of $96 million for the year ended December 31, 2010 and losses of $21 million for the year ended December 31, 2009.  
+
+Interest Rate Risk  
+
+We continually review our fixed and variable rate debt along with related hedging opportunities in order to ensure our portfolio is appropriately balanced as part of our overall interest rate risk management strategy and through this process we consider both short-term and long-term considerations in the U.S. and global financial markets in making adjustments to our tolerable exposures to interest rate risk. At December 31, 2011, we had $4,221 million of floating-rate debt under our senior secured credit facilities and our existing floating rate notes, of which $2,537 million was subject to effective floating-fixed interest rate swaps. A one percent increase in interest rates applied to our floating rate indebtedness would therefore increase annual interest expense by approximately $17 million ($42 million without giving effect to any of our interest rate swaps).  
+
+In February 2009, we modified the reset interest rate underlying our $4,525 million senior secured term loan and, as a result, the related floating-to-fixed interest rate swap derivative financial instruments became ineffective. Beginning in February 2009, we began recording all changes in fair value of the floating-to-fixed interest rate swaps in place as of such date currently in earnings as a component of loss on derivative instruments. Cumulative losses deferred as a component of accumulated other comprehensive loss were recognized in interest expense over the remaining term of the swaps being hedged. All associated interest rate swap instruments have matured as of December 31, 2011.  
+
+In November 2011, we entered into a $125 million notional amount and a 125 million notional amount of four-year interest rate swap agreements with starting dates in November 2011. These agreements fix the LIBOR and Euro LIBOR-related portion of interest rates of a corresponding amount of our variable-rate debt at a rate of 0.84% and 1.30%, respectively. These derivative instruments have been designated as interest rate cash flow hedges.  
+
+In August 2011, we entered into $250 million in aggregate notional amount of four-year forward interest swap agreements with starting dates in September 2011. These agreements fix the LIBOR-related portion of interest rates of a corresponding amount of our variable-rate debt at an average rate of 0.84%. These derivative instruments have been designated as interest rate cash flow hedges.  
+
+In October and November 2010, we entered into an aggregate of $1 billion notional amount of three-year forward interest rate swap agreements with starting dates in November 2010. These agreements fix the LIBOR-related portion of interest rates of a corresponding amount of our variable-rate debt at an average rate of 0.72%. The commencement date of the interest rate swaps coincides with the $1 billion notional amount of interest rate swaps that matured in November 2010. Additionally, in November 2010, we entered into a $250 million notional amount three-year forward interest rate swap agreement with a starting date in November 2011, which fixes the LIBOR-related portion of interest rates of a corresponding amount of our variable-rate debt at a rate of 1.26%. These derivative instruments have been designated as interest rate cash flow hedges.  
+
+In March 2010, we entered into a three-year interest swap to fix the LIBOR-related portion of interest rates for $250 million of our variable-rate debt at 1.69%. This swap replaced the $500 million notional amount interest rate swap that matured in February 2010. This derivative instrument has been designated as an interest rate cash flow hedge.  
+
+64  
+
+Table of Contents 
+
+In February 2009, we entered into two three-year forward interest rate swap agreements with starting dates in November 2009. These agreements fix the LIBOR-related portion of interest rates for $500 million of our variable-rate debt at an average rate of 2.47%. The commencement date of the interest rate swaps coincided with the $1 billion notional amount interest rate swap that matured in November 2009. These derivative instruments have been designated as interest rate cash flow hedges.  
+
+Derivative instruments involve, to varying degrees, elements of non-performance, or credit risk. We do not believe that we currently face a significant risk of loss in the event of non-performance by the counterparties associated with these instruments, as these transactions were executed with a diversified group of major financial institutions with a minimum investment-grade or better credit rating. Our credit risk exposure is managed through the continuous monitoring of our exposures to such counterparties.  
+
+65  
+
+Table of Contents 
+
+ Item 8. Financial Statements and Supplementary Data

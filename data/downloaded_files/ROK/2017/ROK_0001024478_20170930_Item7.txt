@@ -1,0 +1,442 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+Results of Operations
+
+Non-GAAP Measures
+
+The following discussion includes organic sales, total segment operating earnings and margin, Adjusted Income, Adjusted EPS, Adjusted Effective Tax Rate and free cash flow, which are non-GAAP measures. See Supplemental Sales Information for a reconciliation of reported sales to organic sales and a discussion of why we believe this non-GAAP measure is useful to investors. See Results of Operations for a reconciliation of income before income taxes to total segment operating earnings and margin and a discussion of why we believe these non-GAAP measures are useful to investors. See Results of Operations for a reconciliation of income from continuing operations, diluted EPS from continuing operations and effective tax rate to Adjusted Income, Adjusted EPS and Adjusted Effective Tax Rate, respectively, and a discussion of why we believe these non-GAAP measures are useful to investors. See Financial Condition for a reconciliation of cash flows from operating activities to free cash flow and a discussion of why we believe this non-GAAP measure is useful to investors.
+
+Overview
+
+Rockwell Automation, Inc., a leader in industrial automation and information, makes its customers more productive and the world more sustainable. Overall demand for our products, solutions and services is driven by: 
+
+•investments in manufacturing, including upgrades, modifications and expansions of existing facilities or production lines and new facilities or production lines;
+
+•investments in basic materials production capacity, which may be related to commodity pricing levels;
+
+•our customers’ needs for faster time to market, lower total cost of ownership, improved asset utilization and optimization, and enterprise risk management;
+
+•our customers’ needs to continuously improve quality, safety and sustainability;
+
+•industry factors that include our customers’ new product introductions, demand for our customers’ products or services and the regulatory and competitive environments in which our customers operate;
+
+•levels of global industrial production and capacity utilization;
+
+•regional factors that include local political, social, regulatory and economic circumstances; and
+
+•the spending patterns of our customers due to their annual budgeting processes and their working schedules.
+
+Long-term Strategy
+
+Our strategy is to bring The Connected Enterprise to life. We integrate control and information across the enterprise to help industrial companies and their people be more productive. Our vision of being the most valued global provider of innovative industrial automation and information products, solutions and services is supported by our growth and performance strategy, which seeks to:
+
+•achieve organic sales growth in excess of the automation market by expanding our served market and strengthening our competitive differentiation;
+
+•diversify our sales streams by broadening our portfolio of products, solutions and services, expanding our global presence and serving a wider range of industries and applications;
+
+•grow market share by gaining new customers and by capturing a larger share of existing customers’ spending;
+
+•enhance our market access by building our channel capability and partner network;
+
+•acquire companies that serve as catalysts to organic growth by adding complementary technology, expanding our served market, or enhancing our domain expertise or market access;
+
+•deploy human and financial resources to strengthen our technology leadership and our intellectual capital business model;
+
+•continuously improve quality and customer experience; and
+
+•drive annual cost productivity.
+
+By implementing the above strategy, we seek to achieve our long-term financial goals, including above-market organic sales growth, EPS growth above sales growth, return on invested capital in excess of 20 percent and free cash flow equal to about 100 percent of Adjusted Income. We expect acquisitions to add a percentage point or more per year to long-term sales growth.
+
+15
+Our customers face the challenge of remaining globally cost competitive and automation can help them achieve their productivity and sustainability objectives. Our value proposition is to help our customers reduce time to market, lower total cost of ownership, improve asset utilization and manage enterprise risks.
+
+Differentiation through Technology Innovation and Domain Expertise
+
+We seek a technology leadership position in industrial automation. We believe that our three platforms - integrated architecture, intelligent motor control and solutions and services - provide the foundation for a long-term sustainable competitive advantage.
+
+Our integrated control and information architecture, with Logix at its core, is an important differentiator. We are the only automation provider that can support discrete, process, batch, safety, motion and power control on the same hardware platform with the same software programming environment. Our integrated architecture is scalable with standard open communications protocols making it easier for customers to implement it more cost effectively.
+
+Intelligent motor control is one of our core competencies and an important aspect of an automation system. These products and solutions enhance the availability, efficiency and safe operation of our customers' critical and most energy-intensive plant assets. Our intelligent motor control offering can be integrated seamlessly with the Logix architecture. 
+
+Domain expertise refers to the industry and application knowledge required to deliver solutions and services that support customers through the entire life cycle of their automation investment. The combination of industry-specific domain expertise of our people with our innovative technologies enables us to help our customers solve their manufacturing and business challenges. 
+
+Global Expansion
+
+As the manufacturing world continues to expand, we must be able to meet our customers’ needs around the world. Approximately 60 percent of our employees and 45 percent of our sales are outside the U.S. We continue to expand our footprint in emerging markets.
+
+As we expand in markets with considerable growth potential and shift our global footprint, we expect to continue to broaden the portfolio of products, solutions and services that we provide to our customers in these regions. We have made significant investments to globalize our manufacturing, product development and customer-facing resources in order to be closer to our customers throughout the world. The emerging markets of Asia Pacific, including China and India, Latin America, Central and Eastern Europe and Africa are projected to be the fastest growing over the long term, due to higher levels of infrastructure investment and the growing middle-class population. We believe that increased demand for consumer products in these markets will lead to manufacturing investment and provide us with additional growth opportunities in the future.
+
+Enhanced Market Access
+
+Over the past decade, our investments in technology and globalization have enabled us to expand our addressed market to over $90 billion. Our process initiative has been the most important contributor to this expansion and remains our largest growth opportunity. Logix is the technology foundation that enabled us to become an industry leader for process applications. We complement that with a growing global network of engineers and partners to provide solutions to process customers.
+
+OEMs represent another area of addressed market expansion and an important growth opportunity. To remain competitive, OEMs need to find the optimal balance of machine cost and performance while reducing their time to market. Our scalable integrated architecture and intelligent motor control offerings, along with design productivity tools and our motion and safety products, can assist OEMs in addressing these business needs.
+
+We have developed a powerful network of channel partners, technology partners and commercial partners that act as amplifiers to our internal capabilities and enable us to serve our customers’ needs around the world.
+
+Broad Range of Industries Served
+
+We apply our knowledge of manufacturing applications to help customers solve their business challenges. We serve customers in a wide range of industries, including consumer products, heavy industries and transportation.
+
+Our consumer products customers are engaged in the food and beverage, home and personal care and life sciences industries. These customers’ needs include new capacity, incremental capacity from existing facilities, flexible manufacturing and regulatory compliance. These customers operate in an environment where product innovation and time to market are critical factors.
+
+16
+We serve customers in heavy industries, including oil and gas, mining, aggregates, cement, metals, energy, semiconductor, pulp and paper and water/wastewater. Companies in resource-based industries typically invest in capacity expansion when commodity prices are relatively high and global demand for basic materials is increasing. In addition, there is ongoing investment in upgrades of aging automation systems and productivity.
+
+In the transportation industry, factors such as geographic expansion, investment in new model introductions and more flexible manufacturing technologies influence customers’ automation investment decisions. Our sales in transportation are primarily to automotive and tire manufacturers.
+
+All of these industries also generate maintenance repair order (MRO) and ongoing services revenue related to the installed base.
+
+Outsourcing and Sustainability Trends
+
+Demand for our products, solutions and services across all industries benefits from the outsourcing and sustainability needs of our customers. Customers increasingly desire to outsource engineering services to achieve a more flexible cost base. Our manufacturing application knowledge enables us to serve these customers globally.
+
+We help our customers meet their sustainability needs pertaining to energy efficiency, environmental and safety goals. Customers across all industries are investing in more energy-efficient manufacturing processes and technologies, such as intelligent motor control and energy efficient solutions and services. In addition, environmental and safety objectives often spur customers to invest to ensure compliance and implement sustainable business practices.
+
+Acquisitions
+
+Our acquisition strategy focuses on products, solutions and services that will be catalytic to the organic growth of our core offerings. 
+
+In September 2016, we acquired Maverick Technologies, a leading systems integrator. This acquisition significantly enhances our expertise in key process and batch applications that help our customers realize greater productivity and improved global competitiveness through process control and information management solutions.
+
+In September 2016, we acquired Automation Control Products, a premier provider in centralized thin client, remote desktop and server management software. This acquisition strengthens our ability to provide our customers with visual display and software solutions to manage information and streamline workflows for a more connected manufacturing environment.
+
+In March 2016, we acquired MagneMotion Inc., a leading manufacturer of intelligent conveying systems. This acquisition continues our strategy to build a portfolio of smart manufacturing technologies by expanding our existing capabilities in independent cart technology.
+
+In October 2014, we acquired the assets of ESC Services, Inc., a global provider of lockout-tagout services and solutions. This acquisition enables our customers to increase their asset utilization and strengthen their enterprise risk management.
+
+We believe these acquisitions will help us expand our served market and deliver value to our customers.
+
+Continuous Improvement
+
+Productivity and continuous improvement are important components of our culture. We have programs in place that drive ongoing process improvement, functional streamlining, material cost savings and manufacturing productivity. Our implementation of common global processes and an enterprise-wide business system is nearly complete. These are intended to improve profitability that can be used to fund investments in growth and to offset inflation. Our ongoing productivity initiatives target both cost reduction and improved asset utilization. Charges for workforce reductions and facility rationalization may be required in order to effectively execute our productivity programs.
+
+17
+U. S. Industrial Economic Trends
+
+In 2017, sales in the U.S. accounted for 55 percent of our total sales. The various indicators we use to gauge the direction and momentum of our served U.S. markets include:
+
+•The Industrial Production (IP) Index, published by the Federal Reserve, which measures the real output of manufacturing, mining, and electric and gas utilities. The IP Index is expressed as a percentage of real output in a base year, currently 2012. Historically there has been a meaningful correlation between the changes in the IP Index and the level of automation investment made by our U.S. customers in their manufacturing base.
+
+•The Manufacturing Purchasing Managers’ Index (PMI), published by the Institute for Supply Management (ISM), which indicates the current and near-term state of manufacturing activity in the U.S. According to the ISM, a PMI measure above 50 indicates that the U.S. manufacturing economy is generally expanding while a measure below 50 indicates that it is generally contracting.
+
+•Industrial Equipment Spending, compiled by the Bureau of Economic Analysis, which provides insight into spending trends in the broad U.S. industrial economy. This measure over the longer term has proven to demonstrate a reasonable correlation with our domestic growth.
+
+•Capacity Utilization (Total Industry), published by the Federal Reserve, which measures plant operating activity. Historically there has been a meaningful correlation between Capacity Utilization and levels of U.S. IP.
+
+The table below depicts the trends in these indicators from fiscal 2015 to 2017. In the fourth quarter of fiscal 2017, all four indicators improved compared to the same quarter in the prior year, with PMI and Industrial Equipment Spending also improving sequentially.
+
+[DATA_TABLE_REMOVED]
+
+Note: Economic indicators are subject to revisions by the issuing organizations.
+
+18
+Non-U.S. Economic Trends
+
+In 2017, sales outside the U.S. accounted for 45 percent of our total sales. These customers include both indigenous companies and multinational companies with expanding global presence. In addition to the global factors previously mentioned in the “Overview” section, international demand, particularly in emerging markets, has historically been driven by the strength of the industrial economy in each region, investments in infrastructure and expanding consumer markets. We use changes in the respective countries' gross domestic product and IP as indicators of the growth opportunities in each region where we do business. 
+
+Having seen a return to industrial production growth in all regions in fiscal year 2017, further growth is forecast for fiscal year 2018. In Europe, business sentiment remains at high levels, while in Asia the macroeconomic environment is stable. In Latin America, business confidence and investment levels in Brazil are improving, although growth is expected to slow in Mexico. Industrial production and GDP growth in Canada is expected to continue in fiscal year 2018.
+
+19
+Summary of Results of Operations
+
+In 2017, sales were $6,311.3 million, an increase of 7.3 percent year over year. Organic sales increased 6.1 percent. Currency translation reduced sales by 0.3 percentage points, and acquisitions contributed 1.5 percentage points to sales growth. Growth was broad-based across regions and was led by strength in the automotive, semiconductor, and food and beverage industries.
+
+The following is a summary of our results related to key growth initiatives:[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+20
+The following table reflects our sales and operating results for the years ended September 30, 2017, 2016 and 2015 (in millions, except per share amounts):
+
+[DATA_TABLE_REMOVED]
+
+(1)See Note 16 in the Financial Statements for the definition of segment operating earnings.
+
+(2)Total segment operating earnings and total segment operating margin are non-GAAP financial measures. We exclude purchase accounting depreciation and amortization, general corporate – net, non-operating pension costs, interest expense and income tax provision because we do not consider these costs to be directly related to the operating performance of our segments. We believe that these measures are useful to investors as measures of operating performance. We use these measures to monitor and evaluate the profitability of our operating segments. Our measures of total segment operating earnings and total segment operating margin may be different from measures used by other companies.
+
+(3)Adjusted EPS is a non-GAAP earnings measure that excludes the non-operating pension costs and their related income tax effects. See Adjusted Income, Adjusted EPS and Adjusted Effective Tax Rate Reconciliation for more information on this non-GAAP measure.
+
+(4)During the fourth quarter of fiscal 2017, we sold a product distribution business within our Control Products & Solutions segment. This business held no intellectual property and included products sold outside of our core channel and under different brands. We sold this business for approximately $94 million and recorded a pre-tax gain of $60.8 million, which is included within Other Income (Expense) in the Consolidated Statement of Operations.
+
+21
+Purchase accounting depreciation and amortization and non-operating pension costs are not allocated to our operating segments because these costs are excluded from our measurement of each segment's operating performance for internal purposes. If we were to allocate these costs, we would attribute them to each of our segments as follows (in millions):
+
+[DATA_TABLE_REMOVED]
+
+The increases in non-operating pension costs in both segments in fiscal 2017 were primarily due to the decrease in our U.S. discount rate from 4.55 percent for fiscal 2016 to 3.75 percent for fiscal 2017.
+
+Adjusted Income, Adjusted EPS and Adjusted Effective Tax Rate Reconciliation
+
+Adjusted Income, Adjusted EPS and Adjusted Effective Tax Rate are non-GAAP earnings measures that exclude non-operating pension costs and their related income tax effects. Non-operating pension costs include defined benefit plan interest cost, expected return on plan assets, amortization of actuarial gains and losses and the impact of any plan curtailments or settlements. These components of net periodic pension cost primarily relate to changes in pension assets and liabilities that are a result of market performance; we consider these costs to be unrelated to the operating performance of our business. We believe that Adjusted Income, Adjusted EPS and Adjusted Effective Tax Rate provide useful information to our investors about our operating performance and allow management and investors to compare our operating performance period over period. Adjusted EPS is also used as a financial measure of performance for our annual incentive compensation. Our measures of Adjusted Income, Adjusted EPS and Adjusted Effective Tax Rate may be different from measures used by other companies. These non-GAAP measures should not be considered a substitute for income from continuing operations, diluted EPS and effective tax rate.
+
+The following are the components of operating and non-operating pension costs for the years ended September 30, 2017, 2016 and 2015 (in millions):
+
+[DATA_TABLE_REMOVED]
+
+22
+The following are reconciliations of income from continuing operations, diluted EPS from continuing operations and effective tax rate to Adjusted Income, Adjusted EPS and Adjusted Effective Tax Rate, respectively, for the years ended September 30, 2017, 2016 and 2015 (in millions, except per share amounts and percentages):
+
+[DATA_TABLE_REMOVED]
+
+23
+2017 Compared to 2016 
+
+[DATA_TABLE_REMOVED]
+
+Sales
+
+Sales in fiscal 2017 increased 7.3 percent compared to 2016. Organic sales increased 6.1 percent. Currency translation reduced sales by 0.3 percentage points, and acquisitions contributed 1.5 percentage points to sales growth. Pricing contributed less than one percentage point to growth.
+
+The table below presents our sales, attributed to the geographic regions based upon country of destination, for the year ended September 30, 2017 and the percentage change from the same period a year ago (in millions, except percentages):
+
+[DATA_TABLE_REMOVED]
+
+(1)Organic sales are sales excluding the effect of changes in currency exchange rates and acquisitions. See Supplemental Sales Information for information on this non-GAAP measure.
+
+•Sales in the United States increased year over year, led by strength in the automotive and consumer industries.
+
+•Sales in Canada grew, with growth led by the pulp and paper, consumer, and automotive industries.
+
+•EMEA sales increased compared to the prior year, with growth in both emerging and developed countries.
+
+•Asia Pacific sales increased year over year, with strong growth across the region, particularly within the semiconductor industry.
+
+•Sales growth in Latin America was mixed with growth led by Mexico, partially offset by declines across the rest of the region. 
+
+General Corporate - Net 
+
+General corporate - net expenses were $76.3 million in fiscal 2017 compared to $79.7 million in fiscal 2016.
+
+Income before Income Taxes
+
+Income before income taxes increased 10 percent from $943.1 million in 2016 to $1,037.4 million in 2017, primarily due to the gain on sale of a business in the fourth quarter and an increase in segment operating earnings. Total segment operating earnings increased 4 percent year over year from $1,188.7 million in 2016 to $1,233.1 million in 2017, primarily due to higher sales, partially offset by higher incentive compensation and restructuring charges. In fiscal 2016, we did not incur expenses related to our primary annual incentive compensation plans, which are based on our company's performance. In fiscal 2017, we recorded approximately $115 million related to these plans.
+
+24
+Income Taxes
+
+The effective tax rate in 2017 was 20.4 percent compared to 22.6 percent in 2016. The Adjusted Effective Tax Rate in 2017 was 21.5 percent compared to 23.6 percent in 2016. The decreases in the effective tax rate and the Adjusted Effective Tax Rate were primarily due to larger favorable discrete tax items in the current year.
+
+See Note 14 in the Financial Statements for a complete reconciliation of the United States statutory tax rate to the effective tax rate and more information on tax events in 2017 and 2016 affecting each year's respective tax rates.
+
+Architecture & Software
+
+[DATA_TABLE_REMOVED]
+
+Sales
+
+Architecture & Software sales increased 10.0 percent in 2017 compared to 2016. Organic sales increased 9.4 percent, the effects of currency translation reduced sales by 0.3 percentage points, and acquisitions contributed 0.9 percentage points to sales growth. Pricing contributed approximately one percentage point to growth during the year. All regions experienced reported and organic sales growth. The United States was the strongest performing region. Logix reported and organic sales increased 10 percent in 2017 compared to 2016. 
+
+Operating Margin
+
+Architecture & Software segment operating earnings increased 12 percent. Operating margin was 27.0 percent in 2017 compared to 26.4 percent in 2016, primarily due to higher sales, partially offset by higher incentive compensation and restructuring charges. 
+
+Control Products & Solutions
+
+[DATA_TABLE_REMOVED]
+
+Sales
+
+Control Products & Solutions sales increased 5.2 percent in 2017 compared to 2016. Organic sales increased 3.4 percent, the effects of currency translation reduced sales by 0.2 percentage points, and acquisitions contributed 2.0 percentage points to sales growth. Pricing did not have a significant impact on growth during the year. All regions experienced reported and organic sales growth. The United States and Asia Pacific were the strongest performing regions.
+
+Sales in our solutions and services businesses increased 4 percent year over year. Organic sales in our solutions and services businesses increased 1 percent during 2017, and acquisitions contributed 3 percentage points to growth.
+
+Product sales increased 6 percent year over year. Product organic sales increased 7 percent year over year in 2017, and currency translation reduced sales by approximately 1 percentage point. 
+
+Operating Margin
+
+Control Products & Solutions segment operating earnings decreased 9 percent year over year. Segment operating margin was 13.2 percent in 2017 compared to 15.2 percent a year ago, primarily due to higher incentive compensation and restructuring charges, partially offset by higher sales.
+
+25
+2016 Compared to 2015 
+
+[DATA_TABLE_REMOVED]
+
+Sales
+
+Sales in fiscal 2016 decreased 6.8 percent compared to 2015. Organic sales decreased 3.9 percent, and currency translation reduced sales by 3.0 percentage points. Pricing contributed less than one percentage point to growth.
+
+The table below presents our sales, attributed to the geographic regions based upon country of destination, for the year ended September 30, 2016 and the percentage change from the same period a year ago (in millions, except percentages):
+
+[DATA_TABLE_REMOVED]
+
+(1)Organic sales are sales excluding the effect of changes in currency exchange rates and acquisitions. See Supplemental Sales Information for information on this non-GAAP measure.
+
+•Sales in the United States declined year over year, mainly due to weakness in heavy industries, particularly oil and gas.
+
+•Sales in Canada decreased due to the unfavorable impact of currency translation as well as declines in heavy industries, particularly oil and gas.
+
+•EMEA sales decreased due to the unfavorable impact of currency translation. Organic sales increased in both mature Europe and emerging countries.
+
+•Asia Pacific sales declined due to the unfavorable impact of currency translation as well as a decrease in organic sales in China.
+
+•Latin America sales decreased due to the unfavorable impact of currency translation. Organic sales growth in the region was led by Mexico.
+
+26
+General Corporate - Net 
+
+General corporate - net expenses were $79.7 million in fiscal 2016 compared to $85.6 million in fiscal 2015.
+
+Income before Income Taxes
+
+Income before income taxes decreased 16 percent from $1,127.5 million in 2015 to $943.1 million in 2016, primarily due to a decrease in segment operating earnings. Total segment operating earnings decreased 13 percent year over year from $1,360.5 million in 2015 to $1,188.7 million in 2016, primarily due to lower organic sales and unfavorable currency effects.
+
+Income Taxes
+
+The effective tax rate in 2016 was 22.6 percent compared to 26.6 percent in 2015. The Adjusted Effective Tax Rate in 2016 was 23.6 percent compared to 27.0 percent in 2015. The decreases in the effective tax rate and the Adjusted Effective Tax Rate were primarily due to an incremental benefit from the retroactive and permanent extension of the U.S. federal research and development tax credit (U.S. research tax credit) in the first quarter of 2016, a more favorable geographic mix of our pre-tax income and discrete tax items.
+
+See Note 14 in the Financial Statements for a complete reconciliation of the United States statutory tax rate to the effective tax rate and more information on tax events in 2016 and 2015 affecting each year's respective tax rates.
+
+Architecture & Software
+
+[DATA_TABLE_REMOVED]
+
+Sales
+
+Architecture & Software sales decreased 4.2 percent in 2016 compared to 2015. Organic sales decreased 1.5 percent, the effects of currency translation reduced sales by 3.0 percentage points, and acquisitions contributed 0.3 percentage points to sales growth. Pricing contributed approximately one percentage point to growth during the year. All regions experienced a decline in sales during the year except EMEA. Excluding the impact of currency translation, growth in Latin America and EMEA was more than offset by decreases in the remaining regions. Logix sales decreased 7 percent in 2016 compared to 2015. Logix organic sales decreased 4 percent year over year, and currency translation reduced sales by 3 percentage points.
+
+Operating Margin
+
+Architecture & Software segment operating earnings decreased 14 percent. Operating margin was 26.4 percent in 2016 compared to 29.4 percent in 2015, primarily due to unfavorable mix and currency effects as well as lower organic sales. 
+
+27
+Control Products & Solutions
+
+[DATA_TABLE_REMOVED]
+
+Sales
+
+Control Products & Solutions sales decreased 8.8 percent in 2016 compared to 2015. Organic sales decreased 5.8 percent, and currency translation reduced sales by 3.0 percentage points. Pricing contributed less than one percentage point to growth during the year. All regions experienced a year-over-year decrease in sales. Excluding the impact of currency translation, growth in Latin America was more than offset by declines in the remaining regions.
+
+Sales in our solutions and services businesses decreased 11 percent year over year. Organic sales in our solutions and services businesses decreased 8 percent during 2016, and currency translation reduced sales by 3 percentage points.
+
+Product sales decreased 5 percent year over year. Product organic sales decreased 2 percent year over year in 2016, and currency translation reduced sales by 3 percentage points.
+
+Operating Margin
+
+Control Products & Solutions segment operating earnings decreased 11 percent year over year. Segment operating margin was 15.2 percent in 2016 compared to 15.5 percent a year ago, primarily due to lower organic sales, partially offset by productivity.
+
+28
+Financial Condition
+
+The following is a summary of our cash flows from operating, investing and financing activities, as reflected in the Consolidated Statement of Cash Flows (in millions):
+
+[DATA_TABLE_REMOVED]
+
+The following table summarizes free cash flow (in millions), which is a non-GAAP financial measure:
+
+[DATA_TABLE_REMOVED]
+
+Our definition of free cash flow takes into consideration capital investments required to maintain our businesses' operations and execute our strategy. Cash provided by continuing operating activities adds back non-cash depreciation expense to earnings but does not reflect a charge for necessary capital expenditures. Our definition of free cash flow excludes the operating cash flows and capital expenditures related to our discontinued operations, if any. Operating, investing and financing cash flows of our discontinued operations, if any, are presented separately in our statement of cash flows. In the first quarter of fiscal year 2017, we adopted a new share-based compensation accounting standard that requires the excess income tax benefit from share-based compensation to be classified as an operating, rather than as a financing, cash flow. In previous periods, we added this benefit back to our calculation of free cash flow in order to generally classify cash flows arising from income taxes as operating cash flows. Beginning in the first quarter of fiscal year 2017, no adjustment is necessary as this benefit is already included in operating cash flows. In our opinion, free cash flow provides useful information to investors regarding our ability to generate cash from business operations that is available for acquisitions and other investments, service of debt principal, dividends and share repurchases. We use free cash flow, as defined, as one measure to monitor and evaluate our performance, including as a financial measure for our annual incentive compensation. Our definition of free cash flow may differ from definitions used by other companies.
+
+Cash provided by operating activities was $1,034.0 million for the year ended September 30, 2017 compared to $947.3 million for the year ended September 30, 2016. Free cash flow was $892.3 million for the year ended September 30, 2017 compared to $833.7 million for the year ended September 30, 2016. The year-over-year increases in cash provided by operating activities and free cash flow were primarily due to lower incentive compensation and income tax payments, partially offset by a voluntary contribution of $200.0 million to our U.S. qualified pension plan in 2017.
+
+We repurchased approximately 2.3 million shares of our common stock under our share repurchase program in 2017 at a total cost of $336.6 million. In 2016, we repurchased approximately 4.6 million shares of our common stock under our share repurchase program at a total cost of $500.2 million. At September 30, 2017 there were no outstanding common stock share repurchases recorded in accounts payable. At September 30, 2016, there were $5.3 million of outstanding common stock share repurchases recorded in accounts payable that did not settle until 2017. Our decision to repurchase shares in 2018 will depend on business conditions, free cash flow generation, other cash requirements and stock price. On April 6, 2016, the Board of Directors authorized us to expend an additional $1.0 billion to repurchase shares of our common stock. At September 30, 2017 we had approximately $608.4 million remaining for share repurchases under our existing board authorization. See Part II, Item 5. Market for the Company’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities, for additional information regarding share repurchases.
+
+29
+We expect future uses of cash to include working capital requirements, capital expenditures, additional contributions to our retirement plans, acquisitions of businesses, dividends to shareowners, repurchases of common stock and repayments of debt, including the current portion of long-term debt. We expect capital expenditures in 2018 to be about $160 million. We expect to fund the $250.0 million current portion of long term debt due December 2017 with the issuance of commercial paper. We expect to fund future uses of cash with a combination of existing cash balances and short-term investments, cash generated by operating activities, commercial paper borrowings or a new issuance of debt or other securities.
+
+Given our extensive international operations, significant amounts of our cash, cash equivalents and short-term investments (funds) are held by non-U.S. subsidiaries where our undistributed earnings are indefinitely reinvested. Generally, these funds would be subject to U.S. tax if repatriated. As of September 30, 2017, substantially all of our funds were held by these non-U.S. subsidiaries. The percentage of these funds held by non-U.S. subsidiaries can vary from quarter to quarter although substantially all of our funds were held by these non-U.S. subsidiaries on average over the past eight quarters. We have not encountered and do not expect to encounter any difficulty meeting the liquidity requirements of our domestic and international operations.
+
+In addition to cash generated by operating activities, we have access to existing financing sources, including the public debt markets and unsecured credit facilities with various banks. Our short-term debt obligations are primarily comprised of commercial paper borrowings. Commercial paper borrowings outstanding were $350.0 million at September 30, 2017, with a weighted average interest rate of 1.26 percent and weighted average maturity period of 10 days. Commercial paper borrowings outstanding were $448.6 million at September 30, 2016, with a weighted average interest rate of 0.57 percent and weighted average maturity period of 35 days.
+
+At September 30, 2017 and 2016, our total current borrowing capacity under our unsecured revolving credit facility expiring in March 2020 was $1.0 billion. We can increase the aggregate amount of this credit facility by up to $350.0 million, subject to the consent of the banks in the credit facility. We have not borrowed against this credit facility during the years ended September 30, 2017 or 2016. In December 2016, we amended the financial covenant under this credit facility. The previous financial covenant, which limited our debt-to-total-capital ratio to 60 percent, was replaced with a minimum EBITDA-to-interest ratio of 3.0 to 1.0. The EBITDA-to-interest ratio is defined in the amendment as the ratio of consolidated EBITDA (as defined in the amendment) for the preceding four quarters to consolidated interest expense for the same period. We believe the new covenant provides us greater financial flexibility. Separate short-term unsecured credit facilities of approximately $128.4 million at September 30, 2017 were available to non-U.S. subsidiaries. Borrowings under our non-U.S. credit facilities at September 30, 2017 and September 30, 2016 were not significant. We were in compliance with all covenants under our credit facilities at September 30, 2017 and September 30, 2016. Additional information related to our credit facilities is included in Note 5 in the Financial Statements.
+
+Among other uses, we can draw on our credit facility as a standby liquidity facility to repay our outstanding commercial paper as it matures. This access to funds to repay maturing commercial paper is an important factor in maintaining the short-term credit ratings set forth in the table below. Under our current policy with respect to these ratings, we expect to limit our other borrowings under our credit facility, if any, to amounts that would leave enough credit available under the facility so that we could borrow, if needed, to repay all of our then outstanding commercial paper as it matures.
+
+The following is a summary of our credit ratings as of September 30, 2017:
+
+[DATA_TABLE_REMOVED]
+
+Our ability to access the commercial paper market, and the related costs of these borrowings, is affected by the strength of our credit ratings and market conditions. We have not experienced any difficulty in accessing the commercial paper market to date. If our access to the commercial paper market is adversely affected due to a change in market conditions or otherwise, we would expect to rely on a combination of available cash and our unsecured committed credit facility to provide short-term funding. In such event, the cost of borrowings under our unsecured committed credit facility could be higher than the cost of commercial paper borrowings.
+
+We regularly monitor the third-party depository institutions that hold our cash and cash equivalents and short-term investments. We diversify our cash and cash equivalents and short-term investments among counterparties to minimize exposure to any one of these entities. Our emphasis is primarily on safety and liquidity of principal and secondarily on maximizing yield on those funds.
+
+30
+We use foreign currency forward exchange contracts to manage certain foreign currency risks. We enter into these contracts to hedge our exposure to foreign currency exchange rate variability in the expected future cash flows associated with certain third-party and intercompany transactions denominated in foreign currencies forecasted to occur within the next two years. We also use these contracts to hedge portions of our net investments in certain non-U.S. subsidiaries against the effect of exchange rate fluctuations on the translation of foreign currency balances to the U.S. dollar. In addition, we use foreign currency forward exchange contracts that are not designated as hedges to offset transaction gains or losses associated with some of our assets and liabilities resulting from intercompany loans or other transactions with third parties that are denominated in currencies other than our entities' functional currencies. Our foreign currency forward exchange contracts are usually denominated in currencies of major industrial countries. We diversify our foreign currency forward exchange contracts among counterparties to minimize exposure to any one of these entities.
+
+Cash dividends to shareowners were $390.7 million in 2017 ($3.04 per common share), $378.2 million in 2016 ($2.90 per common share) and $350.1 million in 2015 ($2.60 per common share). Our quarterly dividend rate as of September 30, 2017 is $0.76 per common share ($3.04 per common share annually), which is determined at the sole discretion of our Board of Directors.
+
+A summary of our projected contractual cash obligations at September 30, 2017 is as follows (in millions):
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+(b)Our postretirement benefit plans are unfunded and are subject to change. Amounts reported are estimates of future benefit payments, to the extent estimable.
+
+(c)Amounts reported for pension funding contributions reflect current estimates of known commitments. Contributions to our pension plans beyond 2018 will depend on future investment performance of our pension plan assets, changes in discount rate assumptions and governmental regulations in effect at the time. Amounts subsequent to 2018 are excluded from the summary above, as these amounts cannot be estimated with certainty. The minimum contribution for our U.S. pension plan as required by the Employee Retirement Income Security Act (ERISA) is currently zero. We may make additional contributions to this plan at the discretion of management.
+
+(d)This item includes contractual commitments for capital expenditures, certain materials purchases and long-term obligations under agreements with various service providers.
+
+(e)Other long-term liabilities include environmental remediation costs, conditional asset retirement obligations and indemnification liabilities, net of related receivables. Amounts subsequent to 2018 are excluded from the summary above, as we are unable to make a reasonably reliable estimate of when the liabilities will be paid.
+
+(f)Amount for unrecognized tax benefits includes accrued interest and penalties. We are unable to make a reasonably reliable estimate of when the liabilities for unrecognized tax benefits will be settled or paid.
+
+31
+Supplemental Sales Information
+
+We translate sales of subsidiaries operating outside of the United States using exchange rates effective during the respective period. Therefore, changes in currency exchange rates affect our reported sales. Sales by acquired businesses also affect our reported sales. We believe that organic sales, defined as sales excluding the effects of changes in currency exchange rates and acquisitions, which is a non-GAAP financial measure, provides useful information to investors because it reflects regional and operating segment performance from the activities of our businesses without the effect of changes in currency exchange rates and acquisitions. We use organic sales as one measure to monitor and evaluate our regional and operating segment performance. We determine the effect of changes in currency exchange rates by translating the respective period’s sales using the same currency exchange rates that were in effect during the prior year. When we acquire businesses, we exclude sales in the current period for which there are no comparable sales in the prior period. When we divest a business, we exclude sales in the prior period for which there are no comparable sales in the current period. Organic sales growth is calculated by comparing organic sales to reported sales in the prior year, excluding divestitures. We attribute sales to the geographic regions based on the country of destination.
+
+The following is a reconciliation of our reported sales by geographic region to organic sales (in millions):
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+32
+The following is a reconciliation of our reported sales by operating segment to organic sales (in millions):
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+33
+Critical Accounting Estimates
+
+We believe the following accounting estimates are the most critical to the understanding of our financial statements as they could have the most significant effect on our reported results and require subjective or complex judgments by management. Accounting principles generally accepted in the United States require us to make estimates and assumptions that affect the reported amounts of assets and liabilities at the date of the consolidated financial statements and revenues and expenses during the periods reported. These estimates are based on our best judgment about current and future conditions, but actual results could differ from those estimates. Refer to Note 1 in the Financial Statements for information regarding our significant accounting policies.
+
+Retirement Benefits — Pension
+
+Pension costs and obligations are actuarially determined and are influenced by assumptions used to estimate these amounts, including the discount rate and the expected rate of return on plan assets. Changes in any of the assumptions and the amortization of differences between the assumptions and actual experience will affect the amount of pension expense in future periods.
+
+Our global pension expense in 2017 was $175.9 million compared to $161.3 million in 2016. Approximately 77 percent of our 2017 global pension expense relates to our U.S. pension plan. The actuarial assumptions used to determine our 2017 U.S. pension expense included the following: discount rate of 3.75 percent (compared to 4.55 percent for 2016) and expected rate of return on plan assets of 7.50 percent (compared to 7.50 percent for 2016).
+
+For 2018 our U.S. discount rate will increase to 3.90 percent from 3.75 percent in 2017. The discount rate was set as of our September 30 measurement date and was determined by modeling a portfolio of bonds that match the expected cash flow of our benefit plans.
+
+For 2018 our expected rate of return on U.S. plan assets will remain 7.50 percent. In estimating the expected return on plan assets, we considered actual returns on plan assets over the long term, adjusted for forward-looking considerations, such as inflation, interest rates, equity performance and the active management of the plan’s invested assets. We also considered our current and expected mix of plan assets in setting this assumption. The financial markets produced positive returns in 2017. The plan’s debt securities return was positive. The plan’s equity securities return was above the expected return range in 2017, as U.S. and international equity returns were positive for the year. The actual return for our portfolio of U.S. plan assets was approximately 8.95 percent annualized for the 15 years ended September 30, 2017, and was approximately 7.45 percent annualized for the 20 years ended September 30, 2017. 
+
+The target allocations and ranges of long-term expected return for our major categories of U.S. plan assets are as follows:
+
+[DATA_TABLE_REMOVED]
+
+The changes in our discount rate and return on plan assets have an inverse relationship with our net periodic benefit cost. The change in our discount rate also has an inverse relationship with our projected benefit obligation. 
+
+The following chart illustrates the estimated change in projected benefit obligation and annual net periodic benefit cost assuming a change of 25 basis points in the key assumptions for our U.S. pension plans (in millions):
+
+[DATA_TABLE_REMOVED]
+
+(1) Change includes both operating and non-operating pension costs.
+
+More information regarding pension benefits is contained in Note 12 in the Financial Statements.
+
+34
+Revenue Recognition — Customer Incentives
+
+We offer various incentive programs that provide distributors and direct sale customers with cash rebates, account credits or additional products, solutions and services based on meeting specified program criteria. Customer incentives are recognized as a reduction of sales if distributed in cash or customer account credits. Customer incentives are recognized in cost of sales for additional products, solutions and services to be provided. We record accruals at the time of revenue recognition as a current liability within Customer returns, rebates and incentives in our Consolidated Balance Sheet or, where a right of setoff exists, as a reduction of Receivables.
+
+Our primary incentive program provides distributors with cash rebates or account credits based on agreed amounts that vary depending on the customer to whom our distributor ultimately sells the product. A critical assumption used in estimating the accrual for this program is the time period from when revenue is recognized to when the rebate is processed. Our estimate is based primarily on historical experience. If the time period were to change by 10 percent, the effect would be an adjustment to the accrual of approximately $9.7 million.
+
+More information regarding our revenue recognition and returns, rebates and incentives policies are contained in Note 1 in the Financial Statements.
+
+Income Taxes — Undistributed Earnings
+
+Our annual tax rate depends on the extent earnings are indefinitely reinvested outside the U.S. Indefinite reinvestment is determined by management's judgment about and intentions concerning the future operations of the Company. We have not provided U.S. deferred taxes for $3,526.0 million of undistributed earnings of certain non-U.S. subsidiaries, since these earnings have been determined to be indefinitely reinvested outside the U.S. and thus are not subject to U.S. income taxes and foreign withholding taxes. It is not practicable to estimate the amount of additional taxes that may be payable upon distribution of these earnings. 
+
+More information regarding income taxes is contained in Note 14 in the Financial Statements.
+
+Recent Accounting Pronouncements
+
+See Note 1 in the Financial Statements regarding recent accounting pronouncements.
+
+35
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk

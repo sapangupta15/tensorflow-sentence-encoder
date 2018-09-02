@@ -1,0 +1,859 @@
+Item 7. Managements Discussion and Analysis of Financial Condition and Results of Operations.  
+
+The following discussion and analysis should be read in conjunction with the Selected Financial Data, the Consolidated Financial Statements and the information described under the caption Risk Factors included elsewhere in this report.  
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES  
+
+The discussion and analysis of our financial condition and results of operations are based upon our consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the U.S. The preparation of these consolidated financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosure of contingent assets and liabilities. On an on-going basis, we evaluate our estimates, including those related to revenue recognition for multiple element arrangements, allowance for doubtful accounts, reserves for excess and obsolete inventories, valuations and purchase price allocations related to business combinations, expected future cash flows used to evaluate the recoverability of long-lived assets and goodwill, estimated fair values of intangible assets and goodwill, amortization methods and periods, warranty reserves, certain accrued expenses, restructuring and other related charges, stock-based compensation, pension liabilities, contingent liabilities, tax reserves and recoverability of our net deferred tax assets and related valuation allowance. We base our estimates on historical experience and various other assumptions that are believed to be reasonable under the circumstances. Actual results could differ from these estimates if past experience or other assumptions do not turn out to be substantially accurate. Any differences may have a material impact on our financial condition and results of operations.  
+
+The following is a discussion of what we believe to be the more significant critical accounting policies and estimates used in the preparation of our consolidated financial statements.  
+
+38  
+
+Table of Contents 
+
+Inventory  
+
+Our inventories include material, labor and overhead, and are stated at the lower of cost (first-in, first-out) or market. As a designer and manufacturer of high technology medical equipment, we may be exposed to a number of economic and industry factors that could result in portions of our inventory becoming either obsolete or in excess of anticipated usage. These factors include, but are not limited to, technological changes in our markets, our ability to meet changing customer requirements, competitive pressures on products and prices, reliability and replacement of and the availability of key components from our suppliers. Our policy is to establish inventory reserves when conditions exist that suggest that our inventory may be in excess of anticipated demand or is obsolete based upon our assumptions about future demand for our products and market conditions. We regularly evaluate our ability to realize the value of our inventory based on a combination of factors including the following: historical usage rates, forecasted sales or usage, product end of life dates, estimated current and future market values and new product introductions. Assumptions used in determining our estimates of future product demand may prove to be incorrect, in which case the provision required for excess and obsolete inventory would have to be adjusted in the future. If inventory is determined to be overvalued, we would be required to recognize such costs as cost of goods sold at the time of such determination. Although every effort is made to ensure the accuracy of our forecasts of future product demand, any significant unanticipated changes in demand could have a significant negative impact on the value of our inventory and our reported operating results. Additionally, purchasing requirements and alternative usage avenues are explored within these processes to mitigate inventory exposure. When recorded, our reserves are intended to reduce the carrying value of our inventory to its net realizable value.  
+
+Provisions for excess or obsolete inventory are primarily based on our estimates of forecasted net sales and service usage levels. A significant change in the timing or level of demand for our products as compared to forecasted amounts may result in recording additional provisions for excess or expired inventory in the future. We record provisions for excess or obsolete inventory as cost of sales.  
+
+Accounts Receivable Reserves  
+
+We maintain allowances for doubtful accounts for estimated losses resulting from the inability of our customers to make required payments. We regularly evaluate the collectibility of our trade receivables based on a combination of factors, which may include dialogue with the customer to determine the cause of non-payment, the use of collection agencies, and/or the use of litigation. In the event it is determined that the customer may not be able to meet its full obligation to us, we record a specific allowance to reduce the related receivable to the amount that we expect to recover given all information present. We perform ongoing credit evaluations of our customers and adjust credit limits based upon payment history and our assessment of the customers current credit worthiness. We continuously monitor collections from our customers and maintain a provision for estimated credit losses based upon our historical experience and any specific customer collection issues that we have identified. While such credit losses have historically been within our expectations and the provisions established, we cannot guarantee that we will continue to experience the same credit loss rates in the future. If the financial condition of our customers were to deteriorate, for example as a result of the recent financial and economic turmoil or otherwise, resulting in an impairment of their ability to make payments, additional allowances may be required.  
+
+We also record a provision for estimated sales returns and allowances on product and service related sales in the same period as the related revenues are recorded. These estimates are based on the specific facts and circumstances of particular orders, analysis of credit memo data and other known factors. If the data we use to calculate these estimates do not properly reflect reserve requirements, then a change in the allowances would be made in the period in which such a determination is made and revenues in that period could be adversely affected.  
+
+Our accounts receivable reserves were $6.5 million, $4.6 million and $3.7 million in fiscal 2008, 2007 and 2006, respectively. The increase in reserves in each of the last two fiscal years was primarily due to an increase in our revenues and associated accounts receivable. Our accounts receivable reserve has decreased as a percentage of sales as a result of our historical collection experience.  
+
+39  
+
+Table of Contents 
+
+Valuation of Business Combinations  
+
+We record tangible and intangible assets acquired and liabilities assumed in recent business combinations under the purchase method of accounting. Amounts paid for each acquisition are allocated to the assets acquired and liabilities assumed based on their fair values at the dates of acquisition. We then allocate the purchase price in excess of net tangible assets acquired to identifiable intangible assets based on detailed valuations that use information and assumptions provided by management. We allocate any excess purchase price over the fair value of the net tangible and intangible assets acquired and liabilities assumed to goodwill. The valuation of purchased research and development represents the estimated fair value at the dates of acquisition related to in-process projects. Our purchased research and development represents the value of in-process projects that have not yet reached technological feasibility and have no alternative future uses as of the date of acquisition. We expense the value attributable to these in-process projects at the time of the acquisition. If the projects are not successful or completed in a timely manner, we may not realize the financial benefits expected for these projects or for the acquisitions as a whole.  
+
+We use the income approach to determine the fair values of our purchased research and development. This approach determines fair value by estimating the after-tax cash flows attributable to an in-process project over its useful life and then discounting these after-tax cash flows back to a present value. We base our revenue assumptions on estimates of relevant market sizes, expected market growth rates, expected trends in technology and expected product introductions by competitors. In arriving at the value of the in-process projects, we consider, among other factors, the in-process projects stage of completion, the complexity of the work completed as of the acquisition date, the costs already incurred, the projected costs to complete, the contribution of core technologies and other acquired assets, the expected introduction date and the estimated useful life of the technology. We base the discount rate used to arrive at a present value as of the date of acquisition on the time value of money and medical technology investment risk factors. For the in-process projects we acquired in connection with our fiscal 2008 and fiscal 2006 acquisitions, we used risk-adjusted discount rates to discount our projected cash flows, ranging from 14% to 35%. We believe that the estimated purchased research and development amounts so determined represent the fair value at the date of acquisition and do not exceed the amount a third party would pay for the projects. We did not acquire in-process research and development in connection with the fiscal 2007 acquisition of BioLucent.  
+
+We have also used the income approach, as described above, to determine the estimated fair value of certain other identifiable intangible assets including developed technology, customer relationships and trade names. Developed technology represents patented and unpatented technology and know-how. Customer relationships represent established relationships with customers, which provide a ready channel for the sale of additional products and services. Tradenames represent acquired product names that we intend to continue to utilize.  
+
+Intangible Assets and Goodwill  
+
+Intangible Assets  
+
+We amortize our intangible assets that have finite lives using either the straight-line method or, if reliably determinable, based on the pattern in which the economic benefit of the asset is expected to be consumed utilizing expected undiscounted future cash flows. Amortization is recorded over the estimated useful lives ranging from 4 to 30 years. We review our intangible assets subject to amortization quarterly to determine if any adverse conditions exist or a change in circumstances has occurred that would indicate impairment or a change in the remaining useful life. If the carrying value of an asset exceeds its undiscounted cash flows, we will write-down the carrying value of the intangible asset to its fair value in the period identified. We generally calculate fair value as the present value of estimated future cash flows to be generated by the asset using a risk-adjusted discount rate. If the estimate of an intangible assets remaining useful life is changed, we will amortize the remaining carrying value of the intangible asset prospectively over the revised remaining useful life.  
+
+In connection with the sale of certain intellectual property previously acquired from Fischer, to Siemens AG in July 2006, we recorded an impairment charge of approximately $1.4 million during the fourth quarter of fiscal   
+
+40  
+
+Table of Contents 
+
+ 2006. The impairment charge was the result of a higher carrying value of such assets as compared to their fair value. The charge is a component of the net gain on sale of intellectual property in the accompanying Consolidated Statements of Operations and is classified as part of the Breast Health segment.  
+
+Subsequent to the Cytyc merger, we decided to discontinue the development of Cytycs Helica product. We will not realize any future cash flows from this product. Our intangible asset valuation for Cytyc included approximately $2.9 million related to customer relationships for Helica. As a result of the Helica product discontinuation, we recorded an impairment charge, as a component of our GYN Surgical segment, of $2.9 million in the first quarter of fiscal 2008.  
+
+Goodwill  
+
+In accordance with FASB Statement of Financial Accounting Standard No. 142 (SFAS 142), Goodwill and Other Intangible Assets, we test goodwill at the reporting unit level for impairment on an annual basis and between annual tests if events and circumstances indicate it is more likely than not that the fair value of a reporting unit is less than its carrying value. Events that would indicate impairment and trigger an interim impairment assessment include, but are not limited to, a significant adverse change in legal factors or business climate and an adverse action or assessment by a regulator. Additionally, current economic and market conditions may also require an interim impairment test such as a decline in an entities market capitalization.  
+
+Consistent with prior years, we conducted our annual impairment test of goodwill for certain of our historical reporting units (reporting units prior to the Cytyc merger) as of the last day of the second quarter of fiscal 2008. In performing the test, we utilize the two-step approach prescribed under SFAS 142. The first step requires a comparison of the carrying value of the reporting units, as defined, to the fair value of these units. We considered a number of factors to determine the fair value of a reporting unit, including an independent valuation to conduct this test. The valuation is based upon expected future discounted operating cash flows of the reporting unit as well as analysis of recent sales or offerings of similar companies. We base the discount rate used to arrive at a present value as the date of the impairment test on our weighted average cost of capital. If the carrying value of a reporting unit exceeds its fair value, we will perform the second step of the goodwill impairment test to measure the amount of impairment loss, if any. The second step of the goodwill impairment test compares the implied fair value of a reporting units goodwill to its carrying value. To date, we have not performed the second step of the impairment test as part of our review because the fair value of each reporting unit exceeded its respective carrying value.  
+
+In the fourth quarter of fiscal 2008, we changed the measurement date from the last day of our second quarter to the first day of our fourth quarter, in order to provide additional time to quantify the fair value of our reporting units and to evaluate the results of the impairment testing. This change did not delay, accelerate or avoid an impairment charge. This change did not have an effect on our financial performance or results of operations, nor was there any impact on prior period financial statements under the requirements of the Financial Accounting Standard Board Statement No. 154. The retrospective application as required under SFAS No. 154 was not necessary as no impairment charges had been recorded in any previously recorded financial statements nor did the change in measurement date cause any impairments.  
+
+As a result of the change in the measurement date for our annual goodwill impairment test for our historical reporting units from the last day of the second quarter of the fiscal year to the first day of the fourth quarter of the fiscal year, we have evaluated, in accordance with paragraph 27 of SFAS 142, whether the detailed determination of fair value of our historical reporting units as of March 29, 2008 can be carried forward to the first day of our fiscal fourth quarter of 2009 or if a new test of goodwill impairment is required to be performed for these historical reporting units. In its evaluation we noted the assets and liabilities of the reporting units had not changed significantly, there was sufficient margin between the carrying amount and fair value determination for each reporting unit and no events or circumstances related to these reporting units would suggest that a current fair value determination of reporting units would result in a valuation lower than the carrying amount of the   
+
+41  
+
+Table of Contents 
+
+ reporting units. Based on this evaluation we believe we sufficiently meet the requirements of paragraph 27 of SFAS 142 to carry forward our estimate of fair value for these reporting units.  
+
+We conducted our annual impairment test of goodwill for our new reporting units as a result of our acquisition of Cytyc Corporation as of the first day of the fourth quarter of fiscal 2008. In performing the test, we utilized the two-step approach prescribed under SFAS 142. We considered a number of factors to determine the fair value of a reporting unit, including an independent valuation to conduct this test. The valuation is based upon expected future discounted operating cash flows of the reporting unit as well as analysis of recent sales or offerings of similar companies. We based the discount rate used to arrive at a present value as the date of the impairment test on our weighted average cost of capital. The fair value of each reporting unit was determined to be in excess of each reporting units carrying value and as a result the second step of the impairment test was not required.  
+
+Subsequent to September 27, 2008, we have experienced a decline in the price of our publicly-traded common stock and related market capitalization such that our market capitalization has declined below the book value of our net assets. We evaluated this decline in our market capitalization subsequent to year-end and have concluded that it was not an indicator of an impairment that existed as of September 27, 2008. We will continue to monitor our market capitalization compared to our book value of net assets and may be required to perform an interim goodwill impairment test in our first quarter of fiscal 2009.  
+
+The estimate of fair value requires significant judgment. Any loss resulting from an impairment test would be reflected in operating (loss) income in our Consolidated Statements of Operations. The annual impairment testing process is subjective and requires judgment at many points throughout the analysis. If these estimates or their related assumptions change in the future, we may be required to record impairment charges for these assets not previously recorded.  
+
+Pension Liabilities  
+
+We sponsor defined benefit pension plans covering the employees of our AEG German subsidiary. On September 29, 2006, the FASB issued SFAS 158 (SFAS 158), Employers Accounting for Defined Benefit Pension and Other Post-retirement Plans, an amendment of FASB Statements No. 87, 88, 106 and 132(R). SFAS 158 requires an entity to recognize in its statement of financial position an asset for a defined benefit post-retirement plans overfunded status or a liability for a plans underfunded status, measure a defined benefit post-retirement plans assets and obligations that determine its funded status as of the end of the employers fiscal year, and recognize changes in the funded status of a defined benefit post-retirement plan in comprehensive income in the year in which changes occur. SFAS 158 does not change the amount of net periodic benefit cost included in net income or address the various measurement issues associated with post-retirement benefit plan accounting. As required by SFAS 158, we used a prospective approach in our adoption of SFAS 158. As of September 29, 2007, we recognized the unfunded status of our deferred benefit pension plan. The adoption of SFAS 158 did not impact our compliance with our debt covenants under our credit agreements, cash position or results of operations. As of September 27, 2008, we have recorded a pension liability, based upon an actuarial valuation, of approximately $0.3 million as a component of accrued expenses and $7.0 as a component of other long-term liabilities in the accompanying consolidated financial statements. The selection of the assumptions used to determine pension expense or income involves significant judgment. Our actuarial assumptions and discount rate assumptions are considered the key variables in determining pension expense or income. The discount rate assumption was determined by using a model consisting of theoretical bond portfolios that closely match the various durations of that of our pension liability. The discount rate assumption we used for our German pension benefits plans was 6.5%. The discount rate is dependent on the participation level of the particular countries covered within the plans. Therefore, the discount rate is consistent with the fact that the pension is 100% German-based.  
+
+Revenue Recognition  
+
+We recognize product revenue upon shipment provided that there is persuasive evidence of an arrangement, there are no uncertainties regarding acceptance, the sales price is fixed or determinable, no rights of return exist   
+
+42  
+
+Table of Contents 
+
+ and collection of the resulting receivable is reasonably assured. Generally, our product arrangements are multiple element arrangements, including services such as installation and training. Beginning in the fourth quarter of fiscal 2003, we began accounting for these arrangements in accordance with Emerging Issues Task Force (EITF) No. 00-21, Accounting for Revenue Arrangements with Multiple Deliverables. Based on the terms and conditions of the product arrangements, we have concluded that these services and undelivered products can be accounted for separately from the delivered product element as our delivered product has value to our customers on a stand-alone basis and we have objective and reliable evidence of the fair value of such services and undelivered products. Accordingly, service revenue representing the fair value of services not yet performed at the time of product shipment is deferred and recognized as such services are performed. The fair value of the undelivered products is also deferred at the time of product shipment and recognized when these products are delivered. The residual revenue under the product arrangement will be recognized as product revenue upon shipment. There are no customer rights of return in our sales agreements.  
+
+We recognize product revenue upon the completion of installation for products whose installation is essential to its functionality, primarily related to our digital imaging systems. A provision is made at that time for estimated warranty costs to be incurred.  
+
+Service revenues primarily consist of amounts recorded under service and maintenance contracts and repairs not covered under warranty, installation and training revenues and shipping and handling costs billed to customers. Service and maintenance contract revenues are recognized ratably over the term of the contract. Other service revenues are recorded when the services are delivered.  
+
+Although certain of our products contain operating and application software, we have determined that except for our products obtained with the acquisition of R2 and the newly released Dimensions tomosynthesis/3-D full field digital mammography product (Dimensions), the software element is incidental in accordance with AICPA SOP 97-2, Software Revenue Recognition, (SOP 97-2) and EITF Issue No. 03-05, Applicability of AICPA Statement of Position 97-2 to Non-Software Deliverables in an Arrangement Containing More-Than-Incidental Software (EITF 03-05).  
+
+We have determined that the provisions of SOP 97-2 apply to revenue transactions for those products acquired from R2 Technology, Inc. and the Dimensions product. SOP 97-2, as amended, generally requires revenue earned on software arrangements involving multiple elements to be allocated to each element based on the relative fair values of the elements. Revenue recognized from multi-element arrangements is allocated to each element of the arrangement using the residual method based on the fair value of the undelivered elements. Our determination of fair value of the undelivered elements in the multi-element arrangements is based on vendor-specific objective evidence (VSOE). We limit our assessment of VSOE for each element to either the price charged when the same element is sold separately or the price established by management, having the relevant authority to do so, for an element not yet sold separately. We recognize revenue on R2 and Dimensions product sales upon completion of installation, at which time the only remaining undelivered element is Post Contract Support (PCS).  
+
+Upon its release internationally, we completed an evaluation of the software component of our Dimensions product in accordance with SOP 97-2 and EITF 03-05. We noted the following in our evaluation of the software component of our new Dimensions product:  
+
+       Dimensions will be offered in different configurations offering different levels of functionality (2D vs. 3D). Customers who purchase the 2D configuration will be to able to upgrade the product to a 3D version and such upgrade will solely represent a software upgrade that will be marketed and sold separately. This differentiation from our existing 2D digital mammography product is expected to be highlighted in our marketing literature.  
+
+       As part of the initial warranty of the Dimensions product, customers will receive not only bug fixes related to the software but will also receive any updates and enhancements to the software that are released. Therefore, we concluded that this represents PCS as defined in SOP 97-2.  
+
+43  
+
+Table of Contents 
+
+As a result, we have determined that the Dimensions product contains software that is more than incidental to the product as a whole and thus, will be accounted for under SOP 97-2. Therefore, we will recognize revenue upon installation and acceptance, if required, and will defer revenue based on the vendor-specific objective evidence of fair value of the initial bundled PCS. We have determined that vendor-specific objective evidence of fair value of the initial bundled PCS exists based on the establishment of the price for which this element will be sold separately by management having the relevant authority and that it is probable that this price will not change prior to when this service is sold separately. We have specified the renewal rates at which service can be purchased separately upon expiration of the initial PCS period and those rates have been consistent.  
+
+For multi-element arrangements where VSOE of fair value of PCS has been established, we recognize revenue using the residual method at the time all other revenue recognition criteria have been met. Amounts attributable to post contract support are recorded as deferred revenue and recognized ratably over the contractual term of the support.  
+
+As a result of the merger with Cytyc, we now sell disposable supplies under customer usage agreements. Under customer usage agreements, we install certain equipment (for example, a ThinPrep Processor or a ThinPrep Imaging System) at customer sites and customers commit to purchasing minimum quantities of disposable supplies at a stated price (generally including a usage fee for the equipment) over a defined contract term, which is typically between three and five years. Revenue is recognized over the term of the customer usage agreement as disposable supplies are delivered. Accordingly, no revenue is recognized upon delivery of the equipment. As a result of the merger with Cytyc, we also rent certain other equipment to customers. Revenues from rental agreements are recorded over the terms of the rental agreements.  
+
+Product Warranties  
+
+Products sold are generally covered by a warranty for a period of one year. We accrue a warranty reserve at the time of revenue recognition for estimated costs to provide warranty services. Our estimate of costs to service our warranty obligations is based on historical experience and expectation of future conditions. To the extent we experience increased or decreased warranty claim activity or increased or decreased costs associated with servicing those claims, our warranty accrual will increase or decrease, respectively, resulting in decreased or increased gross profit. Our warranty accrual was approximately $9.1 million, $12.1 million and $9.0 million in fiscal 2008, 2007 and 2006, respectively. The decrease in the warranty accrual in fiscal 2008 is primarily attributable to a decrease in warranty claim activity primarily related to our digital mammography systems. The increase in the warranty accrual in fiscal 2007 is primarily attributable to the increase in the number of digital mammography systems sold.  
+
+Stock-Based Compensation  
+
+On December 16, 2004 the FASB issued SFAS Statement No. 123(R) (SFAS 123(R)), Share-Based Payment, which is a revision of SFAS Statement No. 123 (SFAS 123), Accounting for Stock-Based Compensation. SFAS 123(R) supersedes APB Opinion No. 25 (Opinion 25), Accounting for Stock Issued to Employees, and amends SFAS No. 95, Statement of Cash Flows. Generally, the approach under SFAS 123(R) is similar to the approach described in SFAS 123. However, SFAS 123(R) requires all share-based payments to employees, including grants of employee stock options, to be recognized in the income statement based on their fair values. Pro forma disclosure is no longer an alternative.  
+
+SFAS 123(R) must be adopted for fiscal years starting after June 15, 2005. As a result, we have adopted SFAS 123(R) starting in our fiscal first quarter of 2006, which began on September 25, 2005.  
+
+As permitted by SFAS 123, we historically accounted for share-based payments to employees using Opinion 25s intrinsic value method and, as such, generally recognized no compensation cost for employee stock options. We have adopted the modified prospective method alternative outlined in SFAS 123(R). A modified prospective method is one in which compensation cost is recognized beginning with the effective date (a) based on the requirements of SFAS 123(R) for all share-based payments granted after the effective date and (b) based on the requirements of SFAS 123 for all awards granted to employees prior to the effective date of SFAS 123(R)   
+
+44  
+
+Table of Contents 
+
+ that remain unvested on the effective date. As a result, we are amortizing the unamortized stock-based compensation expense related to unvested option grants issued prior to the adoption of SFAS 123(R), whose fair value was calculated utilizing a Black-Scholes Option Pricing Model. For options granted after our adoption of SFAS 123(R), we have elected to use a binomial model to determine the weighted average fair value of options, rather than the Black-Scholes model, which we had previously used. In addition, SFAS 123(R) requires companies to utilize an estimated forfeiture rate when calculating the expense for the period, whereas, SFAS 123 permitted companies to record forfeitures based on actual forfeitures, which was our historical policy under SFAS 123. As a result, we have applied the following estimated forfeiture rates for stock option awards in determining the expense recorded in our Consolidated Statements of Operations: a range from 6.8% to 9.0% in fiscal 2008; 9.4% in fiscal 2007; and a range between 9.4% and 10.6% in fiscal 2006. The lower forfeiture rate in fiscal 2008 is due to a change in the methodology we are using to calculate this rate as a result of the merger with Cytyc. For further information regarding the assumptions we used in determining our stock-based compensation expense, see Note 2 to our financial statements.  
+
+During the year ended September 27, 2008 we recorded $25.7 million of stock-based compensation expense for employee equity awards. The stock-based compensation expense for employee equity awards included $2.3 million in cost of revenues, $2.8 million in research and development, $3.5 million in selling and marketing, $15.1 million in general and administrative expense and $1.9 million in restructuring for the year ended September 27, 2008. The compensation expense reduced basic and diluted earnings per share by $0.07. During the year ended September 29, 2007 we recorded $6.1 million of stock-based compensation expense for employee equity awards. The stock-based compensation expense for employee equity awards included $0.7 million in cost of revenues, $0.8 million in research and development, $0.6 million in selling and marketing and $4.0 million in general and administrative expense for the year ended September 29, 2007. The compensation expense reduced basic and diluted earnings per share each by $0.04. As of September 27, 2008, there was $30.4 million of unrecognized compensation expense related to non-vested market-based stock option awards that we expect to recognize over a weighted-average period of 3.53 years. As of September 27, 2008, there was $29.1 million of unrecognized compensation expense related to non-vested restricted stock units that we expect to recognize over a weighted average period of 2.11 years.  
+
+Income Taxes  
+
+We account for income taxes under Statement of Financial Accounting Standard (SFAS) No. 109, Accounting for Income Taxes. This statement requires that we recognize a current tax liability or asset for current taxes payable or refundable and a deferred tax liability or asset for the estimated future tax effects of temporary differences and carry forwards to the extent they are realizable. We record a valuation allowance to reduce our deferred tax assets to the amount that is more likely than not to be realized. While we have considered future taxable income and ongoing prudent and feasible tax planning strategies in assessing the need for the valuation allowance, in the event we were to determine that we would be able to realize our deferred tax assets in the future in excess of the net recorded amount, an adjustment to the deferred tax asset would increase income in the period such determination was made. Likewise, should we determine that we would not be able to realize all or part of our net deferred tax asset in the future, an adjustment to the deferred tax asset would be charged to income in the period such determination was made.  
+
+In fiscal 2008, we recorded approximately $62.7 million of excess tax benefit associated with deductions generated by stock options exercised in fiscal 2008.  
+
+Adoption of FASB Interpretation No. 48  
+
+On September 30, 2007, we adopted Financial Accounting Standards Board (FASB) Interpretation (FIN) No. 48, Accounting for Uncertainty in Income Taxesan interpretation of FASB Statement No. 109, which clarifies the accounting for uncertainty in income taxes recognized in an enterprises financial statements in accordance with FASB Statement No. 109, Accounting for Income Taxes. FIN No. 48 prescribes a recognition threshold and measurement criteria for the financial statement recognition and measurement of a tax position taken or expected to be taken in a tax return. FIN No. 48 also provides guidance on derecognition, classification,   
+
+45  
+
+Table of Contents 
+
+ interest and penalties, accounting in interim periods, disclosure, and transition and defines the criteria that must be met for the benefits of a tax position to be recognized. As a result of our adoption of FIN No. 48, we recorded the cumulative effect of the change in accounting principle of $0.5 million as a decrease to opening retained earnings.  
+
+We had gross unrecognized tax benefits, including interest, of approximately $20.2 million as of September 27, 2008 and $6.3 million as of September 30, 2007. At September 27, 2008, $5.6 million represents the amount of unrecognized tax benefits that, if recognized, would result in a reduction of the Companys effective tax rate. However, upon the adoption of SFAS No. 141 (Revised 2007) (SFAS 141(R)), Business Combinations, changes in unrecognized tax benefits following an acquisition generally will affect income tax expense, including any changes associated with acquisitions that occurred prior to the effective date of SFAS 141(R). The increase in unrecognized tax benefits at September 27, 2008 is primarily due to the merger with Cytyc. In the next twelve months it is reasonably possible that the Company will reduce the balance of their unrecognized tax benefits by $1.2 million due to expiration of statute of limitations and settlements with taxing authorities, of which $1.1 million will reduce goodwill and $0.1 million will reduce the Companys effective tax rate.  
+
+Our policy is to recognize accrued interest and penalties related to unrecognized tax benefits and income tax liabilities, when applicable, as part of income tax expense in our Consolidated Statements of Operations. As of September 27, 2008 and September 30, 2007, accrued interest was approximately $0.7 million and $0.1 million, net of federal benefit. As of September 27, 2008, no penalties have been accrued.  
+
+We are subject to United States federal income tax, as well as income tax of multiple state and foreign jurisdictions. The current tax returns are open for audit through fiscal 2012. We currently have a tax holiday in Costa Rica that is scheduled to expire in 2015.  
+
+Legal Contingencies  
+
+We are currently involved in certain legal proceedings. In connection with these legal proceedings, management periodically reviews estimates of potential costs to be incurred by us in connection with the adjudication or settlement, if any, of these proceedings. These estimates are developed in consultation with outside counsel and are based on an analysis of potential litigation outcomes and settlement strategies. In accordance with Financial Accounting Standards Board (FASB) Statement No. 5, Accounting for Contingencies, loss contingencies are accrued if, in the opinion of management, an adverse outcome is probable and such outcome can be reasonably estimated. It is possible that future results for any particular quarter or annual period may be materially affected by changes in our assumptions or the effectiveness of our strategies relating to these proceedings.  
+
+OVERVIEW  
+
+We are a developer, manufacturer and supplier of medical imaging systems and diagnostic and surgical products focused on the healthcare needs of women. Historically, we have developed, manufactured and marketed products focused on mammography, breast care and osteoporosis assessment. In October 2007, we completed our business combination with Cytyc, a company that develops, manufactures and markets complementary products covering a range of cancers and womens health applications, including cervical cancer screening, prenatal diagnostics and partial breast radiation therapy. On July 24, 2008 we completed our acquisition of Third Wave, a company that develops and markets molecular diagnostic reagents for a wide variety of DNA and RNA analysis applications based on its proprietary Invader chemistry.  
+
+We have historically focused our resources on developing systems and subsystems offering superior image quality and diagnostic accuracy, which has enabled us to capture significant market share and customer loyalty, despite the presence of large competitors. Our combination with Cytyc enabled us to benefit from Cytycs strengths in the fields of obstetrics, gynecology, radiation oncology and minimally invasive surgery. Our   
+
+46  
+
+Table of Contents 
+
+ acquisition of Third Wave enabled us to further expand our offerings into the clinical molecular diagnostics market utilizing Third Waves Invader chemistry and its HPV test currently awaiting FDA approval. The Dimensions product received CE mark approval in Europe in fiscal 2008.  
+
+Our breast health products include a broad portfolio of breast imaging and related products and accessories, including digital and film-based mammography systems, computer-aided detection (CAD), breast biopsy guidance systems, minimally invasive breast biopsy and tissue extraction devices, and breast brachytherapy products.  
+
+Our diagnostic products include the ThinPrep System, which is primarily used in cytology testing applications, such as cervical cancer screening, and the Full Term Fetal Fibronectin Test, which offers clinical and cost benefits for the assessment of the risk of pre-term birth. Through our recent acquisition of Third Wave, we have added in vitro diagnostic devices using Third Waves Invader technology allowing researchers and clinical laboratories to create assays to perform hepatitis C virus genotyping, inherited disorders testing and testing for other mutations associated with genetic predispositions and other diseases such as Cystic Fibrosis. We have also submitted applications to the FDA for pre-market approval of two HPV tests.  
+
+Our GYN surgical products are made up of the NovaSure System, which enables physicians to treat women suffering from excessive menstrual bleeding in a minimally invasive manner in order to eliminate or reduce their bleeding, and the Adiana Complete Transcervical Sterilization System, which is a form of permanent female contraception intended as an alternative to tubal ligation and for which we are in the process of seeking a pre-market approval from the FDA.  
+
+Our skeletal health products primarily consist of dual-energy X-ray bone densitometry systems, an ultrasound-based osteoporosis assessment product, our Fluoroscan mini C-arm imaging products and our Esaote line of extremity Magnetic Resonance Imaging (MRI) systems which are manufactured by an original equipment manufacturer.  
+
+On April 2, 2008, we effected a two-for-one stock split in the form of a stock dividend. The stock split has been retroactively reflected in the Management Discussion and Analysis of Financial Condition and Results of Operation section of this report.  
+
+RECENT ECONOMIC DEVELOPMENTS  
+
+Market acceptance of our medical products in the United States and other countries is dependent upon the medical equipment purchasing and procurement practices of our customers, patient demand for our products and procedures and the reimbursement of patients medical expenses by government healthcare programs, private insurers or other healthcare payors. The current uncertainty surrounding world financial markets may result in the purchasers of medical equipment decreasing their medical equipment purchasing and procurement activities. Additionally, constrictions in world credit markets may result in our customers having increased difficulty securing the financing necessary to purchase our products which may result in decreased sales. Widespread economic uncertainty may also result in cost-conscious consumers making fewer elective trips to their physicians and specialists which could result in reduced demand for our products and procedures. Furthermore, governments around the world facing tightening budgets could move to further reduce the reimbursement rates offered by government sponsored healthcare programs. If the current economic conditions results in the occurrence of any of these events, our business and prospects may be adversely affected. 
+
+Recently the value of the U.S. dollar has strengthened against the value of many foreign currencies. A majority of our sales to international dealers are denominated in U.S. dollars. The strengthening of the U.S. dollar makes these products less competitive in international markets and may impact sales and margins over time. In addition, we have international sales, principally in our Diagnostic segment, that are denominated in foreign currencies. The value of these sales will decrease as the U.S. dollar strengthens. We believe that the strengthening of the U.S. dollar, if it persists, may have a material adverse effect on our international sales and margins.  
+
+47  
+
+Table of Contents 
+
+ACQUISITIONS  
+
+Fiscal 2008 Acquisitions:  
+
+Third Wave Technologies, Inc.  
+
+On July 24, 2008 we completed our acquisition of Third Wave Technologies, Inc. (Third Wave) pursuant to a definitive agreement dated June 8, 2008. We paid $11.25 per share of Third Wave, for an estimated aggregate purchase price (subject to adjustment) of $591.2 million, including approximately $8.1 million for the estimated fair value of fully vested stock-based awards and approximately $7.7 million in acquisition-related expenses. We determined the fair value of the shares issued in connection with the acquisition in accordance with EITF Issue No. 99-12, Determination of the Measurement Date for the Market Price of Acquirer Securities Issued in a Purchase Business Combination.   
+
+We have concluded that the acquisition of Third Wave does not represent a material business combination and therefore no pro forma financial information has been provided herein. Our results of operations include the results of Third Wave since the acquisition date, as a component of our Diagnostics reporting segment.  
+
+Third Wave, located in Madison, Wisconsin, develops and markets molecular diagnostic reagents for a wide variety of DNA and RNA analysis applications based on its proprietary Invader chemistry. Third Waves current clinical diagnostic offerings consist of products for conditions such as Cystic Fibrosis, Hepatitis C, cardiovascular risk and other diseases. Third Wave recently submitted to the U.S. Food and Drug Administration (FDA) pre-market approval (PMA) applications for two human papillomavirus, or HPV, tests.  
+
+Our acquisition of Third Wave has been accounted for using the purchase method of accounting. This means that the total purchase price has been allocated to the assets acquired and liabilities assumed from Third Wave based on our estimate of their fair values as of the date of the acquisition, and any excess of purchase price over those fair values has been recorded as goodwill. Our reported financial condition and results of operations issued for the period ending September 27, 2008 reflect the fair value of acquired tangible and intangible assets and liabilities assumed, and our results of operations also reflect purchase accounting adjustments, such as a significant charge for acquired in-process research and development, increased amortization and other expense for the acquired tangible and intangible assets, as well as the interest on the funds we borrowed to complete the acquisition.  
+
+The allocation of the purchase price is based upon preliminary estimates of the fair value of assets acquired and liabilities assumed as of July 24, 2008. We are in the process of gathering information to finalize our valuation of certain assets and liabilities. The purchase price allocation is preliminary and will be finalized once we have all necessary information to complete our estimate, but generally no later than one year from the date of acquisition. The purchase price allocation is not expected to have a material impact on our financial position or results of operations. The purchase price in excess of net tangible assets acquired was allocated to identifiable intangible assets, including in-process research and development, based upon a detailed valuation that relies on information and assumptions further described below. Any excess purchase price over the fair value of the net tangible and intangible assets acquired and liabilities assumed was allocated to goodwill.  
+
+As part of the preliminary purchase price allocation, approximately $195.2 million of the purchase price has been allocated to acquired in-process research and development projects. The amounts allocated to acquired in-process research and development represents programs for which some research and development has been completed, but technological feasibility has not been determined or FDA approval is pending. The amount allocated to acquired in-process research and development related to the Third Wave acquisition represents the estimated fair value based on risk-adjusted cash flows related to these projects using a discount rate of 20%. The primary basis for determining the technological feasibility of these projects is obtaining regulatory approval to market the underlying products. The fair value attributable to these in-process projects was expensed at the time of the acquisition. If the projects are not successful or completed in a timely manner, we may not realize the financial benefits expected for these projects or for the transaction as a whole.  
+
+48  
+
+Table of Contents 
+
+The most significant acquired in-process technology related to the HPV Cervista HR, for which we have estimated a value of approximately $151.2 million. We currently sell HPV reagents that detect certain high risk HPV types as Analyte Specific Reagents (ASRs). In 2006, Third Wave began clinical trials for PMA submissions to the FDA for Cervista HR. We submitted the PMA in April 2008 and we are anticipating FDA approval in the first half of calendar 2009. Subsequent to receiving FDA approval, we expect to discontinue selling the HPV ASRs and only sell HPV In Vitro Diagnostics (IVDs). As such, the HPV in process research and development relates only to the HPV IVDs and the HPV ASRs were valued as Completed Technology. The estimated cost to complete this technology is approximately $19.3 million.  
+
+The estimated cost to complete Third Waves remaining in-process research and development projects in the aggregate is $9.8 million.  
+
+The net deferred income tax liability relates to the tax effect of acquired identifiable intangible assets and fair value adjustments to acquired inventory and property and equipment, as such amounts are not deductible for tax purposes.  
+
+As noted below, on July 17, 2008, we entered into an amended and restated credit agreement with Goldman Sachs Credit Partners L.P. and certain other lenders and borrowed $540.0 million under that facility to finance our acquisition of Third Wave.  
+
+Cytyc Corporation  
+
+On October 22, 2007, we completed our business combination with Cytyc, pursuant to which Cytyc became our wholly-owned subsidiary. Under the terms of the merger agreement for that transaction, Cytyc shareholders received 1.04 shares of our common stock (after adjusting for the stock split effected on April 2, 2008) and $16.50 in cash for each share of Cytyc common stock held by them. We estimate the aggregate consideration we paid for Cytyc, including liabilities that we assumed in connection with that transaction, to be approximately $6.2 billion. This estimate includes:  
+
+       merger consideration paid to the former Cytyc stockholders of $5.8 billion, consisting of approximately $2.1 billion in cash and approximately 132.0 million shares of our common stock with an estimated fair value of approximately $3.7 billion;  
+
+       16.5 million of fully vested stock options issued upon conversion of Cytyc stock options with an estimated fair value of approximately $241.4 million;  
+
+       the assumption of obligations of Cytyc under its 2.25% Senior Convertible Notes due 2024 with a principal amount outstanding as of October 22, 2007 of approximately $73.0 million and an estimated fair value of approximately $125.0 million; and  
+
+       approximately $24.2 million of direct acquisition costs.  
+
+In connection with the merger, we entered into a credit agreement relating to a senior secured credit facility with Goldman Sachs Credit Partners L.P. and certain other lenders, in which the lenders committed to provide, in the aggregate, senior secured financing of up to approximately $2.55 billion to pay for the cash portion of the merger consideration, for repayment of existing debt of Cytyc, for expenses relating to the merger and for working capital following the completion of the merger. As of the closing of the merger, we borrowed $2.35 billion under the credit facility. In December 2007, we refinanced a substantial portion of this credit facility through the issuance of 2.00% Convertible Senior Notes due 2037 in the principal amount of $1.725 billion. On July 17, 2008, after having paid off all outstanding term loans under the credit facility, we amended and restated the credit facility to finance our acquisition of Third Wave.  
+
+Our business combination with Cytyc was accounted for using the purchase method of accounting. In accordance with SFAS 141, we were considered to be the acquirer of Cytyc for accounting purposes. This means that the total purchase price is allocated to the assets acquired and liabilities assumed from Cytyc based on our   
+
+49  
+
+Table of Contents 
+
+ estimate of their fair values as of the date of the completion of the business combination, and any excess of purchase price over those fair values is recorded as goodwill. Our reported financial condition and results of operations issued for fiscal 2008 reflect the fair value of acquired tangible and intangible assets and liabilities assumed and results of operations after completion of the business combination. Our results of operations also reflect purchase accounting adjustments, such as the write-off of acquired research and development, increased amortization and other expense for the acquired tangible and intangible assets of Cytyc, and the interest on the funds we borrowed to complete the business combination.  
+
+We have allocated the purchase price for our business combination with Cytyc to assets acquired and liabilities assumed based on our estimate of their estimated fair values. We then allocated the purchase price in excess of net tangible assets acquired to identifiable intangible assets, including in-process research and development, based upon a detailed valuation that relies on information and assumptions further described below. Any excess purchase price over the fair value of the net tangible and intangible assets acquired and liabilities assumed was allocated to goodwill.  
+
+Identifiable Intangible Assets  
+
+As part of the purchase price allocation, we determined that Cytycs identifiable intangible assets include existing technology, customer relationships and trade names. Cytycs existing technology relates to patents, patent applications and know-how with respect to the technologies embedded in its currently marketed products. In determining the allocation of the purchase price to existing technology, consideration was only given to patent and patent applications that relate to products that have been approved by the FDA. Cytycs customer relationship assets relate to relationships that Cytycs sales force has developed with OB/GYNS, breast surgeons, clinical laboratories and other physicians. The trade names relate to both the Cytyc name as well as key product names.  
+
+We used the income approach to value the existing technology and marketing based intangibles. This approach calculates fair value by discounting the after-tax cash flows back to a present value. The baseline data for this analysis was the cash flow estimates used to price the transaction. Cash flows were forecasted for each intangible asset, and then discounted based on an appropriate discount rate. The discount rates applied were benchmarked with reference to the implied rate of return from the transaction model as well as Cytycs weighted average cost of capital based on the capital asset pricing model.  
+
+In estimating the useful life of the acquired assets, we considered paragraph 11 of SFAS No. 142, Goodwill and Other Intangible Assets, which lists the pertinent factors to be considered when estimating the useful life of an intangible asset. These factors included a review of the expected use by the combined company of the assets acquired, the expected useful life of another asset (or group of assets) related to the acquired assets, legal, regulatory or other contractual provisions that may limit the useful life of an acquired asset or may enable the extension of the useful life of an acquired asset without substantial cost, the effects of obsolescence, demand, competition and other economic factors, and the level of maintenance expenditures required to obtain the expected future cash flows from the asset. We expect to amortize these intangible assets over their estimated useful lives using a method that is based on estimated future cash flows as we believe this will approximate the pattern in which the economic benefits of the assets will be utilized.  
+
+Acquired In-Process Research and Development  
+
+As part of the purchase price allocation for our business combination with Cytyc, we allocated approximately $370 million of the purchase price to acquired in-process research and development projects. The amount allocated to acquired in-process research and development represents the estimated fair value based on risk-adjusted cash flows related to in-process projects that have not yet reached technological feasibility and have no alternative future uses as of the date of the merger. The primary basis for determining the technological feasibility of these projects is obtaining regulatory approval to market the underlying products. The fair value   
+
+50  
+
+Table of Contents 
+
+ attributable to these in-process projects is expensed at the time of the business combination. If the projects are not successful or completed in a timely manner, we may not realize the financial benefits expected for these projects or for the transaction as a whole.  
+
+The fair value assigned to acquired in-process research and development was determined by estimating the costs to develop the acquired technology into commercially viable products, estimating the resulting net cash flows from the projects, and discounting the net cash flows to their present value. The revenue projections used to value the acquired in-process research and development was based on estimates of relevant market sizes and growth factors, expected trends in technology, and the nature and expected timing of new product introductions by us and our competitors. The resulting net cash flows from such projects were based on our estimates of cost of sales, operating expenses, and income taxes from such projects.  
+
+The rates utilized to discount the net cash flows to their present value were based on estimated cost of capital calculations and the implied rate of return from the transaction model plus a risk premium. Due to the nature of the forecasts and the risks associated with the developmental projects, appropriate risk-adjusted discount rates were used for the in-process research and development projects. The discount rates are based on the stage of completion and uncertainties surrounding the successful development of the purchased in-process technology projects.  
+
+The acquired in-process research and development of Cytyc related to the following research and development projects: Adiana TCS system and expanded labeling of the NovaSure System, Gestiva, the ThinPrep Imaging System, the ThinPrep Processor and Helica.  
+
+The most significant acquired in-process technology relates to the Adiana Complete TransCervical Sterilization System for which we have estimated a value of approximately $220.0 million. The system, currently under review by the FDA, is an incisionless trans-cervical permanent sterilization device intended to be used during an office or hospital based procedure. It consists of three different parts: a disposable applicator, an implantable polymer matrix and a radio frequency controller. During January 2008, the FDA requested an additional year of clinical trial data for the product, which we have since completed. We anticipate additional costs of approximately $0.6 million and a delay in the commercial release of this product until at least the second quarter of fiscal 2009. However, we do not believe this delay will have a material adverse impact on our results of operations.  
+
+On January 16, 2008, we entered into a definitive agreement to sell our rights to Gestiva, a drug being developed to be used in the prevention of preterm birth in pregnant women with a history of spontaneous preterm birth, to K-V Pharmaceutical Company. The purchase price is to be completed upon final approval by the FDA of a Gestiva New Drug Application (NDA) on or before February 19, 2010 and the production of a quantity of Gestiva suitable to enable the commercial launch of the product. The purchase price to be paid to us as a result of the transaction is $82.0 million in cash, $7.5 million of which was paid on February 21, 2008, $2.0 million of which was paid on May 22, 2008 and the balance of which is payable upon the satisfaction of the above conditions. We have agreed to continue our efforts to obtain FDA approval of the NDA for Gestiva as part of this arrangement, for which we will be reimbursed by K-V Pharmaceutical. All costs incurred in these efforts will be reimbursed by K-V Pharmaceutical and will be recorded as a credit against research and development expenses. These costs were immaterial during fiscal 2008. We have recorded the $9.5 million as a deferred gain within current liabilities of our Consolidated Balance Sheet. The gain will be recognized upon final FDA approval of the Gestiva NDA. We have allocated $53.4 million to acquired in-process research for this product as part of the initial purchase price allocation. We cannot assure that we will be able to obtain the requisite FDA approval, that the transaction will be completed or that we will receive the balance of the purchase price. Moreover, if K-V Pharmaceutical terminates the agreement as a result of our breach of a material representation, warranty, covenant or agreement, we will be required to return the funds previously received by us as well as expenses reimbursed to us by K-V. In fiscal 2008, we recognized no revenue for the receipt of the initial installment of the purchase price. Rather such payments have been included in deferred revenue and will not be recognized as revenue unless and until the transaction is completed.  
+
+51  
+
+Table of Contents 
+
+Subsequent to the Cytyc merger, we decided to discontinue the development of Cytycs Helica Thermal Coagulator System product. We will not incur any further costs or realize any future cash flows from this product. We will not realize any future cash flows from this product. Our intangible asset valuation for Cytyc included approximately $2.9 million related to customer relationships for Helica. As a result of the Helica product discontinuation, we recorded an impairment charge of $2.9 million during the first quarter of fiscal 2008.  
+
+The other in-process research and development projects we acquired in our business combination with Cytyc are at different stages of development, ranging from the early stages of development to Phase IIb prototype building, ongoing clinical trials and submission to the FDA of PMA and drug applications. FDA approval or clearance has not been granted for any of the products classified as in-process research and development, nor had Cytyc received any foreign approvals or clearances for any of these products. All products classified as in-process research and development require various levels of in-house and external testing, clinical trials and approvals from the FDA before these future products can be marketed. The estimated cash requirements in the aggregate to complete these remaining products was expected to be approximately $5.7 million as of September 27, 2008.  
+
+The successful development of new products and product enhancements is subject to numerous risks and uncertainties, both known and unknown, including, unanticipated delays, access to capital, budget overruns, technical problems and other difficulties that could result in the abandonment or substantial change in the design, development and commercialization of these new products and enhancements, including, for example changes requested by the FDA in connection with PMA or NDA applications for products or 510(k) notification. Given the uncertainties inherent with product development and introduction, we cannot provide assurance that any of our product development efforts will be successful on a timely basis or within budget, if at all. Our failure to develop new products and product enhancements on a timely basis or within budget could harm our results of operations and financial condition.  
+
+Goodwill  
+
+Our purchase price allocation for Cytyc has resulted in goodwill of approximately $3.8 billion. The factors contributing to the recognition of this amount of goodwill are based upon several strategic and synergistic benefits that are expected to be realized from the combination. These benefits include the expectation that our complementary products and technologies will create a leading womens healthcare company with an enhanced presence in hospitals, private practices and healthcare organizations. We also expect to realize substantial synergies through the use of Cytycs OB/GYN and breast surgeon sales channel to cross-sell our existing and future products. Our business combination with Cytyc provides us broader channel coverage within the United States and expanded geographic reach internationally, as well as increased scale and scope for further expanding operations through product development and complementary strategic transactions.  
+
+Fiscal 2007 Acquisition:  
+
+BioLucent, Inc.  
+
+On September 18, 2007 we completed the acquisition of BioLucent, Inc. (BioLucent) pursuant to a definitive agreement dated June 20, 2007. The results of operations for BioLucent have been included in our consolidated financial statements from the date of acquisition as part of our Breast Health business segment. We have concluded that the acquisition of BioLucent does not represent a material business combination and therefore no pro forma financial information has been provided herein.  
+
+BioLucent, previously located in Aliso Viejo, California, develops, markets and sells MammoPad breast cushions to decrease the discomfort associated with mammography. Prior to the acquisition, BioLucents primary research and development efforts were directed at its brachytherapy business which was focused on breast cancer therapy. Prior to the acquisition, BioLucent spun-off its brachytherapy technology and business to the holders of   
+
+52  
+
+Table of Contents 
+
+ BioLucents outstanding shares of capital stock. As a result, we only acquired BioLucents MammoPad cushion business and related assets. We invested $1 million directly in the spun-off brachytherapy business in exchange for shares of preferred stock issued by the new business.  
+
+The aggregate purchase price for BioLucent was approximately $73.2 million, consisting of approximately $6.8 million in cash and 2,314,000 shares of Hologic Common Stock valued at approximately $63.2 million, debt assumed and paid off of approximately $1.6 million and approximately $1.6 million for acquisition related fees and expenses. We determined the fair value of the shares issued in connection with the acquisition in accordance with EITF Issue No. 99-12, Determination of the Measurement Date for the Market Price of Acquirer Securities Issued in a Purchase Business Combination.   
+
+The acquisition also provides for up to two annual earn-out payments not to exceed $15.0 million in the aggregate based on BioLucents achievement of certain revenue targets. We have considered the provision of EITF Issue No. 95-8, Accounting for Contingent Consideration Paid to the Shareholders of an Acquired Enterprise in a Purchase Business Combination, and concluded that this contingent consideration will represent additional purchase price. As a result, goodwill will be increased by the amount of the additional consideration, if any, when it becomes due and payable. As of September 27, 2008, we have not recorded any amounts for these potential earn-outs.  
+
+The final purchase price allocations were completed within one year of the acquisition and the adjustments did not have a material impact on our financial position or results of operation. There have been no other material changes to the purchase price allocation as disclosed in our Form 10-K for the year ended September 29, 2007. The allocation of the purchase price is based upon estimates of the fair value of assets acquired and liabilities assumed as of September 18, 2007.  
+
+Fiscal 2006 Acquisitions:  
+
+Fischer Imaging  
+
+On September 29, 2005, we acquired intellectual property relating to Fischer Imaging Corporations mammography business and products, including the intellectual property relating to its Mammotest prone breast biopsy and Senoscan digital mammography systems. The purchase price for the intellectual property was $32.0 million, approximately $26.9 million of which was paid out of existing cash with the remaining amount paid through the cancellation of the principal and interest outstanding under a $5.0 million secured loan we previously provided to Fischer Imaging on June 22, 2005. We incurred a charge of approximately $4.2 million to write off in-process research and development in the first quarter of fiscal 2006. As a result of the FTC investigation in the fourth quarter of 2006, we sold, to Siemens AG for a cash payment of $6.5 million, all of the intellectual property we acquired from Fischer relating to the Mammotest system, subject to our retention of a royalty-free, non-exclusive, perpetual, irrevocable, worldwide right and license to use that intellectual property. In connection with this sale we recorded an impairment charge of approximately $1.4 million and a resulting net gain of approximately $5.1 million from the proceeds on the sale during the fourth quarter of fiscal 2006.  
+
+AEG Elektrofotografie  
+
+On May 2, 2006, we acquired AEG Elektrofotografie (AEG) and its group of related companies. AEG was a privately held group of companies headquartered in Warstein, Germany, with manufacturing operations in Germany, China and U.S. AEG specializes in the manufacture of photoconductor materials for use in a variety of electro photographic applications, including for the coating of our digital detectors. The acquisition of AEG allowed us to take control over this critical step in our detector manufacturing process. The results of AEG operations have been included in our consolidated financial statements since the date of acquisition and are a component of our other business segment.  
+
+53  
+
+Table of Contents 
+
+The aggregate purchase price for AEG was approximately $31.3 million consisting of $24.1 million and 220,000 shares of our common stock valued at $5.3 million, and approximately $1.9 million for acquisition related fees and expenses.  
+
+The acquisition also provided for a one-year earn out of EUR 1.7 million (approximately $2.0 million USD) which was payable in cash if AEG calendar year 2006 earnings, as defined, exceeded a pre-determined amount. AEGs earnings did not exceed such pre-determined amount and no payment was made.  
+
+We finalized and implemented a plan to restructure certain of AEGs historical activities. We recorded a liability of approximately $1.9 million in accordance with EITF Issue No. 95-3, Recognition of Liabilities in Connection with a Purchase Business Combination, related to the termination of certain employees under this plan and all amounts had been paid as of September 29, 2007.  
+
+As part of the purchase price allocation, all intangible assets that were a part of the acquisition were identified and valued. It was determined that only customer lists, trade names, developed technology and in-process research and development had separately identifiable values. The fair value of these intangible assets was determined through the application of the income approach. Customer lists represent customer relationships as AEG has a high dependency on a small number of large accounts. AEG markets its products through distributors as well as directly to its own customers. Trademarks represent the AEG product names that we intend to continue to use. Developed technology represents currently marketable purchased products that we will continue to resell as well as utilize to enhance and incorporate into our existing products. The intangible assets are expected to be amortized on a straight-line basis over the expected useful lives as the anticipated undiscounted cash flows are relatively consistent over the expected useful lives of the intangible assets.  
+
+The estimated $0.6 million of purchase price allocated to in-process research and development projects related to AEGs Organic Photoconductor Coating and Selenium product lines.  
+
+R2 Technology  
+
+On July 13, 2006, we completed the acquisition of R2 Technology, Inc. (R2). R2 develops and sells CAD technology and products, an innovative technology that assists radiologists in the early detection of breast cancer. The aggregate purchase price for R2 of approximately $220.6 million consisted of 8.8 million shares of our common stock valued at $205.5 million, cash paid of $6.9 million, debt assumed of $5.7 million and approximately $2.5 million for acquisition related fees and expenses. The results of operations for R2 have been included in our consolidated financial statements from the date of acquisition as part of our mammography business segment.  
+
+We implemented and finalized a plan to restructure certain of R2s historical activities. We recorded a liability of approximately $0.8 million in accordance with EITF Issue No. 95-3, Recognition of Liabilities in Connection with a Purchase Business Combination, related to the termination of certain employees and a loss related to the abandonment of certain lease space under this plan. All amounts related to these liabilities had been paid as of September 29, 2007. We reduced goodwill related to the R2 acquisition in the amount of $2.3 million and $0.4 million during the years ended September 29, 2007 and 2008, respectively. The reduction in 2007 was primarily related to a change in the preliminary valuation of certain assets and liabilities acquired based on information received during the year. The decrease in goodwill during 2008 was related to the reduction of an income tax liability. The final purchase price allocations were completed within one year of the acquisition and the adjustments did not have a material impact on our financial position or results of operation. There have been no other material changes to the purchase price allocation as disclosed in our Form 10-K for the year ended September 29, 2007.  
+
+As part of the purchase price allocation, all intangible assets that were a part of the acquisition were identified and valued. It was determined that only customer relationships, trade names, developed technology, and in-process research and development had separately identifiable values. Customer relationships represent   
+
+54  
+
+Table of Contents 
+
+ R2s strong active customer base, dominant market position and strong partnership with several large companies. Trademarks represent the R2 product names that we intend to continue to use. Developed technology represents currently marketable purchased products that we will continue to resell as well as utilize to enhance and incorporate into our existing products.  
+
+The estimated $10.2 million of purchase price allocated to in-process research and development projects primarily related to R2s Digital CAD products. The projects added direct digital algorithm capabilities as well as a new platform technology to analyze images and breast density measurement. The projects were substantially completed as planned during fiscal 2007.  
+
+Suros Surgical Systems  
+
+On July 27, 2006, we completed the acquisition of Suros Surgical Systems, Inc. (Suros). Suros, located in Indianapolis, Indiana, develops, manufactures and sells minimally invasive interventional breast biopsy technology and products for biopsy, tissue removal and biopsy site marking. The initial purchase price for Suros was approximately $248.1 million paid in a combination of cash and 4.6 million shares of our common stock. The common stock value of approximately $106.5 million, cash paid of $139.0 million inclusive of certain liabilities assumed, and approximately $2.6 million for acquisition related fees and expenses resulted in an aggregate purchase price of approximately $248.1 million. The results of operations for Suros have been included in our consolidated financial statements from the date of acquisition as part of our mammography business segment.  
+
+The acquisition also provides for a two-year earn-out. The earn-out is payable in two annual cash installments equal to the incremental revenue growth in Suros business in the two years following the closing. We have considered the provisions of EITF Issue No. 95-8, Accounting for Contingent Consideration Paid to the Shareholders of and Acquired Enterprise in a Purchase Business Combination, and concluded that this contingent consideration represents additional purchase price. Goodwill was increased by $19.0 million during fiscal 2007 as a result of payment made related to the incremental revenue growth of Suros business in the first year following the closing. Goodwill increased by $24.5 million during fiscal 2008 as a result of the second and final earn-out related to Suros incremental revenue growth. In addition to the earn-out discussed above, we decreased goodwill in the amount of $1.3 million during fiscal 2008 related to the reduction of an income tax liability.  
+
+As part of the purchase price allocation, all intangible assets that were a part of the acquisition were identified and valued. It was determined that only customer relationships, trade names, developed technology and in-process research and development had separately identifiable values. Customer relationships represent Suros large installed base that are expected to purchase disposable products on a regular basis. Trademarks represent the Suros product names that we intend to continue to use. Developed technology represents currently marketable purchased products that we continue to sell as well as utilize to enhance and incorporate into our existing products.  
+
+The estimated $4.9 million of purchase price allocated to in-process research and development projects primarily related to Suros disposable products. The projects were at various stages of completion and include next generation handpiece and site marker technologies. We have continued to work on these projects and they are substantially complete at September 27, 2008.  
+
+We had existing relationships with each of AEG, R2 and Suros as suppliers of inventory items. The supply agreements were entered into in prior years at arms length terms and conditions. No minimum purchase requirements existed and the pricing was consistent with other vendor agreements.  
+
+55  
+
+Table of Contents 
+
+RESULTS OF OPERATIONS   
+
+The following table sets forth, for the periods indicated, the percentage of total revenues represented by items as shown in our Consolidated Statements of Operations. All dollar amounts in tables are presented in thousands.  
+
+  [DATA_TABLE_REMOVED] 
+
+Fiscal Year Ended September 27, 2008 Compared to Fiscal Year Ended September 29, 2007  
+
+Product Sales.  
+
+  [DATA_TABLE_REMOVED] 
+
+In fiscal 2008 our product sales increased 139% compared to fiscal 2007, primarily due to the revenues from the addition of the Diagnostics segment, of approximately $474.6 million, and the GYN Surgical segment, of   
+
+56  
+
+Table of Contents 
+
+ approximately $219.3 million, that we acquired in connection with our business combination with Cytyc, and an increase in revenues from our Breast Health products of approximately $172.2 million.  
+
+Breast Health product sales increased 31% in fiscal 2008 compared to fiscal 2007, primarily due to a $97.0 million increase in worldwide digital mammography system sales, the addition of $33.9 million of product sales of the MammoSite Radiation Therapy System, a $23.6 million increase in breast biopsy device sales from Suros and an increase of $21.5 million in product sales of the MammoPad breast cushion. Partially offsetting these increases was a decrease of $6.4 million in digital array sales to an OEM as we phase out of selling these arrays to third parties. The MammoSite system was acquired in connection with our business combination with Cytyc in October 2007 and the MammoPad breast cushion was acquired in connection with our BioLucent acquisition in September 2007. The increase in our digital mammography product sales was primarily attributable to an increase in the number of Selenia systems and related components sold, including our R2 CAD software. In fiscal 2008 we sold 1,678 digital mammography systems compared to 1,189 systems in fiscal 2007. This revenue was partially offset by a decrease in average selling prices primarily attributable to increased competition, higher dealer sales, changes in product configuration and increased multi-system sales. We attribute the increase in digital mammography system sales primarily to the growing acceptance of our Selenia mammography system and of digital mammography in general. We expect the growth in the sales of these systems to slow as the market for digital mammography matures.  
+
+Diagnostics product sales were $474.6 million in fiscal 2008, due to the inclusion of Cytyc results for 49 of the 52 weeks in the current year as well as 9 weeks of Third Wave revenues of approximately $5.9 million. Cytyc Diagnostic sales include our ThinPrep and FullTerm products.  
+
+GYN Surgical product sales were $219.3 million in fiscal 2008, due to the inclusion of Cytyc results for 49 of the 52 weeks in the current year. These sales include our NovaSure system.  
+
+Skeletal Health product sales increased 11% in fiscal 2008 compared to fiscal 2007, primarily due to a $10.8 million increase in mini C-arm sales worldwide, partially offset by a $2.0 million decrease in extremity MRI sales and a $1.2 million decrease in bone densitometry product sales. The increase in mini C-arm sales was primarily due to an increase in the number of units sold and, to a lesser extent, an increase in the average selling prices related to the commercialization of a new and enhanced product version. The decrease in extremity MRI sales was due to a decrease in the number of systems sold. The decrease in bone densitometry sales was primarily due to a decrease in the number of used bone densitometry systems and upgrades sold and a decrease in the average selling prices of our bone densitometry systems in the United States, partially offset by an increase in the number of bone densitometry systems sold internationally. We believe the decrease in our domestic osteoporosis assessment average selling prices reflected a decline in market conditions due in part to a reduction in reimbursement for osteoporosis assessment exams.  
+
+In fiscal 2008, approximately 80% of product sales were generated in the United States, 12% in Europe, 4% in Asia, and 4% in other international markets. In fiscal 2007, approximately 75% of product sales were generated in the United States, 15% in Europe, 5% in Asia, and 5% in other international markets. The increase in the percentage of product sales generated in the United States in fiscal 2008 is primarily due to the additional product sales from Cytyc, which had a higher percentage of its product sales from the United States than our historical businesses.  
+
+Service and Other Revenues.  
+
+  [DATA_TABLE_REMOVED] 
+
+57  
+
+Table of Contents 
+
+Service and other revenues is primarily comprised of revenue generated from our field service organization to provide ongoing service, installation and repair of our products. Service and other revenues increased 57% in fiscal 2008 compared to fiscal 2007. This increase was primarily due to an increase in service and other revenues of $49.8 million in our Breast Health segment, primarily due to an increase in service contract revenues, and the inclusion of service and other revenues of $10.3 million from the Diagnostics segment as a result of the inclusion of Cytyc results for 49 of the 52 weeks in fiscal 2008. We believe that the increase in our Breast Health service and other revenues reflects the continued growth in our installed base of systems and detectors.  
+
+Cost of Product Sales.  
+
+  [DATA_TABLE_REMOVED] 
+
+The cost of product sales increased 100% in fiscal 2008 compared to fiscal 2007 primarily due to the addition of $196.0 million of cost of product sales from the Cytyc products included in our results since October 22, 2007 and, to a lesser extent, increased product sales of our historical products discussed above. Included in the additional Cytyc cost of product sales is approximately $42.3 million of additional costs related to sales of acquired Cytyc inventory that was written up to fair value for purchase accounting purposes as of the date of acquisition.  
+
+The cost of product sales as a percentage of product revenue in fiscal 2008 was 36% as compared to 43% in the prior year. These costs as a percentage of product sales decreased primarily due to the higher gross margins earned on Cytyc product sales compared to our historical products, partially offset by the additional charges for the write-up to fair value for the Cytyc inventory sold as noted above. Also contributing to the decrease in cost of product sales as a percentage of product revenue was increased revenues and improved profitability associated with the shift in mammography product sales to our Selenia full field digital mammography systems. Our higher Selenia system sales resulted in an improved absorption of fixed manufacturing costs. Partially offsetting the decreases in costs as a percentage of product sales were charges associated with a MRI inventory impairment charge and related purchase obligations totaling $4.5 million and $3.9 million related to sales of acquired Third Wave inventory that was written up to fair value in connection with purchase accounting in fiscal 2008.  
+
+We have identified certain costs recorded within Cost of Service and Other Revenues in our Consolidated Statement of Operations during the first three quarters of fiscal 2008 that more appropriately should be classified as Cost of Product Sales. We determined that the reclassification is not material to our consolidated financial statements and we have corrected the classification in the fourth quarter of fiscal 2008. In future filings, we will reclassify these costs related to prior periods to the current presentation, which will result in an increase in Cost of Product Sales and a corresponding decrease in Cost of Service and Other Revenues of $9.3 million in the three months ended December 29, 2007; $12.3 million in the three months ended March 29, 2008; and $13.3 million in the three months ended June 28, 2008.  
+
+Cost of Product SalesAmortization of Intangible Assets.  
+
+  [DATA_TABLE_REMOVED] 
+
+58  
+
+Table of Contents 
+
+Cost of product sales  amortization of intangible assets increased primarily due to $80.2 million of amortization of intangible assets obtained as part of the Cytyc business combination in the first quarter of fiscal 2008. The underlying intangible assets substantially relate to acquired developed technology and know-how. These intangible assets are generally being amortized over their estimated useful lives of between 8.5 and 15 years.  
+
+Cost of Service and Other Revenues.  
+
+  [DATA_TABLE_REMOVED] 
+
+Cost of service and other revenues increased in absolute dollars primarily related to additional costs from the Cytyc business combination of approximately $14.7 million in fiscal 2008. The remainder of the increase was primarily due to personnel and other costs to expand our service capabilities for breast health, especially in the United States, to support our growing installed base of our breast health products as a result of the increased service and other revenues. We expect our costs of service and other revenues to remain relatively high as a percentage of service and other revenues, reflecting our need to employ the required personnel for warranty, non-warranty and installation activities to service our growing installed base of products. Please see Cost of Product Sales above for discussion of reclassification between cost of product sales and cost of service and other revenues during fiscal 2008.  
+
+Operating Expenses.  
+
+  [DATA_TABLE_REMOVED] 
+
+Research and Development Expenses. Research and development expenses increased 83% in fiscal 2008 as compared to fiscal 2007. These increases were primarily due to the inclusion of $31.5 million and $3.7 million of expenses in the current year associated with Cytyc-related and Third Wave-related activity, respectively, since the close of the business combination with Cytyc and the acquisition of Third Wave. Also contributing to the increase was an increase in mammography related expenses of $2.6 million in fiscal 2008 primarily related to our tomosynthesis project and a $1.8 million charge for a change in control payment related to the Cytyc business combination recorded in the first quarter. We expect total research and development expenses to increase in fiscal 2009 due to the inclusion of a full year of expenses from the Third Wave acquisition and Cytyc business combination and our continued development of tomosynthesis technology for mammography.  
+
+59  
+
+Table of Contents 
+
+Selling and Marketing Expenses. Selling and marketing expenses increased 206% in fiscal 2008 as compared to fiscal 2007. These increases were primarily due to the inclusion of $160.3 million of expenses associated with Cytyc-related activity since the close of the business combination and approximately $5.1 million related to increased compensation and related expenses from the additional sales representatives added from the BioLucent acquisition in the fourth quarter of fiscal 2007. Also contributing to the increase was approximately $3.3 million increased commission expense due to the increased product sales. We expect total sales and marketing expenses to increase in fiscal 2009 with a full year of compensation and related expenses for additional personnel related to the Third Wave acquisition and the Cytyc business combination and an increase in total product sales.  
+
+General and Administrative Expenses. General and administrative expenses increased 137% in fiscal 2008 as compared to fiscal 2007 primarily due to $77.5 million in expenses associated with Cytyc-related activity since the close of the business combination and an increase of $11.2 million due to incremental stock-based compensation. We expect total general and administrative expenses to increase in fiscal 2009 with a full year of compensation and related expenses for additional personnel related to the Third Wave acquisition and the Cytyc business combination.  
+
+Amortization of Acquired Intangible Assets. Amortization expense of acquired intangible assets increased 352% in fiscal 2008 as compared to fiscal 2007, primarily due to $15.9 million of amortization of intangible assets obtained as part of the Cytyc business combination in the first quarter of fiscal 2008. Fiscal years 2008 and 2007 also include the amortization of intangible assets acquired from AEG, R2, and Suros in the third and fourth quarters of fiscal 2006. The underlying intangible assets substantially relate to acquired customer relationships and trade names. These intangible assets acquired in the Cytyc business combination are being amortized over their estimated useful lives of between 8.5 and 30 years. We expect to incur additional amortization of acquired intangible assets in connection with our acquisition of Third Wave.  
+
+Restructuring. During fiscal 2008 we recorded $6.4 million in compensation charges, including $1.9 million in stock-based compensation, related to the resignation of our Executive Chairman, which was effective May 20, 2008.  
+
+Impairment of Acquired Intangible Assets. Subsequent to the Cytyc business combination, we discontinued the development of Cytycs Helica Thermal Coagulator System product, used for the treatment of endometriosis. We will not realize any future cash flows from this product. Our intangible asset valuation for Cytyc included approximately $2.9 million related to customer relationships for Helica. As a result of the Helica product discontinuation, we recorded an impairment charge of $2.9 million during the first quarter of fiscal 2008.  
+
+Acquired In-Process Research and Development Expenses. Included in this charge in fiscal 2008 is $370.0 million for in-process research and development incurred in connection with our business combination with Cytyc as described in further detail above under Fiscal 2008 AcquisitionsCytyc Corporation. Also included is $195.2 million for in-process research and development incurred in connection with our acquisition of Third Wave as described in further detail above under Fiscal 2008 AcquisitionsThird Wave Technologies, Inc.  
+
+Interest Income.  
+
+  [DATA_TABLE_REMOVED] 
+
+Interest income increased in fiscal 2008 compared to fiscal 2007 primarily due an increase in our investment balances, partially offset by a decrease in the interest rate earned during the current year compared to fiscal 2007.  
+
+60  
+
+Table of Contents 
+
+Interest Expense.  
+
+  [DATA_TABLE_REMOVED] 
+
+In fiscal 2008, these expenses consisted primarily of the interest costs and the related amortization of deferred financing costs related to both the senior secured credit agreement entered into on October 22, 2007 in connection with the Cytyc business combination and our subsequent 2.0% Convertible Note Offering. In fiscal 2007, these expenses consisted primarily of the interest costs and fees on the unsecured revolving line of credit entered into on July 24, 2006 (and amended on September 25, 2006) of $1.5 million as well as interest costs on notes payable assumed with the acquisition of AEG in the amount of $1.0 million. We incurred additional interest expense in the fourth quarter of fiscal 2008 in connection with our borrowing of $540.0 million on July 17, 2008 to fund a portion of the purchase price for the acquisition of Third Wave.  
+
+Other (Expense) Income, net.  
+
+  [DATA_TABLE_REMOVED] 
+
+In fiscal 2008, these balances were primarily related to foreign currency transaction losses of approximately $0.7 million and a decrease in the cash surrender value of life insurance contracts related to our SERP of approximately $1.4 million. To the extent that foreign currency exchange rates fluctuate in the future, we may be exposed to continued financial risk. Although we have established certain debt agreements denominated in the foreign currency, the Euro, in which certain of our subsidiaries currently conduct business to minimize this risk, we cannot assure that we will be successful or can fully hedge our outstanding exposure. In fiscal 2007, other income related primarily to the increase in the cash surrender value of life insurance contracts related to our SERP.  
+
+Provision for Income Taxes.  
+
+  [DATA_TABLE_REMOVED] 
+
+We account for income taxes under SFAS No. 109, Accounting for Income Taxes. This statement requires that we recognize a current tax liability or asset for current taxes payable or refundable and a deferred tax liability or asset for the estimated future tax effects of temporary differences and carry forwards to the extent they are realizable. We record a valuation allowance to reduce our deferred tax assets to the amount that is more likely than not to be realized. While we have considered future taxable income and ongoing prudent and feasible tax planning strategies in assessing the need for the valuation allowance, in the event we were to determine that we would be able to realize our deferred tax assets in the future in excess of the net recorded amount, an adjustment to the deferred tax asset would increase income in the period such determination was made. Likewise, should we determine that we would not be able to realize all or part of our net deferred tax asset in the future, an adjustment to the deferred tax asset would be charged to income in the period such determination was made.  
+
+61  
+
+Table of Contents 
+
+Our effective tax rate for fiscal 2008 was 38.1% of the pre-tax loss. For fiscal 2008, our effective tax rate was affected by the in-process research and development and intangible asset impairment charges we incurred in connection with our business combination with Cytyc and the in-process research and development that we incurred in connection with the acquisition of Third Wave Technologies. Absent the in-process research and development and intangible asset impairment charges, our effective tax rate would have been approximately 36.9% for fiscal 2008. Our effective tax rate for fiscal 2007 was 36.3% of pre-tax earnings. This represented our normalized rate of approximately 37% reduced by certain tax credits.  
+
+Our net deferred tax liability increased approximately $842.0 million in fiscal 2008 primarily due to the increase of intangible assets as a result of the Cytyc merger, for which the related amortization is not deductible for tax purposes.  
+
+We anticipate an effective tax rate of approximately 35-36% of pre-tax earnings in fiscal 2009.  
+
+Segment Results of Operations  
+
+As discussed above, we are now reporting our business as four segments: Breast Health, Diagnostics, GYN Surgical and Skeletal Health. Prior periods have been restated to conform to this presentation. The accounting policies of the segments are the same as those described in the footnotes to the accompanying consolidated financial statements. We measure segment performance based on total revenues and operating income or loss. Revenues from product sales of each of these segments are described in further detail above. The discussion that follows is a summary analysis of total revenues and the primary changes in operating income or loss by segment.  
+
+Breast Health.  
+
+  [DATA_TABLE_REMOVED] 
+
+Breast Health revenues for fiscal 2008 increased primarily due to the $172.2 million increase in product sales discussed above and due to a $49.8 million increase in service revenues that was primarily related to the increased number of service contracts for the increased number of Selenia systems in our installed base. Operating income for this business segment increased primarily due to the increased revenues. Our gross margin in this business segment was 51% in fiscal 2008 as compared to 49% in fiscal 2007. In fiscal 2008 our gross margins improved from the increase in product revenues of our more profitable Selenia systems versus our analog mammography systems and, to a lesser extent, higher margins realized on our MammoSite product, acquired as part of the Cytyc merger. In addition, higher total revenues including higher Selenia system sales have allowed for the greater absorption of manufacturing costs. Partially offsetting these improvements was a charge of $3.3 million for the write-up to fair value of MammoSite RTS inventory sold, primarily during the first quarter of fiscal 2008. Operating expenses for this business segment increased 34% in fiscal 2008, primarily due to the addition of $28.4 million of operating expenses from the MammoSite business as well as from increased operating expenses in support of our growing Selenia business. Also contributing to the increases during the year was an increase in stock-based compensation of $7.1 million, as well as a $0.4 million restructuring charge in the third quarter related to the resignation of our Executive Chairman in May 2008.  
+
+62  
+
+Table of Contents 
+
+Diagnostics.  
+
+  [DATA_TABLE_REMOVED] 
+
+Diagnostics revenues, which include our ThinPrep, FullTerm and Third Wave products, totaled $485.0 million in fiscal 2008. Our gross margin in this business segment was 57%, including charges of $26.6 million and $3.9 million, respectively, for the write-up to fair value of the Cytyc inventory sold during the first quarter and the Third Wave inventory sold during the fourth quarter of fiscal 2008. The operating loss also included an $85.2 million charge for in-process research and development as a result of the Cytyc business combination in the first quarter, a $195.2 million charge for in-process research and development as a result of the Third Wave acquisition in the fourth quarter, stock-based compensation of $7.6 million and a $3.6 million restructuring charge in the third quarter related to the resignation of our Executive Chairman in May 2008.  
+
+GYN Surgical.  
+
+  [DATA_TABLE_REMOVED] 
+
+GYN Surgical revenues, which include our NovaSure products and Adiana systems under development, totaled $221.1 million in fiscal 2008. In the second and third quarters, we believe that sales of the NovaSure system were adversely affected by a modest softening in sales to the hospital-based market, as well as lower than expected customer inventory utilization. Our sales to both the hospital market and office based market generally have been based upon current order bookings for immediate shipment with little or no backlog. Over the last three quarters, we have refocused our sales efforts and programs to increasing longer term customer commitments. However, while we cannot assure that we will be successful, our goal is to have a continuing increase in NovaSure system backlog, followed by a continued increase in sequential growth of revenue during fiscal 2009 with sales to the physician office-based market playing a role in that increase. Our gross margin in this business segment was 67% during this period and includes a charge of $12.4 million for the write-up to fair value of the Cytyc inventory sold during the first fiscal quarter of 2008. The operating loss for fiscal 2008 also includes a $284.8 million charge for in-process research and development as a result of the Cytyc business combination and a $2.9 million impairment charge of the Helica Thermal Coagulator System intangibles. This segment included stock-based compensation of $3.8 million in fiscal 2008, as well as a $2.4 million restructuring charge in the third quarter related to the resignation of our Executive Chairman in May 2008.  
+
+63  
+
+Table of Contents 
+
+Skeletal Health.  
+
+  [DATA_TABLE_REMOVED] 
+
+Skeletal Health revenues increased in fiscal 2008 compared to the corresponding period in the prior year primarily due to the $7.5 million increase in product sales discussed above. Our gross margin in this business segment was 34% in fiscal 2008 compared to 32% in fiscal 2007. Operating income and gross margin for the Skeletal Health segment increased in fiscal 2008 over fiscal 2007 primarily due to the increased revenues and due to improved absorption as a result of manufacturing additional products in the facility where the Skeletal Health products are produced, partially offset by charges associated with MRI inventory and purchase obligations recorded in fiscal 2008 totaling $4.5 million compared to $2.0 million in fiscal 2007. Skeletal Health costs and expenses included stock compensation of $2.2 million and $1.1 million in fiscal 2008 and fiscal 2007, respectively.  
+
+Fiscal Year Ended September 29, 2007 Compared to Fiscal Year Ended September 30, 2006  
+
+Product Sales.  
+
+  [DATA_TABLE_REMOVED] 
+
+In fiscal 2007 our product sales increased 62% compared to fiscal 2006 primarily due to an increase in revenues from our breast health products, led by an increase in the number of Selenia digital mammography systems sold, and to a lesser extent, increased breast biopsy sales from Suros, acquired in the fourth quarter of fiscal 2006 and the inclusion for the full year of sales from AEG, acquired during the third quarter of fiscal 2006. Also contributing to the increase was an increase in sales of mini C-arm systems; offsetting these increases was a decrease in other skeletal health sales in fiscal 2007.  
+
+Breast Health product sales increased 80% in fiscal 2007 compared to fiscal 2006 primarily due to a $178.0 million increase in digital mammography system sales, an increase of $50.1 million in breast biopsy device sales from Suros, $29.6 million in additional sales from AEG and a $8.4 million increase in CAD product sales from R2. Suros and R2 are entities we acquired in the fourth quarter of fiscal 2006 and AEG was acquired in the third quarter of fiscal 2006. Prior to our acquisition of R2 we had sold CAD products together with our digital mammography systems, primarily from R2 as a distributor. The increase in CAD product sales represents the additional CAD sales made without our digital mammography systems. These increases were partially offset by an $8.6 million decrease in MultiCare stereotactic table sales and an $8.3 million decrease in analog mammography systems sales. The increase in our digital mammography product sales was primarily attributable to an increase in the number of Selenia systems and related components sold, primarily in the United States. In fiscal 2007, we sold 1,189 digital mammography systems compared to 555 systems in fiscal 2006. This revenue   
+
+64  
+
+Table of Contents 
+
+ was partially offset by a decrease in average selling prices primarily attributable to increased competition, higher dealer sales, changes in product configuration and increased multi-system sales. We attribute the increase in digital mammography system sales primarily to the growing acceptance of our Selenia mammography system and of digital mammography in general. The decrease in MultiCare stereotactic tables was primarily attributable to a decrease in the number of systems sold worldwide in fiscal 2007 compared to fiscal 2006 due in part to higher demand in 2006 related to increased sales activity following our acquisition of Fischers mammography intellectual property in September 2005 and, to a lesser extent, a decrease in average selling prices primarily in the United States. The decrease in sales of our analog mammography systems was primarily attributable to a decrease in the number of systems sold worldwide and, to a lesser extent, a decrease in average selling prices. We believe that this decrease in analog system sales was primarily due to the shift in product sales to digital systems.  
+
+Skeletal Health product sales decreased 9% in fiscal 2007 compared to fiscal 2006. This decrease was primarily due to a $13.9 million decrease in product sales in the United States primarily due to a decrease in the number of bone densitometry systems sold and, to a lesser extent, a decrease in the average selling prices. This decrease was partially offset by an $8.7 million increase in our mini C-arm system sales. The increase in mini C-arm revenue was primarily the result of an increase in the number of systems sold in the United States and Europe.  
+
+We believe this decrease in our domestic unit sales reflected a decline in market conditions due to a reduction in reimbursement for osteoporosis assessment exams.  
+
+In fiscal 2007, approximately 75% of product sales were generated in the United States, 15% in Europe, 5% in Asia, and 5% in other international markets. In fiscal 2006, approximately 72% of product sales were generated in the United States, 17% in Europe, 7% in Asia, and 4% in other international markets. We believe the higher growth in sales dollars to the United States market was primarily due to an increase in demand for our Selenia digital mammography system as adoption of digital mammography was occurring at an increased rate in the United States as compared to international markets.  
+
+Service and Other Revenues.  
+
+  [DATA_TABLE_REMOVED] 
+
+Service and other revenues increased 47% in fiscal 2007 compared to fiscal 2006. This increase was primarily due to an increase in service contract revenues of $30.7 million from an increase in the number of service contracts sold and, to a lesser extent, an increase of $3.1 million in training revenues in our breast health segment. We believe that these increases reflected the continued growth in our installed base of products, especially Selenia, and from the addition of service and other revenues from R2 and Suros which we acquired in the fourth quarter of fiscal 2006.  
+
+Cost of Product Sales.  
+
+  [DATA_TABLE_REMOVED] 
+
+65  
+
+Table of Contents 
+
+Cost of product sales increased 42% in fiscal 2007 compared to fiscal 2006, in absolute dollars, primarily due to the increased product sales discussed above.  
+
+Cost of product sales decreased as a percentage of product sales to 43% in fiscal 2007 from 49% in fiscal 2006. These costs decreased as a percentage of product sales primarily due to increased revenues and improved profitability associated with the shift in mammography product sales to Selenia and, to a lesser extent, the lower cost of CAD as a result of our acquisition of R2. The Selenia systems have significantly higher selling prices, more than offsetting the higher costs of the product, when compared to analog mammography. In addition, fiscal 2007 includes results of the recently acquired R2 and Suros product lines for the entire year which have lower costs as a percentage of sales. Our higher Selenia sales resulted in an improved absorption of fixed manufacturing costs. These improvements were partially offset by fewer bone densitometry systems sold, primarily in the United States, which negatively impacted the absorption of fixed overhead and a reduction in the average selling prices for these systems. Fiscal 2006 includes $4.1 million of additional costs related to the sales of acquired AEG, R2 and Suros inventory that was written up to fair value for purchase accounting purposes as of the date of each acquisition.  
+
+Cost of Product SalesAmortization of Intangible Assets.  
+
+  [DATA_TABLE_REMOVED] 
+
+Costs of Product SalesAmortization of Intangible Assets increased primarily due to the increase in acquired intangible assets as a result of the acquisitions of AEG, R2, Suros and the intangible assets acquired from Fischer Imaging during fiscal 2006, as well as the acquisition of BioLucent in fiscal 2007. The underlying intangible assets substantially relate to acquired developed technology and know-how. These intangible assets are being amortized over their estimated useful lives of between 8.5 and 13 years.  
+
+Cost of Service and Other Revenues.  
+
+  [DATA_TABLE_REMOVED] 
+
+Cost of service and other revenues increased in absolute dollars primarily related to additional personnel and other costs to expand our service capabilities, especially in the United States, to support our growing installed base of products and increased warranty costs.  
+
+66  
+
+Table of Contents 
+
+Operating Expenses.  
+
+  [DATA_TABLE_REMOVED] 
+
+Research and Development Expenses. Research and development expenses increased 58% in fiscal 2007 compared to fiscal 2006. The increase was primarily due to $11.4 million of additional expenses as a result of the AEG, R2 and Suros acquisitions. Also contributing to the increase was an increase in mammography related expenses of $3.7 million primarily related to our tomosynthesis development project.  
+
+Selling and Marketing Expenses. Selling and marketing expenses increased 52% in fiscal 2007 compared to fiscal 2006. The dollar increase was primarily due to increased selling and marketing costs related to the acquisitions of AEG, R2 and Suros of $18.8 million. In fiscal 2007, commission expense related to our direct sales force increased approximately $7.4 million due to the increased product sales in direct territories and increased $5.5 million related to distributor commissions due to increased product sales through these channels. Salaries, benefit and travel expenses increased approximately $8.6 million as a result of increased personnel to support our increased product sales and as a result of the acquisitions of AEG, R2 and Suros. Also contributing to the increase was $1.2 million of additional tradeshow and marketing related expenses as compared to the prior year.  
+
+General and Administrative Expenses. General and administrative expenses increased 47% in fiscal 2007 compared to fiscal 2006. The increase was primarily due to an increase of $13.4 million in compensation and related benefits primarily due to an increase in personnel including $10.7 million from the increased headcount as a result of the acquisitions of AEG, R2 and Suros and an increase of $1.4 million of stock-based compensation. Also contributing to the increase was $2.2 million in accounting and tax expenses and an additional $1.0 million of additional depreciation expense associated with the recently acquired entities.  
+
+Amortization of Acquired Intangible Assets. We incurred amortization expense for acquired intangible assets of $5.6 million in fiscal 2007 primarily due to the acquisitions of AEG, R2, Suros and the intangible assets acquired from Fischer Imaging during fiscal 2006, as well as, BioLucent in fiscal 2007. The underlying intangible assets substantially relate to acquired customer relationships and trade names. These intangible assets are being amortized over their estimated useful life of between 8.5 and 16 years.  
+
+Net Gain on Sale of Intellectual Property. We recognized a net gain of $5.1 million for the sale of Mammotest intellectual property to Siemens in fiscal 2006 for $6.5 million. This gain consisted of the $6.5 million proceeds from the sale partially offset by the $1.4 million impairment charge for the related intangible assets.  
+
+67  
+
+Table of Contents 
+
+Acquired In-Process Research and Development Expenses. We incurred charges for acquired in-process research and development of $19.9 million in fiscal 2006. The charges included $4.2 million in connection with our acquisition of Fischer Imagings intellectual property relating to its digital mammography product on September 29, 2005, $0.6 million in connection with our acquisition of AEG on May 2, 2006, $10.2 million in connection with our acquisition of R2 on July 13, 2006 and $4.9 million in connection with the acquisition of Suros on July 27, 2006. The projects are described in further detail in our discussion of these acquisitions. There was no charge for acquired in-process research and development related to the fiscal 2007 acquisition of BioLucent.  
+
+Interest Income.  
+
+  [DATA_TABLE_REMOVED] 
+
+Interest income decreased in fiscal 2007 compared to fiscal 2006 primarily due to the substantial reduction of our investment balances in connection with our acquisitions of AEG, R2 and Suros during fiscal 2006.  
+
+Interest Expense.  
+
+  [DATA_TABLE_REMOVED] 
+
+In fiscal 2007, these expenses consisted primarily of the interest costs and fees on our unsecured revolving line of credit entered into on July 24, 2006 (and amended on September 25, 2006) of $1.5 million as well as interest costs on notes payable assumed with the acquisition of AEG in the amount of $963,000. In fiscal 2006, these expenses were primarily comprised of the interest costs and fees on our unsecured revolving line of credit of $738,000 as well as interest costs related to AEGs notes payable of $309,000.  
+
+Other (Expense) Income, net.  
+
+  [DATA_TABLE_REMOVED] 
+
+In fiscal 2007, this balance was made up of other income of $857,000, offset by foreign currency transaction losses of approximately $440,000. The most significant item of other income related to the increase in the cash surrender value of life insurance contracts related to our SERP. To the extent that foreign currency exchange rates fluctuate in the future, we may be exposed to continued financial risk. Although we have established a borrowing line of credit denominated in the foreign currency, the euro, in which our subsidiaries currently conduct business to minimize this risk, we cannot assure that we will be successful or can fully hedge our outstanding exposure.  
+
+68  
+
+Table of Contents 
+
+Provision for Income Taxes.  
+
+  [DATA_TABLE_REMOVED] 
+
+We account for income taxes under SFAS No. 109. This statement requires that we recognize a current tax liability or asset for current taxes payable or refundable and a deferred tax liability or asset for the estimated future tax effects of temporary differences and carry forwards to the extent they are realizable. Our effective tax rate for fiscal 2007 was 36.3% of pre-tax earnings. This represented our normalized rate of approximately 37% reduced by certain tax credits. Our effective tax rate for fiscal 2006 was 48.5% of pre-tax earnings. This represents our normalized rate of approximately 38% increased for the in-process research and development charges recorded during the year which are not deductible for tax purposes.  
+
+Segment Results of Operations  
+
+In fiscal 2007, we reported our business as three segments: mammography/breast care, osteoporosis assessment and other. In fiscal 2008, we consolidated these three segments into two: breast health and skeletal health. Our other business segment previously included AEG, mini C-arm, extremity MRI, conventional general radiography service and digital general radiography systems businesses. The AEG business is now part of Breast Health while the remaining reporting units are part of Skeletal Health. Prior periods have been restated to conform to this presentation.  
+
+The accounting policies of the segments are the same as those described in the footnotes to the accompanying consolidated financial statements. We measure segment performance based on total revenues and operating income or loss. Revenues from product sales of each of these segments are described in further detail above. The discussion that follows is a summary analysis of total revenues and the primary changes in operating income or loss by segment.  
+
+Breast Health.  
+
+  [DATA_TABLE_REMOVED] 
+
+Breast Health revenues, as discussed above, increased primarily due to the $247.7 million increase in product sales, an increase of $30.9 million in service and other revenues primarily related to the increased number of systems in our installed base, and incremental revenues of $29.6 million as a result of the AEG acquisition in the third quarter of fiscal 2006 discussed above. Operating income for this business segment increased primarily due to the increased revenues. Our gross margin in this business segment increased to 49% in fiscal 2007 as compared to 43% in fiscal 2006. In fiscal 2007 our gross margins improved from the increase in product revenues of our more profitable Selenia systems versus our analog mammography systems as well as a full year of higher margin product sales from the recently acquired businesses of R2 and Suros. In addition, higher total revenues including higher Selenia sales have allowed for the greater absorption of manufacturing costs. This improvement in the gross margin was offset in part by an increase in service related costs due to an increase in the number of our service personnel and an increase in warranty costs in the current fiscal year.   
+
+69  
+
+Table of Contents 
+
+ Operating expenses for this business segment increased 50% in fiscal 2007 primarily due to increased operating expenses in support of our growing Selenia business, in particular increased selling expenses primarily due to the higher revenues, and as a result of the Suros and AEG acquisitions and, to a lesser extent, the R2 acquisition. Also contributing to the increase was an increase in intangible amortization of $4.0 million, as well as an increase in stock based compensation of $2.3 million. Fiscal 2006 included $19.9 million of charges for acquired in-process research and development related to our acquisitions. These increased expenses in fiscal 2006 were partially offset in part by a net gain of $5.1 million from our sale of Mammotest intellectual property to Siemens.  
+
+Skeletal Health.  
+
+  [DATA_TABLE_REMOVED] 
+
+Skeletal Health revenues decreased in fiscal 2007compared to fiscal 2006 primarily due to the $6.9 million decrease in product sales discussed above and an $0.2 million increase in service revenues, partially offset by an increase in mini C-arm sales of $8.7 million. The decrease in service revenues was primarily due to a decrease in training revenues. Operating income for skeletal health decreased primarily from the decrease in product sales as well as a $2.0 million extremity MRI inventory write-down and insufficient revenue volume for the third party extremity MRI systems to cover the fixed costs, primarily headcount related, to support the distribution of these systems, partially offset by a decrease in operating expenses. Our gross margin in this business segment was 32% in fiscal 2007 compared to 38% in fiscal 2006. The decrease in skeletal health gross margin reflects the decrease in product sales, the lower average selling prices, and the $2.0 million extremity MRI inventory write down mentioned above. Operating income partially benefited from lower overhead allocations as there were higher allocations of overhead in the current year to the breast health business segment reflecting the recent acquisitions and higher growth of that segment.  
+
+Liquidity and Capital Resources  
+
+At September 27, 2008 we had approximately $352.7 million of working capital. At that date, our cash and cash equivalents totaled $95.7 million. Our cash and cash equivalents balance decreased slightly by approximately $4.7 million during fiscal 2008, primarily due to cash utilized in our investing activities including cash used to pay the merger consideration for the Cytyc business combination and Third Wave acquisition and, to a lesser extent, to purchase property and equipment as well as financing activities relating to our repayment of amounts outstanding under our credit agreement. These cash uses were partially offset by cash received from our issuance of convertible notes, the exercise of common stock options, cash acquired as a result of our business combination with Cytyc and cash provided by both our legacy and Cytyc operating activities.  
+
+Our operating activities provided us with $364.6 million of cash, which included a net loss of $385.6 million for the year mostly relating to non-cash charges of $565.2 million of acquired in-process research and development, depreciation and amortization of an aggregate $173.0 million, $46.3 million write up of acquired Cytyc and Third Wave inventory, amortization of deferred financing costs of $20.5 million and stock-based compensation expense of $24.3 million, which were partially offset by a $62.7 million tax benefit related to the exercise of stock options and a $10.4 million deferred tax benefit. Cash used by operations due to changes in our current assets and liabilities included an increase in accounts receivable of $48.4 million, an increase in inventory of $29.6 million, a decrease in accrued expenses of $15.2 million, a decrease in accounts payable of $10.2 million, and an increase in prepaid expenses and other current assets of $10.0 million. The cash used by these   
+
+70  
+
+Table of Contents 
+
+ changes in our current assets and liabilities was partially offset by a decrease in income tax refundable of $74.4 million and an increase in deferred revenue of $27.0 million. The increase in accounts receivable was primarily due to the increased sales volume, especially from the addition of Cytyc revenues since the merger date. The increase in inventory was primarily related to the addition of Cytyc inventories since the merger and an increase in our historical products to support the increased sales, especially for digital mammography. The decrease in accounts payable and accrued expenses was primarily due to the payment of merger related fees and expenses. The increase in prepaid expenses and other current assets was primarily due to the timing of payment of prepaid items. The decrease in income taxes refundable was due to the use of acquired Cytyc net operating loss carryforwards and tax overpayments, and the tax benefit related to the exercise of stock options discussed above to offset current income taxes payable. The increase in deferred revenue was primarily due to an increase in the number of deferred service contracts for our historical business as well as amounts added by the Cytyc operations after the close of the business combination.  
+
+In fiscal 2008, we used approximately $2.7 billion of cash in investing activities. This use of cash was primarily attributable to the $2.0 billion and $557.9 million, net of cash acquired, used to complete the business combination with Cytyc on October 22, 2007 and the acquisition of Third Wave on July 24, 2008, respectively. We also used $53.3 million for purchases of property and equipment, which consisted primarily of manufacturing, demonstration and test equipment and computer hardware. We invested $25.0 million in equipment under customer usage agreements. We also paid $24.4 million for the second and final earn-out to the former Suros shareholders, partially offset by an increase of $9.5 million in deferred gain as a result of proceeds from the sale of Gestiva.  
+
+In fiscal 2008, financing activities provided approximately $2.3 billion of cash, primarily reflecting our borrowings of $2.9 billion under our credit agreements, proceeds from the issuance of $1.7 billion of convertible notes and $171.0 million of cash from the exercise of stock options and related tax benefit of $62.7 million. Borrowings under the credit agreements were used to pay the cash portion of the Cytyc merger consideration and related fees and expenses and the acquisition consideration for Third Wave and related fees and expenses. These financing proceeds were partially offset by $2.4 billion of repayments under our credit agreements which was primarily funded by the proceeds from our issuance of the convertible notes and our available cash flow. Also offsetting these proceeds was the payment of $40.6 million upon the conversion of Cytycs convertible notes.  
+
+Indebtedness  
+
+Credit Agreement. On October 22, 2007, we entered into a $2.55 billion senior secured credit agreement (the Credit Agreement) with Goldman Sachs Credit Partners L.P. and certain other lenders (collectively, the Lenders). As of the closing of the Cytyc merger we borrowed $2.35 billion under the credit facilities, all of which have variable interest rates. We applied the net proceeds from our convertible note offering described below to repay amounts outstanding under the Credit Agreement, including all of the Term Loan X and Term Loan B-2, $1.1 billion and $250 million, respectively, and a pro rata portion of our $251 million Term Loan A and $104 million Term Loan B-1. During the year ended September 27, 2008, we also made voluntary prepayments of principal under our Term Loan X, Term Loan A and Term Loan B-1 of $150 million, $349 million and $146 million, respectively. There were no amounts outstanding under these term loans as of September 27, 2008.  
+
+On July 17, 2008, in connection with our acquisition of Third Wave, we entered into an amended and restated credit agreement with certain of the Lenders (the Amended Credit Agreement). The Amended Credit Agreement amended and restated our existing Credit Agreement with Goldman Sachs Credit Partners L.P. and the lenders named therein, dated as of October 22, 2007.  
+
+Pursuant to the terms and conditions of the Amended Credit Agreement, the Lenders committed to provide senior secured financing in an aggregate amount of up to $800 million.  
+
+71  
+
+Table of Contents 
+
+The credit facilities under the Amended Credit Agreement consist of:  
+
+       $400.0 million senior secured tranche A term loan (Term Loan A);  
+
+       $200.0 million senior secured tranche B term loan (Term Loan B);  
+
+       $200.0 million senior secured revolving credit facility (the revolving facility).  
+
+Under the Amended Credit Agreement, the amounts under the Term Loan A and the Term Loan B were available to us in multiple drawdowns until the earlier of the consummation of the Third Wave acquisition or December 5, 2008. In order to consummate the offer to purchase all issued and outstanding stock of Third Wave and complete the acquisition of Third Wave, we initially borrowed $540 million under the credit facilities on July 17, 2008. During the fourth quarter of fiscal 2008, we repaid a pro rata portion of the Term Loan A in the amount of approximately $56.0 million and the Term Loan B in the amount of approximately $19.0 million.  
+
+As of September 27, 2008, we had an aggregate of $465.0 million of principal outstanding under this credit facility of which approximately $344.4 million was under the Term Loan A and $120.6 million was under the Term Loan B. The long-term portion of the Term Loan A and Term Loan B was $310.0 and $118.8 million, respectively, at September 27, 2008.  
+
+Our domestic subsidiaries which are party to the Amended Credit Agreement (including Third Wave, which joined as a party to the agreement on July 24, 2008, the effective date of the transaction) have guaranteed our obligations under the credit facilities and the credit facilities are secured by first-priority liens on, and first-priority security interests in, substantially all of our assets, a first priority security interest in 100% of the capital stock issued by each guarantor, 65% of the capital stock issued by certain of our first-tier foreign subsidiaries and all intercompany debt. The security interests are evidenced by an Amended and Restated Pledge and Security Agreement by and among Goldman Sachs Credit Partners L.P., as collateral agent, us and the other parties therein named (the Amended Pledge and Security Agreement).  
+
+The final maturity dates for the credit facilities are as follows:  
+
+       for the Term Loan A, September 30, 2012;  
+
+       for the Term Loan B, March 31, 2013;  
+
+       for the revolving facility, September 30, 2012.  
+
+We are required to make scheduled principal payments under the Term Loan A in increasing amounts ranging from $10.0 million per quarter commencing with the quarter ending September 30, 2008 to $15.0 million per quarter commencing with the quarter ending September 30, 2010, and under the Term Loan B, in equal quarterly installments of $500,000 beginning on the quarter ending September 30, 2008, with the remaining balance of each term loan facility due at the maturity of the applicable term loan facility. The revolving credit facility will become due at maturity. No scheduled amortizations are required under the revolving facility.  
+
+We are required to make principal repayments first, pro rata among the term loan facilities and second to the revolving credit facility from specified excess cash flows from operations and from the net proceeds of specified types of asset sales, debt issuances, insurance recoveries and equity offerings.  
+
+We may voluntarily prepay any of the credit facilities without premium or penalty (other than applicable breakage costs related to interest on Eurodollar loans).  
+
+All amounts outstanding under the credit facilities bear interest, at our option, as follows:  
+
+   Initially, with respect to loans made under the revolving facility and the Term Loan A:  
+
+   (i) at the Base Rate plus 1.50% per annum; or  
+
+   (ii) at the reserve adjusted Eurodollar Rate plus 2.50% per annum; and  
+
+72  
+
+Table of Contents 
+
+   With respect to loans made under the Term Loan B:  
+
+   (i) at the Base Rate plus 2.25% per annum; or  
+
+   (ii) at the reserve adjusted Eurodollar Rate plus 3.25% per annum.  
+
+The margin applicable to loans under the revolving credit facility and the Term Loan A is subject to specified changes based on certain changes in the leverage ratio as specified in the Amended Credit Agreement.  
+
+Interest accruing at the base rate generally is payable on a quarterly basis. Interest accruing at the Eurodollar Rate is payable on the last day of selected interest periods (which shall be one, two, three and six months and in certain circumstances, nine or twelve months) unless the interest period exceeds three months, in which case, interest will be due at the end of every three months. The weighted average interest rate under the Amended Credit Agreement was 5.24% during fiscal 2008.  
+
+We are required to pay a quarterly commitment fee, at a per annum rate of 0.50%, on the undrawn commitments available under the revolving credit facility, which per annum rate is subject to reduction based on a leverage ratio as specified in the Amended Credit Agreement.  
+
+The credit facilities contain affirmative and negative covenants customarily applicable to senior secured credit facilities, including covenants restricting the ability of the loan parties, subject to negotiated exceptions, to: incur additional indebtedness and additional liens on their assets, engage in mergers or acquisitions or dispose of assets, enter into sale-leaseback transactions, pay dividends or make other distributions, voluntarily prepay other indebtedness, enter into transactions with affiliated persons, make investments, and change the nature of their businesses.  
+
+The credit facilities require us to maintain maximum leverage and minimum interest coverage ratios, as of the last day of each fiscal quarter. The maximum leverage ratio is 5.50:1.00 beginning on our fiscal quarter ending September 27, 2008, and then decreases over time to 3:00:1.00 for the fiscal quarter ending September 25, 2010 and each fiscal quarter thereafter. The minimum interest coverage ratio is 2.25:1.00 beginning with our fiscal quarter ending September 27, 2008, and then increases over time to 2.75:1.00 for the fiscal quarter ending September 25, 2010 and each fiscal quarter thereafter. The leverage ratio is defined as the ratio of our consolidated total debt to our consolidated adjusted EBITDA for the four-fiscal quarter period ending on the measurement date. The interest coverage ratio is defined as the ratio of our consolidated adjusted EBITDA for the applicable periods to our consolidated interest expense. These terms, and the calculation thereof, are defined in further detail in the Amended Credit Agreement. We were in compliance with our financial covenants as of September 27, 2008.  
+
+Future scheduled minimum payments under this credit facility are as follows:  
+
+  [DATA_TABLE_REMOVED] 
+
+Convertible Notes. On December 10, 2007, we issued and sold $1.725 billion aggregate original principal amount of our 2.00% Convertible Senior Notes due 2037. The notes were registered under an effective Registration Statement and were issued pursuant to an Indenture between us and Wilmington Trust Company, as Trustee (the Indenture) and a First Supplemental Indenture thereto (the Supplemental Indenture), both dated December 10, 2007.  
+
+73  
+
+Table of Contents 
+
+The net proceeds from the offering was approximately $1.69 billion, after deducting the underwriters discounts and estimated offering expenses of approximately $1.5 million payable by us, and was used to repay a portion of our then outstanding senior secured indebtedness under our Credit Agreement.  
+
+Holders may require us to repurchase the notes on December 13 of 2013, and on each of December 15, 2017, 2022, 2027 and 2032 at a repurchase price equal to 100% of their accreted principal amount, plus accrued and unpaid interest. We may redeem any of the notes beginning December 18, 2013, by giving holders at least 30 days notice. We may redeem the notes either in whole or in part at a redemption price equal to 100% of their principal amount, plus accrued and unpaid interest, including contingent interest and liquidated damages, if any, to, but excluding, the redemption date.  
+
+The notes bear interest at a rate of 2.00% per year on the principal amount, payable semi-annually in arrears in cash on June 15 and December 15 of each year, beginning June 15, 2008, and ending on December 15, 2013 and will accrete principal from December 15, 2013 at a rate that provides holders with an aggregate annual yield to maturity of 2.00% per year. Beginning with the six month interest period commencing December 15, 2013, we will pay contingent interest during any six month interest period to the holders of notes if the trading price, as defined, of the notes for each of the five trading days ending on the second trading day immediately preceding the first day of the applicable six month interest period equals or exceeds 120% of the accreted principal amount of the notes. The holders of the notes may convert the notes into shares of our common stock at a conversion price of approximately $38.60 per share, subject to adjustment, prior to the close of business on September 15, 2037, subject to prior redemption or repurchase of the notes, under any of the following circumstances: (1) during any calendar quarter after the calendar quarter ending December 31, 2007 if the last reported sale price of our common stock exceeds 130% of the conversion price for at least 20 trading days in the 30 consecutive trading days ending on the last trading day of the preceding calendar quarter; (2) during the five business day period after any five consecutive trading day period in which the trading price per note for each day of such period was less than 98% of the product of the last reported sale price of our common stock and the conversion rate on each such day; (3) if the notes have been called for redemption; or (4) upon the occurrence of specified corporate events.  
+
+In lieu of delivery of shares of our common stock in satisfaction of our obligation upon conversion of the notes, we may elect to deliver cash or a combination of cash and shares of our common stock. If we elect to satisfy our conversion obligation solely in cash, we will deliver cash in an amount as provided in the indenture for the notes. If we elect to satisfy our conversion obligation in a combination of cash and shares of our common stock, we will deliver up to a specified dollar amount of cash per $1,000 original principal amount of notes, and will settle the remainder of our conversion obligation in shares of our common stock, in each case based on the daily conversion value calculated as provided in the indenture for the notes. In addition, at any time on or prior to the 35th scheduled trading day prior to the maturity date of the notes, we may make an irrevocable election to settle conversions of the notes either solely in cash or in a combination of cash and shares of our common stock with a specified cash amount at least equal to the accreted principal amount of the notes. This net share settlement election is in our sole discretion and does not require the consent of holders of the notes. It is our current intent and policy to settle any conversion of the notes as if we had elected to make the net share settlement election.  
+
+The notes are our senior unsecured obligations and rank equally with all of our existing and future senior unsecured debt and prior to all future subordinated debt. The notes are effectively subordinated to any future secured indebtedness to the extent of the collateral securing such indebtedness, and structurally subordinated to all indebtedness and other liabilities (including trade payables) of our subsidiaries.  
+
+AEG Debt. AEG, which we acquired in 2006, has outstanding existing debt in an aggregate principal amount of $10.6 million as of September 27, 2008. The terms of the loans have various maturities ranging from December 30, 2010 through March 30, 2014. Interest rates are variable and weighted-average interest rates in fiscal 2008 ranged from 5.5% to 7.2%.  
+
+74  
+
+Table of Contents 
+
+Other Indebtedness. As a result of the Cytyc merger, we assumed Cytycs outstanding convertible notes, of which $0.3 million remained outstanding as of September 27, 2008. We may redeem these notes at par at any time on or after March 20, 2009. The stated interest rate is fixed at 2.25%.  
+
+Contingent Earn-Out Payments. As a result of our merger with Cytyc, we assumed Cytycs obligation to Adiana, Inc. to make contingent earn-out payments tied to the achievement of milestones. The milestone payments include potential contingent payments of up to $155 million, based on the achievement of certain FDA milestones and on incremental sales growth of the Adiana permanent contraception product during the four-year period following FDA approval of this product. As FDA approval has not been received for the product, no payments have been made to Adiana.  
+
+We also satisfied our obligation for a second and final earn-out to the former Suros Surgical stockholders related to Suros incremental revenue growth for revenues earned through July 31, 2008. This earnout, which totaled $24.5 million, was substantially paid in the fourth quarter of fiscal 2008, with an increase in goodwill. We had also made a payment of approximately $19.0 million to the former Suros stockholders in the fourth quarter of fiscal 2007 for the first year earn-out.  
+
+On September 18, 2007, we completed the acquisition of BioLucent, Inc. A cash earn-out may be payable in up to two annual installments not to exceed $15.0 million in the aggregate based on BioLucents achievement of certain revenue targets. As of September 27, 2008, the revenue targets have not been achieved and we have not made any payments for this earn-out.  
+
+Financing Leases. Cytyc entered into a lease agreement on April 23, 2007 for a new manufacturing and office facility located in Alajuela, Costa Rica. The lease term commenced in May 2008, at which time we began transferring our Costa Rican operations to this facility. We expect this process to be complete by the end of the second quarter of fiscal 2009. The term of the lease is for a period of approximately ten years with the option to extend for two consecutive five-year terms.  
+
+On July 11, 2006, Cytyc entered into a lease agreement for a manufacturing facility located in Marlborough, Massachusetts. The term of the lease is for a period of approximately 12 years commencing on November 14, 2006. In 2011, Cytyc will have an option to lease an additional 30,000 square feet. In connection with our merger with Cytyc, we guaranteed Cytycs obligations under this lease.  
+
+Operating Leases. The lease for our headquarters and manufacturing facility located in Bedford, Massachusetts and our Lorad manufacturing facility in Danbury, Connecticut, has a term of 20 years commencing August 28, 2002, with four five-year renewal terms, which we may exercise at our option. The basic rent for the facilities is $3.3 million per year, which is subject to adjustment for increases in the consumer price index. In addition, we are required to maintain the facilities during the term of the lease and to pay all taxes, insurance, utilities and other costs associated with those facilities. Under the lease, we make customary representations and warranties and agree to certain financial covenants and indemnities. In the event we default on the lease, the landlord may terminate the lease, accelerate payments and collect liquidated damages. We were in compliance with all covenants as of September 27, 2008.  
+
+As a result of the merger with Cytyc, we assumed all of Cytycs outstanding operating leases of which the most significant operating leases pertain to Cytycs headquarters located in Marlborough, Massachusetts which has a 15-year term that expires on December 31, 2018 with future lease payments of approximately $39.0 million and Cytycs warehouse in Methuen, Massachusetts which has a 10-year term that expires on March 31, 2013 with future lease payments of approximately $1.2 million. In addition, we are required to maintain the facilities during the term of the leases and to pay all proportionate shares of taxes, insurance, utilities and other costs associated with those facilities.  
+
+75  
+
+Table of Contents 
+
+As a result of our acquisition of Third Wave on July 24, 2008, we assumed certain operating leases, the most significant of which is related to their corporate facility in Madison, Wisconsin, which is effective through September 2014. Future lease payments on these operating leases were approximately $5.8 million as of September 27, 2008.  
+
+Additionally, we assumed several license agreements for certain patent rights. These payments will be made through 2011 and future payments under these license agreements are approximately $7.0 million as of September 27, 2008.  
+
+Contractual Obligations. The following table summarizes our contractual obligations and commitments as of September 27, 2008:  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1) Approximately $6.4 million of the purchase obligations relates to an exclusive distribution and service agreement in the United States under which we will sell and service a line of extremity MRI systems. Pursuant to the terms of this contract, we have certain minimum inventory purchase obligations for the initial term of eighteen months. Thereafter the purchase obligations are subject to renegotiation in the event of any unforeseen changes in the market dynamics.  
+
+ (2) As a result of the merger with Cytyc, we assumed on a consolidated basis certain non-cancelable supply contracts. For reasons of quality assurance, sole source availability or cost effectiveness, certain key components and raw materials are available only from a sole supplier. To assure continuity of supply while maintaining high quality and reliability, long-term supply contracts have been executed with these suppliers. In certain of these contracts, a minimum purchase commitment has been established.  
+
+ (3) As a result of the merger with Cytyc, we assumed a private equity investment commitment with a limited liability partnership, which could be paid over the succeeding three years.  
+
+The amounts above do not include any amount that may be payable to BioLucent and Adiana for earn-outs. We are working on several projects and we expect to continue to review and evaluate potential acquisitions of businesses, products or technologies, and strategic alliances that we believe will complement our current or future business. Subject to the Risk Factors set forth in Part I, Item 1A of this report and the general disclaimers set forth in our Special Note Regarding Forward-Looking Statements at the outset of this Report, we believe that cash flow from operations and cash available from our Amended Credit Agreement will provide us with sufficient funds in order to fund our expected operations over the next twelve months. Our longer-term liquidity is contingent upon future operating performance and our ability to continue to meet financial covenants under our Amended Credit Agreement. We may also require additional capital in the future to fund capital expenditures, acquisitions or other investments, or to repay our convertible notes. The holders of the convertible notes may require us to repurchase the notes on December 13 of 2013, and on each of December 15, 2017, 2022, 2027 and 2032 at a repurchase price equal to 100% of their accreted principal amount. These capital requirements could be substantial. Our operating performance may also be affected by matters discussed under the above-referenced Risk Factors as elsewhere in this report. These risks, trends and uncertainties may also adversely affect our long-term liquidity.  
+
+76  
+
+Table of Contents 
+
+Recent Accounting Pronouncements  
+
+On September 15, 2006, the FASB issued SFAS No. 157 (SFAS 157), Fair Value Measurements. SFAS 157 provides enhanced guidance for using fair value to measure assets and liabilities. SFAS 157 also responds to investors requests for expanded information about the extent to which companies measure assets and liabilities at fair value, the information used to fair value and the effect of fair value measurements on earnings. SFAS 157 applies whenever other standards require (or permit) assets or liabilities to be measured at fair value. SFAS 157 does not expand the use of fair value in any new circumstances. SFAS 157 is effective for financial statements issued for fiscal years beginning after November 15, 2007 and interim periods within those fiscal years. Early adoption is not permitted. FASB Staff Position 157-2, Effective Date of FASB Statement No. 157, defers the effective date of SFAS 157 for one year for all nonfinancial assets and nonfinancial liabilities, except for those items that are recognized or disclosed at fair value in the financial statements on a recurring basis (at least annually). Therefore, we are required to adopt SFAS 157 on the first day of fiscal 2009 for financial assets and liabilities and nonfinancial assets and nonfinancial liabilities that are recognized or disclosed at fair value in the financial statements on a recurring basis. We are required to adopt SFAS 157 on the first day of fiscal 2010 for all other nonfinancial assets and nonfinancial liabilities. The adoption of SFAS 157 will not have a material impact on our financial condition or results of operations.  
+
+In February 2007, the FASB issued SFAS No. 159 (SFAS 159), The Fair Value Option for Financial Assets and Financial Liabilities, including an amendment of FASB Statement No. 115, which allows an entity to elect to record financial assets and liabilities at fair value upon their initial recognition on a contract-by-contract basis. Subsequent changes in fair value would be recognized in earnings as the changes occur. SFAS 159 also establishes additional disclosure requirements for these items stated at fair value. SFAS 159 is effective as of the beginning of an entitys first fiscal year that begins after November 15, 2007, which is our 2009 fiscal year, with early adoption permitted, provided that we also adopt SFAS 157. The adoption of SFAS 159 will not have a material impact on our financial condition or results of operations.  
+
+In June 2007, the FASB ratified EITF Issue No. 07-3 (EITF 07-3), Accounting for Nonrefundable Advance Payments for Goods or Services to Be Used in Future Research and Development Activities. EITF Issue No. 07-3 states that nonrefundable advance payments for goods or services to be received in the future for use in research and development activities should be deferred and capitalized. The capitalized amounts should be expensed as the related goods are delivered or the services are performed. If an entitys expectations change such that it does not expect it will need the goods to be delivered or the services to be rendered, capitalized nonrefundable advance payments should be charged to expense. EITF 07-3 is effective for new contracts entered into during fiscal years beginning after December 15, 2007, including interim periods within those fiscal years. The consensus may not be applied to earlier periods. Early adoption of the provisions is not permitted. Our historical policy has been to capitalize upfront nonrefundable advance payments related to research and development activities and expense these amounts as the goods are delivered or services rendered. Therefore, the adoption of this consensus should not have any impact on our consolidated financial statements.  
+
+In December 2007, the FASB issued SFAS No. 141 (Revised 2007) (SFAS 141(R)), Business Combinations. This Statement retains the fundamental requirements in SFAS 141 that the acquisition method of accounting (which SFAS 141 called the purchase method) be used for all business combinations and for an acquirer to be identified for each business combination. SFAS 141(R) requires an acquirer to recognize the assets acquired, the liabilities assumed, and any noncontrolling interest in the acquiree at the acquisition date, measured at their fair values as of that date, with limited exceptions specified in the Statement. That replaces SFAS 141s cost-allocation process, which required the cost of an acquisition to be allocated to the individual assets acquired and liabilities assumed based on their estimated fair values. The Statement retains the guidance in SFAS 141 for identifying and recognizing intangible assets separately from goodwill. SFAS 141(R) will now require acquisition costs to be expensed as incurred, restructuring costs associated with a business combination must generally be expensed prior to the acquisition date and changes in deferred tax asset valuation allowances and income tax uncertainties after the acquisition date generally will affect income tax expense. SFAS 141(R) applies prospectively to business combinations for which the acquisition date is on or after the beginning of the first   
+
+77  
+
+Table of Contents 
+
+ annual reporting period beginning on or after December 15, 2008, which is our 2010 fiscal year. Earlier adoption is prohibited. We are currently evaluating the impact that the adoption of SFAS 141(R) will have on our consolidated financial statements.  
+
+In December 2007, the FASB issued SFAS No. 160 (SFAS 160), Noncontrolling Interests in Consolidated Financial StatementsAn amendment of ARB No. 51. SFAS 160 amends ARB No. 51 to establish accounting and reporting standards for the noncontrolling interest in a subsidiary and for the deconsolidation of a subsidiary. It clarifies that a noncontrolling interest in a subsidiary is an ownership interest in the consolidated entity that should be reported as equity in the consolidated financial statements.  
+
+The amount of net income attributable to the noncontrolling interest will be included in consolidated net income on the face of the income statement. SFAS 160 clarifies that changes in a parents ownership interest in a subsidiary that do not result in deconsolidation are equity transactions if the parent retains its controlling financial interest. In addition, this Statement requires that a parent recognize a gain or loss in net income when a subsidiary is deconsolidated. SFAS 160 is effective for fiscal years, and interim periods within those fiscal years, beginning on or after December 15, 2008, which is our 2010 fiscal year. Earlier adoption is prohibited.  
+
+In March 2008, the FASB issued SFAS No. 161 (SFAS 161), Disclosures about Derivative Instruments and Hedging Activities, which amends SFAS No. 133 (SFAS 133), Accounting for Derivative Instruments and Hedging Activities, by requiring expanded disclosures about an entitys derivative instruments and hedging activities. SFAS 161 requires increased qualitative, quantitative, and credit-risk disclosures, including (a) how and why an entity uses derivative instruments, (b) how derivative instruments and related hedged items are accounted for under SFAS 133 and its related interpretations, and (c) how derivative instruments and related hedged items affect an entitys financial position, financial performance, and cash flows. We are required to adopt SFAS 161 effective for the quarter ending March 31, 2009. We are currently evaluating the impact that the adoption of SFAS 161 will have on our consolidated financial statements.  
+
+In April 2008, the FASB issued FSP 142-3, Determination of the Useful Life of Intangible Assets, which amends the factors that must be considered in developing renewal or extension assumptions used to determine the useful life over which to amortize the cost of a recognized intangible asset under SFAS 142. The FSP amends paragraph 11(d) of SFAS 142 to require an entity to consider its own assumptions about renewal or extension of the term of the arrangement, consistent with its expected use of the asset.  
+
+The FSP also requires the following incremental disclosures for renewable intangible assets:  
+
+       The weighted-average period prior to the next renewal or extension (whether explicit and implicit) for each major intangible asset class  
+
+       The entitys accounting policy for the treatment of costs incurred to renew or extend the term of a recognized intangible asset  
+
+       For intangible asset renewed or extended during the period:  
+
+       For entities that capitalize renewal or extension costs, the costs incurred to review or extend the asset, for each major intangible asset class  
+
+       The weighted-average period prior to the next renewal or extension (whether explicit and implicit) for each major intangible asset class  
+
+The FSP is effective for financial statements for fiscal years beginning after December 15, 2008, which will be the beginning of fiscal 2010 for us. The guidance for determining the useful life of a recognized intangible asset must be applied prospectively to intangible assets acquired after the effective date. Early adoption is prohibited. Accordingly, the FSP would not serve as a basis to change the useful life of an intangible asset that was acquired prior to the effective date. However, the incremental disclosure requirements described above   
+
+78  
+
+Table of Contents 
+
+ would apply to all intangible assets, including those recognized in periods prior to the effective date of the FSP. We are currently evaluating the impact that the adoption of this FSP will have on our consolidated financial statements.  
+
+In May 2008, the FASB issued FASB Staff Position (FSP) No. APB 14-1, Accounting for Convertible Debt Instruments That May Be Settled in Cash upon Conversion (Including Partial Cash Settlement). This FSP applies to convertible debt instruments that, by their stated terms, may be settled in cash (or other assets) upon conversion, including partial cash settlement, unless the embedded conversion option is required to be separately accounted for as a derivative under SFAS 133. The liability and equity components of convertible debt instruments within the scope of this FSP must be separately accounted for in a manner that will reflect the entitys nonconvertible debt borrowing rate when interest cost is recognized in subsequent periods. The excess of the principal amount of the debt over the amount ultimately allocated to the liability component is required to be amortized to interest expense using the interest method. This FSP is effective for financial statements issued for fiscal years beginning after December 15, 2008, and interim periods within those fiscal years. As a result, we will adopt this standard at the beginning of fiscal 2010. This FSP must be applied retrospectively to all periods presented. The retrospective adoption of this FSP will increase our historical reported interest expense from December 10, 2007 (issuance date of the Convertible Notes) forward.  
+
+The adoption of FSP APB 14-1 will have no impact on our actual past or future cash flows. However, upon adoption in fiscal 2010 we expect to revise prior periods by reclassifying approximately $470.0 million of our Convertible Notes to additional paid-in capital, resulting in a debt discount. Our fiscal 2008 non-cash interest expense will increase by approximately $48.2 million, resulting in a restated diluted net loss per share of approximately $1.69 per share, net of tax.  
+
+On May 5, 2008, Statement of Financial Accounting Standard No. 162, the Hierarchy of Generally Accepted Accounting Principles (SFAS 162) was issued. This standard identifies the sources of accounting principles and the framework for selecting the principles to be used in the preparation of financial statements that are presented in conformity with generally accepted accounting principles in the U.S. We do not expect the adoption of this standard to have a material impact on our consolidated financial statements.  
+
+In June 2008, the FASB ratified the consensus reached on EITF Issue No. 07-05, Determining Whether an Instrument (or Embedded Feature) Is Indexed to an Entitys Own Stock. EITF Issue No. 07-05 clarifies the determination of whether an instrument (or an embedded feature) is indexed to an entitys own stock, which would qualify as a scope exception under SFAS No. 133, Accounting for Derivative Instruments and Hedging Activities. EITF Issue No. 07-05 is effective for financial statement issued for fiscal years beginning after December 15, 2008. Early adoption for an existing instrument is not permitted. We are currently evaluating the impact that the adoption of EITF Issue No. 07-05 will have on our consolidated financial statements.  
+
+ Item 7A. Quantitative and Qualitative Disclosures About Market Risk.

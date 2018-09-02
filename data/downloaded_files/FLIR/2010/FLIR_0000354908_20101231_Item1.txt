@@ -1,0 +1,439 @@
+PART I  
+
+ ITEM 1. BUSINESS  
+
+Overview  
+
+FLIR Systems, Inc. (FLIR, the Company, we, us, or our) is a world leader in sensor systems that enhance perception and awareness. We were founded in 1978 to empower people with the ability to see at night using infrared technology and have since become a premier designer, manufacturer, and marketer of thermal imaging systems. Our advanced sensors and integrated sensor systems enable the gathering and analysis of critical information through a wide variety of applications in commercial, industrial, and government markets worldwide.  
+
+Our goal is to both enable our customers to benefit from the valuable information produced by advanced sensing technologies and to deliver sustained superior financial performance for our shareholders. We create value for our customers by providing advanced surveillance and tactical defense capabilities, improving personal and public safety and security, facilitating air, ground, and maritime navigation, enhancing enjoyment of the outdoors, providing infrastructure inefficiency information, conveying pre-emptive structural deficiency data, displaying process irregularities, and enabling commercial business opportunities through our continual support and development of new thermal imaging data and analytics applications. Our business model meets the needs of a multitude of customerswe sell off-the-shelf products to a wide variety of markets in an efficient, timely, and affordable manner as well as offer a variety of system configurations to suit specific customer requirements. Centered on the design of products for low cost manufacturing and high volume distribution, our commercial operating model has been developed over time and provides us with a unique ability to adapt to market changes and meet our customers needs.  
+
+Our business is organized into two divisions: Commercial Systems and Government Systems. Within these divisions, we had five reporting segments in 2010: Thermography, Commercial Vision Systems, and Raymarine, which comprise the Commercial Systems division; and Government Systems and ICx, which make up our Government Systems division.  
+
+1  
+
+Table of Contents 
+
+Thermography products are generally sold for commercial and industrial applications, typically where imaging and temperature measurement together are required. Products range from highly sensitive cameras with extensive analytic capabilities and sophisticated image processing to less expensive cameras offering excellent performance and value for less demanding applications. Our Thermography products range in price from slightly over $1,000 for a value hand-held camera to over $150,000 for our most sophisticated science cameras. Revenue from Thermography has grown at a compound annual rate of 15 percent since 2001 and was $317.9 million, or 23 percent of consolidated revenue in 2010.  
+
+Commercial Vision Systems (CVS) is focused on the emerging commercial markets for infrared imaging technology where the primary need is to see at night or in adverse conditions, such as through smoke or light fog. As the cost of infrared technology has declined, demand in large untapped markets such as commercial security, automotive, marine, airborne, personal night vision, and first responder markets has grown rapidly. Our infrared sensor business, which sells focal plane arrays and camera cores internally as well as to third parties on an original equipment manufacturer (OEM) basis, is also a part of CVS. Since 2005, CVS revenue has grown at a compound annual rate of 25 percent. CVS revenue was $256.1 million, or 18 percent of our consolidated revenue in 2010.  
+
+Raymarine designs, develops, and markets electronics for the maritime market and is a leading global provider of fully integrated stem to stern networked electronic systems for boats of all sizes. Products include multifunction displays used to control multiple onboard electronic components, radar systems, thermal imaging cameras, autopilot systems, sonar modules, connectivity software, and various other instruments used to monitor factors such as boat speed, direction, and location. The business distributes its products through a vast network of independent distributors and retailers as well as through its relationships with boat builders, providing both first fitment and aftermarket solutions. For the period from our acquisition of the business in May of 2010, Raymarine has generated revenue of $104.1 million and represented 8 percent of consolidated 2010 revenue.  
+
+Government Systems (GS) is focused on selling advanced imaging systems to government customers and markets where high performance is required. Typical applications include intelligence, surveillance and reconnaissance (ISR), force protection, drug interdiction, search and rescue, special operations, and target designation. GS products are often customized for specific applications and frequently incorporate additional sensors, including visible light cameras, radars, low light cameras, laser rangefinders, laser illuminators, and laser designators. GS products range in price from under $10,000 for certain hand-held and weapon-mounted systems to over $1 million for our most advanced stabilized targeting systems. Since 2005, GS revenue has grown at a compound annual rate of 22 percent. GS is our largest segment with 2010 revenue of $661.1 million, or 48 percent of consolidated revenue.  
+
+ICx primarily produces sensor systems that detect and identify chemical, biological, radiological, nuclear, and explosives (CBRNE) threats and deliver actionable intelligence for wide area surveillance, intrusion detection, and facility security. With superior technological expertise, ICx integrates advanced sensors into effective force protection, homeland security, and commercial solutions. ICx has unique strength in understanding the nature of sophisticated security threats, the technological potential of security solutions, and the complex procurement processes of government customers. With a history of entering into government-funded design and development contracts, ICx has built relationships with key government customers and has experience in converting highly specialized technologies into commercial solutions that are marketable to a global customer base. We acquired ICx in October 2010, and during the period of our ownership, ICx has generated $46.1 million of revenue, representing 3 percent of consolidated 2010 revenue.  
+
+For additional information concerning the Companys segments, including revenues from external customers, earnings from operations and total assets by segment presented in accordance with our segment structure, see Note 18 to the Consolidated Financial Statements in Item 8.  
+
+2  
+
+Table of Contents 
+
+Infrared Technology Overview  
+
+Infrared is a portion of the electro-magnetic spectrum that is adjacent to the visible spectrum, but is invisible to the human eye due to its longer wavelengths. Unlike visible light, infrared radiation (or heat) is emitted directly by all objects above absolute zero in temperature. Thermal imaging systems detect this infrared radiation and convert it into an electronic signal, which is then processed into a video signal and displayed on a video screen. Thermal imaging systems are different than other types of low light vision systems, such as visible light intensification used in green or gray sighted night vision goggles. Infrared imaging systems are not adversely affected by the presence of visible light, so they can be used day or night, and they are not susceptible to rapid changes in visible light levels. Since infrared systems are detecting emitted infrared radiation, they are passive and thus more covert than certain active or illuminated systems. Additionally, thermal imaging systems can measure very small temperature differences, a critical feature for a variety of commercial, industrial, and scientific applications.  
+
+An infrared detector, which collects or absorbs infrared radiation and converts it into an electronic signal, is a sensor assembly that is the primary component of thermal imaging systems. The two types of infrared detectors we manufacture and use in our systems are often referred to as cooled and uncooled. Cooled detectors utilize a mechanical micro-cooler to reduce the operating temperature of the infrared sensor to -200° C, and offer high sensitivity and resolution for long-range applications or those requiring high measurement precision. These systems, while more sensitive and thus able to see farther, result in a product that is more expensive, heavier, more complex, and uses more power than those using uncooled detectors. Uncooled detectors operate at room temperature and thus do not require a micro-cooler, resulting in products that are lighter, use less power and are less expensive to produce than cooled systems. While the performance of uncooled detectors is improving, uncooled detectors are still less sensitive than cooled detectors. The cost of both types of detectors is declining and we expect to continue reducing costs as volumes rise and the technology advances in the future. We currently expect demand for both types of systems to increase.  
+
+Recent Acquisitions  
+
+Since 2003, we have made a total of thirteen acquisitions. Most recently, we acquired Raymarine Holdings, Ltd. (Raymarine) in May 2010 and ICx Technologies, Inc. (ICx) in October 2010. The Raymarine acquisition significantly enhanced the distribution capabilities of our thermal marine products business by adding approximately 1,000 dealer outlets and 400 marine OEM relationships. Additionally, Raymarine provided us the opportunity to build an integrated product line that offers thermal imaging cameras coupled with Raymarines multifunction displays, radars, depth sounders, global positioning systems, and autopilots products to create the broadest, most effective, and easiest to use suite of products in the marine electronics industry. The acquisition of ICx expanded our capabilities into advanced sensor technologies that detect CBRNE threats, including products that are currently sold to the defense and homeland security markets. ICx also enhanced our existing intelligence, surveillance, and reconnaissance product suite by adding advanced radars, imaging, and integrated platforms solutions. Both businesses are reported as individual business segments in 2010.  
+
+We are selective and opportunistic in our acquisitions, seeking to purchase companies that are strategically significant and additive or adjacent to our existing technologies, distribution network, or product portfolio. We are continuously evaluating opportunities for additional acquisitions, but cannot predict the timing, size, or nature of any future activity.  
+
+In February 2011, we announced an organizational change that will impact our Government Systems division and will result in three operating and reporting segments. The new Surveillance segment comprises our former Government Systems segment and ICxs imaging and radars operations and focuses on developing, manufacturing, and marketing thermal imaging and wide-area surveillance systems. The Detection segment has been created to focus on the CBRNE products and markets that we added with our ICx acquisition. The Integrated Systems segment will focus on large programmatic and multi-function solutions for diverse tactical  
+
+3  
+
+Table of Contents 
+
+ security and defense uses and will draw from Surveillance and Detection products, as well as products sourced outside of the Company. We believe this new structure will better align our sales, marketing, and operations to drive further product awareness, sales growth, and cost savings.  
+
+FLIR Systems, Inc. is an Oregon corporation and was incorporated in 1978. The Companys headquarters are located at 27700 SW Parkway Avenue, Wilsonville, Oregon 97070-8238, and the telephone number at this location is (503) 498-3547. Information about the Company is available on our website at www.flir.com.  
+
+Competitive Strengths  
+
+With our decades of experience in developing and marketing infrared sensor products, we have built several unique competitive advantages that are core to our success. We look to leverage these strengths to continue to increase the ownership and application of advanced sensing technologies and to grow our revenue and profitability:  
+
+Commercial Operating Model  
+
+A key differentiator of our business model is our pervasive commercial mindset. This is characterized by our focus on superior customer service, unparalleled new product speed-to-market, consistency in exceeding customer expectations, innovation of new technologies and unique products, ability to design for large-volume and low cost production, and control of multiple production inputs through our vertically integrated operations. Our manufacturing capabilities, which reach across the world in both developed and emerging regions, increase the effectiveness and efficiency of meeting customer needs and delivering value.  
+
+Vertically Integrated Manufacturing  
+
+We have built a vertically integrated manufacturing operation that provides control over certain key component technologies. Through acquisitions and internal development, we have created this internal supply network that allows for optimized manufacturing throughput, increased product design flexibility, enhanced product reliability, and independence in designing key components. Further, this integrated approach enables us to lower costs and to improve the functionality of critical components so that they work together efficiently within our products. In comparison to competitors that do not possess a similar level of integration, we can deliver products in a more timely and cost-effective manner as we rely less on third-party suppliers for performance and innovation.  
+
+Industry-Leading Market Position  
+
+We are a leading developer of highly advanced, proprietary sensor systems that are highly reliable, accurate, and effective. We believe that none of our competitors have comparable penetration into as many markets as we do, including the government, industrial, commercial, and consumer sectors. Having a leading position in the markets we serve allows us to secure new and continuing business while also achieving manufacturing economies of scale. Increased unit volumes works to reduce costs throughout our business, which allows us to lower our prices. This creates a virtuous cycle whereby we are able to make advanced sensor technologies more affordable to a wide array of end-users while reducing costs. This established presence across multiple markets creates a production and profitability barrier for our competitors.  
+
+Broad Product Line  
+
+We offer a wide array of sensor products, including infrared imaging cameras and systems, detector cores, CBRNE threat detectors, test and measurement instruments, radars, maritime electronics, and related products and solutions. Our customers can buy these products off-the-shelf or request a customized sensor solution. This ability to serve a variety of customers with disparate needs and specifications allows us to be successful in facilitating the use of advanced sensors in a broad range of applications. We have the ability to rapidly concept,  
+
+4  
+
+Table of Contents 
+
+ design, prototype, and manufacture new products to meet the evolving landscapes of the markets we serve. Our spiral development process iterates new products from our successes in existing products. The process, which considers significant customer satisfaction and field-use data, results in the rapid creation of new features that are able to address the changing needs of the end-user. This continual evolution of our products has proven successful through our high level of customer retention and strong revenue and income growth.  
+
+Internally-Funded Innovation  
+
+We have expertise in developing sensing instruments that are both highly advanced from a technical standpoint and commercially viable and salable across multiple pools of customers. Since 2000, we have invested over $700 million in research and development of new technologies and products. The vast majority of this expense is paid for with our internal funds. Utilizing our own funds for research and development (R&D) provides us with full ownership of the development process and the end product, and also focuses our R&D teams on projects that will result in products that are commercially viable and can be marketed to multiple markets for multiple applications.  
+
+Diverse Customer Base  
+
+We sell our products to thousands of commercial and government customers for use in a variety of applications and markets worldwide. The buyers and users of our products include government agencies and militaries, aerospace and defense contractors, electricians and tradesmen, commercial ports, first responders, critical infrastructure operators, electrical generation and gas processing plants, heating and air conditioning technicians, building inspectors, food processors, automobile parts manufacturers, commercial and residential security providers, research and lab technicians, manufacturing companies, doctors and veterinarians, recreational boaters, and the general consumer market. We believe that the diversity of our customers, end-user markets, and applications helps to mitigate fluctuations in demand from any particular customer or market. The diversity of our customers and of the end-users of sensor technologies provides us with multiple long-term growth opportunities.  
+
+Global Distribution Capabilities  
+
+Our core infrared imaging products have evolved from a niche technology sold primarily to military customers and high-end research firms to become a valuable information gathering and assessment tool to a multitude of industrial, government, and commercial entities. With the widening adoption of these technologies, distribution has become a key advantage to our business globally. We believe our sales and distribution organization is among the largest in the industry and effectively covers the world with a combination of direct sales, third-party representatives and distributors, independent dealers, application engineers, and service and training centers. Internationally, we have invested heavily to build a strong presence to sell and service our products, a key advantage in penetrating particular markets, such as foreign governments. Our sales representatives, including third-party distributors, undergo a comprehensive training program on each products technical specifications, functions, and applications. We also continuously update our training programs to incorporate technological and competitive shifts and changes. We sell in many distinct markets and have established specific sales channels for each market.  
+
+We continue to expand this distribution platform through internal growth and outside acquisitions. In 2010, we acquired Raymarine, which further enhanced our distribution network by adding approximately 2,400 independent dealer outlets and 250 OEM relationships to our maritime business. Additionally, our 2010 acquisition of ICx provided us with threat detection sensor sales functions and delivered long-standing relationships with many government customers.  
+
+5  
+
+Table of Contents 
+
+Consistent Generation and Distribution of Cash Flow  
+
+Our earnings, combined with our modest capital expenditure requirements, result in the generation of significant free cash flow. In the years ended December 31, 2010 and 2009, our net cash provided by operating activities was $255.4 million and $271.8 million, respectively. Over the past 5 years, our operating cash flow has exceeded our net earnings every year except in 2007. This ability to consistently convert revenues into net operating cash provides us significant flexibility in making growth and capital deployment decisions, such as executing strategic acquisitions, undertaking new product or technology development initiatives, building out our distribution and marketing presence, making capital investments, or repurchasing shares of our common stock in the open market. Since 2003, we have utilized $775 million of cash for acquisitions, $400 million for share repurchases, and $285 million for capital expenditures.  
+
+Growth Strategies  
+
+Our clear and consistent strategy has enabled strong and steady performance in our business while allowing expansion into areas of growth. We look to build on our leading position in advanced sensor systems by leveraging our key competitive strengths through a focused corporate strategy that will yield growth in both revenue and profitability. Key elements of the FLIR growth strategy include:  
+
+Grow Existing and Enter New Markets  
+
+A key element of our success is our ability to deliver high-value sensor technologies with various specifications and price points to reach a vast and expanding range of customers. While our commercial operating model and innovative development teams work to continually increase the availability, value, and effectiveness of our products, our sizable and growing end-user population often discover new uses for our technologies that will create a new line of business. We will continue to enable our existing markets, facilitate these application breakthroughs, and expand into new areas of opportunity by making investments in the development of advanced multi-use products, best-in-class field-located sales and service capabilities, proactive technical and application communication forums, integrated and expert sales and marketing organizations, comprehensive customer training, and capabilities to rapidly deploy new products and solutions.  
+
+Design and Develop Innovative Sensor Systems  
+
+We intend to continue to broaden our product line by developing next-generation sensor technologies by leveraging our internally-funded innovation centers and, in limited situations that are strategically beneficial to our commercial model, by using customer funds. Creating a regular flow of new products that incorporate novel features and technologies while also reducing their size, weight, and power consumption is critical to our continued success in our existing and future markets. We allocate significant resources to business and product development, concentrating on tracking and analyzing industry and technology trends. By being aware of our changing customers needs and the trends within our markets, we expect to bring to market the most cutting-edge and innovative products that provide critical information to secure, protect and improve lives and resources.  
+
+Continually Reduce Costs  
+
+Our ability to continue penetrating and expanding on our leading market position and into the markets for advanced sensor systems is predicated on our success at reducing our internal costs to manufacture systems. Through our commercial operating model, we have had great success designing and manufacturing products that benefit from economies of scale and thus reduce our cost to deliver a product to our customers. We expect to further leverage this model and accelerate the virtuous cycle our business has created where increased unit volume output reduces our costs, allowing us to lower selling prices, which increases demand and sales volume for our products. We intend to continue to reduce costs, through continuing to vertically integrate our operations, expanding our use of shared services, rationalizing our strategic sourcing processes, and diversifying our manufacturing operations, which we believe will result in an increase in market demand for our products.  
+
+6  
+
+Table of Contents 
+
+Expand Global Reach  
+
+Expanding and strengthening our already vast distribution network is vital to our ability to keep pace with demand and the growing adoption of advanced infrared and threat detection systems. Investing in our direct sales force and building relationships with independent distributors and partners is a key priority. Building a presence in new international markets has been successful, most recently in regions of the Middle East, and we intend to continue the development of our global reach. Developing countries such as India and China are areas of focus, as they are emerging economies for our technologies. Additionally, as our sensor technologies become more affordable and prevalent in consumer markets, we have worked to strengthen our marketing and sales channels to better communicate with and serve the millions of potential customers that transact over the internet, through catalogs, and at retail locations.  
+
+Build Application Awareness and Our Brand  
+
+Both thermal imaging and CBRNE detection technologies are still in the early stages of adoption in many of our markets. We believe that as people understand and recognize the extensive commercial, consumer, and industrial uses for the information our sensors provide, our business will continue to grow rapidly. As such, we strive to communicate the benefits of thermal and detection sensors to new market participants in order to drive demand for our products. We leverage our distribution channels to focus on marketing activities that incorporate internet promotion, advertising, direct mail, press and demonstration tours, technical articles for publications, and sponsorship of and participation in most major trade shows. Additionally, we strive to support the advancement of new sensor uses, provide world-class service and support, and listen to customer feedback and incorporate the findings into our solutions to further build the awareness of our solutions and our brand. These activities give us the opportunity to educate potential customers about the key features and attributes of our products and how they may be used to address specific customer needs. As an example, we have partnered with various television and internet outlets to exhibit the FLIR product line and demonstrate the unique value of our products.  
+
+Complement Core Competencies with Strategic Acquisitions  
+
+Infrared imaging has been and remains our core business. Our unique position as a leading infrared imaging products company has enabled us to build an integrated sensors company, having recently added CBRNE detection, radar, maritime, and test and measurement products. We intend to continue investing in adjacent technologies, products, and distribution channels to grow our business and become an integrated, single-source provider of advanced sensor systems and solutions.  
+
+Focus on Financial Performance  
+
+We are focused on translating success in selling our products into high margins and increasing profits. We have been consistently successful in doing so through cost discipline, considering the margin impact of all business decisions, and benchmarking our business against some of the best performing companies in the world. Coupling consistent sales growth with a focus on controlling costs has yielded significant financial flexibility. The cash flow that our business generates has allowed us to invest in growth initiatives as well as return value to our shareholders. Since 2001, our revenue, earnings per share, and operating cash flow have grown at annual rates of 23%, 25%, and 28%, respectively. In any deployment of our cash flow, we analyze the long-term profitability impact on our business and choose only those initiatives that have a positive cost-adjusted payoff based on conservative assumptions.  
+
+Business Segments  
+
+Thermography  
+
+The Thermography market has traditionally addressed thermal imaging applications where both imaging and temperature measurement are required. This market has grown in size and breadth as prices have declined, volumes have increased, and new applications have emerged. Our strategies in this business are to continue to  
+
+7  
+
+Table of Contents 
+
+ develop products for high-end applications while introducing new products at lower price points, and to capitalize on highly price-elastic demand in numerous emerging markets. Over the past several years, markets have grown rapidly and expanded beyond the traditional industrial predictive and preventive maintenance segments. We expect new markets to continue to develop in the future.  
+
+Markets  
+
+Predictive Maintenance   Thermal imaging systems are used for monitoring the condition of mechanical and electrical equipment. Such monitoring assists our customers in identifying equipment faults (manifested as hot spots) so they can be repaired before they fail. This increases equipment productivity and avoids catastrophic failures or major damage, which reduces operating expenses by lowering repair costs and reducing downtime. Improved functionality of image analysis software, smaller size and weight, and simplicity of system operation are critical factors for this well established market segment.  
+
+Research & Development   Infrareds unique ability to detect very small differences in temperature while detailing complex thermal dynamics and patterns makes Thermography systems a useful tool in a wide variety of research and development applications. Our systems provide the ability to view thermal distribution in real time for products ranging in size from small hybrid integrated circuits to jet engines. Common applications include product development of microelectronics, cell phones, laptop computers, telecommunications equipment, consumer appliances, automotive components, and aircraft engines. Systems used in research and development applications typically require very high imaging performance and measurement precision, coupled with extensive analysis and reporting software. We have a complete line of both cooled and uncooled infrared imagers specifically designed for high-end research and development applications.  
+
+Manufacturing Process Control   Thermal imaging applications for manufacturing process control include applications where temperature consistency is critical, including monitoring the quality of metal, plastic and glass cast parts, which are highly dependent upon the temperature distribution in the mold; monitoring the quality of paper, which is dependent upon proper and even moisture distribution during the drying process; and monitoring the quality of products such as rubber gloves, which can be thermally examined to locate abnormally warm or cool spots, indicating non-uniform thickness that may result in a quality defect.  
+
+Building Inspection   Infrared imagers can detect missing insulation, electrical faults, water intrusion and pest infiltration, gauge energy efficiency, and help detect the presence of moisture. Market segments include building diagnostics, energy auditing and home inspection, property and facility management, HVAC and plumbing, and moisture detection and restoration. This market has grown rapidly as costs have declined and new uses for thermal imaging systems have emerged. Building inspection represented one of the largest single Thermography markets for us in 2010.  
+
+8  
+
+Table of Contents 
+
+Gas Detection   Specially designed infrared systems can detect and image hydrocarbon gas emissions or leaks. Using this technology, we have established a market focused on leak detection at gas production, transmission and storage locations, as well as compliance monitoring by environmental and other regulatory agencies. New applications are emerging for this technology. For example, we now have a system that detects sulfur hexafluoride, a dangerous pollutant and potential fire hazard used as an insulator in electrical transformers. During 2010, the U.S. Environmental Protection Agency (EPA) issued a requirement that large-scale extractors and distributors of greenhouse gases begin to annually self-report the amount of greenhouse gas that is emitted from their facilities. The issuance noted that the EPA will allow, and in certain situations require, the use of optical gas imaging systems such as ours to be used to perform the emission analysis.  
+
+Emerging Markets   Over the past seven years, we have successfully introduced progressively lower priced thermal imaging systems that have enabled us to expand traditional Thermography markets and open new markets for our products. These products, the latest of which is the i-family, have met with strong market acceptance in the higher volume building and electrical inspection markets, and we expect additional market segments for thermal imaging to develop as prices continue to decline. These market segments may include healthcare and screening, food service and distribution, veterinary science, automotive care, aircraft inspection, and maritime vessel inspections.  
+
+Training   We offer fee-based training on the principles of thermography and the use of our products through ITC®, our Infrared Training Center, which provides comprehensive instruction, training, certification and applications engineering from several FLIR locations or at the customers site. We also license Infrared Training Centers to qualified third parties in certain countries. In 2010, over 10,000 people received training at our Infrared Training Centers worldwide.  
+
+Sales and Distribution  
+
+We sell our Thermography products worldwide through a direct sales staff and a network of distributors and representatives. Our Thermography business continues to expand distribution, particularly in Asia and Latin America. At the end of 2010, our Thermography segment employed over 130 direct sales personnel and utilized approximately 750 distributors. In 2007, we acquired Extech Instruments Corporation, a distributor of hand-held test and measurement equipment. We have utilized its distribution channels, particularly into catalogs and retailers, to expand our distribution in the United States. In January 2008, we acquired Cedip Infrared Systems which has provided additional distribution capability, particularly in international markets.  
+
+Thermography order backlog, defined as orders received for products or services for which a sales agreement is in place and delivery is expected within twelve months, was $22 million as of December 31, 2010, compared with $27 million at the end of 2009. Thermography is among our least backlog intensive segment, as shipment of product typically occurs within a few weeks of receipt of orders.  
+
+9  
+
+Table of Contents 
+
+Customers  
+
+Typical Thermography customers include research and development facilities, universities, industrial companies, utility companies, building inspectors, electrical contractors, thermography consultants, damage restoration contractors, and numerous commercial enterprises. Given the high-value nature of many of our Thermography instruments, our revenues tend to be correlated with seasonal trends, in particular capital spending trends. In general, customers in markets like predictive maintenance and R&D are sensitive to the broad economy because our cameras are viewed as capital expense items. The sales of our lower priced cameras are somewhat less sensitive to economic cycles due to their lower price points.  
+
+Competition  
+
+Thermography is a highly competitive market that has both large and niche providers of thermal camera equipment. While our market share in Thermography products is significant, estimated to be 60% based on independent industry research, we view the market as highly competitive. We strive to grow our market share through continuing our innovation of advanced imaging products and controlling our costs to facilitate lower prices to the end-user. Our primary competitors in Thermography include Fluke (a division of Danaher), NEC, Testo, and Wuhan Guide.  
+
+Commercial Vision Systems (CVS)  
+
+Commercial Vision Systems is focused on commercial markets where the primary need is to see at night and in adverse conditions. While these markets are broad and growing rapidly, they exhibit low penetration of infrared technology and require distinct distribution channels. CVS is focused on expanding its product line and expanding distribution. This strategy focuses efforts on building distribution channel relationships, accelerating design cycles, reducing manufacturing costs, and providing excellent customer service. As in Thermography, price elasticity of demand is high, and as prices fall further, we expect sales volumes to continue to increase. Significant markets for CVS products today include:  
+
+Markets  
+
+Security and Surveillance   Thermal imaging systems have been used for surveillance and perimeter security of government, military and industrial facilities for many years. Over the past few years, we have introduced a series of lower priced, purpose built systems targeted at the commercial security market and are actively expanding distribution in this market. Our security products are now being used to protect critical infrastructure, ports, borders, commercial sites, and residential homes. Demand for security systems utilizing thermal imaging technology is growing rapidly across all segments.  
+
+Automotive Night Vision   We offer a night vision system for passenger automobiles that provides drivers with the ability to see at night and through obscurants, such as fog, at distances much further and wider than can be seen with traditional headlights. We currently provide cameras for certain Audi, BMW, and Rolls Royce models. We work with Autoliv Electronics, a major supplier of automotive safety equipment, to distribute theses systems, and we expect to continue to expand the technology into new makes and models over the next several years.  
+
+Other Transportation Night Vision   We are actively promoting our products in other transportation markets, such as trucks, trains, recreational vehicles and first responder vehicles, as well as aftermarket sales in the automotive  
+
+10  
+
+Table of Contents 
+
+ market. Use of thermal imaging in mining and heavy industrial transport has increased and has become a valuable application of our technology. These markets are in the early stages of adoption of infrared technology, but we believe they offer significant future growth opportunities.  
+
+Marine   In 2006, we introduced the first cost-effective infrared device specifically designed for recreational boating, cruise lines, commercial fishing and merchant marine vessels, ferries, and other maritime markets. Since then we have aggressively expanded distribution through a combination of direct sales and a network of dealers. Our acquisition of Raymarine has greatly expanded our distribution capabilities as well as our product breadth. We now offer an integrated suite of maritime electronics that utilizes multifunction displays, infrared cameras, depth sounders, GPS, auto pilots, and advanced command and control software.  
+
+Personal Vision   We are pioneering the use of advanced thermal imaging technology for consumer applications. Our easy to use, affordable, and lightweight personal vision thermal cameras give people the ability to see at night and stay safe in various settings. We enhance peoples enjoyment of the outdoors by enabling them to keep track of their camping party, see and track animals, and navigate during deteriorated weather conditions. In the home, our cameras can be used for numerous household and security applications, such as locating heat leaks, evaluating insulation coverage, detecting water damage, identifying intruders, and locating pests.  
+
+Law Enforcement   We are a leader in the supply of low cost, hand-held systems to the law enforcement market. These cameras provide a lightweight, cost-effective, high performance tool for police officers and other law enforcement professionals to conduct search and rescue, surveillance, or pursuit missions.  
+
+OEM Markets   We supply cooled and uncooled camera cores, sensors, and readout integrated circuits on an OEM basis for a broad range of applications where customers require a product at a lower level of integration than a fully developed thermal imaging system. Examples of major customers in this segment are Mine Safety Appliances, Inc. (firefighting); Bullard (firefighting); AeroVironment, Inc. (unmanned aerial vehicles); Northrop Grumman Corporation (cooled cores for military applications); Hologic (readout integrated circuits for digital X-ray); and various makers of security systems worldwide.  
+
+Sales and Distribution  
+
+Commercial Vision Systems is actively expanding its distribution network by hiring additional direct sales personnel and expanding third-party distribution networks in specific markets. At the end of 2010, our Commercial Vision Systems sales organization employed approximately 80 direct sales personnel as well as a global network of dealers across many distinct markets. In certain markets, CVS has chosen to supply camera cores on an OEM basis to companies with well established distribution networks. Examples include firefighting, where we supply cores to Mine Safety Appliances, Inc. and Bullard, and automotive, where we are partnered with Autoliv Electronics.  
+
+11  
+
+Table of Contents 
+
+With our further expansion into the low cost segment of the commercial markets, we have developed greater competencies in market research, electronic marketing, marketing communications, and business development. Our ability to identify new markets, adapt our product solutions to meet unique market needs, quickly develop marketing communications that highlight our unique features, and leverage existing and new distribution channels to develop incremental business are important aspects of our marketing and communications efforts.  
+
+Commercial Vision Systems carries backlog in certain markets, but the business is less backlog dependent than our Government Systems segment. Commercial Vision Systems backlog as of December 31, 2010, was $114 million, compared with $103 million at the end of 2009.  
+
+Customers  
+
+Commercial Vision Systems serves customers such as OEMs, automotive suppliers, aircraft manufacturers and dealers, marine electronics dealers, major integrators of security systems, and increasingly, consumers. Although we have hundreds of customers for our CVS products, there remains tremendous opportunity to expand this business. The emerging personal vision systems market is becoming increasingly accessible as we leverage our business model to reduce the price of advanced thermal imaging products. This consumer market is a key strategic area of focus given the vast size of the customer base and the opportunities it provides us to expand our volumes and brand name. Our established distribution network, broad product portfolio, and product and technical development capabilities set a foundation for future success as we continue to leverage our commercial operating model to reduce our costs in creating advanced imaging products. As we continue to make our products accessible to a larger population of end-users and build awareness of the advantages of thermal imaging applications, we anticipate our CVS segment will provide significant revenue and profitability for our business.  
+
+Competition  
+
+The markets that CVS addresses are emerging from the early-adopter environments to broader based demand, which has attracted competitors. We believe the key drivers of success in these markets are: technological proficiency in imaging sensors, product design and functionality, product cost, ability to deliver in a timely manner, distribution reach, brand name, and scalability of operations. We are uniquely positioned to operate in this competitive environment given our demonstrated ability to innovate high-quality sensors at low cost due to our operating model, our advanced research and development capabilities, our established and reliable distribution network, our diversified manufacturing operations, and our broad product offering. The primary competitors vary market by market, but include divisions of General Dynamics (Axsys), L-3 Communications, Sofradir (ULIS), Axis and numerous smaller companies.  
+
+Raymarine  
+
+Raymarine is a leading provider of marine electronics, and continues as the pioneer in the use of digital control systems. The comprehensive suite of products that Raymarine develops and markets is intended to fulfill all of the marine electronic needs of recreational boaters and offer best-in-class integrated control solutions for all of their onboard instrumentation. The current product portfolio includes multifunction displays, autopilots, thermal imaging cameras, radars, sonar modules, and other instruments which interconnect through Raymarines proprietary networking solutions. This broad product range is differentiated by the reliability, usability, and interconnectivity of the instruments we provide. Raymarines core capability, providing a comprehensive and centralized control, navigation, and communication system that can be managed with a single integrated data output, is valuable to its customers, who increasingly look for quality, technologically advanced products from a single-source.  
+
+Our key strategies for Raymarine, as we continue to integrate the business into our operations, include rationalizing and leveraging the significant R&D engineering expertise of the business, incorporating thermal imaging cameras into the integrated product suite while building the awareness of the significant value of thermal imaging to the recreational marine industry, and enhancing the integration capabilities of the business through  
+
+12  
+
+Table of Contents 
+
+ investments in software and networking solutions. We have invested significant resources in evolving Raymarines product line, consolidating its distribution network, and rationalizing its operations and outsourced manufacturing relationships. While the boating market that Raymarine serves is sizable, the industry has been in a cyclical trough. We believe that recent operational improvements have positioned the business to benefit significantly as global demand returns to historical levels.  
+
+Markets  
+
+Recreational Boating OEMs   A main focus of Raymarine has been to establish relationships with boat manufacturers in order to sell a fully integrated electronic backbone on new boats, with the intention of driving brand continuity with a large installed base of end-users. Medium sized (26 to 45 feet in length) and large boats (in excess of 45 feet in length) have a unique need for sophisticated electronics and multifunction control solutions. Additionally, in recent years, demand has grown for scaled-down instruments in the much larger segment for small boats (comprising inflatable and rigid motor craft below 25 feet in length). Raymarines comprehensive product offering has evolved to serve these evolving boat manufacturers needs well.  
+
+Aftermarket   Due to the comparatively long life of a recreational boat, the growing importance and usefulness of marine electronic equipment and the pace of technological development, the aftermarket is large for electronics systems refits and upgrades. Raymarine has ensured that both its instruments and its networking software are capable of integrating with third party platforms and instruments, which has become a key driver of demand in the aftermarket.  
+
+Sales and Distribution  
+
+Raymarines products are sold through a combination of direct sales, captive and third-party distributors, service partners, and retail outlets. Raymarine has strong relationships with a large number of key boat builder OEMs, most of which are supplied directly with the latest Raymarine systems. Many of these relationships are long-term in nature and have evolved over a number of years with important exchanges of product development ideas. Raymarines OEM customers have typically built up important embedded technical product fitting and integration knowledge over a period of time. They have also established confidence in the critical electronic systems fitted to the products they supply to their customers. In addition to supplying OEMs directly, a number are supplied through Raymarines distribution network.  
+
+Raymarine also supplies a global network of approximately 2,400 wholesalers, national distributors (both owned and third party), and retailers. Many of these partnerships are on an exclusive basis, whereby Raymarine is the only electronic boating equipment stocked. Raymarine also has a global network of approximately 2,000 dealers and service centers which are able to sell, repair, and install Raymarines products. This global support and repair service network is a key competitive advantage as many of our products are critical to the operation of a boat. Additionally, the business has established a presence at retail locations and boat shows, which serves to build the Raymarine brand in both the new-build and aftermarket spaces. Having a strong consumer brand name and a large installed base of users created through our first fitments drives business in the aftermarket as boaters look to upgrade or replace instrumentation, often with the brand with which they are familiar.  
+
+Raymarine backlog as of December 31, 2010, was $11 million. Similar to our Thermography business, Raymarine is not considered a backlog intensive business, as shipment of product typically occurs within a few weeks of receipt of orders.  
+
+13  
+
+Table of Contents 
+
+Customers  
+
+Raymarine sells its products via diverse distribution channels to a wide variety of customers. Raymarine has established long-term relationships with approximately 250 OEM boat builders, each of which have experience and knowledge of the product capabilities, quality, and reliability. These OEMs value the breadth of the Raymarine product line and our global dealership service network. We supply a number of OEMs directly, who outfit their new boats with integrated Raymarine electronic systems. As a result of Raymarines long standing relationships with OEMs and its ability to provide fully integrated electronic systems, including an electronic backbone to a boat, there is a high level of business from consumers purchasing replacement or upgrade equipment for their outfitted boats. We also sell discrete instruments to consumers who are looking to install new or upgrade existing marine electronics on their small, medium, or large boats.  
+
+Competition  
+
+The maritime electronics markets are competitive with many established brands and companies. We compete with these companies through innovation, product capabilities and perceived value, relationships with OEMs and distributors, and product availability and service. We believe we compete successfully with our strength in distribution, established brand name, engineering capabilities, and renewed financial flexibility. Our principal competitors in the recreational boating market include Furuno, Garmin, Navico, and a number of small companies.  
+
+Government Systems  
+
+Government Systems focuses on providing enhanced vision capabilities to a wide variety of military, paramilitary, law enforcement, public safety, and other government customers. Our systems typically provide the capability to see over long distances, day or night, through adverse weather conditions, and from a wide variety of vehicle, man portable, and fixed installation platforms. Currently, the majority of our Government Systems infrared imaging systems use cooled technology to identify objects from long distances; however, uncooled thermal imaging systems are growing rapidly in certain markets such as weapon sights, hand-held monoculars/binoculars, military vehicles, and unmanned aerial vehicles. Many of our customers require systems that operate in demanding environments such as extreme climatic conditions, battlefield and military environments, or maritime conditions. Systems are often installed onto larger platforms and must be able to integrate with such other systems as aircraft avionics, radars, laser systems, and large, broad-based security networks.  
+
+Government Systems offers a very wide array of products across multiple applications. For airborne applications, we have developed highly stabilized platforms, known as gimbals, which typically contain multiple payloads in addition to the infrared imaging system, as well as sophisticated software and analytic capabilities. For land applications, we manufacture three types of products: hand-held products, platform mounted products, and targeting products. Platform mounted units are typically housed in a weather-tight enclosure and feature remote control capabilities and multi-sensor integration capability (e.g., closed circuit TV, laser rangefinder, compass or global positioning system). Hand-held ground products are ruggedized and have optional lenses and target location capabilities. Ground-based targeting products are designed to attach to existing daylight sights to provide bore-sighted, nighttime capabilities. For maritime applications, we manufacture shipborne products which are similar to our airborne gimbals, but are inverted and customized for the marine environment.  
+
+We address our core markets through either a commercial, off-the-shelf (COTS) model or a commercially developed, military qualified (CDMQ) model. The products we develop under the COTS model are applicable to a range of commercial and government customers and markets, including military applications. CDMQ products are specifically designed to meet military specifications. In both the COTS and CDMQ product development models, we use internally generated funds for research and development, and we generally own all rights to the products and their design.  
+
+14  
+
+Table of Contents 
+
+Markets  
+
+Search and Rescue   Thermal imaging systems are used in airborne and shipborne search and rescue missions to rescue individuals in danger or distress on boats or vehicles, or wounded or lost in adverse conditions. Such systems are in use today by organizations such as the United States Army, United States Coast Guard, the United States Marine Corps, the United States Air National Guard and the United Kingdom Ministry of Defense.  
+
+Force Protection   In instances where military or other personnel are deployed in hostile areas, thermal imaging systems mounted on towers or other platforms are deployed to identify and defeat potential threats at an early stage. Our systems are deployed for this purpose by the United States Army, United States Marine Corps and others worldwide.  
+
+Border and Maritime Patrol   Thermal imaging systems are used in airborne, shipborne, hand-held and fixed installation applications for border and maritime surveillance, particularly at night, to enforce borders and coastal waters, to monitor national fishing boundaries and to prevent smuggling. Our cameras are currently deployed along numerous borders worldwide, including in the United States, Europe and the Middle East.  
+
+Surveillance and Reconnaissance   Thermal imaging systems are used in surveillance and reconnaissance applications for the precise positioning of objects or people from substantial distances and for enhanced situational awareness, particularly at night or in conditions of reduced or obscured visibility. These systems are installed on fixed platforms, manned mobile platforms, and unmanned aerial vehicles.  
+
+Airborne Law Enforcement   We are a leader in the supply of stabilized airborne thermal imaging systems for federal, state, and local law enforcement agencies. Agencies with this type of equipment have the ability to track suspects, locate lost persons, and provide situational awareness to officers on the ground.  
+
+Targeting   We offer several products that provide precise target location and designation capabilities in applications ranging from clip-on rifle scope devices to high-precision, stabilized, airborne laser designator systems.  
+
+Federal Drug Interdiction   Thermal imaging systems enable government agencies to expand their drug interdiction and support activities by allowing greater surveillance and detection capabilities. Our systems are in use by the United States Customs Service, the United States Drug Enforcement Agency and the United States Federal Bureau of Investigation, as well as by international government agencies.  
+
+Sales and Distribution  
+
+Our Government Systems business has a direct sales staff of approximately 80 individuals and a network of independent representatives and distributors covering major government markets worldwide. Included in this  
+
+15  
+
+Table of Contents 
+
+ total are technical and customer support staff in the United States, Europe, the Middle East and Asia Pacific who provide application development, technical training and operational assistance to direct and indirect sales personnel as well as to customers.  
+
+We enter into contracts and subcontracts which are subject to certain risks related to doing business with the United States government and may be subject to termination, reduction and/or amendment at the election of the United States government. For a discussion of these risks, see sections We depend on the United States government for a material portion of our business and changes in government spending could adversely affect our business and As a United States government contractor, we are subject to a number of procurement rules and regulations in Item 1A Risk Factors.  
+
+Government Systems typically has the highest backlog of our segments relative to revenue and in absolute terms. At December 31, 2010, Government Systems backlog totaled $325 million, compared with $433 million at December 31, 2009. The decline in Government Systems backlog is primarily due to significant deliveries in 2010 on certain large programs, primarily with US Government agencies, and reductions in US Government spending in 2010.  
+
+Customers  
+
+Government Systems customers generally consist of United States and international government agencies, including civilian, military, paramilitary, and police forces, as well as defense contractors and aircraft manufacturers. A substantial portion of our consolidated revenue is derived from sales to United States and international government agencies and our business will continue to be substantially dependent upon such sales. Aggregate sales to United States government agencies accounted for 34 percent of our consolidated revenue in 2010, 43 percent in 2009, and 41 percent in 2008. We expect revenue outside the United States to continue to account for a significant portion of our Government Systems revenue, as demand for our equipment is increasing rapidly outside the United States. The Government Systems segment is susceptible to some seasonality in its orders primarily based on the United States government budget year end. The result is that the third quarter tends to exhibit the largest amount of orders for our Government Systems segment. However, fiscal policy trends, budget delays, and general economic trends can overshadow this seasonality in any given year.  
+
+Competition  
+
+The Government Systems segment operates in highly competitive markets that evolve rapidly with the advent of new technologies and requirements. Many of our competitors in the government sector are well established contractors for various governments and have more financial and other resources than we possess. The principal competitive factors in the government markets include technical innovation, agency relationships, product quality and reliability, price and ability to deliver. We believe we compete successfully in these markets with our best-in-class technologies, our products abilities to outperform customer requirements and competitors products, our lower priced solutions that result from our commercial operating model, and our service and support functions that exist in the field and near the customer. Our current principal competitors in the Government Systems markets include divisions of BAE Systems, DRS (a Finmeccanica company), Elbit Systems, General Dynamics, L-3 Communications, Lockheed Martin, Raytheon, Sagem, Smiths Group, Sofradir, and Thales.  
+
+ICx  
+
+With our acquisition of ICx in October 2010, we added leading capabilities in the development of advanced sensor technologies used to detect and identify CBRNE threats. ICx also adds highly-complementary thermal imaging, wide area radar surveillance, platform integration, and software solutions to our product suite. ICx leverages an established technical research and development organization which, we believe, enables the business to offer the highest quality, most sensitive, and easiest to use products that meet the evolving needs of government and commercial security providers.  
+
+16  
+
+Table of Contents 
+
+ICx manufactures and markets the leading portable explosive detector, the smallest spectroscopic radiation detector, and the most accurate mobile solutions for perimeter surveillance available in the market today. This product success has allowed ICx to build a leadership position in the homeland security market, and the business intends to expand on this position through continued development of innovative technologies. With significant experience in managing government-funded research and development projects, ICx has developed entrenched relationships with various government decision makers and has deep knowledge of the governmental procurement process.  
+
+Markets  
+
+CBRNE   ICx designs, develops and manufactures detection instruments that sense and identify chemical, biological, radiological, nuclear, and explosive threats. These instruments are compact, rugged, and portable for use in the field. The methods ICx CBRNE solutions utilize to test and monitor areas for threats include continuous air sampling mass spectrometry (indoor and outdoor), point detection, spray-based analysis, gamma ray detection, vapor testing, liquids screening, and Raman spectroscopy.  
+
+Wide Area Surveillance   ICx offers wide-area surveillance radar systems that identify potential threats before they cross a perimeter. Providing high-resolution millimeter wave and frequency-modulated continuous wave radars, ICx allows fewer people to detect more threats within a large area. These radar technologies are very complimentary to our core thermal imaging systems in that they allow us to integrate them with our thermal imaging cameras to provide a robust slew-to-cue solution that can survey and detect movement within a large perimeter and automatically direct a thermal camera towards the movement to provide a specific field of view.  
+
+  [DATA_TABLE_REMOVED] 
+
+Sales and Distribution  
+
+ICx sells its products worldwide primarily through a direct sales force, but also utilizes third-party sales representatives, value-added resellers, and systems integrators. With a centralized sales organization and specialized sales teams that serve specific markets, ICx has been successful at building and leveraging strong relationships with key decision makers at various government agencies and commercial entities. As some ICx products are designed as components or sub-systems, the business utilizes value-added resellers or systems integrators for incorporation into their products or systems. For example, ICx provides video integration software for security command centers, access control software and firmware for building-wide security systems, bio-samplers for first responders, and multi-channel analyzers for radiation portals.  
+
+17  
+
+Table of Contents 
+
+ICx derives a portion of its revenue, approximately 27% in the fourth quarter of 2010, from funding received from agencies of the United States government pursuant to research projects. The revenue that we recognize under these contracts represents reimbursement by the customer for time periods ranging from several months to several years. Our participation in these and other development programs has culminated in the development of a number of commercial products. In general, our United States government contracts permit us to retain all rights in patents emerging from the funded research and development, subject to the United States governments license to use the technology we develop.  
+
+At December 31, 2010, ICx had a total backlog of $62 million. Backlog represents orders that have been received for products, contract research and development, or other services for which a contractual agreement is in place and delivery or performance is expected to occur within twelve months.  
+
+Customers  
+
+ICx sells its products, systems, and services to a broad base of federal, state and local government customers, to all branches of the U.S. military, foreign militaries, and to private sector businesses and commercial ports both in the United States and internationally. Utilizing an internal sales force, the business sells to agencies of the U.S. government, such as the U.S. Department of Homeland Security and its Customs and Border Protection branch, the U.S. Department of Defense, the U.S. Department of Energy, the U.S. Transportation Security Administration, Federal Bureau of Investigation, NASA, U.S. Secret Service, U.S. Coast Guard, as well as agencies of various state and local governments in the United States, such as the New York Police Department, and the California Department of Transportation. Additionally, we provide products, components, and sub-systems to value-added resellers and system integrators in both the security industry, who either resell our products or integrate them into comprehensive security installations, and the non-security sector, where end-users utilize our technologies for industrial, environmental, medical, and other applications.  
+
+Competition  
+
+The diverse product portfolio that ICx possesses places the business in competition with a wide variety of companies in the homeland security, defense, and industrial sectors. The markets in which ICx competes are dynamic and highly competitive. Success in these markets depends on our ability to develop new technologies to meet rapidly evolving customer needs, reduce production and development costs, integrate with third-party devices and systems, establish and foster relationships with key government and commercial customers, and recruit highly technical personnel. While we do not compete with any one competitor across the full range of our products, we do compete with several single-point providers, diversified enterprises, and divisions of large technology companies, such as: Axis AB, BAE Systems, Canberra Industries, DRS Technologies, General Electric, Goodrich Corporation, Honeywell, L-3 Communications, Smiths Detection, and United Technologies.  
+
+Discontinued Operations  
+
+ICx has certain operations that offer engineering and project management solutions that help governments enable the safe and reliable transportation of people and goods and operations that offer sensor instruments that serve various non-security commercial markets. We have determined that these operations are not strategic to our business and that we intend to sell them.  
+
+18  
+
+Table of Contents 
+
+Technology and Capabilities  
+
+We use our expertise in product design, infrared imaging sensors, mass spectronomy, sensing material, optics, lasers, image processing, systems integration and other technologies, to develop and produce sophisticated thermal, multi-sensor imaging, and threat detection systems. We integrate the following capabilities and disciplines into our manufacturing processes:  
+
+System Design and Integration   We have developed extensive competencies in the design and integration of numerous capabilities and payloads into integrated systems or sub-systems. Competencies such as stabilization, packaging and systems integration allow us to effectively combine a wide variety of technologies and payloads to design and manufacture complex systems to suit our customers needs.  
+
+Radiometry   Our ability to produce thermal imaging systems that can accurately measure temperature is critical in many of our Thermography markets. We have demonstrated know-how in designing and producing systems that can measure temperature to within very precise tolerances while maintaining accuracy and stability over time and over a wide range of ambient temperatures. We believe our skills in this area, known as radiometry, offer an important competitive advantage over many of our competitors.  
+
+Mechanical Engineering   Our design and production of thermal imaging systems involves highly sophisticated mechanical engineering techniques, particularly in the design and assembly of the supporting structures for system components such as detector arrays, coolers, scanners and optics. We also have expertise in designing stabilized assemblies used in our gimbal mounted products utilizing electro-mechanical control, gyroscopes and electronic stabilization, and specialized control mechanisms.  
+
+Infrared Detector Design Manufacturing   We design and manufacture both cooled and uncooled infrared detector arrays, in high volumes and at low cost. We believe our uncooled vanadium oxide microbolometers and cooled detectors using indium antimonide and indium gallium arsenide are among the highest performing infrared detectors of their type available in the world. Internal design and manufacturing of detectors provides significant cost and engineering advantages compared with the use of third-party detectors.  
+
+Integrated Circuits and Electronic Design   We have significant electronic design capabilities across several specialized areas, including readout integrated circuit design, signal processing, image processing, and electronics integration. Our design expertise lies in the areas of reliability, low power consumption and extreme environmental survivability.  
+
+Sensing Materials   Our sensors use new materials with novel characteristics, such as innovative semiconductors, crystals, polymers, reagents, and other recently developed materials. Some materials are extraordinarily sensitive, responding to trace exposures of chemical compounds such  
+
+19  
+
+Table of Contents 
+
+ as explosives, nerve agents, or biological proteins. Other materials respond to low-intensity radioactive emissions of electromagnetic energy, such as specific bands of infrared light. Many of these materials did not exist a few years ago or could not be sufficiently purified or economically assembled into functional structures.  
+
+Software Development   Software is an increasingly important aspect of our overall engineering and design activity. We offer networking capability, video analytics and other software and middleware inside many of our camera systems, and such applications are growing in importance. Our systems are also able to interface with many standard external software protocols.  
+
+Motion Control Systems   Our acquisition of Directed Perception in 2009 added significantly to our motion control system design and manufacturing capabilities. In addition to highly accurate stabilized gimbaled systems for airborne and other applications, we also offer a line of high precision, repeatable pan and tilt systems for use with a wide variety of payloads.  
+
+Optical Design, Fabrication and Coating   We design and manufacture sophisticated infrared optics using materials such as silicon and germanium that are required to produce a thermal imaging system. This capability allows us to rapidly develop optics optimized for use with our cameras and avoid costs and delays associated with reliance on third-party optics suppliers. We also have the ability to apply custom vapor deposited coatings to improve the transmission of the unique lens materials that are used in infrared systems.  
+
+Micro-Coolers   We manufacture the industrys smallest, lightest and lowest power micro-coolers for use in cooling infrared detectors. Our coolers are especially effective in hand-held applications, where light weight and long battery life are essential.  
+
+Lasers and Laser Components   Many of our more sophisticated systems are increasingly being offered with various types of laser payloads, including pointers, illuminators, rangefinders and designators. We design and manufacture purpose-built laser rangefinders and designators for inclusion in some of our gimbaled systems. We also manufacture certain laser-related components for customers.  
+
+  [DATA_TABLE_REMOVED] 
+
+20  
+
+Table of Contents 
+
+Research & Development  
+
+Our success has been and will be in the future substantially affected by our ability to innovate new products and technologies that both augment our existing solutions and create new avenues for growth. We strive to differentiate ourselves from our competition with our R&D operations. Our internally funded research and development expenses were $116.4 million, $91.3 million, and $90.0 million in 2010, 2009, and 2008, respectively. We intend to continue to have significant internal research and development expenses in the future to provide a continuing flow of innovative and high quality products to maintain and enhance our competitive position in each of our business segments. In addition to these internally-funded amounts, in 2010, 2009, 2008, we spent $12.3 million, $5.4 million, and $6.0 million, respectively, on research and development projects that were reimbursed by government agencies or prime contractors pursuant to development contracts we undertook.  
+
+Focusing on projects that have the highest probability for commercial marketability, our R&D teams are located within our business segments. These teams work to develop products that will fulfill their specific customers constantly evolving needs while also sharing findings, successes, technologies, tools, and best practices with one another. One method that our R&D teams use to ensure our new products evolve with our customers is a spiral development process. This process is particularly useful within our Government Systems R&D teams in that it facilitates rapid field testing and refinement of new technologies in order to get end-users the critical protection and information tools they need as quickly as possible. A key tenet of the spiral development philosophy is seeking and receiving end-user feedback on new or upgraded products. Engineers in the field work with the end-users in real-time in order to revise and tune products quickly and efficiently. The solicitation and effectiveness of the end-user feedback has proven integral to our success in creating the most technologically advanced yet user-friendly solutions.  
+
+Proprietary Rights  
+
+We have numerous patents, trademarks, trade secrets and other intellectual property that are important for our success. We rely on a combination of patent, trademark, and trade secret laws, confidentiality agreements, and contractual provisions to protect our proprietary rights. Our intellectual property provides important competitive advantages, and we have intensified our efforts to protect our intellectual property from misappropriation. We will continue to actively seek intellectual property protection for our innovations and intend to emphasize initiatives that will promote innovation and leadership in marketable technology. We cannot, however, be certain or give any assurance that we can maintain our competitive advantage or that competitors will not develop similar or superior capabilities.  
+
+Manufacturing  
+
+We manufacture many of the critical components for our products, including infrared detectors, gimbals, pan-tilts, optics and coatings, laser sub-systems and micro-coolers, and develop much of the necessary software and middleware for our systems. This vertical integration minimizes lead times, facilitates prompt delivery of our products, controls costs and ensures that these components satisfy our quality standards. We purchase other parts pre-assembled, including certain detectors, certain coolers and optics, circuit boards, cables and wire harnesses. These purchased and manufactured components are then assembled into finished systems and tested at one of our primary production facilities located in the U.S., Sweden, Estonia, France, Germany and Canada. Certain components and finished goods are produced by contract manufacturers.  
+
+Our manufacturing operations are, from time to time, audited by certain OEM customers, which include several major aircraft manufacturers, and have been certified as meeting their quality standards. Substantially all of our manufacturing locations are either ISO 9001:2000 or :2008 certified with certain locations having higher certifications.  
+
+21  
+
+Table of Contents 
+
+Customer Service  
+
+We maintain service facilities at many locations worldwide. Each of our service facilities has the capability to perform the complex calibrations required to service thermal imaging systems. We also maintain field service capabilities under the direction of our independent representatives or distributors in locations outside the United States.  
+
+Employees  
+
+As of December 31, 2010, we had 3,215 employees of which 2,051 were located in the United States and 1,164 were located outside of the United States. We have generally been successful in attracting highly skilled technical, marketing and management personnel. None of our employees in the United States are represented by a union or other bargaining group. Certain employees in Europe are represented by unions and workers councils whose contracts are subject to periodic renegotiations. We believe our relationships with our employees, unions and workers councils are good.  
+
+Available Information  
+
+Our internet website address is www.flir.com. This Report, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 and other required filings are available through our internet website as soon as reasonably practicable after we electronically file such material with, or furnish it to, the Securities and Exchange Commission. Our internet website and the information contained therein or connected thereto are not intended to be incorporated into this Report.  
+
+ ITEM 1A. RISK FACTORS

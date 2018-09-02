@@ -1,0 +1,1103 @@
+Item 7. Managements Discussion and Analysis of Financial Condition and Results of Operations.  
+
+The following discussion and analysis of the financial condition and results of operations of NASDAQ OMX should be read in conjunction with our consolidated financial statements and related notes included in this Form 10-K, as well as the discussion under Item 1A. Risk Factors.  
+
+Business Overview  
+
+We are a leading global exchange group that delivers trading, clearing, exchange technology, regulatory, securities listing, and public company services across six continents. Our global offerings are diverse and include trading and clearing across multiple asset classes, market data products, financial indexes, capital formation solutions, financial services and market technology products and services. Our technology powers markets across the globe, supporting cash equity trading, derivatives trading, clearing and settlement, and many other functions.  
+
+On February 27, 2008, Nasdaq and OMX AB combined their businesses and Nasdaq was renamed The NASDAQ OMX Group, Inc. Under the purchase method of accounting, Nasdaq was treated as the accounting and legal acquirer in the business combination with OMX AB.  
+
+We also completed the following acquisitions during 2008, 2010, 2011 and 2012:  
+
+       PHLX, July 2008;  
+
+       BSX, August 2008;  
+
+       Certain subsidiaries of Nord Pool, October 2008;  
+
+       The assets of North American Energy Credit and Clearing Corp., March 2010;  
+
+       A derivatives trading market through the purchase of the remaining business of Nord Pool, May 2010;  
+
+       SMARTS, August 2010;  
+
+       FTEN, December 2010;  
+
+       ZVM, December 2010;  
+
+       Glide Technologies, October 2011;  
+
+       The business of RapiData, December 2011;  
+
+       NOS Clearing, July 2012; and  
+
+       The index business of Mergent, Inc., including Indxis, December 2012.  
+
+These acquisitions also have been treated as purchases for accounting purposes, with NASDAQ OMX treated as the acquirer. Additionally, we purchased a majority stake in IDCG in December 2008 which was sold in August 2012, a 22% equity interest in EMCF in January 2009, and a 72% ownership interest in BWise in May 2012. The financial results of these transactions are included in the consolidated financial results beginning on the date of each acquisition or strategic initiative.  
+
+Most recently, in December 2012, we entered into an agreement with Thomson Reuters to acquire its Investor Relations, Public Relations and Multimedia Solutions businesses. Upon closing, these complementary businesses will be integrated into our Corporate Solutions business. The proposed transaction is subject to customary regulatory approvals and is expected to close in the first half of 2013. We also announced an agreement to acquire a 25% stake in TOM, a Dutch cash equities and equity derivatives trading venue. The terms of the transaction also provide us an option to acquire an additional 25.1% of the remaining shares at a future date. This proposed transaction delivers on our strategy to expand our derivatives presence across the European market and will be part of our European Transaction Services business. The acquisition is also subject to regulatory approval.  
+
+Business Environment   
+
+We serve listed companies, market participants and investors by providing high quality cash equity, derivative and commodities markets, thereby facilitating economic growth and corporate entrepreneurship. We also provide market technology to exchanges, clearing organizations and central securities depositories around the world. In broad terms, our business performance is impacted by a number of drivers including macroeconomic events affecting the risk and return of financial assets, investor sentiment, government and private sector demands for capital, the regulatory environment for capital markets, and changing technology in the financial services industry. Our future revenues and net income will continue to be influenced by a number of domestic and international economic trends including:  
+
+39  
+
+Table of Contents 
+
+       Trading volumes, particularly in U.S. and European cash equity and derivative securities, which are driven primarily by overall macroeconomic conditions;  
+
+       The number of companies seeking equity financing, which is affected by factors such as investor demand, the global economy, availability of diverse sources of financing as well as tax and regulatory policies;  
+
+       The demand for information about, or access to, our markets, which is dependent on the products we trade, our importance as a liquidity center, and the quality and pricing of our data and access services;  
+
+       The demand by companies and other organizations for the products sold by our Corporate Solutions business, which is largely driven by the overall state of the economy and the attractiveness of our offerings;  
+
+       The outlook of our technology customers for capital market activity;  
+
+       Continuing pressure in transaction fee pricing due to intense competition in the U.S. and Europe;  
+
+       Competition for listings and trading related to pricing, product features and service offerings;  
+
+       Regulatory changes imposed upon certain types of instruments, transactions, or capital market participants; and  
+
+       Technological advancements and members demand for speed, efficiency, and reliability.  
+
+Currently our business drivers are defined by investors continuing cautious outlook about the slow pace of global economic recovery and certain governments ability to fund their sovereign debt. Should the global economy avoid the intermittent crisis environments of 2010-2012, we expect moderate growth in our businesses rather than the recent sporadic increases in the level of market volatility, oscillating trading volumes, and general business uncertainty. Many of our largest customers are also altering their business models and associated trading volumes as they address the implementation of regulatory changes initiated following the global financial crisis. In 2012, both the U.S. and European cash equity trading and derivative trading and clearing businesses were negatively impacted by significantly lower industry trading volumes. In spite of strong performances by major stock market indices over the prior twelve months, the global IPO market in 2012 was relatively unchanged when compared to 2011. Additional impacts on our business drivers include the international enactment and implementation of new legislative and regulatory initiatives, and the continued rapid evolution and deployment of new technology in the financial services industry. The business environment that influenced our financial performance for 2012 may be characterized as follows:  
+
+       A slightly weaker pace of new equity issuance in the U.S. with 72 IPOs on The NASDAQ Stock Market, down from 78 in 2011. IPO activity remained slow in the Nordics with 6 IPOs in 2012 on the exchanges that comprise NASDAQ OMX Nordic and NASDAQ OMX Baltic;  
+
+       Matched share volume for all of our U.S. cash equity markets decreased by 20.4%, while average daily U.S. share volume fell by 17.9% relative to 2011. Volatility, often a driver of volume levels, was considerably lower in 2012 compared to 2011. Losses in matched share volume were primarily due to lower U.S. consolidated volume, though market share decreased slightly from 21.2% (NASDAQ 18.1%; NASDAQ OMX BX 2.1%; NASDAQ OMX PSX 1.0%) to 20.8% (NASDAQ 17.0%; NASDAQ OMX BX 2.7%; NASDAQ OMX PSX 1.1%);  
+
+       Matched equity options volume for our three U.S. options exchanges, NASDAQ OMX PHLX, The NASDAQ Options Market, and NASDAQ OMX BX Options, decreased 12.5% compared to 2011, driven mainly by a decrease in overall U.S. options volume. In addition, our combined matched market share for our three U.S. options exchanges decreased by 0.5 percentage points;  
+
+       A 12.4% decrease relative to 2011 in the average daily number of cash equity trades on our Nordic and Baltic exchanges;  
+
+       A 25.0% decrease relative to 2011 in the SEK value of cash equity transactions on our Nordic and Baltic exchanges;  
+
+       A decline of 10.0% experienced by our Nordic and Baltic exchanges relative to 2011 in the number of traded and cleared equity and fixed-income contracts (excluding Finnish option contracts traded on Eurex);  
+
+       Intense competition among U.S. exchanges and dealer-owned systems for cash equity trading volume and strong competition between multilateral trading facilities and exchanges in Europe for cash equity trading volume;  
+
+       Globalization of exchanges, customers and competitors extending the competitive horizon beyond national markets; and  
+
+40  
+
+Table of Contents 
+
+       Market trends requiring continued investment in technology to meet customers demands for speed, capacity, and reliability as markets adapt to a global financial industry, as increasing numbers of new companies are created, and as emerging countries show ongoing interest in developing their financial markets.  
+
+Financial Summary   
+
+The following summarizes significant changes in our financial performance for the year ended December 31, 2012 when compared with the same period in 2011.  
+
+  [DATA_TABLE_REMOVED] 
+
+ # Denotes a variance greater than 100.0%.  
+
+       The decrease in revenues less transaction rebates, brokerage, clearance and exchange fees was primarily due to a decrease in cash equity trading revenues less transaction rebates, brokerage, clearance and exchange fees and derivative trading revenues less transaction rebates, brokerage, clearance and exchange fees, partially offset by increases in Corporate Solutions revenues, Access Services revenues, Market Data revenues, Global Index Group revenues, and other market services revenues.  
+
+       The decrease in operating expenses was primarily due to decreases in merger and strategic initiatives expense and general, administrative and other expense, partially offset by expense related to restructuring actions taken during 2012 and increased professional and contract services expense.  
+
+       Interest expense decreased primarily due to lower average outstanding debt obligations and lower interest rates in 2012.  
+
+       Asset impairment charges in 2012 of $40 million were related to certain acquired intangible assets associated with technology ($19 million), customer relationships ($6 million), and a certain trade name ($3 million), as well as an other-than-temporary impairment charge of $12 million related to our equity interest in EMCF. The asset impairment charge in 2011 of $18 million was due to an other-than-temporary impairment charge related to our available-for-sale investment security in Dubai Financial Market PJSC, or DFM.  
+
+       Loss on divestiture of business in 2012 of $14 million relates to the sale of IDCG. See 2012 Divestiture, of Note 4, Acquisitions and Divestitures, for further discussion.  
+
+       The increase in the income tax provision reflects an increase in the overall effective tax rate from 33.2% in 2011 to 36.3% in 2012.  
+
+Excluding our restructuring charges, merger and strategic initiatives expense, asset impairment charges, loss on divestiture of business and other items that are not reflective of our core business performance, net of taxes, consolidated net income attributable to NASDAQ OMX for the year ended December 31, 2012 was $432 million, or $2.50 per diluted share, compared with $455 million, or $2.53 per diluted share, for the year ended December 31, 2011. See Non-GAAP Financial Measures below for further discussion.  
+
+In countries with currencies other than the U.S. dollar, revenues and expenses are translated using monthly average exchange rates. The following discussion of results of operations isolates the impact of year-over-year foreign currency fluctuations to better measure the comparability of operating results between periods. Operating results excluding the impact of foreign currency fluctuations are calculated by translating the current periods results by the prior periods exchange rates.  
+
+Impacts associated with fluctuations in foreign currency are discussed in more detail under Item 7A. Quantitative and Qualitative Disclosures about Market Risk. For the year ended December 31, 2012, approximately 34.8% of our revenues less transaction rebates, brokerage, clearance and exchange fees and 26.5% of our operating income were derived in currencies other than the U.S. dollar, primarily the Swedish Krona, Euro, Norwegian Krone and Danish Krone.  
+
+41  
+
+Table of Contents 
+
+The following summarizes significant changes in our financial performance for the year ended December 31, 2012 when compared with the same period in 2011:  
+
+       Revenues less transaction rebates, brokerage, clearance and exchange fees decreased $19 million, or 1.1%, to $1,663 million in 2012, compared with $1,682 million in 2011, reflecting an unfavorable impact from foreign exchange of $27 million, partially offset by an operational increase in revenues of $8 million. The increase in operational revenues was primarily due to an:  
+
+       increase in Issuer Services revenues of $19 million, primarily from Corporate Solutions and Global Index Group revenues;  
+
+       increase in Access Services revenues of $16 million;  
+
+       increase in Market Data revenues of $15 million, primarily from U.S. market data products;  
+
+       increase in other market services revenues of $11 million, primarily reflecting income from open positions relating to the operations of the exchange; and an  
+
+       increase in Market Technology revenues of $7 million, primarily from delivery project and change request, advisory and broker surveillance revenues, partially offset by a;  
+
+       decrease in cash equity trading revenues less transaction rebates, brokerage, clearance and exchange fees of $43 million; and a  
+
+       decrease in derivative trading and clearing revenues less transaction rebates, brokerage, clearance and exchange fees of $18 million.  
+
+       Operating expenses decreased $13 million, or 1.3%, to $973 million in 2012, compared with $986 million in 2011, reflecting a favorable impact from foreign exchange of $17 million, partially offset by an increase in operating expenses of $4 million. The operational increase in operating expenses was primarily due to restructuring actions taken during 2012 and increased professional and contract services expense, partially offset by decreased merger and strategic initiatives expense and general, administrative and other expense.  
+
+       Interest expense decreased $22 million, or 18.5%, to $97 million in 2012, compared with $119 million in 2011, primarily due to lower average outstanding debt obligations and lower interest rates in 2012.  
+
+       In 2012, asset impairment charges of $40 million were related to certain acquired intangible assets associated with technology ($19 million), customer relationships ($6 million), and a certain trade name ($3 million), as well as an other-than-temporary impairment charge of $12 million related to our equity interest in EMCF. The asset impairment charge in 2011 of $18 million was due to an other-than-temporary impairment charge related to our available-for-sale investment security in DFM.  
+
+       In 2012, we sold IDCG and recorded a loss of $14 million. See 2012 Divestiture, of Note 4, Acquisitions and Divestitures, for further discussion.  
+
+       Income tax provision increased $9 million, or 4.7%, in 2012 compared with 2011, primarily due to the impact to deferred tax assets and deferred tax liabilities resulting from changes in tax rates in various jurisdictions within the U.S. and outside the U.S., as well as a shift in the geographic mix of earnings and losses.  
+
+These current and prior year items are discussed in more detail below.  
+
+2013 Outlook  
+
+For the fifth year in a row, more share value traded on The NASDAQ Stock Market than on any other single cash equities exchange in the world. However, 2012 presented a challenging economic environment with uncertainty in Europe and a continuing debate over future fiscal policy in the U.S. By traditional measures, it was also a difficult year for the exchange business. After reaching an all-time high in 2009, U.S. cash equity trading volume fell for a third consecutive year. For the last five years, trading volume in the U.S. and around the world has been driven by volatility associated with the global financial crisis, rather than the prospects for economic growth. While the worst of the financial crisis may be behind us, robust economic growth has yet to develop. Consequently, NASDAQ OMX has intentionally structured its organization to account for the highly cyclical nature of our industry. By diversifying our earnings through the sale of Corporate Solutions, Access Services, Market Technology and Market Data and by delivering on cost savings, NASDAQ OMX has been able to provide stable revenues and operating income during these tough conditions. Should 2013 present an equally difficult environment, we believe our organization is positioned to succeed.  
+
+42  
+
+Table of Contents 
+
+We launched several important initiatives during 2012 that we expect to benefit us during the challenging and competitive economic environment anticipated for 2013. These new initiatives include the launch of the NASDAQ OMX BX Options market, our third options platform which allows us to support multiple allocation and priority models. The standout performance and flexibility of our technology has enabled us to enter new markets with a low cost and highly regarded platform that offers strong performance to both existing and new clients, while creating additional sales opportunities for both our Transactions Services and Market Data businesses.  
+
+In addition, our Corporate Solutions business continued to have solid revenue growth, driven by the acquisitions of a majority interest in BWise in May 2012 and Glide Technologies in October 2011 and growth in our Shareholder.com and GlobeNewswire products. In December 2012, we entered into an agreement with Thomson Reuters to acquire its Investor Relations, Public Relations and Multimedia Solutions businesses. Upon closing, these complementary businesses will be integrated into our Corporate Solutions business. The proposed transaction is subject to customary regulatory approvals and is expected to close in the first half of 2013. We continue to leverage the opportunities in our Corporate Solutions business by offering new products to our expanding customer base and by strengthening our direct relationships with those customers.  
+
+During 2012, the U.S. IPO market continued its recovery from the impact of the 2008 financial crisis. In April 2012, President Obama signed into law the Jumpstart Our Business Startups Act, or JOBS Act, which is intended to encourage companies to seek access to public capital through an IPO. The long-term effects of the bill remain to be seen, but the overall increase in IPOs compared to 2011 despite global economic uncertainty is a positive signal when looking ahead to 2013. We expect the demand for public equity capital from companies experiencing the gradual return of global economic growth to support increases in the number of IPOs. Furthermore, an improved outlook for equity investments and the number of private companies seeking capital is expected to add to the IPO pipeline in 2013.  
+
+During 2013, we expect to confront changes in both the competitive and regulatory environments. In December 2012, ICE announced plans to acquire NYSE Euronext. The deal is expected to close in the second half of 2013, subject to regulatory and shareholder approvals. Should the proposed transaction be completed, ICE has indicated its intent to spin off Euronext via an IPO. This acquisition has the potential to affect the competitive environment we face in both the U.S. and Europe.  
+
+European regulators are currently considering a number of new policies affecting the operation and infrastructure of the financial markets. Also, European regulations governing clearinghouses will be implemented in 2013, impacting our clearing business in the Nordics. We expect global markets to continue to be marked by significant change in 2013, driven primarily by regulatory initiatives in the U.S. and Europe. We expect that cash equities markets will continue to fragment into additional venues, and trading will continue to migrate from exchanges to OTC systems. Conversely, trading in OTC derivatives will begin to move onto exchanges and other public execution facilities.  
+
+We expect it is likely that the year ahead will be positive for our business drivers and our operations as the global economy continues to recover. We believe that our aggressive steps in meeting our cost, revenue, and technology objectives over the last three years will enable us to benefit from improving economic conditions in 2013. We will continue to look for opportunities to further diversify our business with enhanced product offerings and/or acquisitions that are complementary to our existing businesses.  
+
+Business Segments  
+
+Prior to January 1, 2013, we managed, operated and provided our products and services in three business segments: Market Services, Issuer Services and Market Technology.  
+
+Market Services  
+
+Our Market Services segment includes our U.S. and European Transaction Services businesses, which include Access Services, as well as our Market Data and Broker Services businesses. We offer trading on multiple exchanges and facilities across several asset classes, including cash equities, derivatives, debt, commodities, structured products and ETFs. In addition, in some of the countries where we operate exchanges, we also provide clearing, settlement and depository services.  
+
+Issuer Services  
+
+In 2012, our Issuer Services segment included our Global Listing Services and Global Index Group businesses. We offer capital raising solutions to over 3,300 companies around the globe representing approximately $6.2 trillion in total market value as of December 31, 2012.  
+
+We operate a variety of listing platforms around the world to provide multiple global capital raising solutions for private and public companies. Our main listing markets are The NASDAQ Stock Market and the exchanges that comprise NASDAQ OMX Nordic and NASDAQ OMX Baltic. We offer a consolidated global listing application to companies to enable them to apply for listing  
+
+43  
+
+Table of Contents 
+
+ on The NASDAQ Stock Market and the exchanges that comprise NASDAQ OMX Nordic and NASDAQ OMX Baltic, as well as NASDAQ Dubai. In addition, through our Corporate Solutions business, we offer companies access to innovative products and software solutions and services that ease transparency, mitigate risk, maximize board efficiency and facilitate better corporate governance.  
+
+Market Technology  
+
+Our Market Technology business is the worlds leading technology solutions provider and partner to exchanges, clearing organizations and central securities depositories. Our technology business also is the sales channel for our complete global offering to other marketplaces.  
+
+Market Technology provides technology solutions for trading, clearing, settlement, surveillance and information dissemination for markets with wide-ranging requirements, from the leading markets in the U.S., Europe and Asia to smaller African markets. Furthermore, the solutions we offer can handle all classes of assets, including cash equities, currencies, various interest-bearing securities, commodities, energy products and derivatives.  
+
+Our management allocates resources, assesses performance and manages these businesses as three separate segments. See Note 19, Business Segments, to the consolidated financial statements for further discussion.  
+
+As announced in January 2013, we realigned our reportable segments as a result of changes to the organizational structure of our businesses. See Note 20, Subsequent Event, to the consolidated financial statements for further discussion.  
+
+Sources of Revenues and Cost of Revenues  
+
+Market Services Revenues  
+
+Transaction Services  
+
+U.S. Cash Equity Trading  
+
+U.S. cash equity trading revenues are variable, based on individual customer share volumes, and recognized as transactions occur. We charge transaction fees for executing cash equity trades in NASDAQ-listed and other listed securities on our cash equities exchanges as well as on orders that are routed to other market venues for execution.  
+
+In the U.S., we record execution revenues from transactions on a gross basis in revenues and record related expenses as cost of revenues.  
+
+For The NASDAQ Stock Market and NASDAQ OMX PSX, we credit a portion of the per share execution charge to the market participant that provides the liquidity, and for NASDAQ OMX BX, we credit a portion of the per share execution charge to the market participant that takes the liquidity. We record these credits as transaction rebates that are included in cost of revenues in the Consolidated Statements of Income. These transaction rebates are paid on a monthly basis and the amounts due are included in accounts payable and accrued expenses in the Consolidated Balance Sheets.  
+
+Also, we pay Section 31 fees to the SEC for supervision and regulation of securities markets. We pass these costs along to our customers through our cash equity trading fees. We collect the fees as a pass-through charge from organizations executing eligible trades on NASDAQs, NASDAQ OMX BXs and NASDAQ OMX PSXs platforms, and we recognize these amounts in cost of revenues when incurred. Section 31 fees received are included in cash and cash equivalents in the Consolidated Balance Sheets at the time of receipt and, as required by law, the amount due to the SEC is remitted semiannually and recorded as Section 31 fees payable to the SEC in the Consolidated Balance Sheets until paid. Since the amount recorded in revenues is equal to the amount recorded in cost of revenues, there is no impact on our revenues less transaction rebates, brokerage, clearance and exchange fees. As we hold the cash received until payment to the SEC, we earn interest income on the related cash balances.  
+
+European Cash Equity Trading  
+
+We charge transaction fees for executing trades on the exchanges that comprise NASDAQ OMX Nordic and NASDAQ OMX Baltic. These transaction fees are charged per executed order and as per value traded.  
+
+The exchanges that comprise NASDAQ OMX Nordic and NASDAQ OMX Baltic do not have any revenue sharing agreements or cost of revenues, such as transaction rebates and brokerage, clearance and exchange fees.  
+
+U.S. Derivative Trading and Clearing  
+
+U.S. derivative trading and clearing revenues are variable, based on traded and cleared volumes, and recognized when executed or when contacts are cleared. The principal types of derivative contracts traded on NASDAQ OMX PHLX, The NASDAQ Options Market and NASDAQ OMX BX Options are equity options, ETF options, index options and currency options. We also operate NFX, which offers trading of futures contracts on spot gold.  
+
+44  
+
+Table of Contents 
+
+Similar to U.S. cash equity trading, we credit a portion of the per share execution charge to the market participant that provides the liquidity and record the transaction rebate as a cost of revenues in the Consolidated Statements of Income. Also, we pay Section 31 fees to the SEC for supervision and regulation of securities markets. See U.S. Cash Equity Trading above for further discussion.  
+
+We engage in riskless principal trading and clearing of OTC power and gas contracts through our subsidiary NOCC. Revenues are based on notional amounts or volume of power and gas transacted and/or delivered and are recognized upon settlement of the contracts.  
+
+European Derivative Trading and Clearing  
+
+European derivative trading and clearing revenues received from transactions conducted on NASDAQ OMX Stockholm are variable, based on the volume and value of traded and cleared contracts, and recognized when executed or when contracts are cleared. The principal types of derivative contracts traded are stock options and futures, index options and futures, fixed-income options and futures and stock loans. On NASDAQ OMX Stockholm, we offer clearing services for fixed-income options and futures, stock options and futures, and index options and futures by serving as the CCP. In doing so, we guarantee the completion of the transaction and market participants can thereby limit their counterparty risk. We also act as the counterparty for certain OTC contracts.  
+
+On NASDAQ OMX Stockholm, we also offer clearing services for resale and repurchase agreements. Clearing revenues for resale and repurchase agreements are based on the value and length of the contract and are recognized when cleared.  
+
+NASDAQ OMX Commodities offers trading and clearing of international power derivatives, carbon and other commodities products. Our trading and clearing revenues are variable, based on volume and the value of the contract cleared. Revenues are recognized when contracts are traded or cleared. We also generate clearing revenues for contracts traded on the OTC derivative market which are also recognized when contracts are cleared. In addition, NASDAQ OMX Commodities members are billed an annual fee in January which is recognized ratably over the following 12-month period.  
+
+European derivative trading and clearing revenues include revenues from NOS Clearing which we acquired in July 2012. NOS Clearing is a leading Norway-based clearinghouse primarily for OTC traded derivatives for the freight market and seafood derivatives market.  
+
+NASDAQ OMX Commodities and the exchanges that comprise NASDAQ OMX Nordic and NASDAQ OMX Baltic do not have any revenue sharing agreements or cost of revenues, such as transaction rebates and brokerage, clearance and exchange fees.  
+
+Access Services  
+
+We generate revenues by providing market participants with several alternatives for accessing our markets for a fee. The type of connectivity is determined by the level of functionality a customer needs. As a result, Access Services revenues vary depending on the type of connection provided to customers. We provide co-location services to market participants whereby firms may lease space for equipment within our data center. These participants are charged monthly fees for cabinet space, connectivity and support. We also earn revenues from annual and monthly exchange membership and registration fees. Revenues for providing access to our markets, co-location services and revenues for monthly exchange membership and registration fees are recognized on a monthly basis as the service is provided. Revenues from annual fees for exchange membership and registration fees are recognized ratably over the following 12-month period.  
+
+Access Services revenues also include revenues from FTEN, which we acquired in December 2010. FTEN is a leading provider of RTRM solutions for the financial securities market. As a market leader in RTRM, FTEN provides broker-dealers and their clients the ability to manage risk more effectively in real-time, which leads to better utilization of capital as well as improved regulatory compliance. Revenues for FTEN services are primarily based on subscription agreements with customers and are recognized when an arrangement exists, services are delivered to the customer, the selling price of the services to be provided under the arrangement is fixed or determinable, and collectability is reasonably assured. Most contracts include professional services, implementation fees, monthly subscription fees from customers accessing on-demand services, and customer support. Implementation fees are recognized upon completion of the implementation. Monthly professional services, subscription, and usage fees are recognized in the month the service is provided.  
+
+Market Data  
+
+Market Data revenues are earned from U.S. tape plans and U.S. and European proprietary market data products.  
+
+45  
+
+Table of Contents 
+
+Net U.S. Tape Plans  
+
+Revenues from U.S. tape plans include eligible UTP Plan revenues that are shared among UTP Plan participants and are presented on a net basis. Under the revenue sharing provision of the UTP Plan, we are permitted to deduct costs associated with acting as the exclusive Securities Information Processor from the total amount of tape revenues collected. After these costs are deducted from the tape revenues, we distribute to the respective UTP Plan participants, including The NASDAQ Stock Market, NASDAQ OMX BX and NASDAQ OMX PSX, their share of tape revenues based on a formula, required by Regulation NMS, that takes into account both trading and quoting activity. In addition, all quotes and trades in NYSE- and NYSE MKT-listed securities are reported and disseminated in real time, and as such, we share in the tape revenues for information on NYSE- and NYSE MKT-listed securities. Revenues from net U.S. tape plans are recognized on a monthly basis.  
+
+U.S. Market Data Products  
+
+We collect and process information and earn revenues as a distributor of our own data, as well as select third-party content. We provide varying levels of quote and trade information to market participants and to data distributors, who in turn sell subscriptions for this information to the public. We earn revenues primarily based on the number of data subscribers and distributors of our data. U.S. Market Data revenues are recognized on a monthly basis. These revenues, which are subscription based, are recorded net of amounts due under revenue sharing arrangements with market participants.  
+
+European Market Data Products  
+
+European Market Data revenues are based on the trading information from the exchanges that comprise NASDAQ OMX Nordic and NASDAQ OMX Baltic, as well as NASDAQ OMX Commodities, for the following classes of securities: cash equities, bonds, derivatives and commodities. We provide varying levels of quote and trade information to market participants and to data distributors, who in turn provide subscriptions for this information. Revenues from European market data are subscription-based, are generated primarily based on the number of data subscribers and distributors of our data and are recognized on a monthly basis.  
+
+Broker Services  
+
+Our Broker Services operations offer technology and customized securities administration solutions to financial participants in the Nordic market. The primary services offered are flexible back-office systems which allow customers to entirely or partly outsource their companys back-office functions. Revenues from broker services are based on a fixed basic fee for administration or licensing, maintenance and operations, and a variable portion that depends on the number of transactions completed. Broker Services revenues are recognized on a continuous basis as services are rendered.  
+
+Issuer Services Revenues  
+
+Global Listing Services  
+
+U.S. Listing Services  
+
+Listing Services revenues in the U.S. include annual renewal fees, listing of additional shares fees and initial listing fees. Annual renewal fees do not require any judgments or assumptions by management as these amounts are recognized ratably over the following 12-month period. Listing of additional shares fees and initial listing fees are recognized on a straight-line basis over estimated service periods, which are four and six years, respectively, based on our historical listing experience and projected future listing duration.  
+
+European Listing Services  
+
+European listing fees, which are comprised of revenues derived from annual fees received from companies listed on our Nordic and Baltic exchanges and NASDAQ OMX First North, are directly related to the listed companies market capitalization on a trailing 12-month basis. These revenues are recognized ratably over the following 12-month period.  
+
+Corporate Solutions  
+
+Global Listing Services revenues also include fees from Corporate Solutions. Revenues primarily include subscription income from Shareholder.com, Directors Desk and Glide Technologies, fees from GlobeNewswire and ZVM, and license, maintenance and professional service fees from BWise.  
+
+Fee income for services is recognized as those services are provided. Shareholder.com revenues are based on subscription agreements with customers. Revenues from subscription agreements are recognized ratably over the contract period, generally one year in length. As part of subscription services, customers also are charged usage fees based upon actual usage of the services provided. Revenues from usage fees and other services are recognized when earned. Directors Desk revenues are based on subscriptions for online services for directors. Subscriptions are one year in length and revenues are recognized ratably over the year.  
+
+46  
+
+Table of Contents 
+
+ Glide Technologies revenues are primarily based on subscription agreements with customers and are recognized ratably over the contract period, generally one year in length. GlobeNewswire generates fees primarily from wire distribution services, and revenues are recognized as services are provided. ZVM generates revenues from webcasting services and revenues are recognized as services are provided. BWise revenues are primarily based on license, maintenance and service agreements with customers. License and maintenance agreements are generally one year in length and revenues are recognized over the contract period. Professional service revenues are recognized as the services are performed.  
+
+Global Index Group  
+
+We develop and license NASDAQ OMX branded indexes, associated derivatives and financial products as part of our Global Index Group business. Revenues primarily include license fees from these branded indexes, associated derivatives and financial products in the U.S. and abroad. We also generate revenues by licensing and listing third-party structured products and third-party sponsored ETFs. We primarily have two types of license agreements: transaction-based licenses and asset-based licenses. Transaction-based licenses are generally renewable long-term agreements. Customers are charged based on transaction volume or a minimum contract amount, or both. If a customer is charged based on transaction volume, we recognize revenue when the transaction occurs. If a customer is charged based on a minimum contract amount, we recognize revenue on a pro-rata basis over the licensing term. Asset-based licenses are also generally long-term agreements. Customers are charged based on a percentage of assets under management for licensed products, per the agreement, on a monthly or quarterly basis. These revenues are recorded on a monthly or quarterly basis over the term of the license agreement.  
+
+Market Technology Revenues  
+
+Market Technology provides technology solutions for trading, clearing, settlement, and information dissemination, and also offers facility management integration, surveillance solutions and advisory services. Revenues are primarily derived from license, support and facility management revenues, delivery project revenues, as well as change request, advisory and broker surveillance revenues.  
+
+We enter into multiple-element sales arrangements to provide technology solutions and services to our customers. In order to recognize revenues associated with each individual element of a multiple-element sales arrangement separately, we are required to establish the existence of vendor specific objective evidence, or VSOE, of fair value for each element. When VSOE for individual elements of an arrangement cannot be established, revenue is generally deferred and recognized over either the final element of the arrangement or the entire term of the arrangement for which the services will be delivered.  
+
+License and support revenues are derived from the system solutions developed and sold by NASDAQ OMX that are generally entered into in multiple-element sales arrangements. After we have developed and sold a system solution, the customer licenses the right to use the software and may require post contract support and other services. Facility management revenues are also generally entered into in multiple-element sales arrangements and are derived when NASDAQ OMX assumes responsibility for the continuous operation of a system platform for a customer and receives facility management revenues which can be both fixed and volume-based. Revenues for license, support and facility management services are generally deferred and recognized over either the final element of the arrangement or the entire term of the arrangement for which the services will be delivered. We record the deferral of revenue associated with multiple-element sales arrangements in deferred revenue and non-current deferred revenue and the deferral of costs in other current assets and other non-current assets in the Consolidated Balance Sheets.  
+
+Delivery project revenues are derived from the installation phase of the system solutions developed and sold by NASDAQ OMX. The majority of our delivery projects involve individual adaptations to the specific requirements of the customer, such as those relating to functionality and capacity. We may customize our software technology and make significant modifications to the software to meet the needs of our customers, and as such, we account for these arrangements under contract accounting. Under contract accounting, when VSOE for valuing certain elements of an arrangement cannot be established, total revenues, as well as costs incurred, are deferred until the customization and significant modifications are complete and are then recognized over the post contract support period. We record the deferral of this revenue in deferred revenue and non-current deferred revenue and the deferral of costs in other current assets and other non-current assets in the Consolidated Balance Sheets.  
+
+Change request revenues include customer specific adaptations and modifications of the system solution sold by NASDAQ OMX after delivery has occurred. Change request revenues are recognized in revenue when earned. Advisory services are designed to support our customers strategies and help them with critical decisions in a highly demanding business environment. Advisory services revenues are recognized in revenue when earned. Broker surveillance revenues are derived from surveillance solutions targeting brokers and regulators throughout the world. Broker surveillance revenues are subscription based and are recognized in revenue when earned.  
+
+47  
+
+Table of Contents 
+
+NASDAQ OMXs Operating Results  
+
+Key Drivers  
+
+The following table includes key drivers for our Market Services, Issuer Services, and Market Technology segments. In evaluating the performance of our business, our senior management closely watches these key drivers.  
+
+  [DATA_TABLE_REMOVED] 
+
+48  
+
+Table of Contents [DATA_TABLE_REMOVED] 
+
+ (1)   Includes transactions executed on NASDAQs, NASDAQ OMX BXs and NASDAQ OMX PSXs systems plus trades reported through the FINRA/NASDAQ TRF.  
+
+ (2)   Primarily transactions executed on Nord Pool and reported for clearing to NASDAQ OMX Commodities measured by TWh and one thousand metric tons of carbon dioxide (1000 tCO2).  
+
+ (3)   New listings include IPOs, including those completed on a best efforts basis, issuers that switched from other listing venues, closed-end funds and separately listed ETFs.  
+
+ (4)   New listings include IPOs and represent companies listed on the exchanges that comprise NASDAQ OMX Nordic and NASDAQ OMX Baltic and companies on the alternative markets of NASDAQ OMX First North.  
+
+ (5)   Number of listed companies for NASDAQ at period end, including separately listed ETFs.  
+
+ (6)   Represents companies listed on the exchanges that comprise NASDAQ OMX Nordic and NASDAQ OMX Baltic and companies on the alternative markets of NASDAQ OMX First North at period end.  
+
+ (7)   Total contract value of orders signed during the period.  
+
+ (8)   Represents total contract value of signed orders that are yet to be recognized as revenue. Market Technology deferred revenue, as discussed in Note 8, Deferred Revenue to the consolidated financial statements, represents cash payments received that are yet to be recognized as revenue for these signed orders.  
+
+Segment Operating Results  
+
+Of our total 2012 revenues less transaction rebates, brokerage, clearance and exchange fees of $1,663 million, 66.4% was from our Market Services segment, 22.5% was from our Issuer Services segment and 11.1% was from our Market Technology segment. Of our total 2011 revenues less transaction rebates, brokerage, clearance and exchange fees of $1,682 million, 67.6% was from our Market Services segment, 21.5% was from our Issuer Services segment and 10.9% was from our Market Technology segment. Of our total 2010 revenues less transaction rebates, brokerage, clearance and exchange fees of $1,516 million, 67.6% was from our Market Services segment, 22.3% was from our Issuer Services segment, 10.0% was from our Market Technology segment and 0.1% related to other revenues.  
+
+The following table shows our revenues by segment, cost of revenues for our Market Services segment and total revenues less transaction rebates, brokerage, clearance and exchange fees:  
+
+  [DATA_TABLE_REMOVED] 
+
+ # Denotes a variance equal to 100.0%.  
+
+49  
+
+Table of Contents 
+
+MARKET SERVICES  
+
+The following table shows total revenues less transaction rebates, brokerage, clearance and exchange fees from our Market Services segment:  
+
+  [DATA_TABLE_REMOVED] 
+
+ # Denotes a variance greater than 100.0%.  
+
+ (1)   Includes Section 31 fees of $277 million in 2012, $304 million in 2011 and $252 million in 2010. Section 31 fees are recorded as U.S. cash equity trading revenues with a corresponding amount recorded in cost of revenues.  
+
+ (2)   Includes Section 31 fees of $32 million in 2012, $26 million in 2011 and $19 million in 2010. Section 31 fees are recorded as U.S. derivative trading and clearing revenues with a corresponding amount recorded in cost of revenues.  
+
+50  
+
+Table of Contents 
+
+Transaction Services  
+
+Transaction Services revenues less transaction rebates, brokerage, clearance and exchange fees decreased in 2012 compared with 2011 and increased in 2011 compared with 2010. The decrease in 2012 was primarily due to a decline in cash equity trading revenues less transaction rebates, brokerage, clearance, and exchange fees, a decline in derivative trading and clearing revenues less transaction rebates, brokerage, clearance and exchange fees, and an unfavorable impact from foreign exchange of $11 million. Partially offsetting the decrease was an increase in Access Services revenues. The increase in 2011 was primarily due to an increase in derivative trading and clearing revenues less transaction rebates, brokerage, clearance and exchange fees and Access Services revenues. The increase in 2011 was partially offset by lower cash equity trading revenues less transaction rebates, brokerage, clearance and exchange fees.  
+
+U.S. Cash Equity Trading Revenues  
+
+U.S. cash equity trading revenues less transaction rebates, brokerage, clearance and exchange fees decreased in both 2012 compared to 2011 and 2011 compared with 2010. The decreases were primarily due to declines in industry trading volumes and declines in our matched market share. The decrease in 2011 was partially offset by modified rates.  
+
+U.S. cash equity trading revenues decreased in 2012 compared to 2011 and increased in 2011 compared with 2010. The decrease in 2012 was primarily due to a decline in industry trading volumes, a decline in our matched market share, and a decrease in Section 31 pass-through fee revenues. The increase in 2011 was primarily due to an increase in Section 31 pass-through fee revenues and modified rates, partially offset by a decline in industry trading volumes and a decline in our matched market share.  
+
+We record Section 31 fees as U.S. cash equity trading revenues with a corresponding amount recorded as cost of revenues. We are assessed these fees from the SEC and pass them through to our customers in the form of incremental fees. Pass-through fees can increase or decrease due to rate changes by the SEC, our percentage of the overall industry volumes processed on our systems, and differences in actual dollar value of shares traded. Since the amount recorded in revenues is equal to the amount recorded in cost of revenues, there is no impact on our revenues less transaction rebates, brokerage, clearance and exchange fees. Section 31 fees were $277 million in 2012, $304 million in 2011 and $252 million in 2010. The decrease in 2012 compared with 2011 was primarily due to lower dollar value traded on the NASDAQ and NASDAQ OMX BX trading systems, partially offset by higher pass-through fee rates. The increase in 2011 compared with 2010 was primarily due to higher pass-through fee rates in 2011, partially offset by lower dollar value traded on the NASDAQ and NASDAQ OMX BX trading systems.  
+
+For NASDAQ and NASDAQ OMX PSX, we credit a portion of the per share execution charge to the market participant that provides the liquidity and for NASDAQ OMX BX, we credit a portion of the per share execution charge to the market participant that takes the liquidity. These transaction rebates decreased in both 2012 compared with 2011 and 2011 compared with 2010. The decrease in 2012 was primarily due to a decline in industry trading volumes and our matched market share. The decrease in 2011 was primarily due to a decline in industry trading volumes and our matched market share, partially offset by higher average rebate rates due to changes in our pricing program on the NASDAQ, NASDAQ OMX BX and NASDAQ OMX PSX trading systems.  
+
+Brokerage, clearance and exchange fees decreased in 2012 compared to 2011 and increased in 2011 compared with 2010. The decrease in 2012 was primarily due to a decrease in Section 31 pass-through fees and a decrease in the amount of volume routed by NASDAQ due to declines in industry trading volumes and our matched market share. The increase in 2011 was primarily due to an increase in Section 31 pass-through fees, partially offset by a decrease in the amount of volume routed by NASDAQ due to declines in industry trading volumes and our matched market share.  
+
+European Cash Equity Trading Revenues  
+
+European cash equity trading revenues include trading revenues from equity products traded on the NASDAQ OMX Nordic and NASDAQ OMX Baltic exchanges. European cash equity trading revenues decreased in 2012 compared to 2011 and increased in 2011 compared with 2010. The decrease in 2012 was primarily due to a decline in trading activity and an unfavorable impact from foreign exchange of $5 million. The increase in 2011 was primarily due to a favorable impact from foreign exchange of $7 million, partially offset by a decrease in trading activity.  
+
+U.S. Derivative Trading and Clearing Revenues  
+
+Both the U.S. derivative trading and clearing revenues and revenues less transaction rebates, brokerage, clearance and exchange fees decreased in 2012 compared to 2011 and increased in 2011 compared with 2010. The decreases in 2012 were primarily due to declines in industry trading volumes and declines in market share on the NASDAQ OMX PHLX market, partially offset by increases in revenue capture per traded contract, increases in market share on the NASDAQ Options Market and the inclusion of the NASDAQ OMX BX Options market, launched in June 2012. The increases in 2011 were primarily due to increases in industry trading volumes and our matched market share. The increase in U.S. derivative trading and clearing revenues in 2011 compared with 2010 was also due to higher Section 31 pass-through fee revenues as discussed below.  
+
+51  
+
+Table of Contents 
+
+Similar to U.S. cash equity trading, Section 31 fees are recorded as derivative trading and clearing revenues with a corresponding amount recorded as cost of revenues. We are assessed these fees from the SEC and pass them through to our customers in the form of incremental fees. Since the amount recorded in revenues is equal to the amount recorded in cost of revenues, there is no impact on our revenues less transaction rebates, brokerage, clearance and exchange fees. Section 31 fees were $32 million in 2012, $26 million in 2011 and $19 million 2010. The increase in 2012 compared to 2011 was primarily due to higher pass-through fee rates, partially offset by a decrease in industry trading volumes. The increase in 2011 compared to 2010 was primarily due an increase in industry trading volumes and higher pass-through fee rates.  
+
+Transaction rebates, in which we credit a portion of the per share execution charge to the market participant, decreased in 2012 compared with 2011 and increased in 2011 compared with 2010. The decrease in 2012 was primarily due to a decrease in industry trading volumes and a decrease in market share, partially offset by an increase in transaction capture rate. The increase in 2011 was primarily due to increases in industry trading volumes and market share.  
+
+Brokerage, clearance and exchange fees increased in both 2012 compared with 2011 and 2011 compared with 2010. The increases were primarily due to an increase in Section 31 pass-through fees.  
+
+European Derivative Trading and Clearing Revenues  
+
+European derivative trading and clearing revenues include trading and clearing revenues from derivative products traded on NASDAQ OMX Stockholm, clearing revenues from resale and repurchase agreements on NASDAQ OMX Nordic Clearing and revenues from NASDAQ OMX Commodities. Beginning in July 2012, revenues from NASDAQ OMX Commodities includes revenues from NOS Clearing for OTC traded derivatives for the freight market and seafood derivatives market. Beginning in May 2010, revenues from NASDAQ OMX Commodities includes trading and clearing revenues for energy and carbon products from Nord Pool. European derivative trading and clearing revenues decreased in 2012 compared with 2011 and increased in 2011 compared with 2010. The decrease in 2012 was primarily due to lower trading activity for index options and futures contracts and an unfavorable impact from foreign exchange of $5 million. The increase in 2011 was primarily due to a favorable impact from foreign exchange of $11 million, partially offset by lower trading activity in energy products.  
+
+The following table shows revenues from European derivative trading and clearing:  
+
+  [DATA_TABLE_REMOVED] 
+
+Access Services Revenues  
+
+Access Services revenues increased in both 2012 compared with 2011 and 2011 compared with 2010. The increase in 2012 was primarily due to increased demand for services and revenues from new products. The increase in 2011 was primarily due to an increase in revenues from FTEN, which was acquired in December 2010, and increased demand for services.  
+
+Market Data  
+
+Market Data revenues increased in both 2012 compared with 2011 and 2011 compared with 2010. The increase in 2012 was primarily due to increases in U.S. market data products revenues and net U.S. tape plans revenues, partially offset by a decline in European market data products revenues. The increase in 2011 was primarily due to increases in U.S. and European market data products revenues and a favorable impact from foreign exchange, partially offset by a decrease in net U.S. tape plans revenues.  
+
+Net U.S. Tape Plans Revenues  
+
+The increase in net U.S. tape plans revenues in 2012 compared with 2011 was primarily due to an increase in our quoting market share. The decline in net U.S. tape plans revenues in 2011 compared with 2010 was primarily due to lower plan shareable revenues and declines in NASDAQs trading and quoting market share of U.S. cash equities, as calculated under the SEC-mandated market data revenue quoting and trading formula.  
+
+52  
+
+Table of Contents 
+
+U.S. Market Data Products Revenues  
+
+The increase in U.S. market data products revenues in 2012 compared with 2011 was primarily due to higher customer demand for proprietary data products and pricing changes. The increase in U.S. market data products revenues in 2011 compared with 2010 was primarily due to higher customer demand for proprietary data products, mainly index data, and higher audit collections.  
+
+European Market Data Products Revenues  
+
+The decrease in European market data products in 2012 compared with 2011 was primarily due to an unfavorable impact from foreign exchange of $4 million and a decline in user populations. The increase in European market data products revenues in 2011 compared with 2010 was primarily due to modified fees for market data products and a favorable impact from foreign exchange of $6 million.  
+
+Broker Services  
+
+Broker Services revenues were flat in 2012 compared to 2011 and increased in 2011 compared with 2010. The increase in 2011 was primarily due to new customers and a favorable impact from foreign exchange of $2 million.  
+
+Other Market Services  
+
+The increase in other Market Services revenues in 2012 compared with 2011 was primarily due to income from open positions relating to the operations of the exchange.  
+
+ISSUER SERVICES  
+
+The following table shows revenues from our Issuer Services segment:  
+
+  [DATA_TABLE_REMOVED] 
+
+Global Listing Services  
+
+Global Listing Services revenues increased in both 2012 compared with 2011 and 2011 compared with 2010. The increase in 2012 was primarily due to an increase in Corporate Solutions revenues, partially offset by decreases in total U.S. listing services and European listing services revenues. The increase in 2011 was primarily due to an increase in Corporate Solutions revenues.  
+
+The decrease in total U.S. listing services revenues in 2012 compared with 2011 was primarily due to a decrease in annual renewal revenues resulting from a decline in the number of listed companies from 2,680 as of December 31, 2011 to 2,577 as of December 31, 2012.  
+
+European listing services revenues decreased in 2012 compared with 2011 and increased in 2011 compared with 2010. The decrease in 2012 was primarily due to an unfavorable impact from foreign exchange of $3 million, as well as a decrease in the number of listed companies from 776 as of December 31, 2011 to 754 as of December 31, 2012. The increase in 2011 was primarily due to a favorable impact from foreign exchange of $5 million.  
+
+Corporate Solutions revenues increased in both 2012 compared with 2011 and 2011 compared with 2010. The increase in 2012 was primarily due to revenues from BWise, which was acquired in May 2012, and Glide Technologies, which was acquired in October 2011, as well as expanded customer utilization of GlobeNewswire, Shareholder.com and Directors Desk products, partially offset by an unfavorable impact from foreign exchange of $2 million. The increase in 2011 was primarily due to expanding customer utilization of Shareholder.com, Directors Desk and GlobeNewswire products, as well as revenues from ZVM, which was acquired in December 2010, and Glide Technologies, which was acquired in October 2011.  
+
+53  
+
+Table of Contents 
+
+Global Index Group Revenues  
+
+Global Index Group revenues increased in both 2012 compared with 2011 and 2011 compared with 2010. The increase in 2012 was primarily due to an increase in the underlying assets associated with NASDAQ OMX-licensed ETFs and other financial products due to product growth and newly executed product licenses, partially offset by lower futures and options volumes. The increase in 2011 was primarily due to an increase in the underlying assets associated with NASDAQ OMX-licensed ETFs, as well as additional demand for new licensed ETFs and other financial products, partially offset by lower futures and options volumes.  
+
+MARKET TECHNOLOGY  
+
+The following table shows revenues from our Market Technology segment:  
+
+  [DATA_TABLE_REMOVED] 
+
+Market Technology revenues increased in both 2012 compared with 2011 and 2011 compared with 2010. The increase in 2012 was primarily due to operational increases in delivery project revenues and change request, advisory and broker surveillance revenues, partially offset by an unfavorable impact from foreign exchange of $6 million. The increase in 2011 was primarily due to a favorable impact from foreign exchange of $18 million, as well as operational increases in change request, advisory and broker surveillance revenues and delivery project revenues.  
+
+License, Support and Facility Management Revenues  
+
+License, support and facility management revenues decreased in 2012 compared with 2011 and increased in 2011 compared with 2010. The decrease in 2012 was primarily due to an unfavorable impact from foreign exchange of $4 million. The increase in 2011 was primarily due to a favorable impact from foreign exchange of $12 million.  
+
+Delivery Project Revenues  
+
+Delivery project revenues increased in both 2012 compared with 2011 and 2011 compared with 2010. The increase in 2012 was primarily due to the recognition of previously deferred revenues in the current period, partially offset by an unfavorable impact from foreign exchange of $2 million. The increase in 2011 was primarily due to the recognition of previously deferred revenues in 2011, as well as a favorable impact from foreign exchange of $2 million. Delivery project revenues are derived from the system solutions developed and sold by NASDAQ OMX. Total revenues, as well as costs incurred, are typically deferred until the customization and any significant modifications are completed and are then recognized over the post contract support period.  
+
+Change Request, Advisory and Broker Surveillance Revenues  
+
+Change request, advisory and broker surveillance revenues increased in both 2012 compared with 2011 and 2011 compared with 2010. The increase in 2012 was primarily due to an increase in broker surveillance revenues resulting from increased customer demand, partially offset by a decrease in change request and advisory revenues. The increase in 2011 was primarily due to an increase in broker surveillance revenues resulting from our acquisition of SMARTS in August 2010 and a favorable impact from foreign exchange of $4 million.  
+
+54  
+
+Table of Contents 
+
+Total Order Value  
+
+As of December 31, 2012, total order value, which represents the total contract value of orders signed that are yet to be recognized as revenues, was $546 million. Market Technology deferred revenue of $149 million, which is included in this amount, represents cash payments received that are yet to be recognized as revenue for these signed orders. See Note 8, Deferred Revenue, to the consolidated financial statements for further discussion. The recognition and timing of these revenues depends on many factors, including those that are not within our control. As such, the following table of Market Technology revenues to be recognized in the future represents our best estimate:  
+
+  [DATA_TABLE_REMOVED] 
+
+Expenses  
+
+Operating Expenses  
+
+The following table shows our operating expenses:  
+
+  [DATA_TABLE_REMOVED] 
+
+ # Denotes a variance greater than 100.0%.  
+
+Total operating expenses decreased $13 million in 2012 compared with 2011 and increased $101 million in 2011 compared with 2010. The decrease in 2012 reflects a favorable impact from foreign exchange of $17 million, partially offset by an increase in operating expenses of $4 million. The increase in 2011 reflects an operational increase of $67 million and an unfavorable impact from foreign exchange of $34 million. The operational increase of $4 million in 2012 was primarily due to restructuring actions taken during 2012 and an increase in professional and contract services expense, partially offset by decreases in merger and strategic initiatives expense and general, administrative and other expense. The operational increase of $67 million in 2011 was primarily due to increases in merger and strategic initiatives expense, compensation and benefits expense, professional and contract services expense, marketing and advertising expense and computer operations and data communications expense, partially offset by a decrease in general, administrative and other expense.  
+
+Compensation and benefits expense decreased in 2012 compared with 2011 and increased in 2011 compared with 2010. The decrease in 2012 was primarily due to a favorable impact from foreign exchange of $8 million and lower compensation expense reflecting reduced financial performance and restructuring activities, partially offset by an increase in salary expense, primarily due to our acquisitions of Glide Technologies in October 2011, BWise in May 2012 and NOS Clearing in July 2012. The increase in 2011 was primarily due to an increase in salary expense from SMARTS, FTEN and ZVM, which were acquired in the second half of 2010, and Glide Technologies, which was acquired in October 2011, and higher compensation expenses reflecting stronger financial  
+
+55  
+
+Table of Contents 
+
+ performance, as well as an unfavorable impact from foreign exchange of $17 million. Headcount, including staff employed at consolidated entities where we have a controlling financial interest, increased to 2,506 employees at December 31, 2012 from 2,433 employees at December 31, 2011 and 2,395 employees at December 31, 2010. The increase in headcount in 2012 compared to 2011 was primarily due to our acquisition of BWise, partially offset by workforce reductions of 226 positions across our organization related to restructuring actions in 2012. See Note 3, Restructuring Charges, to the consolidated financial statements for a discussion of our restructuring charges incurred in 2012. The increase in headcount in 2011 compared with 2010 was primarily due to our acquisition of Glide Technologies in October 2011.  
+
+Marketing and advertising expense increased in both 2012 compared with 2011 and 2011 compared with 2010. The increase in 2012 was primarily due to increased brand advertising primarily featuring listed issuers. The increase in 2011 was primarily due to increased advertising on behalf of new issuers.  
+
+Depreciation and amortization expense decreased in 2012 compared with 2011 and increased in 2011 compared with 2010. The decrease in 2012 was primarily due to the write-off of certain acquired intangible assets associated with technology ($19 million), customer relationships ($6 million), and a certain trade name ($3 million), the write-off and disposal of leasehold improvements, asset impairments related to restructuring activities, primarily consisting of fixed assets and capitalized software which have been retired, and a favorable impact from foreign exchange of $2 million, partially offset by additional depreciation and amortization expense as a result of our recent acquisitions, primarily BWise in May 2012. The increase in 2011 was primarily due to an unfavorable impact from foreign exchange of $4 million, as well as additional depreciation and amortization expense as a result of our acquisitions of SMARTS, FTEN and ZVM, which were acquired in the second half of 2010, and Glide Technologies, which was acquired in October 2011.  
+
+Professional and contract services expense increased in both 2012 compared with 2011 and 2011 compared with 2010. The increase in 2012 was primarily due to costs incurred for special legal expenses, as well as incremental spending for professional and contract services, partially offset by a favorable impact from foreign exchange of $2 million. The increase in 2011 was primarily due to costs incurred for information technology security consultants and an unfavorable impact from foreign exchange of $3 million.  
+
+Computer operations and data communications expense decreased in 2012 compared with 2011 and increased in 2011 compared with 2010. The decrease in 2012 was primarily due to a value added tax, or VAT, refund relating to prior periods and a favorable impact from foreign exchange of $1 million, partially offset by additional computer operations and data communications expense as a result of our recent acquisitions, primarily Glide Technologies in October 2011 and BWise in May 2012. The increase in 2011 was primarily due to our acquisitions of SMARTS, FTEN and ZVM, which were acquired in the second half of 2010, and an unfavorable impact from foreign exchange of $3 million.  
+
+Occupancy expense increased in both 2012 compared with 2011 and 2011 compared with 2010. The increase in 2012 was primarily due to additional occupancy expense as a result of our recent acquisitions, primarily BWise in May 2012, as well as a $3 million sublease loss reserve charge on space we currently occupy due to an increase in net rental costs, partially offset by a favorable impact from foreign exchange of $1 million. The increase in 2011 was primarily due to an unfavorable impact from foreign exchange of $3 million.  
+
+Merger and strategic initiatives expense was $4 million in 2012 compared with $38 million in 2011 and $4 million in 2010. Merger and strategic initiatives expense for 2012 primarily related to our agreement with Thomson Reuters to acquire its Investor Relations, Public Relations and Multimedia Solutions businesses and costs related to recent acquisitions and other strategic initiatives, partially offset by a gain on our acquisition of NOS Clearing in July 2012. Merger and strategic initiatives expense for 2011 primarily related to costs incurred for advisors, bank commitment fees, legal and other professional services related to our joint proposal to acquire NYSE Euronext, as well as costs related to our acquisition of Glide Technologies in October 2011. Merger and strategic initiatives expense for 2010 included legal and consulting costs related to our acquisitions of SMARTS and FTEN and costs related to strategic initiatives.  
+
+Restructuring charges were $44 million in 2012. See Note 3, Restructuring Charges, to the consolidated financial statements for a discussion of our restructuring charges recorded during 2012. Cash expenditures for severance and other charges necessary to execute our restructuring actions were $20 million in 2012. Such expenditures, primarily for severance and other charges, have been funded with operating cash flows. We generated pre-tax savings of approximately $60 million in 2012 from our restructuring actions, and we expect an annualized savings of $60 million beginning in 2013.  
+
+General, administrative and other expense decreased in both 2012 compared with 2011 and 2011 compared with 2010. In 2011, we recorded a pre-tax charge of $25 million related to the write-off of a portion of the unamortized balance of debt issuance costs and debt discount related to the repayment of $335 million of the aggregate principal amount outstanding of our 2013 Convertible Notes that was completed in October 2011, and a pre-tax charge of $6 million recorded in 2011 related to the write-off of the remaining unamortized balance of debt issuance costs related to our $700 million senior unsecured term loan facility that was repaid in  
+
+56  
+
+Table of Contents 
+
+ September 2011. General, administrative and other expense included a favorable impact from foreign exchange of $3 million in 2012 and an unfavorable impact from foreign exchange of $4 million in 2011. General, administrative and other expense for 2010 included a pre-tax charge of $40 million, which included the write-off of the remaining unamortized balance of debt issuance costs of $28 million incurred in conjunction with our senior secured credit facilities in place as of December 31, 2009, costs to terminate our float-to-fixed interest rate swaps previously designated as a cash flow hedge of $9 million and other costs of $3 million.  
+
+Non-operating Income and Expenses  
+
+The following table shows our non-operating income and expenses:  
+
+  [DATA_TABLE_REMOVED] 
+
+ # Denotes a variance equal to or greater than 100.0%.  
+
+Total non-operating expenses were $142 million in 2012 compared with $123 million in 2011 and $105 million in 2010. Total non-operating expenses for 2012 primarily include net interest expense of $87 million, asset impairment charges of $40 million and a loss on divestiture of business of $14 million. Total non-operating expenses for 2011 primarily include net interest expense of $108 million and an impairment charge of $18 million on our investment security in DFM. Total non-operating expenses for 2010 primarily include net interest expense and a pre-tax loss on divesture of businesses.  
+
+Interest Income  
+
+Interest income decreased slightly in 2012 compared with 2011 and increased in 2011 compared with 2010. The decrease in 2012 was primarily due to a decrease in cash and cash equivalents in 2012. The increase in 2011 was primarily due to an increase in cash and cash equivalents in 2011 and a favorable impact from foreign exchange of $1 million.  
+
+Interest Expense  
+
+Interest expense for 2012 was $97 million, and was comprised of $86 million of interest expense, $4 million of non-cash expense associated with accretion of debt discounts, $3 million of non-cash debt issuance amortization expense, and $4 million of other bank and investment-related fees. Interest expense decreased in 2012 compared with 2011 due to lower average outstanding debt obligations in 2012 primarily resulting from the extinguishment of $335 million of our 2013 Convertible Notes in the fourth quarter of 2011, as well as lower average interest rates.  
+
+Interest expense for 2011 was $119 million, and was comprised of $97 million of interest expense, $13 million of non-cash expense associated with accretion of debt discounts, $6 million of non-cash debt issuance amortization expense, and $3 million of other bank and investment-related fees. Interest expense increased in 2011 compared with 2010 primarily due to higher average outstanding debt obligations in 2011 resulting from the issuance of our 2018 Notes in December 2010.  
+
+See Note 9, Debt Obligations, to the consolidated financial statements for further discussion of our debt obligations.  
+
+Asset Impairment Charges  
+
+In the second quarter of 2012, we recorded non-cash intangible asset impairment charges totaling $28 million related to certain acquired intangible assets associated with technology ($19 million), customer relationships ($6 million) and a certain trade name ($3 million). See Intangible Asset Impairment Charges, of Note 5, Goodwill and Purchased Intangible Assets, to the consolidated financial statements for further discussion. In the first quarter of 2012, we also recorded a non-cash other-than-temporary impairment charge of $12 million related to our equity interest in EMCF. See Equity Method Investments, of Note 6, Investments, to the consolidated financial statements for further discussion.  
+
+57  
+
+Table of Contents 
+
+In the fourth quarter of 2011, we recorded a non-cash, other-than-temporary impairment charge of $18 million related to our available-for-sale investment security in DFM. As of December 31, 2011, the cost basis of this investment security was $36 million and the fair value was $18 million. We reviewed the carrying amount of this investment security to determine whether an other-than-temporary decline in value existed as of December 31, 2011. We considered factors affecting the investee, factors affecting the industry the investee operates in and general market trends. We also considered the length of time the market value had been below the carrying amount and the near-term prospects for recovery of unrealized losses. Based on this review, we determined that the decline in value of this security below its carrying amount was other than temporary and we wrote down our investment to fair value which resulted in the $18 million pre-tax, non-cash impairment charge.  
+
+Dividend and Investment Income  
+
+Dividend and investment income increased in 2011 compared with 2010. The increase in 2011 was primarily due to an increase in the fair value of our government debt securities portfolio as a result of decreased interest rates.  
+
+Loss on Divestiture of Businesses  
+
+In August 2012, we sold IDCG and recorded a loss of $14 million. See 2012 Divestiture, of Note 4, Acquisitions and Divestitures, for further discussion.  
+
+The loss on divestiture of businesses of $11 million in 2010 was due to our decision to close the businesses of both NEURO ($6 million) and Agora-X ($5 million) in the second quarter of 2010.  
+
+Income (Loss) from Unconsolidated Investees, net  
+
+Net loss from unconsolidated investees of $1 million in 2012 and net income of $2 million in both 2011 and 2010 was related to our share in the earnings and losses of our equity method investments.  
+
+Income Taxes  
+
+NASDAQ OMXs income tax provision was $199 million in 2012 compared with $190 million in 2011 and $137 million in 2010. The overall effective tax rate was 36.3% in 2012, 33.2% in 2011 and 26.0% in 2010. The higher effective tax rate in 2012 when compared to 2011 was primarily due to the impact to deferred tax assets and deferred tax liabilities resulting from changes in tax rates in various jurisdictions within the U.S. and outside the U.S., adjustments related to our 2005  2011 tax return liabilities which resulted in an increase to the tax provision and a shift in the geographic mix of earnings and losses. These increases are partially offset by a permanent tax benefit associated with certain taxable foreign exchange revaluation losses which are not reflected in pre-tax earnings. The increase in the effective tax rate in 2011 when compared with 2010 was due to the impact of changes in tax laws in certain jurisdictions where NASDAQ OMX operates. Furthermore, in the third quarter of 2011, we recorded significant adjustments due to provision-to-tax return adjustments related to our 2010 tax return liabilities and a corresponding effect on deferred tax liabilities both which increased NASDAQ OMXs tax provision in 2011. Also, 2010 results included reductions in deferred tax liabilities due to a revised effective tax rate and a tax deduction for a capital loss.  
+
+The effective tax rate may vary from period to period depending on, among other factors, the geographic and business mix of earnings and losses. These same and other factors, including history of pre-tax earnings and losses, are taken into account in assessing the ability to realize deferred tax assets.  
+
+In order to recognize and measure our unrecognized tax benefits, management determines whether a tax position is more likely than not to be sustained upon examination, including resolution of any related appeals or litigation processes, based on the technical merits of the position. Once it is determined that a position meets the recognition thresholds, the position is measured to determine the amount of benefit to be recognized in the consolidated financial statements. Interest and/or penalties related to income tax matters are recognized in income tax expense.  
+
+NASDAQ OMX and its eligible subsidiaries file a consolidated U.S. federal income tax return and applicable state and local income tax returns and non-U.S. income tax returns. Federal income tax returns for the years 2007 through 2010 are currently under audit by the Internal Revenue Service and we are subject to examination for 2011. Several state tax returns are currently under examination by the respective tax authorities for the years 2005 through 2010 and we are subject to examination for 2011. Non-U.S. tax returns are subject to review by the respective tax authorities for the years 2005 through 2011. In 2012, we settled audits with the state of New York and paid a total of $10 million with respect to the years 2000 through 2006. Of the $10 million paid, $5 million relates to tax and $5 million relates to interest. Since we included $2 million in our unrecognized tax benefits as of December 31, 2011, $3 million affected our 2012 effective tax rate. The outcome of this audit did not have a material impact on our financial position or results of operations. We anticipate that the amount of unrecognized tax benefits at December 31, 2012 will significantly decrease in the next twelve months as we expect to settle certain tax audits. The final outcome of such audits cannot yet be determined. We anticipate that such adjustments will not have a material impact on our consolidated financial position or results of operations.  
+
+58  
+
+Table of Contents 
+
+In the fourth quarter of 2010, we received an appeal from the Finnish Tax Authority challenging certain interest expense deductions claimed by NASDAQ OMX in Finland for the year 2008. The appeal also demands certain penalties be paid with regard to the companys tax return filing position. In October 2012, the Finnish Appeals Board disagreed with the companys tax return filing position, even though the tax return position with respect to this deduction was previously reviewed and approved by the Finnish Tax Authority. NASDAQ OMX has decided to appeal the ruling by the Finnish Appeals Board to the Finnish Administrative Court. If the Finnish Administrative Court agrees with the Finnish Appeals Board, additional tax and penalties for the years 2008 through 2012 would total approximately $20 million. We expect the Finnish Administrative Court to agree with our position and, as such, believe it is unlikely NASDAQ OMX will be assessed any additional tax and penalties. Through December 31, 2012, we have recorded the tax benefits associated with the filing position.  
+
+Net Loss Attributable to Noncontrolling Interests  
+
+Net loss attributable to noncontrolling interests was $3 million in 2012 compared with $4 million in 2011 and $6 million in 2010. The losses are primarily attributable to noncontrolling interests in IDCG.  
+
+Non-GAAP Financial Measures  
+
+In addition to disclosing results determined in accordance with U.S. GAAP, we also have provided non-GAAP net income attributable to NASDAQ OMX and non-GAAP diluted earnings per share. Management uses this non-GAAP information internally, along with U.S. GAAP information, in evaluating our performance and in making financial and operational decisions.  
+
+We believe our presentation of these measures provides investors with greater transparency and supplemental data relating to our financial condition and results of operations. In addition, we believe the presentation of these measures is useful to investors for period-to-period comparison of results as the items described below do not reflect operating performance. These measures are not in accordance with, or an alternative to, U.S. GAAP, and may be different from non-GAAP measures used by other companies. Investors should not rely on any single financial measure when evaluating our business. We recommend investors review the U.S. GAAP financial measures included in this Annual Report on Form 10-K, including our consolidated financial statements and the notes thereto. When viewed in conjunction with our U.S. GAAP results and the accompanying reconciliation, we believe these non-GAAP measures provide greater transparency and a more complete understanding of factors affecting our business than U.S. GAAP measures alone. Our management uses these measures to evaluate operating performance, and management decisions during the reporting period are made by excluding certain items that we believe have less significance on, or do not impact, the day-to-day performance of our business. We understand that analysts and investors regularly rely on non-GAAP financial measures, such as non-GAAP net income and non-GAAP diluted earnings per share, to assess operating performance. We use non-GAAP net income attributable to NASDAQ OMX and non-GAAP diluted earnings per share because they more clearly highlight trends in our business that may not otherwise be apparent when relying solely on U.S. GAAP financial measures, since these measures eliminate from our results specific financial items that have less bearing on our operating performance. Non-GAAP net income attributable to NASDAQ OMX for the periods presented below is calculated by adjusting net income attributable to NASDAQ OMX for charges or gains related to acquisition and divestiture transactions, integration activities related to acquisitions, other significant infrequent charges or gains and their related income tax effects that are not related to our core business. We do not believe these items are representative of our future operating performance since these charges were not consistent with our normal operating performance.  
+
+Non-GAAP adjustments for the year ended December 31, 2012 primarily related to the following:  
+
+(i) income from open positions relating to the operations of the exchange of $11 million, (ii) merger and strategic initiatives costs of $4 million related to recent acquisitions and other strategic initiatives, net of gain on acquisition of NOS Clearing, (iii) restructuring charges of $44 million related to workforce reductions of $23 million, facilities-related charges of $10 million, asset impairment charges of $9 million and $2 million of other charges, (iv) intangible asset impairment charges of $40 million related to certain acquired intangible assets totaling $28 million as well as an other-than-temporary impairment charge related to our equity method interest in EMCF of $12 million, (v) a loss on divestiture of business of $14 million related to the sale of IDCG, (vi) special legal expenses of $7 million, (vii) a sublease loss reserve charge of $3 million recorded on space we currently occupy due to an increase in rental costs, (viii) a VAT refund of $7 million relating to prior periods, (ix) adjustment to the income tax provision of $32 million to reflect these non-GAAP adjustments, and (x) significant tax adjustments, net of $14 million due to the impact to deferred tax assets and deferred tax liabilities resulting from changes in tax rates in various jurisdictions within the U.S. and outside the U.S., adjustments related to our 20052011 tax return liabilities which resulted in an increase to the tax provision, partially offset by a permanent tax benefit associated with certain taxable foreign exchange revaluation losses which are not reflected in pre-tax earnings.  
+
+59  
+
+Table of Contents 
+
+Non-GAAP adjustments for the year ended December 31, 2011 primarily related to the following:  
+
+(i) merger and strategic initiatives costs of $38 million, primarily costs for advisors, bank commitment fees, legal and other professional services, related to our joint proposal to acquire NYSE Euronext, as well as costs related to recent acquisitions and other strategic initiatives, (ii) an asset impairment charge of $18 million related to our available-for-sale investment security in DFM, (iii) debt extinguishment and refinancing charges of $31 million, related to the repayment of the 2013 Convertible Notes and the repayment of our $700 million senior unsecured term loan facility, (iv) an adjustment to the income tax provision of $28 million to reflect these non-GAAP adjustments, and (v) significant tax adjustments, net of $5 million due to the impact of changes in tax laws in certain jurisdictions where NASDAQ OMX operates.  
+
+Non-GAAP adjustments for the year ended December 31, 2010 primarily related to the following:  
+
+(i) merger and strategic initiatives costs of $4 million, consisting primarily of costs for legal and consulting related to our acquisitions of SMARTS and FTEN, (ii) a loss on divestiture of businesses of $11 million due to our decision to close the businesses of both NEURO ($6 million) and Agora-X ($5 million), (iii) debt extinguishment and refinancing charges of $40 million related to the repayment of our senior secured credit facilities in place as of December 31, 2009, (iv) a sublease loss reserve charge of $5 million recorded on space we occupy in Philadelphia, San Francisco and London due to our decision to vacate space in these properties, (v) asset retirement charges of $2 million primarily related to obsolete technology, (vi) workforce reduction costs of $9 million related to acquisitions, (vii) an adjustment to the income tax provision of $28 million to reflect these non-GAAP adjustments, and (viii) significant tax adjustments, net of $32 million due to provision-to-tax return adjustments related to our 2009 tax return liabilities.  
+
+The following table represents reconciliations between U.S. GAAP net income and diluted earnings per share and non-GAAP net income and diluted earnings per share:  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1)   We determine the tax effect of each item based on the tax rules in the respective jurisdiction where the transaction occurred.  
+
+60  
+
+Table of Contents 
+
+Liquidity and Capital Resources  
+
+While global markets and economic conditions continue to improve from adverse levels experienced during the past several years, investors and lenders remain cautious about the pace of the global economic recovery. This lack of confidence in the prospects for growth could result in sporadic increases in market volatility and lackluster trading volumes, which could in turn affect our ability to obtain additional funding from lenders. Currently, our cost and availability of funding remain healthy.  
+
+Historically, we have funded our operating activities and met our commitments through cash generated by operations, augmented by the periodic issuance of our common stock in the capital markets and by issuing debt obligations. In addition to these cash sources, we have a $750 million revolving credit commitment (including a swingline facility and letter of credit facility) under our senior unsecured five-year credit facility. As of December 31, 2012, $624 million is available. See 2011 Credit Facility, of Note 9, Debt Obligations, to the consolidated financial statements for further discussion.  
+
+In the near term, we expect that our operations will provide sufficient cash to fund our operating expenses, capital expenditures, debt repayments, share repurchases, dividends, and severance and other costs related to restructuring actions. Working capital (calculated as current assets less current liabilities) was $565 million at December 31, 2012, compared with $543 million at December 31, 2011, an increase of $22 million.  
+
+In December 2012, we entered into an agreement with Thomson Reuters to acquire its Investor Relations, Public Relations and Multimedia Solutions businesses for $390 million. We plan to fund this transaction through cash on hand and capacity under our revolving credit commitment. Upon closing, these complementary businesses will be integrated into our Corporate Solutions business. The proposed transaction is subject to customary regulatory approvals and is expected to close in the first half of 2013. We also announced an agreement to acquire a 25% stake in TOM, a Dutch cash equities and equity derivatives trading venue. We plan to fund this transaction through cash on hand. The terms of the transaction also provide us an option to acquire an additional 25.1% of the remaining shares at a future date. This transaction delivers on our strategy to expand our derivatives presence across the European market and will be part of our European Transaction Services business. The acquisition is subject to regulatory approval.  
+
+Principal factors that could affect the availability of our internally-generated funds include:  
+
+       deterioration of our revenues in any of our business segments;  
+
+       changes in our working capital requirements; and  
+
+       an increase in our expenses arising, in part, from the proposed voluntary accommodation program and other expenses related to the systems issues experienced at the time of the Facebook IPO.  
+
+Principal factors that could affect our ability to obtain cash from external sources include:  
+
+       operating covenants contained in our credit facility that limit our total borrowing capacity;  
+
+       increases in interest rates applicable to our floating rate loans under our credit facility;  
+
+       credit rating downgrades, which could limit our access to additional debt;  
+
+       a decrease in the market price of our common stock; and  
+
+       volatility in the public debt and equity markets.  
+
+The following sections discuss the effects of changes in our financial assets, debt obligations, clearing and broker-dealer net capital requirements, and cash flows on our liquidity and capital resources.  
+
+Financial Assets  
+
+The following table summarizes our financial assets:  
+
+  [DATA_TABLE_REMOVED] 
+
+61  
+
+Table of Contents 
+
+Cash and Cash Equivalents and Restricted Cash  
+
+Cash and cash equivalents include cash in banks and all non-restricted highly liquid investments with original maturities of three months or less at the time of purchase. The balance retained in cash and cash equivalents is a function of anticipated or possible short-term cash needs, prevailing interest rates, our investment policy, and alternative investment choices. As of December 31, 2012, our cash and cash equivalents of $497 million were primarily invested in money market funds. In the long-term, we may use both internally generated funds and external sources to satisfy our debt obligations and other long-term liabilities. Cash and cash equivalents as of December 31, 2012 decreased $9 million from December 31, 2011 primarily due to net cash used in investing and financing activities, partially offset by net cash provided by operating activities. See Cash Flow Analysis below for further discussion.  
+
+Current restricted cash, which was $85 million as of December 31, 2012 and $34 million as of December 31, 2011, is not available for general use by us due to regulatory and other requirements and is classified as restricted cash in the Consolidated Balance Sheets. As of December 31, 2012 and December 31, 2011, current restricted cash primarily includes cash held for regulatory purposes at NASDAQ OMX Stockholm and NOS Clearing. Non-current restricted cash was $25 million at December 31, 2012 compared with $97 million at December 31, 2011. The decline in non-current restricted cash is primarily due to the release of restricted cash due to the sale of IDCG in August 2012. Non-current restricted cash at December 31, 2012 is segregated for NOCC to improve its liquidity position, which is not available for general use.  
+
+Repatriation of Cash  
+
+Our cash and cash equivalents held outside of the U.S. in various foreign subsidiaries totaled $198 million as of December 31, 2012 and $158 million as of December 31, 2011. The remaining balance held in the U.S. totaled $299 million as of December 31, 2012 and $348 million as of December 31, 2011.  
+
+Unremitted earnings of subsidiaries outside of the U.S. are used to finance our international operations and are generally considered to be indefinitely reinvested. It is not our current intent to change this position. However, the majority of cash held outside the U.S. is available for repatriation, but under current law, could subject us to additional U.S. income taxes, less applicable foreign tax credits.  
+
+Share Repurchase Program  
+
+In the fourth quarter of 2011, our board of directors approved a share repurchase program authorizing NASDAQ OMX to repurchase in the aggregate up to $300 million of our outstanding common stock. In the third quarter of 2012, our board of directors authorized the repurchase of up to an additional $300 million of our outstanding common stock. These purchases may be made from time to time at prevailing market prices in open market purchases, privately-negotiated transactions, block purchase techniques or otherwise, as determined by our management. The purchases are funded from existing cash balances. The share repurchase program may be suspended, modified or discontinued at any time.  
+
+During the fourth quarter of 2011, we repurchased 3,983,481 shares of our common stock at an average price of $25.10, for an aggregate purchase price of $100 million. During 2012, we repurchased 11,544,457 shares of our common stock at an average price of $23.82, for an aggregate purchase price of $275 million, completing the share repurchase program authorized in the fourth quarter of 2011. The shares repurchased under the share repurchase program are available for general corporate purposes. As of December 31, 2012, the remaining amount for share repurchases under the program authorized in the third quarter of 2012 was $225 million.  
+
+Cash Dividends on Common Stock  
+
+In June, September and December of 2012, we paid quarterly cash dividends of $0.13 per share on our outstanding common stock. See Cash Dividends on Common Stock, of Note 13, NASDAQ OMX Stockholders Equity, to the consolidated financial statements for further discussion of the dividends.  
+
+In January 2013, pursuant to delegated authority, the finance committee of the board of directors declared a regular quarterly cash dividend of $0.13 per share on our outstanding common stock. The dividend is payable on March 28, 2013 to shareholders of record at the close of business on March 14, 2013. Future declarations of quarterly dividends and the establishment of future record and payment dates are subject to approval by the board of directors.  
+
+Financial Investments, at Fair Value  
+
+Our financial investments, at fair value totaled $223 million as of December 31, 2012 and $279 million as of December 31, 2011 and are primarily comprised of trading securities, mainly Swedish government debt securities. Of these securities, $134 million as of December 31, 2012 and $212 million as of December 31, 2011 are restricted assets to meet regulatory capital requirements primarily for clearing operations at NASDAQ OMX Nordic Clearing. This balance also includes our available-for-sale investment security in DFM valued at $22 million as of December 31, 2012 and $18 million as of December 31, 2011. See Note 6, Investments, to the consolidated financial statements for further discussion of our trading securities and available-for-sale investment security.  
+
+62  
+
+Table of Contents 
+
+Debt Obligations  
+
+The following table summarizes our debt obligations by contractual maturity:  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1)   As of December 31, 2011, approximately $0.5 million aggregate principal amount of the 3.75% convertible notes remained outstanding. In June 2012, all of the remaining aggregate principal amount of the 3.75% convertible notes outstanding were converted into 34,482 shares of common stock in accordance with the terms of the notes.  
+
+In addition to the $750 million revolving credit commitment, we also have other credit facilities related to our clearinghouses in order to meet liquidity and regulatory requirements. At December 31, 2012, these credit facilities, which are available in multiple currencies, primarily Swedish Krona, totaled $310 million ($217 million in available liquidity and $93 million to satisfy regulatory requirements), none of which was utilized. At December 31, 2011, these credit facilities totaled $447 million ($206 million in available liquidity and $241 million to satisfy regulatory requirements), none of which was utilized.  
+
+At December 31, 2012, we were in compliance with the covenants of all of our debt obligations.  
+
+See Note 9, Debt Obligations, to the consolidated financial statements for further discussion of our debt obligations.  
+
+Clearing and Broker-Dealer Net Capital Requirements  
+
+Clearing Operations Regulatory Capital Requirements  
+
+We are required to maintain minimum levels of regulatory capital for our clearing operations for NASDAQ OMX Nordic Clearing and NOS Clearing. The level of regulatory capital required to be maintained is dependent upon many factors, including market conditions and creditworthiness of the counterparty. At December 31, 2012, our required regulatory capital consisted of $113 million of Swedish government debt securities, that are included in financial investments, at fair value in the Consolidated Balance Sheets and $45 million of cash that is included in restricted cash in the Consolidated Balance Sheets.  
+
+In addition, we have available credit facilities of $93 million which can be utilized to satisfy our regulatory capital requirements. See Debt Obligations above for further discussion.  
+
+Broker-Dealer Net Capital Requirements  
+
+Our broker-dealer subsidiaries, Nasdaq Execution Services and NASDAQ Options Services, are subject to regulatory requirements intended to ensure their general financial soundness and liquidity. These requirements obligate these subsidiaries to comply with minimum net capital requirements. At December 31, 2012, Nasdaq Execution Services was required to maintain minimum net capital of $0.3 million and had total net capital of approximately $10.9 million, or $10.6 million in excess of the minimum amount required. At December 31, 2012, NASDAQ Options Services also was required to maintain minimum net capital of $0.3 million and had total net capital of approximately $3.4 million, or $3.1 million in excess of the minimum amount required.  
+
+Other Capital Requirements  
+
+NASDAQ Options Services also is required to maintain a $2 million minimum level of net capital under our clearing arrangement with The Options Clearing Corporation, or OCC.  
+
+63  
+
+Table of Contents 
+
+Cash Flow Analysis  
+
+The following tables summarize the changes in cash flows:  
+
+  [DATA_TABLE_REMOVED] 
+
+ # Denotes a variance greater than 100.0%.  
+
+Net Cash Provided by Operating Activities  
+
+The following items impacted our net cash provided by operating activities for the year ended December 31, 2012:  
+
+       Net income of $349 million, plus:  
+
+       Non-cash items of $251 million comprised primarily of $104 million of depreciation and amortization expense, $46 million of share-based compensation expense, $40 million related to asset impairment charges, $16 million of restructuring charges, deferred income taxes of $16 million, and a loss on divestiture of business of $14 million.  
+
+       Decrease in other assets of $71 million primarily due to the release of restricted cash resulting from the sale of IDCG.  
+
+Partially offset by a:  
+
+       Increase in receivables, net of $30 million primarily due to an increase in receivables across multiple businesses relating to timing of collections and activity, partially offset by a decrease in income tax receivables.  
+
+       Decrease in accrued personnel costs of $27 million primarily due to the payment of our 2011 incentive compensation in the first quarter of 2012, partially offset by the 2012 accrual.  
+
+       Decrease in other liabilities of $17 million primarily reflecting the release of escrow amounts related to certain acquisitions and the utilization of sublease reserve balances.  
+
+       Decrease in Section 31 fees payable to the SEC of $9 million primarily due to lower dollar value traded on the NASDAQ and NASDAQ OMX BX trading systems, partially offset by higher Section 31 fee rates in 2012.  
+
+The following items impacted our net cash provided by operating activities for the year ended December 31, 2011:  
+
+       Net income of $383 million, plus:  
+
+       Non-cash items of $206 million comprised primarily of $109 million of depreciation and amortization expense, $36 million of share-based compensation expense, $31 million for debt extinguishment and refinancing charges, $25 million related to loss on asset retirements and impairment charges, and $13 million related to accretion of debt discounts, partially offset by $10 million of excess tax benefits related to share-based compensation.  
+
+       Decrease in other assets of $69 million primarily due to a decrease in non-current deferred tax assets related to the utilization of a capital-loss carry-back.  
+
+       Increase in accounts payable and accrued expenses of $24 million primarily due to the timing of payments and an increase in accrued interest payable.  
+
+       Increase in Section 31 fees payable to SEC of $24 million primarily due to higher Section 31 fee rates in 2011.  
+
+64  
+
+Table of Contents 
+
+Partially offset by a:  
+
+       Decrease in other liabilities of $22 million primarily reflecting the utilization of sublease reserves and decreased accrued taxes.  
+
+       Decrease in deferred revenue of $14 million primarily due to the timing and delivery of Market Technology projects.  
+
+Net Cash Used in Investing Activities  
+
+Net cash used in investing activities for the years ended December 31, 2012 and 2011 primarily consisted of purchases of trading securities, cash used for acquisitions and purchases of property and equipment, partially offset by proceeds from sales and redemptions of trading securities.  
+
+Net Cash Used in Financing Activities  
+
+Net cash used in financing activities for the year ended December 31, 2012 primarily consisted of $275 million of cash used in connection with our share repurchase programs, repayment of debt obligations of $145 million consisting of an optional prepayment of $100 million on our revolving credit commitment and required quarterly principal payments totaling $45 million on our $450 million funded term loan, or 2016 Term Loan, and $65 million related to cash dividends paid on our common stock.  
+
+Net cash used in financing activities for the year ended December 31, 2011 primarily consisted of the repayment of debt obligations of $948 million consisting of the repayment of our term loans in place as of December 31, 2010 of $570 million, repayment of $335 million of the aggregate principal amount outstanding of the 2013 Convertible Notes for $343 million, a required quarterly principal payment of $11 million on our 2016 Term Loan, and an optional principal payment of $24 million on our revolving credit commitment. We also utilized $100 million of cash in connection with our share repurchase program. These decreases were partially offset by proceeds from debt obligations of $700 million consisting of $450 million in proceeds received from the issuance of the 2016 Term Loan and $250 million in proceeds received from borrowings under our revolving credit commitment. For further discussion of the 2016 Term Loan, as well as the repayment of our debt obligations, see Credit Facilities, of Note 9, Debt Obligations, to the consolidated financial statements.  
+
+For further discussion of our debt obligations, see Note 9, Debt Obligations, to the consolidated financial statements. For further discussion of our share repurchase programs, see Share Repurchase Programs and Share Repurchase from Borse Dubai, of Note 13, NASDAQ OMX Stockholders Equity, to the consolidated financial statements.  
+
+Contractual Obligations and Contingent Commitments  
+
+NASDAQ OMX has contractual obligations to make future payments under debt obligations by contract maturity, minimum rental commitments under non-cancelable operating leases, net and other obligations. The following table shows these contractual obligations as of December 31, 2012:  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1)   Our debt obligations include both principal and interest obligations. At December 31, 2012, an interest rate of 1.61% was used to compute the amount of the contractual obligations for interest on our 2016 Term Loan and an interest rate of 1.42% was used to compute the amount of the contractual obligations for interest on our revolving credit commitment. All other debt obligations were calculated on a 360-day basis at the contractual fixed rate multiplied by the aggregate principal amount at December 31, 2012. See Note 9, Debt Obligations, to the consolidated financial statements for further discussion.  
+
+ (2)   We lease some of our office space and equipment under non-cancelable operating leases with third parties and sublease office space to third parties. Some of our leases contain renewal options and escalation clauses based on increases in property taxes and building operating costs.  
+
+ (3)   In connection with our acquisitions of FTEN, SMARTS, Glide Technologies and the index business of Mergent, Inc., including Indxis, we entered into escrow agreements to secure the payment of post-closing adjustments and to ensure other closing conditions. At December 31, 2012, these agreements provide for future payments of $18 million and are included in other current liabilities and other non-current liabilities in the Consolidated Balance Sheets.  
+
+65  
+
+Table of Contents 
+
+Off-Balance Sheet Arrangements  
+
+Default Fund Contributions and Margin Collateral Received for Clearing Operations  
+
+Default Fund Contributions  
+
+Clearing members eligible contributions may include cash and non-cash contributions. Cash contributions are invested by NASDAQ OMX Nordic Clearing in accordance with its investment policies and are included in default funds and margin deposits in the Consolidated Balance Sheets. However, non-cash contributions, which include highly rated government debt securities that must meet the investment policies of NASDAQ OMX Nordic Clearing and NOS Clearing, as well as pledged cash, are pledged assets that are not recorded in our Consolidated Balance Sheets as NASDAQ OMX Nordic Clearing and NOS Clearing do not take legal ownership of these assets and the risks and rewards remain with the clearing members. These pledged assets are held at a nominee account in NASDAQ OMX Nordic Clearings name or NOS Clearings name for the benefit of the clearing members and are immediately accessible by NASDAQ OMX Nordic Clearing or NOS Clearing in the event of default. The pledged asset balances may fluctuate over time due to changes in the amount of deposits required and whether members choose to provide cash or non-cash contributions. See Note 16, Clearing Operations, to the consolidated financial statements for further discussion of our clearing operations and default fund contributions.  
+
+Margin Collateral Received for Clearing Operations  
+
+Nordic Clearing and NOS Clearing  
+
+NASDAQ OMX Nordic Clearing and NOS Clearing each require all clearing members to provide collateral, which may consist of cash and eligible securities, in a pledged bank account and/or an on-demand guarantee, to guarantee performance on the clearing members open positions, or initial margin. In addition, clearing members must also provide collateral to cover the daily margin call as needed, which is in addition to the initial margin. All collateral is maintained at a third-party custodian bank or deposit bank account for the benefit of the clearing members and is immediately accessible by NASDAQ OMX Nordic Clearing or NOS Clearing in the event of default. The pledged margin collateral is not recorded in our Consolidated Balance Sheets as all risks and rewards of collateral ownership, including interest, belongs to the counterparty. Clearing member pledged margin collateral related to our clearing operations was $6.7 billion as of December 31, 2012 and $5.0 billion as of December 31, 2011.  
+
+NASDAQ OMX Nordic Clearing and NOS Clearing mark to market all outstanding contracts at least daily, requiring payment from clearing members whose positions have lost value and making payments to clearing members whose positions have gained value. The mark-to-market process helps identify any clearing members that may not be able to satisfy their financial obligations in a timely manner which helps NASDAQ OMX Nordic Clearing and NOS Clearing manage the risk of a clearing member defaulting due to exceptionally large losses. In the event of a default, NASDAQ OMX Nordic Clearing or NOS Clearing can access these margin deposits to cover the defaulting members losses.  
+
+In the first half of 2013, NASDAQ OMX Nordic Clearing will implement a new collateral process. NASDAQ OMX Nordic Clearing will maintain all cash deposits related to margin collateral and will include these cash deposits in default funds and margin deposits in the Consolidated Balance Sheets as both a current asset and a current liability, as NASDAQ OMX Nordic Clearing will assume the risks and rewards of collateral ownership. In addition to cash, clearing members may also contribute eligible pledged assets consisting of highly rated government debt securities that must meet the specific criteria approved by NASDAQ OMX Nordic Clearing and/or an on-demand guarantee. These pledged assets will not be recorded in our Consolidated Balance Sheets as NASDAQ OMX Nordic Clearing will not take legal ownership of these assets as the risks and rewards will remain with the clearing members. Assets pledged will be held at a nominee account in NASDAQ OMX Nordic Clearings name for the benefit of the clearing members and will be immediately accessible by NASDAQ OMX Nordic Clearing in the event of default.  
+
+U.S. Clearing  
+
+NOCC is the beneficiary of letters of credit from banks meeting certain rating standards, which are posted on behalf of market participants in lieu of posting cash collateral. The aggregate amount of letters of credit of which NOCC is the beneficiary was $101 million at December 31, 2012 and $81 million at December 31, 2011.  
+
+Guarantees Issued and Credit Facilities Available  
+
+In addition to the collateral pledged by clearing members discussed above, we have obtained financial guarantees and credit facilities which are guaranteed by us through counter indemnities, to provide further liquidity and default protection. Financial guarantees issued to us totaled $7 million at December 31, 2012 and $4 million at December 31, 2011. At December 31, 2012, credit facilities, which are available in multiple currencies, primarily Swedish Krona, totaled $310 million ($217 million in available liquidity and $93 million to satisfy regulatory requirements), none of which was utilized. At December 31, 2011, these facilities totaled $447 million ($206 million in available liquidity and $241 million to satisfy regulatory requirements), none of which was utilized.  
+
+66  
+
+Table of Contents 
+
+We believe that the potential for us to be required to make payments under these arrangements is mitigated through the pledged collateral and our risk management policies. Accordingly, no contingent liability is recorded in the Consolidated Balance Sheets for these arrangements.  
+
+Leases  
+
+We lease some of our office space and equipment under non-cancelable operating leases with third parties and sublease office space to third parties. Some of our lease agreements contain renewal options and escalation clauses based on increases in property taxes and building operating costs.  
+
+Other Guarantees  
+
+We have provided other guarantees of $18 million as of December 31, 2012 and $17 million as of December 31, 2011. These guarantees primarily related to obligations for our rental and leasing contracts. In addition, for certain Market Technology contracts, we have provided performance guarantees of $5 million as of December 31, 2012 and $6 million as of December 31, 2011 related to the delivery of software technology and support services. We have received financial guarantees from various financial institutions to support these guarantees.  
+
+We also have provided a $25 million guarantee to NOCC to cover potential losses in the event of customer defaults, net of any collateral posted against such losses.  
+
+We believe that the potential for us to be required to make payments under these arrangements is unlikely. Accordingly, no contingent liability is recorded in the Consolidated Balance Sheets for the above guarantees.  
+
+Brokerage Activities  
+
+Our broker-dealer subsidiaries, Nasdaq Execution Services and NASDAQ Options Services, provide guarantees to securities clearinghouses and exchanges under their standard membership agreements, which require members to guarantee the performance of other members. If a member becomes unable to satisfy its obligations to a clearinghouse or exchange, other members would be required to meet its shortfalls. To mitigate these performance risks, the exchanges and clearinghouses often require members to post collateral, as well as meet certain minimum financial standards. Nasdaq Execution Services and NASDAQ Options Services maximum potential liability under these arrangements cannot be quantified. However, we believe that the potential for Nasdaq Execution Services and NASDAQ Options Services to be required to make payments under these arrangements is unlikely. Accordingly, no contingent liability is recorded in the Consolidated Balance Sheets for these arrangements.  
+
+Quantitative and Qualitative Disclosures About Market Risk  
+
+Market risk represents the potential for losses that may result from changes in the market value of a financial instrument due to changes in market conditions. As a result of our operating, investing and financing activities, we are exposed to market risks such as interest rate risk and foreign currency exchange rate risk. We are also exposed to credit risk as a result of our normal business activities.  
+
+We have implemented policies and procedures to measure, manage, monitor and report risk exposures, which are reviewed regularly by management and the board of directors. We identify risk exposures and monitor and manage such risks on a daily basis.  
+
+We perform sensitivity analyses to determine the effects of market risk exposures. We may use derivative instruments solely to hedge financial risks related to our financial positions or risks that are incurred during the normal course of business. We do not use derivative instruments for speculative purposes.  
+
+Interest Rate Risk  
+
+The following table summarizes our financial assets and liabilities that are subject to interest rate risk as of December 31, 2012:  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1)   Represents total contractual debt obligations and amounts related to default fund contributions and margin deposits.  
+
+67  
+
+Table of Contents 
+
+ (2)   Annualized impact of a 100 basis point parallel adverse shift in the yield curve.  
+
+ (3)   Includes floating rate and fixed interest rates with a maturity or reset date due within 12 months.  
+
+ (4)   Financial assets primarily consist of Swedish government debt securities, which are classified as trading investment securities, with an average duration of 1.5 years.  
+
+We are exposed to cash flow risk on floating rate financial assets of $902 million and financial liabilities of $729 million at December 31, 2012. When interest rates on financial assets of floating rate positions decrease, net interest income decreases. When interest rates on financial liabilities of floating rate positions increase, net interest expense increases. Based on December 31, 2012 positions, each 1.0% adverse change in interest rate would impact annual pre-tax income by $2 million related to our floating rate positions.  
+
+We are exposed to price risk on our fixed rate financial assets, which totaled $115 million at December 31, 2012 and have an average duration of 1.5 years. The net effect of a parallel shift on 1.0% of the interest rate curve, taking into account the change in fair value and increased interest income, would impact annual pre-tax income by $1 million.  
+
+Foreign Currency Exchange Rate Risk  
+
+As a leading global exchange group, we are subject to foreign currency translation risk. For the year ended December 31, 2012, approximately 34.8% of our revenues less transaction rebates, brokerage, clearance and exchange fees and 26.5% of our operating income were derived in currencies other than the U.S. dollar, primarily the Swedish Krona, Euro, Norwegian Krone and Danish Krone. For the year ended December 31, 2011, approximately 35.6% of our revenues less transaction rebates, brokerage, clearance and exchange fees and 31.4% of our operating income were derived in currencies other than the U.S. dollar, primarily the Swedish Krona, Euro, Norwegian Krone and Danish Krone.  
+
+Our primary exposure to foreign currency denominated revenues less transaction rebates, brokerage, clearance and exchange fees and operating income for the year ended December 31, 2012 is presented in the following table:  
+
+  [DATA_TABLE_REMOVED] 
+
+ # Represents multiple foreign currency rates.  
+
+Our primary exposure to foreign currency denominated revenues less transaction rebates, brokerage, clearance and exchange fees and operating income for the year ended December 31, 2011 is presented in the following table:  
+
+  [DATA_TABLE_REMOVED] 
+
+ # Represents multiple foreign currency rates.  
+
+68  
+
+Table of Contents 
+
+Our investments in foreign subsidiaries are exposed to volatility in currency exchange rates through translation of the foreign subsidiaries net assets or equity to U.S. dollars. Substantially all of our foreign subsidiaries operate in functional currencies other than the U.S. dollar. Fluctuations in currency exchange rates may create volatility in our results of operations as we are required to translate the balance sheets and operational results of these foreign currency denominated subsidiaries into U.S. dollars for consolidated reporting. The translation of foreign subsidiaries non-U.S. dollar balance sheets into U.S. dollars for consolidated reporting results in a cumulative translation adjustment which is recorded in accumulated other comprehensive loss within stockholders equity in the Consolidated Balance Sheets.  
+
+Our primary exposure to net assets in foreign currencies as of December 31, 2012 is presented in the following table:  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1)   Includes goodwill of $3,359 million and intangible assets, net of $1,041 million.  
+
+Credit Risk  
+
+Credit risk is the potential loss due to the default or deterioration in credit quality of customers or counterparties. We are exposed to credit risk from third parties, including customers, counterparties and clearing agents. These parties may default on their obligations to us due to bankruptcy, lack of liquidity, operational failure or other reasons. We limit our exposure to credit risk by rigorously evaluating the counterparties with which we make investments and execute agreements. The financial investment portfolio objective is to invest in securities to preserve principal while maximizing yields, without significantly increasing risk. Credit risk associated with investments is minimized substantially by ensuring that these financial assets are placed with governments which have investment grade ratings, well-capitalized financial institutions and other creditworthy counterparties.  
+
+Our subsidiaries Nasdaq Execution Services and NASDAQ Options Services may be exposed to credit risk, due to the default of trading counterparties, in connection with the routing services they provide for our trading customers. System trades in cash equities routed to other market centers for members of The NASDAQ Stock Market are routed by Nasdaq Execution Services for clearing to NSCC. In this function, Nasdaq Execution Services is to be neutral by the end of the trading day, but may be exposed to intraday risk if a trade extends beyond the trading day and into the next day, thereby leaving Nasdaq Execution Services susceptible to counterparty risk in the period between accepting the trade and routing it to the clearinghouse. In this interim period, Nasdaq Execution Services is not novating like a clearing broker but instead is subject to the short-term risk of counterparty failure before the clearinghouse enters the transaction. Once the clearinghouse officially accepts the trade for novation, Nasdaq Execution Services is legally removed from risk. System trades in derivative contracts for the opening and closing cross and trades routed to other market centers are cleared by NASDAQ Options Services, as a member of the OCC. For these trades, novation is done at the end of the trading day, and settlement is complete by 10:00 am on the following day.  
+
+Pursuant to the rules of the NSCC and Nasdaq Execution Services clearing agreement, Nasdaq Execution Services is liable for any losses incurred due to a counterparty or a clearing agents failure to satisfy its contractual obligations, either by making payment or delivering securities. Pursuant to the rules of the OCC and NASDAQ Options Services clearing agreement, NASDAQ Options Services is liable for any losses incurred due to a counterparty or a clearing agents failure to satisfy its contractual obligations, either by making payment or delivering securities. Adverse movements in the prices of securities and derivative contracts that are subject to these transactions can increase our credit risk. However, we believe that the risk of material loss is limited, as Nasdaq Execution Services and NASDAQ Options Services customers are not permitted to trade on margin and NSCC and OCC rules limit counterparty risk on self-cleared transactions by establishing credit limits and capital deposit requirements for all brokers that clear with NSCC and OCC. Historically, neither Nasdaq Execution Services nor NASDAQ Options Services has incurred a liability due to a customers failure to satisfy its contractual obligations as counterparty to a system trade. Credit difficulties or insolvency, or the perceived possibility of credit difficulties or insolvency, of one or more larger or visible market participants could also result in market-wide credit difficulties or other market disruptions.  
+
+We are exposed to credit risk through our clearing operations with NASDAQ OMX Nordic Clearing, NOS Clearing, and riskless principal trading and clearing at NOCC. NOCC is the legal counterparty for each of their customers positions traded or cleared and thereby guarantee the fulfillment of each of their customers contracts. See Default Fund Contributions and Margin Collateral Received for Clearing Operations, of Off-Balance Sheet Arrangements, above, as well as Note 16, Clearing Operations for further discussion.  
+
+69  
+
+Table of Contents 
+
+We also have credit risk related to transaction revenues that are billed to customers on a monthly basis, in arrears. Our potential exposure to credit losses on these transactions is represented by the receivable balances in our Consolidated Balance Sheets. Most of our customers are financial institutions whose ability to satisfy their contractual obligations may be impacted by volatile securities markets.  
+
+On an ongoing basis, we review and evaluate changes in the status of our counterparties creditworthiness. Credit losses such as those described above could adversely affect our consolidated financial position and results of operations.  
+
+Critical Accounting Policies and Estimates  
+
+The preparation of Consolidated Financial Statements in conformity with U.S. GAAP requires management to use judgment in making estimates and assumptions that affect the reported amounts of assets and liabilities, disclosure of contingent assets and liabilities and the reported amounts of revenues and expenses. The following critical accounting policies are based on, among other things, judgments and assumptions made by management that include inherent risk and uncertainties. Managements estimates are based on the relevant information available at the end of each period. For a summary of our significant accounting policies, including the accounting policies discussed below, see Note 2, Summary of Significant Accounting Policies, to the consolidated financial statements for further discussion.  
+
+Revenue Recognition  
+
+Issuer Services Revenues  
+
+Global Listing Services  
+
+Listing Services revenues in the U.S. include annual renewal fees, listing of additional shares fees and initial listing fees. Annual renewal fees do not require any judgments or assumptions by management as these amounts are recognized ratably over the following 12-month period. However, listing of additional shares fees and initial listing fees are recognized on a straight-line basis over estimated service periods, which are four and six years, respectively, based on our historical listing experience and projected future listing duration. Unamortized balances are recorded as deferred revenue in the Consolidated Balance Sheets.  
+
+Market Technology Revenues  
+
+Revenues are primarily derived from license, support and facility management revenues, delivery project revenues, as well as change request, advisory and broker surveillance revenues.  
+
+We enter into multiple-element sales arrangements to provide technology solutions and services to our customers. In order to recognize revenues associated with each individual element of a multiple-element sales arrangement separately, we are required to establish the existence of VSOE of fair value for each element. When VSOE for individual elements of an arrangement cannot be established, revenue is generally deferred and recognized over either the final element of the arrangement or the entire term of the arrangement for which the services will be delivered.  
+
+License and support revenues are derived from the system solutions developed and sold by NASDAQ OMX that are generally entered into in multiple-element sales arrangements. After we have developed and sold a system solution, the customer licenses the right to use the software and may require post contract support and other services. Facility management revenues are also generally entered into in multiple-element sales arrangements and are derived when NASDAQ OMX assumes responsibility for the continuous operation of a system platform for a customer and receives facility management revenues which can be both fixed and volume-based. Revenues for license, support and facility management services are generally deferred and recognized over either the final element of the arrangement or the entire term of the arrangement for which the services will be delivered. We record the deferral of revenue associated with multiple-element sales arrangements in deferred revenue and non-current deferred revenue and the deferral of costs in other current assets and other non-current assets in the Consolidated Balance Sheets.  
+
+Delivery project revenues are derived from the installation phase of the system solutions developed and sold by NASDAQ OMX. The majority of our delivery projects involve individual adaptations to the specific requirements of the customer, such as those relating to functionality and capacity. We may customize our software technology and make significant modifications to the software to meet the needs of our customers, and as such, we account for these arrangements under contract accounting. Under contract accounting, when VSOE for valuing certain elements of an arrangement cannot be established, total revenues, as well as costs incurred, are deferred until the customization and significant modifications are complete and are then recognized over the post contract support period. We record the deferral of this revenue in deferred revenue and non-current deferred revenue and the deferral of costs in other current assets and other non-current assets in the Consolidated Balance Sheets.  
+
+70  
+
+Table of Contents 
+
+Change request, advisory and broker surveillance revenues do not require any judgments or assumptions by management as these amounts are recognized in revenue when earned.  
+
+Goodwill and Related Impairment  
+
+Goodwill represents the excess of purchase price over the value assigned to the net tangible and identifiable intangible assets of a business acquired. Goodwill is allocated to our reporting units based on the assignment of the fair values of each reporting unit of the acquired company. We test goodwill for impairment at the reporting unit level annually, or in interim periods if certain events occur indicating that the carrying amount may be impaired, such as changes in the business climate, poor indicators of operating performance or the sale or disposition of a significant portion of a reporting unit. We test for impairment during the fourth quarter of our fiscal year using carrying amounts as of October 1. In conducting the 2012 annual impairment test for goodwill, we first performed a qualitative assessment to determine whether it was more likely than not that the fair value of a reporting unit was less than the carrying amount as a basis for determining whether it was necessary to perform the two-step quantitative goodwill impairment test described in Financial Accounting Standards Board, or FASB, Accounting Standards Codification, or ASC, Topic 350, IntangiblesGoodwill and Other, or ASC Topic 350. The more-likely-than-not threshold is defined as having a likelihood of more than 50 percent. If, after assessing the totality of events or circumstances, we determine that it is more likely than not that the fair value of a reporting unit is less than its carrying amount, then the two-step quantitative test for goodwill impairment is performed for the appropriate reporting units. Otherwise, we conclude that no impairment is indicated and the two-step quantitative test for goodwill impairment is not performed.  
+
+In conducting the initial qualitative assessment, we analyzed actual and projected growth trends for each reporting unit, as well as historical performance versus plan and the results of prior quantitative tests performed. Additionally, each reporting unit assesses critical areas that may impact their business, including macroeconomic conditions and the related impact, market related exposures, competitive changes, new or discontinued products, changes in key personnel, or any other potential risks to their projected financial results.  
+
+If required, the quantitative goodwill impairment test is a two-step process performed at the reporting unit level. First, the fair value of each reporting unit is compared to its corresponding carrying amount, including goodwill. The fair value of each reporting unit is estimated using a combination of discounted cash flow valuation, which incorporates assumptions regarding future growth rates, terminal values, and discount rates, as well as guideline public company valuations, incorporating relevant trading multiples of comparable companies and other factors. The estimates and assumptions used consider historical performance and are consistent with the assumptions used in determining future profit plans for each reporting unit, which are approved by our board of directors. If the first step results in the carrying amount exceeding the fair value of the reporting unit, then a second step must be completed in order to determine the amount of goodwill impairment that should be recorded, if any. In the second step, the implied fair value of the reporting units goodwill is determined by allocating the reporting units fair value to all of its assets and liabilities other than goodwill in a manner similar to a purchase price allocation. The implied fair value of the goodwill that results from the application of this second step is then compared to the carrying amount of the goodwill and an impairment charge is recorded for any difference.  
+
+For our annual test of goodwill impairment in 2012, we considered the results of our 2011 and 2010 quantitative impairment tests, which indicated that the fair value of each reporting unit was in excess of its carrying amount. We also considered future financial projections, current market conditions, and any changes in the carrying amount of the reporting units.  
+
+At the time of our 2012 annual impairment test, our goodwill balance was $5.3 billion, of which $4.7 billion was attributable to our Market Services segment, $0.4 billion was attributable to our Issuer Services segment and $0.2 billion was attributable to our Market Technology segment.  
+
+We utilized the qualitative screen for Issuer Services and Market Technology, as the excesses of their fair values over their respective carrying amounts were significant. In conducting the qualitative assessment for these two reporting units, we evaluated future financial projections by management to determine if there were any changes in the key inputs used to determine the fair values of each reporting unit. We also considered the qualitative factors in ASC Topic 350, as well as other relevant events and circumstances. Based on the results of the qualitative assessment for each reporting unit, we concluded based on a preponderance of positive indicators and the weight of such indicators that the fair values of our Issuer Services and Market Technology reporting units are more likely than not greater than their respective carrying amounts and as a result, quantitative analyses were not needed. Therefore, no further testing of goodwill for impairment was performed for these reporting units for the year ended December 31, 2012.  
+
+Based on unfavorable domestic and international economic trends, particularly declining cash equity and derivative trading volumes, we bypassed the qualitative assessment for the Market Services reporting unit. We performed step one of the quantitative goodwill impairment test and determined that the fair value of our Market Services reporting unit exceeded its carrying amount. As a result, no goodwill impairment was recorded. The fair value of our Market Services reporting unit was determined using a combination of two equally weighted valuation methods, a market approach and an income approach. The market approach estimates  
+
+71  
+
+Table of Contents 
+
+ fair value by applying revenues, earnings and cash flow multiples to the Market Services reporting segments operating performance. The multiples are derived from comparable publicly-traded companies with similar operating and investment characteristics to our Market Services reporting unit. The market approach requires managements judgment to determine several valuation inputs, including the selection of comparable companies and control premium. The control premium is based on recent transactions in the marketplace. Under the income approach, we estimated future cash flows of our Market Services reporting unit based on internally generated forecasts of future financial performance. We determined a long-term growth rate for the terminal year period based on historical and expected inflation rates as well as managements estimate of the long-term growth of the business. We then discounted the projected cash flows using a weighted average cost of capital of 11.2%. The fair value of our Market Services reporting unit exceeded its carrying amount by less than 10%. Holding all other assumptions constant at the testing date, a 5% decrease in the estimated free cash flows of this reporting unit would not reduce the estimated fair value below the carrying amount. However, holding all other assumptions constant, a 50 basis point increase in the discount rate used in the testing of this reporting unit would reduce the estimated fair value below its carrying amount by 1%, indicating a possible impairment. Because step two of the impairment was not required for this reporting unit, it is not possible at this time to determine if a decrease in our valuation inputs would result in an impairment charge, or if such a charge would be material.  
+
+Although we believe our estimates of fair value are reasonable, the determination of certain valuation inputs is subject to managements judgment. Changes in these inputs could materially affect the results of our impairment review. If our forecast of cash flows generated by our Market Services reporting unit or other key inputs are negatively revised in the future, the estimated fair value of the Market Services reporting unit would be adversely impacted, potentially leading to an impairment in the future that could materially affect our operating results.  
+
+Subsequent to our annual impairment test, no indications of an impairment were identified.  
+
+Indefinite-Lived Intangible Assets and Related Impairment  
+
+Intangible assets deemed to have indefinite useful lives are not amortized but instead are tested for impairment at least annually and more frequently whenever events or changes in circumstances indicate that the fair value of the asset may be less than its carrying amount. The fair value of indefinite-lived intangible assets is primarily determined on the basis of estimated discounted value, using the relief from royalty approach for trade names and the Greenfield Approach for exchange and clearing registrations and licenses, both of which incorporate assumptions regarding future revenue projections and discount rates. Similar to goodwill impairment testing, we test for impairment of indefinite-lived intangible assets during the fourth quarter of our fiscal year using carrying amounts as of October 1. In conducting the 2012 annual impairment test for indefinite-lived intangible assets, we first performed a qualitative assessment to determine whether it was more likely than not that the fair value of an indefinite-lived intangible asset was less than the carrying amount as a basis for determining whether it was necessary to perform the quantitative impairment test described in ASC Topic 350. The more-likely-than-not threshold is defined as having a likelihood of more than 50 percent. If, after assessing the totality of events or circumstances, we determine that it is more likely than not that the fair value of an indefinite-lived intangible asset is less than its carrying amount, then the quantitative test for indefinite-lived intangible assets impairment is performed for the appropriate intangible assets. If the carrying amount of the indefinite-lived intangible asset exceeds its fair value, an impairment charge is recorded for the difference.  
+
+Other Long-Lived Assets and Related Impairment  
+
+We also assess potential impairments to our other long-lived assets, including finite-lived intangible assets, equity method investments, property and equipment and other assets, when there is evidence that events or changes in circumstances indicate that the carrying amount of an asset may not be recovered. An impairment loss is recognized when the carrying amount of the long-lived asset exceeds its fair value and is not recoverable. The carrying amount of a long-lived asset is not recoverable if it exceeds the sum of the undiscounted cash flows expected to result from the use and eventual disposition of the asset. We evaluate our equity method investments for other-than-temporary declines in value by considering a variety of factors such as the earnings capacity of the investment and the fair value of the investment compared to its carrying amount. In addition, for investments where the market value is readily determinable, we consider the underlying stock price as an additional factor. Any required impairment loss is measured as the amount by which the carrying amount of a long-lived asset exceeds its fair value and is recorded as a reduction in the carrying amount of the related asset and a charge to operating results.  
+
+Amortization Periods of Intangible Assets with Finite-Lives  
+
+Intangible assets, net, primarily include exchange and clearing registrations, customer relationships, trade names, licenses and technology. Intangible assets with finite-lives are amortized on a straight-line basis over their average estimated useful lives as follows:  
+
+       Technology: 35 years  
+
+       Customer relationships: 1030 years  
+
+       Other: 210 years  
+
+72  
+
+Table of Contents 
+
+The estimated useful life of developed and new technology is based on the likely duration of benefits to be derived from the technology. We consider such factors as the migration cycle for re-platforming existing technologies and the development of future generations of technology. We also give consideration to the pace of the technological changes in the industries in which we sell our products.  
+
+The estimated useful life of customer relationships is determined based on an analysis of the historical attrition rates of customers and an analysis of the legal, regulatory, contractual, competitive, economic, or other factors that limit the useful life of customer relationships.  
+
+See Note 4, Acquisitions and Divestitures, and Note 5, Goodwill and Purchased Intangible Assets, to the consolidated financial statements for further discussion of intangible assets.  
+
+Income Taxes  
+
+Estimates and judgments are required in the calculation of certain tax liabilities and in the determination of the recoverability of certain deferred tax assets, which arise from net operating loss carryforwards, tax credit carryforwards and temporary differences between the tax and financial statement recognition of revenue and expense. Our deferred tax assets are reduced by a valuation allowance if it is more likely than not that some portion or all of the recorded deferred tax assets will not be realized in future periods. Management is required to determine whether a tax position is more likely than not to be sustained upon examination, including resolution of any related appeals or litigation processes, based on the technical merits of the position. Once it is determined that a position meets the recognition thresholds, the position is measured to determine the amount of benefit to be recognized in the consolidated financial statements. Interest and/or penalties related to income tax matters are recognized in income tax expense.  
+
+In assessing the need for a valuation allowance, we consider all available evidence including past operating results, the existence of cumulative losses in the most recent fiscal years, estimates of future taxable income and the feasibility of tax planning strategies. In the event that we change our determination as to the amount of deferred tax assets that can be realized, we will adjust our valuation allowance with a corresponding impact to the provision for income taxes in the period in which such determination is made.  
+
+In addition, the calculation of our tax liabilities involves uncertainties in the application of tax regulations in the U.S. and other tax jurisdictions. We recognize potential liabilities for anticipated tax audit issues in such jurisdictions based on our estimate of whether, and the extent to which, additional taxes and interest may be due. While we believe that our tax liabilities reflect the probable outcome of identified tax uncertainties, it is reasonably possible that the ultimate resolution of any tax matter may be greater or less than the amount accrued. If events occur and the payment of these amounts ultimately proves unnecessary, the reversal of the liabilities would result in tax benefits being recognized in the period when we determine the liabilities are no longer necessary. If our estimate of tax liabilities proves to be less than the ultimate assessment, a further charge to expense would result.  
+
+Pension and Post-Retirement Benefits  
+
+Pension and other post-retirement benefit plan information for financial reporting purposes is developed using actuarial valuations. We assess our pension and other post-retirement benefit plan assumptions on a regular basis. In evaluating these assumptions, we consider many factors, including evaluation of the discount rate, expected rate of return on plan assets, healthcare cost trend rate, retirement age assumption, our historical assumptions compared with actual results and analysis of current market conditions and asset allocations. See Note 11, Employee Benefits, to the consolidated financial statements for further discussion.  
+
+Discount rates used for pension and other post-retirement benefit plan calculations are evaluated annually and modified to reflect the prevailing market rates at the measurement date of a high-quality fixed-income debt instrument portfolio that would provide the future cash flows needed to pay the benefits included in the benefit obligations as they come due. Actuarial assumptions are based upon managements best estimates and judgment.  
+
+The expected rate of return on plan assets for our U.S. pension plans represents our long-term assessment of return expectations which may change based on significant shifts in economic and financial market conditions. The long-term rate of return on plan assets is derived from return assumptions based on targeted allocations for various asset classes. While we consider the pension plans recent performance and other economic growth and inflation factors, which are supported by long-term historical data, the return expectations for the targeted asset categories represents a long-term prospective return.  
+
+Share-Based Compensation  
+
+The accounting for share-based compensation requires the measurement and recognition of compensation expense for all share-based awards made to employees based on estimated fair values. Share-based awards, or equity awards, include employee stock options, restricted stock and performance share units, or PSUs. Restricted stock awards generally refer to restricted stock units.  
+
+73  
+
+Table of Contents 
+
+We estimate the fair value of employee stock options using the Black-Scholes valuation model. Assumptions used in the Black-Scholes valuation model include the expected life of the award, the weighted-average risk-free rate, the expected volatility, and the dividend yield. Our computation of expected life is based on historical exercise patterns. The risk-free interest rate for periods within the expected life of the award is based on the U.S. Treasury yield curve in effect at the time of grant. Our computation of expected volatility is based on a market-based implied volatility.  
+
+See Note 12, Share-Based Compensation, to the consolidated financial statements for further discussion.  
+
+Software Costs  
+
+We capitalize and amortize significant purchased application software and operational software that are an integral part of computer hardware on the straight-line method over their estimated useful lives, generally two to five years. We expense other purchased software as incurred.  
+
+Certain costs incurred in connection with developing or obtaining internal use software are capitalized. We capitalize internal and third party costs incurred in connection with the development of internal use software.  
+
+Under our Market Technology segment, costs of computer software to be sold, leased, or otherwise marketed as a separate product or as part of a product or process are capitalized after the product has reached technological feasibility. Technological feasibility is established upon completion of a detail program design or, in its absence, completion. Thereafter, all software production costs shall be capitalized. Prior to reaching technological feasibility, all costs are charged to expense. Capitalized costs are amortized on a straight-line basis over the remaining estimated economic life of the product and are included in depreciation and amortization expense in the Consolidated Statements of Income.  
+
+Foreign Currency Translation  
+
+Foreign denominated assets and liabilities are remeasured into the functional currency at exchange rates in effect at the balance sheet date through the income statement. Gains or losses resulting from foreign currency transactions are remeasured using the rates on the dates on which those elements are recognized during the period, and are included in general, administrative and other expense in the Consolidated Statements of Income.  
+
+Translation gains or losses resulting from translating our subsidiaries financial statements from the local functional currency to the reporting currency, net of tax, are included in accumulated other comprehensive loss within stockholders equity in the Consolidated Balance Sheets. Assets and liabilities are translated at the balance sheet date while revenues and expenses are recorded at the date the transaction occurs or at an applicable average rate.  
+
+Deferred taxes are not provided on cumulative translation adjustments where we expect earnings of a foreign subsidiary to be indefinitely reinvested. The income tax effect of currency translation adjustments related to foreign subsidiaries that are not considered indefinitely reinvested is recorded as a component of deferred taxes with an offset to accumulated other comprehensive loss within stockholders equity in the Consolidated Balance Sheets.  
+
+Recently Adopted Accounting Pronouncements  
+
+ASC Topic 820In May 2011, the FASB issued amended guidance relating to ASC Topic 820 which requires the categorization by level of the fair value hierarchy for items not measured at fair value on our Consolidated Balance Sheets, but for which the fair value is disclosed. This accounting guidance was effective for us on January 1, 2012. Since this guidance only required additional disclosure, it did not affect our financial position or results of operations.   
+
+ASC Topic 220In June 2011, the FASB issued amended guidance relating to ASC Topic 220, Comprehensive Income, or ASC Topic 220, which eliminates the option to present the components of other comprehensive income as part of the statement of equity. Instead, the amended guidance requires entities to report components of comprehensive income in either a single continuous statement of comprehensive income containing two sections, net income and other comprehensive income, or in two separate but consecutive statements. This accounting guidance was effective for us on January 1, 2012 with early adoption permitted. We adopted this guidance as of June 30, 2011 and present two separate but consecutive statements presenting the components of comprehensive income. Since this guidance only required a change in the format of the presentation of comprehensive income, it did not affect our financial position or results of operations.  
+
+ASC Topic 350In September 2011, the FASB issued amended guidance relating to ASC Topic 350, which affects all entities that have goodwill reported in the financial statements. The amended guidance permits an entity to first assess qualitative factors to determine whether it is more likely than not that the fair value of a reporting unit is less than the carrying amount as a basis for determining whether it is necessary to perform the two-step quantitative goodwill impairment test described in ASC Topic 350. The more-likely-than-not threshold is defined as having a likelihood of more than 50 percent. If, after assessing the totality of events or  
+
+74  
+
+Table of Contents 
+
+ circumstances, an entity determines that it is more likely than not that the fair value of a reporting unit exceeds its carrying amount, then performing the two-step impairment test is unnecessary. This accounting guidance was effective for us on January 1, 2012 with early adoption permitted. We adopted this guidance as of September 30, 2011 and used the qualitative assessment option for our annual goodwill impairment test performed for fiscal 2011. For testing procedures and results, see Goodwill, of Note 2, Summary of Significant Accounting Policies, to the consolidated financial statements. Since this guidance only changed the manner in which we assess goodwill for impairment, it did not affect our financial position or results of operations.  
+
+In July 2012, the FASB issued amended guidance relating to ASC Topic 350, which permits an entity to first assess qualitative factors to determine whether it is more likely than not that an indefinite-lived intangible asset is impaired as a basis for determining whether it is necessary to perform the quantitative impairment test in accordance with ASC Topic 350. The more-likely-than-not threshold is defined as having a likelihood of more than 50 percent. If, after assessing the totality of events and circumstances, an entity concludes that it is not more likely than not that the indefinite-lived intangible asset is impaired, then no further action is required. This accounting guidance is effective for us on January 1, 2013 with early adoption permitted. We adopted this guidance as of September 30, 2012 and used the qualitative assessment options for our annual indefinite-lived intangible asset impairment test performed for fiscal 2012. For testing procedures and results, see Intangible Assets, net, of Note 2, Summary of Significant Accounting Policies, to the consolidated financial statements. Since this guidance only changes the manner in which we assess indefinite-lived intangible assets for impairment, it did not affect our financial position or results of operations.  
+
+Summarized Quarterly Financial Data (Unaudited)  
+
+  [DATA_TABLE_REMOVED] 
+
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk.

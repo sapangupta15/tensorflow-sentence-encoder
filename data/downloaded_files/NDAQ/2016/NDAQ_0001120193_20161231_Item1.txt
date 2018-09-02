@@ -1,0 +1,382 @@
+Part I
+
+Item 1. Business 
+
+Overview
+
+Nasdaq, Inc. is a leading provider of trading, clearing, exchange technology, regulatory, securities listing, information and public company services. Our global offerings are diverse and include trading and clearing across multiple asset classes, trade management services, data products, financial indexes, capital formation solutions, corporate solutions, and market technology products and services. Our technology powers markets across the globe, supporting equity derivative trading, clearing and settlement, cash equity trading, fixed income trading and many other functions.
+
+History
+
+Nasdaq was founded in 1971 as a wholly-owned subsidiary of FINRA. Beginning in 2000, FINRA restructured and broadened ownership in Nasdaq by selling shares to FINRA members, investment companies and issuers listed on The Nasdaq Stock Market. In connection with this restructuring, FINRA fully divested its ownership of Nasdaq in 2006, and The Nasdaq Stock Market became fully operational as an independent registered national securities exchange in 2007. In 2006, Nasdaq also reorganized its operations into a holding company structure.
+
+In February 2008, Nasdaq and OMX AB combined their businesses. This transformational combination resulted in the expansion of our business from a U.S.-based exchange operator to a global exchange company offering technology that powers our own exchanges and markets as well as many other marketplaces around the world. In connection with this acquisition, we changed our corporate name to The NASDAQ OMX Group, Inc. We operated under this name until we rebranded our business as Nasdaq, Inc. in 2015.
+
+Since 2008, in addition to growing organically, we have executed multiple acquisitions that have expanded our operations globally and increasingly diversified our product and service offerings. These acquisitions included, among others, the Philadelphia Stock Exchange, Inc. in 2008, SMARTS in 2010, eSpeed and the TR Corporate businesses in 2014 and ISE in 2016.
+
+Products and Services
+
+We manage, operate and provide our products and services in four business segments: Market Services, Corporate Services, Information Services and Market Technology. In 2016, due to changes in our executive leadership and to better reflect how our chief operating decision maker views the businesses, we realigned our reportable segments to integrate the Corporate Solutions and Listing Services businesses into our new Corporate Services segment. Market Technology is now a separate reportable segment. Prior to this change, our Corporate Solutions and Market Technology businesses were part of our Technology Solutions segment. All prior period segment 
+
+disclosures have been recast to reflect our change in reportable segments. 
+
+See Note 1, “Organization and Nature of Operations,” and Note 19, “Business Segments,” to the consolidated financial statements for additional financial information about our reportable segments and geographic data.
+
+Market Services
+
+Our Market Services segment includes our Equity Derivative Trading and Clearing, Cash Equity Trading, FICC and Trade Management Services businesses. Our FICC business was formerly referred to as fixed income, currency and commodities trading and clearing, and our Trade Management Services business was formerly referred to as access and broker services.
+
+We operate multiple exchanges and other marketplace facilities across several asset classes, including derivatives, commodities, cash equity, debt, structured products and ETPs. In addition, in some countries where we operate exchanges, we also provide broker services, clearing, settlement and central depository services. Our transaction-based platforms provide market participants with the ability to access, process, display and integrate orders and quotes. The platforms allow the routing and execution of buy and sell orders as well as the reporting of transactions, providing fee-based revenues.
+
+Equity Derivative Trading and Clearing
+
+Following our acquisition of ISE, we now operate six electronic options exchanges in the U.S.: Nasdaq PHLX, The Nasdaq Options Market, Nasdaq BX Options, Nasdaq ISE, Nasdaq GMNI and Nasdaq MCRY. These exchanges facilitate the trading of equity options, ETF options, index options and foreign currency options. For the year ended December 31, 2016, our options exchanges had a combined matched market share of 31.6% in the U.S. equity options market, consisting of 16.0% at Nasdaq PHLX, 7.8% at The Nasdaq Options Market, 0.8% at Nasdaq BX Options, 5.8% at Nasdaq ISE, 1.1% at Nasdaq GMNI and 0.1% at Nasdaq MCRY. Together, our combined market share represented the largest share of the U.S. market for multiply-listed options on equities and ETFs. Our options trading platforms provide trading opportunities to both retail investors, algorithmic trading firms and market makers, who tend to prefer electronic trading, and institutional investors, who typically pursue more complex trading strategies and often trade on the floor.
+
+In Europe, Nasdaq offers trading in derivatives, such as stock options and futures, index options and futures and fixed-income options and futures. Nasdaq Clearing offers clearing services for fixed-income options and futures, stock options and futures, index options and futures, and interest rate swaps by serving as the CCP. Nasdaq Clearing also operates a clearing service for the resale and repurchase agreement market.
+
+Cash Equity Trading
+
+In the U.S., we operate three cash equity exchanges: The Nasdaq Stock Market, Nasdaq BX and Nasdaq PSX. The Nasdaq Stock 
+
+2
+Market is the largest single venue of liquidity for trading U.S.-listed cash equities. For the year ended December 31, 2016, our cash equity exchanges had a combined matched market share of 17.4% in the U.S. cash equity market, consisting of 14.0% at The Nasdaq Stock Market, 2.4% at Nasdaq BX and 1.0% at Nasdaq PSX.
+
+Our U.S. cash equity exchanges offer trading of both Nasdaq-listed and non-Nasdaq-listed securities. Market participants include market makers, broker-dealers, ATSs and registered securities exchanges.
+
+In February 2016, we acquired Chi-X Canada ATS Limited, a leading alternative market in Canada for the trading of Canadian-listed securities. With this acquisition, which expanded Nasdaq’s Cash Equity Trading business in North America, Nasdaq offers two lit markets and one dark market for the trading of Canadian-listed securities. Effective June 1, 2016, we changed the name of Chi-X Canada to Nasdaq CXC. 
+
+In Europe, Nasdaq operates exchanges in Stockholm (Sweden), Copenhagen (Denmark), Helsinki (Finland), and Reykjavik (Iceland). We also operate exchanges in Tallinn (Estonia), Riga (Latvia) and Vilnius (Lithuania). Nasdaq owns Nasdaq Tallinn and has a majority ownership in Nasdaq Vilnius and Nasdaq Riga. In addition, Nasdaq owns the central securities depositories in Estonia, Latvia and Lithuania.
+
+Collectively, the Nasdaq Nordic and Nasdaq Baltic exchanges offer trading in cash equities and depository receipts, warrants, convertibles, rights, fund units and exchange traded funds. Our platform allows the exchanges to share the same trading system, which enables efficient cross-border trading and settlement, cross membership and a single source for Nordic data products. Settlement and registration of cash equity trading takes place in Sweden, Finland, Denmark and Iceland via the local central securities depositories.
+
+FICC
+
+Our FICC business includes the Nasdaq Fixed Income business, NFX and Nasdaq Commodities.
+
+In early 2017, we announced a new fixed income strategy under new leadership. The repositioning, which is designed to enhance the customer experience, brings our U.S. and European fixed income products and services together under a single brand called Nasdaq Fixed Income.
+
+The U.S. portion of Nasdaq Fixed Income includes the business formerly known as eSpeed, an electronic platform for trading U.S. Treasuries that we acquired in June 2013. The electronic trading platform provides real-time institutional trading of benchmark U.S. Treasury securities. Through this business, we provide trading access to the U.S. Treasury securities market with an array of trading instruments to meet various investment goals across the fixed income spectrum.
+
+The European portion of Nasdaq Fixed Income provides a wide range of products and services, such as listing, trading, and clearing, for fixed income products in Sweden, Denmark, Finland and Iceland. Nasdaq Stockholm is the largest bond listing venue in the Nordics, with more than 8,300 listed retail 
+
+and institutional bonds. In addition, Nasdaq Nordic facilitates the trading and clearing of Nordic fixed income derivatives in a unique market structure. Buyers and sellers agree to trades in fixed income derivatives through bilateral negotiations and then report those trades to Nasdaq Clearing for CCP clearing. Nasdaq Clearing acts as the counterparty to both the buyer and seller.
+
+Nasdaq Commodities is the brand name for Nasdaq’s worldwide suite of commodity-related products and services. Nasdaq Commodities’ offerings include oil, power, natural gas and carbon emission markets, tanker and dry cargo freight, seafood derivatives, iron ore, electricity certificates and clearing services. The products are listed on two of Nasdaq’s derivatives exchanges.
+
+Nasdaq Oslo ASA, which is authorized by the Norwegian Ministry of Finance and supervised by the Norwegian Financial Supervisory Authority, is the commodity derivatives exchange for European products and freight. All trades with Nasdaq Oslo ASA are subject to clearing with Nasdaq Clearing, which is a CCP authorized under EMIR by the SFSA to conduct clearing operations. 
+
+We also operate NFX, our U.S. based energy derivatives market. NFX, which is a designated contract market authorized by the CFTC, offers cash-settled energy derivatives based on key energy benchmarks including oil, natural gas and U.S. power. All trades with NFX are subject to clearing with OCC.
+
+Trade Management Services
+
+We provide market participants with a wide variety of alternatives for connecting to and accessing our markets for a fee. Shifting connectivity from proprietary networks to third-party networks has significantly reduced technology and network costs and increased our systems’ scalability while maintaining performance and reliability.
+
+Our marketplaces may be accessed via a number of different protocols used for quoting, order entry, trade reporting, DROP functionality and connectivity to various data feeds. We also offer the Nasdaq Workstation, a browser-based, front-end interface that allows market participants to view data and enter orders, quotes and trade reports. In addition, we offer a variety of add-on compliance tools to help firms comply with regulatory requirements.
+
+We provide co-location services to market participants, whereby firms may lease cabinet space and power to house their own equipment and servers within our data centers. These participants are charged monthly fees for cabinet space, connectivity and support. Additionally, we offer a number of wireless connectivity routes between select data centers using millimeter wave and microwave technology. We also earn revenues from annual and monthly exchange membership and registration fees.
+
+Our broker services operations offer technology and customized securities administration solutions to financial participants in the Nordic market. Broker services provides services through a registered securities company that is regulated by the SFSA. Services primarily consist of flexible 
+
+3
+back-office systems, which allow customers to entirely or partly outsource their company’s back-office functions.
+
+We offer customer and account registration, business registration, clearing and settlement, corporate action handling for reconciliations and reporting to authorities. Available services also include direct settlement with the Nordic central securities depositories, real-time updating and communication via the Society for Worldwide Interbank Financial Telecommunication to deposit banks.
+
+Corporate Services
+
+Corporate Solutions
+
+Our Corporate Solutions business serves corporate clients, including companies listed on our exchanges and private companies. We help organizations manage the two-way flow of information with their key constituents, including their board members and investors, and with clients and the public through our suite of advanced technology, analytics, and consultative services. In 2013, we acquired the TR Corporate businesses, which were integrated into our Corporate Solutions business.
+
+We provide Corporate Solutions products and services in the following key areas: 
+
+•Investor Relations. We offer investor relations content, analytics, advisory services and communications tools, including investor relations webcasting, press release services, and websites. Our solutions make it easier for companies to interact and communicate with analysts and investors while meeting corporate governance and disclosure requirements. In early 2016, we launched Nasdaq IR Insight, our new investor relations platform.
+
+•Public Relations. We offer solutions to help clients identify, reach, monitor and measure their public relations program. We provide traditional and social media contacts databases, backed by our internal research analysts. Our press release distribution network allows clients to reach global audiences cost-effectively. Our suite of technology solutions and expert analysts help clients monitor key news media for their brand, reputation, products, as well as industry competitors, and measure the success of their communications programs. In February 2016, we acquired Marketwired, a global newswire operator and press release distributor that is being integrated into this business.
+
+•Multimedia Solutions. We offer a platform and services which enable our customers to produce webcasts for a wide range of applications, including investor relations, public relations, marketing and internal communications. 
+
+•Governance. We offer a secure collaboration platform for boards of directors or any team collaborating on confidential initiatives. Our solutions protect sensitive data and facilitate productive collaboration, so board members and teams can work faster and more effectively. In May 2016, we acquired Boardvantage, a leading provider of collaboration and meeting productivity tools for boards of directors and executive leadership teams. This acquisition is being integrated into our governance business.
+
+We currently have approximately 18,000 Corporate Solutions clients.
+
+Listing Services
+
+We operate a variety of listing platforms around the world to provide multiple global capital raising solutions for private and public companies. Companies listed on our markets represent a diverse array of industries including, among others, health care, consumer products, telecommunication services, information technology, financial services, industrials and energy. Our main listing markets are The Nasdaq Stock Market and the Nasdaq Nordic and Nasdaq Baltic exchanges.
+
+Companies seeking to list securities on The Nasdaq Stock Market must meet minimum listing requirements, including specified financial and corporate governance criteria. Once listed, companies must meet continued listing standards. The Nasdaq Stock Market currently has three listing tiers: The Nasdaq Global Select Market, The Nasdaq Global Market and The Nasdaq Capital Market. All three market tiers maintain rigorous listing and corporate governance standards (both initial and ongoing).
+
+As of December 31, 2016, a total of 2,897 companies listed securities on The Nasdaq Stock Market, with 1,443 listings on The Nasdaq Global Select Market, 783 on The Nasdaq Global Market and 671 on The Nasdaq Capital Market.
+
+We aggressively pursue new listings from companies, including those undergoing IPOs as well as companies seeking to switch from alternative exchanges. In 2016, The Nasdaq Stock Market attracted 283 new listings, including 91 IPOs, 73% of U.S. IPOs in 2016. The new listings were comprised of the following:
+
+[DATA_TABLE_REMOVED]
+
+The 20 NYSE- or NYSE MKT-listed companies that switched to The Nasdaq Stock Market, represented approximately $61 billion in market capitalization. Notable switches included IHS Markit Ltd., Imperva, Inc., OPKO Health, Inc. and Scripps Networks Interactive, Inc.
+
+We also offer listings on the exchanges that comprise Nasdaq Nordic and Nasdaq Baltic. For smaller companies and growth companies, we offer access to the financial markets through the Nasdaq First North alternative marketplaces. As of December 31, 2016, a total of 900 companies listed securities on our Nordic and Baltic exchanges and Nasdaq First North.
+
+Our European listing customers include companies, funds and governments. Customers issue securities in the form of cash equities, depository receipts, warrants, ETPs, convertibles, rights, options, bonds or fixed-income related products. In 2016, a total of 88 new companies listed on our Nordic and 
+
+4
+Baltic exchanges and Nasdaq First North. In addition, seven companies upgraded their listings from Nasdaq First North to the Nordic and Baltic exchanges.
+
+Our Listing Services business also includes NPM, which provides services for private companies.
+
+Information Services
+
+Our Information Services segment includes our Data Products and our Index Licensing and Services businesses.
+
+Data Products
+
+Our Data Products business sells and distributes historical and real-time quote and trade information to market participants and data distributors. Our data products enhance transparency of the market activity within the exchanges that we operate and provide critical information to professional and nonprofessional investors globally.
+
+We collect, process and create information and earn revenues as a distributor of our own, as well as select, third-party content. We provide varying levels of quote and trade information to market participants and to data distributors, who in turn provide subscriptions for this information. Our systems enable distributors to gain access to our market depth, index values, mutual fund valuation, order imbalances, market sentiment and other analytical data. 
+
+We distribute this proprietary market information to both market participants and non-participants through a number of proprietary products, including Nasdaq TotalView, our flagship market depth quote product. TotalView shows subscribers quotes, orders and total anonymous interest at every price level in The Nasdaq Stock Market for Nasdaq-listed securities and critical data for the opening, closing, halt and IPO crosses. We also offer TotalView products for our Nasdaq BX, Nasdaq PSX, Nasdaq Fixed Income and Nordic markets.
+
+We operate several other proprietary services and data products to provide market information, including Nasdaq Basic, a low cost alternative to the industry Level 1 feed, Ultrafeed, a normalized high speed, consolidated data feed offering, and DWA’s web-based advisor tools. We also provide options, futures, commodities, U.S. Treasury, indexes and mutual fund data. 
+
+Our Data Products business also includes revenues from U.S. tape plans. The Nasdaq Stock Market acts as the processor and administrator for the UTP Plan. The UTP Plan administrator sells quotation and last sale information for all transactions in Nasdaq-listed securities, whether traded on The Nasdaq Stock Market or other exchanges, to market participants and to data distributors, who then provide the information to subscribers. After deducting costs, as permitted under the revenue sharing provision of the UTP Plan, the UTP Plan administrator distributes the tape revenues to the respective UTP Plan participants, including The Nasdaq Stock Market, Nasdaq BX and Nasdaq PSX, based on a formula required by Regulation NMS that takes into account both trading and quoting activity. In addition, much like Nasdaq-listed securities, all quotes and 
+
+trades in NYSE- and NYSE MKT-listed securities are reported and disseminated in real-time, and as such, we share in the tape revenues for information on NYSE- and NYSE MKT-listed securities.
+
+The Nasdaq Nordic and Nasdaq Baltic exchanges, as well as Nasdaq Commodities, also offer data products and services. These data products and services provide critical market transparency to professional and non-professional investors who participate in European marketplaces and, at the same time, give investors greater insight into these markets.
+
+Much like the U.S. products, European data products and services are based on trading information from the Nasdaq Nordic and Nasdaq Baltic exchanges, as well as Nasdaq Commodities, for the following classes of assets: cash equities, bonds, derivatives and commodities. We provide varying levels of quote and trade information to market participants and to data distributors, who in turn provide subscriptions for this information.
+
+In addition, the ISE options exchanges and Nasdaq CXC have data businesses that Information Services now manages and distributes.
+
+Significant European data products include Nordic Equity TotalView, Nordic Derivative TotalView, and Nordic Fixed Income TotalView, Level 2, Analytics and Fixings.
+
+Finally, we provide index data products based on Nasdaq indexes. Index data products include our Global Index Data Service, which delivers real-time index values throughout the trading day, and Global Index Watch/Global Index File Delivery Service, which delivers weightings and components data, corporate actions and a breadth of additional data.
+
+Index Licensing and Services
+
+Our Index Licensing and Services business is a leading index provider that develops and licenses Nasdaq branded indexes, associated derivatives and financial products. We also provide custom calculation services for third-party clients. License fees for our trademark licenses vary by product based on a percentage of underlying assets, dollar value of a product issuance, number of products or number of contracts traded. We also license cash-settled options, futures and options on futures on our indexes.
+
+As of December 31, 2016, we had 298 ETPs licensed to Nasdaq’s indexes which had over $124 billion of assets under management. Our flagship index, the Nasdaq-100 Index, includes the top 100 non-financial securities listed on The Nasdaq Stock Market.
+
+We also operate the Nasdaq Global Index Family, which includes more than 40,000 indexes. The Nasdaq Global Index Family represents more than 98% of the global equity investable marketplace. The family consists of global securities broken down by market segment, region, country, size and sector. The Nasdaq Global Index Family covers 45 countries and approximately 9,000 securities.
+
+5
+DWA, a market leader in data analytics, passive indexing and smart beta strategies, adds to Nasdaq’s robust index portfolio, bringing model-based strategies and analysis to support the financial advisor community, and further strengthens Nasdaq’s position as a leading smart beta index provider in the U.S. As of December 31, 2016, there are $54 billion in assets under management in ETPs that track Nasdaq smart beta indexes. 
+
+Market Technology 
+
+Powering more than 85 marketplaces in 50 countries, our Market Technology business is a leading global technology solutions provider and partner to exchanges, clearing organizations, central securities depositories, regulators, banks, brokers and corporate businesses. Our Market Technology business is the sales channel for our complete global offering to other marketplaces.
+
+During 2016, we launched the Nasdaq Financial Framework to deliver to our Market Technology clients a single operational core that ties together Nasdaq’s portfolio of technology offerings across the trade lifecycle. This portfolio includes technology solutions for trading, clearing, settlement, surveillance and information dissemination to markets with wide-ranging requirements, from the leading markets in the U.S., Europe and Asia to emerging markets in the Middle East, Latin America and Africa. Our marketplace solutions can handle a wide array of assets, including cash equities, equity derivatives, currencies, various interest-bearing securities, commodities and energy products.
+
+Our trading and data solutions are utilized by exchanges, alternative-trading venues, banks and securities brokers with marketplace offerings of their own. In the post-trade stage, we offer integrated systems solutions for clearing (risk management) and settlement (settlement and delivery) of both cash equities and derivatives to clearing organizations around the world. 
+
+Nasdaq’s market technology is utilized by, among others, ASX Limited, Bolsa de Valores de Colombia, Borsa Istanbul A.Ş., Borse Dubai Limited, Bursa Malaysia Berhad, Egyptian Exchange, Hong Kong Exchanges and Clearing Limited, Japan Exchange Group, Inc., NEX Group plc, SBI Japannext Co., Ltd., Singapore Exchange Ltd., SIX Swiss Exchange Ltd and Tokyo Commodity Exchange, Inc.
+
+A central part of many projects is facility management and systems integration. Through our integration services, we can assume responsibility for projects involving migration to a new system and the establishment of entirely new marketplaces. We also offer operation and support for the applications, systems platforms, networks and other components included in a turn-key information technology solution, as well as advisory services.
+
+We also offer broker services through SMARTS. SMARTS is a managed service designed for brokers and other market participants to assist them in complying with market rules, regulations and internal market surveillance policies.
+
+Finally, through BWise, we offer enterprise governance, risk management and compliance software and services to help companies track, measure and manage key organizational risks.
+
+Competition
+
+Market Services
+
+We face intense competition in North America and Europe in businesses that comprise our Market Services segment. We seek to provide market participants with greater functionality, trading system stability, speed of execution, high levels of customer service, and efficient pricing. In both North America and Europe, our competitors include other exchange operators, operators of non-exchange (less-heavily regulated) trading systems and banks and brokerages that operate their own internal trading pools and platforms.
+
+Examples of registered exchanges that compete with our options markets in the U.S. include: Bats BZX Exchange, Inc., or Bats BZX; Bats EDGX Exchange, Inc., or Bats EDGX; BOX Options Exchange LLC; Chicago Board Options Exchange, Incorporated, or CBOE; C2 Options Exchange, Incorporated; Miami International Securities Exchange; MIAX Pearl, LLC, or MIAX Pearl; NYSE Arca, Inc., or NYSE Arca; and NYSE MKT, which operates the NYSE Amex options business. Examples of registered exchanges competing with our cash equities markets in the U.S. include: Bats BYX Exchange, Inc., or Bats BYX; Bats BZX; Bats EDGA Exchange, Inc., or Bats EDGA; Bats EDGX; NYSE; NYSE Arca; NYSE MKT; and The Investors Exchange LLC. In addition to competition from these exchanges, we face competition from ATSs and other less-heavily regulated broker-owned systems, some of which are also known as “dark pools,” and from other types of OTC trading. 
+
+Registered exchanges that compete with our cash equities markets in Europe include: BATS Trading Limited; Euronext N.V.; Deutsche Börse A.G.; and London Stock Exchange Group plc, or LSE. We also intensely compete with MTFs, such as that operated by Turquoise Global Holdings Limited. Examples of our competitors in the trading and clearing of options and futures on European equities include: the Eurex Group companies operated by Deutsche Börse A.G., or Eurex; ICE Futures Europe; and the MTF operated by Turquoise Global Holdings Limited. Competition among exchanges for trading European equity derivatives tends to occur where there is competition in the trading of the underlying equities. In addition to exchange-based competition, we face competition from OTC derivative markets.
+
+The implementation of MiFID II and MiFIR over the next several years is expected to lead to further competitive pressure on our European trading business. MTFs are already attracting a significant share of electronically matched volume. With the regulatory environment likely to become more favorable to alternative trading venues, we expect such venues to compete aggressively for the trading of equity securities listed on our Nordic exchanges. Electronic trading systems pursuing block business will also remain active in Europe. In responding to 
+
+6
+current and potential competition, we constantly review our pricing and product offerings.
+
+Our FICC business also operates in an intensely competitive environment. Our trading platform for benchmark U.S. treasuries faces competition from both long-established and newly emerging electronic and voice brokerages, and the operating environment remains extremely challenging. Our European fixed income products and services are subject to relentless competitive pressure from OTC dealers as well as exchanges. Our suite of commodity-related products and services is in many cases designed to challenge the more established players.
+
+Our Trade Management Services business competes with other exchange operators, extranet providers, and data center providers.
+
+Corporate Services
+
+In our corporate solutions business, competition is varied and can be fragmented. In investor relations services, there are many regional competitors and relatively few global providers. Other exchange operators are partnering with firms that have capabilities in this area and seeking to acquire relevant assets in order to provide investor relations services to customers alongside listing services. The competitive landscape for public relations services includes large providers of traditional wire services, full-service providers, who offer wire distribution along with audience targeting, monitoring and analytics services, and a large number of regional and niche providers. In multimedia solutions and webhosting, competition is fragmented and includes firms that address enterprise buyers, offering them either managed or self-service capabilities. The competitive landscape for governance solutions varies by sector and geography. Most vendors in the market offer software-as-a-service solutions that are supported by a data center strategy. Many vendors offer specialized services that focus on a niche sector while the larger players in the market may offer additional services around corporate governance. Customers frequently seek single-source providers that are able to address a broad range of needs within a single platform. 
+
+Our listing services in both the U.S. and Europe are a means of facilitating capital formation through public capital markets. There are competing ways of raising capital, and we seek to demonstrate the benefits of listing shares on an exchange. Our primary competitor for larger company stock share listings in the U.S. is NYSE. The Nasdaq Stock Market also competes with NYSE MKT for listing of shares of smaller companies. In addition, Bats BZX competes for ETP listings. The Nasdaq Stock Market also competes with local and international markets located outside the U.S. for listings of equity securities of both U.S. and non-U.S. companies that choose to list (or dual-list) outside of their home country. For example, The Nasdaq Stock Market competes for listings with exchanges in Europe and Asia, such as LSE and The Stock Exchange of Hong Kong Limited.
+
+The listings business in Europe is characterized by a large number of exchanges competing for new or secondary listings. 
+
+Each country has one or more national exchanges, which are often the first choice of companies in each respective country. For those considering an alternative, examples of competing European exchanges that frequently attract many listings from outside their respective home countries include LSE, Euronext N.V. and Deutsche Börse A.G. In addition to the larger exchanges, companies seeking capital or liquidity from public capital markets are able to raise capital without a regulated market listing and can consider trading their shares on smaller markets and quoting facilities.
+
+Information Services
+
+Our Data Products business in the U.S. includes both proprietary and consolidated data products. Proprietary data products are made up exclusively of data derived from each exchange’s systems. Consolidated data products are distributed by SEC-mandated consolidators (one for Nasdaq-listed stocks and another for NYSE and other-listed stocks) that share the revenue among the exchanges that contribute data. In Europe, all data products are proprietary as there is no official data consolidator. Competition in the data business is intense and is influenced by rapidly changing technology and the creation of new product and service offerings.
+
+The sale of our proprietary data products in both the U.S. and Europe is under competitive threat from alternative exchanges and trading venues that offer similar products. Our data business competes with other exchanges and third party vendors to provide information to market participants. Examples of our competitors in proprietary data products are: Intercontinental Exchange, Inc., or ICE; Bats Global Markets, Inc., or BATS; S&P Global Inc.; and Dow Jones & Company.
+
+The consolidated data business is under competitive pressure from other securities exchanges that trade Nasdaq-listed securities. In addition, The Nasdaq Stock Market similarly competes for the tape fees from the sale of information on securities listed on other markets. 
+
+Our Index Licensing and Services business faces competition from providers of various competing financial indexes. For example, there are a number of indexes that aim to track the technology sector and thereby compete with the Nasdaq-100 Index and the Nasdaq Composite Index. We face competition from investment banks, dedicated index providers, markets and other product developers.
+
+Market Technology 
+
+The traditional model, where each exchange or exchange-related business developed its own technology internally, sometimes aided by consultants, has changed, as many operators have recognized the cost-savings made possible by buying technology from third parties. As a result, two types of competitors have emerged in our Market Technology segment: exchange operators and technology providers unaffiliated with exchanges. These organizations make available a range of off-the-shelf technology, including trading, clearing, market surveillance, settlement, depository and information dissemination, and offer customization and operation expertise. 
+
+7
+There is a wide range of providers that compete with us in surveillance, as well as governance, risk and compliance solutions. In surveillance, standardization of products and budget pressures drive customers to focus on pricing. In governance, risk and compliance, our products must compete with solutions that are often part of larger suites, such as those related to information technology management or general business management. 
+
+Market conditions in this segment are evolving rapidly, which makes continuous investment and innovation a necessity.
+
+Technology
+
+Technology plays a key role in ensuring the growth, reliability and regulation of financial markets. We have established a technology risk program to consider the resiliency of critical systems. This program is focused on (i) identifying areas for improvement in systems and (ii) implementing changes and upgrades to technology and processes to minimize future risk. We have continued our focus on improving the security of our technology with an emphasis on employee awareness through training, targeted phishing campaigns, and new tool deployment for our securities operations team. In 2016, we expanded this program to include recently acquired companies.
+
+Core Technology. The foundation for Nasdaq’s core technology is INET. The INET technology is used across our U.S. and European markets. INET is also a key building block of our Market Technology offerings, Genium INET and X-stream INET. Genium INET and X-stream INET both combine innovative functionality with a modular approach to manage change and create new advantages for existing and new customers.
+
+We continuously improve our core technology with a focus on improving capacity, reliability, resiliency and market integrity.
+
+Data Centers. Nasdaq utilizes data center facilities in key global regions to support our markets, technology services, disaster recovery capabilities and operations centers. In 2016, we continued to migrate systems to our facility in Chicago as well as completed migration to a new data center in Sweden.
+
+Blockchain Initiatives. During 2016, we continued to develop Nasdaq Linq, a solution based on blockchain-enabled technology, that may be used to expand and enhance issuers’ equity management capabilities. We also are completing work on a proof of concept for proxy voting in Estonia and announced the incorporation of blockchain services into the new Nasdaq Financial Framework.
+
+Intellectual Property
+
+We own or have licensed rights to trade names, trademarks, domain names and service marks that we use in conjunction with our operations and services. We have registered many of our most important trademarks in the U.S. and in foreign countries. For example, our primary “NASDAQ” mark is a registered trademark in the U.S. and in over 50 other countries worldwide.
+
+To support our business objectives and benefit from our investments in research and development, we actively seek protection for our innovations by filing patent applications to protect inventions arising from investments in products, systems, software and services. We believe that our patents and patent applications are important for maintaining the competitive differentiation of our products, systems, software and services, enhancing our ability to access technology of third parties and maximizing our return on research and development investments.
+
+Over time, we have accumulated a robust portfolio of issued patents in the U.S., Europe and in other parts of the world. We currently hold rights to patents relating to certain aspects of our products, systems, software and services, but we primarily rely on the innovative skills, technical competence and marketing abilities of our personnel. Hence, no single patent is in itself essential to us as a whole or any of our principal business areas.
+
+We also maintain copyright protection in our Nasdaq-branded materials.
+
+Corporate Venture Practice
+
+In 2017, Nasdaq expects to establish a corporate venture practice to invest primarily in financial technology companies. Nasdaq envisions that investments made through the venture practice will further our organic research and development efforts, and accelerate our path to commercial viability, in the same way previous investments have supported our blockchain and machine intelligence initiatives. Nasdaq expects that the capital invested will be modest and will not have a material impact on our consolidated financial statements or existing capital return or deployment priorities.
+
+Regulation
+
+We are subject to extensive regulation in the U.S., Canada and Europe.
+
+U.S. Regulation
+
+U.S. federal securities laws establish a system of cooperative regulation of securities markets, market participants and listed companies. SROs conduct the day-to-day administration and regulation of the nation’s securities markets under the close supervision of, and subject to extensive regulation, oversight and enforcement by, the SEC. SROs, such as national securities exchanges, are registered with the SEC.
+
+This regulatory framework applies to our U.S. business in the following ways:
+
+•regulation of our registered national securities exchanges; and
+
+•regulation of our U.S. broker-dealer subsidiaries.
+
+The rules and regulations that apply to our business are focused primarily on safeguarding the integrity of the securities markets and of market participants and investors generally. Accordingly, our board of directors, officers, and employees must give due regard to the preservation of the independence of the self-
+
+8
+regulatory function of each of our SROs and to their obligations to investors and the general public, and may not take any actions that would interfere with the effectuation of decisions by the boards of directors of any of our SROs relating to their regulatory functions, or that would interfere with the ability of any of our SROs to carry out their responsibilities under the Exchange Act. Although the rules and regulations that apply to our business are not focused on the protection of our stockholders, we believe that regulation improves the quality of exchanges and, therefore, our company. U.S. federal securities laws and the rules that govern our operations are subject to frequent change.
+
+National Securities Exchanges. SROs in the securities industry are an essential component of the regulatory scheme of the Exchange Act for providing fair and orderly markets and protecting investors. The Exchange Act and the rules thereunder, as well as each SRO’s own rules, impose on the SROs many regulatory and operational responsibilities, including the day-to-day responsibilities for market and broker-dealer oversight. Before it may permit the registration of a national securities exchange as an SRO, the SEC must determine, among other things, that the exchange has a set of rules that is consistent with the requirements of the Exchange Act. Moreover, an SRO is responsible for enforcing compliance by its members, and persons associated with its members, with the provisions of the Exchange Act, the rules and regulations thereunder, and the rules of the SRO, including rules and regulations governing the business conduct of its members.
+
+Nasdaq currently operates three cash equity and six options markets in the U.S. We operate The Nasdaq Stock Market and The Nasdaq Options Market pursuant to The Nasdaq Stock Market’s SRO license; Nasdaq BX and Nasdaq BX Options pursuant to Nasdaq BX’s SRO license; Nasdaq PSX and Nasdaq PHLX pursuant to Nasdaq PHLX’s SRO license; and Nasdaq ISE, Nasdaq GMNI and Nasdaq MCRY, each under their own SRO license. As SROs, each entity has separate rules pertaining to its broker-dealer members and listed companies. Broker-dealers that choose to become members of our exchanges are subject to the rules of those exchanges.
+
+All of our U.S. national securities exchanges are subject to SEC oversight, as prescribed by the Exchange Act, including periodic and special examinations by the SEC. Our exchanges also are potentially subject to regulatory or legal action by the SEC or other interested parties at any time in connection with alleged regulatory violations. We also are subject to Section 17 of the Exchange Act, which imposes record-keeping requirements, including the requirement to make records available to the SEC for examination. We have been subject to a number of routine reviews and inspections by the SEC or external auditors in the ordinary course, and we have been and may in the future be subject to SEC enforcement proceedings. To the extent such actions or reviews and inspections result in regulatory or other changes, we may be required to modify the manner in which we conduct our business, which may adversely affect our business.
+
+Section 19 of the Exchange Act provides that our exchanges must submit to the SEC proposed changes to any of the SROs’ rules, practices and procedures, including revisions to provisions of our certificate of incorporation and by-laws that constitute SRO rules. The SEC will typically publish such proposed changes for public comment, following which the SEC may approve or disapprove the proposal, as it deems appropriate. SEC approval requires a finding by the SEC that the proposal is consistent with the requirements of the Exchange Act and the rules and regulations thereunder. Pursuant to the requirements of the Exchange Act, our exchanges must file with the SEC, among other things, all proposals to change their pricing structure.
+
+Pursuant to regulatory services agreements between FINRA and our SROs, FINRA provides certain regulatory services to our markets, including the regulation of trading activity and surveillance and investigative functions. Nevertheless, we have a direct regulatory role in conducting certain real-time market monitoring, certain equity surveillance not involving cross-market activity, most options surveillance, most rulemaking and some membership functions through our MarketWatch department. We refer suspicious trading behavior discovered by our regulatory staff to FINRA for further investigation. Our SROs retain ultimate regulatory responsibility for all regulatory activities performed under regulatory agreements by FINRA, and for fulfilling all regulatory obligations for which FINRA does not have responsibility under the regulatory services agreements.
+
+In addition to its other SRO responsibilities, The Nasdaq Stock Market, as a listing market, also is responsible for overseeing each listed company’s compliance with The Nasdaq Stock Market’s financial and corporate governance standards. Our listing qualifications department evaluates applications submitted by issuers interested in listing their securities on The Nasdaq Stock Market to determine whether the quantitative and qualitative listing standards have been satisfied. Once securities are listed, the listing qualifications department monitors each issuer’s on-going compliance with The Nasdaq Stock Market’s continued listing standards.
+
+Broker-dealer regulation. Nasdaq’s broker-dealer subsidiaries are subject to regulation by the SEC, the SROs and the various state securities regulators. Nasdaq Execution Services, LLC, or Nasdaq Execution Services, currently operates as our routing broker for sending orders from Nasdaq’s U.S. cash equity exchanges and three of our six options exchanges to other venues for execution. Execution Access LLC, or Execution Access, operates as the broker-dealer for our fixed income business, including Nasdaq Fixed Income’s registered ATS for U.S. Treasuries. NPM Securities, LLC operates an ATS involving primary and secondary transactions in unregistered securities (i.e., securities not listed on a registered securities exchange and not registered under Section 12 of the Exchange Act), including acting as the buyer’s and seller’s agent to facilitate private placement transactions on the ATS. SMTX, LLC, or SMTX, also operates as a broker-dealer for NPM. Finally, Nasdaq Capital Markets Advisory LLC, or Nasdaq 
+
+9
+Capital Markets Advisory, acts as a third-party advisor to privately-held or publicly-traded companies during IPOs and various other offerings. 
+
+Nasdaq Execution Services is registered as a broker-dealer with the SEC and in all 50 states, the District of Columbia and Puerto Rico. It is also a member of FINRA and most of the registered national securities exchanges in the U.S.
+
+Execution Access is registered as a broker-dealer with the SEC and in 22 states and the U.S. Virgin Islands based on business requirements. Additionally, Execution Access is a FINRA member organization. Execution Access operates an SEC registered ATS, which is part of Nasdaq Fixed Income, to trade in U.S. Treasury securities. Execution Access is an introducing broker for trades matched on this ATS. The trades, once matched, are submitted to our fully disclosed clearing broker for clearance and settlement.
+
+NPM Securities is registered as a broker-dealer with the SEC and in all 50 states, the District of Columbia, Puerto Rico and the U.S. Virgin Islands. Additionally, NPM Securities is a FINRA member organization. NPM Securities does not hold funds or securities. Funds may be delivered by the buyer to the issuer directly or wired into an escrow account, depending on the requirements of the offering. The issuer or its transfer agent (or other corporate recordkeeper) will provide the buyer with a stock certificate in either physical or book entry form.
+
+SMTX is registered as a broker-dealer with the SEC and in 48 states and the District of Columbia based on business requirements. Additionally, SMTX is a FINRA member organization. NPM provides the technological tools and website hosting on a platform that issuers may use for administrative purposes, document execution, handling and storage, and to facilitate communications with participants of tender offers and merger and acquisition transactions. SMTX’s role is to act as information agent with regard to onboarding potential participants, a depositary agent to receive tender of securities and transaction closing funds, and a paying agent to wire funds to participants at the closing.
+
+Nasdaq Capital Markets Advisory is registered as a broker-dealer with the SEC and the State of New York based on business requirements. Additionally, Nasdaq Capital Markets Advisory is a FINRA member organization. Nasdaq Capital Markets Advisory acts as a third-party advisor to privately-held or publicly-traded companies during their initial public offerings, follow-on equity offerings, at-the-market equity offerings, private placement offerings and Regulation A equity offerings. Nasdaq Capital Markets Advisory’s role is limited to providing a company, or an investment bank on behalf of a company, with reports, profiles and other pertinent advisory information. Nasdaq Capital Markets Advisory does not act as an underwriter, syndicate group member or placement agent for any company, select underwriters or syndicate group members, hold funds or securities, accept investor indications of interest, solicit investors or decide which investors receive securities on behalf of a company. 
+
+The SEC, FINRA and the exchanges adopt rules and examine broker-dealers and require strict compliance with their rules and regulations. The SEC, SROs and state securities commissions may conduct administrative proceedings which can result in censures, fines, the issuance of cease-and-desist orders or the suspension or expulsion of a broker-dealer, its officers or employees. The SEC and state regulators may also institute proceedings against broker-dealers seeking an injunction or other sanction. The SEC and SRO rules cover many aspects of a broker-dealer’s business, including capital structure and withdrawals, sales methods, trade practices among broker-dealers, use and safekeeping of customers’ funds and securities, record-keeping, the financing of customers’ purchases, broker-dealer and employee registration and the conduct of directors, officers and employees. All broker-dealers have an SRO that is assigned by the SEC as the broker-dealer’s DEA. The DEA is responsible for examining a broker-dealer for compliance with the SEC’s financial responsibility rules. FINRA is the current DEA for Nasdaq Execution Services, Execution Access, NPM Securities, SMTX and Nasdaq Capital Markets Advisory.
+
+As registered broker-dealer subsidiaries, Nasdaq Execution Services, Execution Access, NPM Securities, SMTX and Nasdaq Capital Markets Advisory are subject to regulatory requirements intended to ensure their general financial soundness and liquidity, which require that they comply with certain minimum capital requirements. The SEC and FINRA impose rules that require notification when net capital falls below certain predefined criteria, dictate the ratio of debt to equity in the regulatory capital composition of a broker-dealer and constrain the ability of a broker-dealer to expand its business under certain circumstances. Additionally, the SEC’s Uniform Net Capital Rule and FINRA rules impose certain requirements that may have the effect of prohibiting a broker-dealer from distributing or withdrawing capital and requiring prior notice to the SEC and FINRA for certain withdrawals of capital.
+
+As of December 31, 2016, Nasdaq Execution Services, Execution Access, NPM Securities, SMTX and Nasdaq Capital Markets Advisory were in compliance with all of the applicable capital requirements.
+
+Regulatory contractual relationships with FINRA. Our SROs have signed a series of regulatory service agreements covering the services FINRA provides to the respective SROs. Under these agreements, FINRA personnel act as our agents in performing the regulatory functions outlined above, and FINRA bills us a fee for these services. These agreements have enabled us to reduce our headcount while ensuring that the markets for which we are responsible are properly regulated. However, our SROs retain ultimate regulatory responsibility for all regulatory activities performed under these agreements by FINRA.
+
+Exchange Act Rule 17d-2 permits SROs to enter into agreements, commonly called Rule 17d-2 agreements, approved by the SEC with respect to enforcement of common rules relating to common members. Our SROs have entered into several such agreements under which FINRA assumes 
+
+10
+regulatory responsibility for specifics covered by the agreement, including:
+
+•agreements with FINRA covering the enforcement of common rules, the majority of which relate to the regulation of our SROs and their members;
+
+•joint industry agreements with FINRA covering responsibility for enforcement of insider trading rules;
+
+•joint industry agreement with FINRA covering enforcement of rules related to cash equity sales practices and certain other non-market related rules; and
+
+•joint industry agreement covering enforcement of rules related to options sales practices.
+
+Regulation NMS and Options Intermarket Linkage Plan. We are subject to Regulation NMS for our cash equity markets, and our options markets have joined the Options Intermarket Linkage Plan. These are designed to facilitate the routing of orders among exchanges to create a national market system as mandated by the Exchange Act. One of the principal purposes of a national market system is to assure that brokers may execute investors’ orders at the best market price. Both Regulation NMS and the Options Intermarket Linkage Plan require that exchanges avoid trade-throughs, locking or crossing of markets and provide market participants with electronic access to the best prices among the markets for the applicable cash equity or options order.
+
+In addition, Regulation NMS requires that every national securities exchange on which an NMS stock is traded and every national securities association act jointly pursuant to one or more national market system plans to disseminate consolidated information, including a national best bid and national best offer, on quotations for transactions in NMS stocks, and that such plan or plans provide for the dissemination of all consolidated information for an individual NMS stock through a single plan processor.
+
+The UTP Plan was filed with and approved by the SEC as a national market system plan in accordance with the Exchange Act and Regulation NMS to provide for the collection, consolidation and dissemination of such information for Nasdaq-listed securities. The Nasdaq Stock Market serves as the processor for the UTP Plan pursuant to a contract that was extended for a five-year term beginning in October 2015. The Nasdaq Stock Market also serves as the administrator for the UTP Plan. As the processor, The Nasdaq Stock Market performs and discharges regulatory functions and responsibilities that are necessary for the members of the UTP Plan to discharge the regulatory functions related to the operation of a national market system that have been delegated to them under the Exchange Act and Regulation NMS. To fulfill its obligations as the processor, The Nasdaq Stock Market has designed, implemented, maintained, and operated a data processing and communications system, hardware, and software and communications infrastructure to provide processing for the UTP Plan. As the administrator, The Nasdaq Stock Market manages the distribution of market data, the collection of the 
+
+resulting market data revenue, and the dissemination of that revenue to plan members.
+
+Regulation SCI. Effective as of November 2015, Regulation SCI is a set of rules designed to strengthen the technology infrastructure of the U.S. securities markets. Regulation SCI applies to national securities exchanges, operators of certain ATSs, market data information providers and clearing agencies, subjecting these entities to extensive new compliance obligations, with the goals of reducing the occurrence of technical issues that disrupt the securities markets and improving recovery time when disruptions occur. We implemented an inter-disciplinary program to ensure compliance with Regulation SCI. New Regulation SCI policies and procedures were created, internal policies and procedures were updated, and an information technology governance program was rolled out to ensure compliance.
+
+Regulation of Registered Investment Advisor Subsidiary. Our subsidiary DWA is an investment advisor registered with the SEC under the Investment Advisors Act of 1940. In this capacity, DWA is subject to oversight and inspections by the SEC. Among other things, registered investment advisors like DWA must comply with certain disclosure obligations, advertising and fee restrictions and requirements relating to client suitability and custody of funds and securities. Registered investment advisors are also subject to anti-fraud provisions under both federal and state law. 
+
+CFTC Regulation. We also operate NFX, a designated contract market under the Commodity Exchange Act that is subject to regulatory oversight by the CFTC, an independent agency with the mandate to regulate commodity futures and options markets in the U.S. The National Futures Association provides regulatory services to NFX pursuant to a regulatory services agreement.
+
+As a designated contract market, NFX is required to comply on an ongoing basis with 23 Core Principles set forth in Section 5(d) of the Commodity Exchange Act and with Part 38 of the CFTC’s regulations. NFX is also subject to the requirements of Part 40 of the CFTC’s regulations with respect to the adoption of new rules or rule amendments and the listing of new products. NFX is subject to CFTC rule enforcement reviews conducted by the CFTC’s Division of Market Oversight. Rule enforcement reviews may examine a designated contract market’s audit trail, trade practice surveillance, disciplinary and dispute resolution programs for compliance with the relevant Core Principles. 
+
+The Dodd-Frank Wall Street Reform and Consumer Protection Act also has resulted in increased CFTC regulation of our use of certain regulated derivatives products, as well as the operations of some of our subsidiaries outside the U.S. and their customers.
+
+Canadian Regulation
+
+Regulation of Nasdaq CXC and its three markets in Canada is performed by the Canadian Securities Administrators, an umbrella organization of Canada’s provincial and territorial securities regulators. Operating in Ontario, Nasdaq CXC’s lead regulator is the Ontario Securities Commission. As an approved 
+
+11
+ATS, Nasdaq CXC is subject to the Marketplace Rules (National Instrument 21-101 and National Instrument 23-101), which include requirements for fair access, transparency of operations, systems and confidentiality of trading information. As an ATS, Nasdaq CXC is also a member of the Investment Industry Regulatory Organization of Canada and must comply with its dealer member rules. In December 2016, Nasdaq CXC also filed an application to operate as an exchange in Canada which is pending regulatory approval. 
+
+European Regulation
+
+Regulation of our markets in the European Union and European Economic Area focuses on issues relating to financial services, listing and trading of securities, clearing and market abuse. In mid-2012, EMIR, a regulation relating to CCP services and OTC derivatives transactions, was adopted. As a consequence of EMIR, Nasdaq Clearing, like other European CCPs, applied to reauthorize its CCP operations. Nasdaq Clearing was the first European CCP to be authorized as EMIR-compliant when the SFSA approved its application as a CCP under EMIR in 2014.
+
+MiFID II and MiFIR were adopted in 2014. These regulations will primarily affect our European trading businesses as they are implemented over the next few years. Many of the provisions of MiFID II and MiFIR will be implemented through technical standards drafted by the European Securities and Markets Authority and approved by the European Commission. Implementation is ongoing and both MiFID II and MiFIR will apply to the European Union member states by early 2018. In addition, in 2016, the European Union adopted legislation on governance and control of the production and use of benchmark indexes. The so-called Benchmark Regulation will apply in the European Union by early 2018. As the regulatory environment continues to change and related opportunities arise, we intend to continue product development, and ensure that the exchanges and clearinghouses that comprise Nasdaq Nordic and Nasdaq Baltic maintain favorable liquidity and offer efficient trading.
+
+The entities that operate trading venues in the Nordic and Baltic countries are each subject to local regulations. In Sweden, general supervision of the Nasdaq Stockholm exchange is carried out by the SFSA, while Nasdaq Clearing’s role as CCP in the clearing of derivatives is overseen by the SFSA and the Swedish central bank (Riksbanken). Additionally, as a function of the Swedish two-tier supervisory model, certain surveillance in relation to the exchange market is carried out by us, acting through our surveillance division.
+
+Nasdaq Stockholm’s exchange activities are regulated primarily by the SSMA, which sets up basic requirements regarding the board of the exchange and its share capital, and which also outlines the conditions on which exchange licenses are issued. The SSMA also provides that any changes to the exchange’s articles of association following initial registration must be approved by the SFSA. Nasdaq Clearing holds the license as a CCP under EMIR.
+
+With respect to ongoing operations, the SSMA requires exchanges to conduct their activities in an honest, fair and 
+
+professional manner, and in such a way as to maintain public confidence in the securities markets. When operating a regulated market, an exchange must apply the principles of free access (i.e., that each person which meets the requirements established by law and by the exchange may participate in trading), neutrality (i.e., that the exchange’s rules for the regulated market are applied in a consistent manner to all those who participate in trading) and transparency (i.e., that the participants must be given speedy, simultaneous and correct information concerning trading and that the general public must be given the opportunity to access this information). Additionally, the exchange operator must identify and manage the risks that may arise in its operations, use secure technical systems and identify and handle the conflicts of interest that may arise between the exchange or its owners’ interests and the interest in safeguarding effective risk management and secure technical systems. Similar requirements are set up by EMIR in relation to clearing operations.
+
+The SSMA also contains the framework for both the SFSA’s supervisory work in relation to exchanges and clearinghouses and the surveillance to be carried out by the exchanges themselves. The latter includes the requirement that an exchange should have “an independent surveillance function with sufficient resources and powers to meet the exchange’s obligations.” That requires the exchange to, among other things, supervise trading and price information, compliance with laws, regulations and good market practice, participant compliance with trading participation rules, financial instrument compliance with relevant listing rules and the extent to which issuers meet their obligation to submit regular financial information to relevant authorities.
+
+The regulatory environment in the other Nordic and Baltic countries in which a Nasdaq entity has a trading venue is broadly similar to the regulatory environment in Sweden. Since 2005, there has been cooperation between the SFSA and the main supervisory authorities in Iceland, Norway, Denmark and Finland, which looks to safeguard effective and comprehensive supervision of the exchanges comprising Nasdaq Nordic and the systems operated by it, and to ensure a common supervisory approach.
+
+Confidence in capital markets is paramount for trading to function properly. Nasdaq Nordic carries out market surveillance through an independent unit that is separate from the business operations. The surveillance work is organized into two functions: one for the listing of instruments and surveillance of companies (issuer surveillance) and one for surveillance of trading (trading surveillance). The real-time trading surveillance for the Finnish, Icelandic, Danish and Swedish markets has been centralized to Stockholm. In addition, there are special personnel who carry out surveillance activities at each of the three Baltic exchanges. In Denmark and Finland, decisions to list new companies are made by the president of the exchange, a duty delegated by the board of each exchange.
+
+If there is suspicion that a listed company or member has acted in breach of exchange regulations, the matter is dealt with by the market regulation division. Serious breaches are considered 
+
+12
+by the respective disciplinary committee in Sweden and Finland. In Denmark, all matters are dealt with by the surveillance department. In Iceland, enforcement committees handle all breaches of exchange regulations, while disciplinary committees handle the determination of fines. Suspected insider trading is reported to the appropriate authorities in the respective country or countries.
+
+Employees
+
+As of December 31, 2016, Nasdaq had 4,325 employees.
+
+Nasdaq Website and Availability of SEC Filings
+
+We file periodic reports, proxy statements and other information with the SEC. The public may read and copy any materials we file with the SEC at the SEC’s Public Reference Room at 100 F Street, NE, Washington, DC 20549. The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. The SEC maintains an Internet site that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC (such as us). The address of that site is http://www.sec.gov.
+
+Our website is www.business.nasdaq.com. Information on our website is not a part of this Form 10-K. We make available free of charge on our website, or provide a link to, our Forms 10-K, Forms 10-Q and Forms 8-K and any amendments to these documents, that are filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC. To access these filings, go to Nasdaq’s website and click on “Investor Relations,” then under “Financial Information” click on “SEC Filings.”
+
+Item 1A. Risk Factors.

@@ -1,0 +1,257 @@
+ITEM 7.  
+
+Management’s Discussion and Analysis of Financial Condition and Results of Operations.  
+
+Overview 
+
+We design, make and sell semiconductors to electronics designers and manufacturers all over the world. Our business model is carefully constructed around the following attributes: 
+
+·  
+
+Industry’s broadest portfolio of differentiated analog and embedded processing semiconductors. Our customers’ design engineers need at least one, and most times multiple, chips for their systems. The breadth of our portfolio means we can solve more of these needs than can our competitors, which gives us access to more customers and the opportunity to generate more revenue per system. We invest more than $1 billion each year to develop new products for our portfolio. 
+
+·  
+
+A strong foundation of manufacturing technology and low-cost production. We invest in manufacturing technologies that differentiate the features of our semiconductors, and we do most of our own production in-house, as opposed to outsourcing it. This ability to directly control our manufacturing helps ensure a consistent supply of products for our customers. We produce billions of semiconductors each year on a mixture of 150-, 200- and 300-millimeter wafers, and we are able to keep costs low for manufacturing facilities and equipment because our analog and much of our embedded processing semiconductors can be made using mature assets that we acquire ahead of demand when their prices are most attractive. In 2015, we produced approximately 25 percent of our Analog semiconductors on 300-millimeter wafers, the industry’s largest wafers, which have a 40 percent cost advantage per unpackaged chip over 200-millimeter wafers. The majority of our future Analog growth will be produced on 300-millimeter wafers, which will be meaningful to the growth of our margins and cash flow over the long term. 
+
+·  
+
+Industry’s largest market channels. Our global sales force is larger than those of our competitors, and the breadth of our portfolio attracts tens of millions of visits to our web site each year where customers often begin their initial product searches and design-in journey. These capabilities combine to provide us unique access to more than 100,000 customers. 
+
+·  
+
+Diversity and longevity in our products and in the markets we serve. The attributes above result in diverse and long-lived positions that deliver high terminal value to our shareholders. Because of the breadth of our portfolio we are not dependent on any single product, and because of the breadth of our markets we are not dependent on any single application or customer. Some of our products generate revenue for decades, which strengthens the return on our investments.  
+
+The combined effect of these attributes is that we have consistently grown free cash flow and gained market share in Analog and Embedded Processing. These attributes put us in a unique class of companies with the ability to grow, generate cash, and return that cash to shareholders.  
+
+Management’s discussion and analysis of financial condition and results of operations (MD&A) should be read in conjunction with the financial statements and the related notes that appear elsewhere in this document. In the following discussion of our results of operations: 
+
+·  
+
+All dollar amounts in the tables are stated in millions of U.S. dollars. 
+
+·  
+
+When we discuss our results: 
+
+o  
+
+Unless otherwise noted, changes in our revenue are attributable to changes in customer demand, which are evidenced by fluctuations in shipment volumes.  
+
+o  
+
+New products tend not to have a significant impact on our revenue in any given period because we sell such a large number of products. 
+
+o  
+
+From time to time, our revenue and gross profit are affected by changes in demand for higher-priced or lower-priced products, which we refer to as changes in the “mix” of products shipped. 
+
+o  
+
+Because we own much of our manufacturing capacity, a significant portion of our operating cost is fixed. When factory loadings decrease, our fixed costs are spread over reduced output and, absent other circumstances, our profit margins decrease. Conversely, as factory loadings increase, our fixed costs are spread over increased output and, absent other circumstances, our profit margins increase. Increases and decreases in factory loadings tend to correspond to increases and decreases in demand. 
+
+o  
+
+The term “legacy wireless products” refers to our baseband products, OMAPTM applications processors and connectivity products sold into smartphones and consumer tablets. Our exit from legacy wireless products was complete in 2013. 
+
+17 
+
+·  
+
+Our segments represent groups of similar products that are combined on the basis of similar design and development requirements, product characteristics, manufacturing processes and distribution channels, and how management allocates resources and measures results. See Note 1 to the financial statements for more information regarding our segments.  
+
+Results of operations 
+
+We continued to perform well in 2015, reflecting our focus on Analog and Embedded Processing semiconductors. These products serve highly diverse markets with thousands of applications, and we believe have dependable long-term growth opportunities. In 2015, Analog and Embedded Processing represented 86 percent of revenue, up from 83 percent in 2014. Gross margin of 58.2 percent for the year, a new record, reflects the quality of our product portfolio, as well as the efficiency of our manufacturing strategy. 
+
+Our focus on Analog and Embedded Processing allows us to generate strong cash flow from operations. In 2015, free cash flow, also a record, was 28.6 percent of revenue, up from 26.9 percent a year ago and consistent with our targeted range of 20-30 percent of revenue. During the year, we returned $4.2 billion of cash to investors through a combination of stock repurchases and dividends. Free cash flow is a non-GAAP financial measure. For a reconciliation to GAAP and an explanation of the reason for providing this non-GAAP measure, see the Non-GAAP financial information section after the Liquidity and capital resources section. 
+
+Details of financial results – 2015 compared with 2014 
+
+Revenue of $13.00 billion was about even with 2014, as higher revenue from Analog and Embedded Processing was offset by lower revenue from Other. Our 2015 revenue was negatively affected by about $150 million from changes in foreign currency exchange rates. 
+
+Gross profit was $7.56 billion, an increase of $133 million, or 2 percent, due to lower manufacturing costs. Gross profit margin was 58.2 percent of revenue compared with 56.9 percent. 
+
+Operating expenses were $1.28 billion for R&D and $1.75 billion for SG&A. R&D expense decreased $78 million, or 6 percent, and SG&A decreased $95 million, or 5 percent. Both comparisons reflect savings from ongoing efforts across the company to align costs with growth opportunities, including the completed restructuring actions in Embedded Processing and Japan. These decreases were partially offset by higher compensation-related costs. 
+
+Acquisition charges were related to our 2011 acquisition of National Semiconductor and were $329 million, about even with 2014. These non-cash charges were primarily from the amortization of intangible assets. See Note 13 to the financial statements. 
+
+Restructuring charges/other was a net credit of $71 million, which included gains on sales of assets of $83 million that were partially offset by $12 million related to restructuring charges and other credits. This compared with a net credit of $51 million in 2014, reflecting gains on sales of assets of $75 million that were partially offset by restructuring charges and other expenses of $24 million. These amounts are included in Other for segment reporting purposes. See Note 3 to the financial statements. 
+
+Operating profit was $4.27 billion, or 32.9 percent of revenue, compared with $3.95 billion, or 30.3 percent of revenue. 
+
+The income tax provision was $1.23 billion compared with $1.05 billion. The increase in the total tax provision was due to higher income before income taxes and, to a lesser extent, a lower benefit from non-U.S. effective tax rates. Our annual effective tax rate was 29 percent in 2015 and 27 percent in 2014. See Note 6 to the financial statements for a reconciliation of the income tax provision to the statutory federal tax. 
+
+Net income was $2.99 billion, an increase of $165 million, or 6 percent. EPS was $2.82 compared with $2.57. EPS benefited $0.07 due to a lower number of average shares outstanding as a result of our stock repurchase program. 
+
+In the near term, for the first quarter of 2016, we expect about a $150 million decline in revenue from the first quarter of 2015 within a sector of the personal electronics market. 
+
+18 
+
+Segment results – 2015 compared with 2014 
+
+Analog (includes High Volume Analog & Logic (HVAL), Power Management (Power), High Performance Analog (HPA) and Silicon Valley Analog (SVA) product lines) 
+
+ [DATA_TABLE_REMOVED] 
+
+Analog revenue increased primarily due to HVAL. Power and SVA also grew, but to a lesser extent. HPA declined due to the mix of products shipped. Operating profit increased due to higher revenue and associated gross profit and, to a lesser extent, lower manufacturing costs. 
+
+Embedded Processing (includes Microcontrollers, Processors and Connectivity product lines) 
+
+ [DATA_TABLE_REMOVED] 
+
+Embedded Processing revenue increased due about equally to Connectivity and Microcontrollers, which together offset a decline in Processors. Operating profit increased primarily due to lower operating expenses. 
+
+Other (includes DLP products, calculators, custom ASICs and royalties) 
+
+ [DATA_TABLE_REMOVED] 
+
+*Includes Acquisition charges and Restructuring charges/other 
+
+Other revenue declined primarily due to custom ASICs. Revenue from DLP products also declined, but to a lesser extent. Operating profit declined primarily due to lower revenue and associated gross profit. 
+
+Prior results of operations 
+
+In 2014, Analog revenue grew 13 percent and Embedded Processing revenue grew 12 percent. Gross margin of 56.9 percent for 2014 reflected the diversity and longevity of our product portfolio, as well as the efficiency of our manufacturing strategy. In 2014, free cash flow was 26.9 percent of revenue, up from 24.4 percent in 2013. During 2014, we returned $4.2 billion of cash to investors through a combination of stock repurchases and dividends. 
+
+Details of financial results – 2014 compared with 2013 
+
+Revenue was $13.05 billion, up $840 million, or 7 percent, from 2013 due to higher revenue from Analog and Embedded Processing. These increases more than offset lower revenue from legacy wireless products. 
+
+Gross profit was $7.43 billion, an increase of $1.06 billion, or 17 percent, from 2013 primarily due to higher revenue and, to a lesser extent, the mix of products shipped. Gross profit margin was 56.9 percent of revenue compared with 52.1 percent in 2013. 
+
+Operating expenses were $1.36 billion for R&D and $1.84 billion for SG&A. R&D expense decreased $164 million, or 11 percent, from 2013 primarily due to savings from ongoing efforts across the company to align costs with growth opportunities, including the wind-down of our legacy wireless products and restructuring actions in Embedded Processing and Japan. SG&A expense was about even, as higher variable compensation costs were offset by savings from our cost alignment efforts. 
+
+Acquisition charges were related to our 2011 acquisition of National Semiconductor and were $330 million compared with $341 million in 2013. The charges were primarily from the amortization of intangible assets. 
+
+19 
+
+Restructuring charges/other was a net credit of $51 million, which included gains on sales of assets of $75 million that were partially offset by restructuring charges and other expenses of $24 million. This compared with a net credit of $189 million in 2013, reflecting a $315 million gain from our transfer of wireless connectivity technology to a customer that was partially offset by restructuring charges of $126 million. 
+
+Operating profit was $3.95 billion, or 30.3 percent of revenue, compared with $2.83 billion, or 23.2 percent, in 2013. 
+
+The income tax provision was $1.05 billion compared with $592 million in 2013. The increase in the total tax provision was due to higher income before income taxes and, to a lesser extent, the effect of the retroactive reinstatement of the federal research tax credit for 2012 in 2013. Our annual effective tax rate was 27 percent in 2014 and 24 percent in 2013.  
+
+Net income was $2.82 billion, an increase of $659 million, or 30 percent, from 2013. EPS was $2.57 compared with $1.91 in 2013. EPS benefited $0.07 from 2013 due to a lower number of average shares outstanding as a result of our stock repurchase program. 
+
+Segment results – 2014 compared with 2013 
+
+Analog 
+
+ [DATA_TABLE_REMOVED] 
+
+Analog revenue increased in all products lines. Revenue from Power grew the most, followed by revenue from, in decreasing order, HPA, HVAL and SVA. Operating profit increased primarily due to higher revenue and associated gross profit. 
+
+Embedded Processing 
+
+ [DATA_TABLE_REMOVED] 
+
+Embedded Processing revenue increased primarily due to Microcontrollers and Processors, which contributed about equally to the increase. Connectivity increased to a lesser extent. Revenue from Processors increased as a result of the mix of products shipped. Operating profit increased primarily due to higher revenue and associated gross profit. 
+
+Other 
+
+ [DATA_TABLE_REMOVED] 
+
+*Includes Acquisition charges and Restructuring charges/other 
+
+Other revenue decreased due to legacy wireless products. Operating profit was about even as reductions in operating expenses were offset by changes in Restructuring charges/other. 
+
+Financial condition 
+
+At the end of 2015, total cash (Cash and cash equivalents plus Short-term investments) was $3.22 billion, a decrease of $323 million from the end of 2014. 
+
+Accounts receivable were $1.17 billion at the end of 2015. This was a decrease of $81 million compared with the end of 2014. Days sales outstanding were 33 at the end of 2015 compared with 34 at the end of 2014. 
+
+20 
+
+Inventory was $1.69 billion at the end of 2015. This was a decrease of $93 million from the end of 2014. Days of inventory at the end of 2015 were 115 compared with 117 at the end of 2014. 
+
+Liquidity and capital resources 
+
+Our primary source of liquidity is cash flow from operations. Additional sources of liquidity are Cash and cash equivalents, Short-term investments and a variable rate revolving credit facility. Cash flows from operating activities for 2015 was $4.27 billion, an increase of $376 million from 2014 primarily due to an increase in cash provided by working capital. 
+
+Our revolving credit facility is with a consortium of investment-grade banks and allows us to borrow up to $2 billion until March 2020. This credit facility also serves as support for the issuance of commercial paper. As of December 31, 2015, our credit facility was undrawn, and we had no commercial paper outstanding. 
+
+In 2015, investing activities used $302 million compared with $377 million in 2014. For 2015, Capital expenditures were $551 million compared with $385 million in 2014. Capital expenditures in both periods were primarily for semiconductor manufacturing equipment. In 2015, we had sales of short-term investments, net of purchases, that provided cash of $125 million. In comparison, in 2014 we had purchases of short-term investments, net of sales, that used cash of $141 million. In addition, we had proceeds from sales of assets of $110 million in 2015 compared with $142 million in 2014.  
+
+In 2015, financing activities used $4.17 billion compared with $3.94 billion in 2014. In both 2015 and 2014, we received proceeds of $498 million from the issuance of fixed-rate long-term debt (net of original issuance discount) and repaid $1.00 billion of maturing debt. Dividends paid in 2015 were $1.44 billion compared with $1.32 billion in 2014, reflecting increases in the dividend rate. During 2015, the quarterly dividend increased from $0.34 to $0.38 per share, resulting in an annualized dividend payment of $1.52 per share. During 2014, we increased our quarterly dividend from $0.30 to $0.34 per share. In 2015, we used $2.74 billion to repurchase 51.4 million shares of our common stock. This compared with $2.83 billion used in 2014 to repurchase 61.7 million shares. Employee exercises of stock options are also reflected in Cash flows from financing activities. In 2015, these exercises provided cash proceeds of $442 million compared with $616 million in 2014. 
+
+We had $1.00 billion of Cash and cash equivalents and $2.22 billion of Short-term investments as of December 31, 2015, with our U.S. entities owning about 80 percent of these amounts combined at the end of 2015. We believe we have the necessary financial resources and operating plans to fund our working capital needs, capital expenditures, dividend and debt-related payments, and other business requirements for at least the next 12 months. 
+
+Non-GAAP financial information 
+
+This MD&A includes references to free cash flow and ratios based on that measure. These are financial measures that were not prepared in accordance with generally accepted accounting principles in the United States (GAAP). Free cash flow was calculated by subtracting Capital expenditures from the most directly comparable GAAP measure, Cash flows from operating activities (also referred to as cash flow from operations). We believe that free cash flow and the associated ratios provide insight into our liquidity, our cash-generating capability and the amount of cash potentially available to return to investors, as well as insight into our financial performance. These non-GAAP measures are supplemental to the comparable GAAP measures. Reconciliation to the most directly comparable GAAP-based measures is provided in the table below. 
+
+ [DATA_TABLE_REMOVED] 
+
+21 
+
+Long-term contractual obligations 
+
+ [DATA_TABLE_REMOVED] 
+
+(a) Includes the related interest payments and amounts classified as the current portion of long-term debt, specifically obligations that will mature within 12 months.  
+
+(b) Includes minimum payments for leased facilities and equipment and purchases of industrial gases under contracts accounted for as operating leases.  
+
+(c) Includes payments under license agreements for electronic design automation software.  
+
+(d) Includes contractual arrangements with suppliers where there is a fixed, non-cancellable payment schedule or minimum payments due with a reduced delivery schedule. Excluded from the table are cancellable arrangements. However, depending on when certain purchase arrangements may be cancelled, an additional $4 million of cancellation penalties may be required to be paid, which are not reflected in the table.  
+
+(e) Includes an estimate of payments under this plan for the liability that existed at December 31, 2015.  
+
+(f) Excluded from the table are $84 million of uncertain tax liabilities under ASC 740, as well as any planned future funding contributions to retirement benefit plans. Amounts associated with uncertain tax liabilities have been excluded because of the difficulty in making reasonably reliable estimates of the timing of cash settlements with the respective taxing authorities. Regarding future funding of retirement benefit plans, we plan to contribute about $100 million in 2016, but funding projections beyond 2016 are not practical to estimate due to the rules affecting tax-deductible contributions and the impact from the plans’ asset performance, interest rates and potential U.S. and non-U.S. legislation.  
+
+Critical accounting policies 
+
+In preparing our consolidated financial statements in conformity with accounting principles generally accepted in the United States, we use statistical analyses, estimates and projections that affect the reported amounts and related disclosures and may vary from actual results. We consider the following accounting policies to be those that are most important to the portrayal of our financial condition and that require the most subjective judgment. If actual results differ significantly from management’s estimates and projections, there could be a significant effect on our financial statements.  
+
+Revenue recognition 
+
+We recognize revenue from sales of our products, including direct sales to our distributors, when title and risk of loss pass, which usually occurs upon shipment or delivery to the customer or distributor, depending upon the terms of the sales order; when persuasive evidence of an arrangement exists; when sales amounts are fixed or determinable; and when collectability is reasonably assured. For sales to distributors, payment is due on our standard commercial terms and is not contingent upon resale of the products. 
+
+We recognize revenue net of allowances, which are management’s estimates of future credits to be granted to customers or distributors under programs common in the semiconductor industry. These allowances are based on analysis of historical data, current economic conditions and contractual terms, and are recorded when revenue is recognized. Allowances may include volume-based incentives, product returns due to quality issues, incentives designed to maximize growth opportunities and special pricing arrangements. For instance, we sell to distributors at standard published prices, but we may grant them price adjustment credits in response to individual competitive opportunities. To estimate allowances, we use statistical percentages of revenue, which are determined quarterly based upon recent historical adjustment trends. Historical claims data are maintained for each of the programs, with differences among geographic regions taken into consideration. We continually monitor the actual claimed allowances against our estimates, and we adjust our estimates as appropriate to reflect trends in distributor revenue and inventory levels. Allowances are also adjusted when recent historical data do not represent anticipated future activity. 
+
+We may also provide distributors an allowance to scrap certain slow-selling or obsolete products in their inventory, estimated as a negotiated fixed percentage of each distributor’s purchases from us. In addition, if we publish a new price for a product that is lower than that paid by distributors for the same product still remaining in each distributor’s on-hand inventory, we may credit them for the  
+
+22 
+
+difference between those prices. The allowance for this type of credit is based on the identified product price difference applied to our estimate of each distributor’s on-hand inventory of that product. 
+
+We believe we can reasonably and reliably estimate allowances for credits to distributors in a timely manner. 
+
+Revenue from sales of our products that are subject to inventory consignment agreements, including consignment arrangements with distributors, is recognized in accordance with the principles discussed above, but delivery occurs when the customer or distributor pulls product from consignment inventory that we store at designated locations. 
+
+We determine the amount and timing of royalty revenue related to licenses of our patent portfolio based on our contractual agreements with licensees. We recognize royalty revenue when earned under the terms of the agreements and when we consider realization of payment to be probable. 
+
+In addition, we record allowances for accounts receivable that we estimate may not be collected. We monitor collectability of accounts receivable primarily through review of the accounts receivable aging. When collection is at risk, we assess the impact on amounts recorded for bad debts and, if necessary, will record a charge in the period such determination is made. We include amounts received from customers for reimbursement of shipping fees in revenue. We include the costs of shipping and handling in COR. 
+
+Income taxes 
+
+In determining Net income for financial statement purposes, we must make certain estimates and judgments in the calculation of tax provisions and the resultant tax liabilities, and in the recoverability of deferred tax assets that arise from temporary differences between the tax and financial statement recognition of revenue and expense. 
+
+In the ordinary course of global business, there may be many transactions and calculations where the ultimate tax outcome is uncertain. The calculation of tax liabilities involves dealing with uncertainties in the application of complex tax laws. We recognize potential liabilities for anticipated tax audit issues in the U.S. and other tax jurisdictions based on an estimate of the ultimate resolution of whether, and the extent to which, additional taxes will be due. Although we believe the estimates are reasonable, no assurance can be given that the final outcome of these matters will not be different than what is reflected in the historical income tax provisions and accruals. 
+
+As part of our financial process, we must assess the likelihood that our deferred tax assets can be recovered. If recovery is not likely, the provision for taxes must be increased by recording a reserve in the form of a valuation allowance for the deferred tax assets that are estimated not to be ultimately recoverable. In this process, certain relevant criteria are evaluated including the existence of deferred tax liabilities that can be used to absorb deferred tax assets, the taxable income in prior years that can be used to absorb net operating losses and credit carrybacks, and taxable income in future years. Our judgment regarding future recoverability of our deferred tax assets based on these criteria may change due to various factors, including changes in U.S. or international tax laws and changes in market conditions and their impact on our assessment of taxable income in future periods. These changes, if any, may require material adjustments to the deferred tax assets and an accompanying reduction or increase in Net income in the period when such determinations are made. Also, our plans for the permanent reinvestment or eventual repatriation of the accumulated earnings of certain of our non-U.S. operations could change. Such changes could have a material effect on tax expense in future years. 
+
+In addition to the factors described above, the effective tax rate reflected in forward-looking statements is based on then-current tax law. Significant changes in tax law enacted during the year could affect these estimates. Retroactive changes in tax law enacted subsequent to the end of a reporting period are reflected in the period of enactment as a discrete tax item. 
+
+Inventory valuation allowances 
+
+Inventory is valued net of allowances for unsalable or obsolete raw materials, work-in-process and finished goods. Statistical allowances are determined quarterly for raw materials and work-in-process based on historical disposals of inventory for salability and obsolescence reasons. For finished goods, quarterly statistical allowances are determined by comparing inventory levels of individual parts to historical shipments, current backlog and estimated future sales in order to identify inventory judged unlikely to be sold. A specific allowance for each material type will be carried if there is a significant event not captured by the statistical allowance. Examples are an end-of-life part or demand with imminent risk of cancellation. Allowances are also calculated quarterly for instances where inventoried costs for individual products are in excess of market prices for those products. Actual future write-offs of inventory for salability and obsolescence reasons may differ from estimates and calculations used to determine valuation allowances due to changes in customer demand, customer negotiations, technology shifts and other factors. 
+
+23 
+
+Changes in accounting standards 
+
+See Note 2 to the financial statements for information on new accounting standards. 
+
+Off-balance sheet arrangements 
+
+As of December 31, 2015, we had no significant off-balance sheet arrangements as defined in Item 303(a)(4)(ii) of SEC Regulation S-K. 
+
+Commitments and contingencies 
+
+See Note 12 to the financial statements for a discussion of our commitments and contingencies. 
+
+ITEM 7A.

@@ -1,0 +1,79 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk  
+
+Our primary exposures to market risks are related to changes in interest rates and foreign currency exchange rates which may adversely affect our results of operations and financial position. We seek to manage exposure to changes in interest rates where economically prudent to do so by utilizing predominately fixed rate debt and interest rate swaps. We do not currently hedge against foreign currency exchange risks.  
+
+Interest Rate Risk  
+
+Our interest rate risk relates primarily to the impact of interest rate movements on the following, inclusive of the refinancing of the 2005 tower revenue notes issued January 2010 and the repayment and purchases of debt in January 2010.  
+
+       the potential refinancing of our existing debt, of which we currently anticipate refinancing the 2006 tower revenue notes between now and November 2011;  
+
+       our $632.1 million of floating rate debt representing approximately 10% of total debt, of which $600 million has been fixed until December 2011 through interest rate swaps;  
+
+       interest rate swaps that no longer represent economic hedges; and  
+
+       potential future borrowings of incremental debt.  
+
+40  
+
+Table of Contents 
+
+The discussion and tables presented below summarize our market risk exposure to interest rates, including our use of interest rate swaps to manage and reduce this risk.  
+
+Anticipated Refinancing of Existing Debt  
+
+During 2009 and January 2010, we issued $4.8 billion face value of debt and thereby extended the maturity of our debt portfolio. By the end of 2011, we expect to refinance our 2006 tower revenue notes; and we have entered into interest rate swaps to hedge the variability in cash flows from changes in LIBOR on this anticipated refinancing. We do not hedge our exposure to changes in credit spreads on this anticipated refinancing, as the rates fixed by our interest rate swaps are exclusive of any credit spread. Our refinancings over the last year have increased our weighted-average cost of debt as a result of the challenging credit markets. Our prospective debt financings may result in an increase in our weighted-average cost of debt depending upon the state of the credit markets at the time of such financings.  
+
+See Item 7. MD&ALiquidity and Capital ResourcesOverview for a discussion of the tower revenue notes anticipated repayment dates (ranging from 2011 to 2020) and the associated increase in interest rate and principal amortization following the anticipated repayment date.  
+
+Floating Rate Debt  
+
+We manage our exposure to market interest rates on our existing debt by (1) controlling the mix of fixed and floating rate debt and (2) utilizing interest rate swaps to hedge variability in cash flows from changes in LIBOR on our outstanding floating rate debt. As of December 31, 2009, we had $632.1 million of floating rate debt, of which $600.0 million is effectively converted to a fixed rate through an interest rate swap until December 2011. As a result, a hypothetical unfavorable fluctuation in market interest rates on our existing debt of two percentage points over a twelve-month period would increase our interest expense by approximately $0.6 million.  
+
+Interest Rate Swaps  
+
+Our interest rate swaps have an aggregate settlement value of $411.7 million as of January 31, 2010, and they are contractually due and payable between June 2010 and November 2011. These liability positions resulted from LIBOR declining below the fixed rate of these interest rate swaps. The stated rate of our future debt refinancing is exclusive of the impact of the interest rate swaps and reflects the benefit of the declines in LIBOR. From an economic perspective, we have fixed our exposure to LIBOR on the anticipated refinancing, and the swap liabilities represent the opportunity cost of not benefiting from the declines in LIBOR. See the following table and in note 8 to our consolidated financial statements.  
+
+A hypothetical decrease of 100 basis points in the prevailing LIBOR yield curve as of December 31, 2009 would increase the liability for our swaps on a settlement value basis by nearly $270 million, and a hypothetical increase in rates would reduce the liability by a similar amount. We immediately mark to market in earnings interest rate swaps that are not designated as hedges. As a result, we estimate that the impact of the hypothetical unfavorable movement of 100 basis points would decrease earnings by approximately $205 million, and an opposite hypothetical increase in LIBOR would positively impact earnings by a similar amount, inclusive of the impact of the swaps hedging the 2005 tower revenue notes that we de-designated in January 2010.  
+
+As of February 2, 2010 our interest rate swaps are with Morgan Stanley, the Royal Bank of Scotland plc and Calyon who have credit ratings of A2 or better from Moodys. See note 8 to our consolidated financial statements and the tables below.  
+
+Potential Future Borrowings of Incremental Debt  
+
+We typically do not hedge our exposure to interest rates on potential future borrowings of incremental debt for a substantial period prior to issuance. See Item 7. MD&ALiquidity and Capital Resources regarding our short-term liquidity strategy.  
+
+41  
+
+Table of Contents 
+
+The following tables provide information about our market risk related to changes in interest rates. The future principal payments, weighted-average interest rates and the interest rate swaps are presented as of December 31, 2009, after giving effect to the refinancing of the 2005 tower revenue notes in January 2010. These debt maturities reflect contractual maturity dates, exclusive of other long-term obligations that are de minimus, and do not consider the impact of the principal payments that will commence following the anticipated repayment dates on the tower revenue notes (see footnote (b)). See notes 7 and 8 to our consolidated financial statements for additional information regarding our debt and interest rate swaps.  
+
+  [DATA_TABLE_REMOVED] 
+
+  [DATA_TABLE_REMOVED] 
+
+ (a) The fair value of our debt is based on indicative quotes (that is, non-binding quotes) from brokers that require judgment to interpret market information, including implied credit spreads for similar borrowings on recent trades or bid/ask offers. These fair values are not necessarily indicative of the amount which could be realized in a current market exchange.  
+
+ (b) As previously discussed, the 2006 tower revenue notes have an anticipated repayment date in November 2011 and the 2010 tower revenue notes have anticipated repayment dates ranging from 2015 to 2020. If the tower revenue notes are not repaid in full by their anticipated repayment dates then the interest rate increases by an additional approximately 5% per annum and monthly principal payments commence using the Excess Cash Flow of the issuers of the tower revenue notes. The tower revenue notes are presented based on their contractual maturity dates ranging from 2036 to 2040 and include the impact of an assumed 5% increase in interest rate that would occur following the anticipated repayment dates but exclude the impact of monthly principal payments that would commence using Excess Cash Flow of the issuers of the tower revenue notes. The Excess Cash Flow of such issuers was approximately $375 million for the annualized quarter ended December 31, 2009 without consideration of the tower revenue notes purchase by CCIC.  
+
+ (c) The average interest rate represents the weighted-average stated coupon rate (see footnote (b)).  
+
+ (d) The interest rate on our variable rate debt represents the rate currently in effect.  
+
+ (e) The fair value of interest rate swaps is determined using the income approach and is predominately based on observable interest rates and yield curves. The fair value predominately results from the difference between the fixed rate and the prevailing LIBOR yield curve and, to a lesser extent, the contract counterparties and our credit risk. As of December 31, 2009, the net liability on a cash settlement basis of approximately $313.9 million has been reduced by $13.8 million, related to credit risk (primarily our non-performance risk), to reflect the interest rate swaps at fair.  
+
+ (f) These interest rate swaps are forward-starting interest rate swaps that hedge exposure to variability in future cash flows attributable to changes in LIBOR on the expected future refinancing of our fixed rate debt. These interest rate swaps have a contractual maturity on their respective effective dates upon which they will be terminated and settled in cash. See note 8 to our consolidated financial statements for additional information regarding our forward-starting interest rate swaps.  
+
+ (g) Exclusive of any applicable credit spreads.  
+
+42  
+
+Table of Contents 
+
+Foreign Currency Risk  
+
+The vast majority of our foreign currency risk is related to the Australian dollar which is the functional currency of CCAL. CCAL represented 5% of our consolidated revenues and 4% of our consolidated operating income for 2009. As of December 31, 2009, the Australian dollar exchange rate had strengthened compared to the U.S. dollar by approximately 5% from the average rate for 2008. See Item 7. MD&AResults of OperationsComparison of Operating Segments.  
+
+Foreign exchange markets have recently been volatile, and we expect foreign exchange markets to continue to be volatile over the near term. We believe the risk related to our financial instruments (exclusive of inter-company financing deemed a long-term investment) denominated in Australian dollars is not significant to our financial condition. A hypothetical increase or decrease of 25% in Australian dollar exchange rate would increase or decrease the fair value of our financial instruments by approximately $5 million.  
+
+ Item 8. Financial Statements and Supplementary Data

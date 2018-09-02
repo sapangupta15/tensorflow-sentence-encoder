@@ -1,0 +1,664 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+Management’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”) is designed to provide a reader of Danaher’s financial statements with a narrative from the perspective of Company management. The Company’s MD&A is divided into five sections:
+
+•Overview
+
+•Results of Operations
+
+•Liquidity and Capital Resources
+
+•Critical Accounting Estimates
+
+•New Accounting Standards
+
+OVERVIEW
+
+General
+
+Please see “Item 1. Business – General” for a discussion of Danaher’s objectives and methodologies for delivering shareholder value. Danaher is a multinational corporation with global operations. During 2013, approximately 58% of Danaher’s sales were derived from customers outside the United States. As a diversified, global business, Danaher’s operations are affected by worldwide, regional and industry-specific economic and political factors. Danaher’s geographic and industry diversity, as well as the range of its products and services, typically helps limit the impact of any one industry or the economy of any single country on the consolidated operating results. Given the broad range of products manufactured, software and services provided and geographies served, management does not use any indices other than general economic trends to predict the overall outlook for the Company. The Company’s individual businesses monitor key competitors and customers, including to the extent possible their sales, to gauge relative performance and the outlook for the future.
+
+As a result of the Company’s geographic and industry diversity, the Company faces a variety of opportunities and challenges, including rapid technological development (particularly with respect to computing, mobile connectivity, communications and digitization) in most of the Company’s served markets, the expansion and evolution of opportunities in high-growth markets, trends and costs associated with a global labor force, consolidation of the Company’s competitors and increasing regulation. The Company operates in a highly competitive business environment in most markets, and the Company’s long-term growth and profitability will depend in particular on its ability to expand its business in high-growth geographies and high-growth market segments, identify, consummate and integrate appropriate acquisitions, develop innovative and differentiated new products, services and software with higher gross profit margins, expand and improve the effectiveness of the Company’s sales force, continue to reduce costs and improve operating efficiency and quality, and effectively address the demands of an increasingly regulated environment. The Company is making significant investments, organically and through acquisitions, to address the rapid pace of technological change in its served markets and to globalize its manufacturing, research and development and customer-facing resources (particularly in high-growth markets) in order to be responsive to the Company’s customers throughout the world and improve the efficiency of the Company’s operations. 
+
+Business Performance and Outlook
+
+While differences exist among the Company’s businesses, on an overall basis, demand for the Company’s products, software and services increased in 2013 compared to 2012 resulting in aggregate year-over-year sales growth from existing businesses. In addition, the Company’s continued investments in sales growth initiatives and the other business-specific factors discussed below contributed to year-over-year sales growth. Geographically, year-over-year sales growth rates from existing businesses during 2013 were led primarily by the high-growth markets. Sales from existing businesses in high-growth markets grew at a high-single digit rate in 2013 compared to 2012 and represented approximately 26% of the Company's total sales in 2013. Sales from existing businesses in developed markets grew at a low-single digit rate compared to 2012 and were driven by North America and Japan, which grew at low-single digit rates in 2013 partially offset by slight year-over-year contraction in Western Europe. Western Europe did grow slightly in the second half of 2013 on a year-over-year basis. The Company expects overall market conditions to remain challenging due to macro-economic uncertainties and monetary and fiscal policies of countries where we do business. While individual businesses and end markets continue to experience volatility, the Company expects sales from existing businesses to grow on a year-over-year basis during 2014 with sales growth returning to the Industrial Technologies segment and the other segments growing at rates similar to those experienced in 2013.
+
+31
+Restructuring Activities
+
+In light of the continuing uncertainties in the macro-economic environment and consistent with the Company's approach of positioning itself to provide superior products and services to its customers in a cost efficient manner, in July 2013 the Company initiated actions to improve productivity and reduce costs in the Company's businesses. The actions, which were substantially completed by December 31, 2013, resulted in pre-tax charges of over $100 million, the majority of which was incurred in the fourth quarter of 2013. The charges, including both employee-related termination costs as well as other termination and exit costs, are expected to result in savings of approximately $75 million in 2014 compared to 2013 expense levels.
+
+In addition, the Company incurred $123 million of costs associated with restructuring activities in 2012 which resulted in savings of approximately $90 million in 2013 compared to 2012 expense levels. 
+
+Acquisitions
+
+During 2013, the Company acquired fourteen businesses for total consideration of $957 million in cash, net of cash acquired. The businesses acquired complement existing units of the Industrial Technologies, Life Sciences & Diagnostics, Environmental and Test & Measurement segments. The aggregate annual sales of these fourteen businesses at the time of their respective acquisitions, in each case based on the company’s revenues for its last completed fiscal year prior to the acquisition, were approximately $300 million. 
+
+For a discussion of the Company’s 2012 and 2011 acquisition activity, refer to “Liquidity and Capital Resources — Investing Activities”.
+
+Sale of Investments
+
+During 2010, the Company entered into a joint venture with Cooper Industries, plc (“Cooper”), combining certain of the Company’s hand tool businesses with Cooper’s Tools business to form a new entity called Apex Tool Group, LLC (“Apex”). In February 2013, the Company and Cooper sold Apex to an unrelated third party for approximately $1.6 billion. The Company received $797 million from the sale, consisting of cash of $759 million (including $67 million of dividends received prior to closing) and a note receivable of $38 million. The Company recognized an after-tax gain of $144 million or $0.20 per diluted share in connection with this transaction. As of December 31, 2013, the Company had collected the majority of this note receivable. 
+
+During the fourth quarter of 2013, the Company sold approximately 5 million of the approximately 8 million shares of Align Technology, Inc. ("Align") common stock that the Company received in 2009 as a result of a settlement between Align and Ormco Corporation, a wholly-owned subsidiary of the Company. The Company received cash proceeds of $251 million from the sale of these securities and recorded a pre-tax gain of $202 million ($125 million after-tax or $0.18 per diluted share).
+
+RESULTS OF OPERATIONS
+
+Consolidated sales for the year ended December 31, 2013 increased 4.5% compared to 2012. Sales from existing businesses contributed 2.5% growth and sales from acquired businesses contributed 2.5% growth on a year-over-year basis. The impact of currency translation reduced reported sales by 0.5% as the U.S. dollar was, on average, stronger against other major currencies during 2013 as compared to exchange rate levels during 2012. 
+
+Consolidated sales for the year ended December 31, 2012 increased 13.5% compared to 2011. Sales from existing businesses contributed 2.5% growth and sales from acquired businesses contributed 13.0% growth on a year-over-year basis. The impact of currency translation reduced reported sales by 2.0% as the U.S. dollar was, on average, stronger against other major currencies during 2012 as compared to exchange rate levels during 2011. 
+
+In this report, references to sales from existing businesses refers to sales from continuing operations calculated according to generally accepted accounting principles in the United States (“GAAP”) but excluding (1) sales from acquired businesses and (2) the impact of currency translation. References to sales or operating profit attributable to acquisitions or acquired businesses refer to GAAP sales or operating profit, as applicable, from acquired businesses recorded prior to the first anniversary of the acquisition less the impact from the divestiture of a product line, the sales from which (prior to the divestiture) were included in sales from acquired businesses. The portion of revenue attributable to currency translation is calculated as the difference between (a) the period-to-period change in revenue (excluding sales from acquired businesses) and (b) the period-to-period change in revenue (excluding sales from acquired businesses) after applying current period foreign exchange rates to the prior year period. Sales from existing businesses should be considered in addition to, and not as a replacement for or superior to, sales, and may not be comparable to similarly titled measures reported by other companies. Management believes that reporting the non-GAAP financial measure of sales from existing businesses provides useful information to investors by 
+
+32
+helping identify underlying growth trends in our business and facilitating easier comparisons of our revenue performance with our performance in prior and future periods and to our peers. The Company excludes the effect of currency translation from sales from existing businesses because currency translation is not under management’s control, is subject to volatility and can obscure underlying business trends, and excludes the effect of acquisitions and related items because the nature, size and number of such transactions can vary dramatically from period to period and between the Company and its peers and can also obscure underlying business trends and make comparisons of long-term performance difficult. References to sales volume refer to the impact of both price and unit sales.
+
+Operating profit margins were 17.1% for the year ended December 31, 2013 as compared to 17.3% in 2012. The factors discussed below impacted year-over-year operating profit margin comparisons. 
+
+2013 vs. 2012 operating profit margin comparisons were favorably impacted by: 
+
+•Higher 2013 sales volumes and incremental year-over-year cost savings associated with the restructuring actions and continuing productivity improvement initiatives taken in 2012 and 2013, net of incremental year-over-year costs associated with various product development, sales and marketing growth investments - 80 basis points 
+
+2013 vs. 2012 operating profit margin comparisons were unfavorably impacted by: 
+
+•The incremental net dilutive effect of acquired businesses in 2013 - 40 basis points 
+
+•The divestiture of the Apex joint venture in 2013. Prior to the sale, the Company had accounted for its investment in Apex under the equity method - 40 basis points
+
+•The fourth quarter 2013 impairment of intangible assets associated with a technology investment in the communications business - 15 basis points 
+
+•A 2012 gain relating to the resolution of contingencies with respect to a prior disposition of assets - 5 basis points
+
+Operating profit margins were 17.3% for the year ended December 31, 2012 as compared to 16.3% in 2011. The factors discussed below impacted year-over-year operating profit margin comparisons. 
+
+2012 vs. 2011 operating profit margin comparisons were favorably impacted by:
+
+•Higher 2012 sales volumes and incremental year-over-year cost savings associated with the restructuring actions and ongoing productivity improvement initiatives taken in 2011 and 2012, net of incremental year-over-year costs associated with various sales, marketing and product development growth investments - 100 basis points 
+
+•Acquisition related charges recorded in 2011 associated with the Beckman Coulter acquisition, including transaction costs deemed significant, change in control charges and fair value adjustments to acquisition related inventory and deferred revenue balances - 100 basis points
+
+•A 2012 gain relating to the resolution of contingencies with respect to a prior disposition of assets - 5 basis points
+
+2012 vs. 2011 operating profit margin comparisons were unfavorably impacted by:
+
+•The incremental net dilutive effect of acquired businesses in 2012 - 105 basis points 
+
+The Company deems acquisition-related transaction costs incurred in a given period to be significant (generally relating to the Company’s larger acquisitions) if it determines that such costs exceed the range of acquisition-related transaction costs typical for the Company in a given period.
+
+Business Segments
+
+The following table summarizes sales by business segment for each of the periods indicated ($ in millions):
+
+[DATA_TABLE_REMOVED]
+
+33
+TEST & MEASUREMENT
+
+The Company’s Test & Measurement segment is a leading global provider of electronic measurement instruments, professional test tools, thermal imaging and calibration equipment used in electrical, industrial, electronic and calibration applications. Danaher offers test, measurement and monitoring products that are used in electronic design, manufacturing and advanced technology development; network monitoring, management and optimization tools; and security solutions for communications and enterprise networks. Customers for these products and services include manufacturers of electronic instruments; service, installation and maintenance professionals; manufacturers who design, develop, manufacture and deploy network equipment; and service providers who implement, maintain and manage communications networks and services. Also included in the Test & Measurement segment are the Company’s mobile tool and wheel service businesses.
+
+Test & Measurement Selected Financial Data ($ in millions)
+
+[DATA_TABLE_REMOVED]
+
+Components of Sales Growth
+
+[DATA_TABLE_REMOVED]
+
+2013 COMPARED TO 2012 
+
+Price increases in the segment contributed 0.5% to sales growth on a year-over-year basis during 2013 as compared to 2012 and are reflected as a component of the change in sales from existing businesses.
+
+Sales in the segment's instrument businesses declined at a low-single digit rate during 2013 as compared to 2012, as lower demand for thermography, calibration and electronic test products more than offset modest increases in demand for industrial products. Decreased demand in the North American, European and Chinese end markets contributed to the decline in sales. However, the Company did see demand stabilize during the second half of 2013 as compared to the first half of 2013, particularly in Europe and North America. 
+
+Sales in the segment's communications businesses grew at a mid-single digit rate during 2013 compared to 2012 with robust year-over-year increase in demand for network security and analysis solutions. Geographically, strong year-over-year demand in the North America and Latin America regions was somewhat offset by declines in demand in Asia. 
+
+Operating profit margins declined 110 basis points during 2013 as compared to 2012. The favorable impacts of higher operating profit margin communication business products comprising a higher percentage of sales in 2013 compared to 2012 and lower year-over-year costs for restructuring and productivity improvement initiatives were offset by lower year-over-year instrument sales volumes and incremental year-over-year costs associated with various sales, marketing and product development growth investments. In addition, 2013 vs. 2012 operating profit margin comparisons were unfavorably impacted by: 
+
+•The fourth quarter 2013 impairment of intangible assets associated with a technology investment in the communications business - 90 basis points
+
+•The incremental net dilutive effect of acquired businesses in 2013 - 20 basis points 
+
+34
+2012 COMPARED TO 2011 
+
+Price increases in the segment contributed 0.5% to sales growth on a year-over-year basis during 2012 as compared to 2011 and are reflected as a component of the change in sales from existing businesses.
+
+Sales in the segment's instrument businesses declined at a high-single digit rate during 2012 as compared to 2011, as lower demand for most product categories more than offset modest sales increases of service solutions. Instrument demand was weak in all major geographies although the North American market showed improvement in the fourth quarter of 2012 compared to the results reported during the first nine months of 2012. Europe and Japan continued to remain weak in the fourth quarter of 2012. 
+
+Sales in the segment's communications businesses grew at a high-single digit rate during 2012 compared to 2011 with strong growth in North America and Western Europe in the first six months of 2012 moderating in the second half of 2012 due primarily to project timing and difficult prior year comparisons. Demand for network management solutions and, to a lesser extent, core network enterprise solutions drove the 2012 growth. 
+
+Operating profit margins declined 150 basis points during 2012 as compared to 2011. Year-over-year operating profit margin comparisons were adversely impacted by 120 basis points as lower instrument sales volumes and incremental year-over-year costs associated with various sales, marketing and product development growth investments more than offset the favorable impacts of increased sales volumes of higher operating profit margin communication business products and incremental year-over-year cost savings associated with ongoing productivity improvement initiatives, including the restructuring actions taken in 2012 and 2011. The incremental net dilutive effect of acquired businesses adversely impacted year-over-year operating profit margin comparisons by 30 basis points.
+
+ENVIRONMENTAL
+
+Danaher’s Environmental segment provides products that help protect the water supply and air quality by serving two primary markets: water quality and retail/commercial petroleum. Danaher’s water quality business is a global leader in water quality analysis and treatment, providing instrumentation and disinfection systems to help analyze and manage the quality of ultra pure water, potable water, wastewater, groundwater and ocean water in residential, commercial, industrial and natural resource applications. Danaher’s retail/commercial petroleum business is a leading worldwide provider of solutions and services focused on fuel dispensing, remote fuel management, point-of-sale systems, payment systems, environmental compliance, vehicle tracking and fleet management. 
+
+Environmental Selected Financial Data ($ in millions)
+
+[DATA_TABLE_REMOVED]
+
+Components of Sales Growth
+
+[DATA_TABLE_REMOVED]
+
+2013 COMPARED TO 2012 
+
+Price increases in the segment contributed 1.0% to sales growth on a year-over-year basis during 2013 as compared with 2012 and are reflected as a component of the change in sales from existing businesses.
+
+35
+Sales from existing businesses in the segment’s water quality businesses grew at a mid-single digit rate during 2013 as compared to 2012 primarily due to increased demand across most major geographies for analytical instruments and related services and consumables. Sales from existing businesses in the business’ chemical treatment solutions product line also grew on a year-over-year basis due primarily to continued sales force investments in the U.S. market, and to a lesser extent, continued international expansion. Sales from existing businesses in the business' ultraviolet water disinfection product line declined during 2013 due to continued weak demand in municipal end markets, primarily in North America and Western Europe. 
+
+Sales from existing businesses in the segment's retail petroleum equipment businesses grew at a low-single digit rate during 2013 as compared to 2012. Demand for the businesses' dispenser and retail automation products was particularly strong in Western Europe, Asia and the Middle East. On a year-over-year basis, the business experienced strong increase in demand for its point-of-sale and payment systems and continued growth in demand for dispensers, which were partially offset by slight declines in demand for services. 
+
+Operating profit margins declined 30 basis points during 2013 as compared to 2012. The factors discussed below impacted year-over-year operating profit margin comparisons. 
+
+2013 vs. 2012 operating profit margin comparisons were favorably impacted by:
+
+•Higher 2013 sales volumes and incremental year-over-year cost savings associated with the restructuring actions and continuing productivity improvement initiatives taken in 2012 and 2013, net of incremental year-over-year costs associated with various product development, sales and marketing growth investments - 70 basis points
+
+2013 vs. 2012 operating profit margin comparisons were unfavorably impacted by: 
+
+•The incremental net dilutive effect of acquired businesses in 2013 - 100 basis points 
+
+2012 COMPARED TO 2011
+
+Price increases in the segment contributed 1.5% to sales growth on a year-over-year basis during 2012 as compared with 2011 and are reflected as a component of the change in sales from existing businesses.
+
+Sales from existing businesses in the segment’s water quality businesses grew at a low-single digit rate during 2012 compared to 2011. Sales growth was driven by increased demand for the businesses' laboratory and process instruments, consumables and related services primarily in the high-growth markets (other than China) and the North American industrial market. This growth was partially moderated by flat year-over-year demand in China and Western Europe. Sales in the business' chemical treatment solutions product line grew at a low-double digit rate on a year-over-year basis due primarily to the addition of new customers in the U.S. market and to a lesser extent continued international expansion. Sales in the business' ultraviolet water disinfection product line declined during the year due primarily to lower 2012 demand from municipal end markets. 
+
+Sales from existing businesses in the segment's retail petroleum equipment businesses grew at a mid-single digit rate during 2012 compared to 2011. Increased demand for the business' dispensing equipment and associated services in North America were partially offset by contraction in Western Europe as demand for retail and payment systems declined from 2011's level. Demand for most major product categories was strong in high-growth markets, especially Latin America, Russia and the Middle East. 
+
+Operating profit margins increased 10 basis points during 2012 as compared to 2011. Year-over-year operating profit margin comparisons benefited 70 basis points from the favorable impact of higher sales volumes and incremental year-over-year cost savings associated with ongoing productivity improvement initiatives, including the restructuring actions taken in 2012 and 2011, offsetting incremental year-over-year costs associated with various sales, marketing and product development growth investments. The incremental net dilutive effect of acquisitions adversely impacted year-over-year operating margin comparisons by 60 basis points.
+
+LIFE SCIENCES & DIAGNOSTICS
+
+The Company’s diagnostics businesses offer a broad range of analytical instruments, reagents, consumables, software and services that hospitals, physician’s offices, reference laboratories and other critical care settings use to diagnose disease and make treatment decisions. The Company’s life sciences businesses offer a broad range of research and clinical tools that scientists use to study cells and cell components to understand the causes of disease, identify new therapies and test new drugs and vaccines. 
+
+36
+Life Sciences & Diagnostics Selected Financial Data ($ in millions)
+
+[DATA_TABLE_REMOVED]
+
+Components of Sales Growth
+
+[DATA_TABLE_REMOVED]
+
+2013 COMPARED TO 2012 
+
+Year-over-year price increases in the segment had a negligible impact on sales during 2013.
+
+Sales from existing businesses in the segment's diagnostics businesses grew at a mid-single digit rate during 2013 as compared to 2012 due to increased demand in the clinical, acute care and pathology diagnostic businesses. The clinical diagnostics business experienced strong sales of consumables and automation hardware in high-growth markets, particularly China, that more than offset slightly negative year-over-year sales performance in North America and Europe. Sales growth in the acute care diagnostic business was due primarily to continued robust global consumables sales related to the business' growing installed base of instrumentation, which is expected to continue to grow in 2014, as well as strong demand for compact blood gas analyzers and cardiac care instruments. The year-over-year sales growth in the pathology diagnostics business was driven by strong demand for advanced staining systems and consumables in North America, China and Japan and increased demand for core histology instruments and consumables in North America and China. 
+
+Sales from existing businesses in the segment's life sciences businesses grew at a mid-single digit rate during 2013 as compared to 2012 due primarily to strong demand for new product introductions across the life sciences businesses. Fourth quarter 2013 growth rates lagged full year growth rates due to comparisons to the same period in 2012 which benefited from new product introductions. Sales of the business' broad range of mass spectrometers grew on a year-over-year basis as strong sales growth in the applied and clinical research markets and the pharmaceutical market were partially offset by sales declines in the academic research market. Geographically, year-over-year sales growth in the mass spectrometry business was strong in high-growth markets and in the second half of 2013 the business also experienced strong demand in Europe and Japan. The business' confocal microscopy, flow cytometry and sample preparation product lines also contributed to year-over-year growth, principally from demand in high-growth markets. 
+
+Operating profit margins increased 140 basis points during 2013 as compared to 2012. The factors discussed below impacted year-over-year operating profit margin comparisons. 
+
+2013 vs. 2012 operating profit margin comparisons were favorably impacted by:
+
+•Higher 2013 sales volumes and incremental year-over-year cost savings associated with the restructuring actions and continuing productivity improvement initiatives taken in 2012 and 2013, net of incremental year-over-year costs associated with various product development, sales and marketing growth investments and the new U.S. medical device excise tax that took effect in 2013 - 190 basis points
+
+2013 vs. 2012 operating profit margin comparisons were unfavorably impacted by: 
+
+•The incremental net dilutive effect of acquired businesses in 2013 - 50 basis points
+
+37
+2012 COMPARED TO 2011 
+
+Year-over-year price increases in the segment had a negligible impact on sales during 2012.
+
+The significant growth related to acquisitions for 2012 was primarily attributable to the acquisition of Beckman Coulter in June 2011. Sales associated with acquisitions are presented net of the impact of the 2012 divestiture of certain Beckman Coulter product lines, the sales from which (prior to the divestiture) were included in sales from acquired businesses. Given the insignificance of these product line sales to the segment's results of operations, prior year information was not restated to reflect these divestitures as discontinued operations.
+
+Sales from existing businesses in the segment's diagnostics business grew at a mid-single digit rate during 2012 as compared to 2011 due to increased demand in the clinical, acute care and pathology diagnostic businesses. Strong sales of consumables and automation hardware in the clinical diagnostic business in high-growth markets, especially China, more than offset weaker year-over-year sales performance in North America and Europe. In the acute care diagnostic business, sales grew due to continued strong global consumable sales related to the business' installed base of instrumentation as well as robust demand for compact blood gas analyzers. Increased demand for the business' cardiac care instruments, particularly in China, also contributed to year-over-year sales growth. Increased demand, primarily in North America and high-growth markets, for advanced staining consumables, and to a lesser extent histology systems, drove the majority of year-over-year sales growth in the pathology diagnostics business. 
+
+Sales from existing businesses in the segment's life sciences businesses grew at a low-single digit rate during 2012 as compared to 2011. Sales of the business' broad range of mass spectrometers grew on a year-over-year basis as sales growth in the applied and clinical research markets was partially offset by sales declines in the pharmaceutical and academic research markets. Sales growth in the mass spectrometry business was strong in China and other high-growth markets. Sales of the business' microscopy products also grew for the year in most major geographic markets due to strong demand for the business' recently introduced confocal product offering. 
+
+Operating profit margins increased 460 basis points during 2012 as compared to 2011. Acquisition related charges associated with the 2011 Beckman Coulter acquisition, including transaction costs deemed significant, change in control charges and fair value adjustments to inventory and deferred revenue balances favorably impacted year-over-year operating profit margin comparisons by 365 basis points. Higher sales volumes and incremental year-over-year cost savings associated with ongoing productivity improvement initiatives, including the restructuring actions taken in 2012 and 2011, net of the impact of incremental year-over-year costs associated with various sales, marketing and product development growth investments, favorably impacted year-over-year comparisons by 200 basis points. The incremental net dilutive effect of acquisitions adversely impacted segment operating profit margins by 105 basis points.
+
+Depreciation and amortization as a percentage of sales increased during 2012 primarily as a result of the inclusion of twelve months of Beckman Coulter's results in 2012 as compared to six months of Beckman Coulter's results in 2011. 
+
+DENTAL
+
+The Company’s Dental segment is a leading worldwide provider of a broad range of dental consumables, equipment and services that are used to diagnose, treat and prevent disease and ailments of the teeth, gums and supporting bone, and to improve the aesthetics of the human smile. The Company is dedicated to driving technological innovations that help dental professionals improve clinical outcomes and enhance productivity.
+
+Dental Selected Financial Data ($ in millions)
+
+[DATA_TABLE_REMOVED]
+
+38
+Components of Sales Growth
+
+[DATA_TABLE_REMOVED]
+
+2013 COMPARED TO 2012 
+
+Price increases in the segment contributed 1.0% to sales growth on a year-over-year basis during 2013 as compared with 2012 and are reflected as a component of the change in sales from existing businesses.
+
+Sales from existing businesses in the segment's dental consumables businesses grew at a low-single digit rate during 2013 as compared to 2012, primarily due to increased sales of professional dental consumables and implant products. On a year-over-year basis, sales of dental consumables were strong in North America (although North America contracted slightly in the fourth quarter compared to the third quarter of 2013), China and other high-growth markets and contracted slightly in Western Europe. In addition, sales from existing businesses in the segment's dental technologies businesses grew at a low-single digit rate on a year-over-year basis primarily as a result of increased demand for imaging products and treatment units. Geographically, increased sales in North America, China and certain other high-growth markets more than offset lower demand in Europe.
+
+Operating profit margins increased 10 basis points during 2013 as compared to 2012. Year-over-year operating profit margin comparisons were favorably impacted by:
+
+•The incremental net accretive effect of acquired businesses in 2013 - 5 basis points
+
+•Higher 2013 sales volumes and incremental year-over-year cost savings associated with the restructuring actions and continuing productivity improvement initiatives taken in 2012 and 2013, net of incremental year-over-year costs associated with various product development, sales and marketing growth investments and the new U.S. medical device excise tax that took effect in 2013 - 5 basis points 
+
+2012 COMPARED TO 2011 
+
+Year-over-year price increases in the segment had a negligible impact on sales during 2012. 
+
+Sales from existing businesses in the segment's dental consumables businesses grew at a mid-single digit rate during 2012 as compared to 2011, primarily as a result of increased sales of general dentistry consumables and orthodontic products. Sales of dental consumables grew in all major geographies. Sales from existing businesses in the segment's dental technologies businesses grew at a low-single digit rate on a year-over-year basis as a result of increased demand for treatment units and associated equipment, primarily in high-growth markets, as well as higher year-over-year sales of imaging products. During 2012, sales increased in all major product categories on a year-over-year basis as increased demand in North America and high-growth markets more than offset lower demand in Europe. 
+
+Operating profit margins increased 280 basis points during 2012 as compared to 2011. Higher operating profit margins from additional sales volume in addition to incremental year-over-year cost savings associated with ongoing productivity improvement initiatives including the restructuring actions taken in 2012 and 2011, net of incremental year-over-year costs associated with various sales, marketing and product development growth investments, increased operating profit margins by 270 basis points on a year-over-year basis. In addition, net higher overall operating profit margins of acquired businesses favorably impacted year-over-year comparisons by 10 basis points.
+
+INDUSTRIAL TECHNOLOGIES
+
+The Company’s Industrial Technologies segment is a leading global provider of equipment, consumables and software for various printing, marking, coding, design and color management applications on consumer and industrial products. The segment is also a leading global provider of electromechanical motion control solutions for the industrial automation and packaging markets. In addition to the product identification and motion strategic lines of business, the segment also includes Danaher's sensors and controls, energetic materials and engine retarder businesses. The Company sold its Accu-Sort ("ASI") business in January 2012, its Kollmorgen Electro-Optical ("KEO") business in February 2012 and its Pacific Scientific Aerospace ("PSA") business in April 2011. These businesses were previously reported as part of the Industrial Technologies segment. The results of these discontinued operations are excluded from all periods presented in the financial information provided in the tables below.
+
+39
+Industrial Technologies Segment Selected Financial Data ($ in millions)
+
+[DATA_TABLE_REMOVED]
+
+Components of Sales Growth
+
+[DATA_TABLE_REMOVED]
+
+2013 COMPARED TO 2012 
+
+Price increases in the segment contributed 1.5% to sales growth on a year-over-year basis during 2013 and are reflected as a component of the change in sales from existing businesses.
+
+Sales from existing businesses in the segment's product identification businesses grew at a mid-single digit rate during 2013 as compared to 2012. Continued increased demand for marking and coding equipment and related consumables as well as packaging and color solutions in most end markets was partially offset by lower year-over-year demand in consumer electronics related equipment. Sales grew on a year-over-year basis in most major geographies, particularly in North America and Latin America. 
+
+Sales from existing businesses in the segment's motion businesses declined at a high-single digit rate during 2013 as compared to 2012. Continued soft year-over-year demand in the majority of end markets served, particularly technology and defense related end markets, and the impact of exiting certain low-margin OEM product lines, was partially offset by increased sales of industrial automation products, primarily in North America. Geographically, year-over-year sales declines in Europe, China and certain end markets in North America more than offset improving demand in certain high-growth markets. The Company expects sales growth from existing businesses in the segment's motion businesses to remain negative in the first quarter of 2014 as the business continues to transition out of some low-margin businesses.
+
+Sales from existing businesses in the segment's other businesses collectively grew at a low-single digit rate during 2013 as compared to 2012. Strong year-over-year demand in the segment's energetic materials business was partially offset by lower year-over-year demand in the segment's engine retarder business. Sales from existing businesses in the segment's sensors and controls businesses were essentially flat on a year-over-year basis.
+
+Operating profit margins increased 40 basis points during 2013 as compared to 2012. The factors discussed below impacted year-over-year operating profit margin comparisons. 
+
+2013 vs. 2012 operating profit margin comparisons were favorably impacted by:
+
+•Higher 2013 prices and incremental year-over-year cost savings associated with the restructuring actions and continuing productivity improvement initiatives taken in 2012 and 2013, net of incremental year-over-year costs associated with various product development, sales and marketing growth investments and the impact of lower 2013 unit sales - 80 basis points 
+
+2013 vs. 2012 operating profit margin comparisons were unfavorably impacted by: 
+
+•The incremental net dilutive effect of acquired businesses in 2013 - 40 basis points 
+
+40
+2012 COMPARED TO 2011 
+
+Price increases in the segment contributed 1.5% to sales growth on a year-over-year basis during 2012 and are reflected as a component of the change in sales from existing businesses.
+
+Sales from existing businesses in the segment's product identification businesses grew at a mid-single digit rate during 2012 as compared to 2011, due primarily to continued demand for marking and coding equipment and related consumables, with strong growth experienced in both Europe and China. Increased year-over-year demand for the business' integrated packaging solutions product lines also contributed to the existing business' sales growth in the second half of 2012, with growth in most major geographies and particular strength in North America. 
+
+Sales from existing businesses in the segment's motion businesses declined at a mid-single digit rate during 2012 as compared to 2011 due to continued soft demand in the majority of end markets served, particularly technology and factory automation related end markets. Both the industrial automation and engineered solutions product lines experienced year-over-year sales declines. The businesses saw improved growth in the fourth quarter of 2012 in part due to easier year-over-year comparisons.
+
+Sales from existing businesses in the segment's other businesses collectively grew at a low-single digit rate during 2012 as compared to 2011. Sales in the segment's energetic materials business increased on a year-over-year basis, partially offset by lower demand in the segment's sensors and controls and engine retarder businesses. 
+
+Operating profit margins declined 30 basis points during 2012 compared to 2011. The incremental net dilutive effect of acquired businesses adversely impacted year-over-year operating profit margin comparisons by 105 basis points. Higher sales volumes and incremental year-over-year cost savings associated with continuing productivity improvement initiatives, including the restructuring actions taken in 2012 and 2011, net of incremental year-over-year costs associated with various sales, marketing and product development growth investments, increased operating profit margins by 75 basis points on a year-over-year basis.
+
+COST OF SALES AND GROSS PROFIT
+
+[DATA_TABLE_REMOVED]
+
+Gross profit margins increased 50 basis points on a year-over-year basis for 2013 compared to 2012, due primarily to the favorable impact of higher year-over-year sales volumes, the year-over-year decline in restructuring costs and continued productivity improvements. In 2013, the U.S. imposed a 2.3% excise tax on the sale or importation of certain medical devices, which affected various products in the Company's Life Sciences & Diagnostics and Dental segments. The excise tax increased the Company's 2013 cost of sales as a percentage of revenue on a year-over-year basis by approximately 20 basis points. The impact of the medical devices excise tax was partially mitigated by general price increases implemented during 2013.
+
+Gross profit margins increased 80 basis points during 2012 as compared to 2011. Year-over-year gross profit margin comparisons were favorably impacted by 70 basis points as a result of acquisition related charges recorded in 2011 associated with fair value adjustments to acquired inventory and deferred revenue balances in connection with the acquisition of Beckman Coulter in June 2011. In addition, year-over-year gross profit margin comparisons benefited from higher year-over-year sales volumes, the year-over-year decline in restructuring costs and ongoing productivity improvements. The impact of a full twelve months of Beckman Coulter results in 2012 (compared to only six months of Beckman Coulter results in 2011), partially offset these positive factors as the Beckman Coulter business had lower gross profit margins on average than the Company's existing businesses.
+
+41
+OPERATING EXPENSES
+
+[DATA_TABLE_REMOVED]
+
+Selling, general and administrative expenses as a percentage of sales remained flat from 2012 to 2013. The benefit of increased leverage of the Company's cost base resulting from higher 2013 sales and the year-over-year decline in restructuring costs was offset by incremental year-over-year increases in investments in sales and marketing growth initiatives. Year-over-year comparisons were also adversely impacted by an impairment charge related to intangible assets associated with a communications business' technology investment which increased selling, general and administrative expenses by 15 basis points in 2013. 
+
+Selling, general and administrative expenses as a percentage of sales declined 20 basis points on a year-over-year basis for 2012 compared to 2011. Increased leverage of the Company's cost base resulting from higher sales and the year-over-year decline in restructuring costs were partially offset by incremental year-over-year investments in sales and marketing growth investments. Year-over-year comparisons were also favorably impacted by a mark to market gain on a currency swap arrangement in 2012 (refer to “Financial Instruments and Risk Management—Currency Exchange Rate Risk”). In addition, change in control payments to Beckman Coulter employees in connection with the closing of the Beckman Coulter acquisition in June 2011, as well as associated restructuring and integration charges, favorably impacted the year-over-year comparison.
+
+Research and development expenses (consisting principally of internal and contract engineering personnel costs) as a percentage of sales increased 30 basis points on a year-over-year basis in 2013 as compared to 2012. Incremental year-over-year increases in investments in the Company's new product development initiatives were the primary contributors to this increase. Research and development expenses as a percentage of sales were relatively consistent for 2012 as compared to 2011. 
+
+EARNINGS FROM UNCONSOLIDATED JOINT VENTURE
+
+During 2010, the Company entered into a joint venture with Cooper, combining certain of the Company’s hand tool businesses with Cooper’s Tools business to form a new entity called Apex. In February 2013, the Company and Cooper sold Apex to an unrelated third party for approximately $1.6 billion. The Company received $797 million from the sale, consisting of cash of $759 million (including $67 million of dividends received prior to closing) and a note receivable of $38 million. The Company recognized a pre-tax gain of $230 million (after-tax gain of $144 million or $0.20 per diluted share) in connection with this transaction. This gain is reflected as gain on sale of unconsolidated joint venture in the Consolidated Statement of Earnings. As of December 31, 2013, the Company had collected the majority of this note receivable. 
+
+The Company's share of the 2013 earnings generated by Apex prior to the closing of the sale was insignificant. The Company recorded $70 million and $67 million of earnings for the years ended December 31, 2012 and 2011, respectively, reflecting its 50% ownership position. Subsequent to the sale of its investment in Apex, the Company has no continuing involvement in Apex's operations. 
+
+OTHER INCOME (EXPENSE)
+
+During the fourth quarter of 2013, the Company sold approximately 5 million of the approximately 8 million shares of Align common stock that the Company received in 2009 as a result of a settlement between Align and Ormco Corporation, a wholly-owned subsidiary of the Company. The Company received cash proceeds of $251 million from the sale of these securities and recorded a pre-tax gain of $202 million ($125 million after-tax or $0.18 per diluted share). This gain is reflected as gain on sale of marketable equity securities in the Consolidated Statement of Earnings.
+
+Refer to “—Earnings From Unconsolidated Joint Venture" above for information related to the $230 million gain on the sale of Apex in 2013 and to “—Liquidity and Capital Resources – Beckman Coulter Indebtedness" below for information related to the loss on the early extinguishment of debt in 2011. 
+
+42
+INTEREST COSTS
+
+For a description of the Company’s outstanding indebtedness, refer to “—Liquidity and Capital Resources – Financing Activities and Indebtedness” below.
+
+Interest expense of $146 million for 2013 was $12 million lower than in 2012, due primarily to the repayment of the €500 million principal amount of Eurobond notes due 2013 (the "Eurobond Notes") and the $300 million principal amount of floating rate unsecured senior notes due 2013 (the "2013 Notes") upon maturity in July and June 2013, respectively. The Company's average commercial paper borrowings were also lower in 2013 as compared to 2012. Interest expense of $158 million in 2012 was $16 million higher than the 2011 interest expense of $142 million due primarily to the additional debt incurred in connection with the Beckman Coulter acquisition. The Company's average commercial paper borrowings were also higher in 2012 as compared to 2011, in large part due to borrowings used to partially fund the acquisition of Beckman Coulter.
+
+Interest income was $6 million, $3 million and $5 million in 2013, 2012 and 2011, respectively.
+
+INCOME TAXES
+
+General
+
+Income tax expense and deferred tax assets and liabilities reflect management’s assessment of future taxes expected to be paid on items reflected in the Company’s financial statements. The Company records the tax effect of discrete items and items that are reported net of their tax effects in the period in which they occur.
+
+The Company’s effective tax rate can be affected by changes in the mix of earnings in countries with differing statutory tax rates (including as a result of business acquisitions and dispositions), changes in the valuation of deferred tax assets and liabilities, accruals related to contingent tax liabilities and period-to-period changes in such accruals, the results of audits and examinations of previously filed tax returns (as discussed below), the expiration of statutes of limitations, the implementation of tax planning strategies, tax rulings, court decisions, settlements with tax authorities and changes in tax laws. For a description of the tax treatment of earnings that are planned to be reinvested indefinitely outside the United States, refer to “—Liquidity and Capital Resources – Cash and Cash Requirements” below.
+
+The amount of income taxes the Company pays is subject to ongoing audits by federal, state and foreign tax authorities, which often result in proposed assessments. Management performs a comprehensive review of its global tax positions on a quarterly basis. Based on these reviews, the results of discussions and resolutions of matters with certain tax authorities, tax rulings and court decisions, and the expiration of statutes of limitations, reserves for contingent tax liabilities are accrued or adjusted as necessary. For a discussion of risks related to these and other tax matters, please refer to “Item 1A. Risk Factors”.
+
+Year-Over-Year Changes in the Tax Provision and Effective Tax Rate
+
+The Company’s effective tax rate related to continuing operations for the years ended December 31, 2013, 2012 and 2011 was 24.4%, 23.6% and 20.9%, respectively.
+
+The Company’s effective tax rate for each of 2013, 2012 and 2011 differs from the U.S. federal statutory rate of 35% due principally to the Company’s earnings outside the United States that are indefinitely reinvested and taxed at rates lower than the U.S. federal statutory rate. In addition, the effective tax rates of 24.4% in 2013, 23.6% in 2012 and 20.9% in 2011 are lower than the U.S. federal statutory rate due to recognition of tax benefits associated with favorable resolutions of certain international and domestic uncertain tax positions and the lapse of certain statutes of limitations. The effective tax rate for 2013 is also lower than the U.S. federal statutory rate due to the retroactive reinstatement of certain tax benefits and credits resulting from the enactment of the American Tax Relief Act of 2012. These favorable items were offset by adjustments of reserve estimates related to prior period uncertain tax positions and on-going audit settlement estimates in various jurisdictions. The matters referenced above have been treated as discrete items in the periods they occurred and in the aggregate reduced the provision for income taxes by approximately 20 basis points in 2013, 30 basis points in 2012 and 240 basis points in 2011.
+
+The Company conducts business globally, and files numerous consolidated and separate income tax returns in the United States federal, state and foreign jurisdictions. The Company and its subsidiaries are routinely examined by various domestic and international taxing authorities. During 2013, the Internal Revenue Service (“IRS”) completed examinations of certain of the Company's federal income tax returns for the years 2008 and 2009 and has commenced its examinations of the Company's federal income tax returns for 2010 and 2011. In addition, the Company has subsidiaries in Belgium, Brazil, Canada, Denmark, France, Finland, Germany, India, Italy, Japan, Norway, Singapore, Sweden, the United Kingdom and various other countries, states and provinces that are currently under audit for years ranging from 2000 through 2012.
+
+43
+Tax authorities in Denmark and Germany have raised significant issues related to the deductibility and taxability of interest accrued by certain of the Company's subsidiaries. On December 10, 2013, the Company received assessments from the Danish tax authority (“SKAT”) totaling approximately DKK 1.1 billion (approximately $200 million based on exchange rates as of December 31, 2013) imposing withholding tax and interest thereon relating to interest accrued in Denmark on borrowings from certain of the Company's subsidiaries for the years 2004-2009. If the SKAT claims are successful, it is likely that the Company would be assessed additional amounts for years through 2013 totaling approximately DKK 800 million (approximately $144 million based on exchange rates as of December 31, 2013) as well as future interest on the disputed withholding tax for subsequent periods prior to such a determination. Discussions with the German tax authorities are ongoing and final assessments have not been issued. 
+
+Management believes the positions the Company has taken in both Denmark and Germany are in accordance with the relevant tax laws and intends to vigorously defend its positions, including contesting the SKAT assessment; however, the ultimate resolution of these matters is uncertain, could take many years, and individually or in the aggregate could result in a material adverse impact to the Company's financial statements, including its effective tax rate.
+
+The Company's effective tax rate for 2014 is expected to be approximately 24%. This anticipated rate reflects no benefit from the research and experimentation credit in the United States which expired at the end of 2013.
+
+INFLATION
+
+The effect of inflation on the Company’s revenues and net earnings was not significant in the years ended December 31, 2013, 2012 or 2011.
+
+FINANCIAL INSTRUMENTS AND RISK MANAGEMENT
+
+The Company is exposed to market risk from changes in interest rates, foreign currency exchange rates, credit risk, equity prices and commodity prices, each of which could impact its financial statements. The Company generally addresses its exposure to these risks through its normal operating and financing activities. In addition, the Company’s broad-based business activities help to reduce the impact that volatility in any particular area or related areas may have on its operating profit as a whole.
+
+Interest Rate Risk
+
+The Company manages interest cost using a mixture of fixed-rate and variable-rate debt. A change in interest rates on long-term debt impacts the fair value of the Company’s fixed-rate long-term debt but not the Company’s earnings or cash flow because the interest on such debt is fixed. Generally, the fair market value of fixed-rate debt will increase as interest rates fall and decrease as interest rates rise. As of December 31, 2013, an increase of 100 basis points in interest rates would have decreased the fair value of the Company’s fixed-rate long-term debt (excluding the LYONs, which have not been included in this calculation as the value of this convertible debt is primarily derived from the value of its underlying common stock) by approximately $110 million. However, since the Company currently has no plans to repurchase its outstanding fixed-rate instruments before their maturity, the impact of market interest rate fluctuations on the Company’s fixed-rate long-term debt does not affect the Company’s results of operations or stockholders’ equity.
+
+As of December 31, 2013, the Company’s variable-rate debt obligations consisted primarily of U.S. dollar commercial paper borrowings (refer to Note 10 to the Consolidated Financial Statements for information regarding the Company’s outstanding commercial paper balances as of December 31, 2013). As a result, the Company’s primary interest rate exposure results from changes in short-term U.S. dollar interest rates. As these shorter duration obligations mature, the Company anticipates issuing additional short-term commercial paper obligations to refinance all or part of these borrowings. In 2013, a 50% increase in average market interest rates on the Company’s commercial paper borrowings would have increased the Company’s interest expense by approximately $0.4 million. A 50% hypothetical fluctuation is used as the Company’s actual commercial paper interest rates fluctuated near that amount during 2013. 
+
+Currency Exchange Rate Risk
+
+The Company faces transactional exchange rate risk from transactions with customers in countries outside the United States and from intercompany transactions between affiliates. Transactional exchange rate risk arises from the purchase and sale of goods and services in currencies other than Danaher’s functional currency or the functional currency of our applicable subsidiary. The Company also faces translational exchange rate risk related to the translation of financial statements of our foreign operations into U.S. dollars, Danaher’s functional currency. Costs incurred and sales recorded by subsidiaries operating outside of the United States are translated into U.S. dollars using exchange rates effective during the respective period. As a result, the Company is exposed to movements in the exchange rates of various currencies against the U.S. dollar. In particular, 
+
+44
+the Company has more sales in European currencies than it has expenses in those currencies. Therefore, when European currencies strengthen or weaken against the U.S. dollar, operating profits are increased or decreased, respectively. The effect of a change in currency exchange rates on the Company’s net investment in international subsidiaries is reflected in the accumulated other comprehensive income component of stockholders’ equity. A 10% depreciation in major currencies relative to the U.S. dollar at December 31, 2013 would have resulted in a reduction of stockholders’ equity of approximately $750 million.
+
+Currency exchange rates negatively impacted 2013 reported sales by 0.5% on a year-over-year basis as the U.S. dollar was, on average, stronger against other major currencies during 2013 as compared to exchange rate levels during 2012. The U.S. dollar's strength against other major currencies throughout the majority of 2013 more than offset the positive impact on sales from the slight weakening of the U.S. dollar prior to the end of the fourth quarter 2013.
+
+If the exchange rates in effect as of December 31, 2013 were to prevail throughout 2014, currency exchange rates would positively impact 2014 estimated sales by approximately 0.5% relative to the Company’s performance in 2013. Additional weakening of the U.S. dollar against other major currencies would further positively impact the Company’s sales and results of operations. Any strengthening of the U.S. dollar against other major currencies would adversely impact the Company’s sales and results of operations on an overall basis.
+
+The Company has generally accepted the exposure to exchange rate movements without using derivative financial instruments to manage this risk. Both positive and negative movements in currency exchange rates against the U.S. dollar will therefore continue to affect the reported amount of sales, profit, and assets and liabilities in the Company’s Consolidated Financial Statements.
+
+In connection with a prior acquisition, the Company acquired a currency swap agreement that required the Company to purchase approximately 184 million Japanese Yen (JPY/¥) at a rate of $1/¥102.25 on a monthly basis through June 1, 2018. During 2013, the Company terminated portions of the currency swap agreement, reducing the Company's monthly purchase commitment to approximately ¥27 million. In connection with the partial termination of the currency swap agreement, the Company paid $10 million to the swap counterparties representing the fair value of the terminated portions of the currency swap. As of December 31, 2013, the aggregate Japanese Yen purchase commitment was approximately ¥1.4 billion (approximately $14 million based on exchange rates as of December 31, 2013). The currency swap does not qualify for hedge accounting and as a result changes in the fair value of the currency swap are reflected in selling, general and administrative expenses in the accompanying Consolidated Statements of Earnings each reporting period. During the years ended December 31, 2013, 2012 and 2011, the Company recorded pre-tax income of $14 million and $22 million and a pre-tax charge of $8 million, respectively, related to changes in the fair value of this currency swap.
+
+Credit Risk
+
+The Company is exposed to potential credit losses in the event of nonperformance by counterparties to its financial instruments. Financial instruments that potentially subject the Company to credit risk consist of cash and temporary investments, receivables from customers and derivatives. The Company places cash and temporary investments with various high-quality financial institutions throughout the world and exposure is limited at any one institution. Although the Company typically does not obtain collateral or other security to secure these obligations, it does regularly monitor the third party depository institutions that hold our cash and cash equivalents. The Company’s emphasis is primarily on safety and liquidity of principal and secondarily on maximizing yield on those funds.
+
+In addition, concentrations of credit risk arising from receivables from customers are limited due to the diversity of the Company’s customers. The Company’s businesses perform credit evaluations of their customers’ financial conditions as appropriate and also obtain collateral or other security when appropriate.
+
+The Company enters into derivative transactions infrequently and, with the exception of the Yen swap noted above, such transactions are generally insignificant to the Company's financial condition and results of operations. These transactions are entered into only with high-quality financial institutions and exposure at any one institution is limited.
+
+Equity Price Risk
+
+The Company’s available-for-sale investment portfolio includes publicly traded equity securities that are sensitive to fluctuations in market price. Changes in equity prices would result in changes in the fair value of the Company’s available-for-sale investments due to the difference between the current market price and the market price at the date of purchase or issuance of the equity securities. A 10% decline in the value of these equity securities as of December 31, 2013 would have reduced the fair value of the Company’s available-for-sale investment portfolio by $39 million.
+
+45
+Commodity Price Risk
+
+For a discussion of risks relating to commodity prices, refer “Item 1A. Risk Factors.”
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Management assesses the Company’s liquidity in terms of its ability to generate cash to fund its operating, investing and financing activities. The Company continues to generate substantial cash from operating activities and believes that its operating cash flow and other sources of liquidity will be sufficient to allow it to continue investing in existing businesses, consummating strategic acquisitions, paying interest and servicing debt and managing its capital structure on a short and long-term basis. 
+
+Following is an overview of the Company's cash flows and liquidity for the years ended December 31, 2013, 2012 and 2011: 
+
+Overview of Cash Flows and Liquidity
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+46
+[DATA_TABLE_REMOVED]
+
+Operating Activities
+
+Cash flows from operating activities can fluctuate significantly from period to period as working capital needs and the timing of payments for items such as income taxes, restructuring activities, pension funding and other items impact reported cash flows.
+
+Operating cash flows from continuing operations were $3.6 billion for 2013, an increase of $83 million, or 2% as compared to 2012. The year-over-year change in operating cash flows from 2012 to 2013 was primarily attributable to the following factors:[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+Operating cash flows from continuing operations were $3.5 billion for 2012, an increase of $770 million, or 28% as compared to 2011. The increase in operating cash flows was primarily attributable to the increase in earnings in 2012 as compared to 2011. 
+
+Investing Activities
+
+Cash flows relating to investing activities consist primarily of cash used for acquisitions and capital expenditures and cash proceeds from divestitures of businesses or assets.
+
+Net cash used in investing activities was $553 million during 2013 compared to $1.9 billion of net cash used in 2012 and $5.8 billion of net cash used in 2011.
+
+Acquisitions and Divestitures
+
+2013 Acquisitions and Divestitures
+
+For a discussion of the Company’s 2013 acquisitions, the sale of the Company's ownership interest in Apex and the sale of Align common stock, refer to “—Overview.”
+
+47
+2012 Acquisitions and Divestitures
+
+During 2012, the Company acquired fourteen businesses for total consideration of $1.8 billion in cash, net of cash acquired. The businesses acquired complement existing units of each of the Company's five segments. The aggregate annual sales of these fourteen businesses at the time of their respective acquisitions, in each case based on the company’s revenues for its last completed fiscal year prior to the acquisition, were $666 million. 
+
+In January 2012, the Company completed the sale of its integrated scanning system business (the ASI business) for $132 million in cash. In addition, in February 2012, the Company completed the sale of its KEO business for $205 million in cash. These businesses were part of the Industrial Technologies segment. The businesses had combined annual revenues of $275 million in 2011. The Company recorded an aggregate after-tax gain on the sale of these businesses of $94 million, or $0.13 per diluted share, in its first quarter 2012 results. The Company has reported the ASI and KEO businesses (as well as the PSA business, referenced below) as discontinued operations in its consolidated financial statements. Accordingly, the results of operations for all periods presented reflect these businesses as discontinued operations. 
+
+2011 Acquisitions and Divestitures
+
+On June 30, 2011, following the successful completion of the Company’s tender offer for all of the outstanding shares of common stock of Beckman Coulter, the Company completed the acquisition of Beckman Coulter by merging one of its indirect, wholly-owned subsidiaries with and into Beckman Coulter such that Beckman Coulter became an indirect, wholly-owned subsidiary of the Company. Beckman Coulter had revenues of $3.7 billion in 2010, and is included in the Company’s Life Sciences & Diagnostics segment from the acquisition date. The Company obtained control of Beckman Coulter on June 24, 2011 and, as a result, the earnings of Beckman Coulter are reflected in the Company’s results from June 25, 2011 forward.
+
+The Company paid $5.5 billion in cash (net of $450 million of cash acquired) to acquire all of the outstanding shares of common stock of Beckman Coulter and assumed $1.6 billion of indebtedness in connection with the acquisition. The Company financed the acquisition of Beckman Coulter using (1) $2.3 billion of available cash, (2) net proceeds, after expenses and the underwriters’ discount, of $966 million from the underwritten public offering of the Company’s common stock on June 21, 2011, (3) net proceeds, after expenses and the underwriters’ discount, of $1.8 billion from the underwritten public offering of senior unsecured notes on June 23, 2011, and (4) net proceeds from the sale of additional commercial paper under the Company’s U.S. commercial paper program prior to the closing of the acquisition.
+
+In addition to the acquisition of Beckman Coulter, during 2011, the Company completed the acquisition of thirteen other businesses (including the acquisition of EskoArtwork, a leading full-service solutions provider for the digital packaging design and production market) for total consideration of $669 million in cash, net of cash acquired. The additional businesses acquired complement existing units of each of the Company's five segments. The aggregate annual sales of these thirteen businesses at the time of their respective acquisitions, in each case based on the acquired company’s revenues for its last completed fiscal year prior to the acquisition, were $325 million. 
+
+In April 2011, the Company completed the divestiture of its PSA business for $680 million in cash. This business, which was part of the Industrial Technologies segment, had annual revenues of $377 million in 2010. The Company recorded an after-tax gain on the sale of PSA of $202 million, or $0.29 per diluted share, in its second quarter 2011 results. 
+
+Capital Expenditures
+
+Capital expenditures are made primarily for increasing capacity, replacing equipment, supporting new product development, improving information technology systems and the manufacture of instruments that are used in operating-type lease arrangements that certain of the Company’s businesses enter into with customers. Capital expenditures totaled $552 million in 2013, $458 million in 2012 and $334 million in 2011. The increase in capital spending in 2013 and 2012 reflects continued investments in equipment leased to customers and other operating assets. In 2014, the Company expects capital spending to approximate $650 million, though actual expenditures will ultimately depend on business conditions. 
+
+Financing Activities and Indebtedness
+
+Cash flows from financing activities consist primarily of proceeds from the issuance of commercial paper, common stock and debt, excess tax benefits from stock-based compensation, payments of principal on indebtedness, payments for repurchases of common stock and payments of dividends to shareholders. Financing activities used cash of $1.6 billion during 2013 compared to $388 million of cash used during 2012. The year-over-year increase was due primarily to the repayment of the Eurobond Notes and the 2013 Notes upon their maturity in July and June 2013, respectively, and the incrementally higher year-over-year net repayment of commercial paper borrowings. 
+
+48
+Total debt was $3.5 billion and $5.3 billion as of December 31, 2013 and 2012, respectively. The Company’s debt as of December 31, 2013 was as follows:
+
+•$450 million of outstanding U.S. dollar commercial paper;
+
+•$400 million aggregate principal amount of 1.3% senior unsecured notes due 2014 (the “2014 Notes”);
+
+•$500 million aggregate principal amount of 2.3% senior unsecured notes due 2016 (the “2016 Notes”);
+
+•$500 million aggregate principal amount of 5.625% senior unsecured notes due 2018 (the “2018 Notes”);
+
+•$750 million aggregate principal amount of 5.4% senior unsecured notes due 2019 (the “2019 Notes”);
+
+•$600 million aggregate principal amount of 3.9% senior unsecured notes due 2021 (the “2021 Notes” and together with the 2014 Notes and 2016 Notes, the “2011 Financing Notes”);
+
+•$154 million of zero coupon Liquid Yield Option Notes due 2021 (“LYONs”); and
+
+•$145 million of other borrowings.
+
+The 2011 Financing Notes, the 2018 Notes and the 2019 Notes are collectively referred to as the “Notes”.
+
+Commercial Paper Programs and Credit Facility
+
+The Company satisfies any short-term liquidity needs that are not met through operating cash flow and available cash primarily through issuances of commercial paper under its U.S. and Euro commercial paper programs. Under these programs, the Company or a subsidiary of the Company, as applicable, may issue and sell unsecured, short-term promissory notes. Interest expense on the notes is paid at maturity and is generally based on the ratings assigned to the Company by credit rating agencies at the time of the issuance and prevailing market rates measured by reference to LIBOR. Borrowings under the program are available for general corporate purposes, including acquisitions. During 2013, as commercial paper balances matured the Company either paid such balances from available cash or refinanced such balances by issuing new commercial paper. There was no commercial paper outstanding under the Euro program as of December 31, 2013. 
+
+As of December 31, 2013, borrowings outstanding under the Company’s U.S. commercial paper program had a weighted average annual interest rate of 0.1% and a weighted average remaining maturity of approximately fourteen days. Commercial paper outstanding at any one time during the year had balances ranging from $450 million to $1.2 billion, carried interest at annual rates ranging between 0.1% and 0.2% and had original maturities between one and sixty days. The Company has classified its borrowings outstanding under the commercial paper program as of December 31, 2013 and its 2014 Notes as long-term debt in the Consolidated Balance Sheet as the Company had the intent and ability, as supported by availability under the Credit Facility referenced below, to refinance these borrowings for at least one year from the balance sheet date.
+
+Credit support for the commercial paper program is provided by a $2.5 billion unsecured multi-year revolving credit facility with a syndicate of banks that expires on July 15, 2016 (the “Credit Facility”). The Credit Facility can also be used for working capital and other general corporate purposes. Under the Credit Facility, borrowings (other than bid loans) bear interest at a rate equal to (at the Company’s option) either (1) a LIBOR-based rate plus a margin that varies according to the Company’s long-term debt credit rating (the “Eurodollar Rate”), or (2) the highest of (a) the Federal funds rate plus 1/2 of 1%, (b) the prime rate and (c) the Eurodollar Rate plus 1%, plus in each case a margin that varies according to the Company’s long-term debt credit rating. In addition to certain initial fees the Company paid at inception of the Credit Facility, the Company is obligated to pay an annual commitment fee that varies according to its long-term debt credit rating. The Credit Facility requires the Company to maintain a consolidated leverage ratio (as defined in the facility) of 0.65 to 1.00 or less, and also contains customary representations, warranties, conditions precedent, events of default, indemnities and affirmative and negative covenants. As of December 31, 2013, no borrowings were outstanding under the Credit Facility and the Company was in compliance with all covenants under the facility. The non-performance by any member of the Credit Facility syndicate would reduce the maximum capacity of the Credit Facility by such member's commitment amount. In addition to the Credit Facility, the Company has entered into reimbursement agreements with various commercial banks to support the issuance of letters of credit.
+
+The availability of the Credit Facility as a standby liquidity facility to repay maturing commercial paper is an important factor in maintaining the existing credit ratings of the Company’s commercial paper program. The Company expects to limit any borrowings under the Credit Facility to amounts that would leave sufficient credit available under the facility to allow the Company to borrow, if needed, to repay all of the outstanding commercial paper as it matures.
+
+49
+The Company’s ability to access the commercial paper market, and the related costs of these borrowings, is affected by the strength of the Company’s credit rating and market conditions. Any downgrade in the Company’s credit rating would increase the cost of borrowings under the Company’s commercial paper program and the Credit Facility, and could limit or preclude the Company’s ability to issue commercial paper. If the Company’s access to the commercial paper market is adversely affected due to a downgrade, change in market conditions or otherwise, the Company would expect to rely on a combination of available cash, operating cash flow and the Company’s Credit Facility to provide short-term funding. In such event, the cost of borrowings under the Company’s Credit Facility could be higher than the cost of commercial paper borrowings.
+
+On June 17, 2011, the Company entered into a $3.0 billion 364-day unsecured revolving credit facility (the “364-Day Facility”) in connection with the acquisition of Beckman Coulter. The Company terminated the facility as of December 29, 2011. There were no outstanding borrowings under the 364-Day Facility at any time during the term of the facility.
+
+Other Long-Term Indebtedness
+
+2011 Financing Notes—On June 23, 2011, the Company completed the underwritten public offering of the 2011 Financing Notes and the 2013 Notes, all of which are unsecured. The 2013 Notes were issued at 100% of their principal amount, accrued interest at a floating rate equal to three-month LIBOR plus 0.25% per year and matured and were repaid in June 2013. The 2014 Notes were issued at 99.918% of their principal amount, will mature on June 23, 2014 and accrue interest at the rate of 1.3% per year. The 2016 Notes were issued at 99.84% of their principal amount, will mature on June 23, 2016 and accrue interest at the rate of 2.3% per year. The 2021 Notes were issued at 99.975% of their principal amount, will mature on June 23, 2021 and accrue interest at the rate of 3.9% per year. The net proceeds from the 2011 Financing Notes and 2013 Notes offering, after deducting expenses and the underwriters’ discount, were approximately $1.8 billion and were used to fund a portion of the purchase price for the acquisition of Beckman Coulter. The Company paid interest on the 2013 Notes quarterly in arrears on March 21, June 21, September 21 and December 21 of each year. The Company pays interest on the 2014 Notes, 2016 Notes and 2021 Notes semi-annually in arrears, on June 23 and December 23 of each year.
+
+2019 Notes—In March 2009, the Company completed an underwritten public offering of the 2019 Notes, which were issued at 99.93% of their principal amount, will mature on March 1, 2019 and accrue interest at the rate of 5.4% per year. The net proceeds, after expenses and the underwriters’ discount, were approximately $745 million. A portion of the net proceeds were used to repay a portion of the Company’s outstanding commercial paper and the balance was used for general corporate purposes, including acquisitions. The Company pays interest on the 2019 Notes semi-annually in arrears, on March 1 and September 1 of each year.
+
+2018 Notes—In December 2007, the Company completed an underwritten public offering of the 2018 Notes, which were issued at 99.39% of their principal amount, will mature on January 15, 2018 and accrue interest at the rate of 5.625% per year. The net proceeds, after expenses and the underwriters’ discount, were approximately $493 million, which were used to repay a portion of the commercial paper issued to finance the acquisition of the Tektronix business. The Company pays interest on the 2018 Notes semi-annually in arrears, on January 15 and July 15 of each year.
+
+LYONs—In 2001, the Company issued $830 million (value at maturity) in LYONs. The net proceeds to the Company were $505 million, of which approximately $100 million was used to pay down debt and the balance was used for general corporate purposes, including acquisitions. The LYONs carry a yield to maturity of 2.375% (with contingent interest payable as described below). Holders of the LYONs may convert each $1,000 of principal amount at maturity into 29.0704 shares of the Company’s common stock (in the aggregate for all LYONs that were originally issued, approximately 24 million shares of the Company’s common stock) at any time on or before the maturity date of January 22, 2021. As of December 31, 2013, an aggregate of approximately 18 million shares of the Company’s common stock had been issued upon conversion of LYONs. As of December 31, 2013, the accreted value of the outstanding LYONs was lower than the traded market value of the underlying common stock issuable upon conversion. The Company may redeem all or a portion of the LYONs for cash at any time at scheduled redemption prices. Holders had the right to require the Company to purchase all or a portion of the notes for cash and/or Company common stock, at the Company’s option, on each of January 22, 2004 and January 22, 2011, which resulted in aggregate notes with an accreted value of approximately $1 million being redeemed by the Company for cash.
+
+Under the terms of the LYONs, the Company will pay contingent interest to the holders of LYONs during any six month period from January 23 to July 22 and from July 23 to January 22 if the average market price of a LYON for a specified measurement period equals 120% or more of the sum of the issue price and accrued original issue discount for such LYON. The amount of contingent interest to be paid with respect to any quarterly period is equal to the higher of either 0.0315% of the bonds’ average market price during the specified measurement period or the amount of the common stock dividend paid during such quarterly period multiplied by the number of shares issuable upon conversion of a LYON. The Company paid $1 million of contingent interest on the LYONs for each of the years ended December 31, 2013, 2012 and 2011. Except for the contingent interest described above, the Company will not pay interest on the LYONs prior to maturity.
+
+50
+Eurobond Notes—On July 21, 2006, a financing subsidiary of the Company issued the Eurobond Notes in a private placement outside the United States. Payment obligations under these Eurobond Notes were guaranteed by the Company. The net proceeds of the offering, after the deduction of underwriting commissions but prior to the deduction of other issuance costs, were €496 million ($627 million based on exchange rates in effect at the time the offering closed) and were used to pay down a portion of the Company’s outstanding commercial paper and for general corporate purposes, including acquisitions. The Eurobond Notes matured and were repaid in July 2013.
+
+Covenants and Redemption Provisions Applicable to the Notes
+
+The Company may redeem some or all of the 2014 Notes, the 2016 Notes, the 2018 Notes and/or the 2019 Notes at any time by paying the principal amount and a “make-whole” premium, plus accrued and unpaid interest. Prior to March 23, 2021 (three months prior to their maturity date), the Company may redeem some or all of the 2021 Notes by paying the principal amount and a “make-whole” premium, plus accrued and unpaid interest. On or after March 23, 2021, the Company may redeem some or all of the 2021 Notes for their principal amount plus accrued and unpaid interest. If a change of control triggering event occurs with respect to the Notes, each holder of Notes may require the Company to repurchase some or all of its Notes at a purchase price equal to 101% of the principal amount of the Notes, plus accrued interest. A change of control triggering event means the occurrence of both a change of control and a rating event, each as defined in the applicable supplemental indenture. Except in connection with a change of control triggering event as described above, the Company does not have any credit rating downgrade triggers that would accelerate the maturity of a material amount of outstanding debt. 
+
+The indentures pursuant to which the Notes were issued each contain customary covenants including, for example, limits on the incurrence of secured debt and sale/leaseback transactions. None of these covenants are considered restrictive to the Company’s operations and as of December 31, 2013, the Company was in compliance with all of its debt covenants.
+
+Beckman Coulter Indebtedness
+
+In connection with the acquisition of Beckman Coulter in June 2011, the Company assumed indebtedness with a fair value of $1.6 billion (the “Beckman Coulter Notes”). During the third quarter of 2011, the Company retired substantially all of the Beckman Coulter Notes using proceeds from the issuance of U.S. dollar commercial paper and recorded a $33 million ($21 million, after tax or $0.03 per diluted share) charge to earnings due to “make whole” payments associated with the extinguishment of certain of the Beckman Coulter Notes. The charge to earnings is reflected as part of other income (expense) in the Consolidated Statement of Earnings.
+
+For additional details regarding the Company’s debt as of December 31, 2013 see Note 10 to the Consolidated Financial Statements.
+
+Shelf Registration Statement
+
+The Company has filed a “well-known seasoned issuer” shelf registration statement on Form S-3 with the SEC that registers an indeterminate amount of debt securities, common stock, preferred stock, warrants, depositary shares, purchase contracts and units for future issuance. The Company expects to use net proceeds realized by the Company from future securities sales off this shelf registration statement for general corporate purposes, including without limitation repayment or refinancing of debt or other corporate obligations, acquisitions, capital expenditures, share repurchases and dividends, and working capital. 
+
+On June 21, 2011, the Company used its then-current shelf registration statement to complete the underwritten public offering of 19,250,000 shares of Danaher common stock at a price to the public of $51.75 per share. The net proceeds, after deducting expenses and the underwriters' discount, were approximately $966 million and were used to fund a portion of the purchase price for Beckman Coulter. On June 23, 2011, the Company also used this shelf registration statement to complete the underwritten public offering of the 2011 Financing Notes and the 2013 Notes. 
+
+Stock Repurchase Program
+
+Neither the Company nor any “affiliated purchaser” repurchased any shares of Company common stock during 2013. On July 16, 2013, the Company's Board of Directors approved a repurchase program (the “2013 Repurchase Program”) authorizing the repurchase of up to 20 million shares of the Company's common stock from time to time on the open market or in privately negotiated transactions. The 2013 Repurchase Program replaced the repurchase program approved by the Company's Board of Directors in May 2010 (the “2010 Repurchase Program”). There is no expiration date for the 2013 Repurchase Program, and the timing and amount of any shares repurchased under the program will be determined by the Company's management based on its evaluation of market conditions and other factors. The 2013 Repurchase Program may be suspended or discontinued at any time. Any repurchased shares will be available for use in connection with the Company's equity compensation plans (or 
+
+51
+any successor plan) and for other corporate purposes. As of December 31, 2013, 20 million shares remained available for repurchase pursuant to the 2013 Repurchase Program. The Company expects to fund any future stock repurchases using the Company's available cash balances or proceeds from the issuance of commercial paper.
+
+During the year ended December 31, 2012, the Company repurchased approximately 12.5 million shares of Company common stock under the 2010 Repurchase Program in open market transactions at a cost of $648 million. Neither the Company nor any “affiliated purchaser” repurchased any shares of Company common stock during 2011. 
+
+Dividends
+
+The Company declared a regular dividend of $0.025 per share that was paid on January 31, 2014 to holders of record on December 30, 2013. Aggregate cash payments for dividends during 2013 were $52 million. Dividend payments were lower in 2013 as compared to 2012 because the Company made no cash payments for dividends during the first quarter of 2013 because the Company's Board had determined to accelerate the quarterly dividend payment that normally would have been paid in January 2013 and paid it in December 2012.
+
+Cash and Cash Requirements
+
+As of December 31, 2013, the Company held $3.1 billion of cash and cash equivalents that were invested in highly liquid investment grade debt instruments with a maturity of 90 days or less with an approximate weighted average annual interest rate of 0.3%. $932 million of this amount was held within the United States and $2.2 billion was held outside of the United States. The Company will continue to have cash requirements to support working capital needs, capital expenditures and acquisitions, to pay interest and service debt, pay taxes and any related interest or penalties, fund its restructuring activities and pension plans as required, repurchase shares of the Company’s common stock, pay dividends to shareholders and support other business needs. The Company generally intends to use available cash and internally generated funds to meet these cash requirements, but in the event that additional liquidity is required, particularly in connection with acquisitions, the Company may also borrow under its commercial paper program or the Credit Facility, enter into new credit facilities and either borrow directly thereunder or use such credit facilities to backstop additional borrowing capacity under its commercial paper program and/or access the capital markets. The Company also may from time to time access the capital markets to take advantage of favorable interest rate environments or other market conditions. With respect to the 2014 Notes that mature in 2014, the Company expects to repay the principal amounts when due under these notes using available cash, proceeds from the issuance of commercial paper and/or proceeds from other debt issuances.
+
+While repatriation of some cash held outside the United States may be restricted by local laws, most of the Company's foreign cash balances could be repatriated to the United States but, under current law, could be subject to U.S. federal income taxes, less applicable foreign tax credits. For most of its foreign subsidiaries, the Company makes an election regarding the amount of earnings intended for indefinite reinvestment, with the balance available to be repatriated to the United States. A deferred tax liability has been accrued for the funds that are available to be repatriated to the United States. No provisions for U.S. income taxes have been made with respect to earnings that are planned to be reinvested indefinitely outside the United States, and the amount of U.S. income taxes that may be applicable to such earnings is not readily determinable given the various tax planning alternatives the Company could employ if it repatriated these earnings. The cash that the Company's foreign subsidiaries hold for indefinite reinvestment is generally used to finance foreign operations and investments, including acquisitions. As of December 31, 2013 and 2012, the total amount of earnings planned to be reinvested indefinitely outside the United States for which deferred taxes have not been provided was approximately $10.6 billion and $9.3 billion, respectively. As of December 31, 2013, management believes that is has sufficient liquidity to satisfy its cash needs, including its cash needs in the United States.
+
+During 2013, the Company contributed $4 million to its U.S. defined benefit pension plan and $53 million to its non-U.S. defined benefit pension plans. During 2014, the Company’s cash contribution requirements for its U.S. and its non-U.S. defined benefit pension plans are expected to be approximately $50 million and $50 million, respectively. The ultimate amounts to be contributed depend upon, among other things, legal requirements, underlying asset returns, the plan’s funded status, the anticipated tax deductibility of the contribution, local practices, market conditions, interest rates and other factors.
+
+52
+Contractual Obligations
+
+The following table sets forth, by period due or year of expected expiration, as applicable, a summary of the Company’s contractual obligations relating to continuing operations as of December 31, 2013 under (1) long-term debt obligations, (2) leases, (3) purchase obligations and (4) other long-term liabilities reflected on the Company’s balance sheet under GAAP. The amounts presented in the table below do not reflect $599 million of gross unrecognized tax benefits, the timing of which is uncertain. Refer to Note 13 to the Consolidated Financial Statements for additional information on unrecognized tax benefits.
+
+[DATA_TABLE_REMOVED]
+
+(a) As described in Note 10 to the Consolidated Financial Statements.
+
+(b) Amounts do not include interest payments. Interest on long-term debt and capital lease obligations is reflected in a separate line in the table.
+
+(c) Interest payments on long-term debt are projected for future periods using the interest rates in effect as of December 31, 2013. Certain of these projected interest payments may differ in the future based on changes in market interest rates.
+
+(d) As described in Note 16 to the Consolidated Financial Statements, certain leases require the Company to pay real estate taxes, insurance, maintenance and other operating expenses associated with the leased premises. These future costs are not included in the schedule above.
+
+(e) Consist of agreements to purchase goods or services that are enforceable and legally binding on the Company and that specify all significant terms, including fixed or minimum quantities to be purchased, fixed, minimum or variable price provisions and the approximate timing of the transaction.
+
+(f) Primarily consist of obligations under product service and warranty policies and allowances, performance and operating cost guarantees, estimated environmental remediation costs, self-insurance and litigation claims, post-retirement benefits, pension obligations, deferred tax liabilities (excluding unrecognized tax benefits) and deferred compensation obligations. The timing of cash flows associated with these obligations is based upon management’s estimates over the terms of these arrangements and is largely based upon historical experience.
+
+Off-Balance Sheet Arrangements
+
+The following table sets forth, by period due or year of expected expiration, as applicable, a summary of off-balance sheet commitments of the Company as of December 31, 2013.
+
+[DATA_TABLE_REMOVED]
+
+Guarantees consist primarily of outstanding standby letters of credit, bank guarantees and performance and bid bonds. These guarantees have been provided in connection with certain arrangements with vendors, customers, financing counterparties and governmental entities to secure the Company’s obligations and/or performance requirements related to specific transactions.
+
+53
+Other Off-Balance Sheet Arrangements
+
+The Company has from time to time divested certain of its businesses and assets. In connection with these divestitures, the Company often provides representations, warranties and/or indemnities to cover various risks and unknown liabilities, such as claims for damages arising out of the use of products or relating to intellectual property matters, commercial disputes, environmental matters or tax matters. The Company has not included any such items in the contractual obligations table above because they relate to unknown conditions and the Company cannot estimate the potential liabilities from such matters, but the Company does not believe it is reasonably possible that any such liability will have a material effect on the Company’s financial statements. In addition, as a result of these divestitures, as well as restructuring activities, certain properties leased by the Company have been sublet to third parties. In the event any of these third parties vacates any of these premises, the Company would be legally obligated under master lease arrangements. The Company believes that the financial risk of default by such sub-lessors is individually and in the aggregate not material to the Company’s financial statements.
+
+In the normal course of business, the Company periodically enters into agreements that require it to indemnify customers, suppliers or other business partners for specific risks, such as claims for injury or property damage arising out of the Company’s products or services or claims alleging that Company products, services or software infringe third party intellectual property. The Company has not included any such indemnification provisions in the contractual obligations table above. Historically, the Company has not experienced significant losses on these types of indemnification obligations.
+
+The Company’s Restated Certificate of Incorporation requires it to indemnify to the full extent authorized or permitted by law any person made, or threatened to be made a party to any action or proceeding by reason of his or her service as a director or officer of the Company, or by reason of serving at the request of the Company as a director or officer of any other entity, subject to limited exceptions. Danaher’s Amended and Restated By-laws provide for similar indemnification rights. In addition, Danaher has executed with each director and executive officer of Danaher Corporation an indemnification agreement which provides for substantially similar indemnification rights and under which Danaher has agreed to pay expenses in advance of the final disposition of any such indemnifiable proceeding. While the Company maintains insurance for this type of liability, a significant deductible applies to this coverage and any such liability could exceed the amount of the insurance coverage.
+
+Legal Proceedings
+
+Please refer to Note 17 to the Consolidated Financial Statements included in this Annual Report for information regarding certain litigation matters.
+
+In addition to the litigation matters noted under “Item 1. Business – Regulatory Matters – Environmental, Health & Safety,” the Company is, from time to time, subject to a variety of litigation and other legal and regulatory proceedings incidental to its business (or the business operations of previously owned entities). These matters primarily involve claims for damages arising out of the use of the Company’s products, software and services and claims relating to intellectual property matters, employment matters, tax matters, commercial disputes, competition and sales and trading practices, personal injury, insurance coverage and acquisition or divestiture related matters, as well as regulatory investigations or enforcement. The Company may also become subject to lawsuits as a result of past or future acquisitions or as a result of liabilities retained from, or representations, warranties or indemnities provided in connection with, divested businesses. Some of these lawsuits may include claims for punitive, consequential and/or compensatory damages, as well as injunctive relief. Based upon the Company’s experience, current information and applicable law, it does not believe it is reasonably possible that these proceedings and claims will have a material effect on its financial statements.
+
+While the Company maintains general, products, property, workers’ compensation, automobile, cargo, aviation, crime, fiduciary and directors’ and officers’ liability insurance (and has acquired rights under similar policies in connection with certain acquisitions) up to certain limits that cover certain of these claims, this insurance may be insufficient or unavailable to cover such losses. For general, products and property liability and most other insured risks, the Company purchases outside insurance coverage only for severe losses and must establish and maintain reserves with respect to amounts within the self-insured retention. In addition, while the Company believes it is entitled to indemnification from third parties for some of these claims, these rights may also be insufficient or unavailable to cover such losses.
+
+In accordance with accounting guidance, the Company records a liability in the consolidated financial statements for loss contingencies when a loss is known or considered probable and the amount can be reasonably estimated. If the reasonable estimate of a known or probable loss is a range, and no amount within the range is a better estimate than any other, the minimum amount of the range is accrued. If a loss does not meet the known or probable level but is reasonably possible and a loss or range of loss can be reasonably estimated, the estimated loss or range of loss is disclosed. The Company's reserves consist of specific reserves for individual claims and additional amounts for anticipated developments of these claims as well as for incurred but not yet reported claims. The specific reserves for individual known claims are quantified with the assistance of legal counsel and outside risk professionals where appropriate. In addition, outside risk professionals assist in the 
+
+54
+determination of reserves for incurred but not yet reported claims through evaluation of the Company’s specific loss history, actual claims reported and industry trends among statistical and other factors. Reserve estimates may be adjusted as additional information regarding a claim becomes known. Because most contingencies are resolved over long periods of time, liabilities may change in the future due to new developments (including litigation developments, the discovery of new facts, changes in legislation and outcomes of similar cases), changes in assumptions or changes in our settlement strategy. While the Company actively pursues financial recoveries from insurance providers, it does not recognize any recoveries until realized or until such time as a sustained pattern of collections is established related to historical matters of a similar nature and magnitude. If the Company’s self-insurance and litigation reserves prove inadequate, it would be required to incur an expense equal to the amount of the loss incurred in excess of the reserves, which would adversely affect the Company’s financial statements. Please see Note 9 to the Consolidated Financial Statements for information about the amount of our accruals for self-insurance and litigation liability.
+
+For a discussion of additional risks related to legal proceedings, please refer to “Item 1A. Risk Factors.”
+
+CRITICAL ACCOUNTING ESTIMATES
+
+Management’s discussion and analysis of the Company’s financial condition and results of operations is based upon the Company’s Consolidated Financial Statements, which have been prepared in accordance with accounting principles generally accepted in the United States. The preparation of these financial statements requires management to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosure of contingent assets and liabilities. The Company bases these estimates and judgments on historical experience, the current economic environment and on various other assumptions that are believed to be reasonable under the circumstances. Actual results may differ materially from these estimates and judgments.
+
+The Company believes the following accounting estimates are most critical to an understanding of its financial statements. Estimates are considered to be critical if they meet both of the following criteria: (1) the estimate requires assumptions about material matters that are uncertain at the time the estimate is made, and (2) material changes in the estimate are reasonably likely from period to period. For a detailed discussion on the application of these and other accounting estimates, refer to Note 1 in the Company’s Consolidated Financial Statements.
+
+Accounts Receivable: The Company maintains allowances for doubtful accounts to reflect probable credit losses inherent in its portfolio of receivables. Determination of the allowances requires management to exercise judgment about the timing, frequency and severity of credit losses that could materially affect the allowances for doubtful accounts and, therefore, net income. The allowances for doubtful accounts represent management’s best estimate of the credit losses expected from the Company’s trade accounts, contract and finance receivable portfolios. The level of the allowances is based on many quantitative and qualitative factors including historical loss experience by receivable type, portfolio duration, delinquency trends, economic conditions and credit risk quality. The Company regularly performs detailed reviews of its accounts receivable portfolio to determine if an impairment has occurred and to assess the adequacy of the allowances. If the financial condition of the Company’s customers were to deteriorate with a severity, frequency and/or timing different from the Company's assumptions, additional allowances would be required and the Company’s financial statements would be adversely impacted.
+
+Inventories: The Company records inventory at the lower of cost or market value. The Company estimates the market value of its inventory based on assumptions of future demand and related pricing. Estimating the market value of inventory is inherently uncertain because levels of demand, technological advances and pricing competition in many of the Company’s markets can fluctuate significantly from period to period due to circumstances beyond the Company’s control. If actual market conditions are less favorable than those projected by management, the Company could be required to reduce the value of its inventory, which would adversely impact the Company’s financial statements.
+
+Acquired Intangibles: The Company’s business acquisitions typically result in the recognition of goodwill, in-process research and development and other intangible assets, which affect the amount of future period amortization expense and possible impairment charges that the Company may incur. Refer to Notes 1, 2 and 7 in the Company’s consolidated financial statements for a description of the Company’s policies relating to goodwill, acquired intangibles and acquisitions.
+
+In performing its goodwill impairment testing, the Company estimates the fair value of its reporting units primarily using a market based approach. The Company estimates fair value based on multiples of earnings before interest, taxes, depreciation and amortization (“EBITDA”) determined by current trading market multiples of earnings for companies operating in businesses similar to each of the Company’s reporting units, in addition to recent market available sale transactions of comparable businesses. In evaluating the estimates derived by the market based approach, management makes judgments about the relevance and reliability of the multiples by considering factors unique to its reporting units, including operating results, business plans, economic projections, anticipated future cash flows, and transactions and marketplace data as well as 
+
+55
+judgments about the comparability of the market proxies selected. In certain circumstances the Company also estimates fair value utilizing a discounted cash flow analysis (i.e., an income approach) in order to validate the results of the market approach. The discounted cash flow model requires judgmental assumptions about projected revenue growth, future operating margins, discount rates and terminal values. There are inherent uncertainties related to these assumptions and management’s judgment in applying them to the analysis of goodwill impairment. 
+
+As of December 31, 2013, the Company had twenty-two reporting units for goodwill impairment testing. Reporting units resulting from recent acquisitions generally present the highest risk of impairment. Management believes the impairment risk associated with these reporting units decreases as these businesses are integrated into the Company and better positioned for potential future earnings growth. The carrying value of the goodwill included in each individual reporting unit ranges from $7 million to $4.4 billion. The Company’s annual goodwill impairment analysis in 2013 indicated that in all instances, the fair values of the Company’s reporting units exceeded their carrying values and consequently did not result in an impairment charge. The excess of the estimated fair value over carrying value (expressed as a percentage of carrying value for the respective reporting unit) for each of the Company’s reporting units as of the annual testing date ranged from approximately 3% to approximately 885%. In order to evaluate the sensitivity of the fair value calculations used in the goodwill impairment test, the Company applied a hypothetical 10% decrease to the fair values of each reporting unit and compared those values to the reporting unit carrying values. Based on this hypothetical 10% decrease, the excess of the estimated fair value over carrying value (expressed as a percentage of carrying value for the respective reporting unit) for each of the Company’s reporting units ranged from approximately -7% to approximately 785%. Two reporting units’ hypothetically 10% decreased fair values were lower than their respective carrying values. Management evaluated other factors relating to the fair value of these reporting units, including as applicable the short period of time since the acquisition of these businesses, results of the estimate of fair value using the income approach, market positions of the businesses, comparability of market sales transactions and financial and operating performance, and concluded no impairment charge was required. 
+
+The Company reviews identified intangible assets for impairment whenever events or changes in circumstances indicate that the related carrying amounts may not be recoverable. The Company also tests intangible assets with indefinite lives at least annually for impairment. Determining whether an impairment loss occurred requires a comparison of the carrying amount to the sum of undiscounted cash flows expected to be generated by the asset. These analyses require management to make judgments and estimates about future revenues, expenses, market conditions and discount rates related to these assets.
+
+If actual results are not consistent with management’s estimates and assumptions, goodwill and other intangible assets may be overstated and a charge would need to be taken against net earnings which would adversely affect the Company’s financial statements.
+
+Contingent Liabilities: As discussed above under “—Liquidity and Capital Resources – Legal Proceedings”, the Company is, from time to time, subject to a variety of litigation and similar contingent liabilities incidental to its business (or the business operations of previously owned entities). The Company recognizes a liability for any contingency that is known or probable of occurrence and reasonably estimable. These assessments require judgments concerning matters such as litigation developments and outcomes, the anticipated outcome of negotiations, the number of future claims and the cost of both pending and future claims. In addition, because most contingencies are resolved over long periods of time, liabilities may change in the future due to various factors, including those discussed above under “—Liquidity and Capital Resources – Legal Proceedings”. If the reserves established by the Company with respect to these contingent liabilities are inadequate, the Company would be required to incur an expense equal to the amount of the loss incurred in excess of the reserves, which would adversely affect the Company’s financial statements.
+
+Revenue Recognition: The Company derives revenues from the sale of products and services. Refer to Note 1 to the Company’s Consolidated Financial Statements for a description of the Company’s revenue recognition policies. 
+
+Although most of the Company’s sales agreements contain standard terms and conditions, certain agreements contain multiple elements or non-standard terms and conditions. As a result, judgment is sometimes required to determine the appropriate accounting, including whether the deliverables specified in these agreements should be treated as separate units of accounting for revenue recognition purposes, and, if so, how the consideration should be allocated among the elements and when to recognize revenue for each element. The Company allocates revenue to each element in the contractual arrangement based on a selling price hierarchy that, in some instances, may require the Company to estimate the selling price of certain deliverables that are not sold separately or where third party evidence of pricing is not observable. The Company’s estimate of selling price impacts the amount and timing of revenue recognized in multiple element arrangements. The Company also enters into lease arrangements with customers, which requires the Company to determine whether the arrangements are operating or sales-type leases. Certain of the Company’s lease contracts are customized for larger customers and often result in complex terms and conditions that typically require significant judgment in applying the lease accounting criteria.
+
+56
+If the Company's judgments regarding revenue recognition prove incorrect, the Company's revenues in particular periods may be adversely affected. 
+
+Stock-Based Compensation: For a description of the Company’s stock-based compensation accounting practices, refer to Note 18 to the Company’s Consolidated Financial Statements. Determining the appropriate fair value model and calculating the fair value of stock-based payment awards require subjective assumptions, including the expected life of the awards, stock price volatility and expected forfeiture rate. The assumptions used in calculating the fair value of stock-based payment awards represent the Company’s best estimates, but these estimates involve inherent uncertainties and the application of management judgment. If actual results are not consistent with management’s assumptions and estimates, the Company’s equity-based compensation expense could be materially different in the future. 
+
+Pension and Other Post-retirement Benefits: For a description of the Company’s pension and other post-retirement benefit accounting practices, refer to Notes 11 and 12 in the Company’s Consolidated Financial Statements. Calculations of the amount of pension and other post-retirement benefit costs and obligations depend on the assumptions used in the actuarial valuations, including assumptions regarding discount rates, expected return on plan assets, rates of salary increases, health care cost trend rates, mortality rates, and other factors. If the assumptions used in calculating pension and other post-retirement benefits costs and obligations are incorrect or if the factors underlying the assumptions change (as a result of differences in actual experience, changes in key economic indicators or other factors) the Company’s financial statements could be materially affected. A 50 basis point reduction in the discount rates used for the plans would have increased the U.S. net obligation by $130 million ($81 million on an after tax basis) and the non-U.S. net obligation by $109 million ($77 million on an after tax basis) from the amounts recorded in the financial statements as of December 31, 2013.
+
+For 2013, the estimated long-term rate of return for the U.S. plan is 7.5%, and the Company intends to use an assumption of 7.5% for 2014. This expected rate of return reflects the asset allocation of the plan and the expected long-term returns on equity and debt investments included in plan assets. The U.S. plan targets to invest between 60% and 70% of its assets in equity portfolios which are invested in funds that are expected to mirror broad market returns for equity securities or in assets with characteristics similar to equity investments. The balance of the asset portfolio is generally invested in bond funds. The Company’s non-U.S. plan assets consist of various insurance contracts, equity and debt securities as determined by the administrator of each plan. The estimated long-term rate of return for the non-U.S. plans was determined on a plan by plan basis based on the nature of the plan assets and ranged from 1.25% to 6.70%. If the expected long-term rate of return on plan assets for 2013 was reduced by 50 basis points, pension expense for the U.S. and non-U.S. plans for 2013 would have increased $9 million ($6 million on an after-tax basis) and $4 million ($3 million on an after-tax basis), respectively. 
+
+For a discussion of the Company’s 2013 and anticipated 2014 defined benefit pension plan contributions, please see “—Liquidity and Capital Resources - Cash and Cash Requirements”.
+
+Income Taxes: For a description of the Company's income tax accounting policies, refer to Notes 1 and 13 to the Company's Consolidated Financial Statements. The Company establishes valuation allowances for its deferred tax assets if it is more likely than not that some or all of the deferred tax asset will not be realized which requires management to make judgments and estimates regarding: (1) the timing and amount of the reversal of taxable temporary differences, (2) expected future taxable income, and (3) the impact of tax planning strategies. Future changes to tax rates would also impact the amounts of deferred tax assets and liabilities and could have an adverse impact on the Company’s financial statements. 
+
+The Company provides for unrecognized tax benefits when, based upon the technical merits, it is “more-likely-than-not” that an uncertain tax position will not be sustained upon examination. Judgment is required in evaluating tax positions and determining income tax provisions. The Company re-evaluates the technical merits of its tax positions and may recognize an uncertain tax benefit in certain circumstances, including when: (i) a tax audit is completed; (ii) applicable tax laws change, including a tax case ruling or legislative guidance; or (iii) the applicable statute of limitations expires.
+
+In addition, certain of the Company's tax returns are currently under review by tax authorities including in Denmark and Germany (see “—Results of Operations – Income Taxes" and Note 13 of the Notes to the Consolidated Financial Statements). Management believes the positions taken in these returns are in accordance with the relevant tax laws. However, the outcome of these audits is uncertain and could result in the Company being required to record charges for prior year tax obligations which could have a material adverse impact to the Company's financial statements, including its effective tax rate.
+
+An increase in our nominal tax rate of 1.0% would have resulted in an additional income tax provision for continuing operations for the fiscal year ended December 31, 2013 of $36 million.
+
+NEW ACCOUNTING STANDARDS
+
+None. 
+
+57
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK

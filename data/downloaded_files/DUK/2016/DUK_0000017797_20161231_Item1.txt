@@ -1,0 +1,459 @@
+PART I
+
+ITEM 1. BUSINESS
+
+DUKE ENERGY
+
+General
+
+Duke Energy Corporation (collectively with its subsidiaries, Duke Energy) is an energy company headquartered in Charlotte, North Carolina, subject to regulation by the Federal Energy Regulatory Commission (FERC). Duke Energy operates in the United States (U.S.) primarily through its direct and indirect subsidiaries. Certain Duke Energy subsidiaries are also subsidiary registrants, including Duke Energy Carolinas, LLC (Duke Energy Carolinas); Progress Energy, Inc. (Progress Energy); Duke Energy Progress, LLC (Duke Energy Progress); Duke Energy Florida, LLC (Duke Energy Florida); Duke Energy Ohio, Inc. (Duke Energy Ohio); and Duke Energy Indiana, LLC (Duke Energy Indiana). On October 3, 2016, Duke Energy acquired Piedmont Natural Gas Company, Inc. (Piedmont) which also became a wholly owned subsidiary and subsidiary registrant of Duke Energy. Duke Energy's consolidated financial statements include Piedmont's results of operations and cash flow activity subsequent to the acquisition. See Note 2 for additional information regarding the acquisition. When discussing Duke Energy’s consolidated financial information, it necessarily includes the results of its seven separate subsidiary registrants (collectively referred to as the Subsidiary Registrants), which along with Duke Energy, are collectively referred to as the Duke Energy Registrants (Duke Energy Registrants).
+
+Piedmont, a North Carolina corporation, is an energy services company whose principal business is the distribution of natural gas to over one million residential, commercial, industrial and power generation customers in portions of North Carolina, South Carolina and Tennessee, including customers served by municipalities who are Piedmont's sales for resale customers. In October 2016, Duke Energy completed the acquisition of Piedmont for a total cash purchase price of $5.0 billion and assumed Piedmont's existing long-term debt, which had an estimated fair value of approximately $2.0 billion at the time of the acquisition. The acquisition provides a foundation for Duke Energy to establish a broader, long-term strategic natural gas infrastructure platform to supplement and complement its existing natural gas pipeline investments and regulated natural gas business in the Midwest. For additional information on the details of this transaction, including preliminary purchase price allocation and acquisition financing, see Item 7, Management's Discussion and Analysis of Financial Condition and Results of Operations (MD&A) and Note 2 to the Consolidated Financial Statements, "Acquisitions and Dispositions."
+
+In December 2016, Duke Energy completed the sale of its Latin American businesses to focus on its domestic regulated electric and gas businesses, which was further bolstered by the acquisition of Piedmont. The sale of the International Energy businesses, excluding an equity method investment in National Methanol Company (NMC), was completed through two transactions including the sale of Duke Energy's Brazilian business to China Three Gorges and Duke Energy's remaining Central and South American businesses to I Squared Capital (collectively, the International Disposal Group). See Note 2 to the Consolidated Financial Statements, "Acquisitions and Dispositions," for additional information. 
+
+The Duke Energy Registrants electronically file reports with the Securities and Exchange Commission (SEC), including annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, proxies and amendments to such reports.
+
+The public may read and copy any materials the Duke Energy Registrants file with the SEC at the SEC’s Public Reference Room at 100 F Street, NE, Washington, DC 20549. The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. The SEC also maintains an internet site that contains reports, proxy and information statements and other information regarding issuers that file electronically with the SEC at http://www.sec.gov. Additionally, information about the Duke Energy Registrants, including reports filed with the SEC, is available through Duke Energy’s website at http://www.duke-energy.com. Such reports are accessible at no charge and are made available as soon as reasonably practicable after such material is filed with or furnished to the SEC.
+
+Business Segments
+
+The acquisition of Piedmont and sale of the International Disposal Group has resulted in a realigned business with three reportable operating segments (business segments); Electric Utilities and Infrastructure, Gas Utilities and Infrastructure and Commercial Renewables. The remainder of Duke Energy’s operations is presented as Other. Duke Energy's chief operating decision maker routinely reviews financial information about each of these business segments in deciding how to allocate resources and evaluate the performance of the business. For additional information on each of these business segments, including financial and geographic information, see Note 3 to the Consolidated Financial Statements, “Business Segments.” The following sections describe the business and operations of each of Duke Energy’s business segments, as well as Other.
+
+9
+
+PART I
+
+ELECTRIC UTILITIES AND INFRASTRUCTURE
+
+Electric Utilities and Infrastructure conducts operations primarily through the regulated public utilities of Duke Energy Carolinas, Duke Energy Progress, Duke Energy Florida, Duke Energy Indiana and Duke Energy Ohio. Electric Utilities and Infrastructure provides retail electric service through the generation, transmission, distribution and sale of electricity to approximately 7.5 million customers within the Southeast and Midwest regions of the U.S. The service territory is approximately 95,000 square miles across six states with a total estimated population of 24 million people. The operations include electricity sold wholesale to municipalities, electric cooperative utilities and other load-serving entities. Electric Utilities and Infrastructure is also a joint owner in certain electric transmission projects. Electric Utilities and Infrastructure has a 50 percent ownership interest in Duke-American Transmission Co. (DATC), a partnership with American Transmission Company, formed to design, build and operate transmission infrastructure. DATC owns 72 percent of the transmission service rights to Path 15, an 84-mile transmission line in central California. Electric Utilities and Infrastructure also has a 50 percent ownership interest in Pioneer Transmission, LLC, which builds, owns and operates electric transmission facilities in North America.
+
+The electric operations and investments in projects are subject to the rules and regulations of the FERC, the North Carolina Utilities Commission (NCUC), the Public Service Commission of South Carolina (PSCSC), the Florida Public Service Commission (FPSC), the Indiana Utility Regulatory Commission (IURC), the Public Utilities Commission of Ohio (PUCO) and the Kentucky Public Service Commission (KPSC).
+
+The following table represents the distribution of billed sales by customer class for the year ended December 31, 2016.
+
+[DATA_TABLE_REMOVED]
+
+(a)Primary general service sectors include health care, education, financial services, information technology and military buildings. Primary industrial sectors include textiles, chemicals, rubber and plastics, paper, food and beverage and auto manufacturing.
+
+(b)Primary general service sectors include tourism, health care and government facilities and schools. Primary industrial sectors include phosphate rock mining and processing and citrus and other food processing.
+
+(c)Primary general service sectors include health care, education, real estate and rental leasing, financial and insurance services, water/wastewater services and wholesale trade services. Primary industrial sectors include primary metals, chemicals, food and beverage and transportation.
+
+(d)Primary general service sectors include retail, financial, health care and education services. Primary industrial sectors include metals, transportation, building materials, food and beverage and chemicals.
+
+The number of residential and general service customers within the Electric Utilities and Infrastructure service territory is expected to increase over time. While economic conditions within the service territory continue to improve, sales growth has been hampered by continued adoption of energy efficiencies and self-generation. The continued adoption of more efficient housing and appliances is expected to have a negative impact on average usage per residential customer over time. While residential sales increased in 2016 compared to 2015, the growth rate was modest when compared to historical periods.
+
+Seasonality and the Impact of Weather
+
+Revenues and costs are influenced by seasonal weather patterns. Peak sales of electricity occur during the summer and winter months which results in higher revenue and cash flows during these periods. By contrast, lower sales of electricity occur during the spring and fall, allowing for scheduled plant maintenance. Residential and general service customers are more impacted by weather than industrial customers. Estimated weather impacts are based on actual current period weather compared to normal weather conditions. Normal weather conditions are defined as the long-term average of actual historical weather conditions.
+
+The estimated impact of weather on earnings is based on the temperature variances from a normal condition and customers’ historic usage patterns. The methodology used to estimate the impact of weather does not consider all variables that may impact customer response to weather conditions such as humidity in the summer or wind chill in the winter. The precision of this estimate may also be impacted by applying long-term weather trends to shorter-term periods.
+
+Heating-degree days measure the variation in weather based on the extent the average daily temperature falls below a base temperature. Cooling-degree days measure the variation in weather based on the extent the average daily temperature rises above the base temperature. Each degree of temperature below the base temperature counts as one heating-degree day and each degree of temperature above the base temperature counts as one cooling-degree day.
+
+10
+
+PART I
+
+Competition
+
+Retail
+
+Electric Utilities and Infrastructure’s businesses operate as the sole supplier of electricity within their service territories, with the exception of Ohio, which has a competitive electricity supply market for generation service. Electric Utilities and Infrastructure owns and operates facilities necessary to transmit and distribute electricity and, except in Ohio, to generate electricity. Services are priced by state commission approved rates designed to include the costs of providing these services and a reasonable return on invested capital. This regulatory policy is intended to provide safe and reliable electricity at fair prices. 
+
+Competition in the regulated electric distribution business is primarily from the development and deployment of alternative energy sources including on-site generation from industrial customers and distributed generation, such as private solar, at residential, general service and/or industrial customer sites.
+
+Duke Energy is not aware of any proposed legislation within any of its jurisdictions that would provide retail customers the right to choose their electricity provider or otherwise restructure or deregulate the electric industry, including broadly subsidizing distributed generation such as private solar.
+
+Although there is no pending legislation at this time, if the retail jurisdictions served by Electric Utilities and Infrastructure become subject to deregulation, the recovery of stranded costs could become a significant consideration. Stranded costs primarily include the generation assets of Electric Utilities and Infrastructure whose value in a competitive marketplace may be less than their current book value, as well as above-market purchased power commitments from qualifying facilities (QFs). The Public Utility Regulatory Policies Act of 1978 (PURPA) established a new class of generating facilities as QFs, typically small power production facilities that generate power within a utility company’s service territory for which the utility companies are legally obligated to purchase the energy at an avoided cost rate. Thus far, all states that have passed restructuring legislation have provided for the opportunity to recover a substantial portion of stranded costs.
+
+Electric Utilities and Infrastructure’s largest stranded cost exposure is primarily related to Duke Energy Florida’s purchased power commitments with QFs, under which it has future minimum expected capacity payments through 2043 of $2.8 billion. Duke Energy Florida was obligated to enter into these contracts under provisions of PURPA. Duke Energy Florida continues to seek ways to address the impact of escalating payments under these contracts. However, the FPSC allows full recovery of the retail portion of the cost of power purchased from QFs. For additional information related to these purchased power commitments, see Note 5 to the Consolidated Financial Statements, “Commitments and Contingencies.” 
+
+In Ohio, Electric Utilities and Infrastructure conducts competitive auctions for electricity supply. The cost of energy purchased through these auctions is recovered from retail customers. Electric Utilities earns retail margin in Ohio on the transmission and distribution of electricity and not on the cost of the underlying energy.
+
+Wholesale
+
+Duke Energy competes with other utilities and merchant generators for bulk power sales, sales to municipalities and cooperatives and wholesale transactions under primarily cost-based contracts approved by FERC. The principal factors in competing for these sales are price, availability of capacity and power and reliability of service. Prices are influenced primarily by market conditions and fuel costs.
+
+Increased competition in the wholesale electric utility industry and the availability of transmission access could affect Electric Utilities and Infrastructure’s load forecasts, plans for power supply and wholesale energy sales and related revenues. Wholesale energy sales will be impacted by the extent to which additional generation is available to sell to the wholesale market and the ability of Electric Utilities and Infrastructure to attract new customers and to retain existing customers.
+
+Energy Capacity and Resources
+
+Electric Utilities and Infrastructure owns approximately 49,300 megawatts (MW) of generation capacity. For additional information on owned generation facilities, see Item 2, “Properties.”
+
+Energy and capacity are also supplied through contracts with other generators and purchased on the open market. Factors that could cause Electric Utilities and Infrastructure to purchase power for its customers include generating plant outages, extreme weather conditions, generation reliability, demand growth and price. Electric Utilities and Infrastructure has interconnections and arrangements with its neighboring utilities to facilitate planning, emergency assistance, sale and purchase of capacity and energy and reliability of power supply.
+
+Electric Utilities and Infrastructure’s generation portfolio is a balanced mix of energy resources having different operating characteristics and fuel sources designed to provide energy at the lowest possible cost to meet its obligation to serve retail customers. All options, including owned generation resources and purchased power opportunities, are continually evaluated on a real-time basis to select and dispatch the lowest-cost resources available to meet system load requirements.
+
+Potential Plant Retirements
+
+The Subsidiary Registrants periodically file Integrated Resource Plans (IRP) with state regulatory commissions. The IRPs provide a view of forecasted energy needs over a long term (10 to 20 years) and options being considered to meet those needs. Recent IRPs filed by the Subsidiary Registrants included planning assumptions to potentially retire certain coal-fired generating facilities earlier than their current estimated useful lives, primarily because these facilities do not have the requisite emission control equipment to meet United States Environmental Protection Agency (EPA) regulations recently approved or proposed. Duke Energy continues to evaluate the potential need to retire these coal-fired generating facilities earlier than the current estimated useful lives and plans to seek regulatory recovery for amounts that would not be otherwise recovered when any of these assets are retired. For additional information related to potential plant retirements see Note 4 to the Consolidated Financial Statements, “Regulatory Matters.”
+
+11
+
+PART I
+
+On October 23, 2015, the EPA published in the Federal Register the final Clean Power Plan (CPP) rule that regulates carbon dioxide (CO2) emissions from existing fossil fuel-fired electric generating units (EGUs). The CPP establishes CO2 emission rates and mass cap goals that apply to existing fossil fuel-fired EGUs. Petitions challenging the rule have been filed by several groups. On February 9, 2016, the Supreme Court issued a stay of the final CPP rule, halting implementation of the CPP until legal challenges are resolved. States in which the Duke Energy Registrants operate have suspended work on CPP compliance plans as a result of the stay. Oral arguments before 10 of the 11 judges on D.C. Circuit Court were heard on September 27, 2016. The court is expected to decide the case in early 2017. 
+
+Compliance with CPP could cause the industry to replace coal-fired generation with natural gas and renewables. Costs to operate coal-fired generation plants continue to grow due to increasing environmental compliance requirements, including ash management costs unrelated to CPP, which may result in the retirement of coal-fired generation plants earlier than the current end of useful lives. If the CPP is ultimately upheld by the courts and implementation goes forward, the Duke Energy Registrants could incur increased fuel, purchased power, operation and maintenance and other costs for replacement generation as a result of this rule. Due to the uncertainties related to the implementation of the CPP, the Duke Energy Registrants cannot predict the outcome of these matters.
+
+Sources of Electricity
+
+Electric Utilities and Infrastructure relies principally on coal, nuclear fuel and natural gas for its generation of electricity. The following table lists sources of electricity and fuel costs for the three years ended December 31, 2016.
+
+[DATA_TABLE_REMOVED]
+
+(a)Statistics related to all fuels reflect Electric Utilities and Infrastructure's ownership interest in jointly owned generation facilities. 
+
+(b)Generating figures are net of output required to replenish pumped storage facilities during off-peak periods. 
+
+Coal
+
+Electric Utilities and Infrastructure meets its coal demand through a portfolio of long-term purchase contracts and short-term spot market purchase agreements. Large amounts of coal are purchased under long-term contracts with mining operators who mine both underground and at the surface. Electric Utilities and Infrastructure uses spot market purchases to meet coal requirements not met by long-term contracts. Expiration dates for its long-term contracts, which have various price adjustment provisions and market re-openers, range from 2017 to 2019 for Duke Energy Carolinas, 2017 to 2019 for Duke Energy Progress, 2017 to 2019 for Duke Energy Florida, 2017 for Duke Energy Ohio and 2017 to 2025 for Duke Energy Indiana. Electric Utilities and Infrastructure expects to renew these contracts or enter into similar contracts with other suppliers as existing contracts expire, though prices will fluctuate over time as coal markets change. Coal purchased for the Carolinas is primarily produced from mines in Central Appalachia, Northern Appalachia and the Illinois Basin. Coal purchased for Florida is primarily produced from mines in Colorado and the Illinois Basin. Coal purchased for Kentucky is delivered by barge and is produced from mines along the Ohio River in Illinois, Ohio, West Virginia and Pennsylvania. Coal purchased for Indiana is primarily produced in Indiana and Illinois. Electric Utilities and Infrastructure has an adequate supply of coal under contract to meet its hedging guidelines regarding projected future consumption. As a result of volatility in natural gas prices and the associated impacts on coal-fired dispatch within the generation fleet, coal inventories will continue to fluctuate. Electric Utilities and Infrastructure continues to actively manage its portfolio and has worked with suppliers to obtain increased flexibility in its coal contracts. 
+
+The current average sulfur content of coal purchased by Electric Utilities and Infrastructure is between 1.5 percent and 2 percent for Duke Energy Carolinas, between 1.5 percent and 2 percent for Duke Energy Progress, between 1 percent and 3 percent for Duke Energy Florida, between 3 percent and 3.5 percent for Duke Energy Ohio and between 2.5 percent and 3 percent for Duke Energy Indiana. Electric Utilities and Infrastructure's environmental controls, in combination with the use of sulfur dioxide (SO2) emission allowances, enable Electric Utilities and Infrastructure to satisfy current SO2 emission limitations for its existing facilities.
+
+Nuclear
+
+The industrial processes for producing nuclear generating fuel generally involve the mining and milling of uranium ore to produce uranium concentrates, and services to convert, enrich and fabricate fuel assemblies.
+
+12
+
+PART I
+
+Electric Utilities and Infrastructure has contracted for uranium materials and services to fuel its nuclear reactors. Uranium concentrates, conversion services and enrichment services are primarily met through a diversified portfolio of long-term supply contracts. The contracts are diversified by supplier, country of origin and pricing. Electric Utilities and Infrastructure staggers its contracting so that its portfolio of long-term contracts covers the majority of its fuel requirements in the near term and decreasing portions of its fuel requirements over time thereafter. Near-term requirements not met by long-term supply contracts have been and are expected to be fulfilled with spot market purchases. Due to the technical complexities of changing suppliers of fuel fabrication services, Electric Utilities and Infrastructure generally sources these services to a single domestic supplier on a plant-by-plant basis using multi-year contracts.
+
+Electric Utilities and Infrastructure has entered into fuel contracts that cover 100 percent of its uranium concentrates, conversion services and enrichment services requirements through at least 2017 and cover fabrication services requirements for these plants through at least 2019. For future requirements not already covered under long-term contracts, Electric Utilities and Infrastructure believes it will be able to renew contracts as they expire, or enter into similar contractual arrangements with other suppliers of nuclear fuel materials and services.
+
+Natural Gas and Fuel Oil
+
+Natural gas and fuel oil supply for Electric Utilities and Infrastructure’s generation fleet is purchased under standard industry agreements from various suppliers, including Piedmont. Natural gas supply agreements typically provide for a percentage of forecasted burns being procured over time, with varied expiration dates. Electric Utilities and Infrastructure believes it has access to an adequate supply of natural gas and fuel oil for the reasonably foreseeable future.
+
+Electric Utilities and Infrastructure has certain dual-fuel generating facilities that can operate utilizing both natural gas and fuel oil. The cost of Electric Utilities and Infrastructure’s natural gas and fuel oil is fixed price or determined by published market prices as reported in certain industry publications, plus any transportation and freight costs. Duke Energy Carolinas, Duke Energy Progress, Duke Energy Florida and Duke Energy Indiana use derivative instruments to manage a portion of their exposure to price fluctuations for natural gas. 
+
+Electric Utilities and Infrastructure has firm interstate and intrastate natural gas transportation agreements and storage agreements in place to support generation needed for load requirements. Electric Utilities and Infrastructure may purchase additional shorter-term gas transportation and utilize natural gas interruptible transportation agreements to support generation needed for load requirements. The Electric Utilities and Infrastructure natural gas plants are served by various supply zones and multiple pipelines.
+
+Purchased Power
+
+Electric Utilities and Infrastructure purchases a portion of its capacity and system requirements through purchase obligations, leases and purchase contracts. Electric Utilities and Infrastructure believes it can obtain adequate purchased power capacity to meet future system load needs. However, during periods of high demand, the price and availability of purchased power may be significantly affected.
+
+The following table summarizes purchased power the previous three years:
+
+[DATA_TABLE_REMOVED]
+
+(a)Represents approximately 7 percent of total system requirements for 2016 and 6 percent for 2015 and 2014.
+
+(b) These agreements include approximately 451 MW of firm capacity under contract by Duke Energy Florida with QFs.
+
+Inventory
+
+Generation of electricity is capital intensive. Electric Utilities and Infrastructure must maintain an adequate stock of fuel and materials and supplies in order to ensure continuous operation of generating facilities and reliable delivery to customers. As of December 31, 2016, the inventory balance for Electric Utilities and Infrastructure was approximately $3.4 billion. For additional information on inventory see Note 1 to the Consolidated Financial Statements, “Summary of Significant Accounting Policies.”
+
+Ash Basin Management
+
+On September 20, 2014, the North Carolina Coal Ash Management Act of 2014 (Coal Ash Act) became law and was amended on June 24, 2015, and July 14, 2016. The Coal Ash Act, as amended, regulates the handling of coal ash within the state and requires closure of ash impoundments by no later than December 31, 2029, based on risk rankings, among other detailed requirements. The Coal Ash Act leaves the decision on cost recovery determinations related to closure of coal ash surface impoundments (ash basins or impoundments) to the normal ratemaking processes before utility regulatory commissions. Duke Energy has and will periodically submit to applicable authorities required site-specific coal ash impoundment remediation or closure plans. These plans and all associated permits must be approved before any work can begin.
+
+On April 17, 2015, the EPA published in the Federal Register a rule to regulate the disposal of coal combustion residuals (CCR) from electric utilities as solid waste. The rule classifies CCR as nonhazardous under Subtitle D of the Resource Conservation and Recovery Act (RCRA). The RCRA and the Coal Ash Act, as amended, finalized the legal framework related to coal ash management practices and ash basin closure. 
+
+Duke Energy has advanced the strategy and implementation for the remediation or closure of coal ash basins. In 2015, Duke Energy began activities at certain North Carolina sites specified as high risk by the Coal Ash Act, including moving coal ash off-site for use in structural fill or to lined landfills. Additional modifications to operating coal plants are underway to comply with RCRA.
+
+For additional information on the ash basins, see Notes 5 and 9 to the Consolidated Financial Statements, "Commitments and Contingencies" and "Asset Retirement Obligations," respectively. 
+
+13
+
+PART I
+
+Nuclear Matters
+
+Duke Energy owns, wholly or partially, 11 operating nuclear reactors located at six stations. The Crystal River Unit 3 Nuclear Plant (Crystal River Unit 3) permanently ceased operation in February 2013. Nuclear insurance includes: nuclear liability coverage; property, decontamination and premature decommissioning coverage; and replacement power expense coverage. Joint owners reimburse Duke Energy for certain expenses associated with nuclear insurance in accordance with joint owner agreements. The Price-Anderson Act requires plant owners to provide for public nuclear liability claims resulting from nuclear incidents to the maximum total financial protection liability, which is approximately $13.4 billion. For additional information on nuclear insurance see Note 5 to the Consolidated Financial Statements, “Commitments and Contingencies.”
+
+Duke Energy has a significant future financial commitment to dispose of spent nuclear fuel and decommission and decontaminate each plant safely. The NCUC, PSCSC and FPSC require Duke Energy to update their cost estimates for decommissioning their nuclear plants every five years.
+
+The following table summarizes the fair value of nuclear decommissioning trust fund (NDTF) balances and cost study results for Duke Energy Carolinas, Duke Energy Progress and Duke Energy Florida.
+
+[DATA_TABLE_REMOVED]
+
+(a) Amounts for Progress Energy equal the sum of Duke Energy Progress and Duke Energy Florida.
+
+(b)Amounts include the Subsidiary Registrants' ownership interest in jointly owned reactors. Other joint owners are responsible for decommissioning costs related to their interest in the reactors.
+
+(c)Duke Energy Florida received reimbursements form the NDTF for costs related to ongoing decommissioning activity of Crystal River Unit 3 during 2016.
+
+The NCUC, PSCSC, FPSC and FERC have allowed Electric Utilities and Infrastructure to recover estimated decommissioning costs through retail and wholesale rates over the expected remaining service periods of their nuclear stations. Electric Utilities and Infrastructure believes the decommissioning costs being recovered through rates, when coupled with the existing fund balance and expected fund earnings, will be sufficient to provide for the cost of future decommissioning. For additional information, see Note 9 to the Consolidated Financial Statements, “Asset Retirement Obligations.”
+
+The Nuclear Waste Policy Act of 1982 (as amended) (NWPA) provides the framework for development by the federal government of interim storage and permanent disposal facilities for high-level radioactive waste materials. The NWPA promotes increased usage of interim storage of spent nuclear fuel at existing nuclear plants. Electric Utilities and Infrastructure will continue to maximize the use of spent fuel storage capability within its own facilities for as long as feasible.
+
+Under federal law, the U.S. Department of Energy (DOE) is responsible for the selection and construction of a facility for the permanent disposal of spent nuclear fuel and high-level radioactive waste. Delays have occurred in the DOE’s proposed permanent repository to be located at Yucca Mountain, Nevada. At this time, DOE's focus is on developing consolidated storage for commercial spent nuclear fuel at one or more central sites rather than at a permanent repository.
+
+Until the DOE begins to accept the spent nuclear fuel, Duke Energy Carolinas, Duke Energy Progress and Duke Energy Florida will continue to safely manage their spent nuclear fuel. Under current regulatory guidelines, Shearon Harris Nuclear Plant (Harris) has sufficient storage capacity in its spent fuel pools through the expiration of its renewed operating license. Crystal River Unit 3 was retired in 2013 and placed in SAFSTOR prior to final decommissioning. The spent fuel is currently stored in the spent fuel pool. An independent spent fuel storage installation will be installed to accommodate storage of all the spent nuclear fuel until the DOE accepts the spent nuclear fuel. With certain modifications and approvals by the U.S. Nuclear Regulatory Commission (NRC) to expand the on-site dry cask storage facilities, spent nuclear fuel dry storage facilities will be sufficient to provide storage space of spent fuel through the expiration of the operating licenses, including any license renewals, for the Brunswick Nuclear Plant (Brunswick), Catawba Nuclear Station (Catawba), McGuire Nuclear Station (McGuire), Oconee Nuclear Station (Oconee) and Robinson Nuclear Plant (Robinson). 
+
+The nuclear power industry faces uncertainties with respect to the cost and long-term availability of disposal sites for spent nuclear fuel and other radioactive waste, compliance with changing regulatory requirements, capital outlays for modifications and new plant construction, the technological and financial aspects of decommissioning plants at the end of their licensed lives and requirements relating to nuclear insurance. 
+
+14
+
+PART I
+
+Electric Utilities and Infrastructure is subject to the jurisdiction of the NRC for the design, construction and operation of its nuclear generating facilities. The following table includes the current year of expiration of nuclear operating licenses for nuclear stations in operation. Nuclear operating licenses are potentially subject to extension. 
+
+[DATA_TABLE_REMOVED]
+
+Duke Energy Florida has requested the NRC to terminate the Crystal River Unit 3 operating license as Crystal River Unit 3 permanently ceased operation in February 2013. For additional information on decommissioning activity, see Note 4 to the Consolidated Financial Statements, "Regulatory Matters."
+
+On October 27, 2016, and December 15, 2016, the NRC issued combined operating licenses for Duke Energy Florida's proposed Levy Nuclear Plant Units 1 and 2 (Levy) and Duke Energy Carolinas' William States Lee III Nuclear Station Units 1 and 2, respectively. For additional information on these proposed nuclear plants, see Note 4 to the Consolidated Financial Statements, "Regulatory Matters."
+
+The NRC issues orders with regard to security at nuclear plants in response to new or emerging threats. The most recent orders include additional restrictions on nuclear plant access, increased security measures at nuclear facilities and closer coordination with intelligence, military, law enforcement and emergency response functions at the federal, state and local levels. As the NRC, other governmental entities and the industry continue to consider security issues, it is possible that more extensive security plans could be required.
+
+Regulation
+
+State
+
+The NCUC, PSCSC, FPSC, PUCO, IURC and KPSC (collectively, the state electric utility commissions) approve rates for Duke Energy's retail electric service within their respective states. The state electric utility commissions, to varying degrees, have authority over the construction and operation of Electric Utilities and Infrastructure’s generating facilities. Certificates of Public Convenience and Necessity issued by the state electric utility commissions, as applicable, authorize Electric Utilities and Infrastructure to construct and operate its electric facilities and to sell electricity to retail and wholesale customers. Prior approval from the relevant state electric utility commission is required for the entities within Electric Utilities and Infrastructure to issue securities. The underlying concept of utility ratemaking is to set rates at a level that allows the utility to collect revenues equal to its cost of providing service plus earn a reasonable rate of return on its invested capital, including equity.
+
+In addition to rates approved in base rate cases, each of the state electric utility commissions allow recovery of certain costs through various cost-recovery clauses to the extent the respective commission determines in periodic hearings that such costs, including any past over or under-recovered costs, are prudent. 
+
+Fuel, fuel-related costs and certain purchased power costs are eligible for recovery by Electric Utilities and Infrastructure. Electric Utilities and Infrastructure uses coal, hydroelectric, natural gas, oil, renewable generation and nuclear fuel to generate electricity, thereby maintaining a diverse fuel mix that helps mitigate the impact of cost increases in any one fuel. Due to the associated regulatory treatment and the method allowed for recovery, changes in fuel costs from year to year have no material impact on operating results of Electric Utilities and Infrastructure, unless a commission finds a portion of such costs to have been imprudent. However, delays between the expenditure for fuel costs and recovery from customers can adversely impact the timing of cash flows of Electric Utilities and Infrastructure.
+
+On December 8, 2016, the PSCSC approved Duke Energy Progress' 2016 South Carolina rate case authorizing an increase of approximately $56 million in revenues over a two-year period. An increase of approximately $38 million in revenues was effective January 1, 2017, and an additional increase of approximately $18.5 million in revenues will be effective January 1, 2018. Duke Energy Progress will amortize approximately $18.5 million from the cost of removal reserve in 2017. Other terms include a rate of return on equity of 10.1 percent, recovery of coal ash costs incurred from January 1, 2015, through June 30, 2016, over a 15-year period and ongoing deferral of allocated ash basin closure costs from July 1, 2016, until the next base rate case. This represents the only base rate case approved and effective in the past three years.
+
+For more information on rate matters and other regulatory proceedings, see Note 4 to the Consolidated Financial Statements, “Regulatory Matters.”
+
+Federal
+
+The FERC approves Electric Utilities and Infrastructure’s cost-based rates for electric sales to certain power and transmission wholesale customers. Regulations of FERC and the state electric utility commissions govern access to regulated electric and other data by nonregulated entities and services provided between regulated and nonregulated energy affiliates. These regulations affect the activities of nonregulated affiliates with Electric Utilities and Infrastructure.
+
+15
+
+PART I
+
+Regional Transmission Organizations (RTO). PJM Interconnection, LLC (PJM) and Midcontinent Independent System Operator, Inc. (MISO) are the Independent System Operators (ISO) and FERC-approved RTOs for the regions in which Duke Energy Ohio and Duke Energy Indiana operate. PJM and MISO operate energy, capacity and other markets, and control the day-to-day operations of bulk power systems through central dispatch.
+
+Duke Energy Ohio is a member of PJM and Duke Energy Indiana is a member of MISO. Transmission owners in these RTOs have turned over control of their transmission facilities and their transmission systems are currently under the dispatch control of the RTOs. Transmission service is provided on a region-wide, open-access basis using the transmission facilities of the RTO members at rates based on the costs of transmission service.
+
+Environmental. Electric Utilities and Infrastructure is subject to the jurisdiction of the EPA and state and local environmental agencies. For a discussion of environmental regulation, see “Environmental Matters” in this section. See “Other Matters” section of MD&A for a discussion about potential Global Climate Change legislation and other EPA regulations under development and the potential impacts such legislation and regulation could have on Duke Energy’s operations.
+
+GAS UTILITIES AND INFRASTRUCTURE 
+
+Gas Utilities and Infrastructure conducts natural gas operations primarily through the regulated public utilities of Piedmont and Duke Energy Ohio. The natural gas operations are subject to the rules and regulations of the NCUC, PSCSC, PUCO, KPSC, Tennessee Regulatory Authority (TRA) and the FERC. Gas Utilities and Infrastructure serves residential, commercial, industrial and power generation natural gas customers. Gas Utilities and Infrastructure has over 1.5 million customers, including more than 1 million customers located in North Carolina, South Carolina and Tennessee, and an additional 529,000 customers located within southwestern Ohio and northern Kentucky. In the Carolinas, Ohio and Kentucky, the service areas are comprised of numerous cities, towns and communities. In Tennessee, the service area is the metropolitan area of Nashville. 
+
+The number of residential, commercial and industrial customers within the Gas Utilities and Infrastructure service territory is expected to increase over time. Average usage per residential customer is expected to remain flat or decline for the foreseeable future, however decoupled rates in North Carolina and various rate design mechanisms in other jurisdictions to partially mitigate the impact of the declining usage per customer trend on overall profitability. While total industrial and general service sales increased in 2016 when compared to 2015, the growth rate was modest when compared to historical periods.
+
+Gas Utilities and Infrastructure also owns, operates and has investments in various pipeline transmission and natural gas storage facilities. 
+
+Natural Gas for Retail Distribution
+
+Gas Utilities and Infrastructure is responsible for the distribution of natural gas to retail customers in its North Carolina, South Carolina, Tennessee, Ohio and Kentucky service territories. Gas Utilities and Infrastructure’s natural gas procurement strategy is to contract primarily with major and independent producers and marketers for gas supply. It also purchases a diverse portfolio of transportation and storage service from interstate pipelines. This strategy allows Gas Utilities and Infrastructure to assure reliable natural gas supply and transportation for its firm customers during peak winter conditions. When firm pipeline services or contracted gas supplies are temporarily not needed due to market demand fluctuations, Gas Utilities and Infrastructure may release these services and supplies in the secondary market under FERC-approved capacity release provisions or make wholesale secondary market sales. In 2016, firm supply purchase commitment agreements provided approximately 86 percent of the natural gas supply for Piedmont and 53 percent for Duke Energy Ohio.
+
+Seasonality and the Impact of Weather
+
+Gas Utilities and Infrastructure's costs and revenues are influenced by seasonal patterns due to peak natural gas sales occurring during the winter months. Residential customers are the most impacted by weather. There are certain regulatory mechanisms for the North Carolina, South Carolina and Tennessee service territories that normalize the margins collected from certain customer classes during the winter, providing for an adjustment either up or down. In North Carolina, rate design provides protection from both weather and other usage variations such as conservation, while South Carolina and Tennessee revenues are adjusted solely based on weather. Rate design for the Ohio service territory also mitigates the impacts of weather on customer bills. Estimated weather impacts are based on actual current period weather compared to normal weather conditions. Normal weather conditions are defined as the long-term average of actual historical weather conditions.
+
+Degree-day data are used to estimate energy required to maintain comfortable indoor temperatures based on each day’s average temperature. Heating-degree days measure the variation in weather based on the extent the average daily temperature falls below a base temperature. The methodology used to estimate the applicable impact of weather does not consider all variables that may impact customer response to weather conditions, such as wind chill. The precision of this estimate may also be impacted by applying long-term weather trends to shorter-term periods.
+
+Competition
+
+Gas Utilities and Infrastructure’s businesses operate as the sole supplier of natural gas within their retail service territories, with the exception of Ohio, which has a competitive natural gas supply market for distribution service. Gas Utilities and Infrastructure owns and operates facilities necessary to transport and distribute natural gas. Gas Utilities and Infrastructure earns retail margin on the transmission and distribution of natural gas and not on the cost of the underlying commodity. Services are priced by state commission approved rates designed to include the costs of providing these services and a reasonable return on invested capital. This regulatory policy is intended to provide safe and reliable natural gas at fair prices. 
+
+16
+
+PART I
+
+In residential, commercial and industrial customer markets, natural gas distribution operations compete with other companies that supply energy, primarily electric companies, propane and fuel oil dealers, renewable energy providers and coal companies in relation to sources of energy for electric power plants, as well as nuclear energy. A significant competitive factor is price. Gas Utilities and Infrastructure's primary product competition is with electricity for heating, water heating and cooking. Increases in the price of natural gas or decreases in the price of other energy sources could negatively impact competitive position by decreasing the price benefits of natural gas to the consumer. In the case of industrial customers, such as manufacturing plants, adverse economic or market conditions, including higher gas costs, could cause these customers to suspend business operations or to use alternative sources of energy in favor of energy sources with lower per-unit costs. 
+
+Higher gas costs or decreases in the price of other energy sources may allow competition from alternative energy sources for applications that have traditionally used natural gas, encouraging some customers to move away from natural gas-fired equipment to equipment fueled by other energy sources. Competition between natural gas and other forms of energy is also based on efficiency, performance, reliability, safety and other non-price factors. Technological improvements in other energy sources and events that impair the public perception of the non-price attributes of natural gas could erode our competitive advantage. These factors in turn could decrease the demand for natural gas, impair our ability to attract new customers and cause existing customers to switch to other forms of energy or to bypass our systems in favor of alternative competitive sources. This could result in slow or no customer growth and could cause customers to reduce or cease using our product, thereby reducing our ability to make capital expenditures and otherwise grow our business and adversely affecting our earnings. 
+
+Pipeline and Storage Investments
+
+Duke Energy, through its Gas Utilities and Infrastructure segment, is a 47 percent equity member of Atlantic Coast Pipeline, LLC (ACP) that plans to build and own the proposed Atlantic Coast Pipeline (ACP Pipeline), an approximately 600-mile interstate natural gas pipeline. Prior to the Piedmont acquisition, Duke Energy owned a 40 percent equity ownership in ACP. The pipeline is intended to transport diverse gas supplies into southeastern markets. Duke Energy Carolinas, Duke Energy Progress and Piedmont, among others, will be customers of the pipeline. The estimated in-service date of the pipeline is in the second half of 2019. 
+
+Gas Utilities and Infrastructure also has a 7.5 percent equity ownership interest in Sabal Trail Transmission, LLC (Sabal Trail). Sabal Trail is a joint venture that is constructing a 515-mile natural gas pipeline (Sabal Trail pipeline) to transport natural gas to Florida. The Sabal Trail pipeline has received regulatory approvals and initiated construction of the pipeline with an expected in-service date in mid-2017. The Sabal Trail pipeline will traverse Alabama, Georgia and Florida. 
+
+As a result of the Piedmont acquisition, Duke Energy, through its Gas Utilities and Infrastructure segment, has a 21.49 percent equity ownership interest in Cardinal Pipeline Company, LLC (Cardinal), an intrastate pipeline located in North Carolina regulated by the NCUC, and a 24 percent equity ownership interest in Constitution Pipeline Company, LLC (Constitution), an interstate pipeline development company formed to develop, construct, own and operate a 124-mile natural gas pipeline and related facilities connecting shale natural gas supplies and gathering systems in Susquehanna County, Pennsylvania, to Iroquois Gas Transmission and Tennessee Gas Pipeline systems in New York, regulated by the FERC. 
+
+Duke Energy, as a result of the Piedmont acquisition, also has a 45 percent equity ownership in Pine Needle LNG Company, LLC (Pine Needle), an interstate liquefied natural gas storage facility located in North Carolina and a 50 percent equity ownership interest in Hardy Storage Company, LLC (Hardy Storage), an underground interstate natural gas storage facility located in Hardy and Hampshire counties in West Virginia, both regulated by the FERC.
+
+KO Transmission Company (KO Transmission), a wholly owned subsidiary of Duke Energy Ohio, is an interstate pipeline company engaged in the business of transporting natural gas and is subject to the rules and regulations of FERC. KO Transmission's 90-mile pipeline supplies natural gas to Duke Energy Ohio and interconnects with the Columbia Gulf Transmission pipeline and Tennessee Gas Pipeline. An approximately 70-mile portion of KO Transmission's pipeline facilities is co-owned by Columbia Gas Transmission Corporation. 
+
+See Notes 4, 12 and 17 to the Consolidated Financial Statements, "Regulatory Matters," "Investments in Unconsolidated Affiliates" and "Variable Interest Entities," respectively, for further information on Duke Energy's pipeline investments. 
+
+Inventory
+
+Gas Utilities and Infrastructure must maintain adequate natural gas inventory in order to provide reliable delivery to customers. As of December 31, 2016, the inventory balance for Gas Utilities and Infrastructure was $108 million. For more information on inventory, see Note 1 to the Consolidated Financial Statements, "Summary of Significant Accounting Policies."
+
+Regulation
+
+State
+
+The NCUC, PSCSC, PUCO, TRA and KPSC (collectively, the state gas utility commissions) approve rates for Duke Energy's retail natural gas service within their respective states. The state gas utility commissions, to varying degrees, have authority over the construction and operation of Gas Utilities and Infrastructure’s natural gas distribution facilities. Certificates of Public Convenience and Necessity or Certificates of Environmental Compatibility and Public Necessity issued by the state gas utility commissions or other government agencies, as applicable, authorize Gas Utilities and Infrastructure to construct and operate its natural gas distribution facilities and to sell natural gas to retail and wholesale customers. Prior approval from the relevant state gas utility commission is required for Gas Utilities and Infrastructure to issue securities. The underlying concept of utility ratemaking is to set rates at a level that allows the utility to collect revenues equal to its cost of providing service plus a reasonable rate of return on its invested capital, including equity.
+
+In addition to amounts collected from customers though approved base rates, each of the state gas utility commissions allow recovery of certain costs through various cost-recovery clauses to the extent the respective commission determines in periodic hearings that such costs, including any past over- or under-recovered costs, are prudent. 
+
+17
+
+PART I
+
+Natural gas costs are eligible for recovery by Gas Utilities and Infrastructure. Due to the associated regulatory treatment and the method allowed for recovery, changes in natural gas costs from year to year have no material impact on operating results of Gas Utilities and Infrastructure, unless a commission finds a portion of such costs to have not been prudent. However, delays between the expenditure for natural gas and recovery from customers can adversely impact the timing of cash flows of Gas Utilities and Infrastructure.
+
+The following table summarizes certain components underlying recently approved and effective base rates during 2016.
+
+[DATA_TABLE_REMOVED]
+
+(a)Under the rate stabilization adjustment mechanism, Piedmont resets rates in South Carolina based on updated costs and revenues on an annual basis. 
+
+Gas Utilities and Infrastructure has integrity management rider (IMR) mechanisms in North Carolina and Tennessee designed to separately track and recover certain costs associated with capital investments incurred to comply with federal pipeline safety and integrity programs, as well as additional state safety and integrity requirements in Tennessee. The following table summarizes information related to recently approved IMR filings. 
+
+[DATA_TABLE_REMOVED]
+
+(a) Cumulative investment amounts through September 30, 2016.
+
+(b) Cumulative investment amounts through October 31, 2015.
+
+(c)In November 2016, Piedmont filed a petition with the TRA seeking authority to collect an additional $1.7 million in annual margin revenue effective January 2017 based on approximately $20 million of capital investments over the twelve month period ending October 31, 2016. A ruling from the TRA is pending. 
+
+For more information on rate matters and other regulatory proceedings, see Note 4 to the Consolidated Financial Statements, “Regulatory Matters.”
+
+Federal
+
+Gas Utilities and Infrastructure is subject to various federal regulations, including regulations that are particular to the natural gas industry. These federal regulations include but are not limited to the following:
+
+•Regulations of the FERC affect the certification and siting of new interstate natural gas pipeline projects, the purchase and sale of, the prices paid for, and the terms and conditions of service for the interstate transportation and storage of natural gas. 
+
+•Regulations of the U.S. Department of Transportation affect the design, construction, operation, maintenance, integrity, safety and security of natural gas distribution and transmission systems. 
+
+•Regulations of the EPA relate to the environment including proposed air emissions regulations that would expand to include emissions of methane. For a discussion of environmental regulation, see “Environmental Matters” in this section. Refer to “Other Matters” section of Management’s Discussion and Analysis of Financial Condition and Results of Operations for a discussion about potential Global Climate Change legislation and other EPA regulations under development and the potential impacts such legislation and regulation could have on Duke Energy’s operations.
+
+Regulations of FERC and the state gas utility commissions govern access to regulated natural gas and other data by nonregulated entities and services provided between regulated and nonregulated energy affiliates. These regulations affect the activities of nonregulated affiliates with Gas Utilities and Infrastructure.
+
+COMMERCIAL RENEWABLES
+
+Commercial Renewables primarily acquires, builds, develops and operates wind and solar renewable generation throughout the continental U.S. The portfolio includes nonregulated renewable energy and energy storage businesses. 
+
+Commercial Renewables' renewable energy includes utility-scale wind and solar generation assets which total 2,900 MW across 14 states from 21 wind farms and 63 commercial solar farms. Revenues are primarily generated by selling the power produced from renewable generation through long-term contracts to utilities, electric cooperatives, municipalities and commercial and industrial customers. In most instances, these customers have obligations under state-mandated renewable energy portfolio standards or similar state or local renewable energy goals. Energy and renewable energy credits generated by wind and solar projects are generally sold at contractual prices. In addition, as eligible wind and solar projects are placed in service, Commercial Renewables recognizes either investment tax credits (ITC) when the renewable project achieves commercial availability or production tax credits (PTC) as power is generated by the project over 10 years. Renewable ITC are recognized over the useful life of the asset with the benefit of the tax basis adjustment due to the ITC recognized in income in the year of commercial availability.
+
+18
+
+PART I
+
+As part of its growth strategy, Commercial Renewables has expanded its investment portfolio through the addition of distributed solar companies and projects, energy storage systems and energy management solutions specifically tailored to commercial businesses. These investments include the 2015 acquisition of REC Solar Corp., a California-based provider of solar installations for retail, manufacturing, agriculture, technology, government and nonprofit customers across the U.S. and Phoenix Energy Technologies Inc., a California-based provider of enterprise energy management and information software to commercial businesses.
+
+For additional information on Commercial Renewables' generation facilities, see Item 2, “Properties.”
+
+Regulation
+
+Commercial Renewables is subject to regulation at the federal level, primarily from the FERC. Regulations of the FERC govern access to regulated market information by nonregulated entities and services provided between regulated and nonregulated utilities.
+
+Market Environment and Competition
+
+The market price of commodities and services, along with the quality and reliability of services provided, drive competition in the wholesale energy business. Commercial Renewables' main competitors include other nonregulated generators and wholesale power providers.
+
+Sources of Electricity
+
+Commercial Renewables relies on wind and solar resources for its generation of electric energy.
+
+OTHER
+
+The remainder of Duke Energy’s operations is presented as Other. While it is not an operating segment, Other primarily includes unallocated corporate interest expense, certain unallocated corporate costs, Bison Insurance Company Limited (Bison), contributions to the Duke Energy Foundation, Duke Energy's 25 percent equity interest in NMC and immaterial investments in businesses Duke Energy has retained from previous divestitures that are no longer part of its current operating segments. 
+
+Bison is a wholly owned captive insurance subsidiary of Duke Energy with principal activities that include the indemnification of various business risks and losses, such as property, workers’ compensation and general liability of Duke Energy subsidiaries and affiliates.
+
+NMC is a joint venture that operates in Jubail, Saudi Arabia as a large regional producer of methanol and methyl tertiary butyl ether (MTBE), an additive to gasoline. Duke Energy has an effective economic ownership interest in NMC of 25 percent and records activity of the investment using the equity method of accounting. Upon the successful startup of NMC's polyacetal production facility, which is expected to occur in the second quarter of 2017, Duke Energy’s economic ownership interest in NMC will decrease to 17.5 percent while Duke Energy will retain 25 percent of the NMC's board representation and voting rights. 
+
+Regulation
+
+Certain entities within Other are subject to the jurisdiction of federal, state and local agencies.
+
+Employees
+
+On December 31, 2016, Duke Energy had a total of 28,798 employees on its payroll. The total includes 5,509 employees who are represented by labor unions under various collective bargaining agreements that generally cover wages, benefits, working practices, and other terms and conditions of employment. 
+
+19
+
+PART I
+
+Executive Officers of the Registrants
+
+The following table sets forth the individuals who currently serve as executive officers. Executive officers serve until their successors are duly elected or appointed. 
+
+[DATA_TABLE_REMOVED]
+
+(a) The ages of the officers provided are as of December 31, 2016.
+
+There are no family relationships between any of the executive officers, nor any arrangement or understanding between any executive officer and any other person involved in officer selection.
+
+Environmental Matters
+
+The Duke Energy Registrants are subject to federal, state and local laws and regulations with regard to air and water quality, hazardous and solid waste disposal and other environmental matters. Environmental laws and regulations affecting the Duke Energy Registrants include, but are not limited to:
+
+•The Clean Air Act (CAA), as well as state laws and regulations impacting air emissions, including State Implementation Plans related to existing and new national ambient air quality standards for ozone and particulate matter. Owners and/or operators of air emission sources are responsible for obtaining permits and for annual compliance and reporting.
+
+•The Clean Water Act (CWA), which requires permits for facilities that discharge wastewaters into navigable waters.
+
+•The Comprehensive Environmental Response, Compensation and Liability Act, which can require any individual or entity that currently owns or in the past owned or operated a disposal site, as well as transporters or generators of hazardous substances sent to a disposal site, to share in remediation costs.
+
+•The National Environmental Policy Act, which requires federal agencies to consider potential environmental impacts in their permitting and licensing decisions, including siting approvals.
+
+20
+
+PART I
+
+•Coal Ash Act, as amended, which establishes requirements regarding the use and closure of existing ash basins, the disposal of ash at active coal plants and the handling of surface and groundwater water impacts from ash basins in North Carolina. 
+
+•RCRA, which creates the framework for the proper management of hazardous and nonhazardous solid waste, classifies CCR as nonhazardous waste and establishes requirements regarding landfill design and management and monitoring of CCR, including ash basins. 
+
+•The Solid Waste Disposal Act, as amended by the RCRA, which requires certain solid wastes, including hazardous wastes, to be managed pursuant to a comprehensive regulatory oversight program.
+
+For more information on environmental matters, see Notes 5 and 9 to the Consolidated Financial Statements, “Commitments and Contingencies – Environmental” and "Asset Retirement Obligations," respectively, and the “Other Matters” section of MD&A. Except as otherwise described in these sections, costs to comply with current federal, state and local provisions regulating the discharge of materials into the environment or other potential costs related to protecting the environment are incorporated into the routine cost structure of our various business segments and are not expected to have a material adverse effect on the competitive position, consolidated results of operations, cash flows or financial position of the Duke Energy Registrants.
+
+The "Other Matters" section of MD&A includes an estimate of future capital expenditures required to comply with environmental regulations and a discussion of Global Climate Change including the potential impact of current and future legislation related to greenhouse gas (GHG) emissions on the Duke Energy Registrants' operations. Recently passed and potential future environmental statutes and regulations could have a significant impact on the Duke Energy Registrants’ results of operations, cash flows or financial position. However, if and when such statutes and regulations become effective, the Duke Energy Registrants will seek appropriate regulatory recovery of costs to comply within its regulated operations.
+
+DUKE ENERGY CAROLINAS
+
+Duke Energy Carolinas is a regulated public utility primarily engaged in the generation, transmission, distribution and sale of electricity in portions of North Carolina and South Carolina. Duke Energy Carolinas’ service area covers approximately 24,000 square miles and supplies electric service to 2.5 million residential, commercial and industrial customers. For information about Duke Energy Carolinas’ generating facilities, see Item 2, “Properties.” Duke Energy Carolinas is subject to the regulatory provisions of the NCUC, PSCSC, NRC and FERC.
+
+Substantially all of Duke Energy Carolinas' operations are regulated and qualify for regulatory accounting. Duke Energy Carolinas operates one reportable business segment, Electric Utilities and Infrastructure. For additional information regarding this business segment, including financial information, see Note 3 to the Consolidated Financial Statements, “Business Segments.”
+
+PROGRESS ENERGY
+
+Progress Energy is a public utility holding company primarily engaged in the regulated electric utility business and is subject to regulation by the FERC. Progress Energy conducts operations through its wholly owned subsidiaries, Duke Energy Progress and Duke Energy Florida. When discussing Progress Energy’s financial information, it necessarily includes the results of Duke Energy Progress and Duke Energy Florida.
+
+Substantially all of Progress Energy’s operations are regulated and qualify for regulatory accounting. Progress Energy operates one reportable business segment, Electric Utilities and Infrastructure. For additional information regarding this business segment, including financial information, see Note 3 to the Consolidated Financial Statements, “Business Segments.”
+
+DUKE ENERGY PROGRESS
+
+Duke Energy Progress is a regulated public utility primarily engaged in the generation, transmission, distribution and sale of electricity in portions of North Carolina and South Carolina. Duke Energy Progress’ service area covers approximately 32,000 square miles and supplies electric service to approximately 1.5 million residential, commercial and industrial customers. For information about Duke Energy Progress’ generating facilities, see Item 2, “Properties.” Duke Energy Progress is subject to the regulatory provisions of the NCUC, PSCSC, NRC and FERC.
+
+Substantially all of Duke Energy Progress’ operations are regulated and qualify for regulatory accounting. Duke Energy Progress operates one reportable business segment, Electric Utilities and Infrastructure. For additional information regarding this business segment, including financial information, see Note 3 to the Consolidated Financial Statements, “Business Segments.”
+
+DUKE ENERGY FLORIDA
+
+Duke Energy Florida is a regulated public utility primarily engaged in the generation, transmission, distribution and sale of electricity in portions of Florida. Duke Energy Florida’s service area covers approximately 13,000 square miles and supplies electric service to approximately 1.8 million residential, commercial and industrial customers. For information about Duke Energy Florida’s generating facilities, see Item 2, “Properties.” Duke Energy Florida is subject to the regulatory provisions of the FPSC, NRC and FERC.
+
+Substantially all of Duke Energy Florida’s operations are regulated and qualify for regulatory accounting. Duke Energy Florida operates one reportable business segment, Electric Utilities and Infrastructure. For additional information regarding this business segment, including financial information, see Note 3 to the Consolidated Financial Statements, “Business Segments.”
+
+21
+
+PART I
+
+DUKE ENERGY OHIO
+
+Duke Energy Ohio is a regulated public utility primarily engaged in the transmission and distribution of electricity in portions of Ohio and Kentucky, in the generation and sale of electricity in portions of Kentucky and the transportation and sale of natural gas in portions of Ohio and Kentucky. Duke Energy Ohio also conducts competitive auctions for retail electricity supply in Ohio whereby recovery of the energy price is from retail customers. Operations in Kentucky are conducted through its wholly owned subsidiary, Duke Energy Kentucky, Inc. (Duke Energy Kentucky). References herein to Duke Energy Ohio include Duke Energy Ohio and its subsidiaries, unless otherwise noted. Duke Energy Ohio is subject to the regulatory provisions of the PUCO, KPSC and FERC.
+
+Duke Energy Ohio’s service area covers approximately 3,000 square miles and supplies electric service to approximately 850,000 residential, commercial and industrial customers and provides transmission and distribution services for natural gas to approximately 529,000 customers. For information about Duke Energy Ohio's generating facilities, see Item 2, “Properties.” 
+
+KO Transmission, a wholly owned subsidiary of Duke Energy Ohio, is an interstate pipeline company engaged in the business of transporting natural gas and is subject to the rules and regulations of FERC. KO Transmission's 90-mile pipeline supplies natural gas to Duke Energy Ohio and interconnects with the Columbia Gulf Transmission pipeline and Tennessee Gas Pipeline. An approximately 70-mile portion of KO Transmission's pipeline facilities is co-owned by Columbia Gas Transmission Corporation. 
+
+On April 2, 2015, Duke Energy completed the sale of its nonregulated Midwest generation business, which sold power into wholesale energy markets, to a subsidiary of Dynegy. For further information about the sale of the Midwest Generation business, refer to Note 2 to the Consolidated Financial Statements, "Acquisitions and Dispositions." 
+
+Substantially all of Duke Energy Ohio's operations that remain after the sale qualify for regulatory accounting.
+
+Business Segments
+
+Duke Energy Ohio has two reportable operating segments, Electric Utilities and Infrastructure and Gas Utilities and Infrastructure. For additional information on these business segments, including financial information, see Note 3 to the Consolidated Financial Statements, “Business Segments.”
+
+DUKE ENERGY INDIANA
+
+Duke Energy Indiana is a regulated public utility primarily engaged in the generation, transmission, distribution and sale of electricity in portions of Indiana. Duke Energy Indiana’s service area covers 23,000 square miles and supplies electric service to 820,000 residential, commercial and industrial customers. See Item 2, “Properties” for further discussion of Duke Energy Indiana’s generating facilities, transmission and distribution. Duke Energy Indiana is subject to the regulatory provisions of the IURC and FERC.
+
+Substantially all of Duke Energy Indiana’s operations are regulated and qualify for regulatory accounting. Duke Energy Indiana operates one reportable business segment, Electric Utilities and Infrastructure. For additional information regarding this business segment, including financial information, see Note 3 to the Consolidated Financial Statements, “Business Segments.”
+
+ITEM 1A. RISK FACTORS

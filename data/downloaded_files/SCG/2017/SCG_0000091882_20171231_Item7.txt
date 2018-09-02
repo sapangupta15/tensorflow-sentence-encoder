@@ -1,0 +1,539 @@
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+Pursuant to General Instruction I of Form 10-K, SCE&G is permitted to omit certain information related to itself and its consolidated affiliates called for by Item 7 of Form 10-K, and instead provide a management’s narrative explanation of its consolidated results of operation and other information described therein. Such information is presented hereunder specifically for Consolidated SCE&G, but may be presented alongside information presented for the Company generally. Consolidated SCE&G makes no representation as to information relating solely to SCANA Corporation and its subsidiaries (other than Consolidated SCE&G).
+
+OVERVIEW
+
+SCANA, through its wholly-owned regulated subsidiaries, is primarily engaged in the generation, transmission, distribution and sale of electricity in South Carolina and in the purchase, transmission and sale of natural gas in North Carolina and South Carolina. Through a wholly-owned nonregulated subsidiary, SCANA markets natural gas to retail customers in Georgia and to wholesale customers in the southeast. A service company subsidiary of SCANA provides primarily administrative and management services to SCANA and its subsidiaries.
+
+Key Earnings Drivers and Outlook
+
+The outcome of contentious regulatory, legislative and court proceedings stemming from the Company's July 31, 2017 decision to stop construction of Unit 2 and Unit 3 and to seek recovery of its investment in the abandoned Nuclear Project will significantly affect the Company's future earnings. These proceedings could result in the SCPSC ordering SCE&G to cease collecting BLRA-related rates and to immediately refund such amounts previously collected. Such an outcome would likely result in degraded credit ratings with a corresponding higher cost of capital, if such capital were available at all. In 2017, the Company's principal subsidiary, SCE&G, recorded an aggregate pre-tax impairment loss of $1.118 billion related to the abandoned Nuclear Project. These matters are discussed further in Electric Operations below, in Liquidity and Capital Resources herein and in Note 10 to the consolidated financial statements.
+
+On January 2, 2018, SCANA entered into the Merger Agreement with Dominion Energy. Under the terms of that agreement, Dominion Energy would provide the financial support for SCE&G to make a $1.3 billion up-front, one time rate credit to SCE&G's electric customers to be paid within 90 days of the closing of the merger, a $575 million refund along with the benefits of the Tax Act resulting in at least a 5% reduction to SCE&G electric service customers' bills over an eight-year period, and the exclusion from rate recovery of approximately $1.7 billion of costs related to the Nuclear Project. These terms, together with other terms and commitments in the Merger Agreement and the Joint Petition, could resolve many of the outstanding issues related to the Nuclear Project. The Company targets the closing of the merger by the end of 2018. Significant hurdles must be overcome before closing may occur, however, including the receipt of the requisite authorizations, approvals, consents and/or permits from various federal and state regulatory entities and the approval of two-thirds of the shares represented by SCANA's shareholders. Regulatory approvals of the merger may not be obtained on a timely basis or at all, and such approvals may include conditions that could have an adverse effect on the Company and Consolidated SCE&G or result in the abandonment of the merger. No assurance can be provided that the necessary approvals will be obtained or that any required conditions will not have an adverse effect on Consolidated SCE&G following the merger. See additional discussion in Item 1A. Risk Factors and in Note 2 and Note 10 to the consolidated financial statements.
+
+Electric Operations
+
+SCE&G's electric operations primarily generate electricity and provide for its transmission, distribution and sale to approximately 719,000 customers (as of December 31, 2017) in portions of South Carolina in an area covering nearly 17,000 square miles. GENCO owns a coal-fired generating station and sells electricity solely to SCE&G. Fuel Company acquires, owns, provides financing for and sells at cost to SCE&G nuclear fuel, certain fossil fuels and emission and other environmental allowances.
+
+Operating results are primarily driven by customer demand for electricity, rates allowed to be charged to customers and the ability to control costs. Demand for electricity is primarily affected by weather, customer growth and the economy. SCE&G is able to recover the cost of fuel used in electric generation through retail customers’ bills, but increases in fuel costs affect electricity prices and, therefore, the competitive position of electricity compared to other energy sources.
+
+34
+
+Embedded in the rates charged to customers is an allowed regulatory ROE. SCE&G’s allowed ROE in 2017 was 10.25% for non-BLRA rate base. For BLRA-related rate base existing prior to 2016, SCE&G's ROE was 11.0%, and for such rate base arising in 2016, the ROE was 10.5%. As described in Note 2 to the consolidated financial statements, the SCPSC revised SCE&G's ROE for Nuclear Project costs to 10.25%, which was to be applied prospectively for the purpose of calculating revised rates sought by SCE&G under the BLRA on and after January 1, 2017. No revised rates filing was pursued in 2017. Uncertainties that are expected to adversely impact ROE on BLRA-related rate base are discussed in Abandoned Nuclear Project herein and in Note 10 to the consolidated financial statements.
+
+In 2017, the enactment of federal environmental laws and regulations related to the generation of electricity slowed significantly; however, public sentiment surrounding air quality and water quality remains strong and is expected to continue. Over several years, SCE&G has incurred significant costs and made substantial investments to comply with federal environmental initiatives, including the retirement of certain coal-fired plants and the conversion of others to burn natural gas. In addition, SCE&G has added the renewable energy from several new solar generating facilities at locations throughout its electric service territory. In addition, SCE&G and GENCO have installed pollution control equipment at their remaining coal-fired plants, which have resulted in reduced air emissions. The status of significant environmental laws and regulations and certain initiatives undertaken to ensure compliance with them are described in Environmental Matters herein and in Note 10 to the consolidated financial statements.
+
+Abandoned Nuclear Project
+
+Significant events leading up to the Company's decision to abandon the Nuclear Project include the following:
+
+•On July 1, 2016, SCE&G, on behalf of itself and as agent for Santee Cooper, elected the fixed price option as provided for in the October 2015 Amendment to the EPC Contract, subject to SCPSC approval. The fixed price option was designed to shift the risk of significant cost overruns from SCE&G and Santee Cooper by fixing the total amount to be paid to the Consortium for its entire scope of work on the project, with limited exceptions.
+
+•On November 9, 2016, the SCPSC approved SCE&G's election of the fixed price option.
+
+•On March 29, 2017, WEC and WECTEC filed petitions for protection under Chapter 11 of the U.S. Bankruptcy Code, citing a liquidity crisis arising from project contract losses attributable to the Nuclear Project and similar units being built for an unaffiliated company as a material factor that caused them to seek protection under the bankruptcy laws. As part of their filing, WEC and WECTEC publicly announced their inability to complete Unit 2 and Unit 3 under the fixed price terms of the EPC Contract. 
+
+•In connection with the bankruptcy filing, SCE&G, Santee Cooper, WEC and WECTEC entered into an Interim Assessment Agreement under which engineering and construction continued on the project and under which SCE&G and Santee Cooper were provided the right to discuss project status with Fluor and other subcontractors and vendors and to obtain from them relevant project information and documents that had been previously contractually unavailable in order for SCE&G and Santee Cooper to perform comprehensive analyses regarding whether or how to proceed with the project.
+
+•On July 31, 2017, based on the results of its analysis and in light of Santee Cooper's decision to suspend construction on the units, the Company determined to stop the construction of Unit 2 and Unit 3 and to pursue recovery of costs incurred in connection with their construction under the abandonment provisions of the BLRA or through other regulatory means.
+
+The Company's decision to stop construction of Unit 2 and Unit 3 and to pursue recovery of costs incurred in connection with their construction have been the subject of contentious proceedings before the SCPSC and special committees of the South Carolina legislature. The Governor has likewise asserted, among other things, that the BLRA should be replaced and any further collection of money from customers for the Nuclear Project should be prevented. The SCPSC is actively considering a request that could result in the suspension of rates currently being collected by SCE&G under the BLRA (approximately $445 million annually, which includes collections related to transmission assets expected to be placed into service), that could require the return of such amounts previously collected (approximately $1.9 billion as of December 31, 2017), and that will affect when and in what manner proceeds arising from the Toshiba guaranty (approximately $1.1 billion) will be used for the benefit of SCE&G customers. 
+
+35
+
+Proposals to Resolve Outstanding Issues
+
+On November 16, 2017, SCE&G announced for public consideration a proposal to resolve outstanding issues relating to the Nuclear Project. Under the proposal, SCE&G electric customers were to receive a 3.5% electric rate reduction, the addition of an existing 540-MW natural gas fired power plant by SCE&G with the acquisition cost borne by SCANA shareholders, and the addition of approximately 100-MW of large scale solar energy by SCE&G. The proposal also provided for the recovery of the nuclear construction costs (net of the proceeds of the Toshiba Settlement not utilized for liquidation of project liens) over 50 years. While SCE&G’s proposal was not formally submitted for regulatory approval, discussions with key stakeholders over the ensuing weeks indicated that SCE&G's proposal would not be sufficient to resolve the outstanding issues.
+
+On January 2, 2018, SCANA entered into the Merger Agreement with Dominion Energy, and on January 12, 2018, SCE&G and Dominion Energy filed the Joint Petition requesting SCPSC approval of the merger or a finding that either the merger is in the public interest or that there is an absence of harm arising from the merger. In the Joint Petition, among other things, the parties commit to providing an up-front, one time rate credit to SCE&G's electric customers totaling approximately $1.3 billion within 90 days of the merger's closing, at least a 5% reduction in customer bills, shortening the amortization period for recovery of costs related to the Nuclear Project to 20 years, forgoing recovery of approximately $1.7 billion in costs related to the Nuclear Project, and the addition of an existing 540-MW natural gas fired power plant by SCE&G with no initial investment borne by customers. The petition also puts forth other less-favored alternatives for rate recovery in the event the joint proposal were not to be accepted by the SCPSC and the merger were not to be consummated.
+
+The outcome of these matters is uncertain, and any resolution adverse to the Company and Consolidated SCE&G could adversely affect results of operations, cash flows and financial condition. These matters and others are further discussed in Liquidity and Capital Resources and in Note 2 and Note 10 to the consolidated financial statements. 
+
+Gas Distribution
+
+The local distribution operations of SCE&G and PSNC Energy purchase, transport and sell natural gas to approximately 931,000 retail customers (as of December 31, 2017) in portions of South Carolina and North Carolina in areas covering approximately 35,000 square miles. Operating results for gas distribution are primarily influenced by customer demand for natural gas, rates allowed to be charged to customers and the ability to control costs. Embedded in the rates charged to customers is an allowed regulatory ROE for SCE&G of 10.25% and for PSNC Energy of 9.7%.
+
+Demand for natural gas is primarily affected by weather, customer growth, the economy and the availability and price of alternate fuels. Natural gas competes with electricity, propane and heating oil to serve the heating and, to a lesser extent, other household energy needs of residential and small commercial customers. This competition is generally based on price and convenience. Large commercial and industrial customers often have the ability to switch from natural gas to an alternate fuel, such as propane or fuel oil. Natural gas competes with these alternate fuels based on price. As a result, any significant disparity between supply and demand, either of natural gas or of alternate fuels, and due either to production or delivery disruptions or other factors, will affect price and will impact the Company’s ability to retain large commercial and industrial customers. 
+
+The production of shale gas in the United States continues to keep prices for this commodity at historic lows, and such prices are expected to continue at generally low levels for several years. The supply of natural gas from the Marcellus shale basin has prompted Dominion Energy and other companies unaffiliated with SCANA to propose construction of an approximately 600-mile pipeline that would bring natural gas from West Virginia to Virginia and North Carolina. This pipeline is expected to be completed in late 2019 and, if successful, it may drive economic development along its path, including areas within PSNC Energy's service territory, and may serve to assist in keeping natural gas competitively priced in the region.
+
+Gas Marketing
+
+SCANA Energy markets natural gas in the southeast and provides energy-related services to customers, including retail customers in Georgia. Operating results for energy marketing are influenced by customer demand for natural gas and the ability to control costs. The price of alternate fuels and customer growth significantly affect demand for natural gas. In addition, the availability of certain pipeline capacity to serve industrial and other customers is dependent upon the market share held by SCANA Energy in the Georgia retail market. SCANA Energy sells natural gas to over 425,000 customers (as of December 31, 2017) throughout Georgia. This market is mature, resulting in low margins and significant competition from affiliates of large energy companies and electric membership cooperatives, among others. SCANA Energy’s ability to maintain its market share primarily depends on the prices it charges customers relative to the prices charged by its competitors and its ability to provide 
+
+36
+
+high levels of customer service. In addition, SCANA Energy's operating results are sensitive to the impacts of weather on customer demand. 
+
+RESULTS OF OPERATIONS
+
+Earnings (Loss) and dividends were as follows:
+
+[DATA_TABLE_REMOVED]
+
+On February 22, 2018, SCANA declared a quarterly cash dividend on its common stock of $0.6125 per share.
+
+2017 vs 2016
+
+The Company's earnings (loss) per share and Consolidated SCE&G's net income (loss) primarily reflects an operating loss from Electric Operations, which includes an impairment loss associated with the abandonment of the Nuclear Project, partially offset by improved operating income from Gas Distribution. In addition, the Company's earnings (loss) per share reflects a loss resulting from enactment of the Tax Act. These and other results are discussed below.
+
+2016 vs 2015
+
+The Company's earnings per share and Consolidated SCE&G's net income reflects higher operating income from Electric Operations and Gas Distribution. The Company's earnings per share also reflects higher net income from Gas Marketing. These and other results are discussed below.
+
+Matters Impacting Future Results
+
+The Company's decision on July 31, 2017 to stop construction of Unit 2 and Unit 3 and to pursue recovery of the cost of the abandoned Nuclear Project has had and could continue to have significant impacts on the Company's and Consolidated SCE&G's future earnings, cash flows and financial position, including those related to the ultimate recovery of regulatory assets and the sustainability of tax positions. The Company continues to believe the decision to abandon the Nuclear Project was prudent and that costs incurred with respect to the project were prudent, have contested specific challenges to this decision, and believe that the issues related to the recovery of the cost of the abandoned Nuclear Project and related to the rates currently being collected under the BLRA for financing costs should be resolved in future proceedings before the SCPSC. However, based on various events following the abandonment, there is significant uncertainty as to SCE&G's ultimate ability to fully recover its costs of Unit 2 and Unit 3 and a return on them from its customers. These events include the contentious nature of ongoing reviews by legislative committees and others, legislative proposals being considered by the General Assembly and promoted by the Governor, and the Request being considered by the SCPSC that could result in the suspension of rates currently being collected under the BLRA, as well as the return of such amounts previously collected.
+
+The Company and Consolidated SCE&G have determined that a disallowance of recovery of part of the cost of the abandoned plant is both probable and reasonably estimable under applicable accounting guidance, and have recorded a pre-tax impairment loss with respect to disallowance of unrecovered nuclear project costs and other related deferred costs totaling approximately $1.118 billion. This amount includes $210 million recorded in the third quarter of 2017 and the remaining $908 million recorded in the fourth quarter of 2017. For additional discussion, see Impairment Considerations in Critical Accounting Policies and Estimates and Note 10 to the consolidated financial statements. 
+
+It is reasonably possible that further changes in these estimates will occur in the near term and could be material; however, all such changes cannot be reasonably estimated. The above impairment loss reflects impacts similar to those that would have resulted had the proposed solution announced November 16, 2017 been implemented. If the merger benefits and cost recovery plan outlined in the Joint Petition is implemented (upon closing of the merger as contemplated in the Merger Agreement), an additional impairment loss and other charges totaling as much as approximately $1.7 billion would be expected to be recorded. If instead the Joint Petition is not approved and the Request by the ORS is approved, if the BLRA is found to be unconstitutional or the General Assembly amends or revokes the BLRA, the Company and Consolidated SCE&G may be 
+
+37
+
+required to record an additional impairment loss and other charges totaling as much as approximately $4.8 billion. This additional impairment loss would result from the write-off of the remaining unrecovered Nuclear Project costs of $3.976 billion recorded within regulatory assets and the refund of revised rates collections under the BLRA described above of approximately $1.9 billion, net of approximately $1.062 billion, which amount represents the monetization of guaranty settlement of $1.095 billion recorded within regulatory liabilities less amounts that may be required to settle contractor liens. The Company and Consolidated SCE&G do not currently anticipate that any of the $1.9 billion in revenue previously collected will be subject to refund; however, no assurance can be given as to the outcome of this matter. 
+
+ In December 2017, the Tax Act was enacted, resulting in the remeasurement of all federal deferred income tax assets and liabilities to reflect a 21% federal statutory corporate tax rate. Due to the regulated nature of the Company’s and Consolidated SCE&G’s operations, the effect of this remeasurement is primarily reflected in excess deferred income tax balances within regulatory liabilities. As described in Note 2 to the consolidated financial statements, SCE&G and PSNC Energy have responded to orders from state regulators seeking information on the effects the Tax Act would have on their respective operations. The Company and Consolidated SCE&G cannot determine the amount or timing of any refunds to customers that may result. Going forward, the Company and Consolidated SCE&G expect that the lower tax expense resulting from the reduced federal statutory tax rate will result in similar reductions to amounts collected from customers through electric and gas rates, and no significant impact on financial results are expected. See also Note 5 to the consolidated financial statements for additional discussion related to deferred tax assets and deferred tax liabilities.
+
+These matters impacting future results are further discussed under Impact of Abandonment of Nuclear Project within LIQUIDITY AND CAPITAL RESOURCES, in Note 2 and Note 10 to the consolidated financial statements and in Part I, Item 1A. Risk Factors.
+
+Electric Operations
+
+Electric Operations for the Company and for Consolidated SCE&G is comprised of the electric operations of SCE&G, GENCO and Fuel Company. Electric Operations operating income (including transactions with affiliates) was as follows: 
+
+[DATA_TABLE_REMOVED]
+
+Electric operations can be significantly impacted by the effects of weather. SCE&G estimates the effects on its electric business of actual temperatures in its service territory as compared to historical averages to develop an estimate of electric revenue and fuel costs attributable to the effects of abnormal weather. Results in 2017 reflect milder than normal weather in the first and fourth quarters and warmer than normal weather in the second and third quarters. Results in 2016 reflect significantly warmer than normal weather in the second and third quarters and milder than normal weather in the first and fourth quarters. Results in 2015 reflect colder than normal weather in the first quarter, warmer than normal weather in the second and third quarters and milder than normal weather in the fourth quarter. 
+
+2017 vs 2016
+
+ Operating revenue increased due to revised rates increases under the BLRA of $57.6 million, residential and commercial growth of $29.4 million, industrial growth and higher usage of $5.5 million, increased revenue recognized under the DER program of $7.3 million and higher fuel cost recovery of $48.1 million. These revenue increases were partially offset by the effects of milder weather of $77.7 million, lower residential and commercial average use of $18.9 million and lower collections under the rate rider for pension costs of $4.0 million. The lower pension rider collections had no impact on net income as they were fully offset by the recognition, within other operation and maintenance expenses, of lower pension costs.
+
+ Fuel used in electric generation and purchased power expenses increased due to higher fuel prices of $48.1 million, amortization of DER program costs of $3.9 million and increased sales volumes associated with residential and 
+
+38
+
+commercial customer growth of $5.8 million. These increases were partially offset due to lower sales volumes associated with the effects of milder weather of $15.9 million, lower residential and commercial average use of $4.1 million, lower industrial usage of $1.6 million and lower fuel handling expenses of $2.4 million.
+
+ Other operation and maintenance expenses decreased due to lower labor costs of $24.0 million, primarily due to lower incentive compensation costs and lower pension costs associated with the lower pension rider collections, partially offset by nuclear abandonment-related severance costs of $12.3 million. This decrease was offset by higher non-labor electric generation costs of $2.2 million and due to wind down and other costs associated with the abandonment of the Nuclear Project of $10.9 million.
+
+ Impairment loss represents the estimate of the probable disallowance of recovery associated with the abandonment of the Unit 2 and Unit 3 of $670 million, a write down to estimated fair value of the carrying value of nuclear fuel acquired for use in Unit 2 and Unit 3 of $87 million and an aggregate amount of $361 million to write off costs which had been previously deferred primarily within regulatory assets in connection with the Nuclear Project.
+
+ Depreciation and amortization increased primarily due to net plant additions.
+
+ Other taxes increased primarily due to higher property taxes associated with net plant additions.
+
+2016 vs 2015
+
+  Operating revenue increased due to revised rates increases under the BLRA of $60.7 million, residential and commercial growth of $29.0 million, industrial growth and higher usage of $9.7 million, increased revenue recognized under the DER program of $5.8 million, the effects of weather of $28.2 million and higher collections under the rate rider for pension costs of $13.5 million. The higher pension rider collections had no impact on net income as they were fully offset by the recognition, within other operation and maintenance expenses, of higher pension costs. Revenue also increased due to downward adjustments in 2015, pursuant to orders from the SCPSC, to apply $14.5 million as an offset to fuel cost recovery upon the adoption of new (lower) electric depreciation rates and by $5.2 million related to DSM Programs. These adjustments had no effect on net income in 2015 as they were fully offset by the recognition of $14.5 million of lower depreciation expense and by the recognition, within other income, of $5.2 million of gains realized upon the settlement of certain interest rate contracts. These revenue increases were partially offset by lower fuel cost recovery of $84.1 million and lower residential and commercial average use of $19.5 million. 
+
+Fuel used in electric generation and purchased power expenses decreased due to lower fuel prices of $84.1 million, lower sales volumes associated with residential and commercial average use of $4.2 million and lower fuel handling expenses of $2.3 million. These decreases were partially offset due higher to amortization of DER program costs of $4.6 million, higher industrial usage of $1.9 million, increased sales volumes associated with residential and commercial customer growth of $6.4 million and higher sales volumes associated with the effects of weather of $4.9 million.
+
+ Other operation and maintenance expenses increased due to higher labor costs of $25.4 million, primarily due to increased pension costs associated with the higher pension rider collections and higher incentive compensation costs. Other operation and maintenance expenses also increased due to higher amortization of DSM program costs of $2.0 million.
+
+ Depreciation and amortization increased primarily due to net plant additions.
+
+ Other taxes increased primarily due to higher property taxes associated with net plant additions.
+
+39
+
+Sales volumes (in GWh) related to the electric operations above, by class, were as follows: 
+
+[DATA_TABLE_REMOVED]
+
+2017 vs 2016
+
+Retail and wholesale sales volumes decreased primarily due to the effects of weather, partially offset by increases associated with customer growth.
+
+2016 vs 2015
+
+Retail sales volumes increased primarily due to the effects of weather and customer growth. 
+
+Gas Distribution
+
+Gas Distribution is comprised of the local distribution operations of SCE&G, and for the Company, also includes PSNC Energy. Gas Distribution operating income (including transactions with affiliates) was as follows: 
+
+[DATA_TABLE_REMOVED]
+
+The effect of abnormal weather conditions on gas distribution margin is mitigated by the WNA at SCE&G and the CUT at PSNC Energy as further described in Revenue Recognition in Note 1 of the consolidated financial statements. The WNA and CUT do not affect sales volumes.
+
+2017 vs 2016 
+
+ Operating revenue increased at SCE&G primarily due to increased base rates under the RSA of $6.7 million, customer growth of $11.7 million and higher gas cost recovery of $14.9 million. These increases were partially offset by lower average use of $1.6 million. In addition to these factors, operating revenue increased at the Company due to PSNC Energy's higher gas cost collections of $28.9 million, a rate increase of $14.9 million, customer growth of $8.1 million and higher CUT of $17.2 million. These increases at PSNC Energy were partially offset by milder weather and declining consumption of $18.8 million.
+
+ Gas purchased for resale at SCE&G increased due to higher gas prices of $15.7 million and increased sales volumes associated with firm customer growth of $7.1 million. In addition to these factors, gas purchased for resale at the Company increased primarily due to PSNC Energy's higher gas costs of $28.9 million and customer growth of $2.2 million that were partially offset by milder weather and declining consumption of $7.3 million. 
+
+ Other operation and maintenance expenses decreased primarily due to lower labor costs of $4.9 million at SCE&G and $10.9 million at PSNC Energy, due primarily to lower incentive compensation costs. These decreases were partially offset by higher non-labor costs of $1.7 million at SCE&G and $8.6 million at PSNC Energy.
+
+ Depreciation and amortization increased primarily due to net plant additions.
+
+ Other taxes increased primarily due to higher property taxes associated with net plant additions.
+
+40
+
+2016 vs 2015
+
+ Operating revenue decreased at SCE&G primarily due to lower gas cost recovery of $17.6 million and lower firm average use of $6.1 million. These decreases were partially offset by increased base rates under the RSA of $2.6 million and firm customer growth of $13.1 million. In addition to these factors, operating revenue decreased at the Company due to PSNC Energy's lower gas cost collections of $45.4 million. These decreases at PSNC Energy were partially offset by a rate increase of $6.5 million, increased customer growth of $10.3 million and higher CUT of $13.8 million.
+
+ Gas purchased for resale at SCE&G decreased due to lower gas prices of $17.6 million. These decreases at SCE&G were partially offset by increased sales volumes associated with firm customer growth of $6.5 million. In addition to these factors, gas purchased for resale at the Company decreased due to PSNC Energy's decreased gas cost of $45.4 million and an excess state deferred income tax refund of $1.9 million. This decrease at PSNC Energy was partially offset by customer growth of $3.8 million, as well as higher CUT of $15.5 million.
+
+ Other operation and maintenance expenses increased due to higher labor costs of $2.1 million at SCE&G and $6.7 million at the Company, due primarily to higher incentive compensation costs.
+
+ Depreciation and amortization increased due to net plant additions, partially offset by the implementation of SCPSC-approved revised (lower) depreciation rates at SCE&G of $1.1 million.
+
+ Other taxes increased primarily due to net plant additions. 
+
+Sales volumes (in MMBTU) related to gas distribution by class, including transportation, were as follows: 
+
+[DATA_TABLE_REMOVED]
+
+2017 vs 2016
+
+Residential and commercial sales volumes decreased due to the effects of weather and lower average use. These decreases were partially offset by customer growth. Industrial sales volumes at SCE&G increased due to fewer curtailments and customer growth. Transportation volumes at SCE&G increased primarily due to firm customers transporting rather than purchasing system supply. Transportation volumes at PSNC Energy increased primarily due to firm service expansion partly offset by a decline in natural gas fired electric generation transportation and milder weather.
+
+2016 vs 2015
+
+Residential and commercial firm sales volumes increased primarily due to customer growth. Commercial and industrial interruptible volumes decreased, and firm volumes increased, due to customers switching from interruptible to firm service at SCE&G. Industrial volumes decreased and transportation volumes increased due to customers switching to transportation only service.
+
+Gas Marketing
+
+Gas Marketing is comprised of the Company’s nonregulated marketing operation, SCANA Energy, which operates in the southeast and includes Georgia’s retail natural gas market. Gas Marketing operating revenues and net income were as follows: 
+
+[DATA_TABLE_REMOVED]
+
+41
+
+2017 vs 2016
+
+Operating revenues increased primarily due to higher natural gas prices. Net income decreased primarily due to the impact of the remeasurement of deferred income taxes upon enactment of the Tax Act. 
+
+2016 vs 2015
+
+Operating revenues decreased due to the lower market price of natural gas and lower industrial sales volume. Net income increased primarily due to a weather-related increase in demand. 
+
+Other Operating Expenses
+
+Other operating expenses were as follows:
+
+[DATA_TABLE_REMOVED]
+
+Changes in other operating expenses are largely attributable to the electric operations and gas distribution segments and are addressed in their respective discussions of operating income (loss). In addition, overall increases in other operating expenses in 2016 were partially offset by the Company's sale of CGT in early 2015, which resulted in decreases in other operation and maintenance expenses of $2.2 million, depreciation and amortization of $0.7 million and other taxes of $0.5 million. 
+
+Net Periodic Pension Benefit Cost
+
+ Other operation and maintenance expense includes net periodic pension benefit cost, which was recorded on the income statements and balance sheets as follows:
+
+[DATA_TABLE_REMOVED]
+
+Pursuant to regulatory orders, SCE&G recovers current pension expense through a rate rider (for retail electric operations) and through cost of service rates (for gas operations), and amortizes pension costs previously deferred in regulatory assets as further described in Note 2 and Note 8 to the consolidated financial statements. Amounts amortized were $2.0 million for retail electric operations and $1.0 million for gas operations for each period presented. Pursuant to regulatory orders, PSNC Energy recovers current pension expense through cost of service rates.
+
+Other Income (Expense), net
+
+Other income (expense), net includes the results of certain incidental non-utility activities of regulated subsidiaries, the activities of certain non-regulated subsidiaries, governance activities of the parent company and AFC. AFC is a utility accounting practice whereby a portion of the cost of both equity and borrowed funds used to finance construction (which is shown on the balance sheet as construction work in progress) is capitalized. An equity portion of AFC is included in nonoperating income and a debt portion of AFC is included in interest charges (credits), both of which have the effect of increasing reported net income. Components of other income (expense), net were as follows: 
+
+42
+
+[DATA_TABLE_REMOVED]
+
+2017 vs 2016
+
+Other income at the Company and Consolidated SCE&G increased by $10.9 million due to the accrual of carrying costs on unrecovered nuclear project costs and by $6.3 million due to SCPSC-approved carrying cost accrual on certain deferred items. Other expenses at the Company increased primarily due to higher legal costs at the parent company. AFC decreased due to the abandonment of the Nuclear Project and a lower AFC rate as a result of removing Nuclear Project related capital costs from the average construction work in progress balance used to determine the annual AFC rate following the abandonment decision.
+
+2016 vs 2015
+
+Other income at the Company and Consolidated SCE&G decreased by $3.5 million due to lower gains on the sale of land and due to the recognition in 2015 of $5.2 million of gains realized upon the settlement of certain interest rate contracts previously recorded as regulatory liabilities pursuant to SCPSC orders previously discussed. Such gain recognition was fully offset by downward adjustments to electric operating revenues and had no effect on net income (see electric margin discussion). At the Company, other income also decreased by $3.9 million and other expenses decreased by $2.3 million due to the sale of SCI, and other income and other expenses decreased by $10.5 million for billings to DECG for transition services provided at cost pursuant to the terms of the sale of CGT. Other expenses at the Company and Consolidated SCE&G decreased by $5.2 million due to lower contribution expenses. In 2015, the Company's other income included the gain on the sale of SCI (see Dispositions in Note 1 to the consolidated financial statements). AFC increased due to construction activity.
+
+Interest Expense
+
+Components of interest expense, net of the debt component of AFC, were as follows: 
+
+[DATA_TABLE_REMOVED]
+
+Interest expense increased in each year primarily due to increased borrowings, and in 2017 due to lower AFC on borrowed funds.
+
+Income Taxes
+
+At the Company, the income tax benefit for 2017 was primarily due to the impairment loss. Additionally, the impact of remeasuring deferred taxes upon enactment of the Tax Act increased deferred tax expense and resulted in additional net loss of approximately $30 million. Exclusive of these items, income tax expense increased from 2016 to 2017 primarily due to higher income before taxes. Income tax expense decreased from 2015 to 2016 primarily due to lower income before taxes. In 2015 income tax expense and income before taxes were affected by the sales of CGT and SCI. At Consolidated SCE&G, income tax expense decreased from 2016 to 2017 primarily due to impacts related to the impairment loss. Without these impacts, income tax expense increased from 2016 to 2017 primarily due to higher income before taxes. Income tax expense increased from 2015 to 2016 primarily due to higher income before taxes. 
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Liquidity Considerations
+
+ The Company and Consolidated SCE&G have experienced significant adverse events leading up to their decision to stop construction of Unit 2 and Unit 3, as well as significant adverse events since that decision was made. These events include the bankruptcy filing of the Consortium, the anticipated rejection by the Consortium of the EPC Contract with its fixed-price 
+
+43
+
+provisions, and the ongoing contentious proceedings before regulatory and legislative bodies, among others things described in Note 10. In addition, downgrades by credit ratings agencies have occurred since the beginning of 2017, including recent rating actions. The Company and Consolidated SCE&G have significant obligations that must be paid within the next 12 months, including long-term debt maturities and capital lease payments of $727 million for the Company (including $723 million for Consolidated SCE&G), short-term borrowings of $350 million for the Company (including $252 million for Consolidated SCE&G), interest payments of approximately $335 million for the Company (including $259 million for Consolidated SCE&G), and future minimum payments for operating leases of $34 million for the Company (including $26 million for Consolidated SCE&G). Working capital requirements, such as those for fuel supply and similar obligations, also arise due to the lag between when such amounts are paid and when related collection of such costs through customer rates occurs.
+
+ Management believes as of the date of issuance of these financial statements that it has access to available sources of cash to pay obligations when due over the next 12 months. These sources include committed lines of credit that expire in December 2018 totaling $200 million for the Company, all of which pertains to Consolidated SCE&G, and committed long-term lines of credit that expire in December 2020 totaling $1.8 billion for the Company (including $1.2 billion for Consolidated SCE&G). In addition, as of the date of issuance of these financial statements, SCE&G continues to collect in customer rates amounts previously approved under the BLRA, as well as amounts provided for in other orders related to non-BLRA electric and gas rates. However, as further described below, SCANA's credit rating has fallen below investment grade, which has constricted its ability and that of Consolidated SCE&G to issue commercial paper.
+
+As described in Note 10, on January 31, 2018, the South Carolina House of Representatives passed a bill (H.4375) that would create an experimental rate which would effectively suspend collections from rates previously approved by the SCPSC under the BLRA. This experimental rate would remain in effect during the pendency of administrative proceedings currently before the SCPSC or any appeal therefrom. In addition, the South Carolina Senate passed a joint resolution (S. 954) which, if enacted, would prohibit the SCPSC from holding a hearing on the merits for a docket in which requests were made pursuant to the BLRA (other than an administrative or procedural hearing prior to such hearing on the merits), and would prohibit any final determination on any such requests, before November 1, 2018, and would require the SCPSC to issue a final order for such docket no later than December 21, 2018. Any bill must be approved by both legislative chambers and be signed by, or allowed to become law without the signature of, the Governor before it would be enacted. Such regulatory, legislative or judicial proceedings outside of the Company’s and Consolidated SCE&G’s control may result in the temporary or permanent suspension of the approximately $445 million annually of rates being collected currently under the BLRA, the return of such amounts previously collected of $1.9 billion, or the requirement that SCE&G's share of payments received from the Toshiba Settlement ($1.095 billion) be placed in escrow or be refunded to customers. Neither the Company nor Consolidated SCE&G can predict if or when either of these bills could become law or what additional actions, if any, may be proposed or taken, including other legislative actions related to the BLRA. 
+
+ Were the SCPSC to grant the relief sought by ORS in the Request or grant similar relief resulting from legislative action, and as further discussed in Note 10 in the consolidated financial statements, an additional impairment loss or other charges totaling as much as approximately $4.8 billion may be required. Such an impairment loss or other charges would further stress the Company’s and Consolidated SCE&G’s equity to total capitalization ratio and may result in the Company’s and Consolidated SCE&G’s ratio of equity to total capitalization falling below minimum levels prescribed in the Company’s credit agreements. In such an event, the Company’s and Consolidated SCE&G’s ability to borrow under their commercial paper programs and credit facilities and their ability to pay future dividends would likely be limited or may trigger events of default under such agreements. 
+
+Known and knowable conditions and events when considered in the aggregate as of the date of issuance of these financial statements do not suggest it is probable that the Company and Consolidated SCE&G will not be able to meet obligations as they come due over the next 12 months. However, possible future actions related to rates or refunds could have a material adverse effect on the Company’s and Consolidated SCE&G’s financial condition, liquidity, results of operations and cash flows such that management’s conclusion with respect to its ability to pay obligations when due could change.
+
+Impact of Abandonment of Nuclear Project 
+
+Toshiba provided a parental guaranty for WEC’s payment obligations under the EPC Contract. Following the bankruptcy of WEC, the Toshiba Settlement was executed under which Toshiba was to make periodic settlement payments in the total amount of approximately $2.2 billion ($1.2 billion for SCE&G's 55% share), including certain amounts with respect to contractor liens. In 2017, the first payment under the Toshiba Settlement was received and the remaining amounts due were monetized, resulting in total cash inflows of approximately $2 billion (approximately $1.1 billion for SCE&G's 55% share), including amounts related to the contractor liens. See also Note 10 to the consolidated financial statements. Portions of these 
+
+44
+
+proceeds have been utilized to repay maturing commercial paper balances. Such short-term borrowings had been incurred primarily for the construction of Unit 2 and Unit 3 prior to the decision to stop their construction.
+
+Regulatory proceedings being considered by the SCPSC include the Request filed by the ORS which, if granted, would require SCE&G to (1) immediately suspend all revised rates collections from customers which were previously approved by the SCPSC pursuant to the authority of the BLRA, and (2) make credits to future bills or refunds to customers for prior revised rates collections in the event that the BLRA is found to be unconstitutional or the South Carolina General Assembly amends or revokes it. SCE&G estimates that revised rates collections, including collections related to transmission assets expected to be placed into service, currently total approximately $445 million annually, and such amounts accumulated as of December 31, 2017 total approximately $1.9 billion.
+
+In an amendment to the Request, the ORS has asked the SCPSC to consider the most prudent manner by which SCE&G will enable its customers to realize the value of the monetized Toshiba Settlement payments and other payments made by Toshiba towards satisfaction of its obligations to SCE&G. Parties who filed to intervene in these proceedings or who filed a letter in support of the Request, as amended, include the Governor, the state's Office of Attorney General and Speaker of the House of Representatives, the Electric Cooperatives of South Carolina, the SCEUC, certain large industrial customers, and several environmental groups. On December 20, 2017, the SCPSC denied SCE&G's motion to dismiss the Request and requested that the ORS carry out an inspection, audit and examination of SCE&G's revenue requirements to assist the SCPSC in determining whether SCE&G's present schedule of rates is fair and reasonable and also ordered that a hearing be scheduled to consider the Request. The hearing has not yet been scheduled. See Note 2 for additional developments. SCE&G intends to continue vigorously contesting the Request, but cannot give any assurance as to the timing or outcome of this matter. Any adverse action by the SCPSC, such as that sought by the ORS in the Request, could have a material adverse impact on the Company's and Consolidated SCE&G's results of operations, cash flows and financial condition.
+
+ Should the SCPSC or a court direct that proceeds arising from the Toshiba Settlement be refunded to customers in the near-term, or direct that such funds be escrowed or otherwise made unavailable to SCE&G, it is anticipated that SCE&G would reissue commercial paper, draw on its credit facilities or issue long-term debt to fund such requirement if such sources are available. However, were the SCPSC to rule in favor of the ORS in response to the Request that SCE&G suspend collections from customers of amounts previously authorized under the BLRA, or were other actions of the SCPSC or others taken in order to significantly restrict SCE&G’s access to revenues or impose additional adverse refund obligations on SCE&G, the Company’s and Consolidated SCE&G's assessments regarding the recoverability of all or a portion of the remaining balance of unrecovered nuclear project costs (see Note 2 to the consolidated financial statements) would be adversely impacted and additional impairment losses would likely be recorded. Further, the recognition of significant additional impairment losses with respect to unrecovered Nuclear Project costs could increase the Company’s and Consolidated SCE&G’s debt to total capitalization to a level which may limit their ability to borrow under their commercial paper programs or under their credit facilities and also could constitute a default under these credit facilities. Borrowing costs for long-term debt issuances and access to capital markets could also be negatively impacted.
+
+For additional background on the Nuclear Project and further details on the matters described above, see Note 10 to the consolidated financial statements under Abandoned Nuclear Project - Toshiba Settlement and Subsequent Monetization
+
+and Determination to Stop Construction and Related Regulatory, Political and Legal Developments. 
+
+In the first quarter of 2017, credit ratings agencies placed SCANA and SCE&G’s credit ratings on negative outlook or watch status due to adverse developments relating to the WEC Bankruptcy. In the third quarter of 2017, two agencies lowered their ratings for SCANA and its rated subsidiaries, citing a decline in the regulatory environment as a principal reason for the downgrades, and both agencies maintained their negative outlook or watch status. On January 3, 2018, after SCANA announced a proposed merger with Dominion Energy, each of the three agencies affirmed or reported no change to their respective credit ratings, and one agency revised its rating outlook for SCANA and its rated operating companies from negative to evolving. However, on January 31, 2018, the South Carolina House of Representatives overwhelmingly approved a bill (H.4375) that, if enacted, would temporarily repeal rates SCE&G collects under the BLRA. As a result, on February 5, 2018, one agency downgraded its ratings for SCANA and SCE&G, and attributed the downgrade to the action taken by the House of Representatives and the politically charged environment that is expected to weigh heavily on any decisions by the SCPSC related to SCE&G's electric rates. With this recent downgrade, the issuer ratings and the senior unsecured debt ratings for SCANA are considered below investment grade by two credit agencies; the issuer ratings for SCE&G are considered to be at the threshold for investment grade by two credit agencies while its senior secured debt ratings remain above investment grade; and the issuer ratings for PSNC Energy are considered to be at the threshold for investment grade by one credit agency while its senior secured debt ratings remain above investment grade. All of the ratings for SCANA, SCE&G and PSNC Energy are either under review for possible downgrade or have a negative or evolving outlook.
+
+45
+
+Any actions taken by or anticipated to be taken by regulators or legislators that are viewed as adverse, including a change to the BLRA or a requirement that SCE&G make credits to future bills or refunds to customers above such amounts as are included in the Merger Agreement or any requirement that SCE&G make such credits or refunds in the absence of the merger being consummated, or deterioration of the rated companies’ commonly monitored financial credit metrics or any additional adverse developments with respect to the Nuclear Project, could further negatively affect their debt ratings. If these rating agencies were to further lower any of these ratings, borrowing costs on new issuances of long-term debt and commercial paper would increase, which could adversely impact financial results or limit or eliminate refinancing opportunities, and the potential pool of investors and funding sources could decrease. In addition, further ratings downgrades may result in lower collateral thresholds being applied to the Company's and Consolidated SCE&G's commodity derivatives, or the removal of such thresholds altogether. This action would have the effect of requiring the Company to post additional collateral for commodity derivative instruments with unfavorable fair values. Ratings downgrades have also resulted in prepayments and demands from vendors for letters of credit, cash deposits, or other forms of credit support under certain gas supply and other agreements, and further ratings downgrades could result in requirements for additional deposits or the provision of additional credit support in order to conduct business under these agreements. See further discussion under the heading Credit Risk Considerations in Note 6 to the consolidated financial statements.
+
+Significant Tax Deductions and Credits
+
+The Company and Consolidated SCE&G have claimed significant research and experimentation tax deductions and credits related to the design and construction activities of Unit 2 and Unit 3. A significant portion of these claims followed the issuance of final IRS regulations in 2014 regarding such treatment with respect to expenditures related to the design and construction of pilot models. (See also Note 5 to the consolidated financial statements.) The Company and Consolidated SCE&G also expect to claim a significant tax deduction related to the decision to stop construction and to abandon the Nuclear Project in 2017.
+
+These tax claims primarily involve the timing of recognition of tax deductions rather than permanent tax attributes, and their permanent attributes (net), as well as most of the interest accruals required to be recorded with respect to them, had been deferred within regulatory assets. As such, until December 31, 2017 when it was determined to treat these deferrals as impaired (see Note 10 to the consolidated financial statements), these claims had not had, and were not expected to have in the future, significant direct effects on the Company’s and Consolidated SCE&G’s results of operations. Nonetheless, the claims have contributed significantly to the Company’s and Consolidated SCE&G’s cash flows by providing a significant source of capital and lessening the level of debt and equity financing that the Company and Consolidated SCE&G have needed to raise in the financial markets. 
+
+The claims made to date are under examination, and are considered controversial, by the IRS. Tax deductions which are expected to be claimed in connection with the determination to abandon the construction of Unit 2 and Unit 3 may also be considered controversial; therefore, it is also expected that the IRS will examine future tax returns. To the extent that any of these claims are not sustained as ordinary losses on examination or through any subsequent appeal, the Company and Consolidated SCE&G will be required to repay any cash received for tax benefit claims which are ultimately disallowed, along with interest on those amounts. Such amounts could be significant and could adversely affect the Company's and Consolidated SCE&G's liquidity, cash flows, results of operations and financial condition. In certain circumstances, which management considers to be remote, penalties for underpayment of income taxes could also be assessed. Additionally, in such circumstances, the Company and Consolidated SCE&G may need to access the capital markets to fund those tax and interest payments, which could in turn adversely impact their ability to access financial markets for other purposes.
+
+Other Liquidity Requirements and Restrictions
+
+The terms of the Merger Agreement place limits on the Company and its subsidiaries as to certain investing and financing transactions. While the Merger Agreement permits the Company and its subsidiaries to refinance and issue certain long-term debt, make capital expenditures at certain levels, consummate certain planned investments, and make regular quarterly dividend payments to its shareholders at certain levels, transactions above these levels would require consent from Dominion Energy, which consent cannot be unreasonably withheld. Permitted transactions include, but are not limited to, the planned refinancing of $710 million of long-term debt maturing in 2018 at Consolidated SCE&G and the planned new issuance of $100 million of long-term debt at PSNC Energy, the purchase of an existing 540-MW gas fired power plant, and the payment by SCANA of regular quarterly dividends to its shareholders subject to certain limits. See Capital Expenditures herein for additional restrictions. In addition, SCANA’s Supplementary Key Executive Severance Benefits Plan provides certain payments to qualified senior executive officers in connection with a change in control. In January 2018, approximately $110.7 million was placed irrevocably in a rabbi trust to fund payments pursuant to this and certain other deferred compensation, incentive and 
+
+46
+
+retirement plans, which might arise in connection with a change in control and/or a termination of employment or service if and when such payments become due.
+
+The Company expects to meet contractual cash obligations in 2018 through internally generated funds and additional short- and long-term borrowings. Subject to the outcome of the regulatory, legislative and legal proceedings discussed above, the Company expects that, barring a future impairment of the capital markets or its access to such markets, it has or can obtain adequate sources of financing to meet its projected cash requirements for the foreseeable future, including the cash requirements for refinancing maturing long-term debt. As noted above, adverse developments in regulatory, legislative or legal proceedings could alter these conclusions.
+
+ The terms of the Merger Agreement limit the dividends that SCANA can pay on its shares of common stock to an amount not greater than $0.6125 per share for any quarter. In order to preserve liquidity, the Company may revise its dividend policy to reduce or eliminate dividend payments. Such a decision could result in a significant decrease in the price of SCANA's common stock and an increase in the cost of raising equity capital.
+
+Cash requirements for SCANA’s regulated subsidiaries arise primarily from their operational needs, funding their construction programs and payment of dividends to SCANA. The ability of the regulated subsidiaries to replace existing plant investment, to expand to meet future demand for electricity and gas and to install equipment necessary to comply with environmental regulations, will depend on their ability to attract the necessary financial capital on reasonable terms. Regulated subsidiaries recover the costs of providing services through rates charged to customers. Rates for regulated services are generally based on historical costs. As customer growth and inflation occur and these subsidiaries continue their ongoing construction programs, rate increases will be sought. The future financial position and results of operations of regulated subsidiaries will be affected by their ability to obtain adequate and timely rate and other regulatory relief.
+
+Rating agencies consider qualitative and quantitative factors when assessing SCANA and its rated operating companies’ credit ratings, including the legislative and regulatory environment, capital structure and the ability to meet liquidity requirements. As previously noted, adverse developments with respect to recovery of Nuclear Project costs have negatively affected the Company’s and Consolidated SCE&G's debt ratings. Further adverse developments, changes in the legislative and regulatory environment or deterioration of SCANA's or its rated operating companies' commonly monitored financial credit metrics could cause the Company and Consolidated SCE&G to pay higher interest rates on its long- and short-term indebtedness, could limit the Company's and Consolidated SCE&G's access to capital markets and liquidity, and could trigger more stringent collateral requirements on interest rate and commodity hedges and under gas supply agreements and other contracts.
+
+Cash provided from operating activities in 2016 and 2017 reflect significant tax benefits (reductions in income tax payments) arising from the deductions previously described under Significant Tax Deductions and Credits. The Company's decision in 2017 to stop construction of Unit 2 and Unit 3 and to abandon the Nuclear Project is expected to result in a significant tax deduction and an associated NOL for tax purposes. The Company expects to obtain a refund of taxes paid in certain prior years as a result of the carryback of the NOL, and expects to benefit from the carryforward of the NOL in future years. These cash flows are expected to supplant portions of financing which would otherwise be obtained in the capital markets. 
+
+Enactment of the Tax Act resulted in the remeasurement of deferred income tax assets and liabilities and the recognition as regulatory liabilities of certain excess deferred income taxes (see Note 2 and Note 5 to the consolidated financial statements). These regulatory liabilities will be amortized to the benefit of customers in accordance with the normalization provisions of the IRC and Code of Federal Regulations, which will serve to mitigate significant negative cash impact. Similarly, since the majority of the Company’s and Consolidated SCE&G's businesses are rate regulated, lower income taxes payable in future years due to the Tax Act should ultimately result in lower collections from customers in rates. 
+
+Capital Expenditures
+
+Cash outlays for property additions and construction expenditures, including nuclear fuel, were $1.2 billion in 2017. Estimates of capital expenditures for construction and nuclear fuel for the next three years, which are subject to continuing review and adjustment, are as follows:
+
+47
+
+Estimated Capital Expenditures 
+
+[DATA_TABLE_REMOVED]
+
+Under the terms of the Merger Agreement, the Company may increase the amounts of the above estimated capital expenditures in 2018 and 2019 by not more than 10% without obtaining the consent of Dominion Energy.
+
+Contractual cash obligations as of December 31, 2017 are summarized as follows:
+
+[DATA_TABLE_REMOVED]
+
+As of December 31, 2017, the SCPSC has taken no final action with regard to the Request by the ORS or in connection with the effect of the Tax Act on customer rates, including any action with respect to excess deferred income taxes. Therefore, no amounts have been included in the table above for these matters. See Note 2 to the consolidated financial statements.
+
+Purchase obligations include customary purchase orders under which the Company has the option to utilize certain vendors without the obligation to do so. The Company may terminate such arrangements without penalty. Purchase obligations also includes amounts related to the EPC Contract, which the Company anticipates that WEC and WECTEC will reject. The Company does not expect that such amounts will be expended. See Note 10 to the consolidated financial statements.
+
+Other commercial commitments includes estimated obligations under forward contracts for natural gas purchases. Such forward contracts include customary “make-whole” or default provisions, but are not considered to be “take-or-pay” contracts. Certain of these contracts relate to regulated businesses; therefore, the effects of such contracts on fuel costs are reflected in electric or gas rates. Other commercial commitments also includes a “take-and-pay” contract for natural gas which expires in 2019 and estimated obligations for coal and nuclear fuel purchases.  The Company has included certain amounts related to nuclear fuel commitments based on its interpretation of its obligations under existing contract terms that are currently disputed by the supplier. 
+
+Unrecognized tax benefits of approximately $19 million have been excluded from the table above due to uncertainty as to the timing of any future payments. In addition, the table excludes amounts that may be required to be paid to federal or state taxing authorities related to tax deductions and credits on tax returns for which examinations have not been completed or closed. For additional information, see Note 5 to the consolidated financial statements.
+
+In addition to the contractual cash obligations above, the Company sponsors a noncontributory defined benefit pension plan and an unfunded health care and life insurance benefit plan for retirees. The pension plan is adequately funded under current regulations, and no significant contributions are anticipated for the foreseeable future. Cash payments under the 
+
+48
+
+postretirement health care and life insurance benefit plan were $12.5 million in 2017, and such annual payments are expected to be the same or increase to as much as $16.5 million in the future.
+
+The Company is party to certain NYMEX natural gas futures contracts for which any unfavorable market movements are funded in cash. These derivatives are accounted for as cash flow hedges and their effects are reflected within other comprehensive income until the anticipated sales transactions occur. The Company, including Consolidated SCE&G, is also party to certain interest rate derivative contracts for which unfavorable market movements above certain thresholds are funded in cash collateral. Certain of these interest rate derivative contracts are accounted for as cash flow hedges, and others are not designated for accounting purposes as cash flow hedges but are accounted for pursuant to regulatory orders. See further discussion at Item 7A. Quantitative and Qualitative Disclosures About Market Risk and Note 6 to the consolidated financial statements. As of December 31, 2017, the Company had posted approximately $29 million in cash collateral related to interest rate derivative contracts.
+
+The Company has a legal obligation associated with the decommissioning and dismantling of Unit 1 and other conditional AROs that are not listed in contractual cash obligations above. See Notes 1 and 10 to the consolidated financial statements. SCE&G's method for funding decommissioning costs is described in Note 1 to the consolidated financial statements.
+
+Financing Limits and Related Matters
+
+Issuance of various securities, including long-term and short-term debt, is subject to customary approval or authorization by regulatory bodies including state public service commissions and FERC. 
+
+SCE&G has obtained FERC authority to issue short-term indebtedness and to assume liabilities as a guarantor (pursuant to Section 204 of the Federal Power Act). SCE&G may issue unsecured promissory notes, commercial paper and direct loans in amounts not to exceed $1.6 billion outstanding with maturity dates of one year or less, and may enter into guaranty agreements in favor of lenders, banks, and dealers in commercial paper in amounts not to exceed $600 million. GENCO has obtained FERC authority to issue short-term indebtedness not to exceed $200 million outstanding with maturity dates of one year or less. The authority described herein will expire in October 2018. Were adverse developments to occur with respect to uncertainties highlighted elsewhere, the ability of SCE&G or GENCO to secure renewal of this short-term borrowing authority may be adversely impacted.
+
+At December 31, 2017 SCANA, SCE&G (including Fuel Company) and PSNC Energy were parties to five-year credit agreements in the amounts of $400 million, $1.2 billion, of which $500 million relates to Fuel Company, and $200 million, respectively, which expire in December 2020. In addition, at December 31, 2017 SCE&G was party to a three-year credit agreement in the amount of $200 million which expires in December 2018. These credit agreements are used for general corporate purposes, including liquidity support for each company's commercial paper program and working capital needs and, in the case of Fuel Company, to finance or refinance the purchase of nuclear fuel, certain fossil fuels, and emission and other environmental allowances. For a list of banks providing credit support and other information, see Note 4 to the consolidated financial statements. 
+
+As of December 31, 2017, the Company had no outstanding borrowings under its credit facilities, had approximately $350 million in commercial paper borrowings outstanding, was obligated under $3.3 million in LOC-supported letters of credit, and held approximately $409 million in cash and temporary investments. The Company regularly monitors the commercial paper and short-term credit markets to optimize the timing for repayment of the outstanding balance on its draws, while maintaining appropriate levels of liquidity. The Company's average short-term borrowings outstanding during 2017 were approximately $870 million. Short-term cash needs were met primarily through the issuance of commercial paper.
+
+At December 31, 2017, the Company’s long-term debt portfolio has a weighted average maturity of approximately 19 years and bears an average cost of 5.75%. Substantially all long-term debt bears fixed interest rates or is swapped to fixed. 
+
+The Company’s articles of incorporation do not limit the dividends that may be paid on its common stock. However, the terms of the Merger Agreement limit the dividends that SCANA can pay on its shares of common stock to an amount not greater than $0.6125 per share for any quarter. 
+
+SCE&G’s bond indenture (relating to the hereinafter defined Bonds) contains provisions that could limit the payment of cash dividends on its common stock. SCE&G's bond indenture permits the payment of dividends on SCE&G's common stock only either (1) out of its Surplus (which as defined equates to its retained earnings) or (2) in case there is no Surplus, out of its net profits for the fiscal year in which the dividend is declared and/or the preceding fiscal year. In addition, the Federal 
+
+49
+
+Power Act requires the appropriation of a portion of certain earnings from hydroelectric projects. At December 31, 2017, approximately $94.0 million of retained earnings were restricted by this requirement as to payment of cash dividends on SCE&G’s common stock.
+
+PSNC Energy’s note purchase and debenture purchase agreements contain provisions that could limit the payment of cash distributions, including dividends, on PSNC Energy's common stock. These agreements generally limit the sum of distributions to an amount that does not exceed $30 million plus 85% of Consolidated Net Income (as therein defined) accumulated after December 31, 2008 plus the net proceeds of issuances by PSNC Energy of equity or convertible debt securities (as therein defined). As of December 31, 2017, this limitation would permit PSNC Energy to pay cash distributions in excess of $100 million. 
+
+SCANA Corporation
+
+SCANA has an indenture which permits the issuance of unsecured debt securities from time to time including its medium-term notes. This indenture contains no specific limit on the amount of unsecured debt securities which may be issued.
+
+South Carolina Electric & Gas Company
+
+SCE&G is subject to a bond indenture dated April 1, 1993 (Mortgage) covering substantially all of its electric properties under which all of its first mortgage bonds (Bonds) have been issued. Bonds may be issued under the Mortgage in an aggregate principal amount not exceeding the sum of (1) 70% of Unfunded Net Property Additions (as therein defined), (2) the aggregate principal amount of retired Bonds and (3) cash deposited with the trustee. At December 31, 2017, SCE&G's Unfunded Net Property Additions (which are based on property certified November 30, 2017) totaled approximately $754 million, and the aggregate principal of retired Bonds totaled approximately $491 million. Bonds, other than certain Bonds issued on the basis of retired Bonds, may be issued under the Mortgage only if Adjusted Net Earnings (as therein defined) for 12 consecutive months out of the 18 months immediately preceding the month of issuance are at least twice (2.0) the annual interest requirements on all outstanding Bonds and Bonds to be issued (Bond Ratio). For the year ended December 31, 2017, the Bond Ratio was 5.24. Adjusted Net Earnings, as therein defined, excludes the impairment loss.
+
+Financing Activities
+
+During 2017, net cash outflows related to financing activities totaled approximately $802 million, primarily associated with short-term borrowings and the payment of dividends. During 2016, net cash inflows related to financing activities totaled approximately $560 million, primarily associated with the proceeds from the issuance of long-term debt and short-term borrowings, partially offset by the payment of dividends.
+
+On November 1, 2016, Consolidated SCE&G paid at maturity $100 million related to a nuclear fuel financing which had an imputed interest rate of 0.78%.
+
+In June 2016, SCE&G issued $425 million of 4.1% first mortgage bonds due June 15, 2046. Also in June 2016, SCE&G issued $75 million of 4.5% first mortgage bonds due June 1, 2064, which constituted a reopening of the $300 million of 4.5% first mortgage bonds issued in May 2014. Proceeds from these sales were used to repay short-term debt primarily incurred as a result of SCE&G’s construction program, to finance capital expenditures, and for general corporate purposes.
+
+In June 2017, PSNC Energy issued $150 million of 4.18% senior notes due June 22, 2047. In June 2016, PSNC Energy issued $100 million of 4.13% senior notes due June 22, 2046. Proceeds from these sales were used to repay short-term debt, to finance capital expenditures, and for general corporate purposes.
+
+Investing Activities
+
+To settle interest rate derivative contracts, the Company paid approximately $39 million in 2017, $113 million in 2016, and $253 million, net, in 2015. 
+
+For additional information, see Note 4 to the consolidated financial statements.
+
+50
+
+Ratios of earnings to fixed charges for each of the five years ended December 31, 2017, were as follows:
+
+[DATA_TABLE_REMOVED]
+
+The earnings deficiency below fixed charges for 2017 is approximately $226 million for the Company and approximately $338 million for Consolidated SCE&G. Ratios for 2017 reflect impairment losses related to the Nuclear Project. See Note 10 to the consolidated financial statements. The Company's ratio for 2015 reflects the impact of gains recorded upon the sale of certain subsidiaries. See Note 1 to the consolidated financial statements.
+
+ENVIRONMENTAL MATTERS
+
+The operations of the Company are subject to extensive regulation by various federal and state authorities in the areas of air quality, water quality, control of toxic substances and hazardous and solid wastes. Applicable statutes and rules include the CAA, CWA, Nuclear Waste Act and CERCLA, among others. In many cases, regulations proposed by such authorities could have a significant impact on financial condition, results of operations and cash flows. In addition, the conditions or requirements that will be imposed by regulatory or legislative proposals often cannot be predicted. To the extent that compliance with environmental regulations or legislation results in capital expenditures or operating costs, recovery of such expenditures and costs are expected through existing ratemaking provisions.
+
+For the three years ended December 31, 2017, capital expenditures for environmental control equipment at fossil fuel generating stations totaled $60.7 million. During this same period, expenditures were made for the construction and retirement of landfills and ash ponds, net of disposal proceeds, of approximately $23.6 million. In addition, expenditures were made to operate and maintain environmental control equipment at fossil plants of $8.2 million in 2017, $9.5 million in 2016 and $8.7 million in 2015, which are included in other operation and maintenance expense, and expenditures were made to handle waste ash, net of disposal proceeds, of $1.2 million in 2017, $2.4 million in 2016 and $1.3 million in 2015, which are included in fuel used in electric generation. In addition, included within other operation and maintenance expense is an annual amortization of $1.4 million in each of 2017, 2016 and 2015 related to SCE&G's recovery of MGP remediation costs as approved by the SCPSC. It is not possible to estimate all future costs related to environmental matters, but forecasts for capitalized environmental expenditures for the Company are $28 million for 2018 and $329 million for the four-year period 2019-2022. These expenditures are included in the Estimated Capital Expenditures table, discussed in Liquidity and Capital Resources, and include known costs related to the matters discussed below.
+
+The EPA is conducting an enforcement initiative against the utilities industry related to the New Source Review provisions and the NSPS of the CAA. In addition, the DOJ, on behalf of the EPA, has taken civil enforcement action against several utilities. The primary basis for these actions is the assertion by the EPA that maintenance activities undertaken by the utilities at their coal-fired power plants constituted “major modifications” which required the installation of costly BACT. Some of the utilities subject to the actions have reached settlement. Though the Company cannot predict what action, if any, the EPA will initiate against it, any costs incurred are expected to be recoverable through rates.
+
+With the pervasive emergence of concern over the issue of global climate change as a significant influence upon the economy, SCANA, SCE&G and GENCO are subject to climate-related financial risks, including those involving regulatory requirements responsive to GHG emissions, as well as those involving other potential physical impacts. Other business and financial risks arising from such climate change could also materialize. The Company cannot predict all of the climate-related regulatory and physical risks nor the related consequences which might impact the Company, and the following discussion should not be considered all-inclusive.
+
+Physical effects associated with climate changes could include changes in weather patterns, such as storm frequency and intensity, and any resultant damage to the Company's electric and gas systems, as well as impacts on employees and customers, the supply chain and many others. Much of the service territory of SCE&G is subject to the damaging effects of Atlantic and Gulf coast hurricanes and also to the damaging impact of winter ice storms. To help mitigate the financial risks arising from these potential occurrences, SCE&G maintains insurance on certain properties. As part of its ongoing operations, SCE&G maintains emergency response and storm preparation plans and teams who receive ongoing training and related simulations, all in order to allow for the protection of assets and the return of systems to normal reliable operation in a timely fashion following any such event.
+
+Environmental commitments and contingencies are further described in Note 10 to the consolidated financial statements.
+
+51
+
+REGULATORY MATTERS
+
+SCANA and its subsidiaries are subject to the regulatory jurisdiction of the following entities for the matters noted below. In addition, see Environmental Matters above for a discussion of related regulations to which the Company's operations are subject. 
+
+[DATA_TABLE_REMOVED]
+
+Material retail rate proceedings, and significant uncertainties with respect to certain of these proceedings, are described in Note 2 and Note 10 to the consolidated financial statements. In addition, the RSA allows natural gas distribution companies in South Carolina to request annual adjustments to rates to reflect changes in revenues and expenses and changes in investment. Such annual adjustments are subject to certain qualifying criteria and review by the SCPSC.
+
+SCE&G’s electric transmission system and certain facilities related to generation and distribution are subject to NERC, which develops and enforces reliability standards for the bulk power systems throughout North America. NERC is subject to oversight by FERC.
+
+Dodd-Frank provides for substantial additional regulation of over-the-counter and security-based derivative instruments, among other things, and the CFTC and the SEC continue to modify the implementation of Dodd-Frank through rule makings. The Company has determined that it meets the end-user exception in Dodd-Frank, with the lowest level of required regulatory reporting burden imposed by this law. The Company is currently complying with these enacted regulations and intends to comply with regulations enacted in the future.
+
+52
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+
+Following are descriptions of the accounting policies and estimates which are most critical in terms of reporting financial condition or results of operations.
+
+Impairment Considerations
+
+Under the current regulatory construct in South Carolina, pursuant to the BLRA or through other means, the ability of SCE&G to recover costs incurred in connection with Unit 2 and Unit 3, and a reasonable return on them, will be subject to review and approval by the SCPSC. In light of the contentious nature of the reviews by legislative committees and others, the adverse impact that would result if proposed legislation is enacted, and the Request being considered by the SCPSC that could result in the suspension of rates currently being collected under the BLRA, as well as the return of such amounts previously collected, there is significant uncertainty as to SCE&G’s ultimate ability to fully recover its costs of Unit 2 and Unit 3 and a return on them from its customers. SCE&G continues to contest the specific challenges set forth in regulatory, legislative and legal proceedings (see also Note 10 to the consolidated financial statements). However, based on the consideration of those challenges, and particularly in light of SCE&G's proposed solution announced on November 16, 2017 and details in the Joint Petition filed by SCE&G and Dominion Energy with the SCPSC on January 12, 2018, the Company and Consolidated SCE&G have determined that a disallowance of recovery of part of the cost of the abandoned plant is both probable and reasonably estimable under applicable accounting guidance. In addition, the Company and Consolidated SCE&G have determined that recovery of certain other related costs deferred within regulatory assets is less than probable. As a result, as of December 31, 2017, the Company and Consolidated SCE&G have recognized a pre-tax impairment loss totaling $1.118 billion ($690 million net of tax). With the exception of the $210 million loss recorded in the third quarter of 2017 as explained below, this impairment loss was recorded in the fourth quarter of 2017. A discussion of this impairment loss follows:
+
+•A pre-tax impairment loss was recorded with respect to disallowance of unrecovered nuclear project costs of approximately $670 million. This amount includes $210 million recorded in the third quarter of 2017, which represented costs of approximately $1.2 billion that had been expended on the project, exclusive of transmission costs, but which had not yet been determined to be prudent by the SCPSC in connection with revised rates proceedings under the BLRA, offset by the amount of approximately $1 billion, which amount represents the recovery of the Toshiba Settlement proceeds that are in excess of amounts from that settlement that the Company and Consolidated SCE&G estimated may be necessary to satisfy certain project liens. This impairment loss also includes $180 million, which amount arises from SCE&G’s entry into an agreement in the fourth quarter of 2017 to purchase in 2018 an existing 540-MW combined cycle gas generating station along with SCE&G's commitment to regulators and the public that the recovery of the initial capital investment in the facility would not be sought from customers. The remaining $280 million of this impairment loss was recorded after consideration of the regulatory and political developments in the fourth quarter of 2017 and early 2018 described in Note 10 to the consolidated financial statements.
+
+•A pre-tax impairment loss was recorded in the aggregate amount of $361 million to write off costs which had been previously deferred, primarily as regulatory assets, in connection with the Nuclear Project. Such regulatory assets included deferred losses on interest rate swaps for which debt will not be issued due to the abandonment of the Nuclear Project, carrying costs on deferred tax assets arising from the capitalization of interest costs for tax purposes, net deferred costs and tax benefits related to foregone domestic production activities deductions (net of uncertain tax positions and credits) taken with respect to the project, and taxes associated with equity AFC.
+
+•Finally, an $87 million pre-tax impairment loss was recorded in order to reduce to estimated fair value the carrying value of nuclear fuel acquired for use in Unit 2 and Unit 3.
+
+With the exception of the $87 million related to nuclear fuel, the above impairment loss reflects impacts similar to those that may have resulted had the proposed solution announced November 16, 2017 been implemented. That proposal is presented by SCE&G as a less-favored alternative to the merger benefits and cost recovery plan in the January 12, 2018 Joint Petition. It is reasonably possible that a change in the estimated impairment loss could occur in the near term. If the merger benefits and cost recovery plan outlined in the Joint Petition is implemented (upon closing of the merger as contemplated in the Merger Agreement), an additional impairment loss and other charges totaling as much as approximately $1.7 billion would be expected to be recorded. This additional impairment loss would result from the write-off of unrecovered Nuclear Project costs of approximately $856 million recorded within regulatory assets and the recording of additional liabilities for customer refunds totaling approximately $1.875 billion, net of approximately $1.062 billion, which amount represents the monetization of guaranty settlement of $1.095 billion recorded within regulatory liabilities less amounts that may be required to settle 
+
+53
+
+contractor liens. If instead the Joint Petition is not approved and the Request by the ORS is approved, and if the BLRA is found to be unconstitutional or the General Assembly amends or revokes the BLRA, the Company and Consolidated SCE&G may be required to record an additional impairment loss and other charges totaling as much as approximately $4.8 billion. This additional impairment loss would result from the write-off of the remaining unrecovered Nuclear Project costs of $3.976 billion recorded within regulatory assets and the refund of revised rates collections under the BLRA described above of approximately $1.9 billion, net of approximately $1.062 billion, which amount represents the monetization of guaranty settlement of $1.095 billion recorded within regulatory liabilities less amounts that may be required to settle contractor liens. 
+
+Accounting for Rate Regulated Operations
+
+Regulated utilities record certain assets and liabilities that defer the recognition of expenses and revenues to future periods in accordance with accounting guidance for rate-regulated utilities. In the future, in the event of deregulation or other changes in the regulatory environment, the criteria of accounting for rate-regulated utilities may no longer be met, and the write off of regulatory assets and liabilities could be required. Such an event could have a material effect on the results of operations, liquidity or financial position of the Electric Operations and Gas Distribution segments in the period the write-off would be recorded. See Note 2 to the consolidated financial statements for a description of the regulatory assets and liabilities.
+
+Generation assets would be exposed to considerable financial risks in a deregulated electric market. If market prices for electric generation do not produce adequate revenue streams and the enabling legislation or regulatory actions do not provide for recovery of the resulting stranded costs, a write down in those assets could be required. It is not possible to predict whether any write-downs would be necessary and, if they were, the extent to which they would affect results of operations in the period in which they would be recorded. As of December 31, 2017, net investments in fossil/hydro and nuclear generation assets (excluding assets associated with the Nuclear Project, which are discussed under Impairment Considerations above) were approximately $2.2 billion and $825 million, respectively.
+
+Revenue Recognition and Unbilled Revenues
+
+Revenues related to the sale of energy are recorded when service is rendered or when energy is delivered to customers. Because customers of the utilities and retail gas operations are billed on cycles which vary based on the timing of the actual reading of their electric and gas meters, estimates are recorded for unbilled revenues at the end of each reporting period. Such unbilled revenue amounts reflect estimates of the amount of energy delivered to customers for which they have not yet been billed. Such unbilled revenues reflect consideration of estimated usage by customer class, the effects of different rate schedules and, where applicable, the impact of weather normalization or other regulatory provisions of rate structures. The accrual of unbilled revenues in this manner properly matches revenues and related costs. The Company's accounts receivable included unbilled revenues of $220.9 million at December 31, 2017 and $178.9 million at December 31, 2016, compared to total revenues of $4.4 billion in 2017 and $4.2 billion in 2016. See Note 1 to the consolidated financial statements for a discussion of the impact expected from the adoption of new revenue recognition guidance in 2018.
+
+Nuclear Decommissioning
+
+Accounting for decommissioning costs for nuclear power plants involves significant estimates related to costs to be incurred many years into the future. Among the factors that could change SCE&G’s accounting estimates related to decommissioning costs are changes in technology, changes in regulatory and environmental remediation requirements, and changes in financial assumptions such as discount rates and the estimated timing of cash flows. Changes in any of these estimates could significantly impact financial position and cash flows (although changes in such estimates should be earnings-neutral, because these costs are expected to be collected from ratepayers).
+
+Based on a decommissioning cost study, SCE&G’s two-thirds share of estimated site-specific nuclear decommissioning costs for Unit 1, including both the cost of decommissioning plant components that are and are not subject to radioactive contamination, totals $786.4 million, stated in 2016 dollars. Santee Cooper is responsible for decommissioning costs related to its one-third ownership interest in Unit 1. The cost estimate assumes that upon closure the site would be maintained for 60 years in such a manner as to allow for subsequent decontamination that would permit release for unrestricted use.
+
+Under SCE&G’s method of funding decommissioning costs, SCE&G transfers to an external trust fund the amounts collected through rates, less expenses. The trust invests the amounts transferred into insurance policies on the lives of certain company personnel. Insurance proceeds are reinvested in insurance policies. The asset balance held in the trust reflects the net cash surrender value of the insurance policies and cash held by the trust. Management intends for the fund, including earnings thereon, to provide for all eventual decommissioning expenditures for Unit 1 on an after-tax basis.
+
+54
+
+Asset Retirement Obligations
+
+AROs are accrued for legal obligations associated with the retirement of long-lived tangible assets that result from acquisition, construction, development and normal operation in accordance with applicable accounting guidance. These obligations are recognized at present value in the period in which they are incurred, and associated asset retirement costs are capitalized as part of the carrying amount of the related long-lived assets. Because such obligations relate primarily to regulated utility operations, their recognition has no significant impact on results of operations. As of December 31, 2017, the Company has recorded AROs of $208 million for nuclear plant decommissioning (as discussed above) and AROs of $360 million for other conditional obligations primarily related to other generation, transmission and distribution properties, including gas pipelines. All of the amounts are based upon estimates which are subject to varying degrees of precision, particularly since payments in settlement of such obligations may be made many years in the future. Changes in these estimates will be recorded over time; however, these changes in estimates are not expected to materially impact results of operations so long as the regulatory framework for the utilities remains in place.
+
+Accounting for Pensions and Other Postretirement Benefits
+
+The Company recognizes the funded status of its defined benefit pension plan as a liability and changes in funded status as a component of net periodic benefit cost or other comprehensive income, net of tax, or as a regulatory asset as required by accounting guidance. Accounting guidance requires the use of several assumptions that impact pension cost, of which the discount rate and the expected return on assets are the most sensitive. Net pension cost of $22.3 million recorded in 2017 reflects the use of a 4.22% discount rate derived using a cash flow matching technique, and an assumed 7.25% long-term rate of return on plan assets. The Company believes that these assumptions and the resulting pension cost amount were reasonable. For purposes of comparison, a 25 basis point reduction in the discount rate in 2017 would have increased the Company’s pension cost by $1.7 million and increased the pension obligation by $25.2 million. Further, had the assumed long-term rate of return on assets been 7.00%, the Company’s pension cost for 2017 would have increased by $1.9 million.
+
+The following information with respect to pension assets (and returns thereon) should also be noted.
+
+In developing the expected long-term rate of return assumptions, the Company evaluates historical performance, targeted allocation amounts and expected payment terms. As of the beginning of 2017, the plan’s historical 10, 15, 20 and 25 year cumulative performance showed actual returns of 5.1%, 5.4%, 6.9% and 8.2%, respectively. The 2017 expected long-term rate of return of 7.25% was based on a target asset allocation of 58% with equity managers, 33% with fixed income managers and 9% with hedge fund managers. Management regularly reviews such allocations and periodically rebalances the portfolio when considered appropriate. As of the beginning of 2018, the plan’s historical 10, 15, 20 and 25 year cumulative performance showed actual returns of 6.1%, 7.8%, 6.6% and 8.5%, respectively. For 2018, it is anticipated that the long-term expected rate of return will be 7.00%.
+
+Pursuant to regulatory orders, certain previously deferred pension costs are being amortized as described in Note 2 to the consolidated financial statements. Current pension expense for electric operations is being recovered through a pension cost rider, and current pension expense related to SCE&G's and PSNC Energy's gas operations is being recovered through cost of service rates.
+
+Pension benefits are not offered to employees hired or rehired after 2013, and pension benefits for existing participants will no longer accrue for services performed or compensation earned after 2023. As a result, the significance of pension costs and the criticality of the related estimates will continue to diminish. Further, the pension trust is adequately funded under current regulations, and management does not anticipate the need to make significant pension contributions for the foreseeable future based on current market conditions and assumptions.
+
+The Company accounts for the cost of its postretirement medical and life insurance benefit plan in a similar manner to that used for its defined benefit pension plan. This plan is unfunded, so no assumptions related to rate of return on assets impact the net expense recorded; however, the selection of discount rates can significantly impact the actuarial determination of net expense. The Company used a discount rate of 4.30%, derived using a cash flow matching technique, and recorded a net cost for 2017 of $17.0 million. Had the selected discount rate been 4.05% (25 basis points lower than the discount rate referenced above), the expense for 2017 would have been $0.6 million higher and the obligation would have increased by $8.6 million. Because the plan provisions include “caps” on company per capita costs, and because employees hired after 2010 are responsible for the full cost of retiree medical benefits elected by them, health care cost inflation rate assumptions do not materially impact the net expense recorded. 
+
+55
+
+Uncertain Income Tax Positions
+
+During 2013 and 2014, SCANA amended certain of its income tax returns to claim additional tax-defined research and experimentation deductions (under IRC Section 174) and credits (under IRC Section 41) and to reflect related impacts on other items such as domestic production activities deductions (under IRC Section 199). SCANA also made similar claims in filing its original 2013 and 2014 returns in 2014 and 2015, respectively. In 2016 and 2017, SCANA claimed significant research and experimentation deductions and credits (offset by reductions in its domestic production activities deductions), related to the design and construction activities of the Nuclear Project, in its 2015 and 2016 income tax returns. SCANA expects to claim similar deductions and credits on its 2017 tax return when it is filed in 2018. These claims followed the issuance of final IRS regulations in 2014 regarding such treatment with respect to expenditures related to the design and construction of pilot models. See also Note 5 to the consolidated financial statements.
+
+These IRC Section 174 income tax deductions and IRC Section 41 credits were considered to be uncertain tax positions, and under relevant accounting guidance, estimates of the amounts of related tax benefits which may not be sustained upon examination by the taxing authorities were recorded as unrecognized tax benefits in the financial statements. Following the abandonment of the Nuclear Project, SCANA anticipates that an abandonment loss deduction under IRC Section 165 will be claimed on the 2017 tax return. As such, certain of the IRC Section 174 deductions, to the extent they are denied, would instead be deductible in 2017 under IRC Section 165. The abandonment loss deduction is also considered an uncertain tax position; however, under relevant accounting guidance, no such estimated unrecognized tax benefits were recorded as of December 31, 2017. The remaining unrecognized tax benefits include the impact of the IRC Section 174 deductions on domestic production activities deductions, credits, and certain unrecognized state tax benefits.
+
+As of December 31, 2017, the Company and Consolidated SCE&G have recorded an unrecognized tax benefit of $98 million ($19 million net of the impact of state deductions on federal returns, net of NOLs and credit carryforwards, and net of receivables related to the uncertain tax positions). If recognized, $98 million of the tax benefit would affect the Company’s and Consolidated SCE&G's effective tax rates. These unrecognized tax benefits are not expected to increase significantly within the next 12 months. It is also reasonably possible that these unrecognized tax benefits may decrease by $11 million within the next 12 months. No other material changes in the status of the Company’s or Consolidated SCE&G's tax positions have occurred through December 31, 2017.
+
+The estimates of unrecognized tax benefits were computed with consideration as to whether the claims are (or are not) more likely than not to be sustained and with consideration of analyses of cumulative probabilities regarding potential outcomes. Such estimates involve significant management judgment and varying levels of precision. Changes in such estimates are required to be recorded as circumstances change and additional information regarding the claims and potential outcomes becomes available, and these changes could be significant.
+
+ Historically, because the unrecognized tax benefit through December 31, 2017 primarily involved the timing of recognition of tax deductions rather than permanent tax attributes, the estimates regarding their recognition did not have a significant impact on the Company's effective tax rate. Further, until December 31, 2017, when such deferrals were considered to be less than probable of recovery (see Note 10), these permanent attributes (net), as well as most of the interest accruals required to be recorded with respect to the unrecognized tax benefits, had been deferred within regulatory assets. As such, the impacts of these significant accounting estimates, and changes therein, had primarily been reflected on the balance sheet rather than in results of operations. In the future, the impact of changes in estimates with respect to these permanent attributes (net) are not expected to be deferred within regulatory assets (see Note 10) and the impact of such changes to the unrecognized tax benefit related to these permanent attributes (net) could be significant.
+
+ Upon resolution of the uncertainties, the Company will be required to re-pay any tax benefits claimed which are ultimately disallowed, along with interest on those amounts. In certain circumstances, which the Company considers to be remote, penalties for underpayment of income taxes could also be assessed. Such re-payment amounts could be significant and adversely affect cash flow and financial condition.
+
+OTHER MATTERS
+
+Off-Balance Sheet Arrangements
+
+SCANA holds insignificant investments in securities and business ventures. The Company does not engage in significant off-balance sheet financing or similar transactions, although it is party to various operating leases in the normal course of business for land, office space, furniture, equipment, rail cars, a purchase power agreement, and airplanes.
+
+56
+
+Claims and Litigation
+
+For a description of claims and litigation, see Note 10 to the consolidated financial statements.
+
+Other
+
+As Georgia’s regulated provider, SCANA Energy provides service to customers considered to be low-income or that are otherwise unable to obtain natural gas service from other marketers. SCANA Energy provides this service at rates approved by the GPSC and receives funding from Georgia's Universal Service Fund to offset some of the resulting bad debt. SCANA Energy files financial and other information periodically with the GPSC, and such information is available at www.psc.state.ga.us (which is not intended as an active hyperlink; the information on the GPSC website is not part of this or any other report filed by the Company with the SEC).
+
+SCANA’s natural gas distribution and gas marketing segments maintain gas inventory and utilize forward contracts and other financial instruments, including commodity swaps and futures contracts, to manage exposure to fluctuating natural gas commodity prices. See Note 6 to the consolidated financial statements. As a part of this risk management process, at any given time, a portion of SCANA’s projected natural gas needs has been purchased or placed under contract. 
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK

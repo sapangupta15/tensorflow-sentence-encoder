@@ -1,0 +1,175 @@
+PART I
+
+Item 1. Business
+
+Overview
+
+We own, operate and lease shared wireless infrastructure, including: (1) towers and other structures, such as rooftops (collectively, "towers"), (2) distributed antenna systems ("DAS")(each such system is a network of antennas for the benefit of wireless carriers and is connected by fiber to communication hubs designed to facilitate wireless communications), and (3) interests in land under third party towers in various forms ("third party land interests") (unless the context otherwise suggests or requires, references herein to "wireless infrastructure" include towers, DAS and third party land interests). Our core business is renting space or physical capacity (collectively, "space") on our towers, DAS and, to a lesser extent, third party land interests (collectively, "site rental business") via long-term contracts in various forms, including license, sublease and lease agreements (collectively, "contracts"). Our wireless infrastructure can accommodate multiple customers ("co-location") for antennas and other equipment necessary for the transmission of signals for wireless communication devices. We seek to increase our site rental revenues by adding more tenants on our wireless infrastructure, which we expect to result in significant incremental cash flows due to our relatively fixed operating costs.
+
+Information concerning our site rental business as of December 31, 2011 is as follows:[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+Information concerning our customers and site rental contracts as of December 31, 2011 is as follows:
+
+[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+•Our site rental revenues are of a recurring nature, and typically in excess of 90% have been contracted for in a prior year. 
+
+•Our site rental revenues typically result from long-term contracts with (1) initial terms of five to 15 years, (2) multiple renewal periods at the option of the tenant of five to ten years each, (3) limited termination rights for our customers, and (4) contractual escalations of the rental price. 
+
+•Our customer contracts have a weighted-average remaining life of approximately nine years, exclusive of renewals at the customers' option, and represent $17 billion of expected future cash inflows.
+
+To a lesser extent, we also provide certain network services relating to our wireless infrastructure, primarily consisting of antenna installations and subsequent augmentations, as well as additional site development services relating to existing and new antenna installations on our wireless infrastructure. 
+
+1
+
+Strategy
+
+Our strategy is to increase long-term stockholder value by translating anticipated future growth in our core site rental business into growth of our results of operations on a per share basis. We believe our strategy is consistent with our mission to deliver the highest level of service to our customers at all times – striving to be their critical partner as we assist them in growing efficient, ubiquitous wireless networks. The key elements of our strategy are to:
+
+•Organically grow the revenues and cash flows from our wireless infrastructure. We seek to maximize the site rental revenues derived from our wireless infrastructure by co-locating additional tenants on our wireless infrastructure through long-term contracts as our customers deploy and improve their wireless networks. We seek to maximize new tenant additions or modifications of existing installations (collectively, "new tenant additions") through our focus on customer service and deployment speed. Due to the relatively fixed nature of the costs to operate our wireless infrastructure (which tend to increase at approximately the rate of inflation), we expect the increased revenues from rent received from new tenant additions and the related subsequent impact from contracted escalations to result in incremental site rental gross margin and growth in our operating cash flows. We believe there is considerable additional future demand for our existing wireless infrastructure assets based on their location and the anticipated growth in the wireless communications industry.
+
+•Allocate capital efficiently. We seek to allocate our available capital, including the net cash provided by our operating activities, in a manner that will enhance per share operating results. Our discretionary investments have historically included those shown below (in no particular order):
+
+◦purchase shares of our common stock ("common stock") from time to time;
+
+◦acquire or construct wireless infrastructure;
+
+◦acquire land interests under our towers;
+
+◦make improvements and structural enhancements to our existing wireless infrastructure; and
+
+◦purchase or redeem our debt.
+
+Our long-term strategy is based on our belief that additional demand for our wireless infrastructure will be created by the expected continued growth in the wireless communications industry, which is predominately driven by the demand for wireless voice and data services by consumers. We believe that additional demand for wireless infrastructure will create future growth opportunities for us. We believe that such demand for our wireless infrastructure will continue, will result in organic growth of our revenues due to new tenant additions on our existing wireless infrastructure and will create other growth opportunities for us, such as demand for new wireless infrastructure. 
+
+During 2011, consumer demand for wireless data services continued to grow. As consumer demand for wireless devices such as smartphones, tablets and laptops, increased, the growth rate of voice services slowed. This growth in wireless data services is driven by increased mobile video, internet usage and machine-to-machine applications. The following is a discussion of certain recent events and actual and expected growth trends in the U.S. wireless communications industry:
+
+•We expect that consumers' growing demands for network speed and quality will likely result in wireless carriers continuing their focus on improving network quality and expanding capacity by adding additional antennas and other equipment for the transmission of their services to wireless infrastructure or to their existing wireless networks in an effort to improve customer retention and satisfaction.
+
+•Our customers have introduced, and we believe they plan to continue to deploy, next generation wireless technologies, including 3G and 4G, in response to consumer demand for high speed networks. We expect these next generation technologies and others, including LTE, HSPA+ and WiMAX, to translate into additional demand for wireless infrastructure, although the timing and rate of this growth is difficult to predict.
+
+•We have seen, and anticipate there could be other, new entrants into the wireless communications industry that should deploy regional or national wireless networks for voice and data services.
+
+•Spectrum licensed by the Federal Communications Commission ("FCC") in 2006 and 2008 has enabled continued network development, and we expect these and future auctions should enable continued network development in the U.S. Most recently, Verizon entered into a proposed $3.6 billion agreement in December 2011 to purchase, subject to regulatory approval, spectrum originally auctioned in 2006 to SpectrumCo, a joint venture of cable companies.
+
+•Consumers are increasing their use of wireless data services according to recent U.S. wireless industry reports. 
+
+◦Wireless data services grew in 2011 as consumers increased their wireless use of e-mail, internet, social networking, music and video sharing. Wireless data service revenues for 2011 are expected to reach $67 billion, which represents a 22% increase over 2010.(a)  
+
+◦The number of wireless subscriber connections in the U.S. now exceeds the total amount of the U.S. population. (b) 
+
+2
+
+◦Wireless devices are trending toward more bandwidth intensive devices such as smartphones, laptops, netbooks, tablets and other emerging and embedded devices. In particular smartphones are expected to represent over 60% of the devices sold in the U.S. for 2011.(b) 
+
+◦The number of smartphone subscribers using the mobile internet has grown by 45% since 2010. (c) 
+
+ ________________________
+
+(a)Source: Chetan Sharma Consulting
+
+(b)Source: RBC Capital Markets
+
+(c)Source: Neilsen
+
+2011 Highlights and Recent Developments
+
+See "Item 7. MD&A" and our consolidated financial statements for a discussion of developments and activities occurring in 2011. In addition, see "Item 7. MD&A" and note 20 of our consolidated financial statements for a discussion of subsequent events occurring in 2012 through the date of this filing, including the definitive agreement to acquire NextG, the WCP acquisition, the refinancing of our credit facility in January 2012 ("January 2012 refinancing") and the exercise of our mandatory conversion right on our 6.25% redeemable convertible preferred stock ("preferred stock conversion").
+
+The Company
+
+Virtually all of our operations are located in the U.S. and Australia. We conduct our operations principally through subsidiaries of Crown Castle Operating Company ("CCOC"), including (1) certain subsidiaries which operate our wireless infrastructure portfolios in the U.S. and (2) a 77.6% owned subsidiary that operates our Australia tower portfolio. For more information about our operating segments, as well as financial information about the geographic areas in which we operate, see note 16 to our consolidated financial statements and "Item 7. MD&A."
+
+CCUSA
+
+Site Rental. The core business of CCUSA is the renting of space on our wireless infrastructure. We predominately rent space to wireless carriers under long-term contracts for their antennas which transmit a variety of signals related to wireless voice and data. As a result, we believe our wireless infrastructure is integral to our customers' network and their ability to serve their customers.
+
+Most of our towers were acquired from the four largest wireless carriers (or their predecessors) through transactions consummated since 1999, including (1) approximately 10,700 towers from Global Signal Inc. ("Global Signal") in 2007, of which approximately 6,600 were originally acquired from Sprint, (2) approximately 4,800 towers during 1999 to 2000 from companies now part of Verizon Wireless, (3) approximately 2,700 towers during 1999 to 2000 from companies now part of AT&T, as well as (4) other smaller acquisitions from companies now part of T-Mobile and other independent tower operators.
+
+We generally receive monthly rental payments from tenants, payable under long-term contracts. We have existing master lease agreements with most wireless carriers, including Verizon Wireless, AT&T, Sprint and T-Mobile; such agreements provide certain terms (including economic terms) that govern contracts on our towers entered into by such carriers during the term of their master lease agreements. Over the last several years, we have negotiated up to 15-year terms for both initial and renewal periods for certain of our customers, which often included fixed escalations. We continue to endeavor to negotiate with our existing customer base for longer contractual terms, which often may contain fixed escalation rates. 
+
+Our customer contracts have a high renewal rate because of (1) the integral nature of our wireless infrastructure within our customers' networks, (2) customers' cost associated with relocation of their antennas and other equipment to another wireless infrastructure, and (3) zoning and other barriers, including the cost of capital, associated with the construction of new wireless infrastructure. With limited exceptions, the customer contracts may not be terminated prior to the end of their current term. In general, each customer contract which is renewable will automatically renew at the end of its term unless the customer provides prior notice of its intent not to renew. See note 15 to our consolidated financial statements for a tabular presentation of the minimum rental cash payments due to us by tenants pursuant to contract agreements without consideration of tenant renewal options.
+
+The average monthly rental payment of a new tenant added to wireless infrastructure varies based on (1) the different regions in the U.S., (2) aggregate customer volume, and (3) the type of signal transmitted by the tenant, primarily as a result of the physical size of the antenna installation and related equipment. In addition, with respect to DAS, the amount of the rental payment can also be influenced by the cost of installation, including the related fiber. We also routinely receive rental payment increases in connection with contract amendments, pursuant to which our customers add additional antennas or other equipment to wireless infrastructure on which they already have equipment pursuant to pre-existing contract agreements.
+
+Approximately two-thirds of our direct site operating expenses consist of ground lease expenses and the remainder includes property taxes, repairs and maintenance, employee compensation and related benefit costs, and utilities. Our cash operating 
+
+3
+
+expenses tend to escalate at approximately the rate of inflation, partially offset by reductions in cash ground lease expenses from our purchases of land interests. As a result of the relatively fixed nature of these expenditures, the co-location of additional tenants is achieved at a low incremental operating cost, resulting in high incremental operating cash flows. Our wireless infrastructure portfolio requires minimal sustaining capital expenditures, including maintenance and other non-discretionary capital expenditures, and are typically less than 2% of site rental revenues or an annual average over the last three years of approximately $25 million. See note 15 to our consolidated financial statements for a tabular presentation of the rental cash payments owed by us to landlords pursuant to our contractual agreements.
+
+Network Services. To a lesser extent, we also offer wireless communication companies and their agents certain network services relating to our wireless infrastructure. For 2011, 69% of network services and other revenues related to antenna installations and subsequent augmentation (collectively, "installation services"), and the remainder related to the following additional site development services relating to existing and new antenna installations on our wireless infrastructure: site acquisition, architectural and engineering, zoning and permitting, fiber installations, other construction and other services related to network development. We do not always provide the installation services on our wireless infrastructure as the customer may obtain a third party to complete these services. (see also "—Competition" below). We have grown our network services business over the last several years as a result of our focus on customer service, increasing our market share for installation services on our wireless infrastructure, promoting site development services and expanding the scope of services. We have the capability and expertise to install, with the assistance of our network of subcontractors, equipment and antenna systems for our customers. These activities are typically non-recurring and highly competitive, with a number of local competitors in most markets. Nearly all of our antenna installation services are billed on a cost-plus profit basis. 
+
+Customers. We work extensively with large national wireless carriers, and in general, our customers are primarily comprised of providers of wireless voice and data services who operate national or regional networks. The following table summarizes the net revenues from our four largest customers expressed as a percentage of our consolidated revenues for 2011. See "Item 1A. Risk Factors."
+
+[DATA_TABLE_REMOVED]
+
+Sales and Marketing. Our sales organization markets our wireless infrastructure within the wireless communications industry with the objectives of renting space on existing wireless infrastructure and on new wireless infrastructure prior to construction as well as obtaining network services related to our wireless infrastructure. We seek to become the critical partner and preferred independent wireless infrastructure provider for our customers and increase customer satisfaction relative to our peers by leveraging our (1) technological tools, (2) process centric approach, and (3) customer relationships.
+
+We use public and proprietary databases to develop targeted marketing programs focused on carrier network expansions, including DAS, and related network services. We attempt to match specific wireless infrastructure in our portfolio with potential new site demand by obtaining and analyzing information, including our customers' existing antenna locations, tenant contracts, marketing strategies, capital spend plans, deployment status, and actual wireless carrier signal strength measurements taken in the field. We have developed a web-based tool that stores key wireless infrastructure information above and beyond normal property management information, including data on actual customer signal strength, demographics, site readiness and competitive structures. In addition, the web-based tool assists us in estimating potential demand for our wireless infrastructure with greater speed and accuracy. We believe these and other tools we have developed assist our customers in their site selection and deployment of their wireless networks and provide us with an opportunity to have proactive discussions with them regarding their wireless infrastructure deployment plans and the timing and location of their demand for our wireless infrastructure. A key aspect to our sales and marketing strategy is a continued emphasis on our process-centric approach to reduce cycle time related to new leasing and amendments, which helps provide our customers with faster deployment of their networks.
+
+A team of national account directors maintains our relationships with our largest customers. These directors work to develop wireless infrastructure leasing and network service opportunities, as well as to ensure that customers' wireless infrastructure needs are efficiently translated into new leases on our wireless infrastructure. Sales personnel in our area offices develop and maintain local relationships with our customers that are expanding their networks, entering new markets, bringing new technologies to market or requiring maintenance or add-on business. In addition to our full-time sales and marketing staff, a number of senior managers and officers spend a significant portion of their time on sales and marketing activities and call on existing and prospective 
+
+4
+
+customers.
+
+Competition. We compete with (1) other independent tower owners which also provide site rental and network services, (2) wireless carriers which build, own and operate their own tower networks and lease space to other wireless communication companies, and (3) owners of alternative facilities, including rooftops, water towers, broadcast towers, DAS, and utility poles. Some of the larger independent tower companies with which we compete in the U.S. include American Tower Corporation and SBA Communications Corporation. Wireless carriers that own and operate their own tower networks generally some of which are larger and have greater financial resources than we have. We believe that tower location and capacity, deployment speed, quality of service and price have been and will continue to be the most significant competitive factors affecting the leasing of wireless infrastructure.
+
+Competitors in the network services business include site acquisition consultants, zoning consultants, real estate firms, right-of-way consulting firms, construction companies, tower owners and managers, radio frequency engineering consultants, telecommunications equipment vendors who can provide turnkey site development services through multiple subcontractors, and our customers' internal staffs. We believe that our customers base their decisions on the outsourcing of network services on criteria such as a company's experience, track record, local reputation, price and time for completion of a project.
+
+CCAL
+
+Our primary business in Australia is the renting of antenna space on towers to our customers. CCAL is owned 77.6% by us and 22.4% by Permanent Nominees (Aust) Ltd, acting on behalf of a group of professional and private investors led by Todd Capital Limited. CCAL is the largest independent tower operator in Australia. As of December 31, 2011, CCAL had approximately 1,600 towers with 58% of such towers located in seven major metropolitan areas. The majority of CCAL's towers were acquired from Optus (in 2000) and Vodafone (in 2001). CCAL also provides a range of services including site maintenance and property management services for towers owned by third parties.
+
+For 2011, CCAL comprised 6% of our consolidated net revenues. CCAL's principal customers are Telstra, Optus and VHA, which collectively accounted for approximately 94% of CCAL's 2011 revenues. During 2011, the Australian government entered into agreements with carriers to develop and roll out the National Broadband Network ("NBN"). NBN is a national high-speed open-access data network under development targeting nearly all Australian premises. We believe that the development of NBN may result in additional future demand for new tenant additions on CCAL's existing towers and construction of new towers.
+
+In Australia, CCAL competes with wireless carriers, which own and operate their own tower networks; service companies that provide site maintenance and property management services; and other site owners, such as broadcasters and building owners. The other significant tower owners in Australia are Broadcast Australia, an independent operator of broadcast towers, and Telstra and Optus, wireless carriers. We believe that tower location, capacity, quality of service, deployment speed and price within a geographic market are the most significant competitive factors affecting the leasing of wireless infrastructure in Australia.
+
+Employees
+
+At January 31, 2012, we employed approximately 1,300 people worldwide, including approximately 1,200 in the U.S. We are not a party to any collective bargaining agreements. We have not experienced any strikes or work stoppages, and management believes that our employee relations are satisfactory.
+
+Regulatory and Environmental Matters
+
+To date, we have not incurred any material fines or penalties or experienced any material adverse effects to our business as a result of any domestic or international regulations. The summary below is based on regulations currently in effect, and such regulations are subject to review and modification by the applicable governmental authority from time to time. If we fail to comply with applicable laws and regulations, we may be fined or even lose our rights to conduct some of our business.
+
+United States
+
+ We are required to comply with a variety of federal, state and local regulations and laws in the U.S., including FCC and Federal Aviation Administration ("FAA") regulations and those discussed under "—Environmental" below.
+
+Federal Regulations. Both the FCC and the FAA regulate towers used for wireless communications, radio and television broadcasting. Such regulations control the siting, lighting and marking of towers and may, depending on the characteristics of particular towers, require the registration of tower facilities with the FCC and the issuance of determinations confirming no hazard to air traffic. Wireless communications devices operating on towers are separately regulated and independently licensed based upon the particular frequency used. In addition, the FCC and the FAA have developed standards to consider proposals for new or modified tower and antenna structures based upon the height and location, including proximity to airports. Proposals to construct 
+
+5
+
+or to modify existing tower and antenna structures above certain heights are reviewed by the FAA to ensure the structure will not present a hazard to aviation, which determination may be conditioned upon compliance with lighting and marking requirements. The FCC requires its licensees to operate communications devices only on towers that comply with FAA rules and are registered with the FCC, if required by its regulations. Where tower lighting is required by FAA regulation, tower owners bear the responsibility of notifying the FAA of any tower lighting outage and ensuring the timely restoration of such outages. Failure to comply with the applicable requirements may lead to civil penalties.
+
+Local Regulations. The U.S. Telecommunications Act of 1996 amended the Communications Act of 1934 to preserve state and local zoning authorities' jurisdiction over the siting of communications towers and DAS. The law, however, limits local zoning authority by prohibiting actions by local authorities that discriminate between different service providers of wireless services or ban altogether the provision of wireless services. Additionally, the law prohibits state and local restrictions based on the environmental effects of radio frequency emissions to the extent the facilities comply with FCC regulations.
+
+Local regulations include city and other local ordinances (including subdivision and zoning ordinances), approvals for construction, modification and removal of towers and DAS, and restrictive covenants imposed by community developers. These regulations vary greatly, but typically require us to obtain approval from local officials prior to tower construction. Local zoning authorities may render decisions that prevent the construction or modification of towers or place conditions on such construction or modifications that are responsive to community residents' concerns regarding the height, visibility and other characteristics of the towers. To expedite the deployment of wireless networks, the FCC issued a declaratory ruling in 2009 establishing timeframes for the review of applications by local and state governments of 90 days for co-locations and 150 days for new tower construction. If a jurisdiction fails to act within these timeframes, the applicant may file a claim for relief in court. Notwithstanding this declaratory ruling, decisions of local zoning authorities may also adversely affect the timing and cost of tower construction and modification.
+
+Environmental. We are required to comply with a variety of federal, state and local environmental laws and regulations protecting environmental quality, including air and water quality and wildlife protection. To date, we have not incurred any material fines or penalties or experienced any material adverse effects to our business as a result of any domestic or international environmental regulations or matters. See "Item 1A. Risk Factors."
+
+The construction of new towers and, in some cases, the modification of existing towers in the U.S. may be subject to environmental review under the National Environmental Policy Act of 1969, as amended ("NEPA"), which requires federal agencies to evaluate the environmental impact of major federal actions. The FCC has promulgated regulations implementing NEPA which require applicants to investigate the potential environmental impact of the proposed tower construction. Should the proposed tower construction present a significant environmental impact, the FCC must prepare an environmental impact statement, subject to public comment. If the proposed construction or modification of a tower may have a significant impact on the environment, the FCC's approval of the construction or modification could be significantly delayed.
+
+Our operations are subject to federal, state and local laws and regulations relating to the management, use, storage, disposal, emission, and remediation of, and exposure to, hazardous and non-hazardous substances, materials and wastes. As an owner, lessee or operator of real property, we are subject to certain environmental laws that impose strict, joint-and-several liability for the cleanup of on-site or off-site contamination relating to existing or historical operations; and we could also be subject to personal injury or property damage claims relating to such contamination. In general, our customer contracts prohibit our customers from using or storing any hazardous substances on our tower sites in violation of applicable environmental laws and require our customers to provide notice of certain environmental conditions caused by them.
+
+As licensees and wireless infrastructure owners, we are also subject to regulations and guidelines that impose a variety of operational requirements relating to radio frequency emissions. As employers, we are subject to Occupational Safety and Health Administration (and similar occupational health and safety legislation in Australia) and similar guidelines regarding employee protection from radio frequency exposure. The potential connection between radio frequency emissions and certain negative health effects, including some forms of cancer, has been the subject of substantial study by the scientific community in recent years.
+
+We have compliance programs and monitoring projects to help assure that we are in substantial compliance with applicable environmental laws. Nevertheless, there can be no assurance that the costs of compliance with existing or future environmental laws will not have a material adverse effect on us.
+
+Other Regulations. We hold, through certain of our subsidiaries, licenses for common carrier microwave service, which are subject to additional regulation by the FCC. Our FCC license relating to our 1670-1675 MHz U.S. nationwide spectrum license ("Spectrum") contains certain conditions related to the services that may be provided thereunder, the technical equipment used in connection therewith and the circumstances under which it may be renewed. In 2007, after receiving FCC approval, we entered into a long-term lease of the Spectrum with an initial term through 2013.
+
+6
+
+Australia
+
+Federal Regulations. Carrier licenses and nominated carrier declarations issued under the Australian Telecommunications Act 1997 authorize the use of network units for the supply of telecommunications services to the public. The definition of “network units” includes line links and base stations used for wireless voice services but does not include tower infrastructure. Accordingly, CCAL as a tower owner and operator does not require a carrier license under the Australian Telecommunications Act 1997. Similarly, because CCAL does not own any transmitters or spectrum, it does not currently require any apparatus or spectrum licenses issued under the Australian Radiocommunications Act 1992.
+
+Carriers have a statutory obligation to provide other carriers with access to towers, and if there is a dispute (including a pricing dispute), the matter may be referred to the Australian Competition and Consumer Commission for resolution. As a non-carrier, CCAL is not subject to this requirement, and our customers negotiate site access on a commercial basis.
+
+While the Australian Telecommunications Act 1997 grants certain exemptions from planning laws for the installation of "low impact facilities," newly constructed towers are expressly excluded from the definition of "low impact facilities." Accordingly, in connection with the construction of towers, CCAL is subject to state and local planning laws that vary on a site by site basis, typically requiring us to obtain approval from local government agencies prior to tower construction, subject to certain exceptions. Structural enhancements may be undertaken on behalf of a carrier without state and local planning approval under the general "maintenance power" under the Australian Telecommunications Act 1997, although these enhancements may be subject to state and local planning laws if CCAL is unable to obtain carrier cooperation to use such power. For a limited number of towers, CCAL is also required to install aircraft warning lighting in compliance with federal aviation regulations. In Australia, a carrier may arguably be able to utilize the "maintenance power" under the Australian Telecommunications Act 1997 to remain as a tenant on a tower after the expiration of a site license or sublease; however, CCAL's customer access agreements generally limit the ability of customers to do this, and, even if a carrier did utilize this power, the carrier would be required to pay for CCAL's financial loss, which would roughly equal the site rental revenues that would have otherwise been payable.
+
+Local Regulations. In Australia there are various local, state and territory laws and regulations which relate to, among other things, town planning and zoning restrictions, standards and approvals for the design, construction or alteration of a structure or facility, and environmental regulations. As in the U.S., these laws vary greatly, but typically require tower owners to obtain approval from governmental bodies prior to tower construction and to comply with environmental laws on an ongoing basis.
+
+Item 1A. Risk Factors

@@ -1,0 +1,745 @@
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+MANAGEMENT OVERVIEW
+
+Highlights of Operating Results
+
+Edison International is the parent holding company of SCE. SCE is an investor-owned public utility primarily engaged in the business of supplying and delivering electricity. Edison International is also the parent company of subsidiaries that are engaged in competitive businesses related to the generation or use of electricity. Such competitive business activities are currently not material to report as a separate business segment. References to Edison International refer to the consolidated group of Edison International and its subsidiaries. References to Edison International Parent and Other refer to Edison International Parent and its nonutility subsidiaries. Unless otherwise described, all of the information contained in this annual report relates to both filers. 
+
+[DATA_TABLE_REMOVED]
+
+Edison International's earnings are prepared in accordance with GAAP used in the United States. Management uses core earnings internally for financial planning and for analysis of performance. Core earnings (losses) are also used when communicating with investors and analysts regarding Edison International's earnings results to facilitate comparisons of the Company's performance from period to period. Core earnings (losses) are a non-GAAP financial measure and may not be comparable to those of other companies. Core earnings (losses) are defined as earnings attributable to Edison International shareholders less income or loss from discontinued operations and income or loss from significant discrete items that management does not consider representative of ongoing earnings, such as: exit activities, including sale of certain assets and other activities that are no longer continuing; asset impairments and certain tax, regulatory or legal settlements or proceedings. On December 17, 2012, EME and certain of its wholly-owned subsidiaries filed voluntary petitions for relief under Chapter 11 of the Bankruptcy Code in the Bankruptcy Court. Edison International considers EME to be an abandoned asset under GAAP, and, as a result, the operations of EME prior to December 17, 2012 are reflected as discontinued operations.
+
+25
+
+SCE's 2013 core earnings decreased $73 million for the year primarily due to lower income tax benefits, ceasing to record a return on rate base for San Onofre after the decision to permanently retire the plant, partially offset by lower incremental inspection and repair costs at San Onofre and lower operating costs. The earnings increase from the rate base growth was offset by the lower authorized 2013 return on common equity. 
+
+Edison International Parent and Other 2013 core losses decreased $32 million primarily due to higher core earnings from Edison Capital, lower costs and taxes. 
+
+Consolidated non-core items for 2013 and 2012 for Edison International included:
+
+•An impairment charge of $575 million ($365 million after tax) in 2013 related to the permanent retirement of San Onofre Units 2 and 3.
+
+•An income tax benefit of $36 million for 2013 from a revised estimate of the tax impact of the expected future tax deconsolidation and separation of EME from Edison International. Edison International continues to consolidate EME for federal and certain combined state tax returns. Changes in the amount of tax attributes in 2013 affected income taxes of discontinued operations. Such benefits may or may not continue in future periods. For further information, see "Item 8. Notes to Consolidated Financial Statements—Note 7. Income Taxes."
+
+•An after-tax earnings charge of $1.3 billion in 2012 due to the full impairment of the investment in EME as a result of the deconsolidation of EME, recognition of losses previously deferred in accumulated other comprehensive income, a provision for losses from the EME bankruptcy and tax impacts related to the expected future tax deconsolidation and separation of EME from Edison International. See "Item 8. Notes to Consolidated Financial Statements—Note 16. Discontinued Operations" for further information. 
+
+•An after-tax earnings benefit of $231 million recorded in 2012 resulting from the regulatory treatment of 2009 – 2011 income tax repair deductions for income tax purposes as adopted in the 2012 GRC decision. See "Results of Operations—SCE—Income Taxes" for further discussion.
+
+•An after-tax earnings charge of $37 million recorded in 2012 resulting from Edison International's update to its estimated long-term California apportionment rate applicable to deferred income taxes as a result of changes related to EME.
+
+•An after-tax earnings benefit of $31 million ($65 million pre-tax gain) recorded in 2012 attributable to Edison Capital's sale of its lease interest in Unit No. 2 of the Beaver Valley Nuclear Power Plant to a third party for $108 million. The final determination of state income taxes was not completed until the first quarter of 2013 which resulted in $7 million of lower state income tax expense than previously estimated.
+
+See "Results of Operations" for discussion of SCE and Edison International Parent and Other results of operations, including a comparison of 2012 results to 2011. 
+
+Permanent Retirement of San Onofre
+
+Tube Leak and Response 
+
+Replacement steam generators were installed at San Onofre in 2010 and 2011. In the first quarter of 2012, a water leak suddenly occurred in one of the heat transfer tubes in San Onofre's Unit 3 steam generators. The Unit was safely taken off-line and subsequent inspections revealed excessive tube to tube wear. At the time, Unit 2 was off-line for a planned outage when areas of unexpected tube to support structure wear were found. Both Units have remained shut down since early 2012 and have undergone extensive inspections, testing and analysis following discovery of the leak. In October 2012, SCE submitted a restart plan to the Nuclear Regulatory Commission ("NRC"), seeking to restart Unit 2 at a reduced power level (70%) for an initial period of approximately five months, based on work done by engineering groups from three independent firms with expertise in steam generator design and manufacturing. SCE did not develop a restart plan for Unit 3.
+
+Permanent Retirement
+
+On June 6, 2013 SCE decided to permanently retire Units 2 and 3. SCE concluded that despite the NRC's extensive review of SCE's restart plan for Unit 2 starting in October 2012, there still remained considerable uncertainty about when the review process would be concluded. Given the considerable uncertainty of when or whether SCE would be permitted to restart Unit 2, SCE concluded that it was in the best interest of its customers, shareholders and other stakeholders to permanently retire the Units and focus on planning for the replacement resources which will eventually be required for grid reliability. SCE also concluded that its decision to retire the Units would facilitate more orderly planning for California's energy future without the uncertainty of whether, when or how long San Onofre would continue to operate.
+
+26
+
+CPUC Review 
+
+In October 2012 the CPUC issued an Order Instituting Investigation ("OII") that consolidated all San Onofre issues in related regulatory proceedings to consider appropriate cost recovery for all San Onofre costs, including among other costs, the cost of the steam generator replacement project, substitute market power costs, capital expenditures, operation and maintenance costs, and seismic study costs. The OII requires that all San Onofre-related costs incurred on and after January 1, 2012 be tracked in a memorandum account and, to the extent collected in rate levels authorized in the 2012 GRC or other proceedings, be subject to refund. The Order also states that the CPUC will determine whether to order the immediate removal, effective as of the date of the OII, of costs and rate base related to San Onofre from SCE's rates. Various other parties have filed testimony in the OII asking for disallowance of some or all of the San Onofre-related costs, including costs in excess of the amount impaired by SCE, as described below. The first phase of the OII was focused on 2012 costs, including 2012 capital and operation and maintenance costs and the appropriate calculation to measure 2012 substitute market power costs. A proposed decision in the first phase of the OII was issued in November 2013. The proposed decision would allow $45 million in planned Unit 2 refueling outage costs but would disallow approximately $74 million in operation and maintenance costs authorized in rates plus 20% of the 2012 revenue requirement related to capital expenditures incurred during the extended outage for both Units. The disallowance would be subject to possible further review in the third phase of the OII. The proposed decision would permit recovery of routine operation and maintenance expense through May 2012 but defers a decision on recovery of incremental expenses incurred by SCE to the third phase of the OII. A final decision in the first phase is expected in the first quarter of 2014. The second phase was focused on whether to adjust customer rates to remove the plant from rate base and hearings were held in October 2013. A proposed decision in the second phase is expected in the first quarter of 2014. The third and fourth phases of the OII will focus on the steam generator replacement project itself, including the reasonableness of the project's costs, and the San Onofre 2013 revenue requirement, respectively, and have not yet been scheduled.
+
+A summary of financial items related to San Onofre and implicated in the OII are as follows:
+
+•Approximately $1.25 billion of SCE's authorized revenue requirement collected since January 1, 2012 (subject to refund) is associated with operating and maintenance expenses, depreciation, taxes and return on SCE's investment in Unit 2, Unit 3 and common plant. In 2013, SCE recorded approximately $39 million in severance costs associated with its decision to retire both Units. Until funding of post June 6, 2013 activities related to the permanent closure of the plant is transitioned from base rates to SCE's nuclear decommissioning trusts established for that purpose, SCE will continue to record these costs through the San Onofre OII memorandum account, subject to reasonableness review.
+
+•At May 31, 2013, SCE's net investment associated with San Onofre is set forth in the following table:
+
+[DATA_TABLE_REMOVED]
+
+1 Includes net book value of the replacement steam generators of $542 million.
+
+•In 2005, the CPUC authorized expenditures of approximately $525 million ($665 million based on SCE's estimate after adjustment for inflation using the Handy-Whitman Index) for SCE's 78.21% share of the costs to purchase and install the four new steam generators in Units 2 and 3 and remove and dispose of their predecessors. SCE has spent $602 million on the steam generator replacement project, not including inspection, testing and repair costs subsequent to the replacement steam generator leak in Unit 3.
+
+•As a result of outages associated with the steam generator inspection and repair, electric power and capacity normally provided by San Onofre were purchased in the market by SCE. These market power costs will be reviewed as part of the CPUC's OII proceeding. Estimated market power costs calculated in accordance with the OII methodology were approximately $680 million as of June 6, 2013, excluding avoided nuclear fuel costs which are no longer included as a reduction due to SCE's decision to permanently retire Units 2 and 3. Such amount includes costs of approximately $65 million associated with planned outage periods. SCE believes that such costs should be excluded as they would have been incurred even had the replacement steam generators performed as expected. Estimated market power costs calculated in accordance with the OII methodology from June 7, 2013 through December 31, 2013 were approximately $333 million. 
+
+27
+
+Such amount includes costs of approximately $30 million associated with planned outage periods. SCE views the market power costs incurred from June 7, 2013 to be purchases made in the ordinary course to meet its customers’ needs as authorized by the CPUC-approved procurement plan rather than power or capacity that was acquired for cost recovery purposes as a replacement for San Onofre. The CPUC will ultimately determine a final methodology for estimating market power costs as it continues its review of the issues in the OII.
+
+•Through December 31, 2013, SCE's share of incremental inspection and repair costs totaled $115 million for both Units (not including payments made by MHI as described below). SCE recorded its share of payments made to date by MHI ($36 million) as a reduction of incremental inspection and repair costs in 2012.
+
+SCE continues to believe that the actions taken and costs incurred in connection with the San Onofre replacement steam generators, outages and permanent retirement have been prudent. Nevertheless, SCE cannot provide assurance that the CPUC will not disallow costs incurred or order refunds to customers of amounts collected in rates or that SCE will be successful in recovering amounts from third parties. Disallowances of costs and/or refund of amounts received from customers could be material and adversely affect SCE's financial condition, results of operations and cash flows.
+
+Accounting for Early Retirement of San Onofre Units 2 and 3
+
+As a result of the decision to early retire San Onofre Units 2 and 3, GAAP requires reclassification of the amounts recorded in property, plant and equipment and related tangible operating assets to a regulatory asset to the extent that management concludes it is probable of recovery through future rates. Regulatory assets may also be recorded to the extent management concludes it is probable that direct and indirect costs incurred to retire Units 2 and 3 as of each reporting date are recoverable through future rates. These costs may include, but are not limited to, severance benefits to reduce the workforce at San Onofre to the staffing required to safely store and secure the plant prior to conducting decommissioning activities, losses on termination of purchase contracts, including nuclear fuel, and losses on disposition of excess inventory. GAAP also requires recognition of a liability to the extent management concludes it is probable SCE will be required to refund amounts from authorized revenues previously collected from customers.
+
+In assessing whether to record regulatory assets as a result of the decision to retire San Onofre Units 2 and 3 early and whether to record liabilities for refunds to customers, SCE considered the interrelationship of recovery of costs and refunds to customers for accounting purposes, as such matters are being considered by the CPUC on a consolidated basis in the San Onofre OII. SCE also considered that it will continue to use certain portions of the plant (such as fuel storage, security facilities and buildings) as part of ongoing activities at the site. SCE additionally reviewed relevant regulatory precedents and statutory provisions regarding the regulatory recovery of early retired assets previously placed in service and related materials, supplies and fuel. Such precedents have generally permitted cost recovery of the remaining net investment in early retired assets, absent a finding of imprudency. Such precedents vary on whether a full, partial or no rate of return is allowed on the investment in such assets, but generally provide accelerated recovery when less than a full return is authorized. Furthermore, once the Units are removed from rate base, under normal principles of cost of service ratemaking and relevant statutory provisions, SCE should, absent imprudence, recover the costs it incurs to purchase power that might otherwise have been produced by San Onofre. SCE continues to believe that the actions it has taken and the costs it has incurred in connection with the San Onofre replacement steam generators and outages have been prudent.
+
+As a result of such considerations, SCE considered a number of potential outcomes for the matters being considered by the CPUC in the San Onofre OII, none of which are assured, but a number of which in SCE's opinion appeared to be more likely than a number of other outcomes. SCE considered the likelihood of outcomes to determine the amount deemed probable of recovery. These outcomes included a number of variables, including recovery of and return on the components of SCE's net investment, and the potential for refunds to customers for either substitute power or operating costs occurring over different time periods. SCE also included in its consideration of possible outcomes, the requirement under GAAP to discount future cash flows from recovery of assets without a return at its incremental borrowing rate.
+
+As a result of the foregoing assessment, SCE:
+
+•Reclassified $1,521 million of its total investment in San Onofre at May 31, 2013 as described above to a regulatory asset (“San Onofre Regulatory Asset”). Included in the San Onofre Regulatory Asset is approximately $404 million of property, plant and equipment, including construction work in progress, which is expected to support ongoing activities at the site. In addition, to the extent the San Onofre Regulatory Asset includes excess nuclear fuel and material and supplies, SCE will, if possible, sell such excess amounts to third parties and reduce the amount of the regulatory asset by such proceeds.
+
+•Recorded an impairment charge of $575 million ($365 million after tax) in the second quarter of 2013.
+
+28
+
+As part of the decision to permanently retire the Units at San Onofre, SCE announced a workforce reduction of approximately 960 employees and had severance costs in 2013 of $39 million (SCE's share). The estimate for these costs was previously included in SCE's estimate to decommission the units. After acceptance of the decommissioning plan by the NRC, SCE expects a further workforce reduction of approximately 175 employees. SCE also recorded severance costs of $14 million related to the indirect employee impacts from the decision to early retire the Units.
+
+As of December 31, 2013, SCE recorded a net regulatory asset of $1.3 billion comprised of: $1.56 billion of property, plant and equipment; $33 million estimated losses on disposition of nuclear fuel inventory; less $266 million for estimated refunds of authorized revenue recorded in excess of SCE’s costs of service, including a return on capital through June 6, 2013. SCE's judgment that the San Onofre Regulatory Asset recorded at December 31, 2013 is probable, though not certain, of recovery is based on SCE's knowledge of the facts and judgment in applying relevant regulatory principles to the issues under review in the OII proceeding and in accordance with GAAP. Such judgment is subject to considerable uncertainty, and regulatory principles and precedents are not necessarily binding and are capable of interpretation. The CPUC may or may not agree with SCE, after review of all of the facts and circumstances, and SCE may advocate positions that it believes are supported by relevant precedent and regulatory principles that are more favorable to SCE than the charges it has recorded in accordance with GAAP. The CPUC could also conclude that SCE acted imprudently regarding the San Onofre replacement steam generator project, including its response to the outage that commenced at the end of January 2012. Thus, there can be no assurance that the OII proceeding will provide for recoveries as estimated by SCE, including the recovery of costs recorded as a regulatory asset, or that the CPUC does not order refunds to customers from amounts that were previously authorized as subject to refund. Accordingly, the amount recorded for the San Onofre Regulatory Asset at December 31, 2013, is subject to change based upon future developments and the application of SCE's judgment to those events.
+
+Third-Party Recovery
+
+The replacement steam generators were designed and supplied by MHI and are warranted for an initial period of 20 years from acceptance. MHI is contractually obligated to repair or replace defective items with dispatch and to pay specified damages for certain repairs. MHI's liability under the purchase agreement is limited to $138 million and excludes consequential damages, defined to include "the cost of replacement power;" however, limitations in the contract are subject to applicable exceptions both in the contract and under law. SCE has advised MHI that it believes one or more of such exceptions apply and MHI's liability is not limited to $138 million, and MHI has advised SCE that it disagrees. In October 2013, after a prescribed 90-day waiting period from the service of an earlier notice of dispute, SCE sent MHI a formal request for binding arbitration under the auspices of the International Chamber of Commerce in accordance with the purchase contract seeking damages for all losses. In the request for arbitration, SCE alleges contract and tort claims and seeks at least $4 billion in damages on behalf of itself and in its capacity as Operating Agent for San Onofre. SCE also alleges that MHI totally and fundamentally failed to deliver what it promised, and that the contractual limitations of liability are subject to applicable exceptions in the contract and under law. MHI responded to SCE’s formal request in December 2013, asserting that the replacement steam generator project was a joint design venture, that the wear could not have been predicted and that SCE thwarted MHI’s repair efforts. MHI also asserted several counterclaims associated with work or services it claims it should be compensated for and which it values at approximately $41 million; SCE has denied any liability for the asserted counterclaims. Each of the other co-owners filed lawsuits against MHI, alleging claims arising from MHI's supplying the faulty steam generators. MHI has requested that these lawsuits be stayed pending the arbitration with SCE but the court has not yet ruled on this request.
+
+SCE, on behalf of itself and the other San Onofre co-owners, has submitted seven invoices to MHI totaling $149 million for steam generator repair costs incurred through April 30, 2013. MHI paid the first invoice of $45 million, while reserving its right to challenge any of the charges in the invoice. In January 2013, MHI advised SCE that it rejected a portion of the first invoice and required further documentation regarding the remainder of the invoice. In September 2013, SCE reiterated its request to MHI for payment of outstanding invoices. SCE has recorded its share of the invoice paid as a reduction of repair and inspection costs.
+
+29
+
+San Onofre carries accidental property damage and carried accidental outage insurance issued by Nuclear Electric Insurance Limited ("NEIL") and has placed NEIL on notice of claims under both policies. The NEIL policies have a number of exclusions and limitations that NEIL may assert reduce or eliminate coverage, and SCE may choose to challenge NEIL’s application of any such exclusions and limitations. The estimated total claims under the accidental outage insurance through August 31, 2013 are approximately $397 million (SCE’s share of which is approximately $311 million). Pursuant to these proofs of loss, SCE is seeking the weekly indemnity amounts provided under the accidental outage policy for each Unit. Accidental outage policy benefits are reduced by 90% for the periods following announcement of the permanent retirement of the Units. The accidental outage insurance at San Onofre has been canceled as a result of the permanent retirement. SCE has not submitted a proof of loss under the accidental property damage insurance. No amounts have been recognized in SCE's financial statements, pending NEIL's response. SCE's current expectation is that NEIL will make a coverage determination by the end of the second quarter of 2014.
+
+Continuing NRC Proceedings
+
+As part of the NRC's review of the San Onofre outage and proceedings related to the possible restart of Unit 2, the NRC appointed an Augmented Inspection Team to review SCE's performance. In September 2013, the NRC issued an Inspection Report in connection with The Augmented Inspection Team’s review and SCE’s response to an earlier NRC Confirmatory Action Letter. The NRC’s report contained a preliminary “white” finding (low to moderate safety significance) and an apparent violation regarding the steam generators in Unit 3 and a preliminary “green” finding (very low safety significance) for Unit 2’s steam generators for failing to ensure that MHI’s modeling and analysis were adequate. Simultaneously, the NRC issued an Inspection Report to MHI containing a Notice of Nonconformance for its flawed computer modeling in the design of San Onofre’s steam generators. In October 2013, SCE submitted comments to the NRC on the characterizations contained in the Inspection Report but chose not to contest the findings or violation, and the NRC finalized its finding in December 2013. In addition, the NRC's Office of Investigations has been conducting an investigation into the accuracy and completeness of information SCE provided to the Augmented Inspection Team. SCE has also been made aware of an investigation related to San Onofre by the NRC's Office of Inspector General, which generally reviews internal NRC affairs. Certain anti-nuclear groups and individual members of Congress have alleged that SCE knew of deficiencies in the steam generators when they were installed or otherwise did not correctly follow NRC requirements in connection with the design and installation of the replacement steam generators, something which SCE has vigorously denied, and have called for investigations, including by the Department of Justice. SCE cannot predict when or whether ongoing inquiries or investigations by the NRC will be completed or whether inquiries by other government agencies will be initiated. Should the NRC find a deficiency in SCE's provision of information, SCE could be subject to additional NRC actions, including the imposition of penalties, and the findings could be taken into consideration in the CPUC regulatory proceedings described above.
+
+Decommissioning
+
+The decommissioning of a nuclear plant requires the management of three related activities: radiological decommissioning, non-radiological decommissioning and the management of spent nuclear fuel. The decommissioning process may take many years, as is expected at San Onofre. SCE is currently discussing a decommissioning agreement to govern the process with the decommissioning participants, as contemplated by the San Onofre operating agreement. SCE leases and holds an easement from the U.S. Navy for the land on which San Onofre is located. The easement granted by the U.S. Navy for San Onofre gives the Navy the right to set site-restoration requirements, which could exceed the NRC requirements and require SCE to restore the site to its original condition. 
+
+The process for the radiological decommissioning of a nuclear power plant is governed by NRC regulations. SCE expects that the non-radiological decommissioning of the site may eventually involve other governmental agencies and approvals. Under NRC regulations, the process for radiological decommissioning consists of three phases: initial activities, major decommissioning and storage activities, and license termination. Initial activities include providing a notice of permanent cessation of operations and of permanent removal of fuel from the reactor vessel shortly after the retirement of the plant has been announced. Within two years after the announcement of retirement, the licensee must also submit a post-shutdown decommissioning activities report, an irradiated fuel management plan and a site-specific decommissioning cost estimate.
+
+On June 12, 2013, SCE began the initial activity phase of radiological decommissioning by filing with the NRC a certification of permanent cessation of power operations at San Onofre. Notifications of permanent removal of fuel from the reactor vessels were provided on June 28, 2013 and July 22, 2013 for Units 3 and 2, respectively. SCE currently estimates that it will provide the other initial activity phase plans and cost estimates by the end of 2014. Major radiological decommissioning activities may only start 90 days after the NRC receipt of the post-shutdown decommissioning activities report. The license termination phase will begin with the submission of a license termination plan, which is due not less than 
+
+30
+
+two years prior to the planned license termination. The NRC regulations regulate the use of decommissioning trust funds for radiological decommissioning by requiring that various decommissioning process milestones be met prior to the use of additional funds. SCE may also need NRC staff approval to use decommissioning funds for spent fuel management and non-radiological decommissioning.
+
+SCE has nuclear decommissioning trust funds for San Onofre Units 2 and 3 of $3.18 billion as of December 31, 2013, which is comprised of annual contributions made through rates and earnings on the trust funds’ balances. Other than the use of funds for the planning of radiological decommissioning (up to a maximum of 3% of a generic formula amount under NRC regulations, or $31 million), the CPUC must issue an order granting prior approval for withdrawal of decommissioning trust funds to be used for radiological decommissioning, non-radiological decommissioning and spent fuel management. The CPUC's authority to authorize the use of trust funds for decommissioning activities is provided by the Nuclear Facility Decommissioning Act of 1985 of the California Public Utilities Code. SCE has filed a request with the CPUC that would authorize early release of trust funds for costs up to a specified cost cap of $214 million.
+
+Once access is authorized by the CPUC, SCE will fund decommissioning of San Onofre through funds in its nuclear decommissioning trust. In order to determine future funding levels, SCE makes regular forecasts of decommissioning cost estimates based on expert advice. Such forecasts are subject to a number of assumptions and uncertainties, such as future dismantling, transportation, labor and similar costs, the length of time that will be needed to decommission, prevailing rates of inflation, burial escalation rates and other assumptions.
+
+In July 2013, SCE submitted supplemental testimony in the Nuclear Decommissioning Cost Triennial Proceeding ("NDCTP") that provided a decommissioning cost estimate for an early shutdown scenario of both Units 2 and 3. The supplemental testimony provided for a higher level of contributions than is currently collected in rates. However, SCE’s supplemental testimony requested the CPUC to defer an increase in the contribution level until SCE has completed an updated site-specific decommissioning cost estimate for San Onofre currently expected in by the end of 2014.
+
+The total ARO liability related to San Onofre was revised based on the July 2013 update to the NDCTP discussed above. See "Item 8. Notes to Consolidated Financial Statements—Note 1. Summary of Significant Accounting Policies—Asset Retirement Obligation" for further information.
+
+ERRA Balancing Account
+
+Rates related to fuel and purchased power are set annually based on a forecast of the costs SCE expects to incur in the following year. Actual fuel and power costs that are greater/less than the forecast are tracked in the ERRA balancing account and collected/refunded to customers in subsequent periods. In August 2012, SCE filed its annual 2013 ERRA forecast, requesting a rate increase of approximately $500 million due to a variety of factors. The 2013 ERRA forecast proceeding was deferred by the Assigned Commissioner while issues related to the San Onofre outage are under consideration in the San Onofre OII. See "—Permanent Retirement of San Onofre" above. 
+
+As a result, until November 2013, SCE continued to recover in rates amounts authorized in the 2012 ERRA proceeding which are significantly below the costs incurred. As of December 31, 2013, the fuel and power procurement-related costs were under-collected by approximately $1 billion, which SCE has recorded as a regulatory asset on the basis that such amounts are probable of recovery.
+
+The CPUC has also established a "trigger" mechanism for the ERRA balancing account that allows for a rate adjustment if the balancing account over- or under-collection exceeds 5% of SCE's prior year generation revenue, or approximately $280 million. In July 2013, SCE triggered the mechanism and filed an application with the CPUC. Prior to the application, SCE had also filed a motion with the CPUC proposing an interim ERRA rate increase. In January 2014, the CPUC issued a proposed decision rejecting SCE's application, finding that if San Onofre had been operating normally in 2013, the undercollection would not have grown sufficiently to trigger the mechanism. SCE disagrees with the reasoning in the PD, but the procedural posture of SCE’s 2014 ERRA forecast proceeding (discussed below) renders the issue largely moot.
+
+In October 2013, the CPUC issued a decision on SCE's 2013 ERRA forecast that approved a portion of SCE's 2013 ERRA forecast and allowed SCE to increase rates by approximately $160 million. Under the decision, SCE was required to defer collection of its forecasted net San Onofre replacement power costs (the difference between normal San Onofre costs and the San Onofre costs proposed in the 2013 ERRA forecast filing) until the resolution of such costs in the San Onofre OII proceeding. In addition, the decision directed SCE to exclude the net San Onofre costs from the ERRA trigger calculation. The decision made no determination regarding the accuracy of the methodology used to determine the net San Onofre costs or the reasonableness of the costs. Those determinations will be made in the San Onofre OII. SCE may finance deferred power procurement-related costs with commercial paper or other borrowing, subject to availability in the capital markets. 
+
+31
+
+In November 2013, SCE updated its annual 2014 ERRA forecast proceeding testimony, requesting a revenue requirement increase of approximately $1.97 billion, an increase of approximately 16% over the current 2013 total revenue requirement, beginning in January 2014. In response to an administrative law judge request, SCE subsequently estimated net San Onofre replacement costs to be approximately $467 million. These costs may be removed from the final decision in the 2014 ERRA forecast proceeding and deferred until the resolution of such costs in the San Onofre OII proceeding. SCE cannot predict the outcome of the proceeding. SCE expects a decision in the first half of 2014.
+
+2015 General Rate Case
+
+On November 12, 2013, SCE filed its 2015 GRC application which requested a 2015 base rate revenue requirement of $6.462 billion. Subsequently, SCE reduced its requested 2015 base rate revenue requirement to $6.383 billion to remove Four Corners costs from the proposed revenue requirement due to the completion of the sale of SCE's interest. After considering the effects of sales growth, SCE's request would be a $127 million increase over currently authorized base rate revenue. If the CPUC approves the requested rate increase and allocates the increase to ratepayer groups on a system average percentage change basis, the percentage increases over current base rates and total rates are estimated to be 2% and 0.6%, respectively. The application also proposed post-test year increases in 2016 and 2017, net of sales growth, of $313 million and $319 million, respectively. The requested revenue requirement increase is driven by the need to: maintain system reliability, including investment in infrastructure maintenance and replacement, accommodate customer load growth, and ongoing operation and maintenance expenses. The application includes forecasted shutdown operating and capital expenses for San Onofre. To the extent that some or all of these expenses are funded by its nuclear decommissioning trust, SCE will not recover such costs through base rates. The application also includes a request for 2015 – 2017 capital expenditures as discussed in "—Liquidity" below. SCE's proposed schedule in the proceeding anticipates a final decision on SCE's 2015 GRC by the end of 2014. SCE cannot predict the revenue requirement the CPUC will ultimately authorize or when a final decision will be adopted. 
+
+Capital Program
+
+Total capital expenditures (including accruals) were $3.5 billion in 2013 and $3.9 billion in 2012. The level of capital expenditures in 2013 was lower than the prior year, due to the full implementation in 2012 of the Edison SmartConnect® program, lower investments at San Onofre, lower costs on two transmission projects placed in service in 2013 and delays experienced with other transmission projects, offset by higher investment in distribution infrastructure replacement and improvement programs. SCE's capital program for 2014 – 2017 is focused primarily in the following areas:
+
+•Maintaining reliability and expanding the capability of SCE's transmission and distribution system through infrastructure replacements and improvements.
+
+•Upgrading and constructing new transmission lines and substations for system reliability and increased access to renewable energy, including the Tehachapi, Coolwater-Lugo and West of Devers transmission and substation projects.
+
+•Maintaining performance of SCE's natural gas, and hydro-electric generating plants.
+
+SCE forecasts capital expenditures in the range of $15.1 billion to $17.2 billion for 2014 – 2017. Actual capital spending will be affected by: changes in regulatory, environmental and engineering design requirements; permitting and project delays; cost and availability of labor, equipment and materials; and other factors as discussed further under "—Liquidity and Capital Resources—SCE—Capital Investment Plan." 
+
+EME Chapter 11 Bankruptcy Filing
+
+In December 2012, EME and certain of its wholly-owned subsidiaries filed voluntary petitions for relief under Chapter 11 of the Bankruptcy Code in the Bankruptcy Court. EME submitted its Plan of Reorganization in December 2013 ("December Plan of Reorganization"), which included the sale of substantially all of EME’s assets to NRG Energy, Inc. and the transfer of ownership of EME to unsecured creditors, to the Bankruptcy Court for confirmation. Under the December Plan of Reorganization, the remaining assets of EME, consisting of the NRG sale proceeds, certain EME tax benefits comprised of net operating loss and tax credit carryforwards and causes of action against Edison International or others that were not released under the December Plan of Reorganization, would have re-vested in the reorganized EME ("Reorganized EME"). 
+
+In February 2014, Edison International, EME and the Consenting Noteholders entered into a Settlement Agreement pursuant to which EME amended its Plan of Reorganization to incorporate the terms of the Settlement Agreement, including extinguishing all existing claims between EME and Edison International. The Amended Plan of Reorganization, including the Settlement Agreement, is subject to the approval of the Bankruptcy Court, which is scheduled for consideration in March 2014.
+
+32
+
+Under the Amended Plan of Reorganization, EME will emerge from bankruptcy free of liabilities but will remain an indirect wholly-owned subsidiary of Edison International, which will continue to be consolidated with Edison International for income tax purposes. On the effective date of the Amended Plan of Reorganization (“Effective Date”), all of the assets and liabilities of EME that are not otherwise discharged in the bankruptcy or transferred to NRG Energy will be transferred to a newly formed trust or entity under the control of EME’s existing creditors (the “Reorganization Trust”), except for (a) EME’s income tax attributes, which will be retained by the Edison International consolidated income tax group; (b) certain tax and pension related liabilities in the approximate amount of $350 million, which are being assumed by Edison International and for substantially all of which Edison International had joint and several responsibility; and (c) EME’s indirect interest in Capistrano Wind Partners and a small hydroelectric project, which is currently a lease investment of Edison Capital that is expected to be transferred to EME prior to the closing of the settlement.
+
+Edison International has agreed to pay to the Reorganization Trust an amount equal to 50% of EME’s federal and California income tax benefits, which were not previously paid to EME under a tax allocation agreement between Edison International and EME that expired on December 31, 2013 (“EME Tax Attributes”) and which are estimated to be approximately $1.191 billion, subject to an estimate updating procedure set forth in the Settlement Agreement that is expected to take up to approximately six months from the Effective Date. On the Effective Date, Edison International will pay the Reorganization Trust $225 million in cash and the balance will be paid in two installment payments to be made on September 30, 2015 and 2016, respectively. The amount of the two installment payments with interest of 5% per annum from the Effective Date will be fixed once the estimate of the EME Tax Attributes is completed but are currently estimated to be approximately $199 million and $210 million, respectively, including applicable interest. Assuming continuation of existing law and tax rates, Edison International also anticipates realization of the tax benefits over a period similar to the period for which it pays for them, and pending the realization of the tax benefits, Edison International will finance the settlement from existing credit lines.
+
+EME and the Reorganization Trust will release Edison International and its subsidiaries, officers, directors, and representatives from all claims, except for those deriving from commercial arrangements between SCE and certain EME subsidiaries and for obligations arising under the Settlement Agreement. Edison International and its subsidiaries that directly and indirectly own EME will provide a similar release to EME and the Reorganization Trust. Under the Amended Plan of Reorganization, Edison International and its subsidiaries will also be beneficiaries of orders of the Bankruptcy Court releasing them from claims of third parties in EME’s bankruptcy proceeding. The Reorganization Trust is obligated to set aside $50 million in escrow to secure its obligations to Edison International under the Settlement Agreement, including its obligation to protect against liabilities, if any, not discharged in the bankruptcy for which the Reorganization Trust remains responsible. Such escrowed amount will decline over time to zero on September 30, 2016.
+
+Approval of the Amended Plan of Reorganization, including the Settlement Agreement, is subject to the determination of the Bankruptcy Court. The final estimate of EME Tax Attributes, which will fix Edison International’s installment obligations to the Reorganization Trust, may differ materially from the current estimate. Subject to effectuation of the settlement and the final determination of the EME Tax Attributes under the Settlement Agreement, Edison International anticipates that consolidated tax benefits it will retain will exceed the sum of liabilities it will assume and payments to the Reorganization Trust by approximately $200 million, and that the transactions contemplated by the Settlement Agreement, if effectuated, will result in its recording approximately $130 million in non-core income in the first quarter of 2014, which is net of amounts recorded prior to the first quarter. Edison International has recorded deferred income tax benefits of EME, less a valuation allowance for amounts that would no longer be available upon tax deconsolidation of EME of approximately $220 million and a $150 million provision for loss related to claims filed against EME in the bankruptcy. The net impact of these items has been approximately $70 million through December 31, 2013 and recorded as part of discontinued operations.
+
+33
+
+RESULTS OF OPERATIONS
+
+SCE
+
+SCE's results of operations are derived mainly through two sources:
+
+•Utility earning activities – representing revenue authorized by the CPUC and FERC which is intended to provide SCE a reasonable opportunity to recover its costs and earn a return on its net investment in generation, transmission and distribution assets. The annual revenue requirements are comprised of authorized operation and maintenance costs, depreciation, taxes and a return consistent with the capital structure. Also, included in utility earnings activities are revenues or penalties related to incentive mechanisms, other operating revenue, and regulatory charges or disallowances, if any.
+
+•Utility cost-recovery activities – representing CPUC- and FERC-authorized balancing accounts which allow for recovery of specific project or program costs, subject to reasonableness review or compliance with upfront standards. Utility cost-recovery activities include rates which provide recovery, subject to reasonableness review of, among other things, fuel costs, purchased power costs, public purpose related-program costs (including energy efficiency and demand-side management programs), certain operation and maintenance expenses and nuclear decommissioning expenses.
+
+The following table is a summary of SCE's results of operations for the periods indicated. The presentation below separately identifies utility earnings activities and utility cost-recovery activities:
+
+[DATA_TABLE_REMOVED]
+
+1 See use of non-GAAP financial measures in "Management Overview—Highlights of Operating Results."
+
+34
+
+Utility Earning Activities
+
+2013 vs 2012
+
+Utility earning activities were primarily affected by the following:
+
+•Lower operating revenue of $80 million was primarily due to the following:
+
+•A decrease in San Onofre-related estimated revenue of $303 million, as discussed below.
+
+•An increase in CPUC-related revenue of $60 million primarily related to the increase in authorized revenue to support rate base growth and operating expenses which was partially offset by the lower CPUC-adopted 2013 return on common equity and Edison SmartConnect® revenue, resulting from the full deployment of the program in 2012.
+
+•An increase in FERC-related revenue of $170 million primarily related to rate base growth and higher operating costs.
+
+•Lower operation and maintenance expense of $170 million was primarily due to the following:
+
+•$170 million decrease in San Onofre-related expense, as discussed below.
+
+• $95 million decrease in expense in 2013 due to the full deployment of the Edison SmartConnect® program in 2012. 
+
+•$40 million decrease in severance costs due to the reductions in workforce (excluding San Onofre) that commenced in 2012.
+
+•$85 million of higher operating costs primarily related to information technology, safety, legal and insurance costs.
+
+• $45 million of planned outage costs at Mountainview, repair costs at Four Corners, and higher operating costs on CPUC- and FERC-related projects. 
+
+•Higher depreciation, decommissioning and amortization expense of $60 million was primarily related to increased transmission and distribution investments, including capitalized software costs, offset by the impact from ceasing depreciation on the San Onofre assets, beginning in June 2013.
+
+•$575 million impairment charge ($365 million after tax) in 2013 related to the permanent retirement of San Onofre Units 2 and 3.
+
+•Lower interest income and other of $46 million primarily due to lower AFUDC equity related to lower rates and construction work in progress balances in 2013, including SCE no longer accruing AFUDC on construction work in progress balances for San Onofre, pending the outcome of the San Onofre OII. In addition, SCE had higher other expenses due to a $20 million penalty that resulted from the Malibu Fire Order Instituting Investigation settlement that was imposed by the CPUC in 2013. See "Item 8. Notes to Consolidated Financial Statements—Note 15. Interest and Other Income and Other Expenses."
+
+•Higher interest expense of $25 million primarily due to higher balances on long-term debt to support rate base growth and lower AFUDC debt due to lower rates and construction work in progress balances in 2013.
+
+•Higher income taxes of $65 million primarily due to lower income tax benefits, including lower repair deductions (as determined for income tax purposes). See "—Income Taxes" below for more information.
+
+On June 6, 2013, SCE decided to permanently retire San Onofre Units 2 and 3 and recorded an asset impairment charge of $575 million. See "Management Overview—Permanent Retirement of San Onofre" above for more information. Excluding the asset impairment, the results of San Onofre were slightly lower in 2013 as compared to 2012. Lower revenue and operating costs at San Onofre affects SCE period-to-period results as summarized below:
+
+•Decrease in revenue of $303 million in 2013 related to lower operating costs (as discussed below), no longer recognizing the return on San Onofre rate base and ceasing depreciation, beginning in June 2013, pending regulatory treatment in the San Onofre OII and the scheduled refueling outage in 2012. 
+
+35
+
+•Decrease in operation and maintenance expense of $170 million primarily due to lower operating costs of $109 million resulting from the early retirement of Units 2 and 3 in June 2013 and $35 million in 2012 related to the scheduled outage at Unit 2. In addition, SCE had lower incremental inspection and repair costs of $53 million (net of SCE's share of payments received from MHI in 2012), which were not offset in revenue above, pending regulatory treatment in the San Onofre OII. These factors were partially offset by additional severance costs of $27 million ($63 million and $36 million in 2013 and 2012, respectively).
+
+•Decrease in depreciation of $67 million from ceasing depreciation on San Onofre beginning in June 2013.
+
+2012 vs 2011
+
+Utility earning activities were primarily affected by the following:
+
+•Higher operating revenue was primarily due to the following:
+
+•$375 million increase in revenue related to the implementation of the 2012 GRC decision. The decision authorized a revenue requirement increase of approximately $470 million over the 2011 authorized revenue, excluding nuclear refueling outages ($95 million of which is reflected in utility cost-recovery activities primarily related to employee benefits); and
+
+•$60 million increase in revenue related to authorized CPUC projects not included in SCE's GRC authorized revenue, including the Edison SmartConnect® project and the Solar Photovoltaic project.
+
+•Higher operation and maintenance expense due to the following:
+
+•$112 million in accrued severance costs from current and approved reductions in staffing;
+
+•$66 million in incremental inspection and repair costs related to the outages at San Onofre, net of SCE's share of payments received from MHI; and
+
+• $85 million of lower costs related to information technology, transmission and distribution expenses, San Onofre and benefits realized from Edison SmartConnect®.
+
+•Higher depreciation, decommissioning and amortization expense of $136 million was primarily related to increased generation, transmission and distribution investments, including capitalized software costs.
+
+•$32 million charge due to the 2012 GRC decision disallowing capitalized costs incurred as part of SCE's implementation of SAP's Enterprise Resource Planning system. 
+
+•Higher interest expense of $31 million was primarily due to higher outstanding balances on long-term debt due to new issuances.
+
+•Lower income taxes primarily due to an earnings benefit resulting from the regulatory treatment adopted in the 2012 GRC for tax repair deductions for income tax purposes. See "—Income Taxes" below for more information.
+
+•Higher preferred and preference stock dividends of $32 million related to new issuances in 2012.
+
+Utility Cost-Recovery Activities
+
+2013 vs. 2012
+
+Utility cost-recovery activities were primarily affected by the following:
+
+•Higher fuel and purchased power expense of $752 million was primarily driven by higher power and gas prices in 2013, partially offset by lower realized losses on economic hedging activities ($56 million in 2013 compared to $227 million in 2012) and by a $43 million credit received from the ISO for SCE’s share of a settlement between the FERC and an ISO participant.
+
+•Higher operation and maintenance expense of $42 million primarily due to costs for the GHG cap-and-trade program related to utility owned generation, higher costs related to transmission and distribution expenses, higher pension expenses, partially offset by lower spending on various public purpose programs.
+
+36
+
+2012 vs. 2011
+
+Utility cost-recovery activities were primarily affected by the following:
+
+•Higher fuel and purchased power expense of $783 million was primarily driven by the cost to replace CDWR contracts that expired in 2011, which were not previously recorded as an SCE cost but which were included as a separate component on customer bills (see "—Supplemental Operating Revenue Information" below) and $300 million of market costs net of lower nuclear fuel costs related to the San Onofre outages in 2012 (see "Management Overview—Permanent Retirement of San Onofre" for further information).
+
+•Higher operation and maintenance expense of $62 million was primarily due to an increase in pension and postretirement benefit contributions.
+
+Supplemental Operating Revenue Information
+
+SCE's retail billed and unbilled revenue (excluding wholesale sales and balancing account over/undercollections) was $11.6 billion for 2013, $11.2 billion for 2012 and $10.0 billion for 2011. 
+
+The 2013 revenue reflects:
+
+•A rate increase of $435 million and a sales volume decrease of $29 million. The rate increase of $435 million is primarily due to the implementation of the 2012 GRC decision.
+
+The 2012 revenue reflects:
+
+•A sales volume increase of $1.4 billion, primarily due to SCE providing power that was previously provided by CDWR contracts which expired in 2011, partially offset by
+
+•A rate decrease of $344 million, resulting from rate adjustments in June 2011 and August 2012, primarily reflecting lower natural gas prices and refunds to customers of over-collected fuel and power procurement-related costs.
+
+The 2011 revenue reflects:
+
+•A rate decrease of $408 million resulting from a rate adjustment beginning on June 1, 2011, primarily reflecting the refund of over collected fuel and power procurement-related costs, offset by
+
+•A sales volume increase of $393 million primarily due to SCE providing power that was previously provided by CDWR contracts which expired in 2011, see below.
+
+As a result of the CPUC-authorized decoupling mechanism, SCE earnings are not affected by changes in retail electricity sales (see "Item 1. Business—Overview of Ratemaking Process").
+
+SCE remits to the California Department of Water Resources ("CDWR"), and does not recognize as revenue the amounts that SCE billed and collected from its customers for electric power purchased and sold by the CDWR to SCE's customers in 2011 as well as bond-related charges and direct access exit fees, both of which continue until 2022. These contracts were not considered a cost to SCE because SCE was acting as a limited agent to CDWR for these transactions. The amounts collected and remitted to CDWR were $1.1 billion in 2011, primarily related to the power contracts.
+
+Income Taxes
+
+SCE’s income tax provision increased by $65 million, or 30%, in 2013 compared to 2012. The effective tax rates were 21.8% and 11.4% for 2013 and 2012, respectively. The effective tax rate increase in 2013 was primarily due to lower tax benefits associated with repair deductions. Edison International made a voluntary election in 2009 to change its tax accounting method for certain tax repair costs incurred on SCE’s transmission, distribution and generation assets. Regulatory treatment for the 2009 – 2011 incremental repairs deductions taken after the 2009 tax accounting method change resulted in SCE recognizing a $231 earnings benefit in 2012. See "—2012 GRC Earnings Benefits from Repair Deductions" below for more information.
+
+The CPUC requires flow-through ratemaking treatment for the current tax benefit arising from certain property-related and other temporary differences, which reverse over time. The accounting treatment for these temporary differences results in recording regulatory assets and liabilities for amounts that would otherwise be recorded to deferred income tax expense. 
+
+37
+
+SCE’s income tax provision decreased by $387 million, or 64%, in 2012 compared to 2011. The effective tax rates were 11.4% and 34.4% for 2012 and 2011, respectively. The 2012 effective tax rate included the $231 million earnings benefits related to the 2009 – 2011 repair costs mentioned above as well as earnings benefits for the 2012 repair costs. 
+
+See "Item 8. Notes to Consolidated Financial Statements—Note 7. Income Taxes" for a reconciliation of the federal statutory rate of 35% to the effective income tax rates.
+
+2012 GRC Earnings Benefit from Repair Deductions
+
+Edison International made a voluntary election in 2009 to change its tax-accounting method for certain repair costs incurred on SCE's transmission, distribution and generation assets. Regulatory treatment for the incremental deductions taken after the 2009 election to change SCE's tax accounting method for certain repair costs was included as part of SCE's 2012 GRC. The 2012 GRC decision retained flow-through treatment of repair deductions for regulatory purposes, which resulted in SCE recognizing an earnings benefit of $231 million from these incremental deductions taken in 2009, 2010 and 2011. The earnings benefit results from recognition of a regulatory asset for recovery of deferred income taxes in future periods due to the flow-through treatment of repair deduction for income tax purposes. 
+
+For a discussion of the status of Edison International's income tax audits, see "Item 8. Notes to Consolidated Financial Statements—Note 7. Income Taxes."
+
+Edison International Parent and Other
+
+Results of operations for Edison International Parent and Other includes amounts from other nonutility subsidiaries that are not significant as a reportable segment, as well as intercompany eliminations.
+
+Income from Continuing Operations 
+
+The Edison International Parent and Other loss from continuing operations in 2013 decreased $45 million from 2012 primarily due to a $37 million charge in 2012 resulting from Edison International's update to its estimated long-term California apportionment rate applicable to deferred income taxes as a result of changes related to EME and a write-down of an investment in 2012. Included in Edison International Parent and Other are earnings from Edison Capital of $24 million in 2013 and $22 million in 2012. During 2012, Edison Capital sold its lease interest in Unit No. 2 of the Beaver Valley Nuclear Plant resulting in a $31 million benefit in 2012 and an additional income tax benefit of $7 million in 2013 from a revised estimate of state income taxes related to the sale. Edison Capital's 2013 results included income from the wind down of its asset portfolio while Edison Capital's 2012 results included higher income taxes.
+
+The results in 2012 were lower than 2011 as a result of income tax benefits in 2011 including a cumulative deferred tax adjustment related to employee benefits and a reduction in consolidated amounts for uncertain tax positions. In addition, the loss in 2012, compared to 2011, included higher operating expenses and interest costs, increases in deferred income taxes as a result of higher state apportionment rates and a write down of an investment.
+
+Income (Loss) from Discontinued Operations (Net of Tax)
+
+Income (loss) from discontinued operations, net of tax, was $36 million, $(1.69 billion) and $(1.08 billion) for the years ended December 31, 2013, 2012 and 2011, respectively. The 2013 income from discontinued operations reflects a revised estimate of the tax impact of expected future deconsolidation and separation of EME from Edison International. The 2012 loss reflects an earnings charge of $1.3 billion due to the full impairment of the investment in EME during the fourth quarter of 2012 as a result of the deconsolidation of EME, recognition of losses previously deferred in accumulated other comprehensive income, a provision for losses from the EME bankruptcy and estimated tax impacts related to the expected future tax deconsolidation and separation of EME from Edison International. The 2012 loss also reflects a $53 million earnings charge associated with the divestiture by Homer City of substantially all of its remaining assets and certain specified liabilities. The 2011 loss reflects an earnings charge of $1.05 billion recorded in the fourth quarter of 2011 resulting primarily from the impairment of the Homer City and other power plants and wind related charges. In addition to the charges recorded in 2012 and 2011 the increase in loss also reflects lower average realized energy and capacity prices and lower generation at the Midwest Generation plants and decreased earnings from natural gas-fired projects. For additional information, see "Item 8. Notes to Consolidated Financial Statements—Note 16. Discontinued Operations."
+
+38
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+SCE
+
+SCE's ability to operate its business, fund capital expenditures, and implement its business strategy is dependent upon its cash flow and access to the capital markets. SCE's overall cash flows fluctuate based on, among other things, its ability to recover its costs in a timely manner from its customers through regulated rates, changes in commodity prices and volumes, collateral requirements, interest and dividend payments to Edison International, and the outcome of tax and regulatory matters.
+
+SCE expects to fund its 2014 obligations, capital expenditures and dividends through operating cash flows, tax benefits and capital market financings of debt and preferred equity, as needed. SCE also has availability under its credit facilities to fund requirements.
+
+Available Liquidity
+
+At December 31, 2013 SCE had $2.46 billion available under its $2.75 billion credit facility, for further details see "Item 8. Notes to Consolidated Financial Statements—Note 5. Debt and Credit Agreements." As discussed in "Management Overview—ERRA Balancing Account," SCE may finance unrecovered power procurement-related costs as well as other balancing account undercollections and working capital requirements to support operations and capital expenditures with commercial paper or other borrowings, subject to availability in the capital markets.
+
+Debt Covenant
+
+The debt covenant in SCE's credit facility limits its debt to total capitalization ratio to less than or equal to 0.65 to 1. At December 31, 2013, SCE's debt to total capitalization ratio was 0.46 to 1.
+
+Capital Investment Plan
+
+SCE's forecasted capital expenditures for 2014 – 2017 include a capital forecast in the range of $15.1 billion to $17.2 billion. The range is based on an average variability of 12%. The completion of projects, the timing of expenditures, and the associated cost recovery may be affected by permitting requirements and delays, construction schedules, availability of labor, equipment and materials, financing, legal and regulatory approvals and developments, weather and other unforeseen conditions. 
+
+SCE's 2013 capital expenditures and the 2014 – 2017 capital expenditures forecast are set forth in the table below:
+
+[DATA_TABLE_REMOVED]
+
+1 Included in SCE's capital expenditures plan are projected environmental capital expenditures of approximately 15% for each year presented. The projected environmental capital expenditures are to comply with laws, regulations, and other nondiscretionary requirements.
+
+The 2014 planned capital expenditures for projects under CPUC jurisdiction are recovered through the authorized revenue requirement in SCE's 2012 GRC or through other CPUC-authorized mechanisms. Recovery of planned capital expenditures for projects under CPUC jurisdiction beyond 2014 is subject to the outcome of the 2015 GRC or other CPUC approvals. Recovery for 2014 – 2017 planned expenditures for projects under FERC jurisdiction will be pursued through FERC-authorized mechanisms.
+
+39
+
+Transmission Projects 
+
+A summary of SCE's large transmission and substation projects during the next two years are presented below: 
+
+[DATA_TABLE_REMOVED]
+
+1 Direct expenditures include direct labor, land and contract costs incurred for the respective projects and exclude overhead costs that are included in the capital expenditures forecasted for 2014 – 2017.
+
+Tehachapi Project
+
+In response to opposition from the city of Chino Hills, CPUC proceedings to reexamine construction options, including undergrounding lines for a portion of the Tehachapi Project, were initiated. On July 11, 2013, the CPUC ordered SCE to underground a 3.5 mile portion of the line that traverses Chino Hills, setting a cost estimate of $224 million ($231 million in nominal dollars) for the underground portion. The cost estimate that SCE had proposed for the underground portion of the Tehachapi Project was $360 million, which is reflected in the table above. In September 2013, SCE filed a petition with the CPUC to modify the CPUC's orders pertaining to the scope of the underground project and defer the associated cost adjustments. In January 2014, the CPUC issued a decision permitting SCE to modify the scope of the project to include the necessary voltage control equipment omitted from the earlier decision and increasing the cost estimate by an additional $23 million which is reflected in the table above. In addition to the cost increase related to the undergrounding, in October 2013, the CPUC ordered SCE to implement FAA related scope changes, such as aviation marking and lighting. The FAA related costs and additional estimate updates are also reflected in the table above. The CPUC has not yet issued a decision on what the appropriate vehicle would be to make future adjustments to the cost estimate for the project. The partial undergrounding of the transmission lines could potentially delay the completion of the Tehachapi Project and create additional costs and curtailment charges. Cost recovery for the project is subject to FERC review and approval.
+
+West of Devers Project
+
+West of Devers Project will upgrade SCE's existing West of Devers transmission line system by replacing a portion of the existing 220 kV transmission lines and associated structures with higher-capacity transmission lines and structures. The West of Devers project is intended to facilitate the delivery of electricity produced by new electric generation resources that are being developed or being planned in eastern Riverside County. 
+
+Coolwater-Lugo Transmission Project 
+
+The Coolwater-Lugo Project will provide additional 220 kV transmission capacity needed in the Kramer Junction and Lucerne Valley areas of San Bernardino County to alleviate an existing bottleneck in order to facilitate interconnection of current and future renewable generation projects. The Coolwater-Lugo scope primarily consists of installing new transmission lines and new substation facilities. 
+
+Distribution Projects
+
+Distribution expenditures include projects and programs to meet customer load growth requirements, reliability and infrastructure replacement needs (including replacement of poles to meet current compliance and safety standards), information and other technology and related facility requirements (sometimes referred to as "general plant").
+
+Generation Projects
+
+Generation expenditures include hydro-related capital expenditures associated with infrastructure and equipment replacement and renewal of FERC operating licenses. Infrastructure expenditures include dam improvements, flowline and substation refurbishments, and powerline replacements. Equipment replacement expenditures include transformers, automation, switchgear, hydro turbine repowers, generator rewinds, and small generator replacements.
+
+40
+
+Future Energy Storage Requirements
+
+In October of 2013, the CPUC issued a decision adopting policies and targets for energy storage procurement. Under the Energy Storage Procurement Framework and Design Program, SCE is required to procure a total of 580 MW (of the 1325 total MW for the three California investor-owned utilities) of energy storage by 2020 and to install and deliver the storage to the grid by the end of 2024. SCE may request deferment of up to 80% of its procurement targets if it can show unreasonableness of cost or lack of an operationally viable number of bids in the solicitations. SCE is required to hold competitive solicitations in 2014, 2016, 2018, and 2020. SCE is also required to file an application for procuring the specified energy storage resources before each procurement cycle and solicitation. SCE’s first Energy Storage Procurement Application will be filed on March 1, 2014 and its first energy storage solicitation will be held on December 1, 2014. 
+
+Regulatory Proceedings
+
+Energy Efficiency Incentive Mechanism
+
+In December 2013, the incentive awarded by the CPUC was $13.5 million for the 2011 energy efficiency program performance period and an opportunity to earn an additional $5 million in 2014 based on the results of a subsequent audit of 2011 energy efficiency programs that is expected to be performed in 2014. 
+
+For the 2012 performance period incentive, SCE will file its request for the incentives after the CPUC releases its financial and management audit reports, expected in the third quarter of 2014. SCE estimates it could be awarded an additional $16 million in 2014 for the 2012 period, pending the completion of the CPUC's financial and management audits for that program period. There is no assurance that the CPUC will make an award for any given year.
+
+FERC Formula Rates
+
+In November 2013, the FERC approved a settlement on SCE’s formula rate request that the FERC previously had accepted, subject to refund and settlement procedures. The settlement will determine SCE's FERC transmission revenue requirement, including its construction work in progress ("CWIP"), through December 31, 2017. The settlement provides for a base ROE of 9.30%, the previously authorized 50 basis point incentive for CAISO participation and individual, previously authorized project incentives. This results in a FERC weighted average ROE of approximately 10.45%. The settlement ROE will remain in effect until at least June 30, 2015, when the moratorium, provided for in the settlement, on modifications to the formula rate tariff ends. The transmission revenue requirement and rates that have been in effect and billed to customers since January 1, 2012, were based on a total FERC weighted average ROE of 11.1%. The settlement's provisions and adjustments resulted in retail customer refunds of approximately $178.5 million, which will be returned through lower rates to retail customers beginning in the second quarter of 2014. Under the settlement, the interim rates approved by the FERC (effective on October 1, 2013) were modified on January 1, 2014 through an annual update filing made by SCE in November 2013. The 2014 formula rate update increased the transmission revenue requirement by $32 million to $821 million, mainly due to additional transmission investment. The FERC settlement did not result in a material impact to earnings.
+
+Dividend Restrictions
+
+The CPUC regulates SCE's capital structure which limits the dividends it may pay Edison International. SCE may make distributions to Edison International as long as the common equity component of SCE's capital structure remains at or above the 48% on a 13-month weighted average basis. At December 31, 2013, SCE's 13-month weighted-average common equity component of total capitalization was 49.2% and the maximum additional dividend that SCE could pay to Edison International under this limitation was approximately $247 million, resulting in a restriction on net assets of approximately $11.9 billion. 
+
+During 2013, SCE made $486 million in dividend payments to its parent, Edison International. Future dividend amounts and timing of distributions are dependent upon several factors including the level of capital expenditures, operating cash flows and earnings.
+
+Margin and Collateral Deposits
+
+Certain derivative instruments, power procurement contracts and other contractual arrangements contain collateral requirements. Future collateral requirements may differ from the requirements at December 31, 2013, due to the addition of incremental power and energy procurement contracts with collateral requirements, if any, and the impact of changes in wholesale power and natural gas prices on SCE's contractual obligations.
+
+41
+
+Some of the power procurement contracts contain provisions that require SCE to maintain an investment grade credit rating from the major credit rating agencies. If SCE's credit rating were to fall below investment grade, SCE may be required to pay the liability or post additional collateral.
+
+The table below provides the amount of collateral posted by SCE to its counterparties as well as the potential collateral that would be required as of December 31, 2013.
+
+[DATA_TABLE_REMOVED]
+
+1 Collateral provided to counterparties and other brokers consisted of $10 million of cash which was offset against net derivative liabilities on the consolidated balance sheets, $19 million of cash reflected in "Other current assets" on the consolidated balance sheets and $118 million in letters of credit and surety bonds.
+
+2 There would be no significant increase to SCE's total posted and potential collateral requirements based on SCE's forward positions as of December 31, 2013 due to adverse market price movements over the remaining lives of the existing power procurement contracts using a 95% confidence level.
+
+Regulatory Balancing Accounts
+
+SCE's cash flows are affected by regulatory balancing accounts over- or under-collections. Over- and under-collections represent differences between cash collected in current rates for specified forecasted costs and the costs actually incurred. With some exceptions, SCE seeks to adjust rates on an annual basis or at other designated times to recover or refund the balances recorded in its balancing account. Under- or over-collections in these balancing accounts impact cash flows and can change rapidly. Over- and under-collections accrue interest based on a three-month commercial paper rate published by the Federal Reserve.
+
+As of December 31, 2013, SCE had regulatory balancing account net over-collections of $554 million, primarily consisting of $1.7 billion of overcollections related to public purpose-related and energy efficiency program costs, greenhouse gas auction revenue, and base rate differences. Over-collections for public purpose-related programs are expected to decrease as costs are incurred to fund programs established by the CPUC. Greenhouse gas auction revenue and base rate differences are anticipated to be refunded in 2014 through a rate adjustment during the second quarter of 2014. The overcollections were partially offset by under-collections of $1 billion related to fuel and power procurement-related costs (see "Management Overview—ERRA Balancing Account" for further discussion). See "Item 8. Notes to Consolidated Financial Statements—Note 11. Regulatory Assets and Liabilities" for further information.
+
+Edison International Parent and Other
+
+Edison International Parent and Other's liquidity and its ability to pay operating expenses and dividends to common shareholders is dependent on dividends from SCE and access to bank and capital markets. At December 31, 2013 Edison International had $1.2 billion available under its credit facility, for further details, see "Item 8. Notes to Consolidated Financial Statements—Note 5. Debt and Credit Agreements." In December 2013, Edison International implemented a commercial paper program for short-term borrowings.
+
+The debt covenant in Edison International's credit facility requires a consolidated debt to total capitalization ratio of less than or equal to 0.65 to 1. The ratio is defined in the credit agreement and generally excluded the consolidated debt and total capital of EME during the periods it was consolidated for financial reporting purposes. At December 31, 2013, Edison International's consolidated debt to total capitalization ratio was 0.45 to 1.
+
+42
+
+Historical Cash Flows
+
+SCE 
+
+[DATA_TABLE_REMOVED]
+
+Net Cash Provided by Operating Activities
+
+Net cash from operating activities decreased $802 million in 2013 compared to 2012 primarily due to the following:
+
+•$307 million cash outflow due to tax payments of $28 million in 2013 compared to tax receipts of $279 million in 2012.
+
+•$205 million decrease from balancing accounts primarily composed of:
+
+•$885 million decrease resulting from higher ERRA balancing account under-collections for fuel and power procurement-related costs in 2013 compared to 2012. The change in the ERRA balancing account decreased operating cash flows by $1.1 billion in 2013 compared to a decrease in operating cash flows by $257 million in 2012.
+
+•$210 million decrease primarily due to increased spending and lower funding of public purpose and energy efficiency programs.
+
+•$725 million increase primarily due to the implementation of the 2012 GRC decision which resulted in a rate increase in January 2013 to collect both the 2012 and 2013 rate changes. 
+
+•$165 million increase resulting from an increase in GHG allowance proceeds in 2013.
+
+•$151 million cash outflow related to workforce reduction severance costs in 2013.
+
+•timing of cash receipts and disbursements related to working capital items.
+
+Net cash from operating activities increased $825 million in 2012 compared to 2011 primarily due to the following: 
+
+•$265 million increase from balancing accounts composed of: 
+
+•$375 million increase resulting from actual electricity sales exceeding forecasted electricity sales primarily related to warmer weather during the summer months;
+
+•$150 million increase primarily due to the funding of public purpose and energy efficiency programs;
+
+•$110 million increase resulting from greenhouse gas emission auction proceeds; and 
+
+•$370 million decrease resulting from lower balancing account overcollections for fuel and power procurement-related costs in 2012 when compared to 2011. The 2012 decrease in overcollections was due to lower realized power and natural gas prices compared to the amounts forecasted in rates. 
+
+•$193 million increase resulting from a tax refund relating to the 2011 net operating loss carryback;
+
+•$68 million cash inflow resulting from proceeds of U.S. Treasury Grants relating to solar photovoltaic projects and other specific energy-related projects made available as a result of the American Recovery and Reinvestment Act of 2009;
+
+•$60 million cash inflow resulting from a security deposit received related to transmission and distribution construction; and
+
+•timing of cash receipts and disbursements related to working capital items. 
+
+43
+
+Net Cash Provided by Financing Activities
+
+The following table summarizes cash provided by financing activities for 2013, 2012 and 2011. Issuances of debt and preference stock are discussed in "Item 8. Notes to Consolidated Financial Statements—Note 5. Debt and Credit Agreements—Long-Term Debt" and "—Note 13. Preferred and Preference Stock."
+
+[DATA_TABLE_REMOVED]
+
+Net Cash Used by Investing Activities
+
+Cash flows from investing activities are primarily due to capital expenditures and funding of nuclear decommissioning trusts. Amounts paid for capital expenditures were $3.6 billion for 2013 and $4.1 billion for both 2012 and 2011, primarily related to transmission, distribution and generation investments. Net purchases of nuclear decommissioning trust investments and other were $334 million, $215 million and $167 million for 2013, 2012 and 2011, respectively. In addition, in 2013 SCE received $181 million for the sale of its ownership interest in Units 4 and 5 of the Four Corners Generating Station.
+
+Edison International Parent and Other 
+
+The table below sets forth condensed historical cash flow from continuing operations for Edison International Parent and Other adjusted for the non-cash impact related to the treatment of discontinued operations. 
+
+[DATA_TABLE_REMOVED]
+
+Net Cash Provided (Used) by Continuing Operating Activities 
+
+Net cash from continuing operating activities increased $34 million in 2013 compared to 2012 primarily due to the timing of payments and receipts relating to interest, operating costs and income taxes.
+
+Net cash from continuing operating activities decreased $135 million in 2012 compared to 2011 primarily due to net tax payments of approximately $114 million in 2012 compared to net tax receipts of approximately $33 million in 2011.
+
+Net Cash Provided by Continuing Financing Activities
+
+Net cash provided by continuing financing activities were as follows:
+
+[DATA_TABLE_REMOVED]
+
+44
+
+Net Cash Provided by Continuing Investing Activities
+
+Net cash provided by continuing investing activities during 2013 relate to Edison International's investment of $25 million in equity interests of competitive energy-related businesses, including the acquisition of SoCore Energy, LLC, a distributed solar developer focused on commercial rooftop installations.
+
+Net cash provided by continuing investing activities during 2012 related to Edison International's sale of its lease interest in Unit No. 2 of the Beaver Valley Nuclear Power Plant to a third party for $108 million.
+
+Contractual Obligations and Contingencies
+
+Contractual Obligations
+
+Edison International Parent and Other and SCE's contractual obligations as of December 31, 2013, for the years 2014 through 2018 and thereafter are estimated below.
+
+[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+3 At December 31, 2013, SCE's minimum other operating lease payments were primarily related to vehicles, office space and other equipment. For further discussion, see "Item 8. Notes to Consolidated Financial Statements—Note 12. Commitments and Contingencies."
+
+4 For additional details, see "Item 8. Notes to Consolidated Financial Statements—Note 12. Commitments and Contingencies." At December 31, 2013, other commitments were primarily related to maintaining reliability and expanding SCE's transmission and distribution system. 
+
+5 At December 31, 2013, Edison International Parent and Other and SCE had estimated contributions to the pension and PBOP plans. SCE's estimated contributions are $187 million, $191 million, $218 million, and $160 million in 2014, 2015, 2016 and 2017, respectively. Edison International Parent and Other estimated contributions are $27 million, $25 million, $29 million, and $25 million for the same respective periods. The estimated contributions for Edison International and SCE are not available beyond 2017. These amounts represent estimates that are based on assumptions that are subject to change. See "Item 8. Notes to Consolidated Financial Statements—Note 8. Compensation and Benefit Plans" for further information.
+
+45
+
+6 At December 31, 2013, Edison International and SCE had a total net liability recorded for uncertain tax positions of $705 million and $400 million, respectively, which is excluded from the table. Edison International and SCE cannot make reliable estimates of the cash flows by period due to uncertainty surrounding the timing of resolving these open tax issues with the IRS.
+
+7 The contractual obligations table does not include derivative obligations and asset retirement obligations, which are discussed in "Item 8. Notes to Consolidated Financial Statements—Note 6. Derivative Instruments and Hedging Activities," and "—Note 1. Summary of Significant Accounting Policies," respectively.
+
+Contingencies
+
+Edison International has a contingency related to the Potential Claims by EME and SCE has contingencies related to the Permanent Retirement of San Onofre, SED Investigations, Four Corners New Source Review Litigation, Nuclear Insurance, Wildfire Insurance and Spent Nuclear Fuel which are discussed in "Item 8. Notes to Consolidated Financial Statements—Note 12. Commitments and Contingencies."
+
+Environmental Remediation
+
+SCE records its environmental remediation liabilities when site assessments and/or remedial actions are probable and a range of reasonably likely cleanup costs can be estimated. SCE reviews its sites and measures the liability quarterly, by assessing a range of reasonably likely costs for each identified site using currently available information, including existing technology, presently enacted laws and regulations, experience gained at similar sites, and the probable level of involvement and financial condition of other potentially responsible parties. These estimates include costs for site investigations, remediation, operations and maintenance, monitoring and site closure. Unless there is a probable amount, SCE records the lower end of this reasonably likely range of costs (classified as "Other long-term liabilities") at undiscounted amounts as timing of cash flows is uncertain.
+
+As of December 31, 2013, SCE had identified 19 material sites for remediation and recorded an estimated minimum liability of $110 million. SCE expects to recover 90% of its remediation costs at certain sites. See "Item 8. Notes to Consolidated Financial Statements—Note 12. Commitments and Contingencies" for further discussion.
+
+Off-Balance Sheet Arrangements
+
+Edison International's indirect subsidiary, Edison Capital has one remaining leveraged lease investment and also has investments in affordable housing projects that apply the equity method of accounting. These off-balance sheet transactions are not material to Edison International's consolidated financial statements. SCE has variable interests in power purchase contracts with variable interest entities and a variable interest in unconsolidated Trust I and Trust II that issued $475 million (aggregate liquidation preference) of 5.625% and $400 million (aggregate liquidation preference) of 5.10%, trust securities, respectively, to the public, see "Item 8. Notes to Consolidated Financial Statements—Note 3. Variable Interest Entities."
+
+Environmental Developments
+
+For a discussion of environmental developments, see "Item 1. Business—Environmental Regulation of Edison International and Subsidiaries."
+
+MARKET RISK EXPOSURES
+
+Edison International and SCE's primary market risks include fluctuations in interest rates, commodity prices and volumes, and counterparty credit. Fluctuations in interest rates can affect earnings and cash flows. Fluctuations in commodity prices and volumes and counterparty credit losses may temporarily affect cash flows, but are not expected to affect earnings due to expected recovery through regulatory mechanisms. Derivative instruments are used, as appropriate, to manage market risks including market risks of SCE's customers. For a further discussion of market risk exposures, including commodity price risk, credit risk and interest rate risk, see "Item 8. Notes to Consolidated Financial Statements—Note 6. Derivative Instruments and Hedging Activities" and "—Note 4. Fair Value Measurements."
+
+46
+
+Interest Rate Risk
+
+Edison International and SCE are exposed to changes in interest rates primarily as a result of its financing and short-term investing and borrowing activities used for liquidity purposes, to fund business operations and to fund capital investments. The nature and amount of Edison International and SCE's long-term and short-term debt can be expected to vary as a result of future business requirements, market conditions and other factors. Changes in interest rates may impact SCE's authorized rate of return for the period beyond 2014, see "Item 1. Business—Overview of Ratemaking Process—CPUC" for further discussion. The following table summarizes the increase or decrease to the fair value of long-term debt including the current portion as of December 31, 2013, if the market interest rates were changed while leaving all other assumptions the same:
+
+[DATA_TABLE_REMOVED]
+
+Commodity Price Risk
+
+SCE and its customers are exposed to the risk of a change in the market price of natural gas, electric power and transmission congestion. SCE's hedging program reduces exposure to variability in market prices related to SCE's purchases and sales of electric power and natural gas. SCE expects recovery of its related hedging costs through the ERRA balancing account or CPUC-approved procurement plans, and as a result, exposure to commodity price is not expected to impact earnings, but may impact timing of cash flows. SCE's hedging program reduces customer exposure to variability in market prices. As part of this program, SCE enters into energy options, swaps, forward arrangements, tolling arrangements, and congestion revenue rights ("CRRs"). The transactions are pre-approved by the CPUC or executed in compliance with CPUC-approved procurement plans. 
+
+Fair Value of Derivative Instruments
+
+With some exceptions, derivative instruments are included in the consolidated balance sheets at fair value. Realized gains and losses from derivative instruments are expected to be recovered from or refunded to customers through regulatory mechanisms and, therefore, SCE's fair value changes have no impact on earnings. SCE does not use hedge accounting for these transactions due to this regulatory accounting treatment. For further discussion on fair value measurements and the fair value hierarchy, see "Item 8. Notes to Consolidated Financial Statements—Note 4. Fair Value Measurements."
+
+The fair value of outstanding derivative instruments used to mitigate exposure to commodity price risk was a net liability of $821 million and $851 million at December 31, 2013 and 2012, respectively. The following table summarizes the increase or decrease to the fair values of outstanding derivative instruments included in the consolidated balance sheets as of December 31, 2013, if the electricity prices or gas prices were changed while leaving all other assumptions constant:
+
+[DATA_TABLE_REMOVED]
+
+Credit Risk
+
+For information related to credit risks, see "Item 8. Notes to Consolidated Financial Statements—Note 6. Derivative Instruments and Hedging Activities."
+
+Credit risk exposure from counterparties for power and gas trading activities is measured as the sum of net accounts receivable (accounts receivable less accounts payable) and the current fair value of net derivative assets (derivative assets less derivative liabilities) reflected on the consolidated balance sheets. SCE enters into master agreements which typically provide for a right of setoff. Accordingly, SCE's credit risk exposure from counterparties is based on a net exposure under these arrangements. SCE manages the credit risk on the portfolio for both rated and non-rated counterparties based on credit ratings using published ratings of counterparties and other publicly disclosed information, such as financial statements, regulatory filings, and press releases, to guide it in the process of setting credit levels, risk limits and contractual arrangements, 
+
+47
+
+including master netting agreements. As of December 31, 2013, the amount of balance sheet exposure as described above broken down by the credit ratings of SCE's counterparties, was as follows:
+
+[DATA_TABLE_REMOVED]
+
+1 SCE assigns a credit rating based on the lower of a counterparty's S&P or Moody's rating. For ease of reference, the above table uses the S&P classifications to summarize risk, but reflects the lower of the two credit ratings.
+
+2 Exposure excludes amounts related to contracts classified as normal purchases and sales and non-derivative contractual commitments that are not recorded on the consolidated balance sheets, except for any related net accounts receivable.
+
+3 The exposure in this category relates to long-term power purchase agreements. SCE's exposure is mitigated by regulatory treatment.
+
+CRITICAL ACCOUNTING ESTIMATES AND POLICIES
+
+The accounting policies described below are considered critical to obtaining an understanding of Edison International and SCE's consolidated financial statements because their application requires the use of significant estimates and judgments by management in preparing the consolidated financial statements. Management estimates and judgments are inherently uncertain and may differ significantly from actual results achieved. Management considers an accounting estimate to be critical if the estimate requires significant assumptions and changes in the estimate or, the use of alternative estimates, that could have a material impact on Edison International's results of operations or financial position. For more information on Edison International's accounting policies, see "Item 8. Notes to Consolidated Financial Statements—Note 1. Summary of Significant Accounting Policies."
+
+Rate Regulated Enterprises
+
+Nature of Estimate Required. SCE follows the accounting principles for rate-regulated enterprises which are required for entities whose rates are set by regulators at levels intended to recover the estimated costs of providing service, plus a return on net investment, or rate base. Regulators may also impose certain penalties or grant certain incentives. Due to timing and other differences in the collection of revenue, these principles allow a cost that would otherwise be charged as an expense by an unregulated entity to be capitalized as a regulatory asset if it is probable that such cost is recoverable through future rates; conversely the principles allow creation of a regulatory liability for amounts collected in rates to recover costs expected to be incurred in the future or amounts collected in excess of costs incurred.
+
+Key Assumptions and Approach Used. SCE's management assesses at the end of each reporting period whether regulatory assets are probable of future recovery by considering factors such as the current regulatory environment, the issuance of rate orders on recovery of the specific or a similar incurred cost to SCE or other rate-regulated entities, and other factors that would indicate that the regulator will treat an incurred cost as allowable for ratemaking purposes. Using these factors, management has determined that existing regulatory assets and liabilities are probable of future recovery or settlement. This determination reflects the current regulatory climate and is subject to change in the future.
+
+Effect if Different Assumptions Used. Significant management judgment is required to evaluate the anticipated recovery of regulatory assets, the recognition of incentives and revenue subject to refund, as well as the anticipated cost of regulatory liabilities or penalties. If future recovery of costs ceases to be probable, all or part of the regulatory assets and liabilities would have to be written off against current period earnings. At December 31, 2013, the consolidated balance sheets included regulatory assets of $7.78 billion and regulatory liabilities of $5.76 billion. If different judgments were reached on recovery of costs and timing of income recognition, SCE's earnings may vary from the amounts reported.
+
+48
+
+Application to San Onofre 
+
+As discussed in "Management Overview—Permanent Retirement of San Onofre," on June 6, 2013, SCE decided to permanently retire San Onofre Units 2 and 3. In assessing whether to record regulatory assets as a result of the decision to retire San Onofre Units 2 and 3 early and whether to record liabilities for refunds to customers, SCE considered the interrelationship of recovery of costs and refunds to customers for accounting purposes, as such matters are being considered by the CPUC on a consolidated basis in the San Onofre OII. SCE considered a number of potential outcomes for the matters being considered by the CPUC in the San Onofre OII, none of which are assured, but a number of which in SCE's opinion appeared to be more likely than a number of other outcomes. SCE considered the likelihood of outcomes to determine the amount deemed probable of recovery. These outcomes included a number of variables, including recovery of and return on the components of SCE's net investment, and the potential for refunds to customers for either substitute power or operating costs occurring over different time periods. SCE also included in its consideration of possible outcomes, the requirement under GAAP to discount future cash flows from recovery of assets without a return at its incremental borrowing rate. As a result of the assessment, SCE reclassified $1,521 million of its total investment in San Onofre at May 31, 2013 as a regulatory asset and recorded an impairment charge of $575 million. 
+
+SCE's judgment that the San Onofre Regulatory Asset recorded at December 31, 2013 is probable, though not certain, of recovery is based on SCE's knowledge of the facts and judgment in applying relevant regulatory principles to the issues under review in the OII proceeding and in accordance with GAAP. Such judgment is subject to considerable uncertainty, and regulatory principles and precedents are not necessarily binding and are capable of interpretation. The amount recorded for the San Onofre Regulatory Asset at December 31, 2013, is subject to change based upon future developments and the application of SCE's judgment to those events. See "Management Overview—Permanent Retirement of San Onofre" for further discussion.
+
+Accounting for Contingencies, Guarantees and Indemnities
+
+Nature of Estimates Required. Edison International and SCE record loss contingencies when management determines that the outcome of future events is probable of occurring and when the amount of the loss can be reasonably estimated. When a guarantee or indemnification subject to authoritative guidance is entered into, Edison International and SCE record a liability for the estimated fair value of the underlying guarantee or indemnification. Gain contingencies are recognized in the financial statements when they are realized.
+
+Key Assumptions and Approach Used. The determination of a reserve for a loss contingency is based on management judgment and estimates with respect to the likely outcome of the matter, including the analysis of different scenarios. Liabilities are recorded or adjusted when events or circumstances cause these judgments or estimates to change. In assessing whether a loss is a reasonable possibility, Edison International and SCE may consider the following factors, among others: the nature of the litigation, claim or assessment, available information, opinions or views of legal counsel and other advisors, and the experience gained from similar cases. Edison International and SCE provide disclosures for material contingencies when there is a reasonable possibility that a loss or an additional loss may be incurred. Some guarantees and indemnifications could have a significant financial impact under certain circumstances, and management also considers the probability of such circumstances occurring when estimating the fair value.
+
+Effect if Different Assumptions Used. Actual amounts realized upon settlement of contingencies may be different than amounts recorded and disclosed and could have a significant impact on the liabilities, revenue and expenses recorded on the consolidated financial statements. In addition, for guarantees and indemnities actual results may differ from the amounts recorded and disclosed and could have a significant impact on Edison International's and SCE's consolidated financial statements. For a discussion of contingencies, guarantees and indemnities, see "Item 8. Notes to Consolidated Financial Statements—Note 12. Commitments and Contingencies."
+
+Potential Claims by EME 
+
+In December 2012, EME and certain of its wholly-owned subsidiaries filed voluntary petitions for relief under Chapter 11 of the Bankruptcy Code in the Bankruptcy Court. EME's December Plan of Reorganization, which included the sale of substantially all of EME’s assets to NRG Energy, Inc. and the transfer of ownership of EME to unsecured creditors to the Bankruptcy Court for confirmation in December 2013. Under the December Plan of Reorganization, the remaining assets of EME would include causes of action against Edison International that were not released under the December Plan of Reorganization and would have re-vested in Reorganized EME. 
+
+Under the Internal Revenue Code and applicable state statutes, Edison International Parent is jointly liable for qualified retirement plans and federal and specific state tax liabilities. As a result of the deconsolidation and the existence of joint liabilities, Edison International has recorded liabilities at December 31, 2013 of $325 million for qualified retirement plans 
+
+49
+
+related to plan participants of EME and joint tax liabilities. Under the qualified plan documents and tax allocation agreements, EME is obligated to pay for such liabilities and, accordingly, at December 31, 2013 Edison International has recorded corresponding receivables from EME.
+
+The outcome of the EME bankruptcy proceeding as well as any litigation brought by EME against Edison International is uncertain. Accordingly, management judgment was required to assess the collectability of the receivables recorded and outcome of the bankruptcy proceeding. At December 31, 2013, management concluded that it is probable that a loss would be incurred and has recorded an estimated loss of $150 million. The outcome of the EME bankruptcy could result in losses different than the amounts recorded by Edison International and such amounts could be material.
+
+In February 2014, Edison International, EME and the Consenting Noteholders entered into a Settlement Agreement pursuant to which EME amended its Plan of Reorganization. The Amended Plan of Reorganization, including the Settlement Agreement, is subject to the approval of the Bankruptcy Court. See "Management Overview—EME Chapter 11 Bankruptcy Filing" for further information.
+
+Nuclear Decommissioning – Asset Retirement Obligation
+
+Key Assumptions and Approach Used. The liability to decommission SCE's nuclear power facilities is based on decommissioning studies performed in 2010 for Palo Verde and a 2013 updated decommissioning cost estimate for the retirement of both San Onofre Units 2 and 3. See "Management Overview—Permanent Retirement of San Onofre" for further discussion of the plans for decommissioning of San Onofre. The studies estimate that SCE will spend approximately $7.1 billion through 2053 to decommission San Onofre and Palo Verde. Decommissioning cost estimates are updated in each Nuclear Decommissioning Triennial Proceeding. The current ARO estimates for San Onofre and Palo Verde are based on the assumptions from these decommissioning studies:
+
+•Decommissioning Costs. The estimated costs for labor, dismantling and disposal costs, depth of site remediation, energy and miscellaneous costs.[DATA_TABLE_REMOVED]
+
+•Timing. Cost estimates for Palo Verde are based on an assumption that decommissioning will commence promptly after the current NRC operating licenses expire. The Palo Verde 1, 2, 3 operating licenses currently expire in 2045, 2046 and 2047 respectively. Cost estimates for San Onofre are based on an assumption that decommissioning will commence in 2014. For further information, see "Management Overview—Permanent Retirement of San Onofre."
+
+•Spent Fuel Dry Storage Costs. Cost estimates are based on an assumption that the DOE will begin to take spent fuel in 2024, and will remove the last spent fuel from the San Onofre and Palo Verde sites by 2051 and 2076, respectively. Costs for spent fuel monitoring are included until 2051 and 2076, respectively.
+
+•Changes in decommissioning technology, regulation, and economics. The current cost studies assume the use of current technologies under current regulations and at current cost levels. 
+
+Effect if Different Assumptions Used. The ARO for decommissioning SCE's nuclear facilities was $3.3 billion at December 31, 2013. As discussed in "Management Overview—Permanent Retirement of San Onofre" SCE expects to complete an updated site-specific decommissioning plan for San Onofre by the end of 2014 which once received may result in material revisions to the recorded ARO liability. Changes in the estimated costs or timing of decommissioning, or in the assumptions and judgments by management underlying these estimates, could cause material revisions to the estimated total cost to decommission these facilities which could have a material effect on the recorded liability and related regulatory asset. 
+
+The following table illustrates the increase to the ARO and regulatory asset if the escalation rate was adjusted while leaving all other assumptions constant:
+
+[DATA_TABLE_REMOVED]
+
+50
+
+Pensions and Postretirement Benefits Other than Pensions
+
+Nature of Estimate Required. Authoritative accounting guidance requires companies to recognize the overfunded or underfunded status of defined benefit pension and other postretirement plans as assets and liabilities in the balance sheet; the assets and/or liabilities are normally offset through other comprehensive income (loss). In accordance with authoritative guidance for rate-regulated enterprises, regulatory assets and liabilities are recorded instead of charges and credits to other comprehensive income (loss) for its postretirement benefit plans that are recoverable in utility rates. Edison International and SCE have a fiscal year-end measurement date for all of its postretirement plans.
+
+Key Assumptions of Approach Used. Pension and other postretirement obligations and the related effects on results of operations are calculated using actuarial models. Two critical assumptions, discount rate and expected return on assets, are important elements of plan expense and liability measurement. Additionally, health care cost trend rates are critical assumptions for postretirement health care plans. These critical assumptions are evaluated at least annually. Other assumptions, which require management judgment, such as rate of compensation increases, rates of retirement, mortality and turnover, are evaluated periodically and updated to reflect actual experience.
+
+As of December 31, 2013, Edison International's and SCE's pension plans had a $4.2 billion and $3.7 billion benefit obligation, respectively, and total 2013 expense for these plans was $188 million and $176 million, respectively. As of December 31, 2013, the benefit obligation for both Edison International's and SCE's PBOP plans was $2.2 billion and total 2013 expense for Edison International's and SCE's plans were $32 million and $31 million, respectively. Annual contributions made to most of SCE's pension plans are currently recovered through CPUC-approved regulatory mechanisms and are expected to be, at a minimum, equal to the related annual expense.
+
+Edison International and SCE used the following critical assumptions to determine expense for pension and other postretirement benefit for 2013:
+
+[DATA_TABLE_REMOVED]
+
+* Not applicable to pension plans.
+
+1 The discount rate enables Edison International and SCE to state expected future cash flows at a present value on the measurement date. Edison International and SCE select its discount rate by performing a yield curve analysis. This analysis determines the equivalent discount rate on projected cash flows, matching the timing and amount of expected benefit payments. The AON-Hewitt yield curve is considered in determining the discount rate.
+
+2 To determine the expected long-term rate of return on pension plan assets, current and expected asset allocations are considered, as well as historical and expected returns on plan assets. A portion of PBOP trusts asset returns are subject to taxation, so the 6.7% rate of return on plan assets above is determined on an after-tax basis. Actual time-weighted, annualized returns on the pension plan assets were 16.6%, 14.5% and 7.8% for the one-year, five-year and ten-year periods ended December 31, 2013, respectively. Actual time-weighted, annualized returns on the PBOP plan assets were 18.6%, 13.7%, and 6.5% over these same periods. Accounting principles provide that differences between expected and actual returns are recognized over the average future service of employees.[DATA_TABLE_REMOVED]
+
+Pension expense is recorded for SCE based on the amount funded to the trusts, as calculated using an actuarial method required for ratemaking purposes, in which the impact of market volatility on plan assets is recognized in earnings on a more gradual basis. Any difference between pension expense calculated in accordance with ratemaking methods and pension expense calculated in accordance with authoritative accounting guidance for pension is accumulated as a regulatory asset or liability, and is expected, over time, to be recovered from or returned to customers. As of December 31, 2013, this cumulative difference amounted to a regulatory asset of $177 million, meaning that the accounting method has recognized more in expense than the ratemaking method since implementation of authoritative guidance for employers' accounting for pensions in 1987.
+
+51
+
+As of December 31, 2013, Edison International and SCE both had unrecognized pension costs of $383 million, and unrecognized PBOP costs of $19 million and $15 million, respectively. The unrecognized pension and PBOP costs primarily consisted of the cumulative impact of the reduced discount rates on the respective benefit obligations and the cumulative difference between the expected and actual rate of return on plan assets. Of these deferred costs, $353 million of SCE's pension costs and $15 million of SCE's PBOP costs are recorded as regulatory assets, an offset to the underfunded liabilities of these plans, and will be amortized to expense over the average expected future service of employees.
+
+Edison International's and SCE's pension and PBOP plans are subject to limits established for federal tax deductibility. SCE funds its pension and PBOP plans in accordance with amounts allowed by the CPUC. Executive pension plans and competitive power generation PBOP plans have no plan assets.
+
+Effect if Different Assumptions Used. Changes in the estimated costs or timing of pension and other postretirement benefit obligations, or the assumptions and judgments used by management underlying these estimates, could have a material effect on the recorded expenses and liabilities. 
+
+The following table summarizes the increase or (decrease) to projected benefit obligation for pension and the accumulated benefit obligation for PBOP if the discount rate were changed while leaving all other assumptions constant:
+
+[DATA_TABLE_REMOVED]
+
+A one percentage point increase in the expected rate of return on pension plan assets would decrease both Edison International's and SCE's current year expense by $32 million and a one percentage point increase in the expected rate of return on PBOP plan assets would decrease both Edison International's and SCE's current year expense by $17 million.
+
+The following table summarizes the increase or (decrease) to accumulated benefit obligation and annual aggregate service and interest costs for PBOP if the health care cost trend rate was changed while leaving all other assumptions constant: 
+
+[DATA_TABLE_REMOVED]
+
+Income Taxes
+
+Nature of Estimates Required. As part of the process of preparing its consolidated financial statements, Edison International and SCE are required to estimate income taxes for each jurisdiction in which they operate. This process involves estimating actual current period tax expense together with assessing temporary differences resulting from differing treatment of items, such as depreciation, for tax and accounting purposes. These differences result in deferred tax assets and liabilities, which are included within Edison International and SCE's consolidated balance sheets, including net operating loss and tax credit carryforwards that can be used to reduce liabilities in future periods.
+
+Edison International and SCE takes certain tax positions they believe are in accordance with the applicable tax laws. However, these tax positions are subject to interpretation by the IRS, state tax authorities and the courts. Edison International and SCE determine uncertain tax positions in accordance with the authoritative guidance.
+
+Key Assumptions and Approach Used. Accounting for tax obligations requires management judgment. Edison International and SCE's management uses judgment in determining whether the evidence indicates it is more likely than not, based solely on the technical merits, that a tax position will be sustained, and to determine the amount of tax benefits to be recognized. Judgment is also used in determining the likelihood a tax position will be settled and possible settlement outcomes. In assessing uncertain tax positions Edison International and SCE consider, among others, the following factors: the facts and circumstances of the position, regulations, rulings, and case law, opinions or views of legal counsel and other advisers, and 
+
+52
+
+the experience gained from similar tax positions. Edison International and SCE's management evaluates uncertain tax positions at the end of each reporting period and makes adjustments when warranted based on changes in fact or law.
+
+Effect if Different Assumptions Used. Actual income taxes may differ from the estimated amounts which could have a significant impact on the liabilities, revenue and expenses recorded in the financial statements. Edison International and SCE continue to be under audit or subject to audit for multiple years in various jurisdictions. Significant judgment is required to determine the tax treatment of particular tax positions that involve interpretations of complex tax laws. A tax liability has been recorded with respect to tax positions in which the outcome is uncertain and the effect is estimable. Such liabilities are based on judgment and a final determination could take many years from the time the liability is recorded. Furthermore, settlement of tax positions included in open tax years may be resolved by compromises of tax positions based on current factors and business considerations that may result in material adjustments to income taxes previously estimated. 
+
+Application to Net Operating Loss and Tax Credit Carryforwards
+
+At December 31, 2013, Edison International has net operating losses and tax credit carryforwards of $2.2 billion. Under federal and California tax regulations, a tax deconsolidation of EME in future periods as provided for in EME's December Plan of Reorganization, would result in EME retaining a portion of such carryforward tax benefits and reducing the amounts that Edison International would be eligible to use in future periods. As a result, Edison International has recorded a valuation allowance equal to the estimated amount of such tax benefits as of December 31, 2013 as calculated under the applicable federal and California tax regulations.
+
+In February 2014, Edison International, EME and the Consenting Noteholders entered into a Settlement Agreement pursuant to which EME has amended its Plan of Reorganization. The Amended Plan of Reorganization, including the Settlement Agreement, is subject to the approval of the Bankruptcy Court. Under the Settlement Agreement, Edison International would retain all of EME’s carryforward tax benefits. As this agreement was entered into in 2014 and is subject to approval by the Bankruptcy Court, it is accounted for as a subsequent event under GAAP and not reflected in the 2013 financial statements (referred as a "Type II" subsequent event) and for which disclosure is required. See "Management Overview—EME Chapter 11 Bankruptcy Filing" for further information.
+
+NEW ACCOUNTING GUIDANCE
+
+New accounting guidance is discussed in "Item 8. Notes to Consolidated Financial Statements—Note 1. Summary of Significant Accounting Policies—New Accounting Guidance."
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK

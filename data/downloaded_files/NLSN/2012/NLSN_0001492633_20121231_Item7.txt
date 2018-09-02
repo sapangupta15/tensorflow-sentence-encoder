@@ -1,0 +1,757 @@
+Item 7. Managements Discussion and Analysis of Financial Condition and Results of Operations  
+
+Introduction  
+
+The following discussion and analysis should be read together with the accompanying consolidated financial statements and related notes thereto. Further, this report may contain material that includes forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 that reflect, when made, Nielsens current views with respect to current events and financial performance. These forward-looking statements are subject to numerous risks and uncertainties, including, but not limited to, those described in Item 1A. Risk Factors. Statements, other than those based on historical facts, which address activities, events or developments that we expect or anticipate may occur in the future are forward-looking statements. Such forward-looking statements are and will be, as the case may be, subject to many risks, uncertainties and factors relating to Nielsens operations and business environment that may cause actual results to be materially different from any future results, express or implied, by such forward-looking statements. See Cautionary Statement Regarding Forward Looking Statements in Part I of this Annual Report on Form 10-K. The terms Company, Nielsen, we, our or us, as used herein, refer to Nielsen Holdings N.V. and its consolidated subsidiaries unless otherwise stated or indicated by context.  
+
+Background and Executive Summary  
+
+On May 17, 2006, Nielsen, formerly known as Valcon Acquisition Holding B.V., was formed by investment funds associated with the Original Sponsors as a subsidiary of Valcon Acquisition Holding (Luxembourg) S.à r.l. (Luxco). On May 24, 2006, The Nielsen Company B.V. (TNC B.V.) (formerly VNU Group B.V. and VNU N.V.) was acquired through a tender offer to stockholders by Valcon Acquisition B.V. (Valcon), a wholly owned subsidiary of Nielsen (herein referred to as the Acquisition). The registered office of Nielsen is located in Diemen, the Netherlands, with our headquarters located in New York.  
+
+We are a global information and measurement company that provides clients with a comprehensive understanding of consumers and consumer behavior. We deliver critical media and marketing information, analytics and industry expertise about what consumers buy (referred to herein as Buy) and what consumers watch on a global and local basis (consumer interaction across the television, online and mobile viewing platforms referred to herein as Watch). Our information, insights and solutions help our clients maintain and strengthen their market positions and identify opportunities for profitable growth. We have a presence in approximately 100 countries, including many developing and emerging markets, and hold leading market positions in many of our services and geographies.  
+
+We believe that important measures of our results of operations include revenue, operating income and Adjusted EBITDA (defined below). Our long-term financial objectives include consistent revenue growth and expanding operating margins. Accordingly, we are focused on geographic market and service offering expansion to drive revenue growth and improving operating efficiencies including effective resource utilization, information technology leverage and overhead cost management.  
+
+Our business strategy is built upon a model that has traditionally yielded consistent revenue performance. Typically, before the start of each year, nearly 70% of our annual revenue has been committed under contracts in our combined Buy and Watch segments, which provides us with a high degree of stability to our revenue and allows us to effectively manage our profitability and cash flows. We continue to look for growth opportunities through global expansion, specifically within developing markets, as well as through the cross-platform expansion of our insights services and measurement services.  
+
+Our restructuring and other productivity initiatives have been focused on a combination of improving operating leverage through targeted cost-reduction programs, business process improvements and portfolio restructuring actions, while at the same time investing in key programs to enhance future growth opportunities.  
+
+29  
+
+Table of Contents 
+
+Achieving our business objectives requires us to manage a number of key risk areas. Our growth objective of geographic market and service expansion requires us to maintain the consistency and integrity of our information and underlying processes on a global scale, and to invest effectively our capital in technology and infrastructure to keep pace with our clients demands and our competitors. Our operating footprint across approximately 100 countries requires disciplined global and local resource management of internal and third party providers to ensure success. In addition, our high level of indebtedness requires active management of our debt profile, with a focus on underlying maturities, interest rate risk, liquidity and operating cash flows.  
+
+Business Segment Overview  
+
+We align our business into three reporting segments: what consumers buy (consumer purchasing measurement and analytics), what consumers watch (media audience measurement and analytics) and Expositions. Our Buy and Watch segments, which together generated substantially all of our revenues in 2012, are built on a foundation of proprietary data assets that are designed to yield essential insights for our clients to successfully measure, analyze and grow their businesses.  
+
+Our Buy segment provides Information services, which include our core tracking and scan data (primarily transactional measurement data and consumer behavior information), and Insights services (primarily comprised of our analytical solutions) to businesses in the consumer packaged goods industry. Our services also enable our clients to better manage their brands, uncover new sources of demand, launch and grow new products, analyze their sales, improve their marketing mix and establish more effective consumer relationships. Our data is used by our clients to measure their market share, tracking billions of sales transactions per month in retail outlets around the world. Our extensive database of retail and consumer information, combined with our advanced analytical capabilities, helps generate strategic insights that influence our clients key business decisions. Within our Buy segment, we have two primary geographic groups, developed and developing markets. Developed markets primarily include the United States, Canada, Western Europe, Japan and Australia while developing markets include Africa, Latin America, Eastern Europe, Russia, China, India and Southeast Asia.  
+
+Our Watch segment provides viewership data and analytics primarily to the media and advertising industries for television, online and mobile screens. Our Watch data is used by our media clients to understand their audiences, establish the value of their advertising inventory and maximize the value of their content, and by our advertising clients to plan and optimize their spending.  
+
+Our Expositions segment operates one of the largest portfolios of business-to-business trade shows and conference events in the United States. Each year, we produce more than 60 trade shows and conference events, which in 2012 connected over 335,000 buyers and sellers across 9 diversified and vibrant end markets.  
+
+Certain corporate costs, other than those described above, including those related to selling, finance, legal, human resources, and information technology systems, are considered operating costs and are allocated to our segments based on either the actual amount of costs incurred or on a basis consistent with the operations of the underlying segment.  
+
+Critical Accounting Policies  
+
+The discussion and analysis of our financial condition and results of operations is based on our consolidated financial statements, which have been prepared in accordance with U.S. generally accepted accounting principles (GAAP). The preparation of financial statements requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, revenues and expenses and the related disclosure of contingent assets and liabilities. The most significant of these estimates relate to: revenue recognition; business combinations including purchase price allocations; accruals for pension costs and other post-retirement benefits; accounting for income taxes; and valuation of long-lived assets including goodwill and indefinite-lived intangible assets, computer software and stock-based compensation. We base our estimates on historical experience and on  
+
+30  
+
+Table of Contents 
+
+ various other assumptions that we believe are reasonable under the circumstances, the results of which form the basis for making judgments about the valuation of assets and liabilities that are not readily apparent from other sources. We evaluate these estimates on an ongoing basis. Actual results could vary from these estimates under different assumptions or conditions. For a summary of the significant accounting policies, including critical accounting policies discussed below, see Note 1  Description of Business, Basis of Presentation and Significant Accounting Policies  to our consolidated financial statements.  
+
+Revenue Recognition  
+
+We recognize revenues when persuasive evidence of an arrangement exists, services have been rendered or information has been delivered, the fee is fixed or determinable and the collectibility of the related revenue is reasonably assured.  
+
+A significant portion of our revenue is generated from information (primarily retail measurement and consumer panel services) and measurement (primarily from television, internet and mobile audiences) services. We generally recognize revenue from the sale of services as the services are performed, which is usually ratably over the term of the contract(s). Invoiced amounts are recorded as deferred revenue until earned. Substantially all of our customer contracts are non-cancelable and non-refundable.  
+
+Certain of our revenue arrangements include multiple deliverables and in these arrangements, the individual deliverables within the contract that have stand-alone value to the customer are separated and recognized upon delivery based upon our best estimate of their selling prices. These arrangements are not significant to our results of operations. In certain cases, software is included as part of these arrangements to allow our customers to supplementally view delivered information and is provided for the term of the arrangement and is not significant to the marketing effort and is not sold separately. Accordingly, software provided to our customers is considered to be incidental to the arrangements and is not recognized as a separate element.  
+
+A discussion of our revenue recognition policies, by segment, follows:  
+
+Buy  
+
+Revenue from our Buy segment, primarily from retail measurement services and consumer panel services, is recognized over the period during which the services are performed and information is delivered to the customer, primarily on a straight-line basis.  
+
+We provide insights and solutions to customers through analytical studies that are recognized into revenue as value is delivered to the customer. The pattern of revenue recognition for these contracts varies depending on the terms of the individual contracts, and may be recognized proportionally or deferred until the end of the contract term and recognized when the information has been delivered to the customer.  
+
+Watch  
+
+Revenue from our Watch segment is primarily generated from television, internet and mobile measurement services and recognized on a straight-line basis over the contract period, as the service is delivered to the customer.  
+
+Expositions  
+
+Revenue and certain costs within our Expositions segment are recognized upon completion of each event.  
+
+31  
+
+Table of Contents 
+
+Stock-Based Compensation  
+
+Expense Recognition  
+
+Our stock-based compensation programs are comprised of both stock options and RSUs. We measure the cost of all stock-based payments, including stock options, at fair value on the grant date and recognize such costs within the consolidated statements of operations; however, no expense is recognized for stock-based payments that do not ultimately vest. We recognize expense associated with stock-based payments that vest upon a single date using the straight-line method. For those that vest over time, an accelerated graded vesting is used. We recorded $34 million, $27 million and $18 million of expense associated with stock-based compensation for the years ended December 31, 2012, 2011 and 2010, respectively. As of December 31, 2012, the aggregate grant date fair value of all outstanding vested and unvested options was $75 million and $62 million, respectively. As of December 31, 2012, approximately $16 million of unearned stock-based compensation related to unvested RSUs (net of estimated forfeitures) is expected to be recognized over a weighted average period of 3.4 years  
+
+Fair Value Measurement  
+
+Determining the fair value of stock-based awards at the grant date requires considerable judgment. Stock-based compensation expense for stock options is primarily based on the estimated grant date fair value using the Black-Scholes option pricing model, which considers factors such as estimating the expected term of stock options, expected volatility of our stock, and the number of stock-based awards expected to be forfeited due to future terminations. Some of the critical assumptions used in estimating the grant date fair value are presented in the table below:  
+
+  [DATA_TABLE_REMOVED] 
+
+In addition, for stock-based awards where vesting is dependent upon achieving certain operating performance goals, we estimate the likelihood of achieving the performance goals. Differences between actual results and these estimates could have a material effect on our financial results. We consider several factors in estimating the expected life of our options granted, including the expected lives used by a peer group of companies and the historical option exercise behavior of our employees, which we believe are representative of future behavior. Expected volatility has been based primarily on a combination of the estimates of implied volatility of our peer-group and our historical volatility adjusted for leverage. For grants subsequent to our initial public offering, implied volatility based on trading Nielsen call options is also considered in the calculation of expected volatility because it is considered representative of future stock price trends.  
+
+The assumptions used in calculating the fair value of stock-based awards represent our best estimates and, although we believe them to be reasonable, these estimates involve inherent uncertainties and the application of managements judgment. If factors change and we employ different assumptions in the application of our option-pricing model in future periods or if we experience different forfeiture rates, the compensation expense that is derived may differ significantly from what we have recorded in the current year.  
+
+Goodwill and Indefinite-Lived Intangible Assets  
+
+Goodwill and other indefinite-lived intangible assets are stated at historical cost less accumulated impairment losses, if any.  
+
+32  
+
+Table of Contents 
+
+Goodwill and other indefinite-lived intangible assets, consisting of certain trade names and trademarks, are each tested for impairment on an annual basis and whenever events or circumstances indicate that the carrying amount of such asset may not be recoverable. We have designated October 1st as the date in which the annual assessment is performed as this timing corresponds with the development of our formal budget and business plan review. We review the recoverability of our goodwill by comparing the estimated fair values of reporting units with their respective carrying amounts. We established, and continue to evaluate, our reporting units based on our internal reporting structure and generally define such reporting units at our operating segment level or one level below. The estimates of fair value of a reporting unit are determined using a combination of valuation techniques, primarily by an income approach using a discounted cash flow analysis and supplemented by a market-based approach.  
+
+A discounted cash flow analysis requires the use of various assumptions, including expectations of future cash flows, growth rates, discount rates and tax rates in developing the present value of future cash flow projections. Many of the factors used in assessing fair value are outside of the control of management, and these assumptions and estimates can change in future periods. Changes in assumptions or estimates could materially affect the determination of the fair value of a reporting unit, and therefore could affect the amount of potential impairment. The following assumptions are significant to our discounted cash flow analysis:  
+
+       Business projections  the assumptions of expected future cash flows and growth rates are based on assumptions about the level of business activity in the marketplace as well as applicable cost levels that drive our budget and business plans. The budget and business plans are updated at least annually and are frequently reviewed by management and our board of directors. Actual results of operations, cash flows and other factors will likely differ from the estimates used in our valuation, and it is possible that differences and changes could be material. A deterioration in profitability, adverse market conditions and a slower or weaker economic recovery than currently estimated by management could have a significant impact on the estimated fair value of our reporting units and could result in an impairment charge in the future. Should such events or circumstances arise, management would evaluate other options available at that time that, if executed, could result in future profitability.  
+
+       Long-term growth rates  the assumed long-term growth rate representing the expected rate at which a reporting units earnings stream, beyond that of the budget and business plan period, is projected to grow. These rates are used to calculate the terminal value, or value at the end of the future earnings stream, of our reporting units, and are added to the cash flows projected for the budget and business plan period. The long-term growth rate for each reporting unit is influenced by general market conditions as well as factors specific to the reporting unit such as the maturity of the underlying services. The long-term growth rates we used for our reporting units were between 2% and 4%.  
+
+       Discount rates  the reporting units combined future cash flows are discounted at a rate that is consistent with a weighted-average cost of capital that is likely to be used by market participants. The weighted-average cost of capital is our estimate of the overall after-tax rate of return required by equity and debt holders of a business enterprise. The discount rate for each reporting unit is influenced by general market conditions as well as factors specific to the reporting unit. The discount rates we used for our reporting units were between 8.0% and 15.0%.  
+
+These estimates and assumptions vary between each reporting unit depending on the facts and circumstances specific to that unit. We believe that the estimates and assumptions we made are reasonable, but they are susceptible to change from period to period.  
+
+We also use a market-based approach in estimating the fair value of our reporting units. The market-based approach utilizes available market comparisons such as indicative industry multiples that are applied to current year revenue and earnings as well as recent comparable transactions.  
+
+To validate the reasonableness of the reporting unit fair values, we reconcile the aggregate fair values of our reporting units to our enterprise market capitalization. Enterprise market capitalization includes, among other factors, the market value of our common stock and the appropriate redemption values of our debt.  
+
+33  
+
+Table of Contents 
+
+We did not have any indicators of impairment during the year ended December 31, 2012. The following table summarizes the results of the ten reporting units that were subject to the October 1, 2012 annual impairment testing and the related goodwill value associated with the reporting units for (a) fair values exceeding carrying values by less than 10%, (b) fair values exceeding carrying values between 10% and 20% and (c) fair values exceeding carrying values by more than 20%.  
+
+  [DATA_TABLE_REMOVED] 
+
+We perform sensitivity analyses on our assumptions, primarily around both long-term growth rate and discount rate assumptions. Our sensitivity analyses include several combinations of reasonably possible scenarios with regard to these assumptions. However, we consistently test a one percent movement in both our long-term growth rate and discount rate assumptions. When applying these sensitivity analyses, we noted that the fair value was less than the underlying book value for one of our reporting units with goodwill of approximately $109 million at October 1, 2012 (approximately 1.5% of our total goodwill).  
+
+Even though our sensitivity analyses, based upon reasonably possible adverse changes in assumptions as one of our reporting units showed a potential shortfall, we believe it was not reasonably likely that an impairment would occur in the next twelve months from that date as management has the ability to execute certain productivity and other actions in order to increase the results of operations and cash flows of our reporting units. While management believes that these sensitivity analyses provide a reasonable basis on which to evaluate the recovery of our goodwill, other facts or circumstances may arise that could impact the impairment assessment and therefore these analyses should not be used as a sole predictor of impairment.  
+
+The impairment test for other indefinite-lived intangible assets consists of a comparison of the fair value of the intangible asset with its carrying amount. If the carrying amount of the intangible asset exceeds its fair value, an impairment loss is recognized in an amount equal to that excess. The estimates of fair value of trade names and trademarks are determined using a relief from royalty discounted cash flow valuation methodology. Significant assumptions inherent in this methodology include estimates of royalty rates and discount rates. Discount rate assumptions are based on an assessment of the risk inherent in the respective intangible assets. Assumptions about royalty rates are based on the rates at which comparable trade names and trademarks are being licensed in the marketplace.  
+
+Pension Costs  
+
+We provide a number of retirement benefits to our employees, including defined benefit pension plans and post-retirement medical plans. Pension costs, in respect of defined benefit pension plans, primarily represent the increase in the actuarial present value of the obligation for pension benefits based on employee service during the year and the interest on this obligation in respect of employee service in previous years, net of the expected return on plan assets. Differences between this expected return and the actual return on these plan assets and actuarial changes are not recognized in the statement of operations, unless the accumulated differences and changes exceed a certain threshold. The excess is amortized and charged to the statement of operations over, at the maximum, the average remaining term of employee service. We recognize obligations for contributions to defined contribution pension plans as expenses in the statement of operations as they are incurred.  
+
+The determination of benefit obligations and expenses is based on actuarial models. In order to measure benefit costs and obligations using these models, critical assumptions are made with regard to the discount rate,  
+
+34  
+
+Table of Contents 
+
+ the expected return on plan assets and the assumed rate of compensation increases. We provide retiree medical benefits to a limited number of participants in the U.S. and have ceased to provide retiree health care benefits to certain of our Dutch retirees. Therefore, retiree medical care cost trend rates are not a significant driver of our post retirement costs. Management reviews these critical assumptions at least annually. Other assumptions involve demographic factors such as turnover, retirement and mortality rates. Management reviews these assumptions periodically and updates them as necessary.  
+
+The discount rate is the rate at which the benefit obligations could be effectively settled. For our U.S. plans, the discount rate is based on a bond portfolio that includes only long-term bonds with an Aa rating, or equivalent, from a major rating agency. For the Dutch and other non-U.S. plans, the discount rate is set by reference to market yields on high-quality corporate bonds. We believe the timing and amount of cash flows related to the bonds in these portfolios are expected to match the estimated payment benefit streams of our plans.  
+
+To determine the expected long-term rate of return on pension plan assets, we consider, for each country, the structure of the asset portfolio and the expected rates of return for each of the components. For our U.S. plans, a 50 basis point decrease in the expected return on assets would increase pension expense on our principal plans by approximately $1 million per year. A similar 50 basis point decrease in the expected return on assets would increase pension expense on our principal Dutch plans by approximately $3 million per year. We assumed that the weighted-averages of long-term returns on our pension plans were 6.2%, 6.3% and 6.5 % for the years ended December 31, 2012, 2011 and 2010, respectively. The actual return on plan assets will vary year to year from this assumption. Although the actual return on plan assets will vary from year to year, we believe it is appropriate to use long-term expected forecasts in selecting our expected return on plan assets. As such, there can be no assurance that our actual return on plan assets will approximate the long-term expected forecasts.  
+
+Income Taxes  
+
+We have a presence in approximately 100 countries. We have completed many material acquisitions and divestitures which have generated complex tax issues requiring management to use its judgment to make various tax determinations. We try to organize the affairs of our subsidiaries in a tax efficient manner, taking into consideration the jurisdictions in which we operate. Although we are confident that tax returns have been appropriately prepared and filed, there is risk that additional tax may be assessed on certain transactions or that the deductibility of certain expenditures may be disallowed for tax purposes. Our policy is to estimate tax risk to the best of our ability and provide accordingly for those risks and take positions in which a high degree of confidence exists that the tax treatment will be accepted by the tax authorities. The policy with respect to deferred taxation is to provide in full for temporary differences using the liability method.  
+
+Deferred tax assets and deferred tax liabilities are computed by assessing temporary differences resulting from differing treatment of items for tax and accounting purposes. The carrying value of deferred tax assets is adjusted by a valuation allowance to the extent that these deferred tax assets are not considered to be realized on a more likely than not basis. Realization of deferred tax assets is based, in part, on our judgment and various factors including reversal of deferred tax liabilities, our ability to generate future taxable income in jurisdictions where such assets have arisen and potential tax planning strategies. Valuation allowances are recorded in order to reduce the deferred tax assets to the amount expected to be realized in the future.  
+
+Long-Lived Assets  
+
+We are required to assess whether the value of our long-lived assets, including our buildings, improvements, technical and other equipment, and amortizable intangible assets have been impaired whenever events or changes in circumstances indicate that the carrying amount of the assets might not be recoverable. We do not perform a periodic assessment of assets for impairment in the absence of such information or indicators. Conditions that would necessitate an impairment assessment include a significant decline in the observable market value of an asset, a significant change in the extent or manner in which an asset is used or a significant adverse change that  
+
+35  
+
+Table of Contents 
+
+ would indicate that the carrying amount of an asset or group of assets is not recoverable. Recoverability of assets that are held and used is measured by comparing the sum of the future undiscounted cash flows expected to be derived from an asset (or a group of assets) to their carrying value. If the carrying value of the asset (or the group of assets) exceeds the sum of the future undiscounted cash flows, impairment is considered to exist. If impairment is considered to exist based on undiscounted cash flows, the impairment charge is measured using an estimation of the assets fair value, typically using a discounted cash flow method. The identification of impairment indicators, the estimation of future cash flows and the determination of fair values for assets (or groups of assets) requires us to make significant judgments concerning the identification and validation of impairment indicators, expected cash flows and applicable discount rates. These estimates are subject to revision as market conditions and our assessments change. No impairment indicators were noted for the years ended December 31, 2012, 2011 and 2010.  
+
+We capitalize software development costs with respect to major internal use software initiatives or enhancements. The costs are capitalized from the time that the preliminary project stage is completed, and we consider it probable that the software will be used to perform the function intended until the time the software is placed in service for its intended use. Once the software is placed in service, the capitalized costs are generally amortized over periods of three to seven years. If events or changes in circumstances indicate that the carrying value of software may not be recovered, a recoverability analysis is performed based on estimated undiscounted cash flows to be generated from the software in the future. If the analysis indicates that the carrying value is not recoverable from future cash flows, the software cost is written down to estimated fair value and an impairment is recognized. These estimates are subject to revision as market conditions and as our assessments change.  
+
+Factors Affecting Nielsens Financial Results  
+
+Acquisitions and Investments in Affiliates  
+
+For the year ended December 31, 2012, we paid cash consideration of $160 million associated with both current period and previously executed acquisitions, net of cash acquired. Had the current period acquisitions occurred as of January 1, 2012, the impact on our consolidated results of operations would not have been material.  
+
+For the year ended December 31, 2011, we paid cash consideration of $123 million associated with both current period and previously executed acquisitions, net of cash acquired. Had that periods acquisitions occurred as of January 1, 2011, the impact on our consolidated results of operations would not have been material.  
+
+For the year ended December 31, 2010, we paid cash consideration of $55 million associated with both current period and previously executed acquisitions, net of cash acquired. Had that periods acquisitions occurred as of January 1, 2010, the impact on our consolidated results of operations would not have been material.  
+
+Transactions with Sponsors  
+
+In connection with the Acquisition, certain of our subsidiaries and the Sponsors entered into Advisory Agreements (the Sponsor Advisory Agreements), which provided for an annual management fee, in connection with planning, strategy, oversight and support to management, and were payable quarterly and in advance to each Sponsor, on a pro rata basis, for the eight year duration of the agreements, as well as reimbursements for each Sponsors respective out-of-pocket expenses in connection with the management services provided under the agreement (the Sponsor Advisory Fees).  
+
+On January 31, 2011, each of our subsidiaries party to the Sponsor Advisory Agreements agreed, along with the Sponsors, to terminate all such agreements in exchange for a settlement of $102 million and we recorded a charge of $61 million (net of tax of $41 million). The pre-tax amount of this charge was recorded as a component of selling, general and administrative expenses in our consolidated statement of operations. We recorded $12 million in selling, general and administrative expenses related to management fees, travel and consulting attributable to a number of the Sponsors for the year ended December 31, 2010.  
+
+36  
+
+Table of Contents 
+
+Foreign Currency   
+
+Our financial results are reported in U.S. dollars and are therefore subject to the impact of movements in exchange rates on the translation of the financial information of individual businesses whose functional currencies are other than U.S. dollars. Our principal foreign exchange revenue exposure is spread across several currencies, primarily the Euro. The table below sets forth the profile of our revenue by principal currency.  
+
+  [DATA_TABLE_REMOVED] 
+
+As a result, fluctuations in the value of foreign currencies relative to the U.S. dollar impact our operating results. Impacts associated with fluctuations in foreign currency are discussed in more detail under Item 7A.Quantitative and Qualitative Disclosures about Market Risk. In countries with currencies other than the U.S. dollar, assets and liabilities are translated into U.S. dollars using end-of-period exchange rates; revenues, expenses and cash flows are translated using average rates of exchange. The average U.S. dollar to Euro exchange rate was $1.29 to 1.00, $1.39 to 1.00 and $1.33 to 1.00 for the years ended December 31, 2012, 2011 and 2010, respectively. Constant currency growth rates used in the following discussion of results of operations eliminate the impact of year-over-year foreign currency fluctuations.  
+
+We have operations in both our Buy and Watch segments in Venezuela and our functional currency for these operations was the Venezuelan bolivares fuertes. Venezuelas currency was considered hyperinflationary as of January 1, 2010 and further, in January 2010, Venezuelas currency was devalued and a new currency exchange rate system was announced. We evaluated the new exchange rate system and concluded that our local currency transactions will be denominated in U.S. dollars effective as of January 1, 2010 and until Venezuelas currency is deemed to be non-hyperinflationary. We recorded a charge of $7 million associated with the currency devaluation in January 2010 in our foreign exchange transaction (losses)/gains, net line item in the consolidated statement of operations. In June 2010, a further revision to the currency exchange rate system was made and in December 2010, the government of Venezuela eliminated the preferential exchange rate. Neither the impact of the hyperinflationary accounting or the subsequent changes to the exchange rate system had a material impact on our consolidated results of operations for the years ended December 31, 2012, 2011, or 2010.  
+
+In February 2013, Venezuelas currency was further devalued by 32%, which will result in a charge of approximately $12 million in the first quarter of 2013 in the foreign exchange transaction (losses)/gains, net line in the consolidated statement of operations.  
+
+We evaluate our results of operations on both an as reported and a constant currency basis. The constant currency presentation is a non-GAAP financial measure, which excludes the impact of fluctuations in foreign currency exchange rates. We believe providing constant currency information provides valuable supplemental information regarding our results of operations, consistent with how we evaluate our performance. We calculate constant currency percentages by converting our prior-period local currency financial results using the current period foreign currency exchange rates and comparing these adjusted amounts to our current period reported results. This calculation may differ from similarly-titled measures used by others and, accordingly, the constant currency presentation is not meant to be a substitution for recorded amounts presented in conformity with GAAP nor should such amounts be considered in isolation.  
+
+37  
+
+Table of Contents 
+
+Results of Operations  (Years Ended December 31, 2012, 2011 and 2010)  
+
+The following table sets forth, for the periods indicated, the amounts included in our Consolidated Statements of Operations:  
+
+  [DATA_TABLE_REMOVED] 
+
+Net Income to Adjusted EBITDA Reconciliation  
+
+We define Adjusted EBITDA as net income or loss from our consolidated statements of operations before interest income and expense, income taxes, depreciation and amortization, restructuring charges, goodwill and intangible asset impairment charges, stock-based compensation expense and other non-operating items from our consolidated statements of operations as well as certain other items specifically described below.  
+
+Adjusted EBITDA is not a presentation made in accordance with GAAP, and our use of the term Adjusted EBITDA may vary from the use of similarly-titled measures by others in our industry due to the potential inconsistencies in the method of calculation and differences due to items subject to interpretation.  
+
+We use Adjusted EBITDA to measure our performance from period to period both at the consolidated level as well as within our operating segments, to evaluate and fund incentive compensation programs and to compare our results to those of our competitors. In addition to Adjusted EBITDA being a significant measure of performance for management purposes, we also believe that this presentation provides useful information to investors regarding financial and business trends related to our results of operations and that when non-GAAP financial information is viewed with GAAP financial information, investors are provided with a more meaningful understanding of our ongoing operating performance.  
+
+Adjusted EBITDA should not be considered as an alternative to net income, operating income, cash flows from operating activities or any other performance measures derived in accordance with GAAP as measures of operating  
+
+38  
+
+Table of Contents 
+
+ performance or cash flows as measures of liquidity. Adjusted EBITDA has important limitations as an analytical tool and should not be considered in isolation or as a substitute for analysis of our results as reported under GAAP.  
+
+The below table presents a reconciliation from net income to Adjusted EBITDA for the years ended December 31, 2012, 2011 and 2010:  
+
+  [DATA_TABLE_REMOVED] 
+
+ (a) For the year ended December 31, 2012, other items consists primarily of deal related costs. For the year ended December 31, 2011, other items primarily consist of Sponsor Advisory Fees (including termination payments of $102 million), costs related to public offerings and other transaction-related costs. For the year ended December 31, 2010, other items primarily consist of Sponsor Advisory Fees of $12 million, Transformation Initiative and other dual running costs of $16 million and consulting and other costs of $16 million associated with information technology infrastructure transformation and fees associated with certain consulting arrangements.  
+
+Consolidated Results for the Year Ended December 31, 2012 Compared to the Year Ended December 31, 2011  
+
+Revenues  
+
+Revenues increased 1.4% to $5,612 million for the year ended December 31, 2012 from $5,532 million for the year ended December 31, 2011, or 3.9% on a constant currency basis, which excludes a 2.5% unfavorable impact of changes in foreign currency exchange rates. Revenues within our Buy segment increased 0.3% (3.9% on a constant currency basis) while revenues within our Watch segment increased 3.3% (4.3% on a constant currency basis), and revenues within our Expositions increased 2.2% (2.2% on a constant currency basis).  
+
+Cost of Revenues, Exclusive of Depreciation and Amortization  
+
+Cost of revenues increased 1.8% to $2,278 million for the year ended December 31, 2012 from $2,237 million for the year ended December 31, 2011, or 4.5% on a constant currency basis, excluding a 2.7% favorable impact of changes in foreign currency exchange rates. Costs within our Buy segment increased 3.1% (7.0% on a constant currency basis) due primarily to investments in the continued global expansion of our services and higher retail measurement costs, substantially offset by favorable impact of changes in foreign currency exchange rates. Costs within our Watch segment decreased 0.1% (an increase of 0.8% on a constant currency basis) as the impact of productivity initiatives and the favorable impact of foreign currency exchange rates offset increases in spending on product portfolio management initiatives. Corporate costs decreased by approximately $3 million in 2012 as compared to 2011 driven by cost savings initiatives.  
+
+39  
+
+Table of Contents 
+
+Selling, General and Administrative Expenses, Exclusive of Depreciation and Amortization  
+
+Selling, general and administrative (SG&A) expenses decreased 5.8% to $1,778 million for the year ended December 31, 2012 from $1,888 million for the year ended December 31, 2011, or a decrease of 3.5% on a constant currency basis, excluding a 2.3% favorable impact of changes in foreign currency exchange rates. Costs within our Buy segment decreased 1.9% (an increase of 1.3% on a constant currency basis) due primarily to the impact of productivity initiatives and the favorable impact of changes in foreign currency exchange rates, which more than offset increases in client service costs and other investments associated with the global expansion of our services. Costs within our Watch segment increased 1.9% (3.1% on a constant currency basis) due primarily to increased investment in product development initiatives. Corporate costs decreased by $88 million due to a $102 million charge for the termination and settlement of the Sponsor Advisory Agreements recorded in 2011 offset by higher deal related fees in 2012.  
+
+Depreciation and Amortization  
+
+Depreciation and amortization expense was $520 million for the year ended December 31, 2012 as compared to $529 million for the year ended December 31, 2011. Depreciation and amortization expense associated with tangible and intangibles assets acquired in business combinations decreased to $166 million for the year ended December 31, 2012 from $182 million for the year ended December 31, 2011 resulting from lower amortization on purchase price adjustments from the acquisition for certain assets that became fully amortized. The decline was primarily offset by increases in depreciation and amortization expense associated with the timing of capital expenditures versus the prior year.  
+
+Restructuring Charges  
+
+We recorded $84 million in restructuring charges for the year ended December 31, 2012, of which $5 million related to property lease termination charges with the remainder relating to severance costs associated with employee terminations.  
+
+We recorded $84 million in restructuring charges for the year ended December 31, 2011 primarily related to severance costs associated with employee terminations.  
+
+Operating Income  
+
+Operating income for the year ended December 31, 2012 was $952 million compared to operating income of $794 million for the year ended December 31, 2011. Operating income of $409 million for the year ended December 31, 2012 within our Buy segment decreased from $432 million for the year ended December 31, 2011. Operating income within our Watch segment of $537 million for the year ended December 31, 2012 increased from $462 million for the year ended December 31, 2011. Operating income within our Expositions segment was $72 million for the year ended December 31, 2012 as compared to $60 million for the year ended December 31, 2011. Corporate operating expenses decreased to $66 million for the year ended December 31, 2012 from $160 million for the year ended December 31, 2011.  
+
+Interest Expense  
+
+Interest expense was $413 million for the year ended December 31, 2012 compared to $477 million for the year ended December 31, 2011. The decline primarily related to the impact of debt retirements from our initial public offering of common stock in 2011, lower interest cost on our derivative instruments as well as our debt refinancing of our 11.50% Senior Notes and our 8.50% Senior Secured Term Loan with our 4.50% Senior Notes in the fourth quarter of 2012.  
+
+Foreign Currency Exchange Transaction (Losses)/Gains, Net  
+
+Foreign currency exchange transaction (losses)/gains, net, represent the net gain or loss on revaluation of external debt, intercompany loans and other receivables and payables. Fluctuations in the value of foreign  
+
+40  
+
+Table of Contents 
+
+ currencies relative to the U.S. Dollar, particularly the Euro, have a significant effect on our operating results. The average U.S. Dollar to Euro exchange rate was $1.29 to 1.00 for the year ended December 31, 2012 as compared to $1.39 to 1.00 for the year ended December 31, 2011.  
+
+We incurred $17 million and $9 million in foreign currency exchange losses for the year ended December 31, 2012 and 2011, respectively. The loss in 2012 resulted primarily from fluctuations in certain currencies associated with a portion of our intercompany loan portfolio. The loss in 2011 resulted primarily from fluctuations in certain currencies associated with a portion of our intercompany loan portfolio partially offset by the fluctuation in Japanese Yen as compared to the Euro applied to a debenture loan.  
+
+Other Expense, Net  
+
+The $118 million of other expense, net amount for the year ended December 31, 2012, consists of charges of $115 million associated with the redemption and retirement of our 11.50% Senior Notes due 2016 and the prepayment of our 8.50% Senior Secured Term Loan due 2017, a $6 million write-down of an investment in an equity security, and a $6 million charge associated with extinguishment of our term loan due in 2013, partially offset by a $10 million gain on the acquisition of a previously nonconsolidated business.  
+
+The $209 million of other expense, net amount for the year ended December 31, 2011 includes charges of $231 million associated with the redemption and subsequent retirement of certain indebtedness through the use of proceeds generated from our initial public offering of common stock and concurrent offering of mandatory convertible subordinated bonds. The charges related to the associated redemption premiums and recognition of previously deferred financing costs. These charges were partially offset by $10 million of other gains primarily related to an acquisition of the remaining interest of a previously nonconsolidated subsidiary and $12 million of other gains, primarily relating to the settlement of certain patent infringement matters.  
+
+Income from Continuing Operations Before Income Taxes and Equity in Net Income of Affiliates  
+
+Income was $408 million for the year ended December 31, 2012 compared to $104 million for the year ended December 31, 2011 due primarily to the consolidated results mentioned above.  
+
+Income Taxes  
+
+The effective tax rates for the years ended December 31, 2012 and 2011 were 34% and 21%, respectively.  
+
+The effective tax rate for the year ended December 31, 2012 was higher than the statutory expense rate due to the impact of distributions from foreign subsidiaries, tax rate differences in the other jurisdictions where we file tax returns, US state and local and other withholding taxes, offset by the favorable impact of certain financing activities, the net release of valuation allowances and changes in deferred tax rates. The effective tax rate for the year ended December 31, 2011 was lower than the statutory rate primarily due to the favorable effect of financing activities, release of valuation allowances and the impact of the tax rate differences in the other jurisdictions where we file tax returns.  
+
+At December 31, 2012 and 2011, we had uncertain tax positions of $100 million and $96 million, respectively. We also have accrued interest and penalties associated with these uncertain tax positions as of December 31, 2012 and 2011 of $40 million and $29 million, respectively.  
+
+Estimated interest and penalties related to the underpayment of income taxes is classified as a component of our provision or benefit for income taxes. It is reasonably possible that a reduction in a range of $6 million to $14 million of uncertain tax positions may occur within the next twelve months as a result of projected resolutions of worldwide tax disputes.  
+
+Our future effective tax rates could be adversely affected by earnings being lower than anticipated in countries where statutory rates are lower and earnings being higher than anticipated in countries where statutory rates are higher, by changes in the valuation of our deferred tax assets, or by changes in tax laws, regulations, accounting principles, or interpretations thereof.  
+
+41  
+
+Table of Contents 
+
+Adjusted EBITDA  
+
+Adjusted EBITDA increased 3.6% to $1,602 million for the year ended December 31, 2012 from $1,546 million for the year ended December 31, 2011, or 5.7% on a constant currency basis. Our Adjusted EBITDA margin increased to 28.55% for the year ended December 31, 2012 from 27.95% for the year ended December 31, 2011. See Results of Operations  (Years Ended December 31, 2012, 2011 and 2010) for the reconciliation of net income to Adjusted EBITDA.  
+
+Consolidated Results for the Year Ended December 31, 2011 Compared to the Year Ended December 31, 2010  
+
+Revenues  
+
+Our revenues increased 7.9% to $5,532 million for the year ended December 31, 2011 from $5,126 million for the year ended December 31, 2010, or 5.6% on a constant currency basis, which excludes a 2.3% favorable impact of changes in foreign currency exchange rates. These increases were driven by a 9.7% increase within our Buy segment (6.7% on a constant currency basis) and a 5.1% increase within our Watch segment (3.8% on a constant currency basis), and a 6.5% increase in our Expositions segment (6.5% on a constant currency basis).  
+
+Cost of Revenues, Exclusive of Depreciation and Amortization  
+
+Cost of revenues increased 5.1% to $2,237 million for the year ended December 31, 2011 from $2,129 million for the year ended December 31, 2010, or 2.8% on a constant currency basis, excluding a 2.3% unfavorable impact of changes in foreign currency exchange rates. These increases resulted from a 9.7% increase within our Buy segment (6.7% on a constant currency basis) due to the global expansion of our services. Costs within our Watch segment decreased 1.7% (3.2% on a constant currency basis) due primarily to productivity savings and product portfolio management initiatives in our Television measurement business. Corporate costs decreased by approximately $8 million in 2011 as compared to 2010 driven by cost savings initiatives.  
+
+Selling, General and Administrative Expenses, Exclusive of Depreciation and Amortization  
+
+Selling, general and administrative (SG&A) expenses increased 14.6% to $1,888 million for the year ended December 31, 2011 from $1,648 million for the year ended December 31, 2010, or 11.8% on a constant currency basis, excluding a 2.8% unfavorable impact of changes in foreign currency exchange rates. These increases were driven by an 11.4% increase within our Buy segment (8.3% on a constant currency basis) due to increases in data acquisition and client service costs associated with the global expansion of our services as well as a 7.4% increase within our Watch segment (5.5% on a constant currency basis) due to increased investment in audience measurement and advertiser solutions initiatives. Corporate costs increased by approximately $78 million primarily as a result of a $102 million charge for the termination and settlement of the Sponsor Advisory Agreements partially offset by cost savings initiatives.  
+
+Depreciation and Amortization  
+
+Depreciation and amortization expense was $529 million for the year ended December 31, 2011 as compared to $558 million for the year ended December 31, 2010. Depreciation and amortization expense associated with tangible and intangibles assets acquired in business combinations decreased to $182 million for the year ended December 31, 2011 from $215 million for the year ended December 31, 2010 resulting from lower amortization on purchase price adjustments from the Acquisition for certain software and other assets that became fully amortized. This decline was partially offset by increases in depreciation and amortization expense associated with additional capital expenditures and acquisitions.  
+
+Restructuring Charges  
+
+Other Productivity Initiatives  
+
+We recorded $84 million in restructuring charges associated with productivity initiatives during the year ended December 31, 2011. These amounts primarily related to severance charges associated with employee terminations.  
+
+42  
+
+Table of Contents 
+
+We recorded $70 million in restructuring charges associated with productivity initiatives during the year ended December 31, 2010. Of these amounts, approximately $11 million related to property lease termination charges with the remainder relating to severance charges associated with employee terminations.  
+
+Transformation Initiative  
+
+The Transformation Initiative has been completed in all aspects as of the year ended December 31, 2011. We recorded net credits of $9 million in restructuring charges, associated with adjustments to previously established liabilities for employee severance and other benefits for the year ended December 31, 2010.  
+
+Operating Income  
+
+Operating income for the year ended December 31, 2011 was $794 million compared to operating income of $730 million for the year ended December 31, 2010. Operating income of $432 million for the year ended December 31, 2011 within our Buy segment increased from $414 million for the year ended December 31, 2010. Operating income within our Watch segment of $462 million for the year ended December 31, 2011 increased from $367 million for the year ended December 31, 2010. Operating income within our Expositions segment was $60 million for the year ended December 31, 2011 as compared to $49 million for the year ended December 31, 2010. Corporate operating expenses increased to $160 million for the year ended December 31, 2011 from $100 million for the year ended December 31, 2010.  
+
+Interest Expense  
+
+Interest expense was $477 million for the year ended December 31, 2011 compared to $660 million for the year ended December 31, 2010. The decline related to the impact of debt retirements and lower interest cost on derivative instruments, partially offset by increases in interest cost associated with our senior secured term loans and from the issuance of our mandatory convertible subordinated bonds.  
+
+Loss on Derivative Instruments  
+
+The loss on derivative instruments was $1 million for the year ended December 31, 2011 compared to a loss of $27 million for the year ended December 31, 2010. The reduction in losses resulted from the maturity of $2.3 billion in notional amount of interest rate swaps between February 2010 and November 2010 for which hedge accounting was discontinued in February 2009.  
+
+Foreign Currency Exchange Transaction (Losses)/Gains, Net  
+
+Foreign currency exchange transaction (losses)/gains, net, represent the net gain or loss on revaluation of external debt, intercompany loans and other receivables and payables. Fluctuations in the value of foreign currencies relative to the U.S. Dollar have a significant effect on our operating results, particularly the Euro. The average U.S. Dollar to Euro exchange rate was $1.39 to 1.00 for the year ended December 31, 2011 as compared to $1.33 to 1.00 for the year ended December 31, 2010.  
+
+Foreign currency exchange resulted in a $9 million loss for the year ended December 31, 2011 compared to a gain of $136 million for the year ended December 31, 2010. The loss in 2011 resulted primarily from fluctuations in certain currencies associated with a portion of our intercompany loan portfolio and the fluctuation in Japanese Yen as compared to the Euro applied to our Japanese Yen denominated debenture. The gain in 2010 resulted primarily from the fluctuation in the value of the U.S. Dollar against the Euro applied to certain of our Euro-denominated senior secured term loans that were subsequently designated as net investment hedges and debentures that were subsequently retired as well as fluctuations in certain currencies including the Euro and Canadian dollar associated with a portion of our intercompany loan portfolio.  
+
+Other Expense, Net  
+
+Other expense, net of $209 million for the year ended December 31, 2011 includes charges of approximately $231 million associated with the redemption and subsequent retirement of certain indebtedness  
+
+43  
+
+Table of Contents 
+
+ through the use of proceeds generated from our initial public offering of common stock and concurrent offering of mandatory convertible subordinated bonds. The charges related to the associated redemption premiums and recognition of previously deferred financing costs. These charges were partially offset by $10 million of other gains primarily related to an acquisition of the remaining interest of a previously nonconsolidated subsidiary and $12 million of other gains, primarily relating to the settlement of patent infringement matters.  
+
+Other expense, net of $81 million for the year ended December 31, 2010 includes net charges of approximately $90 million associated with the redemption and subsequent retirement of all $870 million aggregate principal amount of our 10.00% Senior Notes due 2014 at a price of 105% of the principal amount redeemed as well as all 150 million aggregate principal amount of our 9% Senior Notes due 2014 at a price of 104.5% of the amount redeemed. The charges related to the associated redemption premiums and recognition of previously deferred financing costs. These charges were partially offset by gains attributable to business divestitures.  
+
+Income from Continuing Operations Before Income Taxes and Equity in Net Income of Affiliates  
+
+Income was $104 million for the year ended December 31, 2011 compared to $103 million for the year ended December 31, 2010.  
+
+Income Taxes  
+
+The effective tax rates for the years ended December 31, 2011 and 2010 were 21% and 45% (benefit), respectively. The effective tax rate for the year ended December 31, 2011 was lower than the statutory rate primarily due to the favorable effect of financing activities, release of valuation allowances and the impact of the tax rate differences in the other jurisdictions where we file tax returns, partially offset by withholding taxes and provision for uncertain tax positions. The effective tax rate benefit for the year ended December 31, 2010 was lower than the statutory rate primarily due to the favorable effect of certain foreign currency exchange gains, financing activities, release of valuation allowances and the impact of the tax rate differences in the other jurisdictions where we file tax returns, partially offset by withholding taxes.  
+
+At December 31, 2011 and 2010, we had uncertain tax positions of $96 million and $114 million, respectively. We also have accrued interest and penalties associated with these uncertain tax positions as of December 31, 2011 and 2010 of $29 million and $25 million, respectively. Estimated interest and penalties related to the underpayment of income taxes is classified as a component of our provision or benefit for income taxes. It is reasonably possible that a reduction in a range of $8 million to $19 million of uncertain tax positions may occur within the next twelve months as a result of projected resolutions of worldwide tax disputes.  
+
+Our future effective tax rates could be adversely affected by earnings being lower than anticipated in countries where statutory rates are lower and earnings being higher than anticipated in countries where statutory rates are higher, by changes in the valuation of our deferred tax assets, or by changes in tax laws, regulations, accounting principles, or interpretations thereof.  
+
+Equity in Net Income of Affiliates  
+
+Equity in net income of affiliates was $3 million for the year ended December 31, 2011 as compared to $5 million of income for the year ended December 31, 2010.  
+
+Adjusted EBITDA  
+
+Our Adjusted EBITDA increased 9.6% to $1,546 million for the year ended December 31, 2011 from $1,411 million for the year ended December 31, 2010, or 7.8% on a constant currency basis. Our Adjusted EBITDA margin increased to 27.95% for the year ended December 31, 2011 from 27.52% for the year ended December 31, 2010. See Results of Operations  (Years Ended December 31, 2012, 2011 and 2010) for the reconciliation of net income to Adjusted EBITDA.  
+
+44  
+
+Table of Contents 
+
+Business Segment Results for the Year Ended December 31, 2012 Compared to the Year Ended December 31, 2011  
+
+Revenues  
+
+The table below sets forth our segment revenue performance data for the year ended December 31, 2012 compared to the year ended December 31, 2011, both on an as-reported and constant currency basis.  
+
+  [DATA_TABLE_REMOVED] 
+
+Buy Segment Revenues  
+
+Revenues increased 0.3% to $3,420 million for the year ended December 31, 2012 from $3,409 million for the year ended December 31, 2011, or 3.9% on a constant currency basis. Revenues from Developing markets increased 1.3% (7.0% on a constant currency basis) and revenues from Developed markets decreased 0.1% for the period (an increase of 2.4% on a constant currency basis).  
+
+Revenues from Information services increased 2.4% to $2,595 million for the year ended December 31, 2012 from $2,534 million for the year ended December 31, 2011, or 6.3% on a constant currency basis, excluding a 3.9% unfavorable impact of changes in foreign currency exchange rates. Revenues from Developed markets increased 2.1% (4.9% on a constant currency basis) as growth in retail measurement services in North America was offset in part by a soft Western Europe market as well as the unfavorable impact of changes in foreign currency exchange rates. Revenues from Developing markets increased 3.0% during the period (an increase of 9.1% on a constant currency basis) as growth driven by the continued expansion of both our retail measurement and consumer panel services to both new and existing clients and new markets was substantially offset by the unfavorable impact of changes in foreign currency exchange rates.  
+
+Revenues from Insights services decreased 5.7% to $825 million for the year ended December 31, 2012 from $875 million for the year ended December 31, 2011, or a decrease of 3.1% on a constant currency basis, excluding a 2.6% unfavorable impact of changes in foreign currency exchange rates. Growth in North America of 2% was more than offset by the unfavorable impact of changes in foreign currency exchange rates and decreases in discretionary client spending in Western Europe.  
+
+Watch Segment Revenues  
+
+Revenues increased 3.3% to $2,009 million for the year ended December 31, 2012 from $1,944 million for the year ended December 31, 2011, or 4.3% on a constant currency basis. Television measurement grew 4.8% (5.4% on a constant currency basis) driven by increases in spending from both new and existing clients.  
+
+Expositions Segment Revenues  
+
+Revenues increased 2.2% to $183 million for the year ended December 31, 2012 from $179 million for the year ended December 31, 2011. These increases primarily relate to growth driven by certain sectors of existing shows.  
+
+45  
+
+Table of Contents 
+
+Business Segment Profitability   
+
+We do not allocate items below operating income/(loss) to our business segments and therefore the tables below set forth a reconciliation of operating income/(loss) at the business segment level for the years ended December 31, 2012 and 2011, adjusting for certain items affecting operating income/(loss), such as restructuring charges, depreciation and amortization, stock-based compensation expense and certain other items described below resulting in a presentation of our non-GAAP business segment profitability. Non-GAAP business segment profitability provides useful supplemental information to management and investors regarding financial and business trends related to our results of operations. When this non-GAAP financial information is viewed with our GAAP financial information, investors are provided with a meaningful understanding of our ongoing operating performance. It is important to note that the non-GAAP business segment profitability corresponds in total to our consolidated Adjusted EBITDA described within our consolidated results of operations above, which our chief operating decision making group and other members of management use to measure our performance from period to period both at the consolidated level as well as within our operating segments, to evaluate and fund incentive compensation programs and to compare our results to those of our competitors. These non-GAAP measures should not be considered as an alternative to net income, operating income, cash flows from operating activities or any other performance measures derived in accordance with GAAP as measures of operating performance or cash flows as measures of liquidity. These non-GAAP measures have important limitations as analytical tools and should not be considered in isolation or as a substitute for analysis of our results as reported under GAAP.  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1) For the year ended December 31, 2012, other items consists primarily of deal related costs. For the year ended December 31, 2011, other items primarily consist of Sponsor Advisory Fees (including termination payments of $102 million), costs related to public offerings and other transaction-related costs.  
+
+  [DATA_TABLE_REMOVED] 
+
+46  
+
+Table of Contents 
+
+Buy Segment Profitability  
+
+Operating income was $409 million for the year ended December 31, 2012 as compared to $432 million for the year ended December 31, 2011 as the increase in revenue mentioned above was more than offset by the unfavorable impact of changes in foreign currency exchange rates, investments in Developing markets expansion, increases in retail measurement costs, and higher depreciation and amortization expense. Non-GAAP business segment income increased 2.2% on a constant currency basis.  
+
+Watch Segment Profitability  
+
+Operating income was $537 million for the year ended December 31, 2012 as compared to $462 million for the year ended December 31, 2011. The increase was primarily driven by the revenue performance discussed above and decreased depreciation and amortization expense. This performance was offset in part by increased investment in audience measurement initiatives, the unfavorable impact of changes in foreign currency exchange rates and higher restructuring charges. Non-GAAP business segment income increased 8.4% on a constant currency basis.  
+
+Expositions Segment Profitability  
+
+Operating income was $72 million for the year ended December 31, 2012 as compared to $60 million for the year ended December 31, 2011 driven primarily by the revenue performance discussed above, as well as lower restructuring charges and depreciation and amortization expense. Non-GAAP business segment income increased 8.0% on a constant currency basis.  
+
+Corporate Expenses and Eliminations  
+
+Operating expenses were $66 million for the year ended December 31, 2012 as compared to $160 million for the year ended December 31, 2011 due primarily to the $102 million charge for the termination and settlement of the Sponsor Advisory Agreements in 2011, partially offset by additional deal related costs in 2012.  
+
+Business Segment Results for the Year Ended December 31, 2011 Compared to the Year Ended December 31, 2010  
+
+Revenues  
+
+The table below sets forth our segment revenue growth data for the year ended December 31, 2011 compared to the year ended December 31, 2010, both on an as-reported and constant currency basis.  
+
+  [DATA_TABLE_REMOVED] 
+
+Buy Segment Revenues  
+
+Revenues increased 9.7% to $3,409 million for the year ended December 31, 2011 from $3,108 million for the year ended December 31, 2010, or 6.7% on a constant currency basis driven by a 17.8% increase in Developing markets (15.0% on a constant currency basis) and a 6.1% increase in Developed markets (3.0% on a constant currency basis), as our customers continue to expand geographically and increase their spending on analytical services.  
+
+47  
+
+Table of Contents 
+
+Revenues from Information services increased 11.2% to $2,534 million for the year ended December 31, 2011 from $2,278 million for the year ended December 31, 2010, or 7.9% on a constant currency basis, excluding a 3.3% favorable impact of changes in foreign currency exchange rates. These increases were driven by 20.0% growth in Developing Markets (17.1% on a constant currency basis) as a result of continued expansion of both our retail measurement and consumer panel services to both new and existing customers and new markets. Revenue from Developed Markets increased 7.5% (4.0% on a constant currency basis) due primarily to growth in retail measurement services in North America from new and existing customers.  
+
+Revenues from Insights services increased 5.4% to $875 million for the year ended December 31, 2011 from $830 million for the year ended December 31, 2010, or 3.2% on a constant currency basis, excluding a 2.2% favorable impact of changes in foreign currency exchange rates. These increases were driven by strong growth in our Developing Markets due to increases in customer discretionary spending on new product forecasting and other analytical services, which can be cyclical in nature.  
+
+Watch Segment Revenues  
+
+Revenues increased 5.1% to $1,944 million for the year ended December 31, 2011 from $1,850 million for the year ended December 31, 2010, or 3.8% on a constant currency basis. Television measurement grew 4.7% driven by increases in spending from existing customers globally on both new and existing services.  
+
+Expositions Segment Revenues  
+
+Revenues increased 6.5% to $179 million for the year ended December 31, 2011 from $168 million for the year ended December 31, 2010. Substantially all of this growth was driven by increases in exhibitors for certain sectors of existing shows with the remaining growth driven by the impact of acquisitions, net of certain show closures.  
+
+48  
+
+Table of Contents 
+
+Business Segment Profitability  
+
+We do not allocate items below operating income/(loss) to our business segments and therefore the tables below set forth a reconciliation of operating income/(loss) at the business segment level for the years ended December 31, 2011 and 2010, adjusting for certain items affecting operating income/(loss), such as restructuring charges, depreciation and amortization, stock-based compensation expense and certain other items described below resulting in a presentation of our non-GAAP business segment profitability. Non-GAAP business segment profitability provides useful supplemental information to management and investors regarding financial and business trends related to our results of operations. When this non-GAAP financial information is viewed with our GAAP financial information, investors are provided with a meaningful understanding of our ongoing operating performance. It is important to note that the non-GAAP business segment profitability corresponds in total to our consolidated Adjusted EBITDA described within our consolidated results of operations above, which our chief operating decision making group and other members of management use to measure our performance from period to period both at the consolidated level as well as within our operating segments, to evaluate and fund incentive compensation programs and to compare our results to those of our competitors. These non-GAAP measures should not be considered as an alternative to net income, operating income, cash flows from operating activities or any other performance measures derived in accordance with GAAP as measures of operating performance or cash flows as measures of liquidity. These non-GAAP measures have important limitations as analytical tools and should not be considered in isolation or as a substitute for analysis of our results as reported under GAAP.  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1) Other items primarily consist of Sponsor Advisory Fees (including termination payments of $102 million), costs related to our initial public offering and other deal related fees for the year ended December 31, 2011. For the year ended December 31, 2010, other items include Transformation Initiative and other dual running costs of $16 million, consulting and other costs of $16 million associated with information technology infrastructure transformation, fees associated with certain consulting arrangements and preparatory costs for our initial public offering of common stock and sponsor monitoring fees of $12 million.  
+
+49  
+
+Table of Contents [DATA_TABLE_REMOVED] 
+
+Buy Segment Profitability.  
+
+Operating income was $432 million for the year ended December 31, 2011 as compared to $414 million for the year ended December 31, 2010 due primarily to the revenue performance mentioned above and the favorable impact of changes in foreign currency exchange rates. This performance was offset in part by higher restructuring charges and investments in Developing Markets expansion. Non-GAAP business segment income increased 3.6% on a constant currency basis.  
+
+Watch Segment Profitability  
+
+Operating income was $462 million for the year ended December 31, 2011 as compared to $367 million for the year ended December 31, 2010. The increase was driven by the revenue performance discussed above, the impact of productivity initiatives and the decrease in depreciation and amortization expense associated with technology infrastructure initiatives and Local People Meters. Non-GAAP business segment income increased 10.5% on a constant currency basis.  
+
+Expositions Segment Profitability  
+
+Operating income was $60 million for the year ended December 31, 2011 as compared to $49 million for the year ended December 31, 2010 driven primarily by the revenue performance discussed above, as well as lower depreciation expense. Non-GAAP business segment income increased 11.5% on a constant currency basis.  
+
+Corporate Expense and Eliminations.  
+
+Operating loss was $160 million for the year ended December 31, 2011 as compared to an operating loss of $100 million for the year ended December 31, 2010 due primarily to the $102 million charge for the termination and settlement of the Sponsor Advisory Agreement as well as certain costs attributable to the initial public offering of our common stock, offset by lower restructuring charges. Non-GAAP business segment loss decreased 19.2% on a constant currency basis.  
+
+Liquidity and Capital Resources  
+
+Overview  
+
+Our contractual obligations, commitments and debt service requirements over the next several years are significant. We expect that our primary source of liquidity will continue to be cash generated from operations as well as existing cash. At December 31, 2012, cash and cash equivalents were $288 million and our total indebtedness was $6,584 million. In addition, as of December 31, 2012 we had $622 million available for borrowing under our senior secured revolving credit facility. Our cash interest paid for the years ended December 31, 2012, 2011 and 2010 was $384 million, $446 million and $531 million, respectively.  
+
+Of the $288 million in cash and cash equivalents, approximately $265 million was held in jurisdictions outside the U.S. and as a result there may be tax consequences if such amounts were moved out of these  
+
+50  
+
+Table of Contents 
+
+ jurisdictions or repatriated to the U.S. We regularly review the amount of cash and cash equivalents held outside of the U.S. to determine the amounts necessary to fund the current operations of our foreign operations and their growth initiatives and amounts needed to service our U.S. indebtedness and related obligations.  
+
+We believe we will have available resources to meet both our short-term and long-term liquidity requirements, including our senior secured debt service. We expect the cash flow from our operations, combined with existing cash and amounts available under the revolving credit facility, will provide sufficient liquidity to fund our current obligations, projected working capital requirements, restructuring obligations, dividend payments and capital spending over the next year. In addition we may, from time to time, purchase, repay, redeem or retire any of our outstanding debt securities (including any publicly issued debt securities) in privately negotiated or open market transactions, by tender offer or otherwise.  
+
+2012 Capital Markets and Financing Transactions  
+
+In February 2012, our 30 million 6.75% EMTN matured and was repaid and in April 2012, our 50 million variable rate EMTN matured and was repaid.  
+
+In August 2006, certain of our subsidiaries entered into a senior secured credit agreement that was amended and restated in June 2010 (the Senior Secured Credit Agreement). In February 2012, the Senior Secured Credit Agreement was amended and restated to provide for a new five-year amortizing term loan facility in an aggregate principal amount of $1,222 million, the proceeds from which were used to repay a corresponding amount of the existing senior secured term loans due 2013. We accounted for this as a new term loan due 2017 and an extinguishment of the amounts repaid under the existing term loan due 2013 and recorded a charge of $6 million associated with the combined elements of this transaction as a component of other expense, net in our consolidated financial statements.  
+
+Borrowings under this new term loan facility bear interest at a rate as determined by the type of borrowing, equal to either the base rate or LIBOR rate, plus, in each case, an applicable margin. The applicable margin on base rate loans under this new term loan facility ranges from 0.75% to 1.50% based on a total leverage ratio. The applicable margin on LIBOR loans under this new term loan facility ranges from 1.75% to 2.50% based on the total leverage ratio. Loans under this new term loan facility mature in full in February 2017, but the maturity date shall be January 2016 if at such time there is more than $750 million in the aggregate of existing other term loans under the Senior Secured Credit Agreement with a maturity of May 2016. The loans under this new term loan facility are required to be repaid in an amount equal to 5% of the original principal amount in the first year after the closing date, 5% in the second year, 10% in the third year, 10% in the fourth year and 70% in the fifth year (with payments in each year being made in equal quarterly installments other than the fifth year, in which payments shall be equal to 3.33% of the original principal amount of loans in each of the first three quarters and the remaining principal balance due in February 2017 (unless repayment is required in January 2016 as indicated above)). Loans under this new term loan facility are secured on a pari passu basis with our existing obligations under the Senior Secured Credit Agreement and Senior Secured Loan Agreement.  
+
+In October 2012, we issued $800 million in aggregate principal amount of 4.50% Senior Notes due 2020 at par with cash proceeds of approximately $788 million, net of fees and expenses. Further, in October 2012, we redeemed and subsequently retired all of our 11.50% Senior Notes due 2016 and prepaid our 8.50% Senior Secured Term Loan due 2017. The redemption and prepayment transactions resulted in a pre-tax charge of $115 million in the fourth quarter of 2012 recorded in other expense, net in our consolidated statements of operations.  
+
+In November 2012, we entered into $500 million in aggregate notional amount of four-year interest rate swap agreements with starting dates in November 2012. These agreements fix the LIBOR related portion of interest rates of a corresponding amount of our variable-rate debt at an average rate of 0.57%. The commencement date of these interest rate swaps coincided with the $500 million aggregate notional amount of interest rate swaps that matured in November 2012. These derivative instruments have been designated as interest rate cash flow hedges.  
+
+51  
+
+Table of Contents 
+
+In December 2012, we signed a definitive agreement to acquire Arbitron Inc. (NYSE: ARB), an international media and marketing research firm, for $48 per share in cash (the Transaction). In addition, we entered into a commitment for an unsecured note or unsecured loan for up to $1,300 million (the Commitment Letter) to fund the closing of the Transaction. The Transaction has been approved by the board of directors of both companies and is subject to customary closing conditions, including regulatory review. As of December 31, 2012, there were no borrowings outstanding under the Commitment Letter.  
+
+Financing Transactions  
+
+Term Loan Facilities  
+
+In addition to the $1,222 million term loan facility due 2017, the Senior Secured Credit Agreement also provides for two term loan facilities of $1,610 million and 227 million maturing in 2013 and four term loan facilities, including two dollar-denominated term loan facilities totaling $2,386 million and two Euro-denominated term loan facilities totaling 273 million, maturing in 2016. Total outstanding borrowings under the facility were $4,090 million at December 31, 2012.  
+
+We are required to repay installments on the borrowings under the senior secured term loan facilities due 2016 in quarterly principal amounts of 0.25% of their original principal amount, with the remaining amount payable upon maturity.  
+
+Borrowings under the senior secured term loan facilities maturing in 2013 and 2016 bear interest at a rate as determined by the type of borrowing, equal to either (a) a base rate determined by reference to the higher of (1) the federal funds rate plus 0.5% or (2) the prime rate or (b) a LIBOR rate for the currency of such borrowings, plus, in each case, an applicable margin. The applicable margins for the senior secured term loans that mature in 2013 vary depending on our secured leverage ratio, from 2.00% to 2.25% in the case of LIBOR loans and from 1.00% to 1.25% in the case of base rate loans. The applicable margins for two of the senior secured term loans that mature in 2016 are set at a fixed rate of 3.75% in the case of LIBOR loans and 2.75% in the case of base rate loans, and the margin for the remaining 2016 term loans vary depending upon our total leverage and credit rating, from 3.25% to 3.75% in the case of LIBOR loans and from 2.25% to 2.75% in the case of base rate loans.  
+
+The Senior Secured Credit Agreement contains a number of covenants that, among other things, restrict, subject to certain exceptions, the ability of Nielsen Holding and Finance B.V. and its restricted subsidiaries (which together constitute most of our subsidiaries) to incur additional indebtedness or guarantees, incur liens and engage in sale and leaseback transactions, make certain loans and investments, declare dividends, make payments or redeem or repurchase capital stock, engage in certain mergers, acquisitions and other business combinations, prepay, redeem or purchase certain indebtedness, amend or otherwise alter terms of certain indebtedness, sell certain assets, transact with affiliates, enter into agreements limiting subsidiary distributions and alter the business they conduct. These entities are restricted, subject to certain exceptions, in their ability to transfer their net assets to Nielsen Holdings N.V. Such restricted net assets amounted to approximately $5.2 billion at December 31, 2012. In addition, these entities are required to maintain a maximum total leverage ratio and a minimum interest coverage ratio. Neither Nielsen Holdings nor TNC B.V. is currently bound by any financial or negative covenants contained in the credit agreement. The Senior Secured Credit Agreement also contain certain customary affirmative covenants and events of default. Certain significant financial covenants are described further below.  
+
+Obligations under the Senior Secured Credit Agreement are guaranteed by TNC B.V., substantially all of the wholly owned U.S. subsidiaries of TNC B.V. and certain of the non-U.S. wholly-owned subsidiaries of TNC B.V., and are secured by substantially all of the existing and future property and assets of the U.S. subsidiaries of TNC B.V. and by a pledge of substantially all of the capital stock of the guarantors, the capital stock of substantially all of the U.S. subsidiaries of TNC B.V., and up to 65% of the capital stock of certain of the non-U.S. subsidiaries of TNC B.V. Under a separate security agreement, substantially all of the assets of TNC B.V. are pledged as collateral for amounts outstanding under the senior secured credit facilities.  
+
+52  
+
+Table of Contents 
+
+Subsequent Event  
+
+In February 2013, the Company received the requisite lender consents to amend its Senior Secured Credit Agreement to allow for the replacement of its existing class A, B and C term loans with a new class of term loans. The amendment is expected to close during the first quarter of 2013, subject to customary closing conditions, and will be documented in an Amended and Restated Credit Agreement.  
+
+Revolving Credit Facility  
+
+The Senior Secured Credit Agreement also contains a senior secured revolving credit facility under which Nielsen Finance LLC, TNC (US) Holdings, Inc., and Nielsen Holding and Finance B.V. can borrow revolving loans. The revolving credit facility can also be used for letters of credit, guarantees and swingline loans. In March 2011, we amended the Senior Secured Credit Agreement to provide for the termination of the existing revolving credit commitments totaling $688 million, which had a final maturity date of August 2012, and their replacement with new revolving credit commitments totaling $635 million with a final maturity date of April 2016.  
+
+The senior secured revolving credit facility is provided under the Senior Secured Credit Agreement and so contains covenants and restrictions as noted above with respect to the Senior Secured Credit Agreement under the Term loan facilities section above. Obligations under the revolving credit facility are guaranteed by the same entities that guarantee obligations under the Senior Secured Credit Agreement and Senior Secured Loan Agreement.  
+
+As of December 31, 2012 and 2011, we had no borrowings outstanding, but had outstanding letters of credit of $13 million and $19 million, respectively. As of December 31, 2012, we had $622 million available for borrowing under the revolving credit facility.  
+
+Debenture Loans  
+
+The indentures governing certain of our debenture loans limit the majority of our subsidiaries ability to incur additional indebtedness, pay dividends or make other distributions or repurchase our capital stock, make certain investments, enter into certain types of transactions with affiliates, use assets as security in other transactions and sell certain assets or merge with or into other companies subject to certain exceptions. Upon a change in control, we are required to make an offer to redeem all of the Senior Notes at a redemption price equal to the 101% of the aggregate accreted principal amount plus accrued and unpaid interest. The Senior Notes are jointly and severally guaranteed by TNC B.V., substantially all of the wholly owned U.S. subsidiaries of TNC B.V., and certain of the non-U.S. wholly-owned subsidiaries of TNC B.V.  
+
+Overview of 2011 and 2010 Capital Markets and Financing Transactions  
+
+We entered into the following transactions during 2011:  
+
+       On January 31, 2011, we completed an initial public offering of 82,142,858 shares of our 0.07 par value common stock at a price of $23.00 per share, generating proceeds of approximately $1,801 million, net of $88 million of underwriter discounts.  
+
+Concurrent with our offering of common stock, we issued $288 million in aggregate principal amount of 6.25% Mandatory Convertible Subordinated Bonds due February 1, 2013 (the Bonds), generating proceeds of approximately $277 million, net of $11 million of underwriter discounts. Interest on the Bonds are payable quarterly in arrears in February, May, August and November of each year, commencing in May 2011. The Bonds were subject to mandatory conversion into 10,416,700 shares of our common stock on February 1, 2013 at a conversion rate of 1.8116 shares per $50.00 principal amount of the bonds.  
+
+We utilized substantially all of the combined net proceeds of approximately $2,078 million associated with the aforementioned transactions to settle certain advisory agreements with the Sponsors (See  
+
+53  
+
+Table of Contents 
+
+ Note 14 to our consolidated financial statements, Investments in Affiliates and Related Party Transactions for information regarding these advisory agreements) and redeem and retire certain issuances of our long-term indebtedness as follows:  
+
+       In February 2011, we paid approximately $201 million to redeem $164 million of our outstanding $467 million ($500 million aggregate principal amount) 11.50% Senior Discount Notes Due 2016 with a redemption cost of the stated rate applied to the principal amount being redeemed plus a proportionate amount of accrued interest to the principal amount.  
+
+       In February 2011, we paid approximately $129 million to redeem $107 million of our outstanding $307 million ($330 million aggregate principal amount) 11.625% Senior Discount Notes Due 2014 with a redemption cost of the stated rate applied to the principal amount being redeemed plus a proportionate amount of accrued interest to the principal amount.  
+
+       In February 2011, we paid approximately $1,133 million to redeem all of our outstanding $999 million ($1,070 million aggregate principal amount) 12.50% Senior Subordinated Discount Notes Due 2016 at a price of 105.89% of the aggregate principal amount.  
+
+       In February and March 2011, we paid approximately $495 million to redeem all of our outstanding 11.125% Senior Discount Debenture Notes due 2016 at a price of 104.87% of the aggregate principal amount.  
+
+We recorded a total debt extinguishment charge of approximately $145 million (net of tax of $86 million) in our consolidated statement of operations for the year ended December 31, 2011 associated with these redemptions. The pre-tax amount of this charge was recorded in other expense, net in the consolidated statements of operations.  
+
+       In March 2011, we entered into an amendment (the Amendment Agreement) to our Amended and Restated Credit Agreement, dated August 9, 2006 and amended and restated as of June 23, 2009 (the Credit Agreement), among us, the other borrowers and guarantors party thereto, the lenders and other parties from time to time party thereto, and Citibank, N.A., as administrative agent. The Amendment Agreement documents the terms of new revolving credit commitments obtained by us in connection with a revolving credit commitment extension offer. In connection with the Amendment Agreement, we terminated the existing revolving credit commitments totaling $688 million, which had a final maturity date of August 9, 2011, and replaced them with new revolving credit commitments totaling $635 million with a final maturity date of April 1, 2016.  
+
+       In August 2011, we entered into $250 million in aggregate notional amount of four-year forward interest swap agreements with starting dates in September 2011. These agreements fix the LIBOR-related portion of a corresponding amount of our variable-rate debt at an average rate of 0.84%. These derivative instruments have been designated as interest rate cash flow hedges.  
+
+       In November 2011, we entered into a $125 million notional amount and a 125 million notional amount of four-year interest rate swap agreements with starting dates in November 2011. These agreements fix the LIBOR and Euro LIBOR-related portion of interest rates of a corresponding amount of our variable-rate debt at a rate of 0.84% and 1.30%, respectively. These derivative instruments have been designated as interest rate cash flow hedges.  
+
+       In December 2011, Nielsens JPY 4,000 million 2.50% EMTN matured and was repaid.  
+
+       During 2011 we elected to permanently repay $287 million of our existing term loans due August 2013.  
+
+We entered into the following transactions during 2010:  
+
+       In March 2010, we entered into a three-year interest swap to fix the LIBOR-related portion of interest rates for $250 million of the our variable-rate debt at 1.69%. This swap replaced the $500 million  
+
+54  
+
+Table of Contents 
+
+     notional amount interest rate swap that matured on February 9, 2010. This derivative instrument has been designated as an interest rate cash flow hedge.  
+
+       In May 2010, our 50 million variable rate EMTN matured and was repaid.  
+
+       In August 2010, we completed a term loan extension offer in accordance with the terms of our 2006 Senior Secured Credit Facilities. In connection with completing the term loan extension offer and in order to document the terms of the new Class C term loans, as of such date we entered into an amendment to the 2006 Senior Secured Credit Facilities (the 2010 Amendment). Pursuant to the term loan extension offer and the 2010 Amendment, approximately $1,495 million of our Class A term loans (which mature August 2013) and approximately $5 million of our Class B term loans (which mature May 2016) were exchanged for the same principal amount of new Class C term loans. The new Class C term loans mature on May 1, 2016 and bear a tiered floating interest rate of LIBOR plus a margin of (x) 3.75% to the extent that Nielsen Finance LLCs Total Leverage Ratio (as defined in the 2006 Senior Secured Credit Facilities) is greater than 5.0 to 1.0 and (y) 3.50% to the extent that Nielsen Finance LLCs Total Leverage Ratio (as defined in the 2006 Senior Secured Credit Facilities) is less than or equal to 5.0 to 1.0. The foregoing margins are also subject to a decrease of 0.25% in the event and for so long as Nielsen Finance LLCs corporate credit and/or family rating, as applicable, from either S&P or Moodys is at least BB- or Ba3, respectively. The Class C term loans will amortize in equal quarterly installments in aggregate annual amounts equal to 1.00% of the original principal amount. No optional prepayments of Class C term loans may be made so long as any Class A or Class B term loans are outstanding. Except as set forth in the 2010 Amendment, the Class C term loans shall have the same terms as the Class B term loans.  
+
+       In October 2010, we issued $750 million in aggregate principal amount of 7.75% Senior Notes due 2018 at an issue price of $745 million with cash proceeds of approximately $731 million, net of fees and expenses. In November 2010, we issued an additional $330 million in aggregate principal amount of 7.75% Senior Notes due 2018 at an issue price of $340 million with cash proceeds of approximately $334 million, net of fees and expenses.  
+
+       We used the net proceeds from the aforementioned issuances, along with cash on hand, to fund a redemption of the remaining all of our 10% Senior Notes due 2014 at a price of 105% and all of our 9% Senior Notes due 2014 at a price of 104.5% in separate transactions in November and December 2010. The redemption and retirement of these notes resulted in a loss of approximately $90 million in the fourth quarter of 2010.  
+
+       In October and November 2010, we entered into an aggregate of $1 billion notional amount of three-year forward interest rate swap agreements with starting dates in November 2010. These agreements fix the LIBOR-related portion of interest rates of a corresponding amount of our variable-rate debt at an average rate of 0.72%. The commencement date of the interest rate swaps coincided with the $1 billion notional amount of interest rate swaps that matured in November 2010. Additionally, in November 2010 we entered into a $250 million notional amount three-year forward interest rate swap agreement with a starting date in November 2011, which fixes the LIBOR-related portion of interest rates of a corresponding amount of our variable-rate debt at a rate of 1.26%. These derivative instruments have been designated as interest rate cash flow hedges.  
+
+       We elected to permanently repay $75 million of our existing term loans due August 2013 during 2010.  
+
+Cash Flows 2012 versus 2011  
+
+Operating activities. Net cash provided by operating activities was $784 million for the year ended December 31, 2012, compared to $641 million for the year ended December 31, 2011. Net cash provided by operating activities for the year ended December 31, 2011 included the $102 million payment for the termination and settlement of the Sponsor Advisory Agreements. Excluding this payment, cash flows provided by operating activities increased $41 million as compared to the prior period. This increase was driven by the Adjusted  
+
+55  
+
+Table of Contents 
+
+ EBITDA performance described above and lower interest payments, substantially offset by the timing of vendor and employee payroll payments and timing of accounts receivable collections. Our key collections performance measure, days billing outstanding (DBO), increased by 1 day for the year ended December 31, 2012 compared to a 1 day decrease for the year ended December 31, 2011.  
+
+Investing activities. Net cash used in investing activities was $522 million for the year ended December 31, 2012, compared to $486 million for the year ended December 31, 2011. The primary driver for the increased usage of cash from investing activities was the increase in acquisition payments.  
+
+Financing activities. Net cash used in financing activities was $298 million for the year ended December 31, 2012, compared to $250 million for the year ended December 31, 2011. The use of cash is described under the 2012 Capital Markets and Financing Transactions and Financing Transactions sections above.  
+
+Cash Flows 2011 versus 2010  
+
+Operating activities. Net cash provided by operating activities was $641 million for the year ended December 31, 2011, compared to $543 million for the year ended December 31, 2010. The primary drivers for the increase in cash provided by operating activities was the growth in operating income excluding the impact of non-cash depreciation and amortization and lower interest payments. Our key collections performance measure, days billing outstanding (DBO), decreased by 1 day for the year ended December 31, 2011 compared to being relatively flat for the year ended December 31, 2010.  
+
+Investing activities. Net cash used in investing activities was $486 million for the year ended December 31, 2011, compared to $365 million for the year ended December 31, 2010. The drivers for the increase in the usage of cash from investing activities were the increase in acquisition payments and capital expenditures.  
+
+Financing activities. Net cash used in financing activities was $250 million for the year ended December 31, 2011, compared to $263 million for the year ended December 31, 2010. The use of cash in both periods is described under the Financing Transactions section above.  
+
+Capital Expenditures  
+
+Investments in property, plant, equipment, software and other assets totaled $358 million, $367 million and $334 million in 2012, 2011 and 2010, respectively. The decrease in capital expenditures related to significant investments in technology infrastructure development in 2011.  
+
+Dividends  
+
+No dividends were declared or paid on our common stock during 2012 or 2011. In September 2010, we declared a special dividend of approximately 6 million ($7 million) in the aggregate, or 0.02 per share, to its existing stockholders, $5 million of which was in the form of a non-cash settlement of loans we have previously extended to Luxco.  
+
+On January 31, 2013, our board of directors adopted a cash dividend policy with the present intent to pay quarterly cash dividends on our outstanding common stock. The board also declared the first quarterly cash dividend of $0.16 per share, to be paid on March 20, 2013 to holders of record of our common stock on March 6, 2013. Our dividend policy and the payment of future cash dividends are subject to the discretion of the board of directors.  
+
+Covenants Attributable to TNC B.V.  
+
+Financial covenants contained in our Credit Agreement consist of a maximum leverage ratio and a minimum interest coverage ratio as related to our indirect wholly-owned subsidiary, Nielsen Holding and Finance B.V. and its  
+
+56  
+
+Table of Contents 
+
+ restricted subsidiaries. The leverage ratio requires that we not permit the ratio of total net debt (as defined in the facility) at the end of any calendar quarter to Covenant EBITDA (as defined in the facility) for the four quarters then ended to exceed a specified threshold. The maximum permitted ratio is 6.25 to 1.0.  
+
+The interest coverage ratio requires that we not permit the ratio of Covenant EBITDA at the end of any calendar quarter to Consolidated Interest Expense (as defined in the Credit Agreement) for the four quarters then ended to be less than a specified threshold. The minimum permitted ratio is 1.50 to 1.0.  
+
+Failure to comply with either of these covenants would result in an event of default under our Credit Agreement unless waived by our senior credit lenders. An event of default under our Credit Agreement can result in the acceleration of our indebtedness under the facility, which in turn would result in an event of default and possible acceleration of indebtedness under the agreements governing our debt securities as well. As our failure to comply with the covenants described above can cause us to go into default under the agreements governing our indebtedness, management believes that our Credit Agreement and these covenants are material to us. As of December 31, 2012, we were in full compliance with the covenants described above.  
+
+Pursuant to our Credit Agreement, we are subject to making mandatory prepayments on the term loans within our Credit Agreement to the extent in any full calendar year we generate Excess Cash Flow (ECF), as defined in the Credit Agreement. The percentage of ECF that must be applied as a repayment is a function of several factors, including our ratio of total net debt to Covenant EBITDA, as well other adjustments, including any voluntary term loan repayments made in the course of the calendar year. To the extent any mandatory repayment is required pursuant to this ECF clause, such payment must generally occur on or around the time of the delivery of the annual consolidated financial statements to the lenders. At December 31, 2012, our ratio of total net debt to Covenant EBITDA was less than 5.00 to 1.00 and therefore no mandatory repayment was required. Our next ECF measurement date will occur upon completion of the 2013 results, and although the Company does not expect to be required to issue any mandatory repayments in 2014 or beyond, it is uncertain at this time if any such payments will be required in future periods.  
+
+Commitments and Contingencies  
+
+Outsourced Services Agreements  
+
+In February 2013, we amended our Amended and Restated Master Services Agreement (the MSA), dated as of October 1, 2007 with Tata America International Corporation and Tata Consultancy Services Limited (jointly, TCS). The term of the MSA has been extended for an additional three years, so as to expire on December 31, 2020, with a one-year renewal option granted to Nielsen. In addition, we have increased our commitment to purchase services from TCS (the Minimum Commitment) from $1.0 billion to $2.5 billion over the life of the contract (from October 1, 2007), including a commitment to purchase at least $100 million in services per year (the Annual Commitment). TCS charges under the separate Global Infrastructure Services Agreement between the parties will be credited against the Minimum Commitment and the Annual Commitment. TCS will globally provide us with professional services relating to information technology (including application development and maintenance), business process outsourcing, client service knowledge process outsourcing, management sciences, analytics, and financial planning and analytics. As we order specific services under the Agreement, the parties will execute Statements Of Work (SOWs) describing the specific scope of the services to be performed by TCS. The amount of the Minimum Commitment and the Annual Commitment may be reduced on the occurrence of certain events, some of which also provide us with the right to terminate the Agreement or SOWs, as applicable.  
+
+Other Contractual Obligations  
+
+Our other contractual obligations include capital lease obligations (including interest portion), facility leases, leases of certain computer and other equipment, agreements to purchase data and telecommunication services, the payment of principal and interest on debt and pension fund obligations.  
+
+57  
+
+Table of Contents 
+
+At December 31, 2012, the minimum annual payments under these agreements and other contracts that had initial or remaining non-cancelable terms in excess of one year are as listed in the following table. Due to the uncertainty with respect to the timing of future cash flows associated with our unrecognized tax benefits at December 31, 2012, we are unable to make reasonably reliable estimates of the timing of any potential cash settlements with the respective taxing authorities. Therefore, $140 million of unrecognized tax benefits (which includes interest and penalties of $40 million) have been excluded from the contractual obligations table below. See Note 13  Income Taxes  to the consolidated financial statements for a discussion on income taxes.  
+
+  [DATA_TABLE_REMOVED] 
+
+ (a) Other debt includes bank overdrafts of $5 million due within one year. These amounts exclude the $288 million of Mandatory Convertible Subordinated Bonds due February 1, 2013 as these bonds converted into shares of our common stock upon maturity and did not result in a cash payment of principal. Our short-term and long-term debt obligations, including capital lease and other financing obligations, are described in Note 10  Long-Term Debt and Other Financing Arrangements  to our consolidated financial statements.  
+
+ (b) Our operating lease obligations are described in Note 15  Commitments and Contingencies  to our consolidated financial statements.  
+
+ (c) Other contractual obligations represent obligations under agreement, which are not unilaterally cancelable by us, are legally enforceable and specify fixed or minimum amounts or quantities of goods or services at fixed or minimum prices. We generally require purchase orders for vendor and third party spending. The amounts presented above represent the minimum future annual services covered by purchase obligations including data processing, building maintenance, equipment purchasing, photocopiers, land and mobile telephone service, computer software and hardware maintenance, and outsourcing. Our remaining commitments as of December 31, 2012 under the outsourced services agreements with TCS have been included above on an estimated basis over the years within the contractual period in which we expect to satisfy our obligations. Since the amendment to the TCS agreement occurred after December 31, 2012, it is not reflected above.  
+
+ (d) Interest payments consist of interest on both fixed-rate and variable-rate debt based on LIBOR as of December 31, 2012. Interest payments associated with the $288 million of Mandatory Convertible Subordinated Bonds due February 1, 2013 have been included as it is assumed such payments will be made in cash.  
+
+ (e) Our contributions to pension and other post-retirement defined benefit plans were $64 million, $54 million and $30 million during 2012, 2011 and 2010, respectively. Future minimum pension and other post-retirement benefits contributions are not determinable for time periods after 2013. See Note 9  Pensions and Other Post-Retirement Benefits  to our consolidated financial statements for a discussion on plan obligations.  
+
+58  
+
+Table of Contents 
+
+Guarantees and Other Contingent Commitments  
+
+At December 31, 2012, we were committed under the following significant guarantee arrangements:  
+
+Sub-lease guarantees. We provide sub-lease guarantees in accordance with certain agreements pursuant to which we guarantee all rental payments upon default of rental payment by the sub-lessee. To date, we have not been required to perform under such arrangements, and do not anticipate making any significant payments related to such guarantees and, accordingly, no amounts have been recorded.  
+
+Letters of credit. Letters of credit issued and outstanding amount to $13 million at December 31, 2012.  
+
+Legal Proceedings and Contingencies  
+
+We are subject to litigation and other claims in the ordinary course of business, some of which include claims for substantial sums. Accruals have been recorded when the outcome is probable and can be reasonably estimated. While the ultimate results of claims and litigation cannot be determined, we expect that the ultimate disposition of these matters will not have a material adverse effect on our operations or financial condition. However, depending on the amount and the timing, an unfavorable resolution of some or all of these matters could materially affect our future results of operations or cash flows in a particular period.  
+
+Off-Balance Sheet Arrangements  
+
+Except as disclosed above, we have no off-balance sheet arrangements that currently have or are reasonably likely to have a material effect on our consolidated financial condition, changes in financial condition, results of operations, liquidity, capital expenditure or capital resources.  
+
+Summary of Recent Accounting Pronouncements  
+
+Fair Value Measurement  
+
+In May 2011, the Financial Accounting Standards Board (FASB) issued an accounting update that amends Accounting Standards Codification (ASC) 820Fair Value Measurement regarding fair value measurements and disclosure requirements. The amendments were effective for us as of January 1, 2012. The adoption of this update did not have a significant impact on our consolidated financial statements.  
+
+Presentation of Comprehensive Income  
+
+In June 2011, the FASB issued an accounting update that amends ASC 220Presentation of Comprehensive Income (ASC 220), which eliminates the option to present other comprehensive income and its components in the statement of equity. We have presented the items of net income and other comprehensive income in two separate but consecutive statements and this amended guidance did not have any other impact on our consolidated financial statements.  
+
+In February 2013, the FASB issued an accounting update that amends ASC 220, which requires public companies to present the effect of significant amounts reclassified from each component of accumulated other comprehensive income and the income statement line items affected by the reclassification on the face of the financial statements or in a single footnote. This amendment is effective for us for interim and annual reporting periods in 2013. The adoption of this update is not expected to have a significant impact on our consolidated financial statements.  
+
+Testing Goodwill and Indefinite-Lived Intangible Assets for Impairment  
+
+In September 2011 and July 2012, the FASB issued accounting updates that amend ASC 350Goodwill and Other Intangible Assets, which were intended to simplify impairment testing for goodwill and indefinite- 
+
+59  
+
+Table of Contents 
+
+ lived intangible assets by adding a qualitative review step to assess whether the previously required quantitative impairment analysis is necessary. The amended guidance permits an entity to first perform a qualitative assessment to determine whether it is more likely than not that the fair value of a reporting unit or an indefinite-lived intangible asset is less than its carrying value. If it is concluded that this is the case, it is necessary to perform the prescribed two-step impairment test. Otherwise, the two-step impairment test is not required. We considered the updated guidance in our October 1, 2012 annual impairment test. The adoption of these updates did not have an impact on our consolidated financial statements.  
+
+ Item 7A. Quantitative and Qualitative Disclosures About Market Risk

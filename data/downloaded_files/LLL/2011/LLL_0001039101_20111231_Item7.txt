@@ -1,0 +1,773 @@
+Item 7. Managements Discussion and Analysis of Financial Condition and Results of Operations  
+
+Financial Section Roadmap  
+
+Managements discussion and analysis (MD&A) can be found on pages 34 to 68, the report related to the financial statements and internal control over financial reporting can be found on page 69 and the financial statements and related notes can be found on pages F-1 to F-63. The following table is designed to assist in your review of MD&A.  
+
+  [DATA_TABLE_REMOVED] 
+
+34  
+
+Table of Contents 
+
+Overview and Outlook  
+
+L-3s Business  
+
+L-3 is a prime contractor in Command, Control, Communications, Intelligence, Surveillance and Reconnaissance (C3ISR) systems, aircraft modernization and maintenance, and government services. L-3 is also a leading provider of a broad range of electronic systems used on military and commercial platforms. Our customers include the United States (U.S.) Department of Defense (DoD) and its prime contractors, U.S. Government intelligence agencies, the U.S. Department of Homeland Security (DHS), U.S. Department of State (DoS), U.S. Department of Justice (DoJ), allied foreign governments, domestic and foreign commercial customers, and select other U.S. federal, state and local government agencies.  
+
+We have the following four reportable segments: (1) C3ISR, (2) Government Services, (3) Aircraft Modernization and Maintenance (AM&M), and (4) Electronic Systems. Financial information with respect to each of our segments is included in Note 22 to our audited consolidated financial statements. C3ISR provides products and services for the global ISR market, C3 systems, networked communications systems and secure communications products. We believe that these products and services are critical elements for a substantial number of major command, control and communication, intelligence gathering and space systems. These products and services are used to connect a variety of airborne, space, ground and sea-based communication systems and are used in the transmission, processing, recording, monitoring, and dissemination functions of these communication systems. Government Services provides a full range of systems engineering and technical assistance (SETA), training, operational support, cyber security, intelligence, enterprise IT and security solutions services to the DoD, DoS, DoJ, and U.S. Government intelligence agencies and allied foreign governments. AM&M provides modernization, upgrades and sustainment, maintenance and logistics support services for military and various government aircraft and other platforms. We sell these services primarily to the DoD, the Canadian Department of Defense and other allied foreign governments. Electronic Systems provides a broad range of products and services, including components, products, subsystems, systems, and related services to military and commercial customers in several niche markets across several business areas, including microwave, power & control systems, integrated sensor systems, aviation products, simulation & training, warrior systems, precision engagement, security & detection, space & propulsion, undersea warfare and marine services.  
+
+On July 28, 2011, we announced that our Board of Directors approved a plan to spin-off a new, independent government services company that will be publicly traded. The new public company will be named Engility Holdings, Inc. (Engility) and will include the SETA, training and operational support services businesses that are currently part of L-3s Government Services segment. See Spin-Off of Businesses that will comprise Engility below for additional information.  
+
+Due to re-alignments in our management and organizational structure during the quarter ended April 1, 2011, we made certain reclassifications among our C3ISR, Government Services and Electronic Systems segments. See Note 22 to our audited consolidated financial statements for the prior period sales, operating income and assets reclassified between segments.  
+
+35  
+
+Table of Contents 
+
+For the year ended December 31, 2011, we generated sales of $15,169 million. Our primary customer was the DoD. The table below presents a summary of our 2011 sales by end customer and the percent contributed by each to our total 2011 sales.  
+
+  [DATA_TABLE_REMOVED] 
+
+Most of our contracts (revenue arrangements) with the U.S. Government are subject to U.S. Defense Contract Audit Agency audits and various cost and pricing regulations, and include standard provisions for termination for the convenience of the U.S. Government. Multiyear U.S. Government contracts and related orders are subject to cancellation if funds for contract performance for any subsequent year become unavailable. Foreign government contracts generally include comparable provisions relating to termination for the convenience of the relevant foreign government.  
+
+Industry Considerations  
+
+As described above, sales to the DoD represent approximately 75% of our total sales. The U.S. Government fiscal year ends on September 30th. From fiscal year (FY) 2000 to FY 2010, the DoD budget, including wartime funding for Overseas Contingency Operations (OCO) grew at a compound annual rate of approximately 9%. The total DoD budget (base and OCO) for FY 2011 was approximately flat compared to fiscal year 2010. During the year ended December 31, 2011, the U.S. Government completed its drawdown of U.S. military troops from Iraq, and began to drawdown troops from Afghanistan, in accordance with the Obama Administration plan to complete the drawdown from Afghanistan by the end of 2014. While the U.S. is expected to maintain a presence in the Middle East to deter aggression and prevent the emergence of new threats, there will be a rebalance toward other regions of the world such as the Asia-Pacific theatre. In addition, the U.S. Government has been under increasing pressure to reduce the U.S. fiscal budget deficit and national spending.  
+
+In August 2011, Congress enacted the Budget Control Act of 2011 (the BCA). The BCA immediately imposes spending caps that contain approximately $487 billion in reductions to the DoD base budgets over the next ten years (FY 2012 to FY 2021), compared to previously proposed DoD base budgets for the same fiscal years. An automatic sequestration process was also triggered and becomes effective on January 3, 2013, unless modified by the enactment of new law. The sequestration process imposes additional cuts of approximately $50 billion per year to the currently proposed DoD budgets for each fiscal year beginning with FY 2013 through FY 2021, for which FY 2013 to FY 2017 proposed DoD budgets are presented below.  
+
+36  
+
+Table of Contents 
+
+On February 13, 2012, President Obama submitted his FY 2013 proposed budget (FY 2013 DoD Plan) to Congress. The FY 2013 DoD Plan complies with the first phase of the BCA imposed spending cuts. The FY 2013 DoD Plan reduces proposed DoD base budgets by $259 billion for FY 2013 to FY 2017, compared to the previously proposed DoD base budgets. The FY 2013 DoD Plan does not address or provision for the automatic sequestration process. The FY 2013 DoD Plan reflects a revised national security strategy that includes a more disciplined use of resources from: (1) various efficiency initiatives, (2) military force structure reductions, (3) equipment modernization savings, including program terminations, restructuring and deferrals, and (4) military personnel compensation changes. The table below presents the enacted DoD budget (base and OCO) for FY 2012 and the proposed DoD budgets for FY 2013 to FY 2017, as provided in the FY 2013 DoD Plan.  
+
+  [DATA_TABLE_REMOVED] 
+
+The FY 2013 DoD Plan is expected to continue to focus on advanced ISR (intelligence, surveillance and reconnaissance), communications, strike aircraft, precision-guided weapons, unmanned systems, networked information technologies, cyber security, special operations forces, missile defense and space programs, and generally, systems and capabilities that are critical to both conventional and irregular warfare, and the ability to project power in denied environments. We believe L-3 is well positioned to benefit from the DoDs focus in several of these areas. The declining DoD budgets, however, will reduce funding for some of our revenue arrangements and generally, will have a negative impact on our sales, results of operations and cash flows. Additionally, the planned withdrawal of U.S. military forces from Afghanistan by the end of 2014 is expected to negatively impact our sales related to supporting U.S. military operations in Afghanistan.  
+
+Key Performance Measures  
+
+The primary financial performance measures that L-3 uses to manage its businesses and monitor results of operations are sales trends and operating income trends. Management believes that these financial performance measures are the primary growth drivers for L-3s earnings per common share and net cash from operating activities. One of L-3s primary business objectives is to increase sales from organic growth and select business acquisitions. We define organic sales growth as the increase or decrease in sales for the current period compared to the prior period, excluding sales in the: (1) current period from business acquisitions that are included in L-3s actual results of operations for less than twelve months, and (2) prior period from business divestitures that are included in L-3s actual results of operations for the twelve-month period prior to the divestiture date. We expect to supplement our organic sales growth by selectively acquiring businesses that: (1) add important new technologies and products, (2) provide access to select customers, programs and contracts, and (3) provide attractive returns on investment. The two main determinants of our operating income growth are sales growth and improvements in direct and indirect contract costs. We define operating margin as operating income as a percentage of sales. Improving operating margins is one of several methods for growing earnings per common share and net cash from operating activities.  
+
+Sales Trends. For the year ended December 31, 2011, consolidated net sales of $15,169 million declined by 3.3%, comprised of an organic sales decline of 4.3%, partially offset by net sales from business acquisitions of 1.0%, compared to the year ended December 31, 2010. Our average annual sales growth for the five years ended December 31, 2011, was 4%, with average annual organic sales growth of approximately 3% and average annual sales growth from business acquisitions, net of divestitures, of approximately 1%.  
+
+37  
+
+Table of Contents 
+
+For the years ended December 31, 2011 and 2010, our largest contract (revenue arrangement) in terms of annual sales was the Fort Rucker Maintenance Support contract with the U.S. Army Aviation and Missile Command, which is included in our AM&M segment. Under this contract, which generated approximately 3% of our 2011 and 2010 sales, we provide maintenance and logistical support services for rotary wing aircraft assigned to Fort Rucker and satellite units in Alabama. The current contract is expected to end on September 30, 2012. We submitted our proposal in November 2011 for the contract re-competition and anticipate the award will be made by August 2012. We cannot provide any assurance that we will win the re-competition of the Fort Rucker Maintenance support contract.  
+
+The Special Operations Forces Support Activity (SOFSA) contract, which was included in our AM&M segment, generated $332 million of sales for the year ended December 31, 2010. In June 2010, the follow-on contract was awarded to another contractor and the transition to the successor contractor ended in October 2010.  
+
+Our sales trends are highly correlated to DoD budgets because we derive approximately 75% of our annual sales from the DoD. The currently proposed DoD base and OCO budgets are a function of several factors beyond our control, including, but not limited to, changes in U.S. procurement policies, budget considerations, current and future economic conditions, presidential administration priorities, changing national security and defense requirements, geo-political developments and actual fiscal year congressional appropriations for defense budgets. Any of these factors could result in a significant decline in or redirection of current and future DoD budgets and impact L-3s future results of operations, including our sales and operating income growth rates. Additionally, L-3s future results of operations will be affected by our ability to retain our existing business and to successfully compete for new business, which largely depend on: (1) our successful performance on existing contracts, (2) the effectiveness and innovation of our technologies and research and development activities, (3) our ability to offer better program performance than our competitors at an affordable cost, and (4) our ability to retain our employees and hire new ones, particularly those employees who have U.S. Government security clearances.  
+
+Operating Income Trends. For the year ended December 31, 2011, our consolidated operating income was $1,598 million and our consolidated operating margin was 10.5%. Our consolidated operating income and consolidated operating margin for the year ended December 31, 2011 were reduced by a non-cash goodwill impairment charge of $43 million recorded in the 2011 fourth quarter, as further discussed below. The goodwill impairment charge is excluded from segment operating income because it was excluded by management for purposes of assessing segment operating performance. Our segment operating income was $1,641 million for the year ended December 31, 2011, a decrease of 6% from $1,750 million for the year ended December 31, 2010, and our segment operating margin was 10.8% for the year ended December 31, 2011, a decrease of 40 basis points from 11.2% for the year ended December 31, 2010. See Results of Operations, including segment results below for a discussion of operating margin.  
+
+We are focused on increasing operating margin, to the extent possible, by reducing our indirect costs and improving our overall contract performance. Our 2011 operating margin was lower than our 2010 operating margin and we expect our 2012 annual operating margin to decline as compared to 2011. While we are taking action to increase operating margin, we may not be able to do so in the future. Furthermore, in the future, select business acquisitions and select new business, including contract renewals and new contracts, could have lower operating margins than L-3s operating margin on existing business and contracts. Changes in the competitive environment and DoD procurement practices and reductions in our consolidated sales levels could also result in lower operating margin.  
+
+Spin-Off of Businesses that will comprise Engility  
+
+As previously discussed, we plan to spin-off a part of our Government Services segment into a new, independent company that will be publicly traded. The new public company will be named Engility. The spin-off, which is intended to be tax-free to L-3 and its shareholders, is expected to be completed in the first half of 2012. Upon completion, L-3 shareholders will own 100% of the shares of both L-3 and Engility. The spin-off is not subject to a shareholder vote.  
+
+38  
+
+Table of Contents 
+
+Under the plan, Engility will include the SETA, training and operational support services businesses that are currently part of L-3s Government Services segment. For the year ended December 31, 2011, the businesses that will comprise Engility had sales of approximately $2.0 billion, or 56% of total Government Services net sales, and operating income of approximately $178 million, or 64% of total Government Services operating income. The businesses that will comprise Engility had approximately 9,000 employees at December 31, 2011.  
+
+L-3 will retain the cyber security, intelligence, enterprise IT and security solutions businesses that are also part of L-3s Government Services segment. The Government Services segment will be renamed National Security Solutions (NSS) upon completion of the spin-off, and will continue to leverage synergies across L-3 to develop unique solutions to address growing challenges for our DoD, intelligence and global security customers. During the year ended December 31, 2011, L-3s businesses that will comprise NSS had sales of approximately $1.6 billion, or 44% of total Government Services net sales, and operating income of approximately $102 million, or 36% of total Government Services operating income.  
+
+The completion of the spin-off is subject to certain customary conditions, including filing of required documents with the SEC, and an opinion of counsel as to the satisfaction of certain requirements necessary for the spin-off to receive tax-free treatment upon which the IRS does not rule, which is expected to be received immediately prior to the completion of the spin-off transaction. There can be no assurance that any separation transaction will ultimately occur, or if one does occur, its terms or timing.  
+
+Other 2011 Events  
+
+Our 2011 results were impacted by the items discussed below, which increased net income attributable to L-3 by $28 million and diluted earnings per share by $0.26 (collectively referred to as the Q4 2011 Items):  
+
+       A tax benefit of $78 million, or $0.74 of diluted earnings per share, for a net reversal of amounts previously accrued related to tax years for which the statutes of limitations expired; and  
+
+       Non-cash impairment charges of $57 million ($50 million after income taxes), or $0.48 of diluted earnings per share. The impairment charges include: (1) a goodwill impairment charge of $43 million, ($42 million after income taxes), or $0.40 per diluted share, which is included in operating income and (2) $14 million, ($8 million after income taxes), or $0.08 per diluted share, which is included in interest and other income, net, for our portion of an impairment charge for long-lived assets at an equity method investment. The goodwill impairment charge was due to a decline in the estimated fair value of the Marine Services business, which is part of the Electronic Systems segment, as a result of a decline in its projected future cash flows.  
+
+Debt Repurchases, Issuances and Redemptions. On February 2, 2011, we repurchased approximately $11 million of our CODES as a result of the exercise by the holders of their contractual right to require us to repurchase their CODES.  
+
+On February 7, 2011, L-3 Communications issued $650 million in principal amount of 4.95% Senior Notes that mature on February 15, 2021 (2021 Senior Notes). The 2021 Senior Notes were issued at a discount of $4 million. On March 9, 2011, the net cash proceeds from this offering, together with cash on hand, were used to redeem L-3 Communications $650 million 57/8% Senior Subordinated Notes due January 15, 2015 (57/8% 2015 Notes). In connection with the redemption of the 57/8% 2015 Notes, we recorded a debt retirement charge of $18 million ($11 million after income taxes, or $0.10 per diluted share).  
+
+On November 22, 2011, L-3 Communications issued $500 million in principal amount of 3.95% Senior Notes that mature on November 15, 2016 (2016 Senior Notes). The 2016 Senior Notes were issued at a discount of $4 million. On December 22, 2011, the net proceeds from this offering, together with cash on hand, were used to redeem $500 million of L-3 Communications 63/8% Senior Subordinated Notes due 2015 (63/8% 2015 Notes). In connection with the redemption of the 63/8% 2015 Notes, we recorded a debt retirement charge of $17 million ($10 million after income tax, or $0.10 per diluted share).  
+
+39  
+
+Table of Contents 
+
+Business Acquisitions and Dispositions  
+
+As discussed above, one aspect of our strategy is to selectively acquire businesses that add new products and technologies, or provide access to select customers, programs and contracts. We intend to continue acquiring select businesses for reasonable valuations that will provide attractive returns to L-3. Our business acquisitions, depending on their contract-type, sales mix or other factors, could reduce L-3s consolidated operating margin while still increasing L-3s operating income, earnings per share, and net cash from operating activities. In addition, we may also dispose of certain businesses if we determine that they no longer fit into L-3s overall business strategy and we are able to receive an attractive price.  
+
+Business Acquisitions and Divestitures  
+
+Acquisitions. The table below summarizes the acquisitions that we have completed during the years ended December 31, 2009, 2010 and 2011, referred to herein as business acquisitions. See Note 4 to our audited consolidated financial statements for further information regarding our business acquisitions. During the year ended December 31, 2011, we used $20 million of cash for business acquisitions, including earnout payments for certain business acquisitions completed prior to January 1, 2011.  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1)   The purchase price represents the contractual consideration for the acquired business, excluding adjustments for net cash acquired and acquisition transaction costs.  
+
+ (2)   Includes additional purchase price of approximately $4 million for certain acquired tax benefits.  
+
+ (3)   Excludes additional purchase price, not to exceed $11 million, which is contingent upon the post acquisition financial performance of 3Di through December 31, 2012.  
+
+ (4)   The final purchase price is subject to adjustment based on the closing date actual net assets.  
+
+ (5)   Excludes additional purchase price, not to exceed $10 million, which is contingent upon the post acquisition financial performance of DNI through December 31, 2014.  
+
+All of our business acquisitions are included in our consolidated results of operations from their dates of acquisition. We regularly evaluate potential business acquisitions. On February 6, 2012, we acquired the Kollmorgen Electro-Optical (KEO) business of Danaher Corporation for a purchase price of $210 million, which was financed with cash on hand. KEO develops and manufactures specialized equipment, including submarine photonics systems and periscopes, ship fire control systems, visual landing aids, ground electro-optical and sensor-cueing systems for the U.S. military and allied foreign governments.  
+
+40  
+
+Table of Contents 
+
+Divestitures. On February 22, 2011, we divested Microdyne Corporation (Microdyne) and on December 17, 2010, we divested InfraredVision Technology Corporation (ITC), both of which were within the Electronic Systems segment. These divestiture transactions resulted in pre-tax losses of approximately $2 million for Microdyne and $1 million for ITC. Microdynes and ITCs annual revenues (approximately $8 million and $4 million, respectively), pre-tax income and net assets were not material for any period presented, and, therefore, these divestitures are not reported as discontinued operations.  
+
+Critical Accounting Policies  
+
+Our significant accounting policies are described in Note 2 to our audited consolidated financial statements. The preparation of financial statements in conformity with accounting principles generally accepted in the United States of America (U.S. GAAP) requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of sales and cost of sales during the reporting period. The most significant of these estimates and assumptions relate to contract revenue, profit and loss recognition, fair values of assets acquired and liabilities assumed in business combinations, market values for inventories reported at lower of cost or market, pension and post-retirement benefit obligations, stock-based employee compensation expense, income taxes, including the valuations of deferred tax assets, litigation reserves and environmental obligations, accrued product warranty costs and the recoverability, useful lives and valuation of recorded amounts of long-lived assets, identifiable intangible assets and goodwill. Changes in estimates are reflected in the period during which they become known. Actual amounts will differ from these estimates and could differ materially. We believe that our critical accounting estimates have the following attributes: (1) we are required to make assumptions about matters that are uncertain and inherently judgmental at the time of the estimate; (2) use of reasonably different assumptions could have changed our estimates, particularly with respect to estimates of contract revenues and costs, and recoverability of assets, and (3) changes in the estimate could have a material effect on our financial condition or results of operations. We believe the following critical accounting policies contain the more significant judgments and estimates used in the preparation of our financial statements.  
+
+Contract Revenue Recognition and Contract Estimates. Approximately 40% of our consolidated net sales are generated from contracts (revenue arrangements) that require us to design, develop, manufacture, modify, upgrade, test and integrate complex aerospace and electronic equipment, and to provide related engineering and technical services according to the buyers specifications. These revenue arrangements or contracts are generally fixed price, cost-plus, or time-and-material and are covered by accounting standards for construction-type and production-type contracts and federal government contractors. Substantially all of our cost-plus type and time-and-material type contracts are with the U.S. Government, primarily the DoD. Certain of our contracts with the U.S. Government are multi-year contracts that are funded annually by the customer, and sales on these multi-year contracts are based on amounts appropriated (funded) by the U.S. Government. Our remaining sales are accounted for in accordance with accounting standards for revenue arrangements with commercial customers.  
+
+Sales and profits on fixed-price type contracts that are covered by accounting standards for construction-type and production-type contracts and federal government contractors are substantially recognized using percentage-of- completion (POC) methods of accounting. Sales on such contracts represent approximately 30% of our consolidated net sales. Sales and profits on fixed-price production contracts under which units are produced and delivered in a continuous or sequential process are recorded as units are delivered based on their contractual selling prices (the units-of-delivery method). Sales and profits on each fixed-price production contract under which units are not produced and delivered in a continuous or sequential process, or under which a relatively few number of units are produced, are recorded based on the ratio of actual cumulative costs incurred to total estimated costs at completion of the contract multiplied by the total estimated contract revenue, less cumulative sales recognized in prior periods (the cost-to-cost method). Under both POC methods of accounting, a single estimated total profit margin is used to recognize profit for each contract over its entire period of performance, which can exceed one year.  
+
+41  
+
+Table of Contents 
+
+Accounting for the sales on these fixed-price contracts requires the preparation of estimates of (1) the total contract revenue, (2) the total costs at completion, which is equal to the sum of the actual incurred costs to date on the contract and the estimated costs to complete the contracts statement of work, and (3) the measurement of progress towards completion. The estimated profit or loss at completion on a contract is equal to the difference between the total estimated contract revenue and the total estimated cost at completion. Under the units-of-delivery method, sales on a fixed-price type contract are recorded as the units are delivered during the period based on their contractual selling prices. Under the cost-to-cost method, sales on a fixed-price type contract are recorded at amounts equal to the ratio of actual cumulative costs incurred divided by total estimated costs at completion, multiplied by (i) the total estimated contract revenue, less (ii) the cumulative sales recognized in prior periods. The profit recorded on a contract in any period using either the units-of-delivery method or cost-to-cost method is equal to (i) the current estimated total profit margin multiplied by the cumulative sales recognized, less (ii) the amount of cumulative profit previously recorded for the contract. In the case of a contract for which the total estimated costs exceed the total estimated revenues, a loss arises, and a provision for the entire loss is recorded in the period that the loss becomes evident. The unrecoverable costs on a loss contract that are expected to be incurred in future periods are recorded as a component of other current liabilities entitled Estimated cost in excess of estimated contract value to complete contracts in process in a loss position.  
+
+Adjustments to estimates for a contracts revenue, estimated costs at completion and estimated profit or loss are often required as work progresses under a contract, as experience is gained and as more information is obtained, even though the scope of work required under the contract may not change, or if contract modifications occur. The impact of revisions in profit (loss) estimates for all types of contracts subject to percentage-of-completion accounting are recognized on a cumulative catch-up basis in the period in which the revisions are made. Amounts representing contract change orders or claims are included in sales only when they can be reliably estimated and their realization is reasonably assured. The revisions in contract estimates, if significant, can materially affect our results of operations and cash flows, as well as reduce the valuations of receivables and inventories, and in some cases result in liabilities to complete contracts in a loss position. Net changes in contract estimates increased consolidated operating income by $73 million, or 4%, for the year ended December 31, 2011, $46 million, or 3%, for the year ended December 31, 2010, and $76 million, or 5%, for the year ended December 31, 2009.  
+
+Sales and profits on cost-plus type contracts that are covered by accounting standards for government contractors are recognized as allowable costs are incurred on the contract, at an amount equal to the allowable costs plus the estimated profit on those costs. Sales on such contracts represent approximately 10% of our consolidated net sales. The estimated profit on a cost-plus contract is fixed or variable based on the contractual fee arrangement. Incentive and award fees are our primary variable fee contractual arrangement. Incentive and award fees on cost-plus type contracts are included as an element of total estimated contract revenues and recorded to sales when a basis exists for the reasonable prediction of performance in relation to established contractual targets and we are able to make reasonably dependable estimates for them. Sales and profits on time-and-material type contracts are recognized on the basis of direct labor hours expended multiplied by the contractual fixed rate per hour, plus the actual costs of material and other direct non-labor costs. On a time-and-material type contract, the fixed hourly rates include amounts for the cost of direct labor, indirect contract costs and profit. Cost-plus type or time-and-material type contracts generally contain less estimation risks than fixed-price type contracts.  
+
+Sales on arrangements for (1) fixed-price type contracts that require us to perform services that are not related to production of tangible assets (Fixed-Price Service Contracts), and (2) certain commercial customers are recognized in accordance with accounting standards for revenue arrangements with commercial customers. Sales for our businesses whose customers are primarily commercial business enterprises are substantially generated from single element revenue arrangements. Sales are recognized when there is persuasive evidence of an arrangement, delivery has occurred or services have been performed, the selling price to the buyer is fixed or determinable and collectability is reasonably assured. Sales for Fixed-Price Service Contracts that do not contain measurable units of work performed are generally recognized on a straight-line basis over the contractual service  
+
+42  
+
+Table of Contents 
+
+ period, unless evidence suggests that the revenue is earned, or obligations fulfilled, in a different manner. Sales for Fixed-Price Service Contracts that contain measurable units of work performed are generally recognized when the units of work are completed. Sales and profit on cost-plus and time-and-material type contracts within the scope of revenue recognition accounting standards for revenue arrangements with commercial customers are recognized in the same manner as those within the scope of contract accounting standards, except for incentive and award fees. Cost-based incentive fees are recognized when they are realizable in the amount that would be due under the contractual termination provisions as if the contract was terminated. Performance based incentive fees and award fees are recorded as sales when awarded by the customer.  
+
+For contracts with multiple deliverables, we apply the separation and allocation guidance under the accounting standard for revenue arrangements with multiple deliverables, unless all the deliverables are covered by contract accounting standards, in which case we apply the separation and allocation guidance under contract accounting standards. Revenue arrangements with multiple deliverables are evaluated to determine if the deliverables should be separated into more than one unit of accounting. We recognize revenue for each unit of accounting based on the revenue recognition policies discussed above.  
+
+Sales and profit in connection with contracts to provide services to the U.S. Government that contain collection risk because the contracts are incrementally funded and subject to the availability of funds appropriated, are deferred until the contract modification is obtained, indicating that adequate funds are available to the contract or task order.  
+
+Goodwill and Identifiable Intangible Assets. In accordance with the accounting standards for business combinations, we record the assets acquired and liabilities assumed based on their estimated fair values at the date of acquisition (commonly referred to as the purchase price allocation). As part of the purchase price allocations for our business acquisitions, identifiable intangible assets are recognized as assets apart from goodwill if they arise from contractual or other legal rights, or if they are capable of being separated or divided from the acquired business and sold, transferred, licensed, rented or exchanged. However, we do not recognize any intangible assets apart from goodwill for the assembled workforces of our business acquisitions.  
+
+Generally, the largest separately identifiable intangible asset from the businesses that we acquire is the value of their assembled workforces, which includes the human capital of the management, administrative, marketing and business development, scientific, engineering and technical employees of the acquired businesses. The success of our businesses, including their ability to retain existing business (revenue arrangements) and to successfully compete for and win new business (revenue arrangements), is primarily dependent on the management, marketing and business development, contracting, engineering and technical skills and knowledge of our employees, rather than on productive capital (plant and equipment, and technology and intellectual property). Additionally, for a significant portion of our businesses, our ability to attract and retain employees who have U.S. Government security clearances, particularly those with top-secret and above clearances, is critical to our success, and is often a prerequisite for retaining existing revenue arrangements and pursuing new ones. Generally, patents, trademarks and licenses are not material for our acquired businesses. Furthermore, our U.S. Government contracts (revenue arrangements) generally permit other companies to use our patents in most domestic work performed by such other companies for the U.S. Government. Therefore, because intangible assets for assembled workforces are part of goodwill, the substantial majority of the intangible assets for our acquired business acquisitions are recognized as goodwill. Additionally, the value assigned to goodwill for our business acquisitions also includes the value that we expect to realize from cost reduction measures that we implement for our acquired businesses. Goodwill equals the amount of the purchase price of the business acquired in excess of the sum of the fair value of identifiable acquired assets, both tangible and intangible, less the fair value of liabilities assumed. At December 31, 2011, we had goodwill of $8,697 million and identifiable intangible assets of $410 million.  
+
+The most significant identifiable intangible asset that is separately recognized in accordance with U.S. GAAP for our business acquisitions is customer contractual relationships. All of our customer relationships are established through written customer contracts (revenue arrangements). The fair value for customer contractual  
+
+43  
+
+Table of Contents 
+
+ relationships is determined, as of the date of acquisition, based on estimates and judgments regarding expectations for the estimated future after-tax earnings and cash flows (including cash flows from working capital) arising from the follow-on sales on contract (revenue arrangement) renewals expected from customer contractual relationships over their estimated lives, including the probability of expected future contract renewals and sales, less a contributory asset charge, all of which is discounted to present value. All identifiable intangible assets are amortized over their estimated useful lives as the economic benefits are consumed, ranging from four to thirty years. We review customer contractual relationships for impairment whenever events or changes in circumstances indicate that the carrying amount may not be recoverable in accordance with the accounting standards for long-lived assets. If any such event or change in circumstances occurs, and, if our revised estimates of future after-tax cash flows are significantly lower than our estimates at the date we acquired the customer contractual relationships, we may be required to record an impairment charge to write down these intangible assets to their realizable values. We review and update our estimates of the duration of our customer contractual relationships. If such estimates indicate that the duration of our customer contractual relationships has decreased compared to the estimates made as of the date we acquired these intangible assets, then we accelerate the amortization period for our customer contractual relationships over their remaining useful economic lives.  
+
+We review goodwill for impairment at least annually as of November 30, and whenever events or changes in circumstances indicate that the carrying amount may not be recoverable in accordance with the accounting standards for goodwill. The goodwill for each reporting unit is tested using a two-step process. A reporting unit is an operating segment, as defined by the segment reporting accounting standards, or a component of an operating segment. A component of an operating segment is a reporting unit if the component constitutes a business for which discrete financial information is available and is reviewed by operating segment management. Two or more components of an operating segment may be aggregated and deemed a single reporting unit for goodwill impairment testing purposes if the components have similar economic characteristics.  
+
+L-3 had 17 reporting units at December 31, 2011, and 19 reporting units at December 31, 2010. The composition of our reporting units and associated goodwill balances changed in 2011 as compared to 2010 due to business realignments that resulted in the consolidation of two reporting units into one and the elimination of a reporting unit. The reporting units had fair values in excess of their carrying values at the time of the realignments and the related goodwill for each was allocated based on a relative fair value. In addition, the aggregate balance of goodwill declined by $33 million to $8,697 million at December 31, 2011 from $8,730 million at December 31, 2010 due to a $43 million impairment charge (discussed below) and $17 million of foreign currency translation adjustments, which were partially offset by additions of $27 million for business acquisitions.  
+
+The table below presents the number of reporting units and the associated goodwill, at December 31, 2011 for each of our reportable segments.  
+
+  [DATA_TABLE_REMOVED] 
+
+The first step in the process of testing goodwill for potential impairment is to compare the carrying value of the reporting unit to its fair value. If a potential impairment is identified, the second step is to measure the impairment loss by comparing the implied fair value of goodwill with the carrying value of goodwill of the reporting unit. Our methodology for determining the fair value of a reporting unit is estimated using a discounted cash flow (DCF) valuation approach, and is dependent on estimates for future sales, operating income, depreciation and amortization, income tax payments, working capital changes, and capital expenditures, as well  
+
+44  
+
+Table of Contents 
+
+ as, expected long-term growth rates for cash flows. All of these factors are affected by economic conditions related to the industries in which we operate (predominantly the U.S. defense industry), as well as, conditions in the U.S. capital markets.  
+
+During the fourth quarter of 2011, we recorded a non-cash impairment charge of $43 million ($42 million after income taxes), or $0.40 per diluted share, for the impairment of goodwill based on its annual impairment test as of November 30. The goodwill impairment charge was due to a decline in the estimated fair value of the Marine Services reporting unit, which is part of the Electronics Systems segment, as a result of a decline in its projected future cash flows. The decline in projected future cash flows was due to: (1) lower DoD budgets which have caused shipyards to retain work that has been typically outsourced to Marine Services and (2) lower margins on existing and expected future contracts due to increased competition. In 2010, we disclosed that the Marine Services reporting unit was identified as one of six reporting units that when applying a hypothetical decrease of at least 20% would have had a carrying value in excess of its estimated fair value. The 2010 estimated fair value of the Marine Services reporting unit exceeded its carrying value after a hypothetical decrease of 10% to its fair value.  
+
+The more significant assumptions used in our DCF valuations to determine the fair values of our reporting units in connection with the goodwill valuation assessment at November 30, 2011, were: (1) detailed three-year cash flow projections for each of our reporting units, which are based primarily on our estimates of future sales, operating income, and cash flows, (2) the expected long-term growth rates for each of our reporting units, which approximate the expected long-term growth rate for the U.S. economy and the respective industries in which the reporting units operate, and (3) risk adjusted discount rates, which represent the weighted average cost of capital (WACC) for each reporting unit and include the estimated risk-free rate of return that is used to discount future cash flow projections to their present values. Although certain refinements to the process used to estimate the WACC were implemented, there were no significant changes to the underlying methods used in 2011 as compared to the prior year DCF valuations of our reporting units.  
+
+Each reporting unit WACC was comprised of: (1) an estimated required rate of return on equity, based on publicly traded companies with business and economic risk characteristics comparable to each of L-3s reporting units (Market Participants), including a risk free rate of return of 3.06% on the 30 year U.S. Treasury Bond as of November 30, 2011 (4.1% as of November 30, 2010) and an equity risk premium of 6% (5% for 2010) and (2) an after-tax rate of return on Market Participants debt, each weighted by the relative market value percentages of Market Participants equity and debt. The WACC assumptions for each reporting unit are based on a number of market inputs that are outside of our control and are updated annually to reflect changes to such market inputs as of the date of our annual goodwill impairment assessments, including changes to: (1) the estimated required rate of return on equity based on historical returns on common stock securities of Market Participants and the Standard & Poors 500 Index over the prior two-year period, (2) the risk free rate of return based on the prevailing market yield on the 30 year U.S. Treasury bond, (3) the rate of return of Market Participants publically traded debt securities, and (4) the relative market value percentages of Market Participants equity and debt.  
+
+The table below presents the weighted average risk adjusted discount rate assumptions used in our DCF valuation for each of our reportable segments for our goodwill impairment assessments at November 30, 2011.  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1)   All reporting units within the C3ISR reportable segment used the risk adjusted discount rates as presented in the table above.  
+
+ (2)   The Government Services and AM&M reportable segments are each comprised of one reporting unit.  
+
+ (3)   The weighted average risk adjusted discount rate for the Electronic Systems reportable segment is comprised of separate assumptions for each reporting unit that range that from 6.9% to 9.1%.  
+
+45  
+
+Table of Contents 
+
+As presented in the table below, L-3s historical three-year average annual cash flow growth rates for 2011, 2010 and 2009 for our reportable segments ranged from a negative 4% to a positive 35%. The annual cash flows generated by each of our reporting units varies from year to year, and, therefore, the annual cash flow growth rates do not result in linear trends, due to a number of factors. The factors that affect the level of annual cash flows in each of our reporting units include, but are not limited to: (1) variability of annual sales volume and sales growth rates, (2) increases and decreases in working capital, including customer advance payments and billings on multi-year contracts (revenue arrangements) with long-term performance periods (exceeding one year), (3) the timing of invoicing and cash collections between fiscal years from receivables due from customers on multi-year contracts (revenue arrangements) that are affected by the financing terms of individual contracts, (4) the timing of increases and decreases of select inventories procured and produced in anticipation of future product sales, which frequently overlap the ending and beginning of fiscal years, (5) the timing of the receipt of award fee and incentive fee payments from customers on contracts (revenue arrangements), (6) variability in annual cash outlays for research and development costs, (7) changes in cash outlays for capital expenditures for property, plant and equipment, and (8) increases in annual sales and costs and expense volumes of a reporting unit resulting from business acquisitions. As a result of the factors discussed above and the varying sizes of our reporting units, the annual cash flow levels and growth rates at the reporting unit level tend to fluctuate significantly from year to year.  
+
+The 2011 cash flow amount and the cash flow growth rate for each of the last three years for each of our segments are presented in the following table.  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1)   Reportable segment estimated cash flow excludes interest payments on debt and other corporate cash flows.  
+
+  [DATA_TABLE_REMOVED] 
+
+ (3)   The increase in cash flows in 2011 for Government Services was primarily due to working capital reductions due to lower sales volume and a decrease in tax payments due to a lower effective tax rate and lower operating income. The increase in cash flows for Government Services in 2010 was primarily due to working capital reductions due to lower sales volume and the timing of advanced payments for certain contracts for foreign customers. The decrease in cash flows for Government Services in 2009 was primarily due to lower sales and operating income in comparison to the prior year, driven primarily by lower Iraq-related linguist services.  
+
+ (4)   The decrease in cash flows in 2011 for AM&M was primarily due to higher working capital, primarily for inventory on new contracts that began in 2011 and timing of billings, partially offset by an increase in advanced payments. The increase in cash flows for AM&M in 2010 was primarily due to working capital reductions, primarily for billed receivables on contracts nearing completion and the loss of the SOFSA contract, and lower capital expenditures. In 2009, the decrease in cash flow for AM&M was primarily due to cash used for working capital attributable to increased billed receivables associated with 2009 sales growth, primarily system field services.  
+
+ (5)   The decrease in cash flows in 2011 for Electronic Systems was primarily due to lower operating income compared to 2010 for warrior systems, training & simulation, space & propulsion and microwave and liquidation of advance payments at microwave, partially offset by lower working capital requirements at warrior systems. The increase in cash flows for Electronic Systems in 2010 was primarily due to higher operating income compared to 2009 for integrated sensor systems, microwave, aviation products and undersea warfare. The increase in cash flows for Electronic Systems in 2009 was primarily due to higher operating income compared to 2008 for several business areas, primarily integrated sensor systems and power and control systems.  
+
+We consistently consider several factors to determine expected future annual cash flows for our reporting units, including, historical multi-year average cash flow trends by reporting unit and the expected future cash  
+
+46  
+
+Table of Contents 
+
+ flow growth rates for each of our reporting units primarily based on our estimates of future sales, operating income, and working capital changes. Furthermore, the substantial majority of our reporting units are primarily dependent upon the DoD budget and spending. Historically, approximately 75% of L-3s annual sales have been generated from DoD customers. Accordingly, to determine expected future annual cash flows for our reporting units we also consider: (1) the DoD budget and spending priorities, (2) expansion into new markets, (3) changing conditions in existing markets for our products, systems, and services, (4) possible termination of certain government contracts, (5) expected success in new business competitions and re-competitions on existing business, and (6) anticipated operating margins and working capital requirements, which vary significantly depending on the stage of completion (early, mature, ending) of contracts (revenue arrangements). We closely monitor changes in these factors and their impact on the expected cash flow of our reporting units.  
+
+In addition to the factors noted in the previous paragraph that were relevant and specific to each of our reporting units, our goodwill impairment assessments as of November 30, 2011 assumed a declining DoD budget through 2014 with modest growth beginning in fiscal year 2015, consistent with our discussion of industry considerations on page 36. However, our current estimates and assumptions may not result in the projected cash flow outcomes due to a number of factors, including:  
+
+       the impact on our businesses of the recent DoD base budget cuts, including $22 billion of cuts in the FY 2012 enacted budget compared to the FY 2012 budget request, and $259 billion of cuts to the proposed DoD base budgets for FY 2013 to FY 2017 compared to the previously proposed DoD base budgets, and their impact on our future results of operations and cash flows; and  
+
+       the outcome of potential additional cuts of $500 billion for FY 2013 through FY 2021 due to the sequestration process, which becomes effective on January 3, 2013, unless Congress enacts new legislation to rescind them.  
+
+Additionally, our actual cash flows may be higher than our projections and the DCF valuation does not reflect actions that we may take to increase the profitability and cash flows of our reporting units, including our eight reporting units with fair value cushions of less than 20% in the table on page 48. Actions we may take include, consolidating and streamlining select business operations, creating future synergies with other L-3 businesses, or pursuing incremental targeted growth opportunities. Additionally, the DCF valuations do not assume future business acquisitions or divestitures.  
+
+The table below presents the estimated (1) 2012 cash flow amount, (2) average cash flow growth rates for 2012  2014, and (3) weighted average cash flow growth rates for 2015 and 2016 and after 2016 for each of our reportable segments.  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1)   C3ISR projected cash flows are expected to increase by $12 million from $260 million in 2011 to $272 million in 2012. The increase is primarily due to slight improvements in sales, operating income and working capital requirements.  
+
+ (2)   Government Services projected cash flows are expected to decrease by $148 million from $341 million in 2011 to $193 million in 2012. The decrease is due primarily to lower expected sales, operating income, and margins.  
+
+ (3)   AM&M projected cash flows are expected to decrease by $49 million from $174 million in 2011 to $125 million in 2012. The decrease is primarily due to lower margins and higher capital expenditures due to IT Systems and facility upgrades.  
+
+ (4)   Electronic Systems projected cash flows are expected to decrease by $78 million from $522 million in 2011 to $444 million in 2012. The decrease is due to lower operating income and margins at undersea warfare, aviation products and power systems, and liquidation of advance payments on contracts with non-DoD customers at undersea warfare. These decreases are partially offset by margin and working capital improvements at warrior systems.  
+
+47  
+
+Table of Contents 
+
+A decline in the estimated fair value of a reporting unit could result in a goodwill impairment, and a related non-cash impairment charge against earnings, if the estimated fair value for the reporting unit is less than the carrying value of the net assets of the reporting unit, including its goodwill. A large decline in estimated fair value of a reporting unit could result in an adverse effect on our financial condition and results of operations.  
+
+In order to evaluate the sensitivity of the fair value calculations relating to our goodwill impairment assessment, we applied hypothetical decreases to the estimated fair values of each of our reporting units. We determined that a decrease in fair value of at least 20% would be required before any reporting unit, with the exception of eight, would have a carrying value in excess of its fair value. The table below presents the: (1) risk adjusted discount rates, (2) annual cash flow and three-year average growth rate, (3) 2011 cash flow, (4) goodwill balance, and (5) excess fair value percentage and dollar amount, for each of these eight reporting units.  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1)   Reporting unit cash flow excludes interest payments on debt and other corporate cash flows.  
+
+ (2)   The goodwill balance is as of November 30, 2011, our goodwill impairment testing date except for the Marine Services reporting unit, whose goodwill balance represents the amount of goodwill remaining after the non-cash impairment charge of $43 million.  
+
+ (3)   The excess fair value represents the percentage and dollar amount by which the fair value of a reporting unit must decline before a potential impairment is identified and would require the second step of the goodwill impairment assessment to be performed.  
+
+ (4)   Our DCF valuation for this reporting unit assumed lower projected cash flow of approximately 51% in 2012 compared to 2011 due to the wind down of a U.S. Army Indefinite Delivery Indefinite Quality (IDIQ) contract, as well as the liquidation of advance payments as a result of deliveries to foreign customers. In addition, our DCF valuation for this reporting unit assumed that projected cash flow will be approximately 35% and 34% below 2011 in 2013 and 2014, respectively, due to continued weakness in the commercial shipbuilding market and further liquidation of advances to foreign customers. Projected cash flows are expected to remain flat from 2015 to 2016 and then grow 1% annually after 2016.  
+
+ (5)   Our DCF valuation for this reporting unit assumed lower projected cash flow of approximately 157% in 2012 compared to 2011 levels due to liquidations of advance payments on contracts with non-DoD customers and contracts nearing completion. In addition, our DCF valuation for this reporting unit assumed that projected cash flow will remain approximately 56% and 58% below 2011 levels in 2013 and 2014, respectively, reflecting continued lower demand from allied foreign navies. Projected cash flows are expected to remain flat from 2015 to 2016 and then grow 1% annually after 2016.  
+
+ (6)   Our DCF valuation for this reporting unit assumed higher projected cash flow of approximately 43% in 2012 compared to 2011. The units 2011 cash flows were negatively impacted by lower manufacturing yields which delayed shipments of power devices for satellite communications systems. The DCF for 2012 reflects the expected resolution of lower manufacturing yields encountered in 2011, as well an increase in expected receipt of advance payments in 2012. In addition, our DCF valuation for this reporting unit assumed that projected cash flow will be approximately 35% and 39% above 2011 levels in 2013 and 2014, respectively, due to expected higher manufacturing yields. Projected cash flows are expected to remain flat from 2015 to 2016 and then grow 1% annually after 2016.  
+
+ (7)   The goodwill balance for the Marine Services reporting unit is the balance remaining after the non-cash impairment change of $43 million. Our DCF valuation for this reporting unit assumed lower projected cash flow of approximately 128% in 2012 compared to 2011 levels due to lower DoD budgets which caused shipyards to retain work that had been typically outsourced and lower margins on existing and expected follow on contracts due to pricing pressure resulting from increased competition. In addition, our DCF valuation for this reporting unit assumed that projected cash flow will be approximately 76% to 80% above depressed 2011 levels in 2013 and 2014, respectively, as we expect shipyards to begin outsourcing work to Marine Services. Projected cash flows are expected to remain flat from 2015 to 2016 and then grow 1% annually after 2016.  
+
+ (8)  Our DCF valuation for this reporting unit assumed lower projected cash flow of approximately 43% in 2012 compared to 2011 levels due to lower expected sales, operating income, and margins resulting from: contract re-compete losses in 2011, the drawdown of U.S. military forces from Iraq that was completed in December 2011 and the impact of DoD efficiency initiatives. In addition, our DCF valuation for this reporting unit assumed that projected cash flow will remain approximately 44% and 45% below 2011 levels in 2013 and 2014, respectively, reflecting continued constraints on the DoD budget. Projected cash flows are expected to remain flat from 2015 to 2016 and then grow 1% annually after 2016.  
+
+48  
+
+Table of Contents 
+
+ (9)  Our DCF valuation for this reporting unit assumed lower projected cash flow of approximately 28% in 2012 compared to 2011 levels due to lower margins and higher capital expenditures due to IT Systems and facility upgrades. In addition, our DCF valuation for this reporting unit assumed that projected cash flow will remain approximately 33% and 37% below 2011 levels in 2013 and 2014, respectively, reflecting continued constraints on the DoD budget. Projected cash flows are expected to remain flat from 2015 to 2016 and then grow .5% annually after 2016.  
+
+ (10)   Our DCF valuation for this reporting unit assumed lower projected cash flow of approximately 43% in 2012 compared to 2011 levels due to liquidation of advance payments on a international contract. In addition, our DCF valuation for this reporting unit assumed that projected cash flow will grow 25% and 23% above depressed 2011 levels in 2013 and 2014, respectively, reflecting growth in M-60 tank refurbishments for foreign militaries and a ramp up in Bradley production in 2014. Projected cash flows are expected to decrease 6.6% from 2015 to 2016 and then grow .6% annually after 2016.  
+
+ (11)   The warrior systems reporting unit was created in the third quarter of 2010 as a result of our acquisition of Insight Technology on April 14, 2010, and its combination with two existing integrated sensor systems businesses. Cash flow data for 2009 includes the cash flows from the two former integrated sensor systems businesses and the 2010 cash flow includes these two businesses and Insight Technology from the acquisition date. The DCF valuation for this reporting unit assumed an average cash flow growth rate of 98% during 2012 through 2014. This increase is primarily attributable to an increase of $52 million or 297% in 2012 due to margin and working capital improvements. The cash flows assume an average negative 1.5% growth rate in 2013 and 2014 due to higher working capital needs. Projected cash flows are expected to remain flat from 2015 to 2016 and then grow 1% annually after 2016.  
+
+Pension Plan and Postretirement Benefit Plan Obligations. The obligations for our pension plans and postretirement benefit plans and the related annual costs of employee benefits are calculated based on several long-term assumptions, including discount rates and expected mortality for employee benefit liabilities, and rates of return on plan assets, and expected annual rates for salary increases for employee participants in the case of pension plans, and expected annual increases in the costs of medical and other health care benefits in the case of postretirement benefit obligations. These long-term assumptions are subject to revision based on changes in interest rates, financial market conditions, expected versus actual returns on plan assets, expected participant mortality and other actuarial assumptions, including future rates of salary increases, benefit formulas and levels, and rates of increase in the costs of benefits. Changes in the assumptions, if significant, could materially affect the amount of annual net periodic benefit costs recognized in our results of operations from one year to the next, the liabilities for the pension plans and postretirement benefit plans, and our annual cash requirements to fund these plans. Our pension expense for 2012 is expected to increase by $34 million to $179 million from $145 million in 2011. Our discount rate assumption decreased from a weighted average rate of 5.57% in 2010 to 5.02% in 2011. The increase in our 2012 pension expense is primarily due to the decrease in discount rate and a decrease in the expected long-term return on plan assets assumption for our U.S. pension plans from 8.75% in 2011 to 8.25% in 2012. See Part II  Item 7  Managements Discussion and Analysis of Financial Condition and Results of Operations  Liquidity and Capital Resources  Pension Plans on page 60 for a further discussion of our estimated 2012 pension expense.  
+
+Discount rates are used to determine the present value of our pension obligations and also affect the amount of pension expense in any given period. The discount rate assumptions used to determine our pension and postretirement benefit obligations at December 31, 2011 and 2010 were based on a hypothetical AA yield curve represented by a series of annualized individual discount rates. Each bond issue underlying the yield curve is required to have a rating of AA or better by Moodys Investors Service, Inc. and/or Standard & Poors. The resulting discount rate reflects the matching of plan liability cash flows to the yield curve. For a sensitivity analysis projecting the impact of a change in the discount rate on our projected benefit obligation and pension expense, see Part II  Item 7  Managements Discussion and Analysis of Financial Condition and Results of Operations  Liquidity and Capital Resources  Pension Plans on page 60.  
+
+Valuation of Deferred Income Tax Assets and Liabilities. At December 31, 2011, we had deferred tax assets of $651 million, deferred tax liabilities of $923 million and a valuation allowance of $14 million. The deferred tax assets include $19 million for loss carryforwards and $10 million for tax credit carryforwards which are subject to various limitations and will expire if unused within their respective carryforward periods. Deferred income taxes are determined separately for each of our tax-paying entities in each tax jurisdiction. The future realization of our deferred income tax assets ultimately depends on our ability to generate sufficient taxable income of the appropriate character (for example, ordinary income or capital gains) within the carryback and carryforward periods available under the tax law and, to a lesser extent, our ability to execute successful tax planning  
+
+49  
+
+Table of Contents 
+
+ strategies. Based on our estimates of the amounts and timing of future taxable income and tax planning strategies, we believe that we will be able to realize our deferred tax assets, except for capital losses and certain foreign and state net operating losses. A change in the ability of our operations to continue to generate future taxable income, or our ability to implement desired tax planning strategies, could affect our ability to realize the future tax deductions underlying our deferred tax assets, and require us to provide a valuation allowance against our deferred tax assets. The recognition of a valuation allowance would result in a reduction to net income and, if significant, could have a material impact on our effective tax rate, results of operations and financial position in any given period.  
+
+Liabilities for Pending and Threatened Litigation. We are subject to litigation, government investigations, proceedings, claims or assessments and various contingent liabilities incidental to our business or assumed in connection with certain business acquisitions. In accordance with the accounting standards for contingencies, we accrue a charge for a loss contingency when we believe it is both probable that a liability has been incurred, and the amount of the loss can be reasonably estimated. If the loss is within a range of specified amounts, the most likely amount is accrued, and if no amount within the range represents a better estimate we accrue the minimum amount in the range. Generally, we record the loss contingency at the amount we expect to pay to resolve the contingency and the amount is generally not discounted to the present value. Amounts recoverable under insurance contracts are recorded as assets when recovery is deemed probable. Contingencies that might result in a gain are not recognized until realizable. Changes to the amount of the estimated loss, or resolution of one or more contingencies could have a material impact on our results of operations, financial position and cash flows. See Note 19 to our audited consolidated financial statements for further discussion of our litigation matters.  
+
+Valuation of Long-Lived Assets. In addition to goodwill and identifiable intangible assets recognized in connection with our business acquisitions, our long-lived assets also include property, plant and equipment, capitalized software development costs for software to be sold, leased or otherwise marketed, and certain long-term investments. As of December 31, 2011, the consolidated carrying values of our property, plant and equipment were $934 million, certain long-term investments were $43 million, and capitalized software development costs were $39 million. As of December 31, 2011, the carrying value of our property, plant and equipment represented 6% of total assets and the carrying value of our capitalized software development costs and certain long-term investments each represented less than 1% of total assets. We review the valuation of our long-lived assets whenever events or changes in circumstances indicate that the carrying amount of these assets may not be recoverable. An impairment loss is recognized when the carrying amount of a long-lived asset exceeds its fair value or net realizable value expected to result from the assets use and eventual disposition. We use a variety of factors to assess valuation, depending upon the asset. Long-lived assets are evaluated based upon the expected period the asset will be utilized, and other factors depending on the asset, including estimated future sales, profits and related cash flows, estimated product acceptance and product life cycles, changes in technology and customer demand, and the performance of invested companies and joint ventures. Changes in estimates and judgments on any of these factors could have a material impact on our results of operations and financial position.  
+
+50  
+
+Table of Contents 
+
+Results of Operations  
+
+The following information should be read in conjunction with our audited consolidated financial statements. Our results of operations for the periods presented are affected by our business acquisitions. See Note 4 to our audited consolidated financial statements for a discussion of our business acquisitions.  
+
+Consolidated Results of Operations  
+
+The table below provides selected financial data for L-3 for the years ended December 31, 2011 compared with 2010 and 2010 compared with 2009.  
+
+  [DATA_TABLE_REMOVED] 
+
+2011 Compared with 2010  
+
+Net Sales: For the year ended December 31, 2011, consolidated net sales of $15.2 billion decreased by 3% compared to the year ended December 31, 2010. Lower sales from the AM&M, Government Services and Electronic Systems were partially offset by sales growth from the C3ISR segments. Acquired businesses, which are all included in the Electronics Systems segment, contributed $160 million to net sales for the year ended December 31, 2011.  
+
+Sales from services, primarily from our Government Services, AM&M and C3ISR segments, decreased by $478 million to $7,606 million, representing approximately 50% of consolidated net sales, for the year ended December 31, 2011, compared to $8,084 million, or approximately 52% of consolidated net sales for the year ended December 31, 2010. Sales from services decreased primarily due to the loss of the SOFSA, Afghanistan Ministry of Defense (MoD) support and Federal Aviation Administration (FAA) IT support services contracts, reduced subcontractor pass-through sales related to U.S. Army systems and software engineering and services (SSES), and lower linguist services, training, intelligence support and logistics support services for the U.S.  
+
+51  
+
+Table of Contents 
+
+ Army due to the drawdown of U.S. military forces from Iraq. These decreases were partially offset by increased contractor logistics support (CLS) services for U.S. Army C-12 aircraft, and increased intelligence and information technology (IT) support services for U.S. Government agencies.  
+
+Sales from products, which primarily include products from our C3ISR and Electronic Systems segments, decreased by $33 million to $7,563 million, representing approximately 50% of consolidated net sales for the year ended December 31, 2011, compared to $7,596 million, or approximately 48% of consolidated net sales, for the year ended December 31, 2010. The decrease in product sales was due to sales volume declines primarily for Joint Cargo Aircraft (JCA), night vision products, combat propulsion systems, mobile satellite communication systems and simulation & training devices. The decreases were partially offset by sales from acquired businesses, and organic sales growth primarily for networked communication and integrated sensor systems. See the reportable segment results below for additional discussion of our segment sales.  
+
+Operating income and operating margin: Consolidated operating income for the year ended December 31, 2011 decreased by $152 million, or 9%, compared to the year ended December 31, 2010. Segment operating income for the year ended December 31, 2011 decreased by $109 million, or 6%, compared to the year ended December 31, 2010. Segment operating margin decreased by 40 basis points to 10.8% for the year ended December 31, 2011 compared to 11.2% for the year ended December 31, 2010. Lower operating margins in the C3ISR, Government Services and Electronic Systems segments were partially offset by higher operating margins for the AM&M segment. See the reportable segment results below for additional discussion of operating margin.  
+
+Net interest expense and other income: Net interest expense and other income decreased by $13 million for the year ended December 31, 2011 compared to the prior year. The decrease was primarily due to lower amortization of bond discounts and lower interest expense as a result of recent debt refinancings, partially offset by $14 million for our share of an impairment charge for long-lived assets at an equity method investment.  
+
+Debt Retirement Charge: During 2011, we redeemed our 5 7/8% 2015 Notes and $500 million of our 6 3/8% 2015 Notes and recorded related debt retirement charges of $35 million. During 2010, we redeemed our 6 1/8% Senior Subordinated Notes due 2013 and 2014 and recorded related debt retirement charges of $18 million. See Liquidity and Capital Resources  Statement of Cash Flows  Debt Repayments for additional information.  
+
+Effective income tax rate: The effective tax rate for the year ended December 31, 2011 decreased to 27.1% from 34.9% for the year ended December 31, 2010. Excluding the Q4 2011 Items, the effective tax rate would have decreased to 32.1% for 2011. This decrease was primarily due to: (1) $12 million for the reversal of previously accrued amounts in the second quarter of 2011, (2) additional federal tax benefits on the repatriation of foreign earnings, and (3) a 2010 tax provision of $5 million, or $0.04 per diluted share, related to the unfavorable tax treatment of the U.S. Federal Patient Protection and Affordable Care Act that did not recur in 2011.  
+
+Net income attributable to L-3 and diluted earnings per share: Net income attributable to L-3 increased by $1 million to $956 million for the year ended December 31, 2011, compared to last year and diluted earnings per share (EPS) increased 9% to $9.03 from $8.25. Excluding the Q4 2011 Items of $28 million, or $0.26 per share, net income attributable to L-3 decreased $27 million to $928 million and diluted EPS increased $0.52, or 6%, to $8.77.  
+
+Diluted weighted average common shares outstanding: Diluted weighted average common shares outstanding for the year ended December 31, 2011 decreased by 9.5 million shares, or 8%, compared to the year ended December 31, 2010. The decrease was due to repurchases of our common stock in connection with our share repurchase programs authorized by our Board of Directors, partially offset by additional shares issued in connection with various employee stock-based compensation programs and contributions to employee savings plans made in common stock.  
+
+52  
+
+Table of Contents 
+
+2010 Compared with 2009  
+
+Net Sales: For the year ended December 31, 2010, consolidated net sales of approximately $15.7 billion increased slightly compared to the year ended December 31, 2009. Sales growth from the C3ISR segment was offset by lower sales from the Government Services and Electronic Systems reportable segments and the AM&M reportable segment, primarily due to the loss of the SOFSA contract. Acquired businesses, primarily Insight Technology and 3Di, contributed $207 million to net sales for the year ended December 31, 2010.  
+
+Sales from services decreased by $15 million to $8,084 million for the year ended December 31, 2009, compared to $8,099 million for the year ended December 31, 2009. Sales from services represented approximately 52% of consolidated net sales for each of the years. The decrease was due primarily to reduced SSES pass-through volume, the loss of the SOFSA contract and the loss of an aircraft maintenance contract with the U.S. Customs and Border Patrol, and lower sales volume for marine services and simulation & training due to contracts nearing completion. These decreases were partially offset by organic sales growth in airborne ISR logistics support and fleet management services for the U.S. Air Force and information technology (IT) support services for the U.S. Special Operations Command (SOCOM) and other U.S. Government agencies.  
+
+Sales from products increased by $80 million to $7,596 million for the year ended December 31, 2010, compared to $7,516 million for the year ended December 31, 2009. Sales from products represented approximately 48% of consolidated net sales for each of the years. The increase was primarily due to organic growth from networked communications, aircraft modernization, integrated sensor systems, microwave, and security & detection systems and sales from the Insight acquired business. These increases were partially offset by sales declines for combat propulsion systems, commercial shipbuilding products, precision engagement, displays, and marine services. See the reportable segment results below for additional discussion of our segment sales.  
+
+Operating income and operating margin: Consolidated operating income for the year ended December 31, 2010 increased by $94 million, or 6%, to $1,750 million from $1,656 million from the year ended December 31, 2009. Operating margin increased to 11.2% for the year ended December 31, 2010 from 10.6% for the year ended December 31, 2009. Higher sales and improved contract performance for the C3ISR segment and favorable sales mix across several businesses, improved contract performance, and $9 million from the sale of a technology license in the Electronic Systems segment increased operating margin by 80 basis points. Lower pension expense of $16 million ($10 million after income taxes, or $0.09 per diluted share) increased operating margin by 10 basis points. These increases were partially offset by lower operating margins in the Government Services segment, which reduced operating margin by 20 basis points. Severance charges, primarily in the Electronic Systems segment, of $17 million reduced operating margin by 10 basis points. See the reportable segment results below for additional discussion of segment operating margin.  
+
+Net interest expense and other income: Net interest expense and other income decreased by $12 million for the year ended December 31, 2010 compared to the prior year primarily as a result of lower outstanding debt and higher income from investments accounted for using the equity method.  
+
+Debt Retirement Charge: During 2010, we redeemed our 6 1/8% Senior Subordinated Notes due 2013 and 2014 and recorded related debt retirement charges of $18 million. During 2009, we redeemed our 7 5/8% Senior Subordinated Notes due 2012 and recorded a related $10 million debt retirement charge. See Liquidity and Capital Resources  Statement of Cash Flows  Debt repayments for additional information.  
+
+Effective income tax rate: The effective tax rate for the year ended December 31, 2010 increased by 60 basis points to 34.9% compared to last year. The increase was primarily due to higher tax benefits for the resolution of tax contingencies in 2009. In addition, the year ended December 31, 2010 included a tax provision of $5 million, or $0.04 per diluted share, related to the U.S. Federal Patient Protection and Affordable Care Act, which changed the tax treatment for certain retiree prescription drug benefits and increased the tax rate by 30 basis points.  
+
+53  
+
+Table of Contents 
+
+Net income attributable to L-3 and diluted earnings per share: Net income attributable to L-3 increased by $54 million, or 6%, to $955 million for the year ended December 31, 2010 from $901 million for the year ended December 31, 2009. Diluted EPS increased by $0.64, or 8%, to $8.25 for the year ended December 31, 2010 from $7.61 for the year ended December 31, 2009.  
+
+Diluted weighted average common shares outstanding: Diluted weighted average common shares outstanding for the year ended December 31, 2010 decreased by 2.3 million shares, or 2%, compared to the year ended December 31, 2009. The decrease was due to repurchases of our common stock in connection with our share repurchase programs authorized by our Board of Directors, partially offset by additional shares issued in connection with various employee stock-based compensation programs and contributions to employee savings plans made in common stock.  
+
+Reportable Segment Results of Operations  
+
+The table below presents selected data by reportable segment reconciled to consolidated totals. See Note 22 to our audited consolidated financial statements for additional reportable segment data.  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1)   As a result of re-alignments of business units in the Companys management and organizational structure as discussed in Note 2 to our audited consolidated financial statements, sales of $113 million and $141 million were reclassified from the Government Services segment to the Electronic Systems segment and sales of $76 million and $78 million were reclassified from the C3ISR segment to the Government Services segment for the years ended December 31, 2010 and 2009, respectively. In addition, operating income of $7 million and $16 million was reclassified from the Government Services segment to the Electronic Systems segment and operating income of $4 million and $5 million was reclassified from the C3ISR segment to the Government Services segment for the years ended December 31, 2010 and 2009, respectively.  
+
+ (2)   Net sales are after intercompany eliminations.  
+
+54  
+
+Table of Contents 
+
+C3ISR  
+
+  [DATA_TABLE_REMOVED] 
+
+2011 Compared with 2010  
+
+C3ISR net sales for the year ended December 31, 2011 increased by $245 million, or 7%, compared to the year ended December 31, 2010. This increase was primarily due to increased volume and new business for networked communication systems for manned and unmanned platforms, airborne ISR logistics support and fleet management services to the DoD, and international airborne ISR platforms. These increases were partially offset primarily by lower sales for airborne ISR platforms to the DoD and force protection products to foreign ministries of defense.  
+
+C3ISR operating income for the year ended December 31, 2011 increased by $18 million, or 5%, compared to the year ended December 31, 2010. Operating margin decreased by 30 basis points primarily due to lower margin sales mix for networked communication systems and a $6 million loss on a contract termination recorded in 2011.  
+
+2010 Compared with 2009  
+
+C3ISR net sales for the year ended December 31, 2010 increased by 10% compared to the year ended December 31, 2009 primarily due to demand for airborne ISR logistics support and fleet management services and networked communications systems for manned and unmanned platforms.  
+
+C3ISR operating income for the year ended December 31, 2010 increased by 15% compared to the year ended December 31, 2009. Operating margin increased by 60 basis points. Higher sales volume and improved contract performance increased operating margin by 60 basis points and lower pension expense of $6 million increased operating margin by 20 basis points. These increases were partially offset by higher lower margin services sales, which reduced operating margin by 20 basis points.  
+
+Government Services  
+
+  [DATA_TABLE_REMOVED] 
+
+2011 Compared with 2010  
+
+Government Services net sales for the year ended December 31, 2011 decreased by $305 million, or 8%, compared to the year ended December 31, 2010. The decrease in sales was due to: (1) $124 million primarily related to the loss of the Afghanistan MoD support contract and the FAA IT support services contract, (2) $118 million in lower linguist services, training, intelligence support, and logistics support services for the U.S. Army due to the drawdown of U.S. military forces from Iraq, (3) $75 million in reduced SSES pass-through volume, (4) $51 million of lower sales related to the SBInet program for the U.S. Department of Homeland Security and an international maritime security enhancement program, and (5) $42 million for IT support services for the U.S.  
+
+55  
+
+Table of Contents 
+
+ Special Operations Command due to fewer task orders received because of more competitors on the current contract. These decreases were partially offset by $105 million in higher sales due to increased demand for intelligence and information technology support services for U.S. Government agencies.  
+
+Government Services operating income for the year ended December 31, 2011 decreased by $62 million, or 18%, compared to the year ended December 31, 2010. Operating margin decreased by 100 basis points. Lower contract profit rates on select new business and re-competitions of existing business due to competitive price pressures and higher business development costs for cyber security initiatives decreased operating margin by 60 basis points. Transaction costs of $9 million for the Engility spin-off and severance charges of $5 million reduced operating margin by 40 basis points.  
+
+2010 Compared with 2009  
+
+Government Services net sales for the year ended December 31, 2010 decreased by 3% compared to the year ended December 31, 2009. The decrease was primarily due to: (1) reduced subcontractor pass-through sales volume of $154 million related to reduced SSES pass through volume, (2) $46 million of lower sales volume from the loss of an Afghanistan MoD support contract, and (3) $27 million of lower sales volume from reduced tasking for Iraq training work. These decreases were partially offset by increases of $109 million primarily for increased logistics and law enforcement support services for the U.S. Army due to higher volume for Afghanistan, and information technology support services for SOCOM and other U.S. Government agencies. The increase in net sales from acquired businesses was $13 million.  
+
+Government Services operating income for the year ended December 31, 2010 decreased by 11% compared to the year ended December 31, 2009. Operating margin decreased by 80 basis points. Operating margin was reduced by 110 basis points primarily due to lower sales volume and lower margins on select contract renewals and new contracts. These decreases were partially offset by a decline in lower margin subcontractor pass-through sales, which increased operating margin by 30 basis points.  
+
+Aircraft Modernization and Maintenance (AM&M)  
+
+  [DATA_TABLE_REMOVED] 
+
+2011 Compared with 2010  
+
+AM&M net sales for the year ended December 31, 2011 decreased by $341 million, or 12%, compared to the year ended December 31, 2010. The decrease was primarily the result of $332 million from the SOFSA contract loss, $75 million from lower JCA volume, and $35 million due to lower sales for MHP, partially offset by increased CLS services for U.S. Army C-12 aircraft.  
+
+AM&M operating income for the year ended December 31, 2011 increased by $3 million, or 1%, compared to the year ended December 31, 2010. Operating margin increased by 130 basis points. The increase in operating margin was due to: (1) improved contract performance for rotary wing cabin assemblies and special mission aircraft, which increased operating margin by 100 basis points, (2) the sales decline on the lower margin SOFSA contract, which increased operating margin by 60 basis points, and (3) a 2011 first quarter favorable price adjustment of $10 million for an international aircraft modernization contract, which increased operating margin by 40 basis points. These margin increases were partially offset by a 70 basis point decrease in operating margin primarily due to JCA for higher costs and reduced aircraft order quantities.  
+
+56  
+
+Table of Contents 
+
+2010 Compared with 2009  
+
+AM&M net sales for the year ended December 31, 2010 decreased by 2% compared to the year ended December 31, 2009. The decrease was primarily due to sales volume declines of $123 million from SOFSA and $45 million from the loss of an aircraft maintenance contract with the U.S. Customs and Border Patrol in 2009. These decreases were partially offset by $121 million in sales increases primarily for higher volume for JCA, rotary wing cabin assemblies, and the Canadian Maritime Helicopter Program.  
+
+AM&M operating income for the year ended December 31, 2010 decreased by 6% compared to the year ended December 31, 2009. Operating margin decreased by 40 basis points. The decrease in operating margin was primarily due to lower volume and prices for systems field support services and lower margin sales mix, primarily related to higher JCA volume, which has lower margins than the overall AM&M segment.  
+
+Electronic Systems  
+
+  [DATA_TABLE_REMOVED] 
+
+2011 Compared with 2010  
+
+Electronic Systems net sales for the year ended December 31, 2011 decreased by $110 million, or 2%, compared to the year ended December 31, 2010, reflecting lower sales of: (1) $376 million due to declining DoD demand for night vision products, combat propulsion systems, mobile satellite communication systems and simulation & training devices, (2) $40 million due to lower manufacturing yields for power devices for satellite communications systems, and (3) $9 million from the sale of a general aviation product technology license in the 2010 fourth quarter that did not recur in the 2011 fourth quarter. These decreases were partially offset by sales from acquired businesses of $160 million, sales volume increases of $122 million for integrated sensor systems to the U.S. Army and U.S. Air Force, and higher sales for commercial shipbuilding products of $33 million, with a majority of the increase from commercial shipbuilding products due to the strengthening of the U.S. dollar against the Euro.  
+
+Electronic Systems operating income for the year ended December 31, 2011 decreased by $68 million, or 9%, compared to the year ended December 31, 2010. Operating margin decreased by 90 basis points. Unfavorable contract performance and lower sales primarily for warrior systems and simulation & training reduced operating margin by 150 basis points, and lower manufacturing yields for power devices for satellite communication systems reduced operating margin by 20 basis points. These decreases in operating margin were partially offset by 80 basis points due primarily to higher sales volume for integrated sensor systems.  
+
+2010 Compared with 2009  
+
+Electronic Systems net sales for the year ended December 31, 2010 decreased by 2% compared to the year ended December 31, 2009, reflecting lower sales volume of: (1) $113 million for combat propulsion systems due to a reduction in DoD funding for Bradley Fighting Vehicles, (2) $107 million due to reduced demand for commercial ship building products, and (3) $168 million from precision engagement, marine services, training & simulation, and displays due to contracts nearing completion. These decreases were partially offset by $94 million of sales volume increases due primarily to higher demand for integrated sensor systems products to the U.S. Army, microwave products and security & detection systems, and $9 million from the sale of a technology license. Acquired businesses, primarily Insight and 3Di, contributed $194 million to net sales.  
+
+57  
+
+Table of Contents 
+
+Electronic Systems operating income for the year ended December 31, 2010 increased by 14% compared to the year ended December 31, 2009. Operating margin increased by 190 basis points. Favorable sales mix across several businesses, primarily integrated sensor systems products, increased operating margin by 150 basis points. Additionally, three items comprised of: (1) the sale of a technology license for $9 million, (2) a volume price adjustment on a supply contract of $6 million, and (3) a favorable contract modification for precision engagement of $5 million, collectively increased operating income by $20 million and operating margin by 40 basis points compared to the year ended December 31, 2009. Lower pension expense of $10 million increased operating margin by 20 basis points. These increases were partially offset by severance charges of $11 million, which reduced operating margin by 20 basis points.  
+
+Liquidity and Capital Resources  
+
+Anticipated Sources and Uses of Cash Flow  
+
+At December 31, 2011, we had total cash and cash equivalents of $764 million. While no amounts of the cash and cash equivalents are considered restricted, $208 million was held by the Companys foreign subsidiaries. The repatriation of cash held in non-U.S. jurisdictions is subject to local capital requirements, as well as income tax considerations. Our primary source of liquidity is cash flow generated from operations. We generated $1,484 million of cash from operating activities during the year ended December 31, 2011. Significant cash uses during the year ended December 31, 2011, included $958 million to repurchase shares of our common stock, and $188 million for dividends.  
+
+As of December 31, 2011, we also had $997 million of borrowings available under our Revolving Credit Facility, after reductions of $3 million for outstanding letters of credit, subject to certain conditions. On February 3, 2012, we amended and restated our Revolving Credit Facility (Amended and Restated Revolving Credit Facility), which also extended the expiration date to February 3, 2017. We currently believe that our cash from operating activities together with our cash on hand, and available borrowings under our Amended and Restated Revolving Credit Facility will be adequate for the foreseeable future to meet our anticipated requirements for working capital, capital expenditures, defined benefit plan contributions, commitments, contingencies, research and development expenditures, business acquisitions (depending on the size), contingent purchase price payments on previous business acquisitions, program and other discretionary investments, interest payments, income tax payments, L-3 Holdings dividends and share repurchases.  
+
+Our business may not continue to generate cash flow at current levels, and it is possible that currently anticipated improvements may not be achieved. If we are unable to generate sufficient cash flow from operations to service our debt, we may be required to reduce costs and expenses, sell assets, reduce capital expenditures, reduce dividend payments, refinance all or a portion of our existing debt or obtain additional financing, which we may not be able to do on a timely basis, on satisfactory terms, or at all. Our ability to make scheduled principal payments or to pay interest on or to refinance our indebtedness depends on our future performance and financial results, which, to a certain extent, are subject to general conditions in or affecting the U.S. defense industry and to general economic, political, financial, competitive, legislative and regulatory factors beyond our control.  
+
+For a discussion of our debt refinancing activities during 2011, which improved our debt maturity profile and reduced ongoing interest expense, see Financing Activities-Debt on page 62.  
+
+Balance Sheet  
+
+Billed receivables decreased by $59 million to $1,240 million at December 31, 2011 from $1,299 million at December 31, 2010 due to the timing of billings and collections primarily for government services, commercial shipbuilding, network communications, undersea warfare, microwave, and display systems. These decreases were partially offset by increases in integrated sensor systems and ISR services due to higher sales, and the timing of billings and collections for simulation & training and AM&M.  
+
+58  
+
+Table of Contents 
+
+Contracts in process increased by $81 million to $2,629 million at December 31, 2011 from $2,548 million at December 31, 2010 due to the following:  
+
+       Increases of $18 million in unbilled contract receivables primarily due to sales exceeding billings for networked communications, secure communications, ISR services, and commercial shipbuilding, partially offset by decreases due to lower sales and billings for government services, and combat propulsion systems; and  
+
+       Increases of $63 million in inventoried contract costs across several business areas, primarily AM&M for spare parts, integrated sensor systems and space & propulsion systems to support current and anticipated customer demand, and Government Services inventoried pre-contract costs in anticipation of a Q1 2012 award, offset by decreases in precision engagement due to product deliveries.  
+
+L-3s receivables days sales outstanding (DSO) was 73 at December 31, 2011, compared with 70 at December 31, 2010. The increase in DSO was primarily due to the decrease in our trailing 12 month pro forma sales, partially offset by the decrease in billed receivables. We calculate our DSO by dividing: (1) our aggregate end of period billed receivables and net unbilled contract receivables, by (2) our trailing 12 month sales adjusted, on a pro forma basis, to include sales from business acquisitions and exclude sales from business divestitures that we completed as of the end of the period, multiplied by the number of calendar days in the trailing 12 month period (365 days at both December 31, 2011 and December 31, 2010). Our trailing 12 month pro forma sales were $15,180 million at December 31, 2011 and $15,850 million at December 31, 2010.  
+
+The increase in inventories was primarily due to higher inventory for commercial shipbuilding to support demand, shipping delays for Warrior Systems, and $2 million of acquired inventories from business acquisitions. These increases were partially offset by lower microwave inventory.  
+
+The decrease in other current assets was primarily due to applying expected tax refunds, primarily for U.S. federal and state income taxes, to current year estimated tax payments.  
+
+The increase in net property, plant and equipment (PP&E) was principally due to capital expenditures, partially offset by depreciation expense.  
+
+Goodwill decreased by $33 million to $8,697 million at December 31, 2011 from $8,730 million at December 31, 2010.  
+
+The table below presents the changes in goodwill applicable to our reporting units in each reportable segment.  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1)   The changes in goodwill from foreign currency translation adjustments are due to fluctuations in the U.S. dollar and foreign currency exchange rates. The decrease in goodwill presented in the AM&M and Electronic Systems segments during 2011 was primarily due to the strengthening of the U.S. dollar against the Canadian dollar and the Euro.  
+
+ (2)   As a result of re-alignments of business units in our management and organizational structure as discussed in Note 2, goodwill was reclassified on a relative fair value basis among the C3ISR, Government Services and Electronic Systems segments during the quarter ended April 1, 2011.  
+
+59  
+
+Table of Contents 
+
+The decrease in identifiable intangible assets was primarily due to amortization expense partially offset by the recognition of $5 million of intangible assets for the business acquisitions during 2011.  
+
+The fluctuation in accounts payable and accrued expenses were primarily due to the timing of when invoices for purchases from third-party vendors and subcontractors were received and payments were made. The decrease in accrued employment costs was due to the timing of payments and reductions in headcount for payroll taxes and salaries and wages, reduced incentive compensation and lower benefit costs.  
+
+The decrease in advance payments and billings in excess of costs incurred was primarily due to liquidations upon shipment and invoicing for certain microwave, security & detection systems, and power & control systems contracts, partially offset by increases in performance based billings for certain AM&M, C3ISR and undersea warfare contracts.  
+
+Non-current deferred income tax liabilities increased primarily due to amortization of certain goodwill and other identifiable intangible assets during 2011 for tax purposes. Other liabilities decreased primarily due to the reversal of previously accrued income tax expense related to tax years for which the statutes of limitations had expired.  
+
+Pension Plans  
+
+L-3 maintains defined benefit pension plans covering employees at certain of its businesses and approximately 22% of its employees. At December 31, 2011, L-3s projected benefit obligation, which includes accumulated benefits plus the incremental benefits attributable to projected future salary increases for covered employees, was $2,679 million and exceeded the fair value of L-3s pension plan assets of $1,712 million by $967 million. At December 31, 2010, L-3s projected benefit obligation was $2,365 million and exceeded the fair value of L-3s pension plan assets of $1,585 million by $780 million. The $187 million increase in our unfunded status was due to pension expense of $145 million for 2011, and a net increase of $218 million in accumulated other comprehensive loss comprised of $268 million primarily for net actuarial losses experienced in 2011 and $50 million of amortization of net actuarial losses and prior service costs as a component of pension expense in 2011, partially offset by employer pension contributions of $176 million.  
+
+The 2011 increase of $268 million in accumulated other comprehensive loss as noted above was primarily due to (i) the reduction in our weighted average discount rate from 5.57% at December 31, 2010 to 5.02% at December 31, 2011 and (ii) our actual 2011 pension plan asset return of approximately 4%, which was lower than our weighted average expected long-term rate of return assumption of 8.55%. The actuarial gains and losses that our pension plans experience are not recognized in pension expense in the year incurred, but rather are recorded as a component of accumulated other comprehensive income (loss) and amortized to pension expense in future periods over the estimated average remaining service periods of the covered employees. See Note 20 to our audited consolidated financial statements.  
+
+Our pension expense for 2011 was $145 million. We currently expect pension expense for 2012 to increase $34 million to approximately $179 million primarily due to the reduction in our weighted average discount rate and a change in the expected long-term return on plan assets assumption for our U.S. pension plans to 8.25% in 2012 from 8.75% in 2011.  
+
+Our pension expense for 2012 may be different from our current expectations when finalized due to a number of factors, including the effect of any future business acquisitions for which we assume liabilities for pension benefits, changes in headcount at our businesses that sponsor pension plans, actual pension plan contributions and changes (if any) to our pension assumptions for 2012, including the discount rate, expected long-term return on plan assets and salary increases. The businesses that will comprise Engility do not have any employees who participate in our pension plans.  
+
+60  
+
+Table of Contents 
+
+Our contributions for 2011 were $176 million and we currently expect to contribute approximately $173 million to our pension plans in 2012. Actual 2012 pension contributions could be affected by changes in the funded status of our pension plans during 2012. A substantial portion of our pension plan contributions for L-3s businesses that are U.S. Government contractors are recoverable as allowable indirect contract costs at amounts generally equal to the annual pension contributions.  
+
+Our projected benefit obligation and annual pension expense are significantly affected by our discount rate assumption. For example, a reduction to the discount rate of 25 basis points would increase our projected benefit obligation at December 31, 2011 by approximately $95 million and our estimated pension expense for 2012 by approximately $12 million. Conversely, an increase to the discount rate of 25 basis points would have decreased our projected benefit obligation at December 31, 2011 by approximately $91 million, and our estimated pension expense for 2012 by approximately $11 million.  
+
+Statement of Cash Flows  
+
+The table below provides a summary of our cash flows from operating, investing, and financing activities for the periods indicated.  
+
+  [DATA_TABLE_REMOVED] 
+
+Operating Activities  
+
+2011 Compared with 2010. We generated $1,484 million of cash from operating activities during the year ended December 31, 2011, an increase of $23 million compared with $1,461 million generated during the year ended December 31, 2010. The increase was primarily due to lower tax payments.  
+
+2010 Compared with 2009. We generated $1,461 million of cash from operating activities during the year ended December 31, 2010, an increase of $54 million compared with $1,407 million generated during the year ended December 31, 2009. The increase was due to $55 million of higher net income and $51 million of higher non-cash expenses primarily for higher deferred income taxes and stock-based employee compensation. These increases were partially offset by $52 million of more net cash used for changes in operating assets and liabilities primarily for billed receivables and pension and postretirement benefits. The net cash from changes in operating assets and liabilities is further discussed above under Liquidity and Capital Resources  Balance Sheet beginning on page 58.  
+
+Interest Payments. Our cash from operating activities included interest payments on debt of $238 million for the year ended December 31, 2011, $233 million for the year ended December 31, 2010, and $237 million for the year ended December 31, 2009. Our interest expense also included amortization of deferred debt issue costs and bond discounts, which are non-cash items.  
+
+Investing Activities  
+
+During 2011, we used $203 million of cash primarily to: (1) acquire two businesses discussed under Business Acquisitions and Dispositions on page 40 and (2) pay $192 million for capital expenditures.  
+
+During 2010, we used $945 million of cash primarily to: (1) acquire four businesses discussed under Business Acquisitions and Dispositions on page 40, (2) pay $181 million for capital expenditures, and (3) invest $23 million in an unconsolidated subsidiary accounted for using the equity method.  
+
+61  
+
+Table of Contents 
+
+During 2009, we used $272 million of cash primarily to: (1) acquire a business and pay the remaining contractual purchase price for a business acquisition completed prior to January 1, 2009 for a total of $90 million, and (2) pay $186 million for capital expenditures.  
+
+Financing Activities  
+
+Debt  
+
+At December 31, 2011, total outstanding debt was $4,125 million, of which $2,938 million was senior debt and $1,187 million was subordinated debt and CODES, compared to $4,137 million at December 31, 2010, of which $1,794 million was senior debt and $2,343 million was subordinated debt and CODES. At December 31, 2011, borrowings available under our $1 billion Revolving Credit Facility were $997 million, after reduction for outstanding letters of credit of $3 million. We also had $407 million of other standby letters of credit at December 31, 2011, that may have been drawn upon in the event that we did not perform on certain of our contractual requirements. There were no borrowings outstanding under our Revolving Credit Facility at December 31, 2011. At December 31, 2011, our outstanding debt matures between October 15, 2015 and August 1, 2035. See Note 10 to our audited consolidated financial statements for the components of our debt at December 31, 2011.  
+
+Debt Issuances  
+
+The terms of each of the outstanding Senior Notes issued by L-3 Communications during the years ended December 31, 2011, 2010 and 2009 are presented in the table below.  
+
+  [DATA_TABLE_REMOVED] 
+
+Debt Repayments  
+
+We used the net cash proceeds from the Senior Note issuances, together with cash on hand, to repay our outstanding $650 million term loan on October 7, 2009 and redeem certain of our outstanding Senior Subordinated Notes. Information on the Senior Subordinated Notes we redeemed during the years ended December 31, 2011, 2010 and 2009 is presented in the table below.  
+
+  [DATA_TABLE_REMOVED] 
+
+On February 2, 2011, we repurchased approximately $11 million of our CODES as a result of the exercise by the holders of their contractual right to require us to repurchase their CODES. The CODES are subject to redemption at the option of L-3 Holdings, in whole or in part, at a cash redemption price (plus accrued and unpaid interest, including contingent interest and additional interest, if any) equal to 100% of the principal amount of CODES. We may, from time to time, make open market purchases of our outstanding debt securities,  
+
+62  
+
+Table of Contents 
+
+ including the CODES. Whether or not we repurchase any of our outstanding debt securities, including the CODES, the amount of any such repurchases will vary depending on numerous factors, including, without limitation, the trading price of our debt, other market conditions, our ongoing capital allocation planning, the levels of our cash and debt balances, other demands for cash, such as acquisition activity, and general economic conditions.  
+
+Debt Covenants and Other Provisions. The Amended and Restated Revolving Credit Facility, senior notes and senior subordinated notes contain financial and/or other restrictive covenants. See Note 10 to our audited consolidated financial statements for a description of our debt and related financial covenants, including dividend payment and share repurchase restrictions and cross default provisions. As of December 31, 2011, we were in compliance with our financial and other restrictive covenants.  
+
+Under select conditions, including if L-3 Holdings common stock price is more than 120% (currently $115.78) of the then current conversion price (currently $96.48) for a specified period, the conversion feature of the CODES will require L-3 Holdings, upon conversion, to pay the holders of the CODES the principal amount in cash, and if the settlement amount exceeds the principal amount, the excess will be settled in cash or stock or a combination thereof, at our option. See Note 10 to our audited consolidated financial statements for additional information regarding the CODES, including conditions for conversion. L-3 Holdings closing stock price of February 28, 2012 was $70.28 per share.  
+
+Guarantees. The borrowings under the Amended and Restated Revolving Credit Facility are fully and unconditionally guaranteed by L-3 Holdings and by substantially all of the material wholly-owned domestic subsidiaries of L-3 Communications on an unsecured senior basis. The payment of principal and premium, if any, and interest on the senior notes are fully and unconditionally guaranteed, on an unsecured senior basis, jointly and severally, by L-3 Communications material wholly-owned domestic subsidiaries that guarantee any of its other indebtedness. The payment of principal and premium, if any, and interest on the senior subordinated notes are fully and unconditionally guaranteed, on an unsecured senior subordinated basis, jointly and severally, by L-3 Communications wholly-owned domestic subsidiaries that guarantee any of its other indebtedness. The payment of principal and premium, if any, and interest on the CODES are fully and unconditionally guaranteed, on an unsecured senior subordinated basis, jointly and severally, by L-3 Communications and its wholly-owned domestic subsidiaries that guarantee any of its other liabilities.  
+
+Subordination. The guarantees of the Amended and Restated Revolving Credit Facility and the senior notes rank senior to the guarantees of the senior subordinated notes and the CODES and rank pari passu with each other. The guarantees of the senior subordinated notes and CODES rank pari passu with each other and are junior to the guarantees of the Amended and Restated Revolving Credit Facility and senior notes.  
+
+Equity  
+
+During 2011 and 2010, L-3 Holdings Board of Directors authorized the following quarterly cash dividends:  
+
+  [DATA_TABLE_REMOVED] 
+
+63  
+
+Table of Contents 
+
+On February 7, 2012, L-3 Holdings announced that its Board of Directors had increased L-3 Holdings regular quarterly cash dividend by 11% to $0.50 per share, payable on March 15, 2012, to shareholders of record at the close of business on March 1, 2012.  
+
+On February 21, 2012, the number of holders of L-3 Holdings common stock was approximately 39,650. On February 28, 2012, the closing price of L-3 Holdings common stock, as reported by the NYSE, was $70.28 per share.  
+
+For the year ended December 31, 2011, L-3 Holdings repurchased $958 million, or 13.3 million shares, of its common stock compared to $834 million, or 11.0 million shares, of its common stock for the year ended December 31, 2010.  
+
+Contractual Obligations  
+
+The table below presents our estimated total contractual obligations at December 31, 2011, including the amounts expected to be paid or settled for each of the periods indicated below.  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1)   Represents principal amount of long-term debt and only includes scheduled principal payments.  
+
+ (2)   The CODES are convertible into cash and shares of L-3 Holdings common stock based on a conversion rate of 10.3644 shares of L-3 Holdings common stock per one thousand dollars in principal amount of the CODES (equivalent to a current conversion price of $96.48 per share). The conversion feature of the CODES may require L-3 Holdings to settle the principal amount with the holders of the CODES if L-3 Holdings common stock price is more than 120% of the then current conversion price (currently $115.78) for a specified period, and if the settlement amount exceeds the principal amount, the excess will be settled in cash or stock or a combination thereof, at our option. Additionally, holders of the CODES may require L-3 Holdings to repurchase the CODES, in whole or in part, on February 1, 2016, February 1, 2021, February 1, 2026 and February 1, 2031 at a cash repurchase price equal to 100% of the principal amount of the CODES (plus accrued and unpaid interest, if any). See Note 10 to our audited consolidated financial statements for additional information regarding the CODES, including conditions for conversion and contingent interest features. L-3 Holdings stock price on February 28, 2012 was $70.28.  
+
+ (3)   Represents expected interest payments on L-3s long-term debt balance as of December 31, 2011 using the stated interest rate on our fixed rate debt, assuming that current borrowings remain outstanding to the contractual maturity date.  
+
+ (4)   Non-cancelable operating leases are presented net of estimated sublease rental income.  
+
+ (5)   Represents open purchase orders at December 31, 2011 for amounts expected to be paid for goods or services that are legally binding.  
+
+ (6)   Other long-term liabilities primarily consist of workers compensation and deferred compensation for the years ending December 31, 2013 and thereafter and also include pension and postretirement benefit plan contributions that we expect to pay in 2012.  
+
+ (7)   Our pension and postretirement benefit plan funding policy is generally to contribute in accordance with cost accounting standards that affect government contractors, subject to the Internal Revenue Code and regulations thereon. For 2012, we expect to contribute approximately $173 million to our pension plans and approximately $13 million to our postretirement benefit plans. Due to the current uncertainty of the amounts used to compute our expected pension and postretirement benefit plan funding, we believe it is not practicable to reasonably estimate such future funding for periods in excess of one year and we may decide or be required to contribute more than we expect to our pension and postretirement plans.  
+
+ (8)   Excludes all income tax obligations, a portion of which represents unrecognized tax benefits in connection with uncertain tax positions taken, or expected to be taken on our income tax returns as of December 31, 2011 since we cannot determine the time period of future tax consequences. For additional information regarding income taxes, see Note 17 to our audited consolidated financial statements.  
+
+64  
+
+Table of Contents 
+
+Off Balance Sheet Arrangements  
+
+The table below presents our estimated total contingent commitments and other guarantees at December 31, 2011, including the amounts expected to be paid or settled for each of the periods indicated below.  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1)   Represents outstanding letters of credit with financial institutions covering performance and financial guarantees per contractual requirements with certain customers. These letters of credit may be drawn upon in the event of L-3s nonperformance.  
+
+ (2)   Represents the minimum guarantees made by L-3 or the lessee under the purchase option for certain operating leases in which the lease renewal is not exercised (see Note 19 to our audited consolidated financial statements for a description of these guarantees).  
+
+ (3)   Represents potential additional contingent purchase payments for business acquisitions that are contingent upon the post-acquisition financial performance or certain other performance conditions of the acquired businesses in accordance with the contractual purchase agreement. At December 31, 2011, our consolidated balance sheet includes $16 million within the other liabilities caption for the fair value of these contingent purchase payments.  
+
+ (4)   The total amount does not include residual value guarantees for two real estate lease agreements that are accounted for as operating leases. We have the right to exercise options under the lease agreements to purchase both properties for $28 million on or before August 31, 2012. See Note 19 to our audited consolidated financial statements for a further description of these leases.  
+
+Legal Proceedings and Contingencies  
+
+We are engaged in providing products and services under contracts with the U.S. Government and, to a lesser degree, under foreign government contracts, some of which are funded by the U.S. Government. All such contracts are subject to extensive legal and regulatory requirements, and, periodically, agencies of the U.S. Government investigate whether such contracts were and are being conducted in accordance with these requirements. Under U.S. Government procurement regulations, an indictment by a federal grand jury, or an administrative finding against us as to our present responsibility to be a U.S. Government contractor or subcontractor, could result in the suspension for a period of time from eligibility for awards of new government contracts or task orders or in a loss of export privileges. A conviction, or an administrative finding that satisfies the requisite level of seriousness, could result in debarment from contracting with the federal government for a specified term. We are currently cooperating with the U.S. Government on several investigations, none of which we anticipate will have a material adverse effect on our consolidated financial position, results of operations or cash flows.  
+
+We continually assess our obligations with respect to applicable environmental protection laws. While it is difficult to determine the timing and ultimate cost that we will incur to comply with these laws, based upon available internal and external assessments, with respect to those environmental loss contingencies of which we are aware, we believe that even without considering potential insurance recoveries, if any, there are no environmental loss contingencies that, in the aggregate, would be material to our consolidated financial position, results of operations or cash flows. Also, we have been periodically subject to litigation, government investigations, proceedings, claims or assessments and various contingent liabilities incidental to our business. We accrue for these contingencies when it is probable that a liability has been incurred and the amount of the loss can be reasonably estimated. For a description of our legal proceedings and contingencies, see Note 19 to our audited consolidated financial statements.  
+
+65  
+
+Table of Contents 
+
+Derivative Financial Instruments and Other Market Risk  
+
+Included in our derivative financial instruments are foreign currency forward contracts. All of our derivative financial instruments that are sensitive to market risk are entered into for purposes other than trading.  
+
+Interest Rate Risk. Our Amended and Restated Revolving Credit Facility is subject to variable interest and is therefore sensitive to changes in interest rates. The interest rates on the Senior Notes, senior subordinated notes, and CODES are fixed-rate and are not affected by changes in interest rates. Additional data on our debt obligations and our applicable borrowing spreads included in the interest rates we would pay on borrowings under the Amended and Restated Revolving Credit Facility, if any, are provided in Note 10 to our audited consolidated financial statements.  
+
+Foreign Currency Exchange Risk. Our U.S. and foreign businesses enter into contracts with customers, subcontractors or vendors that are denominated in currencies other than their functional currencies. To protect the functional currency equivalent cash flows associated with certain of these contracts, we enter into foreign currency forward contracts, which are generally designated and accounted for as cash flow hedges. At December 31, 2011, the notional value of foreign currency forward contracts was $335 million and the net fair value of these contracts was an asset of $1 million. The notional values of our foreign currency forward contracts with maturities ranging through 2016 and thereafter are presented in the table below.  
+
+  [DATA_TABLE_REMOVED] 
+
+Accounting Standards Issued and Not Yet Implemented  
+
+For a discussion of accounting standards issued and not yet implemented, see Note 2 to our audited consolidated financial statements.  
+
+Inflation  
+
+The effect of inflation on our sales and earnings has not been significant. Although a majority of our sales are made under long-term contracts (revenue arrangements), the selling prices of such contracts, established for deliveries in the future, generally reflect estimated costs to be incurred in these future periods. In addition, some of our contracts provide for price adjustments through cost escalation clauses.  
+
+Forward-Looking Statements  
+
+Certain of the matters discussed concerning our operations, cash flows, financial position, economic performance and financial condition, including in particular, the likelihood of our success in developing and expanding our business and the realization of sales from backlog, include forward-looking statements within the meaning of Section 27A of the Securities Act and Section 21E of the Exchange Act.  
+
+Statements that are predictive in nature, that depend upon or refer to events or conditions or that include words such as expects, anticipates, intends, plans, believes, estimates and similar expressions are forward-looking statements. Although we believe that these statements are based upon reasonable assumptions, including projections of total sales growth, sales growth from business acquisitions, organic sales growth, consolidated operating margins, total segment operating margins, interest expense, earnings, cash flow, research and development costs, working capital, capital expenditures and other projections, they are subject to several risks and uncertainties, and therefore, it is possible that these statements may not be achieved. Such statements will also be influenced by factors which include, among other things:  
+
+       timing and completion of the planned spin-off of the businesses that will comprise Engility and our ability to achieve anticipated benefits;  
+
+66  
+
+Table of Contents 
+
+       the effects on the businesses that will comprise Engility leading up to the planned spin-off;  
+
+       our dependence on the defense industry and the business risks peculiar to that industry, including changing priorities or reductions in the U.S. Government defense budget;  
+
+       backlog processing and program slips resulting from delayed funding of the DoD budget;  
+
+       our reliance on contracts with a limited number of agencies of, or contractors to, the U.S. Government and the possibility of termination of government contracts by unilateral government action or for failure to perform;  
+
+       the extensive legal and regulatory requirements surrounding our contracts with the U.S. or foreign governments and the results of any investigation of our contracts undertaken by the U.S. or foreign governments, including potential suspensions or debarments;  
+
+       our ability to retain our existing business and related contracts (revenue arrangements);  
+
+       our ability to successfully compete for and win new business and related contracts (revenue arrangements) and to win re-competitions of our existing contracts;  
+
+       our ability to identify and acquire additional businesses in the future with terms, including the purchase price, that are attractive to L-3 and to integrate acquired business operations;  
+
+       our ability to maintain and improve our consolidated operating margin and total segment operating margin in future periods;  
+
+       our ability to obtain future government contracts (revenue arrangements) on a timely basis;  
+
+       the availability of government funding and changes in customer requirements for our products and services;  
+
+       our significant amount of debt and the restrictions contained in our debt agreements;  
+
+       our ability to continue to retain and train our existing employees and to recruit and hire new qualified and skilled employees, as well as our ability to retain and hire employees with U.S. Government security clearances that are a prerequisite to compete for and to perform work on classified contracts for the U.S. Government;  
+
+       actual future interest rates, volatility and other assumptions used in the determination of pension benefits and equity-based compensation, as well as the market performance of benefit plan assets;  
+
+       our collective bargaining agreements, our ability to successfully negotiate contracts with labor unions and our ability to favorably resolve labor disputes should they arise;  
+
+       the business, economic and political conditions in the markets in which we operate, including those for the commercial aviation, shipbuilding and communications markets;  
+
+       global economic uncertainty;  
+
+       the DoDs contractor support services in-sourcing and efficiency initiatives;  
+
+       events beyond our control such as acts of terrorism;  
+
+       our ability to perform contracts (revenue arrangements) on schedule;  
+
+67  
+
+Table of Contents 
+
+       our international operations, including sales to foreign customers;  
+
+       our extensive use of fixed-price type contracts as compared to cost-plus type and time-and-material type contracts;  
+
+       the rapid change of technology and high level of competition in the defense industry and the commercial industries in which our businesses participate;  
+
+       our introduction of new products into commercial markets or our investments in civil and commercial products or companies;  
+
+       the outcome of litigation matters, particularly in connection with jury trials;  
+
+       results of audits by U.S. Government agencies, including the Defense Contract Audit Agency, of our sell prices, costs and performance on contracts (revenue arrangements), and our accounting and general business practices;  
+
+       the impact on our business of improper conduct by our employees, agents, or business partners;  
+
+       anticipated cost savings from business acquisitions not fully realized or realized within the expected time frame;  
+
+       the outcome of matters relating to the Foreign Corrupt Practices Act (FCPA) and similar non-U.S. regulations;  
+
+       ultimate resolution of contingent matters, claims and investigations relating to acquired businesses, and the impact on the final purchase price allocations;  
+
+       significant increase in competitive pressure among companies in our industry; and  
+
+       the fair values of our assets, including identifiable intangible assets and the estimated fair value of the goodwill balances for our reporting units, which can be impaired or reduced by other factors, some of which are discussed above.  
+
+In addition, for a discussion of other risks and uncertainties that could impair our results of operations or financial condition, see Part I  Item 1A  Risk Factors and Note 19 to our audited consolidated financial statements, in each case included in this Annual Report on Form 10-K for the year ended December 31, 2011.  
+
+Readers of this document are cautioned that our forward-looking statements are not guarantees of future performance and the actual results or developments may differ materially from the expectations expressed in the forward-looking statements.  
+
+As for the forward-looking statements that relate to future financial results and other projections, actual results will be different due to the inherent uncertainties of estimates, forecasts and projections and may be better or worse than projected and such differences could be material. Given these uncertainties, you should not place any reliance on these forward-looking statements. These forward-looking statements also represent our estimates and assumptions only as of the date that they were made. We expressly disclaim a duty to provide updates to these forward-looking statements, and the estimates and assumptions associated with them, after the date of this filing to reflect events or changes in circumstances or changes in expectations or the occurrence of anticipated events.  
+
+68  
+
+Table of Contents 
+
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk

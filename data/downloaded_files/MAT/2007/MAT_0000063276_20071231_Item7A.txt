@@ -1,0 +1,41 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk.  
+
+Foreign Currency Exchange Rate Risk  
+
+Currency exchange rate fluctuations may impact Mattels results of operations and cash flows. Inventory purchase transactions denominated in the Euro, British pound sterling, Canadian dollar, Mexican peso, Hong Kong dollar, Indonesian rupiah, and Venezuela bolivar were the primary transactions that caused currency transaction exposure for Mattel during 2007, 2006, and 2005. Mattel seeks to mitigate its exposure to market risk by monitoring its currency transaction exposure for the year and partially hedging such exposure using foreign currency forward exchange contracts primarily to hedge its purchase and sale of inventory, and other intercompany transactions denominated in foreign currencies. These contracts generally have maturity dates of up to 18 months. For those intercompany receivables and payables that are not hedged, the transaction gains or losses are recorded in the consolidated statement of operations in the period in which the exchange rate changes as part of operating income or other non-operating income, net based on the nature of the underlying transaction. Transaction gains or losses on hedged intercompany inventory transactions are recorded in the consolidated statement of operations in the period in which the inventory is sold to customers. In addition, Mattel manages its exposure to currency exchange rate fluctuations through the selection of currencies used for international borrowings. Mattel does not trade in financial instruments for speculative purposes.  
+
+Mattels financial position is also impacted by currency exchange rate fluctuations on translation of its net investment in subsidiaries with non-US dollar functional currencies. Assets and liabilities of subsidiaries with non-US dollar functional currencies are translated into US dollars at fiscal year-end exchange rates. Income, expense and cash flow items are translated at weighted average exchange rates prevailing during the fiscal year. The resulting currency translation adjustments are recorded as a component of accumulated other comprehensive loss within stockholders equity. Mattels primary currency translation exposures during 2007 were related to its net investment in entities having functional currencies denominated in the Euro, Mexican peso, Indonesian rupiah, British pound sterling, and Brazilian real.  
+
+Mattels foreign currency forward exchange contracts that were used to hedge firm foreign currency commitments as of December 31, 2007 are shown in the following table. All contracts are against the US dollar and are maintained by reporting units with a US dollar functional currency, with the exception of the Indonesian rupiah contracts, which are maintained by entities with a rupiah functional currency.  
+
+58  
+
+ [DATA_TABLE_REMOVED] 
+
+ * The weighted average contract rate for these contracts is quoted in US dollar per local currency.   
+
+For the purchase of foreign currencies, fair value reflects the amount, based on dealer quotes, that Mattel would pay at maturity for contracts involving the same currencies and maturity dates, if they had been entered into as of December 31, 2007. For the sale of foreign currencies, fair value reflects the amount, based on dealer quotes, that Mattel would receive at maturity for contracts involving the same currencies and maturity dates, if they had been entered into as of December 31, 2007. The differences between the fair value and the contract amounts are expected to be fully offset by currency transaction gains and losses on the underlying hedged transactions.  
+
+In addition to the contracts involving the US dollar detailed in the above table, Mattel also had contracts to sell British pound sterling for the purchase of Euro. As of December 31, 2007, these contracts had a contract amount of $67.3 million and a fair value of $66.4 million.  
+
+Had Mattel not entered into hedges to limit the effect of currency exchange rate fluctuations on its results of operations and cash flows, its income before income taxes would have increased by approximately $7 million in 2007 and decreased by approximately $1 million in 2006 and $3 million in 2005.  
+
+Interest Rate Risk  
+
+In December 2005, Mattel, MAPS, a wholly-owned subsidiary of Mattel, Bank of America, N.A., as a lender and administrative agent, and other financial institutions executed a credit agreement (the MAPS facility) which provided for (i) a term loan facility of $225.0 million consisting of a term loan advanced to MAPS in the original principal amount of $225.0 million, with $50.0 million of such amount to be repaid on each of December 15, 2006 and December 15, 2007, and the remaining aggregate principal amount of $125.0 million to be repaid on December 9, 2008, and (ii) a revolving loan facility consisting of revolving loans advanced to MAPS in the maximum aggregate principal amount at any time outstanding of $100.0 million, with a maturity date of December 9, 2008. Interest was charged at various rates selected by Mattel based on Eurodollar rates or bank reference rates. On December 15, 2006, in addition to the required payment of $50.0 million, MAPS   
+
+59  
+
+ prepaid an incremental $125.0 million of the MAPS term loan facility. The remaining $50.0 million principal amount, consisting of $14.3 million due on December 15, 2007 and $35.7 million due on December 9, 2008, was prepaid on January 16, 2007. As a result of such pre-payments, the MAPS term loan facility terminated in accordance with its terms, but the MAPS revolving loan facility remained in effect. On March 26, 2007, Mattel terminated the MAPS revolving loan facility. Mattel did not incur any early termination penalties in connection with the termination of the MAPS revolving loan facility.  
+
+In June 2006, Mattel issued $100.0 million of unsecured floating rate senior notes (Floating Rate Senior Notes) due June 15, 2009 and $200.0 million of unsecured 6.125% senior notes (6.125% Senior Notes) due June 15, 2011 (collectively Senior Notes). Interest on the Floating Rate Senior Notes is based on the three-month US dollar LIBOR plus 40 basis points with interest payable quarterly beginning September 15, 2006. Interest on the 6.125% Senior Notes is payable semi-annually beginning December 15, 2006. The 6.125% Senior Notes may be redeemed at any time at the option of Mattel at a redemption price equal to the greater of (i) the principal amount of the notes being redeemed plus accrued interest to the redemption date, or (ii) a make whole amount based on the yield of a comparable US Treasury security plus 20 basis points.  
+
+In June 2006, Mattel entered into two interest rate swap agreements on the $100.0 million Floating Rate Senior Notes, each with a notional amount of $50.0 million, for the purpose of hedging the variability of cash flows in the interest payments due to fluctuations of the LIBOR benchmark interest rate. These cash flow hedges are accounted for under SFAS No. 133, Accounting for Derivative Instruments and Hedging Activities, whereby the hedges are reported in Mattels consolidated balance sheets at fair value, with changes in the fair value of the hedges reflected in accumulated other comprehensive loss. Under the terms of the agreements, Mattel receives quarterly interest payments from the swap counterparties based on the three-month LIBOR plus 40 basis points and makes semi-annual interest payments to the swap counterparties based on a fixed rate of 5.87125%. The three-month LIBOR used to determine interest payments under the interest rate swap agreements resets every three months, matching the variable interest on the Floating Rate Senior Notes. The agreements expire in June 2009, which corresponds with the maturity of the Floating Rate Senior Notes.  
+
+Interest Rate Sensitivity  
+
+An assumed 50 basis point movement in interest rates on Mattels variable rate borrowings would have had an immaterial impact on its results of operations for 2007.  
+
+60  
+
+  Item 8. Financial Statements and Supplementary Data.

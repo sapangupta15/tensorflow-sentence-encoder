@@ -1,0 +1,495 @@
+Item 7. Managements Discussion and Analysis of Financial Condition and Results of Operations  
+
+Results of Operations  
+
+Non-GAAP Measures  
+
+The following discussion includes organic sales and free cash flow, which are non-GAAP measures. See Supplemental Sales Information for a reconciliation of reported sales to organic sales in addition to a discussion of why we believe this non-GAAP measure is useful to investors. See Financial Condition for a reconciliation of cash flows from operating activities to free cash flow and a discussion of why we believe this non-GAAP measure is useful to investors.  
+
+Overview  
+
+We are a leading global provider of industrial automation power, control and information solutions that help manufacturers achieve a competitive advantage for their businesses. Overall demand for our products and services is driven by:  
+
+        investments in manufacturing capacity, including upgrades, modifications, and expansions of existing manufacturing facilities, and the creation of new manufacturing facilities;  
+
+        our customers needs for greater productivity, sustainable production (cleaner, safer and more energy efficient), cost reduction, quality assurance and improvement and overall global competitiveness;  
+
+        industry factors that include our customers new product introductions, trends in the actual and forecasted demand for our customers products or services, and the regulatory and competitive environments in which our customers operate;  
+
+        levels of global industrial production;  
+
+        regional factors that include local political, social, regulatory and economic circumstances; and  
+
+        the seasonal spending patterns of our customers due to their annual budgeting processes and their working schedules.  
+
+Long-term Strategy  
+
+Our long-term growth and performance strategy is characterized by the careful balance of sustained organic growth and profitability. This strategy seeks to:  
+
+        deploy human and financial resources in order to strengthen our technology leadership and allow us to capture a larger share of our customers spending and continue to transform our business model into one that is based less on tangible assets and more on intellectual capital;  
+
+        enhance our market access by increasing our solutions and service capabilities, advancing our global presence and delivering our products and solutions to a wider range of targeted industries;  
+
+        expand our served market by increasing our ability to meet our customers needs in the areas of process control, safety control and information software;  
+
+        look for potential acquisitions that serve as catalysts to organic growth and add complementary technology, expand our served market, increase our domain expertise and/or continue our geographic diversification; and  
+
+        foster a robust productivity culture.  
+
+As we execute our long-term growth and performance strategy, we expect to provide value for our shareowners through revenue and earnings growth, free cash flow generation and superior returns.  
+
+16  
+
+Technological Advancement and Domain Expertise  
+
+We seek a technology leadership position in all facets of plant-wide control. We believe our core technologies are the foundation for long-term sustainable growth at a multiple of global Gross Domestic Product (GDP) growth.  
+
+Our customers face increasingly complex and volatile customer demand patterns, which are driving the need for flexible manufacturing. Our investments in new technology and domain expertise have expanded our served market beyond discrete control into process, safety and information. Our value proposition is to help our customers gain the benefits of faster time to market, lower total cost of ownership, better asset utilization and reduced business risks.  
+
+We believe that process automation is the largest growth opportunity for our company. Our Logix architecture enables us to compete effectively with traditional Distributed Control Systems (DCS) control solutions for many process applications.  
+
+We have one of the most comprehensive safety offerings in the industry and we see significant potential in the growing safety market. We successfully integrated safety into the Logix platform with our launch of GuardLogix® safety controllers. Our safety products are designed to bring a dual benefit to our customers: a safe environment for their employees and productivity in their operations.  
+
+Through internal investment and acquisitions, we have expanded our capability in the area of plant-wide information. This opportunity involves software and solutions that link the plant floor to the enterprise business systems.  
+
+We augment our product portfolio with solutions and service offerings to achieve greater customer intimacy. The combination of our leading technologies, such as integrated architecture, with the industry-specific domain expertise of our people, enables us to deliver effective solutions to our customers manufacturing challenges.  
+
+Global Expansion and Enhanced Market Access  
+
+As the manufacturing world continues to globalize, we must be capable of meeting our customers needs in emerging markets. We continue to add delivery resources and expand our sales force in emerging markets. We currently have greater than 50 percent of our employees outside the U.S., and achieved our goal of about 50 percent of our revenues outside of the U.S. during 2008.  
+
+As we enter markets with considerable growth potential and expand our global footprint, we will seek to continue to broaden the portfolio of products, services and solutions that we provide to our customers in these regions. We have made significant investments to globalize our manufacturing and customer facing resources in order to be closer to our customers throughout the world. The emerging markets of Asia Pacific, including China and India, Latin America and eastern Europe have the potential to grow at rates in excess of global GDP, due to higher levels of infrastructure investment and the growing role of consumer spending in these markets. We believe that increased demand for consumer products in these markets will drive manufacturing investment and provide us with additional growth opportunities in the future.  
+
+Original Equipment Manufacturers (OEMs) represent another growth opportunity for us. The OEM market is large and we have an opportunity to increase market share with OEMs, particularly outside of North America. To remain competitive, OEMs need to continually improve their costs and machine performance and reduce their time to market. Our modular and scaleable Logix offering combined with motion and safety can assist OEMs in addressing these business needs.  
+
+17  
+
+Industry Views  
+
+We apply our knowledge of manufacturing applications to help customers solve their business challenges. We serve customers in a wide range of industries, including consumer, resource-based and transportation.  
+
+Our consumer industry customers are engaged in the food and beverage, home and personal care, and life sciences industries. These customers needs include global expansion, incremental capacity from existing facilities, an increasingly flexible manufacturing environment and regulatory compliance. In addition, these customers operate in an environment where product innovation and time to market are critical factors.  
+
+We serve customers in resource-based industries, including oil and gas, mining, aggregates, cement, metals, water/wastewater and forest products. Higher commodity prices and higher global demand for basic materials encourage companies in these industries to invest in capacity and productivity.  
+
+In transportation, factors such as capacity utilization, geographic expansion, investment in new model introductions and more flexible manufacturing technologies are drivers of demand for our products, services and solutions.  
+
+Demand for our products, services and solutions across all industries benefit from outsourcing and sustainability needs of our customers. Customers increasingly desire to outsource engineering services in order to improve the flexibility of their cost base. Our manufacturing application knowledge enables us to serve these customers globally. The sustainability needs of our customers include energy efficiency and environmental and safety compliance. Higher energy prices have historically caused customers across all industries to invest in more energy-efficient manufacturing processes and technologies, such as intelligent motor controls and energy efficient solutions and services. In addition, environmental and safety regulations may cause customers to make investments to ensure compliance and implement acceptable business practices.  
+
+Productivity  
+
+Productivity and continuous improvements are important components of our culture. We have programs in place that drive ongoing process improvement, functional streamlining, material cost savings and manufacturing productivity. We are in the process of developing and implementing common global process standards and an enterprise-wide information system. These are designed to result in improved profitability that can be used to fund investment in growth and technology and to offset inflation and dilution from acquisitions. Our ongoing productivity initiatives target both cost and improved asset utilization. Charges for workforce reductions and facility rationalization may be required in order to effectively execute our productivity programs.  
+
+Acquisitions  
+
+During 2008 we acquired CEDES Safety & Automation AG (CEDES), Incuity Software, Inc. (Incuity) and Pavilion Technologies, Inc. (Pavilion) We believe the acquired companies will help us expand our market share and deliver value to our customers.  
+
+With our acquisition of CEDES, we have expanded our comprehensive machine safety component portfolio for our customers worldwide. CEDES is a supplier of safety and measuring light curtains, a leading product offering in the machine safety market.  
+
+Our acquisition of Incuity positions us for continued growth in the information solutions market. Incuitys enterprise manufacturing intelligence offerings will enable us to accelerate specific aspects of our plant-wide information strategy and extend the capabilities of our integrated architecture.  
+
+We believe that Pavilions expertise in advanced process control, production optimization and environmental compliance solutions paired with our Logix architecture will help our customers create a more agile, efficient and productive environment. It will also benefit, in particular, our process growth initiative.  
+
+18  
+
+U. S. Industrial Economic Trends  
+
+In 2008, sales to U.S. customers accounted for 50 percent of our total sales. The various indicators we use to gauge the direction and momentum of our served U.S. markets include:  
+
+        Industrial Equipment Spending, which is an economic statistic compiled by the Bureau of Economic Analysis (BEA). This statistic provides insight into spending trends in the broad U.S. industrial economy. This measure over the longer term has proven to demonstrate a reasonable correlation with our domestic growth.  
+
+        Capacity Utilization (Total Industry), which is an indication of plant operating activity published by the Federal Reserve. Historically there has been a meaningful correlation between Capacity Utilization and the level of capital investment made by our U.S. customers in their manufacturing base.  
+
+        The Manufacturing Purchasing Managers Index (PMI), published by the Institute for Supply Management (ISM), which is an indication of the current and near-term state of manufacturing activity in the U.S. According to the ISM, a PMI measure above 50 indicates that the U.S. manufacturing economy is generally expanding while a measure below 50 indicates that it is generally contracting.  
+
+        The Industrial Production Index (Total Index), published by the Federal Reserve, which measures the real output of manufacturing, mining, and electric and gas utilities. The Industrial Production Index is expressed as a percentage of real output in a base year, currently 2002.  
+
+The table below depicts the trends in these indicators from fiscal 2006 to 2008. U.S. Industrial Equipment Spending declined slightly in 2008, yet remained at higher levels than 2006 and the first half of 2007. Capacity Utilization has moderated after reaching a peak in 2007. The PMI has remained below or near 50 during fiscal 2008, but declined significantly in September 2008, indicating expected weakness in the U.S. manufacturing sector. The Industrial Production Index has gradually increased from 2006 through March of 2008, followed by a decline in the last two quarters. We expect 2009 to be a challenging year based on the recent deterioration of these indices.  
+
+  [DATA_TABLE_REMOVED] 
+
+Note: Economic indicators are subject to revisions by the issuing organizations.  
+
+19  
+
+Non-U.S. Regional Trends  
+
+In 2008, sales to non-U.S. customers accounted for 50 percent of our total sales. Outside the U.S., demand for our products and services is principally driven by the strength of the industrial economy in each region and by our customers ability and propensity to invest in their manufacturing assets. These customers include both multinational companies with expanding global presence and indigenous companies. Recent strength in demand has, in part, been driven by investments in infrastructure in developing economies, investments in basic materials production capacity in response to higher end-product pricing and expanding consumer markets.  
+
+We use GDP growth rates as one indication of the growth opportunities in each region where we do business. In the first half of fiscal 2008, GDP growth rates remained fairly robust in all regions, especially in China, India, Russia and Brazil, but have slowed recently. Consensus forecasts project lower GDP growth in all regions next year.  
+
+Revenue by Geographic Region  
+
+The table below presents our actual sales for the year ended September 30, 2008 by geographic region and the change in sales from the year ended September 30, 2007 (in millions, except percentages):  
+
+  [DATA_TABLE_REMOVED] 
+
+  (1)  We attribute sales to the geographic regions based upon country of destination.  
+
+  (2)  Organic sales are sales excluding the effect of changes in currency exchange rates and acquisitions. See Supplemental Sales Information for information on this non-GAAP measure.  
+
+20  
+
+Summary of Results of Operations  
+
+  [DATA_TABLE_REMOVED] 
+
+  (a)  Information regarding how we define segment operating earnings is included in Note 18 in the Financial Statements.  
+
+  (b)  Amount in 2008 represents net costs ($30.4 million after tax, or $0.21 per diluted share) related primarily to restructuring actions designed to better align resources with growth opportunities and to reduce costs as a result of current and anticipated market conditions. Amount in 2007 represents costs ($27.7 million after tax, or $0.17 per diluted share) related to various restructuring activities designed to execute on our cost productivity initiatives and to advance our globalization strategy. See Note 14 in the Financial Statements for more information.  
+
+  (c)  Amount in 2006 represents a gain on sale ($12.0 million after tax, or $0.07 per diluted share) related to the sale of our 50 percent interest in RSC. See Note 2 in the Financial Statements for more information.  
+
+  (d)  See Note 13 in the Financial Statements for a description of items reported as discontinued operations.  
+
+  (e)  Effective September 30, 2006, we adopted FIN 47, resulting in a charge of $28.6 million ($17.7 million after tax, or $0.10 per diluted share). See Note 17 in the Financial Statements for more information.  
+
+21  
+
+2008 Compared to 2007  
+
+  [DATA_TABLE_REMOVED] 
+
+Sales  
+
+Sales increased 14 percent in 2008 compared to 2007. Organic sales increased 6 percent, with effects of currency translation and acquisitions adding 5 and 3 percentage points to the growth rate, respectively. In 2008, we continued the execution of our ongoing globalization strategy and our focus on emerging markets, as approximately 50 percent of our sales during 2008 were to non-U.S. customers. Sales in emerging markets grew at above our average growth rate. We demonstrated improved performance in the Asia-Pacific region, with particular strength in China and India. The growth rate in Asia-Pacific accelerated every quarter during 2008, resulting in a full year organic growth rate of 15 percent compared to 2007. We continued to see strong organic growth in Latin America of 14 percent, benefiting from strength in resource-based industries. Sales to customers in the United States, Canada and EMEA each grew at 4-5 percent organically.  
+
+In 2008, we experienced considerable growth in our key process and OEM growth initiatives, demonstrating the ongoing diversification of our revenue base. We achieved above average growth in resource-based industries, primarily due to higher commodity prices, infrastructure spending and continued demand for oil, gas and other resources, particularly in emerging markets. Sales to global automotive customers grew at about our average growth rate, but U.S. automotive growth was below our average growth rate. Sales to customers in the life sciences industries were significantly below our average growth rate. Our sales growth in the food and beverage and home and personal care industries was also below our average growth rate; however, these industries tend to provide for more consistent rates of growth over time.  
+
+Purchase Accounting Depreciation and Amortization  
+
+Purchase accounting depreciation and amortization was $24.2 million in 2008 compared to $16.4 million in 2007. The increase was due to amortization of intangibles from recent acquisitions, particularly CEDES, Incuity, Pavilion and Industrial Control Services Group Limited, which does business as ICS Triplex.  
+
+General Corporate  Net  
+
+General corporate expenses were $77.2 million in 2008 compared to $72.8 million in 2007. The increase was primarily due to lower interest and dividend income in 2008 compared to 2007, partially offset by reduced charitable contributions in 2008 and lower environmental remediation charges at legacy sites compared to 2007.  
+
+Interest Expense  
+
+Interest expense was $68.2 million in 2008 compared to $63.4 million in 2007. The increase was due to higher average outstanding borrowings, partially offset by lower interest rates than the prior year.  
+
+Special Charges  
+
+In 2008, we incurred special charges of $50.7 million ($34.0 million after tax or $0.23 per diluted share) related to restructuring actions designed to better align resources with growth opportunities and to reduce costs as a result of current and anticipated market conditions. This current year charge was partially offset by the reversal of $4.0 million ($3.6 million net of tax or $0.02 per diluted share) of severance accruals established as part of our 2007 restructuring actions as employee attrition differed from our original estimates. The 2008 restructuring actions include workforce reductions aimed at streamlining administrative functions, realigning selling resources   
+
+22  
+
+ to the highest anticipated growth opportunities and consolidating business units. We expect total cash expenditures associated with the 2008 actions to be approximately $50.7 million. We expect to pay the majority of the costs associated with these actions in the first half of 2009.  
+
+Special charges of $43.5 million in 2007 include costs related to various restructuring actions designed to execute on our cost productivity initiatives and to advance our globalization strategy. Actions included workforce reductions, realignment of administrative functions and rationalization and consolidation of global operations. We paid $16.6 million related to these charges during the year ended September 30, 2008 and $5.3 million during the year ended September 30, 2007.  
+
+Income Taxes  
+
+The effective tax rate for 2008 was 28.6 percent compared to 27.8 percent in 2007. The effective tax rate in 2008 was lower than the statutory tax rate of 35 percent because of lower tax rates on income outside the United States and because we used foreign tax credits. The tax rate in 2008 was higher than 2007 because we favorably resolved various federal and state matters in the prior year.  
+
+The 2007 effective tax rate differed from the federal statutory rate of 35 percent because we benefited from lower non-U.S. tax rates, resolved certain tax matters and claims related to the closure of the 2005 U.S. federal audit cycle and various state tax audits and made other provision adjustments.  
+
+See Note 16 in the Financial Statements for a complete reconciliation of the United States statutory tax rate to the effective tax rate and more information on tax events in 2008 and 2007 affecting the respective tax rates.  
+
+Income from Continuing Operations  
+
+Income from continuing operations in 2008 increased $8.3 million compared to 2007. The increase was primarily due to productivity performance and higher volume, partially offset by increased investment spending to support globalization, growth and technology, increased purchase accounting depreciation and amortization, inflation and a higher effective income tax rate.  
+
+Discontinued Operations  
+
+Amounts reported for discontinued operations in 2007 primarily relate to the operating results of the principal businesses of our former Power Systems operating segment for periods before the divestiture and the gain on sale of the principal businesses of that operating segment. Net income on operating activities of Power Systems was $42.3 million in 2007. We reported an after-tax gain on the sale of Power Systems of $868.2 million ($5.39 per share) in 2007.  
+
+We also reported after-tax income of $8.0 million during 2007 related to other discontinued operations activities. See Note 13 in the Financial Statements for more information on discontinued operations.  
+
+Architecture & Software  
+
+  [DATA_TABLE_REMOVED] 
+
+Sales  
+
+Architecture & Software sales increased 9 percent compared to 2007. Organic growth accounted for 3 percentage points of the increase, as foreign currency translation and acquisitions added 5 and 1 percentage points to the growth rate, respectively. Logix sales grew 12 percent in 2008 compared to 2007, partially offset by a decline in our legacy processor sales.  
+
+23  
+
+Operating Margin  
+
+Segment operating margin decreased by 2.3 points in 2008 compared to 2007 and was negatively impacted by increased investment spending to support technology and growth, year over year impact of acquisitions and the impact of foreign currency, partially offset by volume leverage and productivity.  
+
+Control Products & Solutions  
+
+  [DATA_TABLE_REMOVED] 
+
+Sales  
+
+Control Products & Solutions sales increased 18 percent compared to 2007. Organic sales growth was 9 percent, as foreign currency translation and acquisitions added 5 and 4 percentage points to the growth rate, respectively. Year over year results benefited from our growth initiatives and strong results from our solutions businesses, especially in resource-based end markets.  
+
+Operating Margin  
+
+Segment operating margin decreased 0.9 points in 2008 compared to 2007. The decrease was primarily due to the mix between our product and solutions businesses, the impact of foreign currency, increased investment spending and the negative impact of acquisitions, partially offset by strong productivity performance, volume leverage and price.  
+
+2007 Compared to 2006  
+
+  [DATA_TABLE_REMOVED] 
+
+Sales  
+
+Sales increased 10 percent in 2007 compared to 2006. Organic sales increased 6 percent, as foreign currency translation and acquisitions added 3 and 1 percentage points to the growth rate, respectively. Sales in the United States increased 3 percent in 2007 compared to 2006. Full year sales were strong in Europe and Latin America, as organic growth rates were 14 percent and 19 percent, respectively. Asia Pacific sales grew organically by 7 percent over 2006, while Canada reported a 1 percent decline in organic growth. We continued to see our growth investments in EMEA, Latin America and in the life sciences industry deliver incremental revenue. These increases were partially offset by a sales decline in the North American automotive industry due to weakness in our important Detroit customer base.  
+
+Purchase Accounting Depreciation and Amortization  
+
+Purchase accounting depreciation and amortization was $16.4 million in 2007 compared to $10.6 million in 2006. The increase was due to amortization of intangibles from 2007 acquisitions, particularly ICS Triplex and ProsCon Holdings Ltd.  
+
+General Corporate  Net  
+
+General corporate expenses were $72.8 million in 2007 compared to $90.7 million in 2006. The decrease is primarily due to interest income on the proceeds of the Power Systems sale. Expenses during 2007 also include   
+
+24  
+
+ charges of $13.9 million related to environmental remediation costs at legacy sites, partially offset by a $12.1 million dividend related to an equity interest we acquired as a result of the divestiture of a previously owned business.  
+
+Interest Expense  
+
+Interest expense was $63.4 million in 2007 compared to $56.6 million in 2006. The increase was due to higher average commercial paper borrowings in 2007 as well as higher interest rates associated with our interest rate swap (see Note 6 in the Financial Statements).  
+
+Special Charges  
+
+Special charges of $43.5 million in 2007 include costs related to various restructuring actions designed to execute on our cost productivity initiatives and to advance our globalization strategy. Actions included workforce reductions, realignment of administrative functions and rationalization and consolidation of global operations.  
+
+Income Taxes  
+
+The effective tax rate for 2007 was 27.8 percent compared to 28.1 percent in 2006. The 2007 effective tax rate differed from the federal statutory rate of 35 percent because we benefited from lower non-U.S. tax rates, resolved certain tax matters and claims related to the closure of the 2005 U.S. federal audit cycle and various state tax audits and made other provision adjustments.  
+
+The 2006 effective tax rate was lower than the federal statutory rate of 35 percent because we reversed $27.2 million ($0.15 per diluted share) of valuation allowances on capital loss carryforwards, settled audit matters with the U.S. Internal Revenue Service for the years 2003 and 2004, benefited from lower tax rates outside the U.S., received Foreign Sales Corporation (FSC) and Extra Territorial Income (ETI) tax benefits and made other provision adjustments.  
+
+See Note 16 in the Financial Statements for a complete reconciliation of the United States statutory tax rate to the effective tax rate and more information on tax events in 2007 and 2006 affecting the respective tax rates.  
+
+Income from Continuing Operations before Accounting Change  
+
+Income from continuing operations in 2007 increased 8 percent from 2006. The increase is primarily due to increased sales, lower retirement benefits expense, improved operating margins and increased dividend and interest income, partially offset by special charges, additional environmental charges and higher interest expense.  
+
+Discontinued Operations  
+
+Amounts reported for discontinued operations primarily relate to the operating results of the principal businesses of our former Power Systems operating segment for periods before the divestiture and the gain on sale of the principal businesses of that operating segment. Net income on operating activities of Power Systems was $42.3 million in 2007 and $100.1 million in 2006. We reported an after-tax gain on the sale of Power Systems of $868.2 million ($5.39 per share) in 2007.  
+
+We also reported after-tax income of $8.0 million during 2007 related to other discontinued operations activities, compared to a $4.7 million loss from other discontinued operations activities in 2006. See also Note 13 in the Financial Statements for more information on discontinued operations.  
+
+Architecture & Software  
+
+  [DATA_TABLE_REMOVED] 
+
+25  
+
+Sales  
+
+Architecture & Software sales increased 8 percent compared to 2006. Organic growth accounted for 5 percent of the increase, as foreign currency translation added 3 percentage points to the growth rate. We continued to see growth in process applications, safety and the CompactLogix product offering.  
+
+Operating Margin  
+
+Segment operating margin increased by 0.6 points in 2007 compared to 2006 due to the successful execution of our productivity initiatives, price increases and lower retirement benefits expense, partially offset by inflation and spending to support growth.  
+
+Control Products & Solutions  
+
+  [DATA_TABLE_REMOVED] 
+
+Sales  
+
+Control Products & Solutions sales increased 11 percent compared to 2006. Organic growth contributed 7 percent of the increase, as foreign currency translation and acquisitions added 4 percentage points to the growth rate. Year over year results benefited from strong growth in our power-centric and solutions businesses.  
+
+Operating Margin  
+
+Segment operating margin increased 0.7 points in 2007 compared to 2006 due to productivity efforts, price increases and lower retirement benefits expense, partially offset by inflation and spending to support growth.  
+
+Financial Condition  
+
+The following is a summary of our cash flows from operating, investing and financing activities, as reflected in the Consolidated Statement of Cash Flows (in millions):  
+
+  [DATA_TABLE_REMOVED] 
+
+26  
+
+Our definition of free cash flow, which is a non-GAAP financial measure, takes into consideration capital investments required to maintain the operations of our businesses and execute our strategy. We account for share-based compensation under SFAS 123(R), Share-Based Payment, which requires us to report the excess income tax benefit from the exercise of stock options as a financing cash flow rather than as an operating cash flow. We have added this benefit back to our calculation of free cash flow in order to generally classify cash flows arising from income taxes as operating cash flows. In our opinion, free cash flow provides useful information to investors regarding our ability to generate cash from business operations that is available for acquisitions and other investments, service of debt principal, dividends and share repurchases. We use free cash flow, as defined, as one measure to monitor and evaluate performance. Our definition of free cash flow may be different from definitions used by other companies.  
+
+Our definition of free cash flow excludes the operating cash flows and capital expenditures related to our discontinued operations. Operating, investing and financing cash flows of our discontinued operations are presented separately in our statement of cash flows. Cash flows from the operating activities of our discontinued operations are reported in our statement of cash flows net of their separately calculated income tax effects. U.S. federal and state income taxes paid as a result of the gain on sale of the principal businesses of our former Power Systems operating segment have been classified within continuing operations consistent with the cash proceeds. These taxes paid in 2008 and 2007 have been excluded from free cash flow to present free cash flow that is representative of the performance of our continuing businesses.  
+
+Free cash flow was a source of $458.3 million for the year ended September 30, 2008 compared to $531.0 million for the year ended September 30, 2007. This decrease in free cash flow was primarily due to increased working capital needs and higher capital expenditures.  
+
+In December 2007, we issued an aggregate of $500 million principal amount of our 5.65% notes due 2017 and 6.25% debentures due 2037. The debt offering yielded approximately $493.5 million of proceeds, which were used to repay at maturity our 6.15% notes due January 15, 2008 and for general corporate purposes.  
+
+In January 2007, we received $1.75 billion of cash proceeds from the sale of our Dodge mechanical and Reliance Electric motors and motor repair services businesses. We used the cash proceeds to repurchase shares of our common stock to offset the dilutive effect of the divestiture, to pay taxes on the gain on sale and to acquire ICS Triplex.  
+
+Commercial paper is our principal source of short-term financing. Commercial paper borrowings outstanding at September 30, 2008 were $100.0 million. The weighted average interest rate on these borrowings was 2.25 percent. At September 30, 2007, commercial paper borrowings outstanding were $173.0 million, with a weighted average interest rate of 5.1 percent.  
+
+In 2008, we repurchased approximately 6.7 million shares of our common stock of which 0.1 million shares did not settle until October 2008. The total cost of these shares was $355.1 million, of which $3.5 million was recorded in accounts payable at September 30, 2008. This is compared to purchases of approximately 23.8 million shares of our common stock at a cost of $1,506.1 million in 2007. Of these purchases, 0.1 million shares amounting to $7.5 million did not settle until October 2007 and were recorded in accounts payable at September 30, 2007. We anticipate repurchasing stock in 2009, the amount of which will depend ultimately on business conditions, stock price and other cash requirements. At September 30, 2008 we had approximately $671.2 million remaining for stock repurchases under our existing board authorization. See Part II, Item 5, Market for the Companys Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities, for additional information regarding share repurchases.  
+
+We expect future uses of cash to include repayments of short-term borrowings, repurchases of common stock, dividends to shareowners, capital expenditures and acquisitions of businesses and may include additional contributions to our pension plans. Recent declines in the value of our pension plan assets may impact the amount and timing of future contributions to our pension plans. We expect capital expenditures in 2009 to be about $130 million. We expect to fund these future uses of cash with a combination of existing cash balances, cash generated by operating activities, commercial paper borrowings or a new issuance of debt or other securities.  
+
+27  
+
+In addition to cash generated by operating activities, we have access to existing financing sources, including the public debt markets and unsecured credit facilities with various banks. Our debt-to-total-capital ratio was 37.3 percent at September 30, 2008 and 34.7 percent at September 30, 2007.  
+
+In October 2004, we entered into a five-year $600.0 million unsecured revolving credit facility. Our credit facility remains in effect and we had not drawn down under it at September 30, 2008 or 2007. Borrowings under our credit facility bear interest based on short-term money market rates in effect during the period the borrowings are outstanding. The terms of our credit facility contain covenants under which we would be in default if our debt-to-total-capital ratio was to exceed 60 percent. We were in compliance with all covenants under our credit facility at September 30, 2008 and 2007. Our credit facility expires in October 2009. We are in active discussions with our bank group to renew the facility, and we do not anticipate any problems associated with the renewal. In addition to our $600.0 million credit facility, short-term unsecured credit facilities of approximately $167.7 million at September 30, 2008 were available to foreign subsidiaries.  
+
+The following is a summary of our credit ratings as of September 30, 2008:  
+
+  [DATA_TABLE_REMOVED] 
+
+Among other uses, we can draw on our credit facility as a standby liquidity facility to repay our outstanding commercial paper as it matures. This access to funds to repay maturing commercial paper is an important factor in maintaining the commercial paper ratings set forth in the table above. Under our current policy with respect to these ratings, we expect to limit our other borrowings under our credit facility, if any, to amounts that would leave enough credit available under the facility so that we could borrow, if needed, to repay all of our then outstanding commercial paper as it matures.  
+
+Our ability to access the commercial paper market, and the related costs of these borrowings, is affected by the strength of our credit rating and market conditions. We have not experienced any difficulty in accessing the commercial paper market to date. If our access to the commercial paper market is adversely affected due to a change in market conditions or otherwise, we would expect to rely on a combination of available cash and our unsecured committed credit facility to provide short-term funding. In such event, the cost of borrowings under our unsecured committed credit facility could be higher than the cost of commercial paper borrowings.  
+
+We regularly monitor the third-party depository institutions that hold our cash and cash equivalents. Our emphasis is primarily on safety and liquidity of principal and secondarily on maximizing yield on those funds. We diversify our cash and cash equivalents among counterparties to minimize exposure to any one of these entities.  
+
+Cash dividends to shareowners were $170.2 million ($1.16 per share) in 2008, $184.7 million ($1.16 per share) in 2007, and $159.3 million ($0.90 per share) in 2006. Although we declare and pay dividends at the sole discretion of our Board of Directors, in 2009, we expect to maintain our quarterly dividend of $0.29 per outstanding share.  
+
+28  
+
+A summary of our projected contractual cash obligations at September 30, 2008 are (in millions):  
+
+  [DATA_TABLE_REMOVED] 
+
+  (a)  The amounts for long-term debt assume that the respective debt instruments will be outstanding until their scheduled maturity dates. The amounts include interest, but exclude the unamortized discount of $45.8 million. See Note 6 in the Financial Statements for more information regarding our long-term debt.  
+
+  (b)  See Note 17 in the Financial Statements for information regarding our November 2005 sale-leaseback transaction.  
+
+  (c)  Our postretirement plans are unfunded and are subject to change. Amounts reported are estimates of future benefit payments, to the extent estimable.  
+
+  (d)  Amounts reported for pension funding contributions reflect current estimates of known commitments. Amounts subsequent to 2009 are excluded from the summary above, as these amounts cannot be estimated with certainty. The minimum contribution for our U.S. pension plan as required by the Employee Retirement Income Security Act (ERISA) is zero. We may make additional contributions to this plan at the discretion of management.  
+
+  (e)  This item includes long-term obligations under agreements with various service providers.  
+
+  (f)  Other long-term liabilities include environmental liabilities net of related receivables, asset retirement obligations, and indemnifications. Amounts subsequent to 2009 are excluded from the summary above, as we are unable to make a reasonably reliable estimate of when the liabilities will be paid.  
+
+  (g)  Amount for unrecognized tax benefits includes accrued interest and penalties. We are unable to make a reasonably reliable estimate of when the liabilities for unrecognized tax benefits will be settled or paid.  
+
+Supplemental Sales Information  
+
+We translate sales of subsidiaries operating outside of the United States using exchange rates effective during the respective period. Therefore, changes in currency rates affect our reported sales. Sales by businesses we acquired also affect our reported sales. We believe that organic sales, defined as sales excluding the effects of changes in currency exchange rates and acquisitions, which is a non-GAAP financial measure, provides useful information to investors because it reflects regional performance from the activities of our businesses without the effect of changes in currency rates or acquisitions. We use organic sales as one measure to monitor and evaluate our regional performance. We determine the effect of changes in currency exchange rates by translating the respective periods sales using the currency exchange rates that were in effect during the prior year. We determine the effect of acquisitions by excluding sales in the current period for which there are no sales in the comparable prior period. Organic sales growth is calculated by comparing organic sales to reported sales in the prior year. We attribute sales to the geographic regions based on the country of destination.  
+
+29  
+
+The following is a reconciliation of our reported sales to organic sales (in millions):  
+
+  [DATA_TABLE_REMOVED] 
+
+The following is a reconciliation of our reported sales by operating segment to organic sales (in millions):  
+
+  [DATA_TABLE_REMOVED] 
+
+30  
+
+Critical Accounting Policies and Estimates  
+
+We have prepared the consolidated financial statements in accordance with accounting principles generally accepted in the United States, which require us to make estimates and assumptions that affect the reported amounts of assets and liabilities at the date of the consolidated financial statements and revenues and expenses during the periods reported. Actual results could differ from those estimates. We believe the following critical accounting policies could have the most significant effect on our reported results or require subjective or complex judgments by management.  
+
+Retirement Benefits  
+
+Pension Benefits  
+
+Pension costs and obligations are actuarially determined and are influenced by assumptions used to estimate these amounts, including the discount rate, the expected rate of return on plan assets, the assumed annual compensation increase rate, the retirement rate, the mortality rate and the employee turnover rate. Changes in any of the assumptions and the amortization of differences between the assumptions and actual experience will affect the amount of pension expense in future periods.  
+
+Our global pension expense in 2008 was $28.6 million compared to $46.3 million in 2007. Approximately 48 percent of our 2008 global pension expense relates to our U.S. pension plan. The actuarial assumptions used to determine our 2008 U.S. pension expense included the following: discount rate of 6.50 percent (compared to 6.50 percent for 2007); expected rate of return on plan assets of 8.00 percent (compared to 8.00 percent for 2007); and an assumed compensation increase rate of 4.15 percent (compared to 4.19 percent for 2007).  
+
+In 2007, we made voluntary contributions of $8.0 million to our primary U.S. qualified pension plan trust. We made no voluntary contributions in 2008.  
+
+The Pension Protection Act of 2006 was signed into law in August 2006. The IRS has yet to issue final guidance with respect to certain aspects of this law; however, our 2008 pension plan valuation has been completed based on the current understanding of the law. This valuation resulted in no minimum contributions being required in 2008.  
+
+We estimate our pension expense will be approximately $34.0 million in 2009, an increase of approximately $5.4 million from 2008. In addition, the change in our measurement date in 2009 from June 30 to September 30, as required by SFAS 158, Employers Accounting for Defined Benefit Pension and Other Postretirement Plans, an amendment of FASB Statements No. 87, 88, 106 and 132(R) (SFAS 158), will result in a reduction in retained earnings of approximately $8.5 million in the fourth quarter of 2009. For 2009, our U.S. discount rate will increase to 6.75 percent. The discount rate was set as of our June 30 measurement date and was determined by modeling a portfolio of bonds that match the expected cash flow of our benefit plans. Our assumed rate of return on U.S. plan assets will remain at 8.00 percent. We considered actual returns on plan assets over the long term as well as the current and expected mix of plan investments in setting this assumption. We have assumed a U.S. compensation increase rate of 4.20 percent in 2009 compared to 4.15 percent used in 2008. We established this rate by analyzing all elements of compensation that are pension eligible earnings.  
+
+The changes in our discount rate and return on plan assets have an inverse relationship with our net periodic benefit cost. The change in our discount rate also has an inverse relationship with our projected benefit obligation. The following chart illustrates the estimated change in benefit obligation and net periodic pension cost assuming a change of 25 basis points in the key assumption for our U.S. pension plans (in millions):  
+
+  [DATA_TABLE_REMOVED] 
+
+31  
+
+Consistent with declines in global equity markets and volatility in fixed income markets, we have experienced a decline in our pension assets after our June 30, 2008 measurement date. We have also observed fluctuations in the variables affecting our discount rate that would have significantly increased our discount rate since our June 30, 2008 measurement date. If we were to measure our U.S. pension plans as of September 30, 2008 using the same approach as we used for our June 30, 2008 actual measurement date, our 2009 U.S. pension expense would have decreased by approximately $15 million to $1 million.  
+
+More information regarding pension benefits is contained in Note 12 in the Financial Statements.  
+
+Other Postretirement Benefits  
+
+We estimate the costs and obligations for postretirement benefits other than pensions using assumptions, including the discount rate and, for plans other than our primary U.S. postretirement healthcare benefit program, expected trends in the cost for healthcare services. Changes in these assumptions and differences between the assumptions and actual experience will affect the amount of postretirement benefit expense recognized in future periods. The discount rate used to calculate our 2008 other postretirement benefits expense was 6.25 percent (compared to 6.50 percent in 2007). For 2009, the discount rate assumption for other postretirement benefit expense will increase to 6.50 percent. The discount rate was set as of our June 30 measurement date and was determined by modeling a portfolio of bonds that match the expected cash flow of our benefit plans.  
+
+Effective October 1, 2002, we amended our primary U.S. postretirement healthcare benefit program in order to mitigate our share of the increasing cost of postretirement healthcare services. As a result of this amendment, our obligation is less sensitive to increasing healthcare costs resulting from inflationary trends since January 1, 2005.  
+
+Net periodic benefit cost recorded in continuing operations in 2008 was $15.4 million compared to $13.0 million in 2007. We expect net periodic benefit cost in 2009 of approximately $15.9 million and the estimated postretirement projected benefit obligation to approximate $212 million. In addition, the change in our measurement date in 2009 from June 30 to September 30, as required by SFAS 158, will result in a reduction in retained earnings of approximately $3.9 million in the fourth quarter of 2009.  
+
+More information regarding postretirement benefits is contained in Note 12 in the Financial Statements.  
+
+Revenue Recognition  
+
+For approximately 85 percent of our consolidated sales, we record sales when all of the following have occurred: an agreement of sale exists; pricing is fixed or determinable; collection is reasonably assured; and product has been delivered and acceptance has occurred, as may be required according to contract terms, or services have been rendered.  
+
+We recognize revenue for software products and related services in accordance with Statement of Position (SOP) 97-2, Software Revenue Recognition, as issued by the American Institute of Certified Public Accountants.  
+
+We recognize substantially all of the remainder of our sales as construction-type contracts using either the percentage-of-completion or completed contract methods of accounting. We record sales relating to these contracts using the percentage-of-completion method when we determine that progress toward completion is reasonably and reliably estimable; we use the completed contract method for all others. Under the percentage-of-completion method, we recognize sales and gross profit as work is performed using either (i) the relationship between actual costs incurred and total estimated costs at completion or (ii) units-of-delivery. Under the percentage-of-completion method, we adjust sales and gross profit for revisions of estimated total contract costs or revenue in the period the change is identified. We record estimated losses on contracts when they are identified.  
+
+We use contracts and customer purchase orders to determine the existence of an agreement of sale. We use shipping documents and customer acceptance, when applicable, to verify delivery. We assess whether the fee is fixed or determinable based on the payment terms associated with the transaction and whether the sales price is subject to refund or adjustment. We assess collectibility based on the creditworthiness of the customer as determined by credit evaluations and analysis, as well as the customers payment history.  
+
+32  
+
+Returns, Rebates and Incentives  
+
+Our primary incentive program provides distributors with cash rebates or account credits based on agreed amounts that vary depending on the end user or original equipment manufacturer (OEM) customer to whom our distributor ultimately sells the product. We also offer various other incentive programs that provide distributors and direct sale customers with cash rebates, account credits or additional products and services based on meeting specified program criteria. Certain distributors are offered a right to return product, subject to contractual limitations.  
+
+We record accruals for customer returns, rebates and incentives at the time of revenue recognition based primarily on historical experience. Adjustments to the accrual may be required if actual returns, rebates and incentives differ from historical experience or if there are changes to other assumptions used to estimate the accrual. A critical assumption used in estimating the accrual for our primary distributor rebate program is the time period from when revenue is recognized to when the rebate is processed. If the time period were to change by 10 percent, the effect would be an adjustment to the accrual of approximately $7.1 million.  
+
+Returns, rebates and incentives are recognized as a reduction of sales if distributed in cash or customer account credits. Rebates and incentives are recognized in cost of sales for additional products and services to be provided. Accruals are reported as a current liability in our balance sheet or, where a right of set-off exists, as a reduction of accounts receivable. The accrual for customer returns, rebates and incentives was $137.8 million at September 30, 2008 and $128.6 million at September 30, 2007, of which $13.2 million at September 30, 2008 and $8.1 million at September 30, 2007 was included as an offset to accounts receivable.  
+
+Fair Value Measurements  
+
+We have increased the use of fair value measurements in our financial statements due to recent accounting pronouncements and obligations retained in connection with the sale of the principal businesses of our former Power Systems operating segment.  
+
+Share-based compensation  
+
+We account for share-based compensation under SFAS 123(R). Compensation costs are based on the grant-date fair value of the instruments using a valuation model, and are generally recognized on a straight line basis over the vesting term. We estimate the average risk-free interest rate, expected dividend yield, expected volatility and expected term of the compensation instrument outstanding in order to determine fair value. The valuation model is most sensitive to the expected volatility and term assumptions. Share-based compensation expense net of the related income tax benefit amounted to $21.5 million in 2008 and $18.8 million in 2007.  
+
+Asset Retirement Obligations  
+
+We account for conditional asset retirement obligations under Financial Accounting Standards Board (FASB) Interpretation No. 47, Accounting for Conditional Asset Retirement Obligations (FIN 47). We accrue for costs related to a legal obligation associated with the retirement of a tangible long-lived asset that results from the acquisition, construction, development or the normal operation of the long-lived asset. The obligation to perform the asset retirement activity is not conditional even though the timing or method may be conditional. Identified conditional asset retirement obligations include asbestos abatement and remediation of soil contamination beneath current and previously divested facilities. We estimate conditional asset retirement obligations using site-specific knowledge and historical industry expertise. A significant change in the costs or timing could have a significant effect on our estimates. We recorded these liabilities in the Consolidated Balance Sheet, which totaled $5.1 million in other current liabilities and $22.8 million in other liabilities at September 30, 2008 and $5.3 million in other current liabilities and $21.8 million in other liabilities at September 30, 2007.  
+
+Indemnifications  
+
+In conjunction with the sale of our Dodge mechanical and Reliance Electric motors and motor repair services businesses, we agreed to indemnify Baldor for costs and damages related to certain legacy legal,   
+
+33  
+
+ environmental and asbestos matters of these businesses arising before January 31, 2007, for which the maximum exposure would be capped at the amount received for the sale. We recorded a liability under FASB Interpretation No. 45, Guarantors Accounting and Disclosure Requirements for Guarantees, Including Indirect Guarantees of Indebtedness of Others  An Interpretation of FASB Statements No. 5, 57, and 107 and Rescission of FASB Interpretation No. 34 (FIN 45), related to these indemnification obligations as a reduction to the gain on sale. A significant change in the costs or timing could have a significant effect on our estimates. We estimate the potential future payments we could incur under these indemnifications may approximate $27.6 million, of which $10.5 million and $9.6 million has been accrued in other current liabilities and $12.9 million and $16.1 million has been accrued in other liabilities at September 30, 2008 and 2007, respectively.  
+
+Derivatives   
+
+Our accounting method for derivative instruments is based on SFAS 133, Accounting for Derivative Instruments and Hedging Activities (SFAS 133). The fair value of all derivative financial instruments is recorded in the balance sheet, which is based on the quoted market prices for contracts with similar maturities. We use foreign currency forward exchange contracts to manage foreign currency risks. We use foreign currency forward exchange contracts to offset changes in the amount of future cash flows associated with certain third-party and intercompany transactions expected to occur within the next two years (cash flow hedges) and changes in the fair value of certain assets and liabilities resulting from intercompany loans and other transactions with third parties denominated in foreign currencies. We sometimes use interest rate swap contacts to manage the balance of fixed and floating rate debt. Unrealized gains on derivative instruments are recorded in other current assets in the amounts of $6.1 million and $5.2 million as of September 30, 2008 and 2007, respectively, and in other assets in the amount of $5.1 million at September 30, 2008. Unrealized losses on derivative instruments are recorded in other current liabilities in the amounts of $16.2 million and $38.2 million as of September 30, 2008 and 2007, respectively, and in other liabilities in the amount of $8.4 million at September 30, 2008.  
+
+Purchase Accounting  
+
+When we acquire a business, we account for the assets and liabilities acquired at fair value at the date of acquisition in accordance with SFAS No. 141, Business Combinations, and SFAS No. 142, Goodwill and Other Intangible Assets. In order to value acquired identifiable intangible assets and determine their amortizable lives, management must use judgment in selecting relevant assumptions. See Note 2 in the Financial Statements for a discussion of acquisitions in 2008 and 2007.  
+
+Litigation, Claims and Contingencies  
+
+We record liabilities for litigation, claims and contingencies when an obligation is probable and when we have a basis to reasonably estimate the value of an obligation. We also record liabilities for environmental matters based on estimates for known environmental remediation exposures. The liabilities include accruals for sites we currently own or operate or formerly owned or operated and third-party sites where we were determined to be a potentially responsible party. At third-party sites where more than one potentially responsible party has been identified, we record a liability for our estimated allocable share of costs related to our involvement with the site as well as an estimated allocable share of costs related to the involvement of insolvent or unidentified parties. At environmental sites where we are the only responsible party, we record a liability for the total estimated costs of remediation. We do not discount future expenditures for environmental remediation obligations to their present value. Environmental liability estimates may be affected by changing determinations of what constitutes an environmental exposure or an acceptable level of cleanup. To the extent that remediation procedures change, additional contamination is identified, or the financial condition of other potentially responsible parties is adversely affected, the estimate of our environmental liabilities may change.  
+
+Our reserve for environmental matters, net of related receivables of $22.8 million, was $33.2 million at September 30, 2008 and $29.8 million at September 30, 2007. Our recorded liability for environmental matters relates almost entirely to businesses formerly owned by us (legacy businesses) for which we retained the   
+
+34  
+
+ responsibility to remediate. The nature of our current business is such that the likelihood of new environmental exposures that could result in a significant charge to earnings is low. As a result of remediation efforts at legacy sites and limited new environmental matters, we expect that gradually, over a long period of time, our environmental obligations will decline. However, changes in remediation procedures at existing legacy sites or discovery of contamination at additional sites could result in increases to our environmental obligations.  
+
+Our principal self-insurance programs include product liability where we are self-insured up to a specified dollar amount. Claims exceeding this amount up to specified limits are covered by policies issued by commercial insurers. We estimate the reserve for product liability claims using our claims experience for the periods being valued. Adjustments to the product liability reserves may be required to reflect emerging claims experience and other factors such as inflationary trends or the outcome of claims. The reserve for product liability claims was $23.0 million at September 30, 2008 and $24.0 million at September 30, 2007.  
+
+Various lawsuits, claims and proceedings have been or may be instituted or asserted against us relating to the conduct of our business. As described in Part I, Item 3. Legal Proceedings, we have been named as a defendant in lawsuits alleging personal injury as a result of exposure to asbestos that was used in certain components of our products many years ago. See Part I, Item 3 for further discussion.  
+
+More information regarding litigation, claims and contingencies is contained in Note 17 in the Financial Statements.  
+
+Income Taxes  
+
+We operate in numerous taxing jurisdictions and are subject to regular examinations by U.S. Federal, state and foreign jurisdictions. Additionally, we have retained tax liabilities and the rights to tax refunds in connection with various divestitures of businesses in prior years. Our income tax positions are based on research and interpretations of the income tax laws and rulings in each of the jurisdictions in which we do business. Due to the subjectivity of interpretations of laws and rulings in each jurisdiction, the differences and interplay in tax laws between those jurisdictions as well as the inherent uncertainty in estimating the final resolution of complex tax audit matters, our estimates of income tax liabilities may differ from actual payments or assessments.  
+
+While we have support for the positions we take on our tax returns, taxing authorities may assert interpretations of laws and facts and may challenge cross jurisdictional transactions. Cross jurisdictional transactions between our subsidiaries involving the transfer price for products, services, and/or intellectual property as well as various U.S. state tax matters comprise our more significant income tax exposures. We adopted the provisions of FASB Interpretation No. 48, Accounting for Uncertainty in Income Taxes, (FIN 48) as of October 1, 2007. As a result, we recognized a $6.7 million decrease in shareowners equity. The gross liability for unrecognized tax benefits, excluding interest and penalties, recorded in accordance with FIN 48 and reported in other liabilities in the Consolidated Balance Sheet was $125.8 million at September 30, 2008 and $116.5 million at October 1, 2007 upon FIN 48 adoption. The majority of the increase is due to tax positions related to the current year. The amount of unrecognized tax benefits that would reduce our effective tax rate for continuing operations if recognized was $43.2 million at September 30, 2008 and $37.6 million at October 1, 2007. In addition, the amount of unrecognized tax benefits that would be reported in discontinued operations if recognized was $33.4 million at September 30, 2008 and $33.8 million at October 1, 2007. We recognize interest and penalties related to unrecognized tax benefits in tax expense. Total accrued interest and penalties were $26.0 million at September 30, 2008 and $18.8 million at September 30, 2007. We believe it is reasonably possible that the amount of unrecognized tax benefits could be reduced by up to $10 million during the next 12 months as a result of the resolution of worldwide tax matters and the lapses of statutes of limitations.  
+
+We recorded a valuation allowance for the majority of our deferred tax assets related to net operating loss and capital loss carryforwards (Carryforwards) and certain temporary differences in the amount of $45.1 million at September 30, 2008 and $42.6 million at September 30, 2007 based on the projected profitability of the entity in the respective tax jurisdiction. The valuation allowance is based on an evaluation of the uncertainty that the Carryforward amount will be realized. Our income would increase if we determine we will be able to use more Carryforwards than currently expected.  
+
+35  
+
+At the end of each interim reporting period, we estimate a base effective tax rate, which is the effective tax rate that we expect for the full fiscal year based on our most recent forecast of pretax income, permanent book and tax differences and global tax planning strategies. We use this base rate to provide for income taxes on a year-to-date basis, excluding the effect of significant unusual or extraordinary items or items that are reported net of their related tax effects. We recognize the tax effect of significant unusual or extraordinary items in the period in which they are realizable.  
+
+More information regarding income taxes is contained in Note 16 in the Financial Statements.  
+
+Recent Accounting Pronouncements  
+
+See Note 1 in the Financial Statements regarding recent accounting pronouncements.  
+
+  Item 7A.  Quantitative and Qualitative Disclosures About Market Risk

@@ -1,0 +1,453 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+Results of Operations
+
+Non-GAAP Measures
+
+The following discussion includes organic sales, total segment operating earnings and margin, Adjusted Income, Adjusted EPS, Adjusted Effective Tax Rate and free cash flow, which are non-GAAP measures. See Supplemental Sales Information for a reconciliation of reported sales to organic sales and a discussion of why we believe this non-GAAP measure is useful to investors. See Results of Operations for a reconciliation of income before income taxes to total segment operating earnings and margin and a discussion of why we believe these non-GAAP measures are useful to investors. See Results of Operations for a reconciliation of income from continuing operations, diluted EPS from continuing operations and effective tax rate to Adjusted Income, Adjusted EPS and Adjusted Effective Tax Rate and a discussion of why we believe these non-GAAP measures are useful to investors. See Financial Condition for a reconciliation of cash flows from operating activities to free cash flow and a discussion of why we believe this non-GAAP measure is useful to investors.
+
+Overview
+
+We are a leading global provider of industrial automation power, control and information solutions that help manufacturers achieve a competitive advantage for their businesses. Overall demand for our products, solutions and services is driven by: 
+
+•investments in manufacturing, including upgrades, modifications and expansions of existing facilities or production lines, and new facilities or production lines;
+
+•investments in basic materials production capacity, which may be related to commodity pricing levels;
+
+•industry factors that include our customers’ new product introductions, demand for our customers’ products or services, and the regulatory and competitive environments in which our customers operate;
+
+•levels of global industrial production and capacity utilization;
+
+•regional factors that include local political, social, regulatory and economic circumstances; and
+
+•the spending patterns of our customers due to their annual budgeting processes and their working schedules.
+
+Long-term Strategy
+
+Our vision of being the most valued global provider of innovative industrial automation and information products, solutions and services is supported by our growth and performance strategy, which seeks to:
+
+•achieve growth rates in excess of the automation market by expanding our served market and strengthening our competitive differentiation;
+
+•diversify our sales streams by broadening our portfolio of products, solutions and services, expanding our global presence and serving a wider range of industries and applications;
+
+•grow market share by gaining new customers and by capturing a larger share of existing customers’ spending;
+
+•enhance our market access by building our channel capability and partner network;
+
+•make acquisitions that serve as catalysts to organic growth by adding complementary technology, expanding our served market, enhancing our domain expertise or continuing our geographic diversification;
+
+•deploy human and financial resources to strengthen our technology leadership and our intellectual capital business model;
+
+•continuously improve quality and customer experience; and
+
+•drive annual cost productivity.
+
+By implementing the strategy above, we seek to achieve our long-term financial goals that include sales growth of 6-8 percent, double-digit EPS growth, return on invested capital in excess of 20 percent and free cash flow equal to about 100 percent of Adjusted Income. 
+
+Our customers face the challenge of remaining globally cost competitive and automation can help them achieve their productivity and sustainability objectives. Our value proposition is to help our customers reduce time to market, lower total cost of ownership, improve asset utilization and manage enterprise risks.
+
+16
+Differentiation through Technology Innovation and Domain Expertise
+
+We seek a technology leadership position in industrial automation. We believe that our three platforms - integrated architecture, intelligent motor control and solutions and services - provide the foundation for long-term sustainable competitive advantage.
+
+Our integrated control and information architecture, with Logix at its core, is an important differentiator. We are the only automation provider that can support discrete, process, batch, safety, motion and power control on the same hardware platform with the same software programming environment. Our integrated architecture is scalable with standard open communications protocols making it easier for customers to implement more cost effectively.
+
+Intelligent motor control is one of our core competencies and an important aspect of an automation system. These products and solutions enhance the availability, efficiency and safe operation of our customers' critical and most energy-intensive plant assets. Our intelligent motor control offering can be integrated seamlessly with the Logix architecture. 
+
+Domain expertise refers to the industry and application knowledge required to deliver solutions and services that support customers through the entire life cycle of their automation investment. The combination of industry-specific domain expertise of our people with our innovative technologies enables us to help our customers solve their manufacturing and business challenges. 
+
+Global Expansion
+
+As the manufacturing world continues to expand, we must be able to meet our customers’ needs around the world. We continue to expand our footprint in emerging markets. We currently have approximately 60 percent of our employees outside the U.S., and 50 percent of our sales outside the U.S.
+
+As we expand in markets with considerable growth potential and shift our global footprint, we expect to continue to broaden the portfolio of products, solutions and services that we provide to our customers in these regions. We have made significant investments to globalize our manufacturing, product development and customer facing resources in order to be closer to our customers throughout the world. Growth in the emerging markets of Asia Pacific, including China and India, Latin America, Central and Eastern Europe and Africa is projected to exceed global Gross Domestic Product (GDP) growth rates, due to higher levels of infrastructure investment and the growing middle-class population. We believe that increased demand for consumer products in these markets will lead to manufacturing investment and provide us with additional growth opportunities in the future.
+
+Enhanced Market Access
+
+Over the past decade, our investments in technology and globalization have enabled us to expand our addressed market to approximately $90 billion. Our process initiative has been the most important contributor to this expansion and remains our largest growth opportunity. Logix is the technology foundation that enabled us to become an industry leader for batch process applications and to compete effectively with traditional Distributed Control Systems (DCS) providers for continuous process applications. We complement that with a growing global network of engineers and partners to provide solutions to process customers.
+
+OEMs represent another area of addressed market expansion and a strong growth opportunity. To remain competitive, OEMs need to find the optimal balance of machine cost and performance while reducing their time to market. Our scalable integrated architecture and intelligent motor control offerings, along with design productivity tools and our motion and safety products, can assist OEMs in addressing these business needs.
+
+We have developed a powerful network of channel partners, technology partners and commercial partners that act as amplifiers to our internal capabilities and enable us to serve our customers’ needs around the world.
+
+Broad Range of Industries Served
+
+We apply our knowledge of manufacturing applications to help customers solve their business challenges. We serve customers in a wide range of industries, including consumer products, resource-based and transportation.
+
+Our consumer products customers are engaged in the food and beverage, home and personal care and life sciences industries. These customers’ needs include new capacity, incremental capacity from existing facilities, flexible manufacturing and regulatory compliance. These customers operate in an environment where product innovation and time to market are critical factors.
+
+17
+We serve customers in resource-based industries, including oil and gas, mining, aggregates, cement, metals, energy, pulp and paper and water/wastewater. Companies in these industries typically invest in capacity expansion when commodity prices are relatively high and global demand for basic materials is increasing. In addition, there is ongoing investment in upgrades of aging automation systems and productivity.
+
+In the transportation industry, factors such as geographic expansion, investment in new model introductions and more flexible manufacturing technologies influence customers’ automation investment decisions. Our sales in transportation are primarily to automotive and tire manufacturers.
+
+Outsourcing and Sustainability Trends
+
+Demand for our products, solutions and services across all industries benefits from the outsourcing and sustainability needs of our customers. Customers increasingly desire to outsource engineering services to achieve a more flexible cost base. Our manufacturing application knowledge enables us to serve these customers globally.
+
+We help our customers meet their sustainability needs pertaining to energy efficiency, environmental and safety goals. Higher energy prices have historically caused customers across all industries to invest in more energy-efficient manufacturing processes and technologies, such as intelligent motor control and energy efficient solutions and services. In addition, environmental and safety objectives often spur customers to invest to ensure compliance and implement sustainable business practices.
+
+Acquisitions
+
+Our acquisition strategy focuses on products, solutions or services that will be catalytic to the organic growth of our core offerings. In October 2012, we acquired certain assets of the medium voltage drives business of Harbin Jiuzhou Electric Co., Ltd., a leading manufacturer of medium voltage drives, direct current power supplies, switch gear and wind inverters, headquartered in Harbin, China. The acquisition strengthened our presence in the Asia-Pacific motor control market by adding significant capabilities in design, engineering and manufacturing of medium voltage drive products. In March 2012, we acquired certain assets and assumed certain liabilities of SoftSwitching Technologies Corporation, an industrial power quality detection and protection systems provider in the United States. In May 2011, we acquired Lektronix Limited and its affiliate, an independent industrial automation repair and service provider primarily in Europe and Asia. In April 2011, we acquired certain assets and assumed certain liabilities of Hiprom (Pty) Ltd and its affiliates, a process control and automation systems integrator for the mining and mineral processing industry in South Africa. 
+
+We believe the acquired companies will help us expand our served market and deliver value to our customers.
+
+Continuous Improvement
+
+Productivity and continuous improvement are important components of our culture. We have programs in place that drive ongoing process improvement, functional streamlining, material cost savings and manufacturing productivity. We are in the process of developing and implementing common global processes and an enterprise-wide business system. These are intended to improve profitability that can be used to fund investments in growth and to offset inflation. Our ongoing productivity initiatives target both cost reduction and improved asset utilization. Charges for workforce reductions and facility rationalization may be required in order to effectively execute our productivity programs.
+
+18
+U. S. Industrial Economic Trends
+
+In 2013, sales to U.S. customers accounted for 50 percent of our total sales. The various indicators we use to gauge the direction and momentum of our U.S. served markets include:
+
+•The Industrial Production Index (Total Index), published by the Federal Reserve, which measures the real output of manufacturing, mining, and electric and gas utilities. The Industrial Production Index is expressed as a percentage of real output in a base year, currently 2007. Historically there has been a meaningful correlation between the changes in the Industrial Production Index and the level of automation investment made by our U.S. customers in their manufacturing base.
+
+•The Manufacturing Purchasing Managers’ Index (PMI), published by the Institute for Supply Management (ISM), which is an indication of the current and near-term state of manufacturing activity in the U.S. According to the ISM, a PMI measure above 50 indicates that the U.S. manufacturing economy is generally expanding while a measure below 50 indicates that it is generally contracting.
+
+•Industrial Equipment Spending, which is an economic statistic compiled by the Bureau of Economic Analysis (BEA). This statistic provides insight into spending trends in the broad U.S. industrial economy. This measure over the longer term has proven to demonstrate a reasonable correlation with our domestic growth.
+
+•Capacity Utilization (Total Industry), which is an indication of plant operating activity published by the Federal Reserve. Historically there has been a meaningful correlation between Capacity Utilization and levels of U.S. industrial production.
+
+The table below depicts the trends in these indicators from fiscal 2011 to 2013. The PMI increase in the fourth quarter of fiscal 2013 indicates expansion in the U.S. manufacturing sector. Industrial Equipment Spending and the Industrial Production Index have been gradually improving, while Capacity Utilization remained flat. Stability in both the recently reported and forecasted macroeconomic indicators supports our expectation that market conditions in the U.S. will remain stable next year. We expect the U.S. growth in fiscal 2014 to be about the same as in fiscal 2013.
+
+[DATA_TABLE_REMOVED]
+
+Note: Economic indicators are subject to revisions by the issuing organizations.
+
+19
+Non-U.S. Regional Trends
+
+In 2013, sales to non-U.S. customers accounted for 50 percent of our total sales. These customers include both indigenous companies and multinational companies with expanding global presence. International demand, particularly in emerging markets, has historically been driven by the strength of the industrial economy in each region, investments in infrastructure and expanding consumer markets.
+
+We use changes in Gross Domestic Product (GDP) and Industrial Production Index as indicators of the growth opportunities in each region where we do business. Outside the U.S., we expect stable underlying market conditions. Europe's macroeconomic conditions are improving but the pace of recovery is uncertain given unemployment levels and the impact of austerity programs. Asia Pacific is expected to return to growth next year primarily due to market stabilization in China. We expect our growth in Latin America to moderate in fiscal 2014 coming off a very strong year. Despite weakness in the past year, we continue to expect that emerging markets will be the fastest growing automation markets over the long term.
+
+20
+Summary of Results of Operations
+
+Despite sluggish market conditions in 2013, we achieved record sales of $6,351.9 million with sales growth of 1.5 percent year over year. All regions, except for Asia Pacific, experienced sales growth year over year, led by Latin America with organic sales growth of 12 percent. The end market with the strongest sales growth for the year was oil and gas. 
+
+Results for our key initiatives were mixed:[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+In a low growth environment, we were able to expand segment operating margin by almost a point while continuing to invest for growth.
+
+The effective tax rate in 2013 was 22.9 percent compared to 23.7 percent in 2012. The Adjusted Effective Tax Rate in 2013 was 23.9 percent compared to 24.1 percent in 2012. We recognized net discrete tax benefits of $22.7 million in 2013, primarily related to the favorable resolution of tax matters in various global jurisdictions and the retroactive extension of the U.S. federal research and development tax credit. We recognized net discrete tax benefits of $2.1 million in 2012, primarily related to the favorable resolution of tax matters in various global jurisdictions.
+
+21
+The following tables reflect our sales and operating results for the years ended September 30, 2013, 2012 and 2011 (in millions, except per share amounts):
+
+[DATA_TABLE_REMOVED]
+
+(1)See Note 17 in the Condensed Consolidated Financial Statements for the definition of segment operating earnings.
+
+(2)Total segment operating earnings and total segment operating margin are non-GAAP financial measures. We believe that these measures are useful to investors as measures of operating performance. We use these measures to monitor and evaluate the profitability of the company. Our measure of total segment operating earnings and total segment operating margin may be different from those used by other companies.
+
+(3)Beginning in fiscal 2013, we redefined segment operating earnings to exclude non-operating pension costs. Non-operating pension costs were reclassified to a separate line item within the above table for all periods presented. These costs were previously included in segment operating earnings and in general corporate-net. We continue to include service cost and amortization of prior service cost in the business segment that incurred the expense as these costs represent the operating cost of providing pension benefits to our employees.
+
+(4)See Note 13 in the Condensed Consolidated Financial Statements for a description of items reported as discontinued operations.
+
+22
+Purchase accounting depreciation and amortization and non-operating pension costs are not allocated to our operating segments because these costs are excluded from our measurement of each segment's operating performance for internal purposes. If we were to allocate these costs, we would attribute them to each of our segments as follows (in millions):
+
+[DATA_TABLE_REMOVED]
+
+The increases in non-operating pension costs in both segments in fiscal 2013 were primarily due to the decrease in our U.S. discount rate from 5.20 percent in 2012 to 4.15 percent in 2013.
+
+Adjusted Income, Adjusted EPS and Adjusted Effective Tax Rate Reconciliation
+
+Adjusted Income, Adjusted EPS and Adjusted Effective Tax Rate are non-GAAP earnings measures that exclude non-operating pension costs and their related income tax effects. We define non-operating pension costs as defined benefit plan interest cost, expected return on plan assets, amortization of actuarial gains and losses and the impact of any plan curtailments or settlements. These components of net periodic benefit cost primarily relate to changes in pension assets and liabilities that are a result of market performance; we consider these costs to be unrelated to the operating performance of our business. We believe that Adjusted Income, Adjusted EPS and Adjusted Effective Tax Rate provide useful information to our investors about our operating performance and allow management and investors to compare our operating performance period over period. Our measures of Adjusted Income, Adjusted EPS and Adjusted Effective Tax Rate may be different from measures used by other companies. These non-GAAP measures should not be considered a substitute for income from continuing operations, diluted EPS and effective tax rate.
+
+The following is a reconciliation of income from continuing operations, diluted EPS from continuing operations, and effective tax rate to Adjusted Income, Adjusted EPS and Adjusted Effective Tax Rate for the years ended September 30, 2013, 2012 and 2011 (in millions, except per share amounts):
+
+[DATA_TABLE_REMOVED]
+
+23
+2013 Compared to 2012 
+
+[DATA_TABLE_REMOVED]
+
+Sales
+
+Sales in fiscal 2013 increased 1.5 percent compared to 2012. Organic sales increased 1.7 percent. Sales in our solutions and services businesses grew 1 percent year over year. Fiscal 2013 year-end backlog in these businesses was 9 percent higher than at the end of last year. Product sales grew 2 percent year over year. Pricing contributed about 1 percentage point to growth.
+
+The table below presents our sales for the year ended September 30, 2013 by geographic region and the percentage change in sales from the year ended September 30, 2012 (in millions, except percentages):
+
+[DATA_TABLE_REMOVED]
+
+(1)We attribute sales to the geographic regions based upon country of destination.
+
+(2)Organic sales are sales excluding the effect of changes in currency exchange rates and acquisitions. See Supplemental Sales Information for information on this non-GAAP measure.
+
+•The United States and Canada had solid sales growth with oil and gas being the best performing end markets.
+
+•EMEA's sales growth was flat this year but we continued to outperform the market, especially with OEMs.
+
+•Asia Pacific had a challenging year with sales declines in all countries, except Japan.
+
+•Latin America was the highest growth region, led by strong growth in Brazil and Mexico.
+
+General Corporate - Net 
+
+General corporate - net expenses were $97.2 million in fiscal 2013 compared to $82.9 million in fiscal 2012. The largest contributor to the year-over-year increase was higher legacy environmental charges.
+
+24
+Income from Continuing Operations before Income Taxes
+
+Income from continuing operations before income taxes increased 2 percent from $965.9 million in 2012 to $980.9 million in 2013. The increase was primarily due to an increase in segment operating earnings, partially offset by higher non-operating pension costs. Total segment operating earnings increased 6 percent year over year, primarily due to higher sales and strong productivity.
+
+Income Taxes
+
+The effective tax rate for 2013 was 22.9 percent compared to 23.7 percent in 2012. The 2013 and 2012 effective tax rates were lower than the U.S. statutory rate of 35 percent because our sales outside of the U.S. benefited from lower tax rates. The Adjusted Effective Tax Rate in 2013 was 23.9 percent compared to 24.1 percent in 2012. We recognized net discrete tax benefits of $22.7 million in 2013, primarily related to the favorable resolution of tax matters in various global jurisdictions and the retroactive extension of the U.S. federal research and development tax credit. We recognized net discrete tax benefits of $2.1 million in 2012, primarily related to the favorable resolution of tax matters in various global jurisdictions.
+
+See Note 15 in the Financial Statements for a complete reconciliation of the United States statutory tax rate to the effective tax rate and more information on tax events in 2013 and 2012 affecting the respective tax rates.
+
+Architecture & Software
+
+[DATA_TABLE_REMOVED]
+
+Sales
+
+Architecture & Software sales increased 1 percent in 2013 compared to 2012. Organic sales increased 2 percent, and the effects of currency translation reduced sales by 1 percentage point. Pricing contributed about 1 percentage point to growth during the year. Strong year-over-year sales growth in the United States and EMEA was offset by significant declines in Asia Pacific. Logix sales increased 4 percent in 2013 compared to 2012.
+
+Operating Margin
+
+Architecture & Software segment operating earnings increased 6 percent. Operating margin expanded 1.3 points to 28.3 percent in 2013 as compared to 2012, primarily due to higher sales and strong productivity. 
+
+Control Products & Solutions
+
+[DATA_TABLE_REMOVED]
+
+Sales
+
+Control Products & Solutions sales increased 2 percent in 2013 compared to 2012. Organic sales increased 2 percent. Pricing contributed less than 1 percentage point to growth during the year. Latin America was the strongest performing region for the segment with double-digit year-over-year sales growth during the year. The United States and Canada experienced solid sales growth in 2013, while Asia Pacific reported significant sales declines.
+
+Operating Margin
+
+Control Products & Solutions segment operating earnings increased 6 percent. Operating margin expanded 0.5 point to 13.0 percent in 2013 as compared to 2012, primarily due to higher sales, strong productivity and favorable mix. 
+
+25
+2012 Compared to 2011
+
+[DATA_TABLE_REMOVED]
+
+Sales
+
+Sales in fiscal 2012 increased 4 percent compared to 2011. Organic sales increased 6 percent. Acquisitions contributed 1 percentage point to the growth rate and currency translation reduced sales by 3 percentage points. Organic sales in our solutions and services businesses grew 12 percent year over year, acquisitions contributed 2 percentage points to the increase and currency translation reduced sales by 4 percentage points. Year-end backlog in these businesses was 7 percent lower than a year ago due to an increase in order delays. Product organic sales grew 4 percent year over year and currency translation reduced sales by 3 percentage points. Volume accounted for substantially all of the organic sales growth during the year as pricing contributed less than 1 percentage point to growth.
+
+The table below presents our sales for the year ended September 30, 2012 by geographic region and the percentage change in sales from the year ended September 30, 2011 (in millions, except percentages):
+
+[DATA_TABLE_REMOVED]
+
+(1)We attribute sales to the geographic regions based upon country of destination.
+
+(2)Organic sales are sales excluding the effect of changes in currency exchange rates and acquisitions. See Supplemental Sales Information for information on this non-GAAP measure.
+
+•Organic sales growth in the United States was driven by transportation and oil and gas industries, as consumer industries lagged the region growth rate.
+
+•Strong organic sales growth in Canada reflected continued strength in the resource-based industries.
+
+•EMEA's organic sales growth was driven by strong double digit growth in its emerging markets, particularly in Central and Eastern Europe.
+
+•Asia Pacific organic sales growth was mixed across the countries in the region with mature markets generally outperforming emerging markets and Australia experiencing significant sales declines.
+
+•Organic sales growth in Latin America was driven by strong growth in transportation and oil and gas industries in Mexico, partially offset by year-over-year declines in Brazil, which is experiencing an economic slowdown.
+
+Income from Continuing Operations 
+
+Income from continuing operations before income taxes increased 11 percent from $867.6 million in 2011 to $965.9 million in 2012. The increase was predominantly due to increased volume and lower incentive compensation expense, partially offset by increased spending to support growth. 
+
+26
+Income Taxes
+
+The effective tax rate for 2012 was 23.7 percent compared to 19.7 percent in 2011. The 2012 and 2011 effective tax rates were lower than the U.S. statutory rate of 35 percent because our sales outside of the U.S. benefited from lower tax rates.
+
+During 2012, we recognized net discrete tax benefits of $2.1 million primarily related to the favorable resolution of worldwide tax matters. During 2011, we recognized net discrete tax benefits of $25.0 million related to the favorable resolution of worldwide tax matters and the retroactive extension of the U.S. federal research credit.
+
+See Note 15 in the Financial Statements for a complete reconciliation of the United States statutory tax rate to the effective tax rate and more information on tax events in 2012 and 2011 affecting the respective tax rates.
+
+Architecture & Software
+
+[DATA_TABLE_REMOVED]
+
+Sales
+
+Architecture & Software sales increased 2 percent in 2012. Organic sales increased 5 percent, and the effects of currency translation reduced sales by 3 percentage points. Pricing contributed less than 1 percentage point to growth during the year. Year-over-year organic sales growth in all regions other than Canada and EMEA was slightly above the segment average. Logix organic sales increased 8 percent in 2012 compared to 2011 and currency translation reduced sales by 3 percentage points.
+
+Operating Margin
+
+Architecture & Software segment operating earnings increased 7 percent. Operating margin expanded 1.1 points to 26.5 percent in 2012 as compared to 2011. The increase was predominantly due to volume increases and lower incentive compensation expense, partially offset by increased spending to support growth.
+
+Control Products & Solutions
+
+[DATA_TABLE_REMOVED]
+
+Sales
+
+Control Products & Solutions sales increased 6 percent. Organic sales increased 8 percent. Acquisitions contributed 1 percentage point to the growth rate and currency translation reduced sales by 3 percentage points. Pricing contributed less than 1 percentage point to growth during the year. Canada was the strongest performing region for the segment with double digit year-over-year organic sales growth during the year. Year-over-year organic sales growth in Latin America and EMEA was slightly above the segment average, while year-over-year organic sales growth in the United States and Asia Pacific was less than the segment average growth rate. 
+
+Operating Margin
+
+Control Products & Solutions segment operating earnings increased 16 percent. Operating margin expanded 1.1 points to 11.9 percent in 2012 as compared to 2011. The increase was predominantly due to volume increases and lower incentive compensation expense, partially offset by increased spending to support growth.
+
+27
+Financial Condition
+
+The following is a summary of our cash flows from operating, investing and financing activities, as reflected in the Consolidated Statement of Cash Flows (in millions):
+
+[DATA_TABLE_REMOVED]
+
+Our definition of free cash flow, which is a non-GAAP financial measure, takes into consideration capital investments required to maintain the operations of our businesses and execute our strategy. Cash provided by continuing operating activities adds back non-cash depreciation expense to earnings and thus does not reflect a charge for necessary capital expenditures. Our definition of free cash flow excludes the operating cash flows and capital expenditures related to our discontinued operations. Operating, investing and financing cash flows of our discontinued operations are presented separately in our statement of cash flows. Our accounting for share-based compensation requires us to report the related excess income tax benefit as a financing cash flow rather than as an operating cash flow. We have added this benefit back to our calculation of free cash flow in order to generally classify cash flows arising from income taxes as operating cash flows. In our opinion, free cash flow provides useful information to investors regarding our ability to generate cash from business operations that is available for acquisitions and other investments, service of debt principal, dividends and share repurchases. We use free cash flow as one measure to monitor and evaluate performance. Our definition of free cash flow may differ from definitions used by other companies.
+
+Cash provided by operating activities was $1,014.8 million for the year ended September 30, 2013 compared to $718.7 million for the year ended September 30, 2012. Free cash flow was a source of $900.5 million for the year ended September 30, 2013 compared to a source of $597.6 million for the year ended September 30, 2012. The increase in the cash flow provided by operating activities and the increase in free cash flow are primarily due to a $300 million discretionary pre-tax contribution to our U.S. qualified pension trust, partially offset by a related tax benefit, made in 2012 and lower incentive compensation payments in 2013.
+
+We repurchased approximately 4.7 million shares of our common stock under our share repurchase program in 2013. The total cost of these shares was $401.5 million, of which $6.4 million was recorded in accounts payable at September 30, 2013, related to 60,000 shares that did not settle until October 2013. In 2012, we repurchased approximately 3.7 million shares of our common stock under our share repurchase program. The total cost of these shares was $265.3 million, of which $7.6 million was recorded in accounts payable at September 30, 2012, related to 110,000 shares that did not settle until October 2012. Our decision to repurchase stock in 2014 will depend on business conditions, free cash flow generation, other cash requirements and stock price. At September 30, 2013 we had approximately $535.1 million remaining for stock repurchases under our existing board authorization. See Part II, Item 5, Market for the Company’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities, for additional information regarding share repurchases.
+
+We expect future uses of cash to include working capital requirements, capital expenditures, additional contributions to our retirement plans, acquisitions of businesses, dividends to shareowners, repurchases of common stock and repayments of debt. We expect capital expenditures in 2014 to be about $170 million. We expect to fund future uses of cash with a combination of existing cash balances and short-term investments, cash generated by operating activities, commercial paper borrowings or a new issuance of debt or other securities.
+
+28
+Given our extensive operations outside the U.S., a significant amount of our cash, cash equivalents and short-term investments (funds) are held in non-U.S. subsidiaries where our undistributed earnings are permanently reinvested. Generally, these funds would be subject to U.S. tax if repatriated. The percentage of such non-U.S. funds can vary from quarter to quarter with an average of approximately 90 percent over the past eight quarters. As of September 30, 2013, approximately 90 percent of our funds were held in such non-U.S. subsidiaries. We have not encountered and do not expect to encounter any difficulty meeting the liquidity requirements of our domestic and international operations.
+
+In addition to cash generated by operating activities, we have access to existing financing sources, including the public debt markets and unsecured credit facilities with various banks. Commercial paper is our principal source of short-term financing. At September 30, 2013, commercial paper borrowings outstanding were $179.0 million, with a weighted average interest rate of 0.17 percent. At September 30, 2012, commercial paper borrowings outstanding were $157.0 million, with a weighted average interest rate of 0.27 percent. Our debt-to-total-capital ratio was 29.5 percent at September 30, 2013 and 36.4 percent at September 30, 2012. The decrease in the debt-to-total-capital ratio is primarily due to higher shareowners' equity resulting from year-end pension adjustments for actuarial gains due to increase in the discount rate.
+
+On May 22, 2013, we replaced our former four-year $750.0 million unsecured revolving credit facility expiring in March 2015 with a new five-year $750.0 million unsecured revolving credit facility expiring in May 2018. We can increase the aggregate amount of this credit facility by up to $250.0 million, subject to the consent of the banks in the credit facility. We did not incur early termination penalties in connection with the termination of the former credit facility. We have not borrowed against these credit facilities during the years ended September 30, 2013 and 2012. Borrowings under these credit facilities bear interest based on short-term money market rates in effect during the period the borrowings are outstanding. The terms of these credit facilities contain covenants under which we would be in default if our debt-to-total-capital ratio was to exceed 60 percent. Separate short-term unsecured credit facilities of approximately $121.6 million at September 30, 2013 were available to non-U.S. subsidiaries. Borrowings under our non-U.S. credit facilities during fiscal 2013 and 2012 were not significant. We were in compliance with all covenants under our credit facilities during the years ended September 30, 2013 and 2012. There were no significant commitment fees or compensating balance requirements under any of our credit facilities. 
+
+Among other uses, we can draw on our credit facility as a standby liquidity facility to repay our outstanding commercial paper as it matures. This access to funds to repay maturing commercial paper is an important factor in maintaining the short-term credit ratings set forth in the table below. Under our current policy with respect to these ratings, we expect to limit our other borrowings under our credit facility, if any, to amounts that would leave enough credit available under the facility so that we could borrow, if needed, to repay all of our then outstanding commercial paper as it matures.
+
+The following is a summary of our credit ratings as of September 30, 2013:
+
+[DATA_TABLE_REMOVED]
+
+Our ability to access the commercial paper market, and the related costs of these borrowings, is affected by the strength of our credit rating and market conditions. We have not experienced any difficulty in accessing the commercial paper market to date. If our access to the commercial paper market is adversely affected due to a change in market conditions or otherwise, we would expect to rely on a combination of available cash and our unsecured committed credit facility to provide short-term funding. In such event, the cost of borrowings under our unsecured committed credit facility could be higher than the cost of commercial paper borrowings.
+
+We regularly monitor the third-party depository institutions that hold our cash and cash equivalents and short-term investments. Our emphasis is primarily on safety and liquidity of principal and secondarily on maximizing yield on those funds. We diversify our cash and cash equivalents and short-term investments among counterparties to minimize exposure to any one of these entities.
+
+29
+We enter into contracts to offset changes in the amount of future cash flows associated with certain third-party sales and intercompany transactions denominated in foreign currencies forecasted to occur within the next two years and to offset transaction gains or losses associated with some of our assets and liabilities that are denominated in currencies other than their functional currencies resulting from intercompany loans and other transactions with third parties denominated in foreign currencies. Our foreign currency forward exchange contracts are usually denominated in currencies of major industrial countries. We diversify our foreign currency forward exchange contracts among counterparties to minimize exposure to any one of these entities.
+
+Cash dividends to shareowners were $276.3 million in 2013 ($1.98 per common share), $247.4 million in 2012 ($1.745 per common share) and $211.0 million in 2011 ($1.475 per common share). Our quarterly dividend rate as of September 30, 2013 is $0.52 per common share ($2.08 per common share annually), which is determined at the sole discretion of our Board of Directors.
+
+A summary of our projected contractual cash obligations at September 30, 2013 are (in millions):
+
+[DATA_TABLE_REMOVED]
+
+(a)The amounts for long-term debt assume that the respective debt instruments will be outstanding until their scheduled maturity dates. The amounts include interest, but exclude the unamortized discount of $44.9 million. See Note 6 in the Financial Statements for more information regarding our long-term debt.
+
+(b)Our postretirement plans are unfunded and are subject to change. Amounts reported are estimates of future benefit payments, to the extent estimable.
+
+(c)Amounts reported for pension funding contributions reflect current estimates of known commitments. Contributions to our pension plans beyond 2014 will depend on future investment performance of our pension plan assets, changes in discount rate assumptions and governmental regulations in effect at the time. Amounts subsequent to 2014 are excluded from the summary above, as these amounts cannot be estimated with certainty. The minimum contribution for our U.S. pension plan as required by the Employee Retirement Income Security Act (ERISA) is currently zero. We may make additional contributions to this plan at the discretion of management.
+
+(d)This item includes long-term obligations under agreements with various service providers and contractual commitments for capital expenditures.
+
+(e)Other long-term liabilities include environmental liabilities, asset retirement obligations and indemnifications, net of related receivables. Amounts subsequent to 2014 are excluded from the summary above, as we are unable to make a reasonably reliable estimate of when the liabilities will be paid.
+
+(f)Amount for unrecognized tax benefits includes accrued interest and penalties. We are unable to make a reasonably reliable estimate of when the liabilities for unrecognized tax benefits will be settled or paid.
+
+30
+Supplemental Sales Information
+
+We translate sales of subsidiaries operating outside of the United States using exchange rates effective during the respective period. Therefore, changes in currency exchange rates affect our reported sales. Sales by businesses we acquired also affect our reported sales. We believe that organic sales, defined as sales excluding the effects of changes in currency exchange rates and acquisitions, which is a non-GAAP financial measure, provides useful information to investors because it reflects regional and operating segment performance from the activities of our businesses without the effect of changes in currency exchange rates and acquisitions. We use organic sales as one measure to monitor and evaluate our regional and operating segment performance. We determine the effect of changes in currency exchange rates by translating the respective period’s sales using the same currency exchange rates that were in effect during the prior year. When we acquire businesses, we exclude sales in the current period for which there are no comparable sales in the prior period. Organic sales growth is calculated by comparing organic sales to reported sales in the prior year. We attribute sales to the geographic regions based on the country of destination.
+
+The following is a reconciliation of our reported sales to organic sales (in millions):
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+31
+The following is a reconciliation of our reported sales by operating segment to organic sales (in millions):
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+32
+Critical Accounting Policies and Estimates
+
+We have prepared the consolidated financial statements in accordance with accounting principles generally accepted in the United States, which require us to make estimates and assumptions that affect the reported amounts of assets and liabilities at the date of the consolidated financial statements and revenues and expenses during the periods reported. Actual results could differ from those estimates. We believe the following critical accounting policies could have the most significant effect on our reported results or require subjective or complex judgments by management.
+
+Retirement Benefits — Pension
+
+Pension costs and obligations are actuarially determined and are influenced by assumptions used to estimate these amounts, including the discount rate, the expected rate of return on plan assets, the assumed annual compensation increase rate, the retirement rate, the mortality rate and the employee turnover rate. Changes in any of the assumptions and the amortization of differences between the assumptions and actual experience will affect the amount of pension expense in future periods.
+
+Our global pension expense in 2013 was $168.1 million compared to $104.7 million in 2012. Approximately 77 percent of our 2013 global pension expense relates to our U.S. pension plan. The actuarial assumptions used to determine our 2013 U.S. pension expense included the following: discount rate of 4.15 percent (compared to 5.20 percent for 2012); expected rate of return on plan assets of 8.00 percent (compared to 8.00 percent for 2012); and an assumed long-term compensation increase rate of 4.00 percent (compared to 4.00 percent for 2012).
+
+In 2013, 2012 and 2011, we were not required to make contributions to satisfy minimum statutory funding requirements in our U.S. pension plans. However, we made voluntary contributions of $300.0 million and $150.0 million to our U.S. pension plans in 2012 and 2011, respectively.
+
+The table below presents our estimate of net periodic benefit cost in 2014 compared to net periodic benefit cost in 2013 (in millions):
+
+[DATA_TABLE_REMOVED]
+
+ For 2014 our U.S. discount rate will increase to 5.05 percent from 4.15 percent in 2013. The discount rate was set as of our September 30 measurement date and was determined by modeling a portfolio of bonds that match the expected cash flow of our benefit plans. Our U.S. long-term compensation increase rate will decrease to 3.75 percent for 2014 from 4.00 percent in 2013. We established this rate by analyzing all elements of compensation that are pension-eligible earnings. 
+
+For 2014 our expected rate of return on U.S. plan assets will decrease to 7.50 percent from 8.00 percent in 2013, reflecting lower future expected market returns. In estimating the expected return on plan assets, we considered actual returns on plan assets over the long term, adjusted for forward-looking considerations, such as inflation, interest rates, equity performance and the active management of the plans’ invested assets. We also considered our current and expected mix of plan assets in setting this assumption. The financial markets produced strong results in 2013. The plan’s Debt Securities return exceeded the expected return range in 2013, as lower market interest rates resulted in higher bond values. The plan’s Equity Securities return exceeded the expected return range in 2013, largely due to higher U.S. equity returns. The actual return for our portfolio of U.S. plan assets was approximately 7.30 percent annualized for the 15 years ended September 30, 2013, and was approximately 8.90 percent annualized for the 20 years ended September 30, 2013. 
+
+33
+The target allocations and ranges of long-term expected return for our major categories of U.S. plan assets are as follows:
+
+[DATA_TABLE_REMOVED]
+
+The changes in our discount rate and return on plan assets have an inverse relationship with our net periodic benefit cost. The change in our discount rate also has an inverse relationship with our projected benefit obligation. The change in our compensation increase rate has a direct relationship with our net periodic benefit cost and projected benefit obligation. 
+
+The following chart illustrates the estimated change in projected benefit obligation and annual net periodic benefit cost assuming a change of 25 basis points in the key assumptions for our U.S. pension plans (in millions):
+
+[DATA_TABLE_REMOVED]
+
+More information regarding pension benefits is contained in Note 12 in the Financial Statements.
+
+Revenue Recognition
+
+For approximately 85 percent of our consolidated sales, we record sales when all of the following have occurred: an agreement of sale exists; pricing is fixed or determinable; collection is reasonably assured; and product has been delivered and acceptance has occurred, as may be required according to contract terms, or services have been rendered. Within this category, we will at times enter into arrangements that involve the delivery of multiple products and/or the performance of services, such as installation and commissioning. The timing of delivery, though varied based upon the nature of the undelivered component, is generally short-term in nature. For these arrangements, revenue is allocated to each deliverable based on that element's relative selling price, provided the delivered element has value to customers on a standalone basis and, if the arrangement includes a general right of return, delivery or performance of the undelivered items is probable and substantially in our control. Relative selling price is obtained from sources such as vendor-specific objective evidence (VSOE), which is based on the separate selling price for that or a similar item, or from third-party evidence such as how competitors have priced similar items. If such evidence is not available, we use our best estimate of the selling price, which includes various internal factors such as our pricing strategy and market factors.
+
+We recognize substantially all of the remainder of our sales as construction-type contracts using either the percentage-of-completion or completed contract methods of accounting. We record sales relating to these contracts using the percentage-of-completion method when we determine that progress toward completion is reasonably and reliably estimable; we use the completed contract method for all others. Under the percentage-of-completion method, we recognize sales and gross profit as work is performed using the relationship between actual costs incurred and total estimated costs at completion. Under the percentage-of-completion method, we adjust sales and gross profit for revisions of estimated total contract costs or revenue in the period the change is identified. We record estimated losses on contracts when they are identified.
+
+We use contracts and customer purchase orders to determine the existence of an agreement of sale. We use shipping documents and customer acceptance, when applicable, to verify delivery. We assess whether the fee is fixed or determinable based on the payment terms associated with the transaction and whether the sales price is subject to refund or adjustment. We assess collectibility based on the creditworthiness of the customer as determined by credit evaluations and analysis, as well as the customer’s payment history.
+
+34
+Returns, Rebates and Incentives
+
+Our primary incentive program provides distributors with cash rebates or account credits based on agreed amounts that vary depending on the customer to whom our distributor ultimately sells the product. We also offer various other incentive programs that provide distributors and direct sale customers with cash rebates, account credits or additional products and services based on meeting specified program criteria. Certain distributors are offered a right to return product, subject to contractual limitations.
+
+We record accruals for customer returns, rebates and incentives at the time of revenue recognition based primarily on historical experience. Adjustments to the accrual may be required if actual returns, rebates and incentives differ from historical experience or if there are changes to other assumptions used to estimate the accrual. A critical assumption used in estimating the accrual for our primary distributor rebate program is the time period from when revenue is recognized to when the rebate is processed. If the time period were to change by 10 percent, the effect would be an adjustment to the accrual of approximately $10.8 million.
+
+Returns, rebates and incentives are recognized as a reduction of sales if distributed in cash or customer account credits. Rebates and incentives are recognized in cost of sales for additional products and services to be provided. Accruals are reported as a current liability in our balance sheet or, where a right of setoff exists, as a reduction of accounts receivable. The accrual for customer returns, rebates and incentives was $184.0 million at September 30, 2013 and $176.6 million at September 30, 2012, of which $8.9 million at September 30, 2013 and $7.9 million at September 30, 2012 was included as an offset to accounts receivable.
+
+Litigation, Claims and Contingencies
+
+We record liabilities for litigation, claims and contingencies when an obligation is probable and when we have a basis to reasonably estimate its value. We also record liabilities for environmental matters based on estimates for known environmental remediation exposures. The liabilities include expenses for sites we currently own or operate or formerly owned or operated and third party sites where we were determined to be a potentially responsible party. At third-party environmental sites where more than one potentially responsible party has been identified, we record a liability for our estimated allocable share of costs related to our involvement with the site, as well as an estimated allocable share of costs related to the involvement of insolvent or unidentified parties. If we determine that recovery from insurers or other third parties is probable and a right of setoff exists, we record the liability net of the estimated recovery. If we determine that recovery from insurers or other third parties is probable, but a right of setoff does not exist, we record a liability for the total estimated costs of remediation and a receivable for the estimated recovery. At environmental sites where we are the only responsible party, we record a liability for the total estimated costs of remediation. Ongoing operating and maintenance expenditures included in our environmental remediation obligations are discounted to present value over the probable future remediation period. Our remaining environmental remediation obligations are undiscounted due to subjectivity of timing and/or amount of future cash payments. Environmental liability estimates may be affected by changing determinations of what constitutes an environmental exposure or an acceptable level of cleanup. To the extent that the required remediation procedures or timing of those procedures change, additional contamination is identified, or the financial condition of other potentially responsible parties is adversely affected, the estimate of our environmental liabilities may change.
+
+Our accrual for environmental matters was $47.5 million, net of $35.1 million of related receivables, and $45.2 million, net of $32.1 million of related receivables, at September 30, 2013 and 2012, respectively. Our recorded liability for environmental matters relates almost entirely to businesses formerly owned by us (legacy businesses) for which we retained the responsibility to remediate. The nature of our current business is such that the likelihood of new environmental exposures that could result in a significant charge to earnings is low. As a result of remediation efforts at legacy sites and limited new environmental matters, we expect that gradually, over a long period of time, our environmental obligations will decline. However, changes in required remediation procedures or timing of those procedures at existing legacy sites, or discovery of contamination at additional sites, could result in increases to our environmental obligations.
+
+Our principal self-insurance programs include product liability where we are self-insured up to a specified dollar amount. Claims exceeding this amount up to specified limits are covered by insurance policies issued by commercial insurers. We estimate the reserve for product liability claims using our claims experience for the periods being valued. Adjustments to the product liability reserves may be required to reflect emerging claims experience and other factors such as inflationary trends or the outcome of claims. The reserve for product liability claims was $21.0 million and $22.3 million as of September 30, 2013 and 2012, respectively.
+
+Various lawsuits, claims and proceedings have been or may be instituted or asserted against us relating to the conduct of our business. As described in Part I, Item 3. Legal Proceedings, we have been named as a defendant in lawsuits alleging personal injury as a result of exposure to asbestos that was used in certain components of our products many years ago. See Part I, Item 3 for further discussion.
+
+35
+We accrue for costs related to the legal obligation associated with the retirement of a tangible long-lived asset that results from the acquisition, construction, development or the normal operation of the long-lived asset. The obligation to perform the asset retirement activity is not conditional even though the timing or method may be conditional. Identified conditional asset retirement obligations include asbestos abatement and remediation of soil contamination beneath current and previously divested facilities. We estimate conditional asset retirement obligations using site-specific knowledge and historical industry expertise. A significant change in the costs or timing could have a significant effect on our estimates. We recorded these liabilities in the Consolidated Balance Sheet, which totaled $2.3 million and $3.4 million in other current liabilities at September 30, 2013 and 2012, respectively, and $22.0 million and $22.4 million in other liabilities at September 30, 2013 and 2012, respectively. 
+
+In conjunction with the sale of our Dodge mechanical and Reliance Electric motors and motor repair services businesses, we agreed to indemnify Baldor Electric Company for costs and damages related to certain legacy legal, environmental and asbestos matters of these businesses arising before January 31, 2007, for which the maximum exposure is capped at the amount received for the sale. We estimate the potential future payments we could incur under these indemnifications may approximate $11.4 million, of which $0.3 million and $1.6 million has been accrued in other current liabilities at September 30, 2013 and 2012, respectively, and $9.2 million and $8.8 million has been accrued in other liabilities at September 30, 2013 and 2012, respectively. A significant change in the costs or timing could have a significant effect on our estimates.
+
+More information regarding litigation, claims and contingencies is contained in Note 16 in the Financial Statements.
+
+Income Taxes
+
+We operate in numerous taxing jurisdictions and are subject to regular examinations by U.S. Federal, state and non-U.S. taxing authorities. Additionally, we have retained tax liabilities and the rights to tax refunds in connection with various divestitures of businesses in prior years. Our income tax positions are based on research and interpretations of the income tax laws and rulings in each of the jurisdictions in which we do business. Due to the subjectivity of interpretations of laws and rulings in each jurisdiction, the differences and interplay in tax laws between those jurisdictions as well as the inherent uncertainty in estimating the final resolution of complex tax audit matters, our estimates of income tax liabilities may differ from actual payments or assessments.
+
+While we have support for the positions we take on our tax returns, taxing authorities may assert interpretations of laws and facts and may challenge cross jurisdictional transactions. Cross jurisdictional transactions between our subsidiaries involving the transfer price for products, services, and/or intellectual property as well as various U.S. state tax matters comprise our more significant income tax exposures. The gross liability for unrecognized tax benefits, excluding interest and penalties, was recorded in other liabilities in the Consolidated Balance Sheet in the amount of $40.8 million and $70.3 million at September 30, 2013 and 2012, respectively, of which the entire amount would reduce our effective tax rate if recognized. Accrued interest and penalties related to unrecognized tax benefits were $12.4 million and $20.1 million at September 30, 2013 and 2012, respectively. We recognize interest and penalties related to unrecognized tax benefits in the income tax provision. If the unrecognized tax benefits were recognized, the net impact on our income tax provision, including the recognition of interest and penalties and offsetting tax assets, would be $27.1 million as of September 30, 2013. We believe it is reasonably possible that the amount of gross unrecognized tax benefits could be reduced by up to $16.4 million in the next 12 months as a result of the resolution of tax matters in various global jurisdictions and the lapses of statutes of limitations.
+
+36
+We recorded a valuation allowance for a portion of our deferred tax assets related to net operating loss, tax credit, and capital loss carryforwards (Carryforwards) and certain temporary differences in the amount of $28.3 million at September 30, 2013 and $31.8 million at September 30, 2012 based on the projected profitability of the entity in the respective tax jurisdiction. The valuation allowance is based on an evaluation of the uncertainty that the Carryforwards and certain temporary differences will be realized. Our income would increase if we determine we will be able to use more Carryforwards or certain temporary differences than currently expected. Conversely, our income would decrease if we determine we are unable to realize our deferred tax assets in the future.
+
+Our consolidated financial statements provide for tax liability on undistributed earnings of our subsidiaries that will be repatriated to the U.S. As of September 30, 2013, we have not provided U.S. deferred taxes for $2,427.0 million of such earnings, since these earnings have been, and under current plans will continue to be, permanently reinvested outside the U.S. 
+
+At the end of each interim reporting period, we estimate a base effective tax rate that we expect for the full fiscal year based on our most recent forecast of pretax income, permanent book and tax differences and global tax planning strategies. We use this base rate to provide for income taxes on a year-to-date basis, excluding the effect of significant unusual or extraordinary items and items that are reported net of their related tax effects. We record the tax effect of significant unusual or extraordinary items and items that are reported net of their tax effects in the period in which they occur.
+
+More information regarding income taxes is contained in Note 15 in the Financial Statements.
+
+Recent Accounting Pronouncements
+
+See Note 1 in the Financial Statements regarding recent accounting pronouncements.
+
+37
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk

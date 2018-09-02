@@ -1,0 +1,813 @@
+Item 7. Managements Discussion and Analysis of Financial Condition and Results of Operations  
+
+We begin Managements Discussion and Analysis of Financial Condition and Results of Operations with an overview of our key operating business segments and significant trends. This overview is followed by a summary of our critical accounting policies and estimates that we believe are important to understanding the assumptions and judgments incorporated in our reported financial results. We then provide a more detailed analysis of our results of operations and financial condition.  
+
+Business Overview  
+
+Oracle Corporation provides products and services that address all aspects of corporate information technology (IT) environmentsapplication, platform and infrastructureand are available to customers either via cloud computing or on-premises deployment models. Our products include database and middleware software, application software, cloud infrastructure software, and hardware systems (Oracle Engineered Systems, servers, storage, networking and industry specific products), along with support and related services. We offer over 400,000 worldwide customers a choice of deployment models to best suit their needs including (1) the deployment of our products via our Oracle Cloud offerings, (2) the acquisition of Oracle products and services for an on-premises IT environment or (3) a mix of these two models.  
+
+For customers opting for a cloud computing model, Oracle offers a wide range of services in all three primary layers of the cloud: Software as a Service (SaaS), Platform as a Service (PaaS) and Infrastructure as a Service (IaaS). Our Oracle Cloud offerings are designed to be: rapidly deployable to enable customers shorter time to innovation; easily maintainable to reduce integration and testing work; and cost effective by requiring lower upfront customer investment. Our Oracle Cloud offerings integrate the software, hardware and services on the customers behalf in IT environments that we deploy, support and manage for the customer. We are a leader in the core technologies of cloud IT environments, including database and middleware software as well as enterprise applications, virtualization, clustering, large-scale systems management and related infrastructure. Our products and services are the building blocks of our Oracle Cloud services, our partners cloud services and our customers cloud IT environments.  
+
+In addition to offering a broad spectrum of cloud products and services, Oracle for decades has developed and sold its products and services to our customers worldwide for use in their global data centers and on-premises IT environments. An important element of our corporate strategy is to continue our investments in, and innovation with respect to, our products and services that we offer through our software and cloud, hardware and services businesses. In fiscal 2015, 2014 and 2013, we invested $5.5 billion, $5.2 billion and $4.9 billion, respectively, in research and development to enhance our existing portfolio of products and services and to develop new products and services. We have a deep understanding as to how all components within IT environmentsapplication, platform and infrastructureinteract and function with one another. We focus our development efforts on improving the performance, operation and integration of these differing technologies to make them more cost-effective and easier to deploy, manage and maintain for our customers and to improve their computing performance relative to our competitors. After purchasing Oracle products and services, customers can continue to take advantage of Oracles research and development investments and deep IT expertise by purchasing and renewing Oracle support offerings, which may include product enhancements that we periodically deliver to our Oracle E-Business Suite, Siebel, PeopleSoft and JD Edwards application software products, among others, or renewing their SaaS, PaaS and IaaS contracts with us.  
+
+Oracle customers are increasingly electing to run their IT environments using our suite of Oracle Cloud offerings. As customers deploy with the Oracle Cloud, many are adopting a hybrid IT model whereby certain of their IT resources are deployed and managed through the Oracle Cloud, while other of their IT resources are deployed and managed on-premises, and both sets of resources can be managed as one. We focus the engineering of our products and services to best connect these different deployment models to enable flexibility, ease, agility, compatibility, extensibility and seamlessness.  
+
+A selective and active acquisition program is another important element of our corporate strategy. We believe our acquisitions enhance the products and services that we can offer to customers, expand our customer base, provide greater scale to accelerate innovation, grow our revenues and earnings, and increase stockholder value.  
+
+37  
+
+Table of Contents 
+
+ In recent years, we have invested billions of dollars to acquire a number of companies, products, services and technologies that add to, are complementary to, or have otherwise enhanced our existing offerings. We expect to continue to acquire companies, products, services and technologies to further our corporate strategy.  
+
+We have three businesses that deliver our application, platform and infrastructure technologies: software and cloud, hardware systems, and services. These businesses can be further divided into certain operating segments (Note 16 of Notes to Consolidated Financial Statements, included elsewhere in this Annual Report, provides additional information related to our operating segments). Each of our businesses and operating segments has unique characteristics and faces different opportunities and challenges. Although we report our actual results in U.S. Dollars, we conduct a significant number of transactions in currencies other than U.S. Dollars. Therefore, we present constant currency information to provide a framework for assessing how our underlying businesses performed excluding the effects of foreign currency rate fluctuations. An overview of our three businesses and related operating segments follows.  
+
+Software and Cloud Business  
+
+Our software and cloud business, which represented 77%, 76% and 75% of our total revenues in fiscal 2015, 2014 and 2013, respectively, is comprised of three operating segments: (1) new software licenses and cloud software subscriptions, (2) cloud infrastructure as a service and (3) software license updates and product support. On a constant currency basis, we expect that our software and cloud business total revenues generally will continue to increase due to continued demand for our software products and cloud software subscription offerings, our software license updates and product support offerings, including the high percentage of customers that renew their software license updates and product support contracts, and our acquisitions, which should allow us to grow and continue to make investments in research and development.  
+
+New Software Licenses and Cloud Software Subscriptions: Our new software licenses and cloud software subscriptions line of business markets, sells and delivers our application and platform technologies including our SaaS and PaaS offerings (our SaaS and PaaS offerings are collectively referred to as cloud software subscriptions), which provide customers a choice of software applications and platforms that are delivered via a cloud-based IT environment that we host, manage and support, and the licensing of our software products including Oracle Applications, Oracle Database, Oracle Fusion Middleware and Java, among others. Our application and platform technologies are substantially built on standards-based architectures that are designed to help customers reduce the cost and complexity of their IT infrastructure. Our commitment to industry standards results in software that works in customer environments with Oracle or non-Oracle hardware or software components and that can be adapted to meet specific industry or business needs. We focus the engineering of our products and services to best connect cloud and on-premises deployment models to enable flexibility, ease, agility, compatibility, extensibility and seamlessness. Our software offerings are substantially designed to operate on both single server and clustered server configurations for cloud or on-premises IT environments, and to support a choice of operating systems including Oracle Solaris, Oracle Linux, Microsoft Windows and third party UNIX products, among others. These approaches are designed to support customer choice and reduce customer risk. Our customers include businesses of many sizes, government agencies, educational institutions and resellers. We market and sell our software products and services to these customers with a sales force positioned to offer the combinations that best fit their needs. We enable customers to evolve and transform to substantially any IT environment at whatever pace is most appropriate for them.  
+
+The growth in our new software licenses and our SaaS and PaaS revenues that we report is affected by the strength of general economic and business conditions, governmental budgetary constraints, the competitive position of our software offerings, our acquisitions and foreign currency fluctuations. The substantial majority of our new software license transactions are characterized by long sales cycles and the timing of a few large software license transactions can substantially affect our quarterly new software licenses revenues. New software licenses and cloud software subscriptions revenues represented 26% of our total revenues in fiscal 2015 and 28% in each of fiscal 2014 and 2013. Our cloud software subscriptions contracts, which consist of SaaS and PaaS arrangements, are generally one to three years in duration and we strive to renew these contracts when they are eligible for renewal. Our new software licenses and cloud software subscriptions segments margin has historically trended upward over the course of the four quarters within a particular fiscal year due to the historical  
+
+38  
+
+Table of Contents 
+
+ upward trend of our new software licenses revenues over those quarterly periods and because the majority of our costs for this segment are predominantly fixed in the short-term. However, our new software licenses and cloud software subscriptions segments margin has been and will continue to be affected by the fair value adjustments relating to the cloud SaaS and PaaS obligations that we assumed in our business combinations (described further below) and by the amortization of intangible assets associated with companies and technologies that we have acquired.  
+
+For certain of our acquired businesses, we recorded adjustments to reduce the cloud SaaS and PaaS obligations to their estimated fair values at the acquisition dates. As a result, as required by business combination accounting rules, we did not recognize cloud SaaS and PaaS revenues related to acquired contracts that would have been otherwise recorded by the acquired businesses as independent entities in the amounts of $12 million, $17 million and $45 million in fiscal 2015, 2014 and 2013, respectively. To the extent underlying cloud SaaS and PaaS contracts are renewed with us following an acquisition, we will recognize the revenues for the full values of these contracts over their respective contractual periods.  
+
+Cloud Infrastructure as a Service: Our cloud infrastructure as a service offerings, which represented 2% of our total revenues in fiscal 2015 and 1% in each of fiscal 2014 and 2013, provide comprehensive software and hardware management and maintenance services for customer IT infrastructure for a fee for a stated term that is hosted at our Oracle data center facilities, select partner data centers or physically on-premises at customer facilities; deployment and management offerings for our software and hardware and related IT infrastructure including virtual machine instances that are subscription-based and designed for computing and reliable and secure object storage; and certain of our Oracle Engineered Systems and related support offerings that are deployed in our customers data centers for a monthly fee.  
+
+Software License Updates and Product Support: Customers that purchase software license updates and product support are granted rights to unspecified product upgrades and maintenance releases and patches released during the term of the support period, as well as technical support assistance. Our software license updates and product support contracts are generally one year in duration. Substantially all of our software license customers renew their software license updates and product support contracts annually. The growth of software license updates and product support revenues is primarily influenced by three factors: (1) the percentage of our software support contract customer base that renews its software support contracts, (2) the amount of new software support contracts sold in connection with the sale of new software licenses and (3) the amount of software support contracts assumed from companies we have acquired.  
+
+Software license updates and product support revenues, which represented 49%, 47% and 46% of our total revenues in fiscal 2015, 2014 and 2013, respectively, is our highest margin business unit. Our software support margins during fiscal 2015 were 90% and accounted for 81% of our total margins over the same period. Our software license updates and product support margins have been affected by fair value adjustments relating to software support obligations assumed in business combinations (described further below) and by amortization of intangible assets. However, over the longer term, we believe that software license updates and product support revenues and margins will grow for the following reasons:  
+
+       substantially all of our customers, including customers from acquired companies, renew their software support contracts when eligible for renewal;  
+
+       substantially all of our customers purchase software license updates and product support contracts when they buy new software licenses, resulting in a further increase in our software support contract base. Even if new software licenses revenues growth was flat, software license updates and product support revenues would continue to grow in comparison to the corresponding prior year periods assuming contract renewal and cancellation rates and foreign currency rates remained relatively constant since substantially all new software licenses transactions result in the sale of software license updates and product support contracts, which add to our software support contract base; and  
+
+       our acquisitions have increased our software support contract base, as well as the portfolio of products available to be licensed and supported.  
+
+We recorded adjustments to reduce software support obligations assumed in business combinations to their estimated fair values at the acquisition dates. As a result, as required by business combination accounting rules,  
+
+39  
+
+Table of Contents 
+
+ we did not recognize software license updates and product support revenues related to software support contracts that would have been otherwise recorded by the acquired businesses as independent entities in the amounts of $11 million, $3 million and $14 million in fiscal 2015, 2014 and 2013, respectively. To the extent underlying software support contracts are renewed with us following an acquisition, we will recognize the revenues for the full values of the software support contracts over the respective support periods, the majority of which are one year.  
+
+Hardware Systems Business   
+
+Our hardware systems business is comprised of two operating segments: (1) hardware systems products and (2) hardware systems support. Our hardware business represented 14% of our total revenues in fiscal 2015, 2014 and 2013. We expect our hardware business to have lower operating margins as a percentage of revenues than our software and cloud business due to the incremental costs we incur to produce and distribute these products and to provide support services, including direct materials and labor costs. We expect to make investments in research and development to improve existing hardware products and services and to develop new hardware products and services.  
+
+Hardware Systems Products: We provide a broad selection of hardware systems and related services including Oracle Engineered Systems, servers, storage, networking, workstations and related devices, industry specific hardware, virtualization software, operating systems, and management software to support diverse IT environments, including cloud computing environments. We engineer our hardware systems with virtualization and management capabilities to enable the rapid deployment and efficient management of cloud and on-premises IT infrastructures. Our hardware products support many of the worlds largest cloud infrastructures, including the Oracle Cloud.  
+
+Our hardware systems products are designed to be easier to deploy, manage and maintain for our customers and to improve computing performance relative to our competitors offerings. We design our hardware products to seamlessly connect on-premises and cloud IT environments to further enable interoperability, interchangeability and extendibility and to work in customer environments that may include other Oracle or non-Oracle hardware or software components. Our flexible and open approach provides Oracle customers with a broad range of choices in how they deploy our hardware products, which we believe is a priority for our customers.  
+
+Oracle Engineered Systems are core to our hardware offerings and are important elements of our data center and cloud computing offerings including the Oracle Cloud. These pre-integrated products are designed to integrate multiple Oracle technology components to work together to deliver improved performance, availability, security and operational efficiency relative to our competitors products, to be upgraded effectively and efficiently and to simplify maintenance cycles by providing a single solution for software patching. Oracle Engineered Systems are tested before they are shipped to customers and delivered ready-to-run, enabling customers to shorten the time to production.  
+
+We offer a wide range of server systems using our SPARC microprocessor. Our SPARC servers run the Oracle Solaris operating system and are designed to be differentiated by their reliability, security, and scalability. Our mid-size and large servers are designed to offer better performance and lower total cost of ownership than mainframe systems for business critical applications, for customers having more computationally intensive needs, and as platforms for building cloud computing IT environments. Our SPARC servers are also a core component of the Oracle SuperCluster, one of our Oracle Engineered Systems.  
+
+We also offer enterprise x86 servers. These x86 servers are based on microprocessors from Intel Corporation and are compatible with Oracle Solaris, Oracle Linux, Microsoft Windows and other operating systems. Our x86 servers are also a core component of many of our Oracle Engineered Systems including Oracle Exadata Database Machine, Oracle Exalogic Elastic Cloud, Oracle Exalytics In-Memory Machine and the Oracle Big Data Appliance.  
+
+Our storage products are designed to securely manage, protect, archive and restore customers mission critical data assets and consist of tape, disk, flash and hardware-related software including file systems software, back-up and archive software and storage management software and networking for mainframe and open systems environments.  
+
+40  
+
+Table of Contents 
+
+Our networking and data center fabric products, including Oracle Virtual Networking, and Oracle InfiniBand and Ethernet technologies, are used with our server and storage products and are integrated into our management tools to help enterprise customers improve infrastructure performance, reduce cost and complexity and simplify storage and server connectivity.  
+
+We offer hardware products and services designed for specific industries. Our point-of-sale hardware offerings include point-of-sale terminals and related hardware that are designed for managing businesses within the food and beverage, hotel and retail industries, among others. Our hardware products and services for communications networks include network signaling, policy control and subscriber data management solutions, and session border control technology, among others.  
+
+The majority of our hardware systems products are sold through indirect channels, including independent distributors and value added resellers.  
+
+To produce our hardware products, we rely on both our internal manufacturing operations as well as third party manufacturing partners. Our internal manufacturing operations consist primarily of materials procurement, assembly, testing and quality control of our Oracle Engineered Systems and certain of our enterprise and data center servers and storage systems. For all other manufacturing, we generally rely on third party manufacturing partners to produce our hardware related components and hardware products and we may involve our internal manufacturing operations in the final assembly, testing and quality control processes for these components and products. We distribute most of our hardware products either from our facilities or partner facilities. We strive to reduce costs by simplifying our manufacturing processes through increased standardization of components across product types and a build-to-order manufacturing process in which products generally are built only after customers have placed firm orders.  
+
+Our hardware systems products revenues, cost of hardware systems products and hardware systems operating margins that we report are affected by our strategy for and the competitive position of our hardware systems products, the strength of general economic and business conditions, governmental budgetary constraints, certain of our acquisitions and foreign currency rate fluctuations. In addition, our operating margins for our hardware systems products segment have been and will be affected by the amortization of intangible assets.  
+
+Our quarterly hardware systems products revenues are difficult to predict. The timing of customer orders and delays in our ability to timely manufacture or deliver a few large hardware transactions, among other factors, could substantially affect the amount of hardware systems products revenues, expenses and operating margins that we report.  
+
+Hardware Systems Support: Our hardware systems support offerings provide customers with software updates for software components that are essential to the functionality of our hardware products, such as Oracle Solaris and certain other software products, and can include product repairs, maintenance services and technical support services. Typically, our hardware systems support contract arrangements are priced as a percentage of the net hardware systems products fees, are invoiced to the customer at the beginning of the support period and are one year in duration. We continue to evolve hardware systems support processes that are intended to proactively identify and solve quality issues and to increase the amount of new and renewed hardware systems support contracts sold in connection with the sales of our hardware systems products. Our hardware systems support revenues that we report are influenced by a number of factors, including the volume of purchases of hardware products, the mix of hardware products purchased, whether customers decide to purchase hardware systems support contracts at or in close proximity to the time of hardware product sale, the percentage of our hardware systems support contract customer base that renews its support contracts and our acquisitions. Substantially all of these factors are heavily influenced by our customers decisions to either maintain or upgrade their existing hardware systems infrastructure to newly developed technologies that are available.  
+
+Our hardware systems support margins have been and will be affected by certain of our acquisitions and related accounting, including fair value adjustments relating to hardware systems support obligations assumed, and by the amortization of intangible assets. As required by business combination accounting rules, we recorded adjustments to reduce our hardware systems support revenues for contracts assumed from our acquisitions to their estimated fair values. These amounts would have been recorded as hardware systems support revenues by  
+
+41  
+
+Table of Contents 
+
+ the acquired businesses as independent entities in the amounts of $4 million, $11 million and $14 million for fiscal 2015, 2014 and 2013, respectively. To the extent underlying hardware systems support contracts are renewed with us following an acquisition, we will recognize the revenues for the full values of the hardware systems support contracts over the respective support periods.  
+
+Services Business   
+
+Our services business, which represented 9%, 10% and 11% of our total revenues in fiscal 2015, fiscal 2014 and fiscal 2013, respectively, is comprised of the remainder of our operating segments. Our services business has lower margins than our software and cloud and hardware businesses. Our services revenues are impacted by our strategy for and the competitive position of our services, certain of our acquisitions, general economic conditions, governmental budgetary constraints, personnel reductions in our customers IT departments, tighter controls over discretionary spending and the growth in our software and hardware systems products revenues. Our services business offerings include:  
+
+       consulting services that are designed to help our customers and global system integrator partners more successfully architect and deploy our products, including IT strategy alignment, enterprise architecture planning and design, initial product implementation and integration, and ongoing product enhancements and upgrades. We utilize a global, blended delivery model to optimize value for our customers and partners, consisting of on-premises consultants from local geographies, industry specialists and consultants from our global delivery and solution centers;  
+
+       advanced customer support services, which are provided on-premises and remotely to our customers to enable increased performance and higher availability of their Oracle products and services; and  
+
+       education services for Oracle products and services, including training and certification programs that are offered to customers, partners and employees through a variety of formats, including instructor-led classes at our education centers, live virtual training, self-paced online training, private events and custom training.  
+
+Acquisitions  
+
+A selective and active acquisition program is another important element of our corporate strategy. In recent years, we have invested billions of dollars to acquire a number of complementary companies, products, services and technologies including MICROS Systems, Inc. (MICROS) in fiscal 2015, Responsys, Inc. (Responsys) and Tekelec Global, Inc. (Tekelec) in fiscal 2014, and Acme Packet, Inc. (Acme Packet) in fiscal 2013, among others. We believe our acquisition program strengthens our competitive position, enhances the products and services that we can offer to customers, expands our customer base, provides greater scale to accelerate innovation, grows our revenues and earnings and increases stockholder value. We expect to continue to acquire companies, products, services and technologies in furtherance of our corporate strategy. Note 2 of Notes to Consolidated Financial Statements included elsewhere in this Annual Report provides additional information related to our recent acquisitions.  
+
+We believe we can fund our future acquisitions with our internally available cash, cash equivalents and marketable securities, cash generated from operations, additional borrowings or from the issuance of additional securities. We estimate the financial impact of any potential acquisition with regard to earnings, operating margin, cash flow and return on invested capital targets before deciding to move forward with an acquisition.  
+
+Critical Accounting Policies and Estimates  
+
+Our consolidated financial statements are prepared in accordance with U.S. generally accepted accounting principles (GAAP) as set forth in the Financial Accounting Standards Boards (FASB) Accounting Standards Codification (ASC) and we consider the various staff accounting bulletins and other applicable guidance issued by the United States Securities and Exchange Commission (SEC). GAAP, as set forth within the ASC, requires us to make certain estimates, judgments and assumptions. We believe that the estimates, judgments and assumptions upon which we rely are reasonable based upon information available to us at the time that these  
+
+42  
+
+Table of Contents 
+
+ estimates, judgments and assumptions are made. These estimates, judgments and assumptions can affect the reported amounts of assets and liabilities as of the date of the financial statements as well as the reported amounts of revenues and expenses during the periods presented. To the extent there are differences between these estimates, judgments or assumptions and actual results, our financial statements will be affected. The accounting policies that reflect our more significant estimates, judgments and assumptions and which we believe are the most critical to aid in fully understanding and evaluating our reported financial results include the following:  
+
+       Revenue Recognition  
+
+       Business Combinations  
+
+       Goodwill and Intangible AssetsImpairment Assessments  
+
+       Accounting for Income Taxes  
+
+       Legal and Other Contingencies  
+
+       Stock-Based Compensation  
+
+In many cases, the accounting treatment of a particular transaction is specifically dictated by GAAP and does not require managements judgment in its application. There are also areas in which managements judgment in selecting among available alternatives would not produce a materially different result. Our senior management has reviewed our critical accounting policies and related disclosures with the Finance and Audit Committee of the Board of Directors.  
+
+Revenue Recognition  
+
+Our sources of revenues include: (1) software and cloud revenues, including new software licenses revenues earned from granting licenses to use our software products and industry specific software; cloud SaaS and PaaS revenues generated from fees for granting customers access to a broad range of our software and related support offerings on a subscription basis in a secure, standards-based cloud computing environment; cloud IaaS revenues generated from fees for deployment and management offerings for our software and hardware and related IT infrastructure generally on a subscription basis; and software license updates and product support revenues (described further below); (2) hardware systems revenues, which include the sale of hardware systems products including Oracle Engineered Systems, computer servers, storage products, networking and data center fabric products, and industry specific hardware; and hardware systems support revenues; and (3) services, which include software and hardware related services including consulting, advanced customer support and education revenues. Revenues generally are recognized net of any taxes collected from customers and subsequently remitted to governmental authorities.  
+
+Revenue Recognition for Software Products and Software Related Services (Software Elements)  
+
+New software licenses revenues primarily represent fees earned from granting customers licenses to use our database, middleware and application software and exclude cloud SaaS and PaaS revenues and revenues derived from software license updates, which are included in software license updates and product support revenues. The basis for our new software licenses revenue recognition is substantially governed by the accounting guidance contained in ASC 985-605, Software-Revenue Recognition. We exercise judgment and use estimates in connection with the determination of the amount of software and software related services revenues to be recognized in each accounting period.  
+
+For software license arrangements that do not require significant modification or customization of the underlying software, we recognize new software licenses revenues when: (1) we enter into a legally binding arrangement with a customer for the license of software; (2) we deliver the products; (3) the sale price is fixed or determinable and free of contingencies or significant uncertainties; and (4) collection is probable. Revenues that are not recognized at the time of sale because the foregoing conditions are not met, are recognized when those conditions are subsequently met.  
+
+Substantially all of our software license arrangements do not include acceptance provisions. However, if acceptance provisions exist as part of public policy, for example, in agreements with government entities where  
+
+43  
+
+Table of Contents 
+
+ acceptance periods are required by law, or within previously executed terms and conditions that are referenced in the current agreement and are short-term in nature, we generally recognize revenues upon delivery provided the acceptance terms are perfunctory and all other revenue recognition criteria have been met. If acceptance provisions are not perfunctory (for example, acceptance provisions that are long-term in nature or are not included as standard terms of an arrangement), revenues are recognized upon the earlier of receipt of written customer acceptance or expiration of the acceptance period.  
+
+The vast majority of our software license arrangements include software license updates and product support contracts, which are entered into at the customers option and are recognized ratably over the term of the arrangement, typically one year. Software license updates provide customers with rights to unspecified software product upgrades, maintenance releases and patches released during the term of the support period. Product support includes internet access to technical content, as well as internet and telephone access to technical support personnel. Software license updates and product support contracts are generally priced as a percentage of the net new software licenses fees. Substantially all of our customers renew their software license updates and product support contracts annually.  
+
+Revenue Recognition for Multiple-Element ArrangementsSoftware Products and Software Related Services (Software Arrangements)  
+
+We often enter into arrangements with customers that purchase both software related products and software related services from us at the same time, or within close proximity of one another (referred to as software related multiple-element arrangements). Such software related multiple-element arrangements include the sale of our software products, software license updates and product support contracts and other software related services whereby software license delivery is followed by the subsequent or contemporaneous delivery of the other elements. For those software related multiple-element arrangements, we have applied the residual method to determine the amount of new software license revenues to be recognized pursuant to ASC 985-605. Under the residual method, if fair value exists for undelivered elements in a multiple-element arrangement, such fair value of the undelivered elements is deferred with the remaining portion of the arrangement consideration generally recognized upon delivery of the software license. We allocate the fair value of each element of a software related multiple-element arrangement based upon its fair value as determined by our vendor specific objective evidence (VSOEdescribed further below), with any remaining amount allocated to the software license.  
+
+Revenue Recognition for Cloud SaaS, PaaS and IaaS Offerings, Hardware Systems Products, Hardware Systems Support and Related Services (Nonsoftware Elements)  
+
+Our revenue recognition policy for nonsoftware deliverables including cloud SaaS, PaaS and IaaS offerings, hardware systems products, support and related services is based upon the accounting guidance contained in ASC 605-25, Revenue Recognition, Multiple-Element Arrangements, and we exercise judgment and use estimates in connection with the determination of the amount of cloud SaaS, PaaS and IaaS revenues, hardware systems products revenues, support and related services revenues to be recognized in each accounting period.  
+
+Revenues from the sales of our nonsoftware elements are recognized when: (1) persuasive evidence of an arrangement exists; (2) we deliver the products and passage of the title to the buyer occurs; (3) the sale price is fixed or determinable; and (4) collection is reasonably assured. Revenues that are not recognized at the time of sale because the foregoing conditions are not met are recognized when those conditions are subsequently met. When applicable, we reduce revenues for estimated returns or certain other incentive programs where we have the ability to sufficiently estimate the effects of these items. Where an arrangement is subject to acceptance criteria and the acceptance provisions are not perfunctory (for example, acceptance provisions that are long-term in nature or are not included as standard terms of an arrangement), revenues are recognized upon the earlier of receipt of written customer acceptance or expiration of the acceptance period.  
+
+Our cloud SaaS and PaaS offerings generally provide customers access to certain of our software within a cloud-based IT environment that we manage, host and support and offer to customers on a subscription basis. Revenues for our cloud SaaS and PaaS offerings are generally recognized ratably over the contract term commencing with the date the service is made available to customers and all other revenue recognition criteria have been satisfied.  
+
+44  
+
+Table of Contents 
+
+Our cloud IaaS offerings provide deployment and management offerings for our software and hardware and related IT infrastructure including comprehensive software and hardware management and maintenance services arrangements for customer IT infrastructure for a stated term that is hosted at our data center facilities, select partner data centers or physically on-premises at customer facilities generally for a term-based fee; and virtual machine instances that are subscription-based and designed for computing and reliable and secure object storage. Revenues for these cloud IaaS offerings are generally recognized ratably over the contract term commencing with the date the service is made available to customers and all other revenue recognition criteria have been satisfied.  
+
+Revenues from the sale of hardware systems products represent amounts earned primarily from the sale of our Oracle Engineered Systems, computer servers, storage, networking and industry specific hardware.  
+
+Our hardware systems support offerings generally provide customers with software updates for the software components that are essential to the functionality of our hardware products and can also include product repairs, maintenance services and technical support services. Hardware systems support contracts are generally priced as a percentage of the net hardware systems products fees. Hardware systems support contracts are entered into at the customers option and are recognized ratably over the contractual term of the arrangements, which are typically one year.  
+
+Revenue Recognition for Multiple-Element ArrangementsCloud SaaS, PaaS and IaaS Offerings, Hardware Systems Products, Hardware Systems Support and Related Services (Nonsoftware Arrangements)  
+
+We enter into arrangements with customers that purchase both nonsoftware related products and services from us at the same time, or within close proximity of one another (referred to as nonsoftware multiple-element arrangements). Each element within a nonsoftware multiple-element arrangement is accounted for as a separate unit of accounting provided the following criteria are met: the delivered products or services have value to the customer on a standalone basis; and for an arrangement that includes a general right of return relative to the delivered products or services, delivery or performance of the undelivered product or service is considered probable and is substantially controlled by us. We consider a deliverable to have standalone value if the product or service is sold separately by us or another vendor or could be resold by the customer. Further, our revenue arrangements generally do not include a general right of return relative to the delivered products. Where the aforementioned criteria for a separate unit of accounting are not met, the deliverable is combined with the undelivered element(s) and treated as a single unit of accounting for the purposes of allocation of the arrangement consideration and revenue recognition. For those units of accounting that include more than one deliverable but are treated as a single unit of accounting, we generally recognize revenues over the contractual period of the arrangement or in the case of our cloud offerings, we generally recognize revenues over the contractual term of the cloud software subscription. For the purposes of revenue classification of the elements that are accounted for as a single unit of accounting, we allocate revenue to the respective revenue line items within our consolidated statements of operations based on a rational and consistent methodology utilizing our best estimate of relative selling prices of such elements.  
+
+For our nonsoftware multiple-element arrangements, we allocate revenue to each element based on a selling price hierarchy at the arrangements inception. The selling price for each element is based upon the following selling price hierarchy: VSOE if available, third party evidence (TPE) if VSOE is not available, or estimated selling price (ESP) if neither VSOE nor TPE are available (a description as to how we determine VSOE, TPE and ESP is provided below). If a tangible hardware systems product includes software, we determine whether the tangible hardware systems product and the software work together to deliver the products essential functionality and, if so, the entire product is treated as a nonsoftware deliverable. The total arrangement consideration is allocated to each separate unit of accounting for each of the nonsoftware deliverables using the relative selling prices of each unit based on the aforementioned selling price hierarchy. We limit the amount of revenue recognized for delivered elements to an amount that is not contingent upon future delivery of additional products or services or meeting of any specified performance conditions.  
+
+When possible, we establish VSOE of selling price for deliverables in software and nonsoftware multiple-element arrangements using the price charged for a deliverable when sold separately and for software license updates and product support and hardware systems support, based on the renewal rates offered to customers. TPE  
+
+45  
+
+Table of Contents 
+
+ is established by evaluating similar and interchangeable competitor products or services in standalone arrangements with similarly situated customers. If we are unable to determine the selling price because VSOE or TPE does not exist, we determine ESP for the purposes of allocating the arrangement by reviewing historical transactions, including transactions whereby the deliverable was sold on a standalone basis and considering several other external and internal factors including, but not limited to, pricing practices including discounting, margin objectives, competition, contractually stated prices, the geographies in which we offer our products and services, the type of customer (i.e., distributor, value added reseller, government agency and direct end user, among others) and the stage of the product lifecycle. The determination of ESP is made through consultation with and approval by our management, taking into consideration our pricing model and go-to-market strategy. As our, or our competitors, pricing and go-to-market strategies evolve, we may modify our pricing practices in the future, which could result in changes to our determination of VSOE, TPE and ESP. As a result, our future revenue recognition for multiple-element arrangements could differ materially from our results in the current period. Selling prices are analyzed on an annual basis or more frequently if we experience significant changes in our selling prices.  
+
+Revenue Recognition Policies Applicable to both Software and Nonsoftware Elements  
+
+Revenue Recognition for Multiple-Element ArrangementsArrangements with Software and Nonsoftware Elements  
+
+We also enter into multiple-element arrangements that may include a combination of our various software related and nonsoftware related products and services offerings including new software licenses, software license updates and product support, cloud SaaS, PaaS and IaaS offerings, hardware systems products, hardware systems support, consulting, advanced customer support services and education. In such arrangements, we first allocate the total arrangement consideration based on the relative selling prices of the software group of elements as a whole and to the nonsoftware elements. We then further allocate consideration within the software group to the respective elements within that group following the guidance in ASC 985-605 and our policies as described above. After the arrangement consideration has been allocated to the elements, we account for each respective element in the arrangement as described above.  
+
+Other Revenue Recognition Policies Applicable to Software and Nonsoftware Elements  
+
+Many of our software arrangements include consulting implementation services sold separately under consulting engagement contracts and are included as a part of our services business. Consulting revenues from these arrangements are generally accounted for separately from new software licenses revenues because the arrangements qualify as services transactions as defined in ASC 985-605. The more significant factors considered in determining whether the revenues should be accounted for separately include the nature of services (i.e., consideration of whether the services are essential to the functionality of the licensed product), degree of risk, availability of services from other vendors, timing of payments and impact of milestones or acceptance criteria on the realizability of the software license fee. Revenues for consulting services are generally recognized as the services are performed. If there is a significant uncertainty about the project completion or receipt of payment for the consulting services, revenues are deferred until the uncertainty is sufficiently resolved. We estimate the proportional performance on contracts with fixed or not to exceed fees on a monthly basis utilizing hours incurred to date as a percentage of total estimated hours to complete the project. If we do not have a sufficient basis to measure progress towards completion, revenues are recognized when we receive final acceptance from the customer that the services have been completed. When total cost estimates exceed revenues, we accrue for the estimated losses immediately using cost estimates that are based upon an average fully burdened daily rate applicable to the consulting organization delivering the services. The complexity of the estimation process and factors relating to the assumptions, risks and uncertainties inherent with the application of the proportional performance method of accounting affects the amounts of revenues and related expenses reported in our consolidated financial statements. A number of internal and external factors can affect our estimates, including labor rates, utilization and efficiency variances and specification and testing requirement changes.  
+
+Our advanced customer support services are offered as standalone arrangements or as a part of arrangements to customers buying other software and non-software products and services. We offer these advanced support  
+
+46  
+
+Table of Contents 
+
+ services, both on-premises and remote, to Oracle customers to enable increased performance and higher availability of their products and services. Depending upon the nature of the arrangement, revenues from these services are recognized as the services are performed or ratably over the term of the service period, which is generally one year or less.  
+
+Education revenues are also a part of our services business and include instructor-led, media-based and internet-based training in the use of our software and hardware products. Education revenues are recognized as the classes or other education offerings are delivered.  
+
+If an arrangement contains multiple elements and does not qualify for separate accounting for the product and service transactions, then new software licenses revenues and/or hardware systems products revenues, including the costs of hardware systems products, are generally recognized together with the services based on contract accounting using either the percentage-of-completion or completed-contract method. Contract accounting is applied to any bundled software and cloud, hardware systems and services arrangements: (1) that include milestones or customer specific acceptance criteria that may affect collection of the software license or hardware systems product fees; (2) where consulting services include significant modification or customization of the software or hardware systems product or are of a specialized nature and generally performed only by Oracle; (3) where significant consulting services are provided for in the software license contract or hardware systems product contract without additional charge or are substantially discounted; or (4) where the software license or hardware systems product payment is tied to the performance of consulting services. For the purposes of revenue classification of the elements that are accounted for as a single unit of accounting, we allocate revenues to software and nonsoftware elements based on a rational and consistent methodology utilizing our best estimate of the relative selling price of such elements.  
+
+We also evaluate arrangements with governmental entities containing fiscal funding or termination for convenience provisions, when such provisions are required by law, to determine the probability of possible cancellation. We consider multiple factors, including the history with the customer in similar transactions, the essential use of the software or hardware systems products and the planning, budgeting and approval processes undertaken by the governmental entity. If we determine upon execution of these arrangements that the likelihood of cancellation is remote, we then recognize revenues once all of the criteria described above have been met. If such a determination cannot be made, revenues are recognized upon the earlier of cash receipt or approval of the applicable funding provision by the governmental entity.  
+
+We assess whether fees are fixed or determinable at the time of sale and recognize revenues if all other revenue recognition requirements are met. Our standard payment terms are net 30 days. However, payment terms may vary based on the country in which the agreement is executed. Payments that are due within six months are generally deemed to be fixed or determinable based on our successful collection history on such arrangements, and thereby satisfy the required criteria for revenue recognition.  
+
+While most of our arrangements for sales within our businesses include short-term payment terms, we have a standard practice of providing long-term financing to creditworthy customers primarily through our financing division. Since fiscal 1989, when our financing division was formed, we have established a history of collection, without concessions, on these receivables with payment terms that generally extend up to five years from the contract date. Provided all other revenue recognition criteria have been met, we recognize new software licenses revenues and hardware systems products revenues for these arrangements upon delivery, net of any payment discounts from financing transactions. We have generally sold receivables financed through our financing division on a non-recourse basis to third party financing institutions within 90 days of the contracts dates of execution and we classify the proceeds from these sales as cash flows from operating activities in our consolidated statements of cash flows. We account for the sales of these receivables as true sales as defined in ASC 860, Transfers and Servicing, as we are considered to have surrendered control of these financing receivables.  
+
+In addition, we enter into arrangements with leasing companies for the sale of our hardware systems products. These leasing companies, in turn, lease our products to end-users. The leasing companies generally have no recourse to us in the event of default by the end-user and we recognize revenue upon delivery, if all other revenue recognition criteria have been met.  
+
+47  
+
+Table of Contents 
+
+Our customers include several of our suppliers and, occasionally, we have purchased goods or services for our operations from these vendors at or about the same time that we have sold our products to these same companies (Concurrent Transactions). Software license agreements or sales of hardware systems that occur within a three-month time period from the date we have purchased goods or services from that same customer are reviewed for appropriate accounting treatment and disclosure. When we acquire goods or services from a customer, we negotiate the purchase separately from any sales transaction, at terms we consider to be at arms length and settle the purchase in cash. We recognize revenues from Concurrent Transactions if all of our revenue recognition criteria are met and the goods and services acquired are necessary for our current operations.  
+
+Business Combinations  
+
+We apply the provisions of ASC 805, Business Combinations, in the accounting for our acquisitions. It requires us to recognize separately from goodwill the assets acquired and the liabilities assumed at the acquisition date fair values. Goodwill as of the acquisition date is measured as the excess of consideration transferred over the net of the acquisition date fair values of the assets acquired and the liabilities assumed. While we use our best estimates and assumptions to accurately value assets acquired and liabilities assumed at the acquisition date as well as contingent consideration, where applicable, our estimates are inherently uncertain and subject to refinement. As a result, during the measurement period, which may be up to one year from the acquisition date, we record adjustments to the assets acquired and liabilities assumed with the corresponding offset to goodwill. Upon the conclusion of the measurement period or final determination of the values of assets acquired or liabilities assumed, whichever comes first, any subsequent adjustments are recorded to our consolidated statements of operations.  
+
+Accounting for business combinations requires our management to make significant estimates and assumptions, especially at the acquisition date, including our estimates for intangible assets, contractual obligations assumed, restructuring liabilities, pre-acquisition contingencies and contingent consideration, where applicable. Although we believe the assumptions and estimates we have made in the past have been reasonable and appropriate, they are based in part on historical experience and information obtained from the management of the acquired companies and are inherently uncertain.  
+
+Examples of critical estimates in valuing certain of the intangible assets we have acquired include but are not limited to:  
+
+       future expected cash flows from software license sales, cloud SaaS, PaaS and IaaS contracts, hardware systems product sales, support agreements, consulting contracts, other customer contracts, acquired developed technologies and patents;  
+
+       expected costs to develop the in-process research and development into commercially viable products and estimated cash flows from the projects when completed;  
+
+       the acquired companys brand and competitive position, as well as assumptions about the period of time the acquired brand will continue to be used in the combined companys product portfolio; and  
+
+       discount rates.  
+
+Unanticipated events and circumstances may occur that may affect the accuracy or validity of such assumptions, estimates or actual results.  
+
+We estimate the fair values of our cloud SaaS and PaaS (collectively, cloud software subscriptions), software license updates and product support, and hardware systems support obligations assumed. The estimated fair values of these performance obligations are determined utilizing a cost build-up approach. The cost build-up approach determines fair value by estimating the costs related to fulfilling the obligations plus a normal profit margin. The estimated costs to fulfill the obligations are based on the historical direct costs related to providing the services including the correction of any errors in the products acquired. The sum of these costs and operating profit approximates, in theory, the amount that we would be required to pay a third party to assume the performance obligations. We do not include any costs associated with selling efforts or research and development or the related fulfillment margins on these costs. Profit associated with any selling efforts is excluded because the  
+
+48  
+
+Table of Contents 
+
+ acquired entities would have concluded those selling efforts on the performance obligations prior to the acquisition date. We also do not include the estimated research and development costs in our fair value determinations, as these costs are not deemed to represent a legal obligation at the time of acquisition. As a result, we did not recognize cloud SaaS and PaaS revenues related to cloud SaaS and PaaS contracts in the amounts of $12 million, $17 million and $45 million that would have been otherwise recorded by the acquired businesses as independent entities in fiscal 2015, 2014 and 2013, respectively. We did not recognize software license updates and product support revenues related to support contracts in the amounts of $11 million, $3 million and $14 million that would have been otherwise recorded by the acquired businesses as independent entities in fiscal 2015, 2014 and 2013, respectively. In addition, we did not recognize hardware systems support revenues related to hardware systems support contracts that would have otherwise been recorded by the acquired businesses as independent entities in the amounts of $4 million, $11 million and $14 million for fiscal 2015, 2014 and 2013, respectively. Historically, substantially all of our customers, including customers from acquired companies, renew their software license updates and product support contracts when the contracts are eligible for renewal and we strive to renew cloud SaaS and PaaS, and hardware systems support contracts. To the extent cloud SaaS and PaaS, software support or hardware systems support contracts are renewed, we will recognize the revenues for the full values of the contracts over their respective contractual periods, which are generally one year in duration.  
+
+In connection with a business combination or other strategic initiative, we may estimate costs associated with restructuring plans committed to by our management. Restructuring costs are typically comprised of employee severance costs, costs of consolidating duplicate facilities and contract termination costs. Restructuring expenses are based upon plans that have been committed to by our management, but may be refined in subsequent periods. We account for costs to exit or restructure certain activities of an acquired company separately from the business combination pursuant to ASC 420, Exit or Disposal Cost Obligations. A liability for costs associated with an exit or disposal activity is recognized and measured at its fair value in our consolidated statement of operations in the period in which the liability is incurred. When estimating the fair value of facility restructuring activities, assumptions are applied regarding estimated sub-lease payments to be received, which can differ materially from actual results. This may require us to revise our initial estimates which may materially affect our results of operations and financial position in the period the revision is made.  
+
+For a given acquisition, we may identify certain pre-acquisition contingencies as of the acquisition date and may extend our review and evaluation of these pre-acquisition contingencies throughout the measurement period in order to obtain sufficient information to assess whether we include these contingencies as a part of the fair value estimates of assets acquired and liabilities assumed and, if so, to determine their estimated amounts.  
+
+If we cannot reasonably determine the fair value of a pre-acquisition contingency (non-income tax related) by the end of the measurement period, which is generally the case given the nature of such matters, we will recognize an asset or a liability for such pre-acquisition contingency if: (i) it is probable that an asset existed or a liability had been incurred at the acquisition date and (ii) the amount of the asset or liability can be reasonably estimated. Subsequent to the measurement period, changes in our estimates of such contingencies will affect earnings and could have a material effect on our results of operations and financial position.  
+
+In addition, uncertain tax positions and tax related valuation allowances assumed in connection with a business combination are initially estimated as of the acquisition date. We reevaluate these items quarterly based upon facts and circumstances that existed as of the acquisition date with any adjustments to our preliminary estimates being recorded to goodwill if identified within the measurement period. Subsequent to the measurement period or our final determination of the tax allowances or contingencys estimated value, whichever comes first, changes to these uncertain tax positions and tax related valuation allowances will affect our provision for income taxes in our consolidated statement of operations and could have a material impact on our results of operations and financial position.  
+
+Goodwill and Intangible AssetsImpairment Assessments   
+
+We review goodwill for impairment annually and whenever events or changes in circumstances indicate its carrying value may not be recoverable in accordance with ASC 350, IntangiblesGoodwill and Other. According to ASC 350, we can opt to perform a qualitative assessment to test a reporting units goodwill for  
+
+49  
+
+Table of Contents 
+
+ impairment or we can directly perform the two step impairment test. Based on our qualitative assessment, if we determine that the fair value of a reporting unit is more likely than not (i.e., a likelihood of more than 50 percent) to be less than its carrying amount, the two step impairment test prescribed by ASC 350 will be performed. In the first step, we compare the fair value of each reporting unit to its carrying value. If the fair value of the reporting unit exceeds the carrying value of the net assets assigned to that unit, goodwill is not considered impaired and we are not required to perform further testing. If the carrying value of the net assets assigned to the reporting unit exceeds the fair value of the reporting unit, then we must perform the second step of the impairment test in order to determine the implied fair value of the reporting units goodwill. If the carrying value of a reporting units goodwill exceeds its implied fair value, then we would record an impairment loss equal to the difference.  
+
+Determining the fair value of a reporting unit involves the use of significant estimates and assumptions. These estimates and assumptions include revenue growth rates and operating margins used to calculate projected future cash flows, risk-adjusted discount rates, future economic and market conditions and determination of appropriate market comparables. We base our fair value estimates on assumptions we believe to be reasonable but that are inherently uncertain. Actual future results may differ from those estimates. In addition, we make certain judgments and assumptions in allocating shared assets and liabilities to determine the carrying values for each of our reporting units.  
+
+Based upon our most recent annual goodwill impairment review which took place as of March 1, 2015, we recorded a goodwill impairment loss related to our hardware systems products reporting unit. We considered several approaches to determine the fair value of our hardware systems reporting unit and concluded the most appropriate to be the income approach. Based upon the completion of our annual forecasting process, the fair value of our hardware systems products reporting unit under the income approach was impacted by lower forecasted operating results, primarily caused by lower forecasted revenues and our continued investment in research and development activities. We compared the implied fair value of goodwill in our hardware systems products reporting unit to its carrying value, which resulted in a $186 million goodwill impairment loss, representing the aggregate amount of goodwill in our hardware systems products reporting unit. The aggregate hardware systems reporting unit goodwill that was impaired in fiscal 2015 resulted from our acquisitions of Pillar Data Systems, Inc., Xsigo Systems, Inc., GreenBytes, Inc. and MICROS Systems, Inc. Such impairment loss was recorded to acquisition related and other expenses in our fiscal 2015 consolidated statement of operations. We did not recognize any goodwill impairment losses in fiscal 2014 or 2013.  
+
+Our most recent annual goodwill impairment review for our other reporting units, which also took place on March 1, 2015, did not result in a goodwill impairment loss. Other than our consulting reporting unit, all of our other reporting units had fair values that substantially exceeded their carrying values. Our consulting reporting unit had $1.8 billion of goodwill on March 1, 2015, and experienced revenue and operating margin declines in fiscal 2015. As of our most recent annual goodwill impairment review, our consulting reporting units fair value was 16% in excess of its carrying value. We estimate that should our consulting reporting units projected margins and related cash flows unfavorably deviate from our projections by 20% or more, our consulting reporting unit likely would incur a goodwill impairment loss.  
+
+We make judgments about the recoverability of purchased finite lived intangible assets whenever events or changes in circumstances indicate that an impairment may exist. Each period we evaluate the estimated remaining useful lives of purchased intangible assets and whether events or changes in circumstances warrant a revision to the remaining periods of amortization. Recoverability of finite lived intangible assets is measured by comparison of the carrying amount of the asset to the future undiscounted cash flows the asset is expected to generate. We review indefinite lived intangible assets for impairment annually and whenever events or changes in circumstances indicate the carrying value may not be recoverable. Recoverability of indefinite lived intangible assets is measured by comparison of the carrying amount of the asset to its fair value. If the asset is considered to be impaired, the amount of any impairment is measured as the difference between the carrying value and the fair value of the impaired asset.  
+
+Assumptions and estimates about future values and remaining useful lives of our intangible and other long-lived assets are complex and subjective. They can be affected by a variety of factors, including external factors such as industry and economic trends and internal factors such as changes in our business strategy and our internal  
+
+50  
+
+Table of Contents 
+
+ forecasts. Although we believe the historical assumptions and estimates we have made are reasonable and appropriate, different assumptions and estimates could materially impact our reported financial results. We did not recognize any intangible asset impairment charges in fiscal 2015, 2014 or 2013.  
+
+Accounting for Income Taxes  
+
+Significant judgment is required in determining our worldwide income tax provision. In the ordinary course of a global business, there are many transactions and calculations where the ultimate tax outcome is uncertain. Some of these uncertainties arise as a consequence of revenue sharing and cost reimbursement arrangements among related entities, the process of identifying items of revenues and expenses that qualify for preferential tax treatment and segregation of foreign and domestic earnings and expenses to avoid double taxation. Although we believe that our estimates are reasonable, the final tax outcome of these matters could be different from that which is reflected in our historical income tax provisions and accruals. Such differences could have a material effect on our income tax provision and net income in the period in which such determination is made.  
+
+Our effective tax rate includes the impact of certain undistributed foreign earnings for which no U.S. taxes have been provided because such earnings are planned to be indefinitely reinvested outside the United States. Remittances of foreign earnings to the United States are planned based on projected cash flow, working capital and investment needs of our foreign and domestic operations. Based on these assumptions, we estimate the amount that will be distributed to the United States and provide U.S. federal taxes on these amounts. Material changes in our estimates as to how much of our foreign earnings will be distributed to the United States or tax legislation that limits or restricts the amount of undistributed foreign earnings that we consider indefinitely reinvested outside the United States could materially impact our income tax provision and effective tax rate.  
+
+We record a valuation allowance to reduce our deferred tax assets to the amount that is more likely than not to be realized. In order for us to realize our deferred tax assets, we must be able to generate sufficient taxable income in those jurisdictions where the deferred tax assets are located. We consider future growth, forecasted earnings, future taxable income, the mix of earnings in the jurisdictions in which we operate, historical earnings, taxable income in prior years, if carryback is permitted under the law and prudent and feasible tax planning strategies in determining the need for a valuation allowance. In the event we were to determine that we would not be able to realize all or part of our net deferred tax assets in the future, an adjustment to the deferred tax assets valuation allowance would be charged to earnings in the period in which we make such a determination, or goodwill would be adjusted at our final determination of the valuation allowance related to an acquisition within the measurement period. If we later determine that it is more likely than not that the net deferred tax assets would be realized, we would reverse the applicable portion of the previously provided valuation allowance as an adjustment to earnings at such time.  
+
+We calculate our current and deferred tax provision based on estimates and assumptions that could differ from the actual results reflected in income tax returns filed during the subsequent year. Adjustments based on filed returns are generally recorded in the period when the tax returns are filed and the global tax implications are known, which can materially impact our effective tax rate.  
+
+The amount of income tax we pay is subject to ongoing audits by federal, state and foreign tax authorities, which often result in proposed assessments. Our estimate of the potential outcome for any uncertain tax issue is highly judgmental. A description of our accounting policies associated with tax related contingencies assumed as a part of a business combination is provided under Business Combinations above. For those tax related contingencies that are not a part of a business combination, we account for these uncertain tax issues pursuant to ASC 740, Income Taxes, which contains a two-step approach to recognizing and measuring uncertain tax positions taken or expected to be taken in a tax return. The first step is to determine if the weight of available evidence indicates that it is more likely than not that the tax position will be sustained in an audit, including resolution of any related appeals or litigation processes. The second step is to measure the tax benefit as the largest amount that is more than 50% likely to be realized upon ultimate settlement. Although we believe we have adequately reserved for our uncertain tax positions, no assurance can be given with respect to the final outcome of these matters. We adjust reserves for our uncertain tax positions due to changing facts and circumstances, such as the closing of a tax audit, judicial rulings, and refinement of estimates or realization of earnings or deductions that differ from  
+
+51  
+
+Table of Contents 
+
+ our estimates. To the extent that the final outcome of these matters is different than the amounts recorded, such differences generally will impact our provision for income taxes in the period in which such a determination is made. Our provisions for income taxes include the impact of reserve provisions and changes to reserves that are considered appropriate and also include the related interest and penalties.  
+
+In addition, as a part of our accounting for business combinations, intangible assets are recognized at fair values and goodwill is measured as the excess of consideration transferred over the net estimated fair values of assets acquired. Impairment charges associated with goodwill are generally not tax deductible and will result in an increased effective income tax rate in the period that any impairment is recorded. Amortization expenses associated with acquired intangible assets are generally not tax deductible pursuant to our existing tax structure; however, deferred taxes have been recorded for non-deductible amortization expenses as a part of the accounting for business combinations. We have taken into account the allocation of these identified intangibles among different taxing jurisdictions, including those with nominal or zero percent tax rates, in establishing the related deferred tax liabilities.  
+
+Legal and Other Contingencies  
+
+We are currently involved in various claims and legal proceedings. Quarterly, we review the status of each significant matter and assess our potential financial exposure. A description of our accounting policies associated with contingencies assumed as a part of a business combination is provided under Business Combinations above. For legal and other contingencies that are not a part of a business combination, we accrue a liability for an estimated loss if the potential loss from any claim or legal proceeding is considered probable and the amount can be reasonably estimated. Significant judgment is required in both the determination of probability and the determination as to whether the amount of an exposure is reasonably estimable. Because of uncertainties related to these matters, accruals are based only on the best information available at the time the accruals are made. As additional information becomes available, we reassess the potential liability related to our pending claims and litigation and may revise our estimates. Such revisions in the estimates of the potential liabilities could have a material impact on our results of operations and financial position.  
+
+Stock-Based Compensation  
+
+We account for share-based payments to employees, including grants of service-based employee stock options, service-based restricted stock awards, performance-based restricted stock awards (PSUs) and purchases under employee stock purchase plans, in accordance with ASC 718, CompensationStock Compensation, which requires that share-based payments (to the extent they are compensatory) be recognized in our consolidated statements of operations based on their fair values and the estimated number of shares we ultimately expect will vest. For our service-based awards, we recognize stock-based compensation expense on a straight-line basis over the service period of the award, which is generally four years. For our PSUs, we recognize stock-based compensation expense on a straight-line basis over the service period for each separately vesting tranche, as the performance conditions to evaluate attainment of each tranche for each participant are independent of the performance conditions for the other tranches.  
+
+We are required to estimate the stock awards that we ultimately expect to vest and to reduce stock-based compensation expense for the effects of estimated forfeitures of awards over the expense recognition period. Although we estimate the rate of future forfeitures based upon historical experience, actual forfeitures in the future may differ. To the extent our actual forfeitures are different than our estimates, we record a true-up for the difference in the period that a grantee terminates or the awards vest and such true-ups could materially affect our operating results. Additionally, we also consider on a quarterly basis whether there have been any significant changes in facts and circumstances that would affect our expected forfeiture rate.  
+
+We estimate the fair values of employee stock options using a Black-Scholes-Merton valuation model. The fair value of an award is affected by our stock price on the date of grant as well as other assumptions including the estimated volatility of our stock price over the term of the awards and the estimated period of time that we expect employees to hold their stock options. The risk-free interest rate assumption we use is based upon U.S. treasury interest rates appropriate for the expected life of the awards. We use the implied volatility of publicly traded  
+
+52  
+
+Table of Contents 
+
+ options in our stock in order to estimate future stock price trends as we believe that implied volatility is more representative of future stock price trends than historical volatility. In order to determine the estimated period of time that we expect employees to hold their stock options, we have used historical rates of employee groups by seniority of job classification. Our expected dividend rate is based upon an annualized dividend yield based on the per share dividend declared by our Board of Directors. The aforementioned inputs entered into the option valuation model we use to fair value our stock awards are subjective estimates and changes to these estimates will cause the fair values of our stock awards and related stock-based compensation expense that we record to vary.  
+
+We issue PSUs to certain key executives. We estimate the fair values of the PSUs based upon their intrinsic values as of the grant dates as the vesting conditions and related terms of the PSUs were communicated to each participating employee as of their respective grant dates and include attainment metrics that are defined, fixed and consistently determined based upon consistent U.S. GAAP metrics or internal metrics and that require the employee to render service. The performance conditions of the PSUs affect the number of PSUs that will ultimately vest and be issued to the grantee based upon a target that is subject to certain attainment maximums, with the possibility that none will vest if applicable performance conditions are not met. We update the amount of stock-based compensation expense, net of forfeitures, to record as of the end of each reporting period based on the expected attainment of performance targets, which is subject to change until a final determination is known. Changes to the target estimates are reflected in the amount of stock-based compensation expense that we recognize for each PSU tranche on a cumulative basis during the reporting period in which the target estimates are altered and may cause the amount of stock-based compensation expense that we record for such reporting period to vary.  
+
+We record deferred tax assets for stock-based compensation awards that result in deductions on our income tax returns, based on the amount of stock-based compensation recognized and the fair values attributable to the vested portion of stock awards assumed in connection with a business combination, at the statutory tax rate in the jurisdiction in which we will receive a tax deduction. Because the deferred tax assets we record are based upon the stock-based compensation expenses in a particular jurisdiction, the aforementioned inputs that affect the fair values of our stock awards may also indirectly affect our income tax expense. In addition, differences between the deferred tax assets recognized for financial reporting purposes and the actual tax deduction reported on our income tax returns are recorded in additional paid-in capital.  
+
+To the extent we change the terms of our employee stock-based compensation programs, experience market volatility in the pricing of our common stock that increases the implied volatility calculation of publicly traded options in our stock, refine different assumptions in future periods such as forfeiture rates or PSU target performance attainment that differ from our current estimates, or assume stock awards from acquired companies that are different in nature than our stock award arrangements, among other potential impacts, the stock-based compensation expense that we record in future periods and the tax benefits that we realize may differ significantly from what we have recorded in previous reporting periods.  
+
+Results of Operations  
+
+Impact of Acquisitions  
+
+The comparability of our operating results in fiscal 2015 compared to fiscal 2014 was impacted by our acquisitions, primarily our acquisitions of MICROS in the second quarter of fiscal 2015 and Responsys in the third quarter of fiscal 2014.  
+
+The comparability of our operating results in fiscal 2014 compared to fiscal 2013 was impacted by our acquisitions, primarily our acquisitions of Responsys in the third quarter of fiscal 2014, Tekelec in the first quarter of fiscal 2014 and Acme Packet in the fourth quarter of fiscal 2013.  
+
+In our discussion of changes in our results of operations from fiscal 2015 compared to fiscal 2014 and fiscal 2014 compared to fiscal 2013, we may qualitatively disclose the impact of our acquired products and services (for the one year period subsequent to the acquisition date) to the growth in certain of our operating segments revenues where such qualitative discussions would be meaningful for an understanding of the factors that influenced the changes in our results of operations. When material, we may also provide quantitative disclosures related to such  
+
+53  
+
+Table of Contents 
+
+ acquired products and services. The contributions of our acquisitions to certain of our operating segments revenues, margins and expenses for each of the respective period comparisons generally are not provided in our discussions, as they either were not separately identifiable due to the integration of these businesses and operating segments into our existing operations, and/or were insignificant to our results of operations during the periods presented.  
+
+We caution readers that, while pre- and post-acquisition comparisons, as well as any quantified amounts themselves, may provide indications of general trends, any acquisition information that we provide has inherent limitations for the following reasons:  
+
+       any qualitative and quantitative disclosures cannot specifically address or quantify the substantial effects attributable to changes in business strategies, including our sales force integration efforts. We believe that if our acquired companies had operated independently and sales forces had not been integrated, the relative mix of products sold would have been different; and  
+
+       although substantially all of our software license customers, including customers from acquired companies, renew their software license updates and product support contracts when the contracts are eligible for renewal and we strive to renew cloud SaaS and PaaS contracts and hardware systems support contracts, the amounts shown as cloud SaaS and PaaS deferred revenues, software license updates and product support deferred revenues, and hardware systems support deferred revenues in our supplemental disclosure related to certain charges (presented below) are not necessarily indicative of revenue improvements we will achieve upon contract renewals to the extent customers do not renew.  
+
+Constant Currency Presentation  
+
+Our international operations have provided and will continue to provide a significant portion of our total revenues and expenses. As a result, total revenues and expenses will continue to be affected by changes in the U.S. Dollar against major international currencies. In order to provide a framework for assessing how our underlying businesses performed excluding the effects of foreign currency fluctuations, we compare the percent change in the results from one period to another period in this Annual Report using constant currency disclosure. To present this information, current and comparative prior period results for entities reporting in currencies other than U.S. Dollars are converted into U.S. Dollars at constant exchange rates (i.e., the rates in effect on May 31, 2014, which was the last day of our prior fiscal year) rather than the actual exchange rates in effect during the respective periods. For example, if an entity reporting in Euros had revenues of 1.0 million Euros from products sold on May 31, 2015 and 2014, our financial statements would reflect reported revenues of $1.08 million in fiscal 2015 (using 1.08 as the month-end average exchange rate for the period) and $1.36 million in fiscal 2014 (using 1.36 as the month-end average exchange rate for the period). The constant currency presentation, however, would translate the fiscal 2015 results using the fiscal 2014 exchange rate and indicate, in this example, no change in revenues during the period. In each of the tables below, we present the percent change based on actual, unrounded results in reported currency and in constant currency.  
+
+54  
+
+Table of Contents 
+
+Total Revenues and Operating Expenses  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1)   Comprised of Europe, the Middle East and Africa  
+
+ (2)   Asia Pacific includes Japan  
+
+Fiscal 2015 Compared to Fiscal 2014: Our results of operations for fiscal 2015 compared to fiscal 2014 were significantly impacted by movements in international currencies relative to the U.S. Dollar, which decreased our total revenues by 4 percentage points, total operating expenses by 3 percentage points and total operating income by 6 percentage points.  
+
+Excluding the effects of unfavorable currency variations of 4 percentage points, our total revenues increased in fiscal 2015 due to revenue increases in our software and cloud and hardware systems businesses. The constant currency growth in our software and cloud revenues was attributable to growth in our software license updates and product support revenues, growth in our SaaS, PaaS and IaaS revenues, and revenue contributions from our recent acquisitions. The constant currency growth in our hardware systems business was attributable to growth in our hardware systems support revenues, which were primarily attributable to revenue contributions from our recent acquisitions. Excluding the effects of currency rate fluctuations, the Americas contributed 69%, EMEA contributed 28% and Asia Pacific contributed 3% to the growth in our total revenues during fiscal 2015.  
+
+Excluding the effects of favorable currency variations of 3 percentage points, our total operating expenses increased during fiscal 2015 due to expense increases across all of our lines of business, the largest of which were due to increased sales and marketing and research and development expenses resulting primarily from increased headcount, increased cloud SaaS and PaaS expenses to support the increase in our cloud SaaS and PaaS revenues, and increased acquisition related and other expenses.  
+
+Excluding the effects of unfavorable foreign currency rate fluctuations of 6 percentage points, our fiscal 2015 operating margin was flat in comparison to the prior year, while our operating margin as a percentage of revenues decreased during fiscal 2015 as our total operating expenses increased at a faster rate than our total revenues.  
+
+Fiscal 2014 Compared to Fiscal 2013: On a constant currency basis, our total revenues increased in fiscal 2014 due to increases in our software and cloud business revenues and our hardware systems business revenues, partially offset by a decrease in our services business revenues. The constant currency revenue growth in our  
+
+55  
+
+Table of Contents 
+
+ software and cloud business was substantially attributable to growth in our software license updates and product support revenues and, to a lesser extent, growth in our cloud SaaS and PaaS revenues due to incremental revenues from our acquisitions. The constant currency revenue growth in our hardware business was due to an increase in our hardware systems support revenues due substantially to incremental revenues from our acquisitions and due to increases in our hardware revenues attributable to our Oracle Engineered Systems. On a constant currency basis, the Americas contributed 61%, EMEA contributed 30% and Asia Pacific contributed 9% to our total revenues growth during fiscal 2014.  
+
+Total constant currency operating expenses increased during fiscal 2014 primarily due to an increase in sales and marketing and research and development expenses resulting from increased headcount, increased sales-based variable compensation expenses due to revenues growth, and increased cloud SaaS and PaaS expenses to support the increase in our cloud SaaS and PaaS revenues. These expense increases in fiscal 2014 were partially offset by lower constant currency expenses in fiscal 2014 from our hardware systems support and services segments due to decreased headcount, lower restructuring expenses, and lower intangible assets amortization. In fiscal 2013, we recognized a $387 million acquisition related benefit related to changes in estimates for contingent consideration payable (refer to Note 2 of Notes to Consolidated Financial Statements included elsewhere in this Annual Report for additional information) and a $306 million benefit relating to certain litigation (refer to Note 18 of Notes to Consolidated Financial Statements included elsewhere in this Annual Report for additional information), both of which decreased our acquisition related and other expenses during this period.  
+
+Excluding the effects of foreign currency rate fluctuations, our operating margin increased during fiscal 2014 due to our revenues growth, while our operating margin as a percentage of revenues was flat.  
+
+Supplemental Disclosure Related to Certain Charges  
+
+To supplement our consolidated financial information, we believe the following information is helpful to an overall understanding of our past financial performance and prospects for the future. You should review the introduction under Impact of Acquisitions (above) for a discussion of the inherent limitations in comparing pre- and post-acquisition information.  
+
+Our operating results included the following business combination accounting adjustments and expenses related to acquisitions, as well as certain other significant expense and income items:  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1)   In connection with our acquisitions, we have estimated the fair values of the cloud SaaS and PaaS subscriptions, software support and hardware systems support obligations assumed. Due to our application of business combination accounting rules, we did not recognize cloud SaaS and PaaS revenues related to subscription contracts that would have otherwise been recorded by the acquired businesses as independent entities in the amounts of $12 million, $17 million and $45 million in fiscal 2015, 2014 and 2013, respectively. We also did not recognize software license updates and product support revenues related to software support contracts that would have otherwise been recorded by the acquired businesses as independent entities in the amounts of $11 million, $3 million and $14 million in fiscal 2015, 2014 and 2013, respectively. In addition, we did not recognize hardware systems support revenues related to hardware systems support contracts that would have otherwise been recorded by the acquired businesses as independent entities in the amounts of $4 million, $11 million and $14 million in fiscal 2015, 2014 and 2013, respectively.  
+
+    Approximately $4 million of estimated cloud SaaS and PaaS revenues related to contracts assumed will not be recognized during fiscal 2016 that would have otherwise been recognized as revenues by the acquired businesses as independent entities due to the application of the aforementioned business combination accounting rules. Approximately $2 million of estimated software license updates and product support revenues related to software support contracts assumed will not be recognized during fiscal 2016 that would have otherwise been recognized as revenues by the acquired businesses as independent entities due to the application of the aforementioned business combination accounting rules. Approximately $1 million of estimated hardware systems support revenues related to hardware  
+
+56  
+
+Table of Contents 
+
+    systems support contracts assumed will not be recognized during fiscal 2016 that would have otherwise been recognized by certain acquired companies as independent entities due to the application of the aforementioned business combination accounting rules. To the extent customers renew these contracts with us, we expect to recognize revenues for the full contracts values over the respective contracts renewal periods.  
+
+ (2)   Represents the amortization of intangible assets substantially all of which were acquired in connection with our acquisitions. As of May 31, 2015, estimated future amortization expenses related to intangible assets were as follows (in millions):  
+
+  [DATA_TABLE_REMOVED] 
+
+ (3)   Acquisition related and other expenses primarily consist of personnel related costs for transitional and certain other employees, stock-based compensation expenses, integration related professional services, certain business combination adjustments including certain adjustments after the measurement period has ended and certain other operating items, net. Included in acquisition related and other expenses for fiscal 2015 was a goodwill impairment loss of $186 million (refer to Note 7 of Notes to Consolidated Financial Statements included elsewhere in this Annual Report for additional information). Included in acquisition related and other expenses for fiscal 2015 and 2013 were benefits of $53 million and $306 million, respectively, related to certain litigation (refer to Note 18 of Notes to Consolidated Financial Statements included elsewhere in this Annual Report for additional information). Also included in acquisition related and other expenses for fiscal 2013 were changes in estimates for contingent consideration payable, which reduced acquisition related and other expenses by $387 million during fiscal 2013 (refer to Note 2 of Notes to Consolidated Financial Statements included elsewhere in this Annual Report for additional information).  
+
+ (4)   The significant majority of restructuring expenses during fiscal 2015 primarily related to employee severance in connection with our Fiscal 2015 Oracle Restructuring Plan (2015 Restructuring Plan) and our Fiscal 2013 Oracle Restructuring Plan (2013 Restructuring Plan). Restructuring expenses during fiscal 2014 and 2013 primarily related to costs incurred pursuant to our 2013 Restructuring Plan. Additional information regarding certain of our restructuring plans is provided in Note 9 of Notes to Consolidated Financial Statements included elsewhere in this Annual Report.  
+
+ (5)   Stock-based compensation was included in the following operating expense line items of our consolidated statements of operations (in millions):  
+
+  [DATA_TABLE_REMOVED] 
+
+   Stock-based compensation included in acquisition related and other expenses resulted from unvested stock options and restricted stock-based awards assumed from acquisitions whose vesting was accelerated upon termination of the employees pursuant to the terms of those stock options and restricted stock-based awards.  
+
+ (6)   The income tax effects presented were calculated as if the above described charges were not included in our results of operations for each of the respective periods presented. Income tax effects for fiscal 2015, 2014 and 2013 were calculated based on the applicable jurisdictional tax rates applied to the items within the table above and resulted in effective tax rates of 23.6%, 22.5% and 23.0%, respectively, instead of 22.6%, 20.1% and 21.4%, respectively, which represented our effective tax rates as derived per our consolidated statements of operations, due to the net tax effects of acquisition related items, primarily the tax effects of amortization of intangible assets.  
+
+57  
+
+Table of Contents 
+
+Software and Cloud Business  
+
+Our software and cloud business consists of our new software licenses and cloud software subscriptions segment, our cloud infrastructure as a service segment and our software license updates and product support segment.  
+
+New Software Licenses and Cloud Software Subscriptions: New software licenses revenues represent fees earned from granting customers licenses to use our database and middleware and our application software products. Cloud software subscriptions include revenues from our cloud SaaS and PaaS offerings, which grant customers access to a broad range of our software offerings on a subscription basis in a secure, standards-based, cloud computing environment that includes access, hosting, infrastructure management, the use of software updates, and support. We continue to place significant emphasis, both domestically and internationally, on direct sales through our own sales force. We also continue to market our products through indirect channels. Costs associated with our new software licenses and cloud software subscriptions segment are included in sales and marketing expenses, cloud SaaS and PaaS expenses and amortization of intangible assets. These costs are largely personnel related and include commissions earned by our sales force for the sale of our software offerings, marketing program costs, the cost of providing our cloud SaaS and PaaS offerings and amortization of intangible assets.  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1)   Excluding stock-based compensation  
+
+ (2)   Included as a component of Amortization of Intangible Assets in our consolidated statements of operations  
+
+Fiscal 2015 Compared to Fiscal 2014: Excluding the effects of unfavorable currency rate fluctuations of 5 percentage points, total new software licenses and cloud software subscriptions revenues remained flat during fiscal 2015 as growth in our cloud SaaS and PaaS revenues and contributions from our recent acquisitions were offset by a decline in our new software licenses revenues. In constant currency, fiscal 2015 revenue growth in the Americas region was offset by revenue declines in the EMEA and Asia Pacific regions.  
+
+As a result of our acquisitions, we recorded adjustments to reduce assumed cloud SaaS and PaaS obligations to their estimated fair values at the acquisition dates. Due to our application of business combination accounting rules, cloud SaaS and PaaS revenues in the amounts of $12 million, $17 million and $45 million that would have  
+
+58  
+
+Table of Contents 
+
+ been otherwise recorded by our acquired businesses as independent entities were not recognized in fiscal 2015, 2014 and 2013, respectively. To the extent underlying cloud SaaS and PaaS contracts are renewed with us following an acquisition, we will recognize the revenues for the full values of the cloud SaaS and PaaS contracts over the respective contractual periods.  
+
+In reported currency, new software licenses revenues earned from transactions of $3 million or greater decreased by 15% in fiscal 2015 and represented 31% of our new software licenses revenues in fiscal 2015 in comparison to 33% in fiscal 2014.  
+
+Excluding the effects of favorable currency rate fluctuations of 4 percentage points, total new software licenses and cloud software subscriptions expenses increased in fiscal 2015 primarily due to higher employee related expenses from increased headcount, higher variable compensation expenses, and higher cloud SaaS and PaaS expenses incurred to support the related revenues increase.  
+
+Excluding the effects of unfavorable currency rate fluctuations, total new software licenses and cloud software subscriptions margin and margin as a percentage of revenues decreased in fiscal 2015 due to the growth in total expenses for this operating segment.  
+
+Fiscal 2014 Compared to Fiscal 2013: Excluding the effects of unfavorable currency rate fluctuations, total new software licenses and cloud software subscriptions revenues increased during fiscal 2014 primarily due to incremental revenues from our cloud SaaS and PaaS offerings resulting from our recent acquisitions. In constant currency, total new software licenses and cloud software subscriptions revenues growth in fiscal 2014 in the Americas and EMEA region was partially offset by a decline in revenues in the Asia Pacific region.  
+
+As described above, the amount of new software licenses and cloud software subscriptions revenues that we recognized in fiscal 2014 and fiscal 2013 were affected by business combination accounting rules. In reported currency, new software licenses revenues earned from transactions of $3 million or greater increased by 3% in fiscal 2014 and represented 33% of our new software licenses revenues in fiscal 2014 in comparison to 32% in fiscal 2013.  
+
+Excluding the effects of favorable currency rate fluctuations, total new software licenses and cloud software subscriptions expenses increased in fiscal 2014 primarily due to higher employee related expenses from increased headcount, higher variable compensation expenses due to revenues growth, and higher cloud SaaS and PaaS expenses incurred to support the related revenues increase.  
+
+Excluding the effects of unfavorable currency rate fluctuations, total new software licenses and cloud software subscriptions margin and margin as a percentage of revenues decreased in fiscal 2014 as our total expenses increased at a faster rate than our total revenues for this operating segment.  
+
+Cloud Infrastructure as a Service: Our cloud infrastructure as a service segment provides comprehensive software and hardware management and maintenance services for customer IT infrastructure for a fee for a stated term that is hosted at our Oracle data center facilities, select partner data centers or physically on-premises at customer facilities; virtual machine instance services that are subscription-based in which we deploy, secure, provision, manage and maintain certain of our hardware products for our customers to provide them with a set of cloud-based core infrastructure capabilities like elastic compute and storage services to run workloads in the cloud; and hardware and related support offerings for certain of our Oracle Engineered Systems that are deployed in our customers data centers for a monthly fee. Cloud infrastructure as a service expenses consist primarily of personnel related expenditures, technology infrastructure expenditures and facilities costs. For all periods presented, our cloud-infrastructure as a service segments revenues and expenses were substantially attributable to our comprehensive software and hardware management, maintenance and hosting services.  
+
+59  
+
+Table of Contents [DATA_TABLE_REMOVED] 
+
+ (1)   Excluding stock-based compensation  
+
+ (2)   Included as a component of Amortization of Intangible Assets in our consolidated statements of operations  
+
+ *   Not meaningful  
+
+Fiscal 2015 Compared to Fiscal 2014: On a constant currency basis, total cloud IaaS revenues increased during fiscal 2015 primarily due to growth in our comprehensive software and hardware management, maintenance and hosting services and due to revenue contributions from our recent acquisitions. Excluding the effects of currency rate fluctuations, the Americas contributed 70%, EMEA contributed 24% and Asia Pacific contributed 6% to the increase in IaaS revenues during fiscal 2015.  
+
+On a constant currency basis, total cloud IaaS expenses increased in fiscal 2015 primarily due to increased employee related expenses associated with increased headcount and increased infrastructure expenses to support our increase in IaaS revenues.  
+
+Excluding the effects of unfavorable currency exchange variances, total margin and margin as a percentage of revenues increased during fiscal 2015 as total revenues increased at a faster rate than our total expenses for this operating segment.  
+
+Fiscal 2014 Compared to Fiscal 2013: On a constant currency basis, total cloud IaaS revenues increased slightly in fiscal 2014 primarily due to incremental revenues from our on-premises Oracle Engineered Systems subscription offerings. In constant currency, total cloud IaaS revenues growth in the EMEA and Asia Pacific regions were partially offset by a decline in revenues in the Americas region.  
+
+On a constant currency basis, total cloud IaaS expenses increased during fiscal 2014 primarily due to increased employee related expenses associated with increased headcount, which reduced the total margin and margin as a percentage of revenues for this segment in comparison to fiscal 2013.  
+
+60  
+
+Table of Contents 
+
+Software License Updates and Product Support: Software license updates grant customers rights to unspecified software product upgrades and maintenance releases and patches released during the support period. Product support includes internet access to technical content as well as internet and telephone access to technical support personnel in our global support centers. Expenses associated with our software license updates and product support line of business include the cost of providing the support services, largely personnel related expenses, and the amortization of our intangible assets associated with software support contracts and customer relationships obtained from acquisitions.  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1)   Excluding stock-based compensation  
+
+ (2)   Included as a component of Amortization of Intangible Assets in our consolidated statements of operations  
+
+Fiscal 2015 Compared to Fiscal 2014: Excluding the effects of unfavorable currency variations of 4 percentage points, software license updates and product support revenues increased by 8% in fiscal 2015 as a result of new software licenses sold with substantially all of these customers electing to purchase software support contracts during the trailing 4-quarter period, the renewal of substantially all of the software support customer base eligible for renewal during the trailing 4-quarter period and incremental revenues from our recent acquisitions. Excluding the effects of currency rate fluctuations, the Americas contributed 50%, EMEA contributed 36% and Asia Pacific contributed 14% to the increase in software license updates and product support revenues during fiscal 2015.  
+
+As a result of our acquisitions, we recorded adjustments to reduce assumed software support obligations to their estimated fair values at the acquisition dates. Due to our application of business combination accounting rules, software license updates and product support revenues related to software support contracts in the amounts of $11 million, $3 million and $14 million that would have been otherwise recorded by our acquired businesses as independent entities were not recognized in fiscal 2015, 2014 and 2013, respectively. Historically, substantially all of our software license customers, including customers from acquired companies, renew their software support contracts when such contracts are eligible for renewal. To the extent these underlying support contracts are renewed, we will recognize the revenues for the full values of these contracts over the support periods, the substantial majority of which are one year in duration.  
+
+61  
+
+Table of Contents 
+
+Excluding the effects of favorable foreign currency rate fluctuations, total software license updates and product support expenses increased during fiscal 2015 due to higher employee related expenses and facilities costs associated with increased headcount that was primarily attributable to our recent acquisitions, and also increased due to higher bad debt expenses. These fiscal 2015 expense increases were partially offset by fiscal 2015 expense decreases related to lower statutory obligation expenses in the jurisdictions in which we operate and lower amortization of intangible assets.  
+
+In constant currency, total margin and margin as a percentage of revenues for this segment increased during fiscal 2015 as our total revenues for this segment increased at a faster rate than our total expenses for this segment, each during fiscal 2015 and in comparison to fiscal 2014.  
+
+Fiscal 2014 Compared to Fiscal 2013: Excluding the effects of unfavorable currency rate fluctuations, software license updates and product support revenues increased in fiscal 2014 for reasons similar to those noted above for our fiscal 2015 revenues increase. Excluding the effects of currency rate fluctuations, the Americas contributed 55%, EMEA contributed 30% and Asia Pacific contributed 15% to the increase in software license updates and product support revenues during fiscal 2014.  
+
+As described above, the amounts of software license updates and product support revenues that we recognized in fiscal 2014 and 2013 were affected by business combination accounting rules.  
+
+Excluding the effects of favorable foreign currency rate fluctuations, total software license updates and product support expenses during fiscal 2014 decreased slightly due to a modest decrease in headcount and a decrease in amortization of intangible assets. Total margin and total margin as a percentage of revenues increased during fiscal 2014 as our total revenues for this segment increased while our total expenses slightly decreased, each during fiscal 2014 and in comparison to fiscal 2013.  
+
+Hardware Systems Business  
+
+Our hardware systems business consists of our hardware systems products segment and hardware systems support segment.  
+
+Hardware Systems Products: Hardware systems products revenues are primarily generated from the sales of our Oracle Engineered Systems, computer server, storage, networking, workstations and related devices and industry specific hardware products. We market and sell our hardware systems products through our direct sales force and indirect channels such as independent distributors and value added resellers. Operating expenses associated with our hardware systems products include the cost of hardware systems products, which consists of expenses for materials and labor used to produce these products by our internal manufacturing operations or by third party manufacturers, warranty expenses and the impact of periodic changes in inventory valuation, including the impact of inventory determined to be excess and obsolete. Operating expenses associated with our hardware systems products also include sales and marketing expenses, which are largely personnel related and include variable compensation earned by our sales force for the sales of our hardware products, and amortization of intangible assets.  
+
+62  
+
+Table of Contents [DATA_TABLE_REMOVED] 
+
+ (1)   Excluding stock-based compensation  
+
+ (2)   Included as a component of Amortization of Intangible Assets in our consolidated statements of operations  
+
+Fiscal 2015 Compared to Fiscal 2014: Excluding the effects of unfavorable currency rate fluctuations of 5 percentage points, total hardware systems products revenues were flat in fiscal 2015 in comparison to the prior year as revenues from our recently acquired companies, including MICROS, and increases in hardware revenues attributable to our Oracle Engineered Systems products were offset by reductions in the sales volumes of certain of our other hardware product offerings. On a constant currency basis, revenue increases in the Americas region and EMEA region were offset by declines in the Asia Pacific region.  
+
+Excluding the effects of favorable currency rate fluctuations of 5 percentage points, total hardware systems products expenses decreased in fiscal 2015 primarily due to lower bad debt expenses and a reduction in amortization of intangible assets. These fiscal 2015 expense decreases were partially offset by higher fiscal 2015 employee related expenses due to increased headcount from our recent acquisitions and higher direct product costs that were primarily attributable to higher revenues from recently acquired companies.  
+
+In constant currency, total margin and margin as a percentage of revenues increased in fiscal 2015 due to the decrease in total expenses for this segment.  
+
+Fiscal 2014 Compared to Fiscal 2013: Excluding the effects of currency rate fluctuations, total hardware systems products revenues modestly decreased in fiscal 2014. The decrease in revenues during fiscal 2014, which was attributable to reductions in the sales volumes of certain of our product lines, was partially offset by incremental revenues from our acquired companies and increases in hardware revenues attributable to the sales of our Oracle Engineered Systems.  
+
+In constant currency, total hardware systems products expenses increased in fiscal 2014 primarily due to an increase in employee related expenses due primarily to an increase in sales and marketing headcount, partially offset by a decrease in amortization of intangible assets.  
+
+63  
+
+Table of Contents 
+
+Excluding the effects of currency rate fluctuations, total margin and margin as a percentage of revenues decreased in fiscal 2014 due to a decrease in our total revenues and increase in our total expenses for this segment.  
+
+Hardware Systems Support: Our hardware systems support offerings provide customers with software updates for software components that are essential to the functionality of our hardware products, such as Oracle Solaris and certain other software products, and can include product repairs, maintenance services and technical support services. Expenses associated with our hardware systems support operating segment include the cost of materials used to repair customer products, the cost of providing support services, largely personnel related expenses, and the amortization of our intangible assets primarily associated with hardware systems support contracts and customer relationships obtained from our acquisitions.  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1)   Excluding stock-based compensation  
+
+ (2)   Included as a component of Amortization of Intangible Assets in our consolidated statements of operations  
+
+Fiscal 2015 Compared to Fiscal 2014: Excluding the effects of unfavorable currency rate fluctuations of 5 percentage points, hardware systems support revenues increased in fiscal 2015 primarily due to incremental revenues from our recently acquired companies, including MICROS. The Americas region contributed 42%, EMEA contributed 52% and Asia Pacific contributed 6%, to our constant currency growth in hardware systems support revenues during fiscal 2015.  
+
+As a result of our acquisitions, we recorded adjustments to reduce assumed hardware systems support obligations to their estimated fair values at the acquisition dates. Due to our application of business combination accounting rules, hardware systems support revenues related to hardware systems support contracts in the amounts of $4 million, $11 million and $14 million were not recognized in fiscal 2015, 2014 and 2013, respectively. To the extent these underlying hardware systems support contracts are renewed, we will recognize the revenues for the full values of these contracts over the future support periods.  
+
+In constant currency, total hardware systems support expenses decreased in fiscal 2015 primarily due to reduced service delivery costs due to operational initiatives and a decrease in amortization of intangible assets, partially offset by higher employee related expenses resulting from increased headcount from our recent acquisitions, higher external contractor expenses and higher bad debt expenses.  
+
+In constant currency, total hardware systems support margin and margin as a percentage of total revenues increased in fiscal 2015 due to the increase in total revenues and decrease in total expenses for this operating segment.  
+
+64  
+
+Table of Contents 
+
+Fiscal 2014 Compared to Fiscal 2013: Excluding the impacts of unfavorable currency rate fluctuations, hardware systems support revenues increased in fiscal 2014 primarily due to incremental revenues from our acquisitions. In constant currency, hardware systems support revenues growth in the Americas and Asia Pacific region was partially offset by a decline in revenues in the EMEA region.  
+
+As described above, the amounts of hardware systems support revenues that we recognized in fiscal 2014 and fiscal 2013 were affected by business combination accounting rules.  
+
+In constant currency, total hardware systems support expenses decreased in fiscal 2014 primarily due to a reduction in employee related expenses attributable to operational initiatives including decreased headcount and reduced service delivery costs, partially offset by an increase in amortization of intangible assets.  
+
+Excluding the effects of currency rate fluctuations, total hardware systems support margin and margin as a percentage of total revenues increased in fiscal 2014 as our total revenues for this segment increased while our total expenses for this segment decreased.  
+
+Services Business  
+
+Our services business consists of consulting, advanced customer support services and education services. Consulting revenues are earned by providing services to customers in business and IT strategy alignment, enterprise architecture planning and design, initial product implementation and integration, and ongoing product enhancements and upgrades. Advanced customer support services are provided on-premises and remotely to our customers to enable increased performance and higher availability of their Oracle products and services. Education revenues are earned by providing instructor-led, live virtual training, self-paced online training, private events and custom training in the use of our software and hardware offerings. The cost of providing our services consists primarily of personnel related expenses, technology infrastructure expenditures, facilities expenses and external contractor expenses.  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1)   Excluding stock-based compensation  
+
+ (2)   Included as a component of Amortization of Intangible Assets in our consolidated statements of operations  
+
+65  
+
+Table of Contents 
+
+Fiscal 2015 Compared to Fiscal 2014: Excluding the effects of unfavorable currency rate fluctuations of 4 percentage points, our total services revenues were flat in fiscal 2015 as incremental revenues from our recently acquired companies, including MICROS, and an increase in fiscal 2015 advanced customer services revenues were offset by declines in our fiscal 2015 consulting and education revenues. In constant currency, revenues growth in the EMEA region was offset by revenue declines in the Americas region and Asia Pacific region during fiscal 2015.  
+
+Excluding the effects of favorable currency rate fluctuations of 5 percentage points, our total services expenses increased during fiscal 2015 due to higher employee related expenses resulting from increased headcount from our recent acquisitions and were partially offset by lower variable compensation and lower external contractor costs, each in comparison to fiscal 2014.  
+
+In constant currency, total margin and margin as a percentage of total revenues decreased during fiscal 2015 due to the increase in total expenses for this business.  
+
+Fiscal 2014 Compared to Fiscal 2013: Excluding the effects of currency rate fluctuations, our total services revenues decreased in fiscal 2014 due to revenue decreases in each of our services business segments. The largest services revenues decrease was to our consulting segments revenues.  
+
+Excluding the effects of currency rate fluctuations, our total services expenses decreased during fiscal 2014 primarily due to expense decreases in our consulting services segment primarily due to decreased headcount, lower external contractor costs and lower intangible asset amortization.  
+
+In constant currency, total margin and margin as a percentage of total revenues increased during fiscal 2014 due to our expense reductions for this business.  
+
+Research and Development Expenses: Research and development expenses consist primarily of personnel related expenditures. We intend to continue to invest significantly in our research and development efforts because, in our judgment, they are essential to maintaining our competitive position.  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1)   Excluding stock-based compensation  
+
+On a constant currency basis, total research and development expenses increased during fiscal 2015 and 2014, each relative to the respective prior year period, primarily due to increased employee related expenses resulting from increased headcount, including additional headcount from our recent acquisitions.  
+
+General and Administrative Expenses: General and administrative expenses primarily consist of personnel related expenditures for information technology, finance, legal and human resources support functions.  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1)   Excluding stock-based compensation  
+
+66  
+
+Table of Contents 
+
+Fiscal 2015 Compared to Fiscal 2014: On a constant currency basis, total general and administrative expenses increased during fiscal 2015 primarily due to higher employee related expenses resulting from increased headcount and higher professional fees.  
+
+Fiscal 2014 Compared to Fiscal 2013: On a constant currency basis, total general and administrative expenses decreased during fiscal 2014 primarily due to lower professional fees and lower variable compensation expenses, partially offset by slightly increased salaries and benefits expenses due to an increase in headcount.  
+
+Amortization of Intangible Assets:  
+
+  [DATA_TABLE_REMOVED] 
+
+Amortization of intangible assets decreased during fiscal 2015 and 2014, each relative to the respective prior year period, due to a reduction in expenses associated with certain of our intangible assets that became fully amortized. These decreases were partially offset by additional amortization from intangible assets that we acquired in connection with our acquisitions of MICROS in fiscal 2015 and Responsys in fiscal 2014, among others. Note 7 of Notes to Consolidated Financial Statements included elsewhere in this Annual Report has additional information regarding our intangible assets and related amortization.  
+
+Acquisition Related and Other Expenses: Acquisition related and other expenses consist of personnel related costs for transitional and certain other employees, stock-based compensation expenses, integration related professional services, certain business combination adjustments including certain adjustments after the measurement period has ended and certain other operating items, net. Stock-based compensation expenses included in acquisition related and other expenses result from unvested stock options and restricted stock-based awards assumed from acquisitions whereby vesting was accelerated upon termination of the employees pursuant to the original terms of those stock options and restricted stock-based awards.  
+
+  [DATA_TABLE_REMOVED] 
+
+Fiscal 2015 Compared to Fiscal 2014: On a constant currency basis, acquisition related and other expenses increased during fiscal 2015 primarily due to a $186 million goodwill impairment loss (refer to Note 7 of Notes to Consolidated Financial Statements included elsewhere in this Annual Report for additional information) and an increase in certain transitional employee related costs, primarily related to our acquisition of MICROS. These fiscal 2015 expense increases were partially offset by a $53 million benefit recorded in the second quarter of fiscal 2015 related to certain litigation (refer to Note 18 of Notes to Consolidated Financial Statements included elsewhere in this Annual Report for additional information).  
+
+67  
+
+Table of Contents 
+
+Fiscal 2014 Compared to Fiscal 2013: On a constant currency basis, the increase in our acquisition related and other expenses in fiscal 2014 was primarily due to certain benefits that we recorded during fiscal 2013, which reduced our expenses during this period. We recorded a net benefit of $387 million during fiscal 2013 related to the change in fair value of contingent consideration payable in connection with an acquisition (refer to Note 2 of Notes to Consolidated Financial Statements included elsewhere in this Annual Report for additional information). We also recorded a $306 million benefit in fiscal 2013 to professional fees and other, net related to certain litigation (refer to Note 18 of Notes to Consolidated Financial Statements included elsewhere in this Annual Report for additional information).  
+
+Restructuring Expenses: Restructuring expenses result from the execution of management approved restructuring plans that were generally developed to improve our cost structure and/or operations, often in conjunction with our acquisition integration strategies. Restructuring expenses consist of employee severance costs and may also include charges for duplicate facilities and other contract termination costs to improve our cost structure prospectively. For additional information regarding our restructuring plans, see Note 9 of Notes to Consolidated Financial Statements included elsewhere in this Annual Report.  
+
+  [DATA_TABLE_REMOVED] 
+
+Restructuring expenses in fiscal 2015 primarily related to our 2015 Restructuring Plan and our 2013 Restructuring Plan. Restructuring expenses in fiscal 2014 and fiscal 2013 primarily related to our 2013 Restructuring Plan. Our management approved, committed to and initiated these plans in order to restructure and further improve efficiencies in our operations. The total estimated restructuring costs associated with the 2015 Restructuring Plan are up to $626 million and will be recorded to the restructuring expense line item within our consolidated statements of operations as they are incurred. The total estimated remaining restructuring costs associated with the 2015 Restructuring Plan were approximately $526 million as of May 31, 2015 and the majority of the remaining costs are expected to be incurred through the end of fiscal 2016. Actions pursuant to the 2013 Restructuring Plan were substantially complete as of May 31, 2015 (refer to Note 9 of Notes to Consolidated Financial Statements included elsewhere in this Annual Report for additional information pertaining to our 2013 Restructuring Plan). Our estimated costs are subject to change in future periods.  
+
+Interest Expense:  
+
+  [DATA_TABLE_REMOVED] 
+
+Fiscal 2015 Compared to Fiscal 2014: Interest expense increased in fiscal 2015 primarily due to higher average borrowings resulting from our issuance of $10.0 billion of senior notes in May 2015 and $10.0 billion of senior notes in July 2014. The increase in interest expense in fiscal 2015 was partially offset by a reduction in interest expense during fiscal 2015 resulting from the maturity and repayment of $1.5 billion of senior notes and the related fixed to variable interest rate swap agreements in July 2014. See Recent Financing Activities below and Note 8 of Notes to Consolidated Financial Statements included elsewhere in this Annual Report for additional information regarding our fiscal 2015 borrowings.  
+
+Fiscal 2014 Compared to Fiscal 2013: Interest expense increased in fiscal 2014 primarily due to higher average borrowings resulting from our issuance of $3.0 billion and 2.0 billion of senior notes in July 2013 and our issuance of $5.0 billion of senior notes in October 2012, partially offset by a reduction in interest expense resulting from the maturity and repayment of $1.25 billion of senior notes in April 2013.  
+
+68  
+
+Table of Contents 
+
+Non-Operating Income (Expense), net: Non-operating income (expense), net consists primarily of interest income, net foreign currency exchange gains (losses), the noncontrolling interests in the net profits of our majority-owned subsidiaries (primarily Oracle Financial Services Software Limited and Oracle Japan) and net other income (losses) including net realized gains and losses related to all of our investments and net unrealized gains and losses related to the small portion of our investment portfolio that we classify as trading.  
+
+  [DATA_TABLE_REMOVED] 
+
+Fiscal 2015 Compared to Fiscal 2014: On a constant currency basis, our non-operating income, net in fiscal 2015 increased due to lower net foreign currency losses and due to higher interest income resulting from higher cash, cash equivalent and short-term investment balances. Included in foreign currency losses, net in fiscal 2015 was a remeasurement loss of $23 million related to our Venezuelan subsidiary. We recorded non-operating expense, net in fiscal 2014 primarily due to a foreign currency remeasurement loss of $213 million that also related to our Venezuelan subsidiary. Note 1 of Notes to Consolidated Financial Statements included elsewhere in this Annual Report contains additional information regarding the foreign currency remeasurement losses we incurred in fiscal 2015, 2014 and 2013 related to our Venezuelan subsidiary.  
+
+Fiscal 2014 Compared to Fiscal 2013: We recorded non-operating expense, net in fiscal 2014 in comparison to non-operating income, net in fiscal 2013 primarily due to an increase in foreign currency losses, net that were incurred in fiscal 2014 including foreign currency remeasurement losses of $213 million that related to our Venezuelan subsidiary (see Note 1 of Notes to Consolidated Financial Statements included elsewhere in this Annual Report for additional information).  
+
+Provision for Income Taxes: Our effective tax rate in all periods is the result of the mix of income earned in various tax jurisdictions that apply a broad range of income tax rates. The provision for income taxes differs from the tax computed at the U.S. federal statutory income tax rate due primarily to earnings considered as indefinitely reinvested in foreign operations, state taxes, the U.S. research and development tax credit and the U.S. domestic production activity deduction. Future effective tax rates could be adversely affected if earnings are lower than anticipated in countries where we have lower statutory tax rates, by unfavorable changes in tax laws and regulations or by adverse rulings in tax related litigation.  
+
+  [DATA_TABLE_REMOVED] 
+
+Fiscal 2015 Compared to Fiscal 2014: Provision for income taxes in fiscal 2015 increased, relative to the provision for income taxes in fiscal 2014, due in substantial part to an unfavorable change in the jurisdictional mix of our fiscal 2015 earnings, and due to the effects of acquisition related settlements with tax authorities in fiscal 2014 that were not present in fiscal 2015, which together were partially offset by lower fiscal 2015 income before provision for income taxes.  
+
+Fiscal 2014 Compared to Fiscal 2013: Provision for income taxes in fiscal 2014 decreased, relative to the provision for income taxes in fiscal 2013, due to a tax favorable change in the jurisdictional mix of our fiscal 2014 earnings and the effects of acquisition related settlements with tax authorities during fiscal 2014.  
+
+69  
+
+Table of Contents 
+
+Liquidity and Capital Resources  
+
+  [DATA_TABLE_REMOVED] 
+
+Working capital: The increase in working capital as of May 31, 2015 in comparison to May 31, 2014 was primarily due to our issuance of $20.0 billion of long-term senior notes during fiscal 2015, the favorable impact to our net current assets resulting from our net income during fiscal 2015, and, to a lesser extent, cash proceeds from stock option exercises. These working capital increases were partially offset by $6.2 billion of net cash used for our acquisitions of MICROS and others, $8.1 billion of cash used for repurchases of our common stock, the reclassification of $2.0 billion of senior notes due January 2016 from long-term to current, and $2.3 billion of cash used to pay dividends to our stockholders, all of which occurred during fiscal 2015. Our working capital may be impacted by some or all of the aforementioned factors in future periods, the amounts and timing of which are variable.  
+
+The increase in working capital as of May 31, 2014 in comparison to May 31, 2013 was primarily due to our issuance of 2.0 billion and $3.0 billion of long-term senior notes in July 2013, the favorable impact to our net current assets resulting from our net income during fiscal 2014, and, to a lesser extent, cash proceeds from stock option exercises. These working capital increases were partially offset by the reclassification of $1.5 billion of senior notes due July 2014 from long-term to current, $9.8 billion of cash used for repurchases of our common stock, cash used to pay dividends to our stockholders, and cash used for acquisitions.  
+
+Cash, cash equivalents and marketable securities: Cash and cash equivalents primarily consist of deposits held at major banks, Tier-1 commercial paper and other securities with original maturities of 90 days or less. Marketable securities primarily consist of time deposits held at major banks, Tier-1 commercial paper, corporate notes and certain other securities. The increase in cash, cash equivalents and marketable securities at May 31, 2015 in comparison to May 31, 2014 was due to an increase in cash generated from our operating activities, our issuance of $20.0 billion of senior notes in fiscal 2015, and to a lesser extent, cash proceeds from stock option exercises. These increases were partially offset by $6.2 billion of net cash paid for our acquisitions of MICROS and others, $8.1 billion of repurchases of our common stock, the repayment of $1.5 billion of senior notes and $2.3 billion used for the payment of cash dividends to our stockholders. Cash, cash equivalents and marketable securities included $42.7 billion held by our foreign subsidiaries as of May 31, 2015. We consider $38.0 billion of our undistributed earnings as indefinitely reinvested in our foreign operations outside the United States. These undistributed earnings would be subject to U.S. income tax if repatriated to the United States. Assuming a full utilization of the foreign tax credits, the potential deferred tax liability associated with these undistributed earnings would be approximately $11.8 billion as of May 31, 2015 should the amounts be repatriated to the United States. The amount of cash, cash equivalents and marketable securities that we report in U.S. Dollars for a significant portion of the cash, cash equivalents and marketable securities balances held by our foreign subsidiaries is subject to translation adjustments caused by changes in foreign currency exchange rates as of the end of each respective reporting period (the offset to which is substantially recorded to accumulated other comprehensive loss in our consolidated balance sheets and is also presented as a line item in our consolidated statements of comprehensive income included elsewhere in this Annual Report). As the U.S. Dollar generally strengthened against certain major international currencies during fiscal 2015, the amount of cash, cash equivalents and marketable securities that we reported in U.S. Dollars for these subsidiaries decreased on a net basis as of May 31, 2015 relative to what we would have reported using constant currency rates from our May 31, 2014 balance sheet date.  
+
+The increase in cash, cash equivalents and marketable securities at May 31, 2014 in comparison to May 31, 2013 was due to an increase in cash generated from our operating activities, our issuance of 2.0 billion and $3.0 billion of senior notes in July 2013, and to a lesser extent, cash proceeds from stock option exercises. These increases were partially offset by $9.8 billion of repurchases of our common stock, $3.5 billion of net cash paid for acquisitions and $2.2 billion used for the payment of cash dividends to our stockholders. Additionally, our reported cash, cash equivalents and marketable securities balances as of May 31, 2014 decreased on a net basis in comparison to May 31, 2013 due to the modest strengthening of the U.S. Dollar in comparison to certain major international currencies during fiscal 2014.  
+
+70  
+
+Table of Contents 
+
+Days sales outstanding, which we calculate by dividing period end accounts receivable by average daily sales for the quarter, was 47 days at May 31, 2015 compared with 48 days at May 31, 2014. The days sales outstanding calculation excludes the impact of revenue adjustments resulting from business combinations that reduced our acquired cloud SaaS and PaaS obligations, software license updates and product support obligations and hardware systems support obligations to fair value.  
+
+  [DATA_TABLE_REMOVED] 
+
+Cash flows from operating activities: Our largest source of operating cash flows is cash collections from our customers following the purchase and renewal of their software license updates and product support agreements. Payments from customers for these support agreements are generally received near the beginning of the contracts terms, which are generally one year in length. Over the course of a fiscal year, we also have historically generated cash from the sales of new software licenses, cloud SaaS and PaaS offerings, hardware systems products, hardware systems support arrangements, and services. Our primary uses of cash from operating activities are for employee related expenditures, material and manufacturing costs related to the production of our hardware systems products, taxes and leased facilities.  
+
+Fiscal 2015 Compared to Fiscal 2014: Net cash provided by operating activities decreased in fiscal 2015 in comparison to fiscal 2014 primarily due to the cash unfavorable effects of foreign currency exchange rate variances on our fiscal 2015 net income of 7 percentage points.  
+
+Fiscal 2014 Compared to Fiscal 2013: Net cash provided by operating activities increased in fiscal 2014 in comparison to fiscal 2013 primarily due to the following: the fiscal 2013 non-recurring impacts of a $387 million reduction of contingent consideration payable in connection with an acquisition (refer to Note 2 of Notes to Consolidated Financial Statements included elsewhere in this Annual Report for additional information) and the impact of a $306 million non-current receivable related to certain litigation (refer to Note 18 of Notes to Consolidated Financial Statements included elsewhere in this Annual Report for additional information), both of which increased our net income in fiscal 2013 without the corresponding operating cash flow benefits. These items did not recur during fiscal 2014.  
+
+Cash flows from investing activities: The changes in cash flows from investing activities primarily relate to acquisitions and the timing of purchases, maturities and sales of our investments in marketable debt securities. We also use cash to invest in capital and other assets, including certain intangible assets, to support our growth.  
+
+Net cash used for investing activities increased in fiscal 2015 and 2014, each relative to the respective prior year period, primarily due to an increase in cash used for acquisitions, net of cash acquired, and an increase in net cash used to purchase marketable securities (net of proceeds received from sales and maturities).  
+
+Cash flows from financing activities: The changes in cash flows from financing activities primarily relate to borrowings and repayments related to our debt instruments as well as stock repurchases, dividend payments and proceeds from stock option exercises.  
+
+Fiscal 2015 Compared to Fiscal 2014: Net cash provided by financing activities in fiscal 2015 increased in comparison to net cash used by financing activities in fiscal 2014 primarily due to a net increase in borrowings in fiscal 2015 (we issued $20.0 billion of senior notes during fiscal 2015 in comparison to 2.0 billion and $3.0 billion of senior notes during fiscal 2014) as well as lower stock repurchase activity during fiscal 2015. These favorable impacts to our financing cash flows during fiscal 2015 were partially offset by the repayment of $1.5 billion of borrowings pursuant to senior notes maturities during fiscal 2015 (no repayments during fiscal 2014).  
+
+Fiscal 2014 Compared to Fiscal 2013: Net cash used for financing activities in fiscal 2014 decreased in comparison to fiscal 2013 primarily due to the repayment of $3.0 billion of borrowings pursuant to senior notes maturities and certain expired revolving credit facilities in fiscal 2013 (no repayments during fiscal 2014), a net increase in borrowings during fiscal 2014 (we issued 2.0 billion and $3.0 billion of senior notes during fiscal  
+
+71  
+
+Table of Contents 
+
+ 2014 in comparison to $5.0 billion of senior notes issued during fiscal 2013), lower stock repurchase activity during fiscal 2014 and higher proceeds from stock option exercises during fiscal 2014. These fiscal 2014 cash favorable variances were partially offset by an increase in payments of cash dividends to stockholders in fiscal 2014 in comparison to fiscal 2013.  
+
+Free cash flow: To supplement our statements of cash flows presented on a GAAP basis, we use non-GAAP measures of cash flows on a trailing 4-quarter basis to analyze cash flows generated from our operations. We believe free cash flow is also useful as one of the bases for comparing our performance with our competitors. The presentation of non-GAAP free cash flow is not meant to be considered in isolation or as an alternative to net income as an indicator of our performance, or as an alternative to cash flows from operating activities as a measure of liquidity. We calculate free cash flows as follows:  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1)   Derived from capital expenditures as reported in cash flows from investing activities as per our consolidated statements of cash flows presented in accordance with U.S. GAAP.  
+
+Long-Term Customer Financing: We offer certain of our customers the option to acquire our software products, hardware systems products and services offerings through separate long-term payment contracts. We generally sell these contracts that we have financed for our customers on a non-recourse basis to financial institutions within 90 days of the contracts dates of execution. We record the transfers of amounts due from customers to financial institutions as sales of financial assets because we are considered to have surrendered control of these financial assets. We financed $1.6 billion in each of fiscal 2015 and 2014, and $1.8 billion in fiscal 2013, or approximately 19%, 17% and 19%, respectively, of our new software licenses revenues in fiscal 2015, 2014 and 2013. We financed $172 million, $168 million and $161 million of our hardware systems products revenues in fiscal 2015, 2014 and 2013, respectively, or approximately 6% in each of fiscal 2015 and 2014 and 5% in fiscal 2013 of our hardware systems products revenues.  
+
+Recent Financing Activities:  
+
+Senior Notes: As of May 31, 2015, we had $42.0 billion of senior notes outstanding ($24.1 billion outstanding as of May 31, 2014). In fiscal 2015, we issued $20.0 billion of senior notes comprised of $1.0 billion of floating rate notes due July 2017 (2017 Notes), $750 million of floating rate notes due October 2019 (2019 Floating Rate Notes), $2.0 billion of 2.25% notes due October 2019 (2019 Notes), $1.5 billion of 2.80% notes due July 2021 (2021 Notes), $2.5 billion of 2.50% notes due May 2022 (2022 Notes), $2.0 billion of 3.40% notes due July 2024 (2024 Notes), $2.5 billion of 2.95% notes due May 2025 (2025 Notes), $500 million of 3.25% notes due May 2030 (2030 Notes), $1.75 billion of 4.30% notes due July 2034 (2034 Notes), $1.25 billion of 3.90% notes due May 2035 (2035 Notes), $1.0 billion of 4.50% notes due July 2044 (2044 Notes), $2.0 billion of 4.125% notes due May 2045 (2045 Notes) and $1.25 billion of 4.375% notes due May 2055 (2055 Notes, and together with the 2017 Notes, 2019 Floating Rate Notes, 2019 Notes, 2021 Notes, 2022 Notes, 2024 Notes, 2025 Notes, 2030 Notes, 2034 Notes, 2035 Notes, 2044 Notes and 2045 Notes, the Senior Notes).  
+
+We issued the Senior Notes for general corporate purposes, which may include stock repurchases, payment of cash dividends on our common stock, future acquisitions and repayment of indebtedness. Additional details regarding our Senior Notes and related interest rate swap agreements are included in Notes 8 and 11 of Notes to Consolidated Financial Statements included elsewhere in this Annual Report.  
+
+In July 2014, our 3.75% senior notes due July 2014 for $1.5 billion matured and were repaid, and we settled the fixed to variable interest rate swap agreements associated with such fixed rate senior notes.  
+
+72  
+
+Table of Contents 
+
+Interest Rate Swap Agreements: In July 2014, we entered into certain interest rate swap agreements that have the economic effect of modifying the fixed interest obligations associated with our 2019 Notes and 2021 Notes so that the interest payable on these notes effectively became variable based on LIBOR. As of May 31, 2015, our 2019 Notes and 2021 Notes had effective interest rates of 0.76% and 0.91%, respectively, after considering the effects of the aforementioned interest rate swap arrangements. We are accounting for these interest rate swap agreements as fair value hedges pursuant to ASC 815, Derivatives and Hedging. Additional details regarding our Senior Notes and related interest rate swap agreements are included in Notes 8 and 11 of Notes to Consolidated Financial Statements included elsewhere in this Annual Report.  
+
+Cash Dividends: In fiscal 2015, we declared and paid cash dividends of $0.51 per share that totaled $2.3 billion, an increase of $0.03 per share over the cash dividends declared and paid in fiscal 2014. In June 2015, our Board of Directors declared a quarterly cash dividend of $0.15 per share of outstanding common stock payable on July 29, 2015 to stockholders of record as of the close of business on July 8, 2015. Future declarations of dividends and the establishment of future record and payment dates are subject to the final determination of our Board of Directors.  
+
+Common Stock Repurchases: Our Board of Directors has approved a program for us to repurchase shares of our common stock. On September 18, 2014, we announced that our Board of Directors approved an expansion of our stock repurchase program by an additional $13.0 billion. As of May 31, 2015, approximately $9.2 billion remained available for stock repurchases under the stock repurchase program. We repurchased 193.7 million shares for $8.1 billion, 280.4 million shares for $9.8 billion, and 346.1 million shares for $11.0 billion in fiscal 2015, 2014 and 2013, respectively. Our stock repurchase authorization does not have an expiration date and the pace of our repurchase activity will depend on factors such as our working capital needs, our cash requirements for acquisitions and dividend payments, our debt repayment obligations (described further below), our stock price and economic and market conditions. Our stock repurchases may be effected from time to time through open market purchases or pursuant to a Rule 10b5-1 plan. Our stock repurchase program may be accelerated, suspended, delayed or discontinued at any time.  
+
+Contractual Obligations: The contractual obligations presented in the table below represent our estimates of future payments under fixed contractual obligations and commitments. Changes in our business needs, cancellation provisions, changing interest rates and other factors may result in actual payments differing from these estimates. We cannot provide certainty regarding the timing and amounts of payments. We have presented below a summary of the most significant assumptions used in preparing this information within the context of our consolidated financial position, results of operations and cash flows. The following is a summary of certain of our contractual obligations as of May 31, 2015:  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1)   Represents the principal balances and interest payments to be paid in connection with our senior notes outstanding as of May 31, 2015. Refer to Note 8 of Notes to Consolidated Financial Statements included elsewhere in this Annual Report for additional information related to our notes payable.  
+
+   We have entered into certain interest rate swap agreements related to our 2.375% senior notes due January 2019 (January 2019 Notes), our 2019 Notes and our 2021 Notes that have the economic effect of modifying the fixed interest obligations associated with these senior notes so that the interest obligations effectively became variable pursuant to a LIBOR-based index. Interest payments on the January 2019 Notes, 2019 Notes and 2021 Notes presented in the contractual obligations table above have been estimated using interest rates of 0.93%, 0.76% and 0.91%, respectively, which represented our effective interest rates for these senior notes as of May 31, 2015 after consideration of these fixed to variable interest rate swap agreements, and are subject to change in future periods.  
+
+   Our 2017 Notes, our floating rate senior notes due January 2019 and our 2019 Floating Rate Notes bore interest at a rate of 0.47%, 0.86% and 0.78%, respectively, as of May 31, 2015 and interest payments on these notes presented in the contractual obligations table above have been estimated using this rate.  
+
+73  
+
+Table of Contents 
+
+   Our 2.25% senior notes due January 2021 (January 2021 Notes) and our 3.125% senior notes due July 2025 (July 2025 Notes) are denominated in Euro. In connection with the issuance of the January 2021 Notes, we entered into certain cross-currency swap agreements that have the economic effect of converting our fixed rate, Euro denominated debt, including annual interest payments and the payment of principal at maturity, to a fixed rate, U.S. Dollar denominated debt of $1.6 billion with a fixed annual interest rate of 3.53%. Principal and interest payments for the January 2021 Notes presented in the contractual obligations table above were calculated based on the terms of the aforementioned cross-currency swap agreements. Principal and interest payments for the July 2025 Notes presented in the contractual obligations table above were estimated using foreign currency exchange rates as of May 31, 2015.  
+
+ (2)   Primarily represents leases of facilities and includes future minimum rent payments for facilities that we have vacated pursuant to our restructuring and merger integration activities. We have approximately $61 million in facility obligations, net of estimated sublease income, for certain vacated locations in accrued restructuring on our consolidated balance sheet at May 31, 2015.  
+
+ (3)   Primarily represents amounts associated with agreements that are enforceable, legally binding and specify terms, including: fixed or minimum quantities to be purchased; fixed, minimum or variable price provisions; and the approximate timing of the payment. We utilize several external manufacturers to manufacture sub-assemblies for our hardware products and to perform final assembly and testing of finished hardware products. We also obtain individual hardware components for our products from a variety of individual suppliers based on projected demand information. Such purchase commitments are based on our forecasted component and manufacturing requirements and typically provide for fulfillment within agreed upon lead-times and/or commercially standard lead-times for the particular part or product and have been included in the amount presented in the above contractual obligations table. Routine arrangements for other materials and goods that are not related to our external manufacturers and certain other suppliers and that are entered into in the ordinary course of business are not included in the amounts presented above as they are generally entered into in order to secure pricing or other negotiated terms and are difficult to quantify in a meaningful way.  
+
+As of May 31, 2015, we had $4.8 billion of gross unrecognized income tax benefits, including related interest and penalties, recorded on our consolidated balance sheet and all such obligations have been excluded from the table above due to the uncertainty as to when they might be settled. We cannot make a reasonably reliable estimate of the period in which the remainder of our unrecognized income tax benefits will be settled or released with the relevant tax authorities, although we believe it is reasonably possible that certain of these liabilities could be settled or released during fiscal 2016.  
+
+We believe that our current cash, cash equivalents and marketable securities and cash generated from operations will be sufficient to meet our working capital, capital expenditures and contractual obligation requirements. In addition, we believe we could fund any future acquisitions, dividend payments and repurchases of common stock or debt with our internally available cash, cash equivalents and marketable securities, cash generated from operations, additional borrowings or from the issuance of additional securities.  
+
+Off-Balance Sheet Arrangements: We do not have any off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources that is material to investors.  
+
+Selected Quarterly Financial Data  
+
+Quarterly revenues, expenses and operating income have historically been affected by a variety of seasonal factors, including sales force incentive compensation plans. In addition, our European operations generally provide lower revenues in our first fiscal quarter because of the reduced economic activity in Europe during the summer. These seasonal factors are common in the high technology industry. These factors have caused a decrease in our first quarter revenues as compared to revenues in the immediately preceding fourth quarter, which historically has been our highest revenue quarter within a particular fiscal year. Similarly, the operating income of our business is affected by seasonal factors in a consistent manner as our revenues (in particular, our new software licenses and cloud software subscriptions segment) as certain expenses within our cost structure are relatively fixed in the short-term. We expect these trends to continue in fiscal 2016.  
+
+74  
+
+Table of Contents 
+
+The following tables set forth selected unaudited quarterly information for our last eight fiscal quarters. We believe that all necessary adjustments, which consisted only of normal recurring adjustments, have been included in the amounts stated below to present fairly the results of such periods when read in conjunction with the consolidated financial statements and related notes included elsewhere in this Annual Report. The sum of the quarterly financial information may vary from the annual data due to rounding.  
+
+  [DATA_TABLE_REMOVED] 
+
+  [DATA_TABLE_REMOVED] 
+
+Stock Options and Restricted Stock-Based Awards  
+
+Our stock-based compensation program is a key component of the compensation package we provide to attract and retain certain of our talented employees and align their interests with the interests of existing stockholders.  
+
+We recognize that stock options and restricted stock-based awards dilute existing stockholders and have sought to control the number of stock options and restricted stock-based awards granted while providing competitive compensation packages. Consistent with these dual goals, our cumulative potential dilution since June 1, 2012 has been a weighted average annualized rate of 1.9% per year. The potential dilution percentage is calculated as the average annualized new stock options or restricted stock-based awards granted and assumed, net of stock options and restricted stock-based awards forfeited by employees leaving the company, divided by the weighted average outstanding shares during the calculation period. This maximum potential dilution will only result if all stock options are exercised and restricted stock-based awards vest. Of the outstanding stock options at May 31, 2015, which generally have a 10-year exercise period, less than 1.0% have exercise prices higher than the market price of our common stock on such date. In recent years, our stock repurchase program has more than offset the dilutive effect of our stock-based compensation program; however, we may reduce the level of our stock repurchases in the future as we may use our available cash for acquisitions, to pay dividends, to repay or repurchase indebtedness or for other purposes. At May 31, 2015, the maximum potential dilution from all outstanding and unexercised stock options and restricted stock-based awards, regardless of when granted and regardless of whether vested or unvested and including stock options where the strike price is higher than the market price as of such date, was 10.2%.  
+
+75  
+
+Table of Contents 
+
+The Compensation Committee of the Board of Directors reviews and approves the organization-wide stock-based award grants to selected employees, all stock-based award grants to executive officers and any individual grant of stock-based awards in excess of 100,000 stock option equivalent shares. A separate Plan Committee, which is an executive officer committee, approves individual stock-based award grants of up to 100,000 stock option equivalent shares to non-executive officers and employees. Stock option and restricted stock-based award activity from June 1, 2012 through May 31, 2015 is summarized as follows (shares in millions):  
+
+  [DATA_TABLE_REMOVED] 
+
+Our Compensation Committee approves the annual organization-wide stock-based award grants to certain employees. These annual stock-based award grants are generally made during the ten business day period following the second trading day after the announcement of our fiscal fourth quarter earnings report.  
+
+Recent Accounting Pronouncements  
+
+For information with respect to recent accounting pronouncements and the impact of these pronouncements on our consolidated financial statements, see Note 1 of Notes to Consolidated Financial Statements included elsewhere in this Annual Report.  
+
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk

@@ -1,0 +1,33 @@
+ITEM 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+The Company is exposed to the impact of interest rate changes, foreign currency fluctuations, commodity fluctuations and changes in the market values of its investments.
+
+47
+Policies and Procedures
+
+In the normal course of business, we employ established policies and procedures to manage the Company’s exposure to changes in interest rates, foreign currencies and commodities using a variety of financial instruments.
+
+Our objectives in managing exposure to interest rate changes are to limit the impact of interest rate volatility on earnings and cash flows and to lower overall borrowing costs. To achieve these objectives, we primarily use interest rate swaps to manage net exposure to interest rate changes related to the Company’s portfolio of borrowings. By policy, the Company targets fixed-rate debt as a percentage of its net debt between minimum and maximum percentages.
+
+Our objective in managing exposure to foreign currency fluctuations is to reduce volatility of earnings and cash flow in order to allow management to focus on core business issues and challenges. Accordingly, the Company enters into various contracts that change in value as foreign exchange rates change to protect the U.S. dollar equivalent value of its existing foreign currency assets, liabilities, commitments and forecasted foreign currency revenues and expenses. The Company utilizes option strategies and forward contracts that provide for the purchase or sale of foreign currencies to hedge probable, but not firmly committed, transactions. The Company also uses forward and option contracts to hedge foreign currency assets and liabilities. The principal foreign currencies hedged are the euro, British pound, Japanese yen and Canadian dollar. Cross-currency swaps are used to effectively convert foreign currency denominated borrowings to U.S. dollar denominated borrowings. By policy, the Company maintains hedge coverage between minimum and maximum percentages of its forecasted foreign exchange exposures generally for periods not to exceed four years. The gains and losses on these contracts offset changes in the U.S. dollar equivalent value of the related exposures. The economic or political conditions in a country could reduce our ability to hedge exposure to currency fluctuations in the country or our ability to repatriate revenue from the country.
+
+Our objectives in managing exposure to commodity fluctuations are to use commodity derivatives to reduce volatility of earnings and cash flows arising from commodity price changes. The amounts hedged using commodity swap contracts are based on forecasted levels of consumption of certain commodities, such as fuel oil and gasoline.
+
+It is the Company’s policy to enter into foreign currency and interest rate derivative transactions and other financial instruments only to the extent considered necessary to meet its objectives as stated above. The Company does not enter into these transactions or any other hedging transactions for speculative purposes.
+
+Value at Risk (VAR)
+
+The Company utilizes a VAR model to estimate the maximum potential one-day loss in the fair value of its interest rate, foreign exchange, commodities and market sensitive equity financial instruments. The VAR model estimates were made assuming normal market conditions and a 95% confidence level. Various modeling techniques can be used in a VAR computation. The Company’s computations are based on the interrelationships between movements in various interest rates, currencies, commodities and equity prices (a variance/co-variance technique). These interrelationships were determined by observing interest rate, foreign currency, commodity and equity market changes over the preceding quarter for the calculation of VAR amounts at each fiscal quarter end. The model includes all of the Company’s debt as well as all interest rate and foreign exchange derivative contracts, commodities and market sensitive equity investments. Forecasted transactions, firm commitments, and accounts receivable and payable denominated in foreign currencies, which certain of these instruments are intended to hedge, were excluded from the model.
+
+The VAR model is a risk analysis tool and does not purport to represent actual losses in fair value that will be incurred by the Company, nor does it consider the potential effect of favorable changes in market factors.
+
+VAR on a combined basis decreased to $92 million at September 30, 2017 from $113 million at October 1, 2016.
+
+48
+The estimated maximum potential one-day loss in fair value, calculated using the VAR model, is as follows (unaudited, in millions): 
+
+[DATA_TABLE_REMOVED]
+
+The VAR for Hong Kong Disneyland Resort and Shanghai Disney Resort is immaterial as of September 30, 2017 and accordingly has been excluded from the above table.
+
+ITEM 8. Financial Statements and Supplementary Data

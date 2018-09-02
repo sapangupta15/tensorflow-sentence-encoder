@@ -1,0 +1,115 @@
+Item 1. Business  
+
+General  
+
+Rockwell Automation, Inc. (the Company or Rockwell Automation) is a leading global provider of industrial automation power, control and information solutions that help manufacturers achieve a competitive advantage for their businesses. Our products and services are designed to meet our customers needs to reduce total cost of ownership, maximize asset utilization, improve time to market and reduce manufacturing business risk.  
+
+The Company was incorporated in Delaware in 1996 in connection with a tax-free reorganization completed on December 6, 1996, pursuant to which we divested our former aerospace and defense businesses (the A&D Business) to The Boeing Company (Boeing). In the reorganization, the former Rockwell International Corporation (RIC) contributed all of its businesses, other than the A&D Business, to the Company and distributed all capital stock of the Company to RICs shareowners. Boeing then acquired RIC. RIC was incorporated in 1928.  
+
+2  
+
+In March 2006, we sold the assets of our ElectroCraft Engineered Solutions (ElectroCraft) business. Accordingly, we reflect the results of ElectroCraft as a discontinued operation for all periods presented.  
+
+In September 2006, we sold our 50 percent interest in Rockwell Scientific Company LLC (RSC). More information regarding the sale of our interest in RSC is contained in Note 2 in the Financial Statements.  
+
+On January 31, 2007, we divested our Dodge mechanical and Reliance Electric motors and motor repair services businesses. These were the principal businesses of our former Power Systems operating segment. We sold these businesses to Baldor Electric Company (Baldor) for $1.8 billion, comprised of $1.75 billion in cash and approximately 1.6 million shares of Baldor common stock. During 2007, we reported an after-tax gain on the sale of $868.2 million ($5.39 per diluted share). The results of operations and gain on sale of these businesses are reported in income from discontinued operations in the Financial Statements for all periods presented.  
+
+As used herein, the terms we, us, our, the Company or Rockwell Automation include subsidiaries and predecessors unless the context indicates otherwise. Information included in this Annual Report on Form 10-K refers to our continuing businesses unless otherwise indicated.  
+
+Whenever an Item of this Annual Report on Form 10-K refers to information in our Proxy Statement for our Annual Meeting of Shareowners to be held on February 4, 2009 (the 2009 Proxy Statement), or to information under specific captions in Item 7. Managements Discussion and Analysis of Financial Condition and Results of Operations (MD&A), or in Item 8. Financial Statements and Supplementary Data (the Financial Statements), the information is incorporated in that Item by reference. All date references to years and quarters refer to our fiscal year and quarters unless otherwise stated.  
+
+Operating Segments  
+
+We have two operating segments: Architecture & Software and Control Products & Solutions. In 2008, our total sales were $5.7 billion. Financial information with respect to our operating segments, including their contributions to sales and operating earnings for each of the three years in the period ended September 30, 2008, is contained under the caption Results of Operations in MD&A, and in Note 18 in the Financial Statements.  
+
+Our Architecture & Software operating segment is headquartered in Mayfield Heights, Ohio, and our Control Products & Solutions operating segment is headquartered in Milwaukee, Wisconsin. Both operating segments have operations in North America, Europe, Middle East and Africa, Asia Pacific and Latin America.  
+
+Architecture & Software  
+
+Our Architecture & Software operating segment recorded sales of $2.4 billion (42 percent of our total sales) in 2008. The Architecture & Software segment contains all of the elements of our integrated control and information architecture capable of controlling the customers plant floor and connecting with their manufacturing enterprise. Architecture & Software has a broad portfolio of products, including:  
+
+        Control platforms that perform multiple control disciplines and monitoring of applications, including discrete, batch, continuous process, drives control, motion control and machine safety control. Our platform products include programmable logic controllers, electronic operator interface devices, electronic input/output devices, communication and networking products, industrial computers and condition based monitoring systems. The information-enabled Logix controllers provide integrated multi-discipline control that is modular and scaleable.  
+
+        Software products that include configuration and visualization software used to operate and supervise control platforms, advanced process control software and manufacturing execution software (MES) that addresses information needs between the factory floor and a customers enterprise business system. Examples of MES applications are production scheduling, asset management, tracking, genealogy and manufacturing business intelligence.  
+
+        Other Architecture & Software products, including rotary and linear motion control products, sensors and machine safety components.  
+
+3  
+
+The major competitors of our Architecture & Software operating segment include Siemens AG, Mitsubishi Corp., ABB Ltd, Honeywell International Inc., Schneider Electric SA and Emerson Electric Co.  
+
+Architecture & Softwares products are marketed primarily under the Allen-Bradley®, Rockwell Software® and FactoryTalk® brand names. Major markets served include food and beverage, automotive, oil and gas, metals and mining, and home, health and beauty.  
+
+Control Products & Solutions  
+
+Our Control Products & Solutions operating segment recorded 2008 sales of $3.3 billion (58 percent of our total sales). The Control Products & Solutions segment combines a comprehensive portfolio of intelligent motor control and industrial control products with the customer support and application knowledge necessary to implement an automation or information solution on the plant floor. This comprehensive portfolio includes:  
+
+        Low voltage and medium voltage electro-mechanical and electronic motor starters, motor and circuit protection devices, AC/DC variable frequency drives, contactors, push buttons, signaling devices, termination and protection devices, relays and timers and condition sensors.  
+
+        Value-added packaged solutions, including configured drives, motor control centers and custom engineered panels for OEM and end-user applications.  
+
+        Automation and information solutions, including custom-engineered hardware and software systems for discrete, process, motion, drives and manufacturing information applications.  
+
+        Services designed to help maximize a customers automation investment and provide total life-cycle support, including multi-vendor customer technical support and repair, asset management, training and predictive and preventative maintenance.  
+
+The major competitors of our Control Products & Solutions operating segment include Siemens AG, ABB Ltd, Schneider Electric SA, Honeywell International Inc. and Emerson Electric Co.  
+
+Control Products & Solutions products are marketed primarily under the Allen Bradley® and ICS Triplex brand names. Major markets served include food and beverage, oil and gas, metals and mining, automotive, and pulp and paper.  
+
+Geographic Information  
+
+In 2008, sales to customers in the United States accounted for 50 percent of our total sales. Our principal markets outside of the United States are in Canada, the United Kingdom, Italy, China, Brazil and Germany. See Item 1A. Risk Factors for a discussion of risks associated with our operations outside of the United States. Sales and property information by major geographic area for each of the past three years is contained in Note 18 in the Financial Statements.  
+
+Competition  
+
+Depending on the product or service involved, our competitors range from large diversified businesses that sell products outside of industrial automation, to smaller companies specializing in niche products and services. Factors that influence our competitive position are our broad product portfolio and scope of solutions, technology leadership, knowledge of customer applications, large installed base, established distribution network, quality of products and services, price and global presence.  
+
+Distribution  
+
+In the United States and Canada, we sell our products primarily through independent distributors that typically do not carry products that compete with Allen-Bradley® products. We sell large systems and service offerings principally through a direct sales force, though opportunities are sometimes identified through distributors. Outside the United States and Canada, we sell products through a combination of direct sales and sales through distributors. Sales to our largest distributor in 2008, 2007 and 2006 were between 9 and 10 percent of our total sales.  
+
+4  
+
+Research and Development  
+
+Our research and development spending for the years ended September 30, 2008, 2007 and 2006 was $191.3 million, $166.9 million, and $148.5 million, respectively. Customer-sponsored research and development was not significant in 2008, 2007 or 2006.  
+
+Employees  
+
+At September 30, 2008 we had approximately 21,000 employees. Approximately 9,800 were employed in the United States, and, of these employees, about three percent were represented by various local or national unions.  
+
+Raw Materials and Supplies  
+
+We purchase many items of equipment, components and materials used to produce our products from others. The raw materials essential to the conduct of each of our business segments generally are available at competitive prices. Although we have a broad base of suppliers and subcontractors, we depend upon the ability of our suppliers and subcontractors to meet performance and quality specifications and delivery schedules. See Item 1A. Risk Factors for a discussion of risks associated with our reliance on third party suppliers.  
+
+Backlog  
+
+Our total order backlog at September 30 was (in millions):  
+
+  [DATA_TABLE_REMOVED] 
+
+Backlog is not necessarily indicative of results of operations for future periods due to the short-cycle nature of most of our sales activities. Backlog orders scheduled for shipment beyond 2009 were approximately $97.2 million as of September 30, 2008.  
+
+Environmental Protection Requirements  
+
+Information about the effect of compliance with environmental protection requirements and resolution of environmental claims is contained in Note 17 in the Financial Statements. See also Item 3. Legal Proceedings.  
+
+Patents, Licenses and Trademarks  
+
+We own or license numerous patents and patent applications related to our products and operations. Various claims of patent infringement and requests for patent indemnification have been made to us. We believe that none of these claims or requests will have a material adverse effect on our financial condition. While in the aggregate our patents and licenses are important in the operation of our business, we do not believe that loss or termination of any one of them would materially affect our business or financial condition. See Item 1A. Risk Factors for a discussion of risks associated with our intellectual property.  
+
+The Companys name and its registered trademark Rockwell Automation® is important to each of our business segments. In addition, we own other important trademarks that we use, such as Allen-Bradley®, A-B® and ICS TriplexTM for our control products and systems for industrial automation, and Rockwell Software® and FactoryTalk® for our software products.  
+
+Seasonality  
+
+Our business segments are not subject to significant seasonality. However, the calendarization of our results can vary and may be affected by the seasonal spending patterns of our customers due to their annual budgeting processes and their working schedules.  
+
+5  
+
+Available Information  
+
+We maintain an Internet site at http://www.rockwellautomation.com. Our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to such reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934 (the Exchange Act), as well as our annual report to shareowners and Section 16 reports on Forms 3, 4 and 5, are available free of charge on this site as soon as reasonably practicable after we file or furnish these reports with the Securities and Exchange Commission (SEC). All reports we file with the SEC are also available free of charge via EDGAR through the SECs website at http://www.sec.gov. Our Guidelines on Corporate Governance and charters for our Board Committees are also available at our Internet site. These Guidelines and charters are also available in print to any shareowner upon request. The information contained on and linked from our Internet site is not incorporated by reference into this Annual Report on Form 10-K.  
+
+The certifications of our Chief Executive Officer and Chief Financial Officer required pursuant to Sections 302 and 906 of the Sarbanes-Oxley Act of 2002 are included as Exhibits to this Annual Report on Form 10-K and were included as Exhibits to each of our Quarterly Reports on Form 10-Q filed during 2008. Our Chief Executive Officer certified to the New York Stock Exchange (NYSE) on March 6, 2008 pursuant to Section 303A.12 of the NYSEs listing standards, that he was not aware of any violation by the Company of the NYSEs corporate governance listing standards as of that date.  
+
+Item 1A. Risk Factors

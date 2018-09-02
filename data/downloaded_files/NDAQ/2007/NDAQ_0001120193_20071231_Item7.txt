@@ -1,0 +1,653 @@
+Item 7. Managements Discussion and Analysis of Financial Condition and Results of Operations.  
+
+You should read the following discussion and analysis of the financial condition and results of operations of Nasdaq in conjunction with our consolidated financial statements and related notes included in this Form 10-K, as well as the discussion under Item 1A. Risk Factors.  
+
+Overview  
+
+Our results for 2007 continue to demonstrate our ability to improve profitability by focusing on the execution of our business plan. Revenues less liquidity rebates, brokerage, clearance and exchange fees increased $124.9 million, or 18.2%, to $812.3 million in 2007, compared with $687.4 million in 2006, and our operating income increased $151.6 million, or 70.8%, to $365.7 million in 2007, compared with $214.1 million in 2006. Net income was $518.4 million, or $3.46 per diluted share, in 2007 compared with $127.9 million, or $0.95 per diluted share, in 2006.  
+
+The following pre-tax items impacted our 2007 results:  
+
+       Sale of our share capital of the LSE generated a gain of $431.4 million which is net of $18.0 million of costs directly related to the sale, primarily broker fees;  
+
+       Improved revenues less liquidity rebates, brokerage, clearance and exchange fees from our Market Services segment. Revenues less liquidity rebates, brokerage, clearance and exchange fees from Market Services increased $90.2 million, or 20.6%, to $528.1 million in 2007, compared with $437.9 million in 2006 due to the following:  
+
+       Increases in trade execution market share for NYSE- and Amex-listed securities, partially offset by higher cost of revenues;  
+
+       The increase in cost of revenues was primarily due to increases in market share and average daily share volume and pricing changes in February 2007, which increased liquidity rebate amounts. Also in 2007, was an increase in SEC fees collected pursuant to Section 31 of the Exchange Act as a result of Nasdaqs operation as a national securities exchange beginning August 1, 2006 for Nasdaq-listed securities and February 12, 2007 for non-Nasdaq-listed securities. Section 31 fees are also recorded as revenues, therefore there is no impact on Nasdaqs revenues less liquidity rebates, brokerage, clearance and exchange fees;  
+
+       Increase in market subscription users which increased our Market Services subscriptions fees;  
+
+       Increase in revenues from our Issuer Services segment. Revenues increased $34.9 million, or 14.0%, to $283.9 million in 2007, compared with $249.0 million in 2006, primarily due to revised annual renewal fees introduced in the first quarter of 2007, higher revenues generated from our recent acquisitions and expanding customer utilization of our Corporate Client services;  
+
+       Decrease in total operating expenses. Total operating expenses decreased $26.7 million, or 5.6%, to $446.6 million in 2007, compared with $473.3 million in 2006, primarily due to the completion of the INET integration which resulted in us migrating all trading to a single platform;  
+
+       Decrease in net interest expense. Net interest expense decreased $31.2 million, or 46.9%, to $35.3 million in 2007, compared with $66.5 million in 2006, primarily due to additional interest income on higher cash balances and lower interest expense on debt due to a lower average outstanding balance and lower interest rates; and  
+
+       Strategic initiative costs of $26.5 million incurred in connection with our strategic initiatives related to the LSE, including our acquisition bid. In conjunction with the lapse of our final offers for the LSE in February 2007, these costs were charged to income primarily during the first quarter of 2007.  
+
+38  
+
+Table of Contents 
+
+These current and prior year items are discussed in more detail below.  
+
+Business Environment  
+
+Nasdaq serves listed companies, market participants and investors by providing a high quality cash equity market, thereby enabling corporate growth and entrepreneurship. In broad terms, our business performance is impacted by a number of drivers including macroeconomic events affecting the risk and return of financial assets, investor sentiment regarding the outlook for equity investments, the regulatory environment for primary and secondary equity markets, and changing technology in the financial services industry. Our future revenues, revenues less liquidity rebates, brokerage, clearance and exchange fees and net income will continue to be influenced by domestic and international trends including:  
+
+       The number of companies seeking equity financing, which is affected by factors such as investor demand, the economy, alternative sources of financing, and tax and regulatory policies;  
+
+       Trading volumes, particularly in U.S. equity securities, which are driven primarily by overall macroeconomic conditions;  
+
+       Competition for listings and trading executions related to pricing, and product and service offerings; and  
+
+       Other technological advancements and regulatory developments.  
+
+2007 was a year of contrasts for our business drivers. The first half of the year saw the best first six month period for IPOs since 2000 supported by an optimistic outlook for the economy and a general upward trend in securities prices and trading volumes. As the year progressed, increasing concern over the impact of recent events in the credit markets clouded the outlook for the future pace of economic growth. Additional challenges included uncertain U.S. investor sentiment resulting in the highest level of market volatility in the last four years, significant regulatory changes in the U.S. and the European Union, and continued rapid evolution and deployment of new technology in the financial services industry. The business environment that influenced our financial performance in 2007 can be characterized as follows:  
+
+       An overall pace of equity issuance very similar to 2006;  
+
+       Continued growth of financing alternatives for both new and established companies;  
+
+       Very strong 25.7% annual growth relative to 2006 in equity trading volume in the U.S driven by Regulation NMS as well as elevated levels of volatility;  
+
+       Intense competition among U.S. exchanges for both equity trading volume and listings;  
+
+       Globalization of exchanges, customers and competitors extending the competitive horizon beyond the U.S.;  
+
+       Customers demands for speed, capacity, and reliability require continuing investment in technology; and  
+
+       Increasing competition for market data revenues due to the new market data revenue allocation formula required by Regulation NMS.  
+
+2008 Outlook  
+
+We believe that 2007s successful implementation of our strategy for achieving significant market share gains will provide a number of benefits into 2008. In establishing Nasdaq as the most active U.S. equities market in 2007 our single platform has stood out as a reliable, flexible, and high capacity system delivering high levels of execution quality and speed under even the most demanding market conditions. The standout performance of our technology has led to an improved competitive position for our execution and market data businesses while realizing the anticipated cost savings from successfully integrating three platforms onto a single trading platform.  
+
+39  
+
+Table of Contents 
+
+Our experience with the successful integration of Brut, INET and our other acquisitions form the basis for our domestic outlook for 2008. Following SEC approval we anticipate launching The Nasdaq Options Market which will bring the Nasdaq market structure to the fast growing asset class of exchange listed options. Our pending acquisition of the Boston Stock Exchange should provide an additional quote for market participants who want to use Nasdaqs high performance systems to post multiple protected quotes under Regulation NMS. Following the closing of our previously announced acquisition of the Philadelphia Stock Exchange, we expect to continue their options market structure as a complement to The Nasdaq Options Market. In addition to benefiting our transactions business the proposed acquisitions of BSX and PHLX open up new content for enhancing our market data offerings. We believe that our business drivers are likely to continue to have a mixed impact on our operations and the elevated levels of volatility experienced during the first two months of the year will positively affect our Market Services segment through higher trading volumes but negatively impact our Issuer Services segment by reducing the anticipated number of IPOs and capital formation more generally. As in 2007, we expect that we will continue to realize additional sources of revenue from enhanced product offerings and/or acquisitions which are complementary to our existing businesses.  
+
+Internationally, the expected combination with OMX and investment in DIFX are anticipated to enhance the globalization of the Nasdaq brand name and further increase our strategic opportunities. As the combined group we expect to be a premier global exchange company and we will leverage the strength of each organizations data distribution capabilities to broaden the data customer base as well as to create new data products. Furthermore, we expect the combination of Nasdaq, OMX, and PHLX will unite world class technology leadership across all of our product offerings and, over time, will allow us to integrate these technologies into a platform that will enable us to further enhance our competitive position. The combination of OMX, PHLX and BSX with Nasdaq also is expected to provide us with the opportunity for significant revenue and costs synergies.  
+
+Business Segments  
+
+We manage, operate and provide our products and services in two business segments: Market Services and Issuer Services.  
+
+       Market Services segment includes our transaction-based business (The Nasdaq Market Center) and our market information services business (Nasdaq Market Services Subscriptions), which are interrelated because the transaction-based business generates the quote and trade information that we sell to market participants and data vendors.  
+
+       Issuer Services segment includes our securities listings business, insurance business, shareholder, directors and newswire services (Corporate Client Group) and our financial products business (Nasdaq Financial Products). The companies listed on The Nasdaq Stock Market represent a diverse array of industries. This diversity of Nasdaq-listed companies allows us to develop industry-specific and other Nasdaq indexes that we use to develop and license financial products and associated derivatives.  
+
+Because of these interrelationships, our management has allocated resources, assessed performance and managed these businesses as two separate segments. See Note 20, Segments, to the consolidated financial statements for further discussion.  
+
+Cost Reductions and Operating Efficiencies  
+
+During the past several years, we have taken significant steps to grow our business and enhance our competitive position. We have successfully reduced technology costs, eliminated non-core products, scaled back our workforce and consolidated our real estate facilities and operations. The INET integration accelerated our migration to a low-cost trading platform and is resulting in significant operating synergies.  
+
+Charges associated with our cost reduction program and our integration of INET ceased during 2007. In 2007, we incurred charges of approximately $4.1 million in connection with actions we took to improve our   
+
+40  
+
+Table of Contents 
+
+ operational efficiency as well as to integrate INET. During 2006, we incurred similar charges of approximately $40.9 million. As a result of our cost reduction program and integration of INET, we were able to migrate to our single trading platform, and significantly reduce our depreciation and amortization expense and computer operations and data communications expense. In 2007, these expenses totaled $67.6 million compared with $112.4 million for 2006, a decrease of $44.8 million, or 39.9%. See Note 5, Cost Reduction Program and INET Integration, to the consolidated financial statements for further discussion.  
+
+Sources of Revenues  
+
+Market Services  
+
+Nasdaq Market Center  
+
+The Nasdaq Market Center is our transaction-based platform that provides our market participants with the ability to access The Nasdaq Stock Market execution services, such as quoting and trading capabilities, and reporting services such as trade reporting and risk management. We provide these services for Nasdaq-listed and non-Nasdaq-listed securities. Until September 30, 2005, we also provided these services for securities authorized for trading on the OTCBB. Effective October 1, 2005, we transferred responsibility for the OTCBB to FINRA. See Note 13, Regulatory and Related Party Transactions, to the consolidated financial statements for further discussion.  
+
+On December 8, 2005, we completed our acquisition of INET. Our 2005 results include activity related to INET from December 8, 2005 through December 31, 2005 and our 2007 and 2006 results include activity related to INET for the entire year. As noted above, between October 2006 and February 2007, we completed the integration of Nasdaqs legacy execution systems and the Brut and INET execution systems onto a single trading platform.  
+
+We provide our customers with the ability to execute trades electronically in equity securities. The primary fee for these execution services is a transaction execution charge, assessed on a per share basis to the party that accesses the liquidity provided by another market participant. In most circumstances, we credit a portion of the per share execution charge as a rebate to the market participant that provides the liquidity. We also earn revenues based on our share of trading securities listed on the NYSE and Amex. Many of our competitors engage in aggressive price competition by reducing the transaction fees they charge customers for trade execution. As a result of this competition, during 2005, we significantly reduced the transaction fees we charge our customers for trade execution, particularly for large-volume customers. In early 2006, in connection with our acquisition of INET, we adjusted our transaction fees to harmonize our pricing structure with INET, whose fees had been higher than ours. In February 2007, we integrated our equities pricing to harmonize the trading of Nasdaq-listed and non-Nasdaq-listed securities into one pricing schedule. Also, we integrated a pricing change, effective March 1, 2007, that lowered access and routing fees for high volume customers. We periodically reexamine our pricing structure to ensure that our fees remain competitive.  
+
+We also generate revenue by charging fees for trade reporting, trade comparison, order routing and providing risk management services. Although we do not currently charge market participants for most of the trades they report to us, we do earn revenues for all trades reported to us in the form of shared market information revenues under the UTP Plan for Nasdaq-listed securities, under the CTA Plan for NYSE-listed securities and the CQ Plan for Amex- and regional exchange-listed securities.  
+
+Also, Nasdaq pays Section 31 fees, which are recorded as execution and trade reporting revenues with a corresponding amount recorded as cost of revenues. The Section 31 fees are designed to recover the costs to the government of supervision and regulation of securities markets and securities professionals. Nasdaq collects the fees as a pass-through charge from organizations executing eligible trades on Nasdaqs exchange platform and recognizes these amounts in cost of revenues when invoiced. Section 31 fees received are included in cash and cash equivalents in the Consolidated Balance Sheets at the time of receipt and, as required by law, the amount due to the SEC is remitted semiannually and recorded as Section 31 fees payable to SEC, in the Consolidated   
+
+41  
+
+Table of Contents 
+
+ Balance Sheets until paid. Since the amount recorded in revenues is equal to the amount recorded in cost of revenues, there is no impact on Nasdaqs revenues less liquidity rebates, brokerage, clearance and exchange fees.  
+
+Finally, The Nasdaq Market Center generates revenue by providing market participants with a front-end workstation and by offering several different alternatives to access The Nasdaq Market Center. The type of connectivity is determined by the level of functionality a customer needs. During 2005, in access services, we completed the necessary steps to exit a low-margin business related to our legacy service products and associated proprietary network. See Nasdaqs Operating Results-Nasdaq Market Center.  
+
+Nasdaq Market Services Subscriptions  
+
+The primary source of revenues for Nasdaq Market Services Subscriptions is the collection and dissemination of price quotations and information regarding price and volume of executed trades. We collect information, distribute it and earn revenues in two capacities: as a member of the UTP Plan and as a distributor of our proprietary market data. We also operate as the exclusive Securities Information Processor as part of the UTP Plan for the collection and dissemination of the best bid and offer information and last transaction information from the exchanges and markets that quote and trade in Nasdaq-listed securities.  
+
+In our role as the Securities Information Processor, we disseminate information to data vendors, which the data vendors then sell to the public. After deducting our expenses incurred as the Securities Information Processor, we distribute the tape fees to the respective UTP Plan participants, including ourselves, based on a combination of the participants respective trading share and quoting share as determined by the Regulation NMS formula.  
+
+Effective July 1, 2006, Nasdaq also operates the Nasdaq Data Revenue Sharing Program that provides incentives to market participants who internalize trades to report them to The FINRA/Nasdaq TRF. We share a portion of the UTP revenue earned back to those participants that report internalized trades to The FINRA/Nasdaq TRF. Prior to the third quarter of 2006, Nasdaq shared Nasdaq Market Services Subscriptions revenues under the Nasdaq General Revenue Sharing Program, which provided an incentive for quoting market participants to send orders and report trades to The Nasdaq Market Center.  
+
+In 2006, upon consultation with the SEC, it was determined that the approval of Amendment 13 to the UTP Plan on February 7, 2006 resulted in the immediate removal of Nasdaq Quotation Dissemination Services, or NQDS, from the UTP Plan. As a result, we were no longer required to share revenues from NQDS, the best quote information from each market participant, effective as of February 7, 2006. We still are required to share UTP Plan revenues related to trade reports and the best priced quotations in our market, or Level 1.  
+
+In addition to NQDS, we also sell other proprietary data products based on information from market participants that choose to display trading interest on The Nasdaq Market Center, most notably TotalView, our flagship market depth quote product. We operate several other proprietary services and data feed products, including the Mutual Fund Quotation Service, or MFQS; Nasdaq Index Dissemination Service and OpenView, which is similar to TotalView, but displays market depth for NYSE- and Amex-listed securities. Within the past year, we launched the NASDAQ DataStore to showcase newly launched data products from Nasdaq, particularly Velocity and Forces, NASDAQ Pre, and the NASDAQ VWAP. Further, in 2007, Nasdaq launched a Web2.0 initiative to facilitate plug-and-play deployments of new Nasdaq data products, allowing distributors of Nasdaq market data much more efficient and cost-effective implementations. See Item 1. BusinessNasdaq Products and Services for a discussion of our proprietary data products.  
+
+Issuer Services  
+
+Corporate Client Group  
+
+The Corporate Client Group provides customer support services and products to Nasdaq-listed companies and is responsible for obtaining new listings on The Nasdaq Stock Market. We charge issuers an initial listing   
+
+42  
+
+Table of Contents 
+
+ fee, a fee for listing of additional shares and an annual fee. The initial listing fee for securities listed on The Nasdaq Stock Market includes a listing application fee and a total shares outstanding fee. The fee for listing of additional shares is based on the total shares outstanding, which we review quarterly. Annual fees for securities listed on The Nasdaq Stock Market are based on total shares outstanding. Initial listing and listing of additional shares fees are recognized on a straight-line basis over estimated service periods, which are six and four years, respectively, based on our historical listing experience, pursuant to the requirements of SAB Topic 13. In February 2007, the SEC approved a new pricing structure for our annual listing fees. This new schedule generally increased the annual and listing of additional shares fees listed companies pay to us, as well as the initial listing fee to list on The Nasdaq Capital Market.  
+
+In 2006, we announced the creation of The Nasdaq Global Select Market, a new listing tier with the highest initial listing standards in the world. The Nasdaq Global Select Market became effective on July 3, 2006 and approximately 1,200 companies qualified for this new market tier. The other two market tiers are The Nasdaq Global Market and The Nasdaq Capital Market. All three market tiers maintain rigorous listing and corporate governance standards and issuers listing on these markets have the opportunity to leverage an array of Nasdaq corporate services.  
+
+On January 1, 2005, we purchased the remaining 50.0% interest in the Nasdaq Insurance Agency for nominal consideration. The agency provides insurance brokerage services and specializes in the director and officer liability insurance market. In 2005, we completed the acquisition of Carpenter Moore, an insurance brokerage firm specializing in management liability. The purchases of the Nasdaq Insurance Agency and Carpenter Moore provide current and future Nasdaq-listed companies and other customers with a full service corporate insurance broker offering customized risk management advice and insurance placement services. Carpenter Moore also added depth of brokerage expertise in directors and officers, errors and omissions and other management liability insurance products, and has significantly expanded regional coverage. In February 2007, Carpenter Moore merged with the Nasdaq Insurance Agency with Carpenter Moore as the surviving entity.  
+
+In 2006, we completed the acquisition of Shareholder.com, a firm specializing in shareholder communications and investor relations intelligence services. Shareholder.com continues to offer its comprehensive suite of services to all publicly traded companies who wish to optimize investor relations capabilities. Also in 2006, we completed the acquisition of PrimeNewswire, a press release newswire services firm. PrimeNewswire further enhances Nasdaqs investor relations and corporate communications suite. In July 2007, we completed the acquisition of Directors Desk LLC, a privately held firm which provides technology to boards of public and private companies in the U.S. and abroad.  
+
+Our 2007 results include activity related to Directors Desk beginning July 2, 2007 and our 2006 results include activity related to Shareholder.com beginning February 1, 2006 and PrimeNewswire beginning September 1, 2006. Results for Carpenter Moore are included beginning October 1, 2005. See Purchase Acquisitions and Combinations, of Note 3, Business Combinations, to the consolidated financial statements for further discussion.  
+
+Nasdaq Financial Products  
+
+Nasdaq develops and licenses Nasdaq-branded indexes, associated derivatives and financial products as part of Nasdaq Financial Products. Nasdaqs license fees for its trademark licenses vary by product based on assets or number or underlying dollar value of contracts issued. In addition to generating licensing revenues for Nasdaq, these products, particularly mutual funds and ETFs, lead to increased investments in companies listed on The Nasdaq Stock Market, which enhances our ability to attract new listings.  
+
+The outcome of two court cases has impacted Nasdaqs ability to collect licensing revenues beginning in the third quarter of 2006, for options on ETFs that track our indexes. In September 2005, the U.S. District Court for the Southern District of New York dismissed actions brought by McGraw-Hill and Dow Jones against an options   
+
+43  
+
+Table of Contents 
+
+ market that threatened to trade options on ETFs based on their proprietary indexes without a license. This dismissal was affirmed by the United States Court of Appeals for the Second Circuit in June 2006. The Second Circuit ruled that markets, in facilitating the trading of options on ETFs, are not misappropriating any intellectual property right of index providers. We are replacing this loss in revenues by continuing to develop, create, and license new indexes for financial instruments.  
+
+In 2007, Nasdaq transferred the sponsorship functions including sales, marketing and administration of several ETFs, including our QQQ, EQQQ and BLDRs ETFs, to PowerShares Capital Management LLC. The transfer of the QQQ and BLDRS ETFs to PowerShares closed on March 21, 2007 and the transfer of the EQQQ to PowerShares closed on August 9, 2007. In connection with the transfers, the QQQ was renamed the PowerShares QQQ Trust in March 2007 and the EQQQ was renamed the PowerShares EQQQ Trust in August 2007. After the transfers, Nasdaq has maintained its status as licensor of the PowerShares QQQ and PowerShares EQQQ ETFs and continues to receive license fees from these ETFs as they are benchmarked against the Nasdaq-100 Index. These transfers expand the distribution channels for the funds and brings greater investor access to these products. As a result, the amount of licensing revenues may increase in the future.  
+
+In the fourth quarter of 2007, we launched our PORTAL Trading System, a system allowing for online trading of equity securities pursuant to Rule 144A. The PORTAL Market is a comprehensive offering including capital formation, trading, data and financial products. We continue to facilitate the processing service for Rule 144A eligible securities through PORTAL.  
+
+Also in the fourth quarter of 2007, we and a group of leading securities firms announced our intention to form The PORTAL Alliance, an industry standard facility designated to serve the market for 144A equity securities. The PORTAL Alliance will work with third-party service providers to create an open, industry standard facility for the private offering, trading, shareholder tracking and settlement of unregistered equity securities sold to qualified institutional buyers.  
+
+Nasdaqs Operating Results  
+
+Key Drivers  
+
+The following table includes data showing average daily share volume in Nasdaq-listed securities and the percentage of share volume of Nasdaq-, NYSE- and Amex-listed securities reported to The Nasdaq Market Center. In addition, the table shows drivers for our Issuer Services segment. In evaluating the performance of our business, our senior management closely watches these key drivers.  
+
+  [DATA_TABLE_REMOVED] 
+
+44  
+
+Table of Contents 
+
+  (1)  Transactions executed on Nasdaqs systems.  
+
+  (2)  Transactions executed on Nasdaqs systems and routed to other external venues.  
+
+  (3)  Transactions executed on Nasdaqs systems plus trades reported through The FINRA/Nasdaq TRF for the year ended December 31, 2007. For the years ended December 31, 2006 and 2005, transactions executed on Nasdaqs systems and internal trades reported to Nasdaq.  
+
+  (4)  New listings includes IPOs, including those completed on a best efforts basis, issuers that switched from other listing venues, closed-end funds and beginning September 30, 2006, separately listed ETFs.  
+
+  (5)  Beginning September 30, 2006, number of listed companies also includes separately listed ETFs.  
+
+  (6)  Includes activity from INET as if the acquisition occurred on January 1, 2005.  
+
+NA Not available.  
+
+Segment Operating Results  
+
+Of our total 2007 revenues of $2,436.6 million, 88.3% was from our Market Services segment and 11.7% was from our Issuer Services segment. Of our total 2006 revenues of $1,657.8 million, 84.9% was from our Market Services segment and 15.1% was from our Issuer Services segment. Of our total 2005 revenues of $879.9 million, 74.3% was from our Market Services segment and 25.7% was from our Issuer Services segment.  
+
+The following table shows our total revenues, cost of revenues and revenues less liquidity rebates, brokerage, clearance and exchange fees by segment:  
+
+  [DATA_TABLE_REMOVED] 
+
+ # Denotes a variance greater than 100.0%.  
+
+45  
+
+Table of Contents 
+
+MARKET SERVICES  
+
+The following table shows total revenues, cost of revenues and revenues less liquidity rebates, brokerage, clearance and exchange fees from Market Services:  
+
+  [DATA_TABLE_REMOVED] 
+
+ # Denotes a variance equal to or greater than 100.0%.  
+
+  (1)  Includes Section 31 fees of $365.0 million in 2007, $170.6 million in 2006 and $29.3 million in 2005. The increase in 2007 compared to 2006 is primarily due to fees collected as a result of Nasdaqs operation as a national securities exchange for Nasdaq-listed securities beginning August 1, 2006 and February 12, 2007 for non-Nasdaq-listed securities. The increase in 2006 compared to 2005 is primarily due to the inclusion of a full year of INETs operations compared with less than one month in 2005 and fees collected as a result of Nasdaqs operation as a national securities exchange for part of the year in 2006.  
+
+  (2)  See footnote 1 of Item 6. Selected Consolidated Financial Data, for discussion of change in reporting liquidity rebates.  
+
+  (3)  In the third quarter of 2006, Nasdaq began reporting Nasdaq Market Services Subscriptions revenues as proprietary and non-proprietary revenues. Revenues from non-proprietary products are eligible UTP Plan revenues which are shared among UTP Plan participants and include revenues from Level 1. Prior to the second quarter of 2006, non-proprietary revenues also included NQDS. However, effective February 7, 2006, Nasdaq is no longer required to share revenues from NQDS thereby reducing non-proprietary revenues and the amount of revenue shared with UTP Plan participants. Proprietary revenues now include NQDS revenues as well as revenues from TotalView, our flagship market depth quote product and other proprietary services and data feed products.  
+
+46  
+
+Table of Contents 
+
+Nasdaq Market Center  
+
+Execution and trade reporting revenues increased in 2007 compared with 2006 and in 2006 compared with 2005. The increase in 2007 was primarily due to increases in trade execution market share in NYSE- and Amex- listed securities, fees collected as a result of Nasdaqs operation as a national securities exchange and increases in average daily share volume. In February 2007, we announced new equities pricing to harmonize the trading of Nasdaq-listed and non-Nasdaq-listed securities into one pricing schedule. We also announced a pricing change, effective March 1, 2007, that lowered execution and routing fees for high volume customers. As a result of these pricing changes, our matched market share in U.S.-listed equities has increased which also contributed to the increase in our execution and trade reporting revenues. The increase in 2006 compared to 2005 was primarily due to the inclusion of INETs results as well as increases in trade execution market share in NYSE- and Amex-listed securities and increases in average daily share volume. In February 2006, we harmonized our pricing on Nasdaq-listed securities across all of our venues and introduced new pricing on NYSE-listed securities, which further contributed to the increase in revenues. The Nasdaq-listed pricing increased the execution fees for Brut and Nasdaqs legacy execution systems, but decreased the execution fees for INET.  
+
+As discussed above, effective August 1, 2006, as a result of Nasdaqs operation as a national securities exchange, additional Section 31 fees were recorded as execution and trade reporting revenues with a corresponding amount recorded as cost of revenues. Since the amount recorded in revenues is equal to the amount recorded in cost of revenues, there is no impact on Nasdaqs revenues less liquidity rebates, brokerage, clearance and exchange fees. Section 31 fees were $365.0 million in 2007, $170.6 million in 2006 and $29.3 million in 2005. The increase in 2007 was primarily due to the increase in fees collected as a result of Nasdaqs operation as a national securities exchange. The increase in 2006 was primarily due to a full year of INETs operations compared with less than one month in 2005 and the additional fees collected as a result of Nasdaqs operation as a national securities exchange for part of the year in 2006.  
+
+Access services revenues increased in 2007 compared with 2006 primarily due to increases in customer demand for network connectivity and exchange membership fees. We began charging exchange membership fees as a result of our operation as a national securities exchange.  
+
+Access services revenues decreased in 2006 compared with 2005 primarily due to the retirement of our legacy access services products and associated proprietary network in the fourth quarter of 2005, when we completed the transition to the new Nasdaq Workstation. Beginning in 2005, we migrated users away from our legacy access services products towards our QIX protocol, FIX connectivity and new Nasdaq Workstation, all of which operate over third-party networks. By doing so, we were able to reduce our technology and network costs and increase our systems scalability without affecting performance or reliability. The revenues for these discontinued products totaled $58.3 million and expenses related to the discontinued products were $46.5 million in 2005. The industry standards and third-party products are more efficient and cost effective but produce lower revenues. However, these products contribute more to our operating results than our legacy access services products. Partially offsetting the decrease in 2006, were access services revenues from INET and the new Nasdaq Workstation and increased revenues from FIX and QIX.  
+
+We share tape fee revenues from NYSE- and Amex-listed securities through The Nasdaq Market Center tape fee revenue sharing. We earn tape fee revenues from NYSE- and Amex-listed securities based upon activity within and trades reported to The Nasdaq Market Center for securities listed on these exchanges and based upon the size of NYSE and Amex revenue tape sharing pools. The increases in 2007 compared with 2006 and 2006 compared with 2005 were primarily due to an increase in trade execution market share in both NYSE- and Amex-listed securities. In 2006, the increase in trade execution market share was partially offset by amounts retained that pre-acquisition were shared with INET, and pricing changes in February 2006 which eliminated certain trades from being eligible for revenue sharing.  
+
+The Nasdaq Market Center shared revenues under the Nasdaq General Revenue Sharing Program through the second quarter of 2006. Under this discretionary program we shared operating revenue, which is interpreted   
+
+47  
+
+Table of Contents 
+
+ to mean net revenue after expenses from all services that derive revenue, from member trading and trade reporting activity in Nasdaq-listed securities. The program was designed to provide an incentive for quoting market participants to send orders and report trades to The Nasdaq Market Center. Under a new program introduced in the third quarter of 2006, we have refocused the revenue sharing program to trades that are reported to The FINRA/Nasdaq TRF. The total amount of revenue shared with market participants decreased in 2006 compared with 2005.  
+
+The Nasdaq Market Center liquidity rebates, in which we credit a portion of the per share execution charge to the market participant that provides the liquidity, increased in 2007 compared with 2006 and in 2006 compared with 2005. The 2005 comparison includes $35.5 million recorded net in total revenues which was prior to the adoption of Nasdaqs Limitation of Liability Rule. The increase in liquidity rebates in 2007 compared with 2006 was primarily due to increases in trade execution market share for NYSE- and Amex-listed securities and the pricing changes discussed above. The increase in liquidity rebates in 2006 compared with 2005 was primarily due to the inclusion of INETs results for a full year of operations as well as increases in average daily share volume and increases in trade execution market share for NYSE- and Amex-listed securities. In February 2006, we harmonized our pricing for all of our venues, which increased the per share liquidity rebates for INET, but decreased the per share liquidity rebates for Brut and Nasdaqs legacy execution system. Also beginning February 2006, we began paying rebates on NYSE- and Amex-listed securities, which further contributed to the increase in liquidity rebates in 2007 and 2006.  
+
+Brokerage, clearance and exchange fees increased in 2007 compared with 2006 and in 2006 compared with 2005. The increase in 2007 compared with 2006 was primarily due to additional Section 31 fees due to Nasdaqs operation as a national securities exchange and increases in trade execution market share for NYSE- and Amex- listed securities. As noted above, effective August 1, 2006, as a result of Nasdaqs operation as a national securities exchange, additional Section 31 fees were recorded as execution and trade reporting revenues as well as a corresponding cost of revenues. Partially offsetting the increase in 2007 was a decline in clearance costs due to our migration to a single trading platform. The increase in 2006 compared with 2005 was primarily due to the inclusion of INETs results for a full year as well as increases in average daily share volume, increases in trade execution market share for NYSE- and Amex-listed securities and additional Section 31 fees due to Nasdaqs operation as a national securities exchange.  
+
+Nasdaq Market Services Subscriptions  
+
+Proprietary revenues increased in 2007 compared with 2006 and in 2006 compared with 2005. The increase in 2007 was primarily due to an increase in TotalView subscribers and distributors and their related revenues, the launch of OpenView Basic and an increase in other proprietary data products. Also contributing to the increase in 2007 and the increase in 2006 were NQDS revenues which were recorded as proprietary revenues for the entire period in 2007 and beginning February 7, 2006 for 2006. As discussed above, Nasdaq is no longer required to share revenues from NQDS. Also contributing to the increase in 2006 compared with 2005 was an increase in TotalView subscribers and related revenues and a price increase for MFQS due to functionality improvements. Partially offsetting this increase was a reduction in OTCBB revenues related to the transfer of the OTCBB back to FINRA.  
+
+Non-proprietary revenues increased in 2007 compared to 2006 primarily due to an increase in the number of Level 1 professional and non-professional users. Partially offsetting the increase for 2007 was the classification change of NQDS revenues beginning February 7, 2006 and an audit of data usage by a major market distributor in 2006 which increased revenues for 2006.  
+
+Non-proprietary revenues decreased in 2006 compared with 2005 primarily due to the classification change of NQDS revenues. Partially offsetting this decrease was an increase in the number of Level 1 non-professional users and the audit of data usage by a major market distributor in the first quarter of 2006.  
+
+48  
+
+Table of Contents 
+
+We also share Market Services Subscriptions revenues under revenue sharing programs. Prior to the third quarter of 2006, we shared Nasdaq Market Services Subscriptions revenues under the Nasdaq General Revenue Sharing Program. Effective July 1, 2006, we changed the terms of this program and, under the new Nasdaq Data Revenue Sharing Program, now share 50.0% of the UTP data revenue earned from internalized trades reported to us. The amount of Nasdaq Market Services Subscriptions revenues shared under Nasdaqs revenue sharing programs decreased in 2007 compared with 2006 primarily due to a new Regulation NMS market data revenue allocation formula, which became effective April 1, 2007, which is described further below, as well as changes in the amount shared under the programs from the July 1, 2006 data revenue sharing plan change. The new formula decreased the UTP data revenue earned from internalized trades in 2007, which resulted in a decrease in the amount available to share. The amount of Nasdaq Market Services Subscriptions revenues shared under Nasdaqs revenue sharing programs increased in 2006 compared with 2005 primarily due to changes in the amount shared under the programs.  
+
+Nasdaq also shares tape fee revenues for Nasdaq-listed securities through the UTP Plan. Under the revenue sharing provision of the UTP Plan, we are permitted to deduct costs associated with acting as the exclusive Securities Information Processor from the total amount of tape fees collected. After these costs are deducted from the tape fees, we distribute to the respective UTP Plan participants, including Nasdaq, their share of tape fees based on a formula, required by Regulation NMS that takes into account both trading and quoting activity. Our tape fee revenue sharing amount allocated to UTP Plan participants increased in 2007 compared with 2006 primarily due to a reduction of our percentage earned of the UTP revenue, in part, caused by the new Regulation NMS market data revenue allocation formula. Also contributing to the increase were higher shareable Level 1 revenues. Partially offsetting the increase in 2007, was a reduction in the amount of revenue shared with UTP Plan participants as NQDS was not included in the plan for the entire twelve months.  
+
+Our tape fee revenue sharing allocated to UTP Plan participants decreased in 2006 compared with 2005 primarily due to an increase in our UTP market share primarily due to the INET acquisition which resulted in INET trades being reported to us in 2006, decreasing the amount Nasdaq shared with UTP participants. Also, as discussed above Nasdaq is no longer required to share revenues from NQDS thereby reducing the amount of revenue shared with UTP Plan participants.  
+
+Other Market Services  
+
+Other Market Services revenues decreased in 2007 compared with 2006 and increased in 2006 compared with 2005. The decrease in 2007 was primarily due to a decrease in revenues earned from our testing facility due to our migration to a single trading platform. The increase in 2006 compared with 2005 was primarily due to a contract between FINRA and Nasdaq for the operations of the OTCBB, which took effect on October 1, 2005. We transferred responsibility for the OTCBB back to FINRA, but agreed to continue to operate the OTCBB initially on a contract basis for two years, subject to renewals. We currently operate the OTCBB on a month to month contract basis.  
+
+ISSUER SERVICES  
+
+The following table shows the revenues from our Issuer Services segment:  
+
+  [DATA_TABLE_REMOVED] 
+
+49  
+
+Table of Contents 
+
+Corporate Client Group  
+
+The following table shows our revenues from the Corporate Client Group as reported in accordance with U.S. GAAP (as reported) and as would be reported on a non-GAAP basis (billed basis). We believe that the presentation of billed basis revenues, as they relate to listing of additional shares and initial listing fees, is a good indicator of current Corporate Client Group activity as billed basis information excludes the effects of recognizing revenues related to initial listing fees and listing of additional shares fees over the six and four year periods, respectively.  
+
+  [DATA_TABLE_REMOVED] 
+
+  [DATA_TABLE_REMOVED] 
+
+ # Denotes a variance greater than 100.0%.  
+
+Corporate Client Group revenues are primarily derived from (i) fees for annual renewals, listing of additional shares and initial listings for companies listed on The Nasdaq Stock Market and (ii) Corporate Client services. Fees are generally calculated based upon total shares outstanding for the issuing company. These fees are initially deferred and amortized over the estimated periods for which the services are provided. Revenues from annual renewal fees are amortized on a pro-rata basis over the calendar year and initial listing fees and listing of additional shares fees are amortized over six and four years, respectively. The difference between the as reported revenues and the billed basis revenues is due to the amortization of fees in accordance with U.S. GAAP. See Note 8, Deferred Revenue, to the consolidated financial statements for further discussion. Corporate Client services revenues includes revenues from Carpenter Moore beginning October 1, 2005, Shareholder.com beginning February 1, 2006, PrimeNewswire beginning September 1, 2006, Directors Desk beginning July 2, 2007 and other sources for all periods presented. In February 2007, Carpenter Moore merged with the Nasdaq Insurance Agency, with Carpenter Moore as the surviving entity.  
+
+Annual renewal fees on both an as reported and billed basis increased in 2007 compared with 2006. The number of companies listed on The Nasdaq Stock Market on January 1, 2007 was 3,193, compared to 3,208 on January 1, 2006, the date on which listed companies are billed their annual fees. The decrease in the number of listed companies was due to 303 delistings by Nasdaq during 2006, partially offset by 285 new listings during 2006. The number of listed companies as of January 1, 2007 also includes separately listed ETFs. Offsetting the decrease in the number of listed companies was an annual renewal fee increase effective January 1, 2007.  
+
+Annual renewal fees on both an as reported and billed basis were flat in 2006 compared with 2005. The number of companies listed on The Nasdaq Stock Market on January 1, 2006 was 3,208 and 3,271 on January 1,   
+
+50  
+
+Table of Contents 
+
+ 2005, the date on which listed companies are billed their annual fees. The decrease in the number of listed companies in 2005 was due to 332 delistings by Nasdaq during 2005, partially offset by 269 new listings in 2005. Primarily offsetting the decrease in the number of listed companies was an increase in the average total shares outstanding for The Nasdaq Global Select Market and The Nasdaq Global Market, which increased the annual renewal fees billed.  
+
+Listing of additional shares fees on both an as reported and billed basis increased in 2007 compared with 2006 and decreased in 2006 compared with 2005. The increase in 2007 and decrease in 2006 on the as reported basis were primarily due to amortization of fees. The fees on a billed basis increased in 2007 compared with 2006 primarily due to a fee increase effective January 1, 2007. For 2006 compared to 2005, the billed basis decrease was primarily due to a decline in secondary offerings. There were 197 secondary offerings in 2007, 214 secondary offerings in 2006 and 222 secondary offerings in 2005.  
+
+Initial listing fees on an as reported basis and billed basis decreased in 2007 compared with 2006. Initial listing fees, on an as reported basis, decreased and on a billed basis, remained flat in 2006 compared with 2005. The fees on an as reported basis decreased in 2007 and 2006 primarily due to amortization of fees. The fees on a billed basis decreased in 2007 compared with 2006 due to an increase in entry fee credits for companies that switched between The Nasdaq Global Market and The Nasdaq Capital Market. There were 290 new listings, including 132 new initial public offerings, during 2007 compared with 285 new listings, including 137 new initial public offerings, during 2006. There were 269 new listings, including 126 new initial public offerings, during 2005.  
+
+Corporate Client services revenues on both an as reported and billed basis increased in 2007 compared with 2006 and in 2006 compared with 2005 primarily due to revenues generated from the operations of recently acquired businesses.  
+
+Nasdaq Financial Products  
+
+The following table shows revenues from Nasdaq Financial Products:  
+
+  [DATA_TABLE_REMOVED] 
+
+Licensing revenues increased in 2007 compared with 2006 and decreased in 2006 compared with 2005. The increase in 2007 was primarily due to an increase in licensing fees associated with Nasdaq-licensed ETFs and third party structured products. Partially offsetting the increase in 2007 and contributing to the decrease in 2006, was a decline in licensing fees associated with options traded on ETFs based on Nasdaq indexes. The outcome of two court cases has impacted our ability to collect licensing revenues for options on ETFs that track our indexes. See sources of revenues section for further discussion. Partially offsetting the decrease in 2006 was higher volume activity for both derivative and third party products as well as increases in third party assets under management.  
+
+Other revenues remained flat in 2007 compared with 2006 and increased in 2006 compared with 2005. Nasdaq Financial Products, through its PORTAL Market, facilitates the eligibility for clearing and settlement services at DTCC of PORTAL/Rule 144A securities. The increase in other revenues in 2006 was primarily due to an increase in the number of applications seeking PORTAL designation.  
+
+51  
+
+Table of Contents 
+
+Expenses  
+
+Direct Expenses  
+
+The following table shows our direct expenses:  
+
+  [DATA_TABLE_REMOVED] 
+
+ # Denotes a variance greater than 100.0% or not meaningful.  
+
+Compensation and benefits expense increased in 2007 compared with 2006 and in 2006 compared with 2005. The increases in 2007 and 2006 were primarily due to increased incentive compensation reflecting stronger financial performance, additional share-based compensation expense due to grants in December 2007 and December 2006 to all active employees and additional compensation costs due to our recent acquisitions. The increase in 2006 compared with 2005 was also due to the additional share-based compensation expense recognized under SFAS No. 123 (revised 2004), Share-Based Payment, or SFAS 123(R), which was adopted on January 1, 2006. See Share-Based Compensation, of Note 2, Summary of Significant Accounting Policies, and Note 12, Share-Based Compensation, to the consolidated financial statements for further discussion. Partially offsetting the increase in 2007 was a curtailment gain of approximately $6.1 million recognized in the first half of 2007 and cost savings as a result of the pension plan and the Supplemental Executive Retirement Plan, or SERP, freeze. See Note 11, Employee Benefits, to the consolidated financial statements for further discussion.  
+
+Marketing and advertising expense increased in 2007 compared with 2006 and in 2006 compared with 2005. In 2007 and 2006 we launched new advertising campaigns. The increase in 2006 compared with 2005 was also due to costs related to our new listings and dual listing advertisements.  
+
+Depreciation and amortization expense decreased in 2007 compared with 2006 and increased in 2006 compared with 2005. The decrease in 2007 was primarily due to the retirement of certain equipment which was fully amortized in December 2006 related to the migration to a single trading platform. The decrease was partially offset by intangible amortization expense on identifiable intangible assets acquired in our recent acquisitions. The increase in 2006 compared with 2005 was primarily due to intangible amortization expense on identifiable intangible assets purchased in connection with our recent acquisitions, primarily INET, as 2006 includes a full year of amortization expense compared with less than 1 month in 2005. Also contributing to the 2006 increase was additional depreciation and amortization expense due to a previous change in the estimated useful life of some of The Nasdaq Market Center assets due to the migration to a single trading platform. These increases were partially offset by decreased depreciation expense related to other technology assets.  
+
+Professional and contract services expense increased in 2007 compared with 2006 and in 2006 compared with 2005. The increase in 2006 compared with 2005 was primarily due to operating costs incurred from recent acquisitions, partially offset by lower technology consulting costs.  
+
+52  
+
+Table of Contents 
+
+Computer operations and data communications expense decreased in 2007 compared with 2006 and in 2006 compared with 2005. The decrease in 2007 was primarily due to lower costs associated with hardware leased equipment. The contract for this equipment was cancelled and charged to expense in the fourth quarter of 2006. The decrease is also due to lower costs associated with a reduced number of communication lines due to the consolidation of our data centers. The decrease in 2006 was primarily due to lower costs associated with providing communication lines to customers due to the retirement of legacy access services products, which we discontinued as of December 31, 2005.  
+
+Provision for bad debts increased in 2007 compared with 2006 and decreased in 2006 compared with 2005. The increase in 2007 was due to additional aged receivables in 2007. The decrease in 2006 was primarily due to an increase in collections and the collection of previously reserved aged receivables.  
+
+Occupancy expense increased in 2007 compared with 2006 and in 2006 compared with 2005. The increase in 2006 was primarily due to additional costs from our recent acquisitions partially offset by lower rental expense due to our continued real estate consolidation plans.  
+
+Regulatory expense was $28.9 million for the year ended December 31, 2007. Since we sought to preserve a regulatory separation upon operation as a national securities exchange, FINRA continues to provide regulatory services to the Exchange, including the regulation of trading activity on The Nasdaq Stock Market and surveillance and investigative functions. The regulation charges from FINRA of $33.8 million in 2006 and $41.8 million in 2005 were included in support costs from related parties, net. See below for further discussion. The decrease in 2007 was primarily due to a reduction in surveillance and other regulatory charges by FINRA and an adjustment of the allocation of its costs between members and market matters.  
+
+General, administrative and other expense increased in 2007 compared with 2006 and increased in 2006 compared with 2005. The increase in 2007 was primarily due to an increase in charges recorded in 2007 related to the sale of our share capital of the LSE. We recorded pre-tax charges for a $19.5 million tax sharing payment owed to Instinet for the benefit of SLP pursuant to an agreement to share the deferred tax benefit on the sale of Instinets Institutional Brokerage division, see Note 10, Income Taxes, to the consolidated financial statements for further discussion. In addition, we recorded a $5.8 million loss on the early extinguishment of debt in 2007 related to the repayment in full of our credit facilities from the proceeds from the sale of the share capital of the LSE. See Note 7, Investments, to the consolidated financial statements for further discussion. Also, in 2007 there was an additional loss of $1.1 million on the early extinguishment of a portion of the 3.75% convertible notes and a $10.6 million charge related to a clearing contract. Our single trading platform includes functionality that enabled us to discontinue the use of services previously provided under the contract. Partially offsetting these increases were charges recorded in 2006. In 2006, we recorded a $12.3 million loss on the early extinguishment of the $750.0 million senior term debt issued in December 2005, which was refinanced in April 2006. Additional losses totaling $9.7 million were recorded on the early extinguishment of the portion of the $1.l billion secured term loan of our April 2006 credit facility that was repaid in May 2006 as a result of an equity offering and in November 2006 with excess cash flow. Also, in 2006, a $5.9 million charge was recorded on the write-down of a held-for-sale building to fair market value. See Real Estate Consolidation, of Note 5, Cost Reduction Program and INET Integration, to the consolidated financial statements for further discussion. These charges were partially offset by a realized foreign currency gain related to our investment in the LSE of $8.2 million in 2006.  
+
+General, administrative and other expense increased in 2006 compared with 2005 primarily due to losses incurred on the early extinguishment of debt, the refinancing of our $750.0 million senior term loan facility and a $5.9 million charge recorded on the write-down of a held-for-sale building to fair market value and a net benefit of $9.8 million recognized in 2005 related to decisions affecting our real estate plans as described below. Additionally, in 2006 we recorded charges totaling $2.2 million associated with potential fines or penalties for Bruts obligations regarding short sales, firm quotes and other reporting and disclosure requirements. As discussed above, in 2006, we recorded charges totaling $22.0 million on the early extinguishment of debt. In 2005, we also had a $7.4 million loss on the restructuring of the $240.0 million convertible notes. These   
+
+53  
+
+Table of Contents 
+
+ increases were partially offset by the realized foreign currency gain related to our investment in the LSE of $8.2 million. In 2005, as a result of the acquisition of INET, Nasdaq took occupancy of expansion space for INET operations, which was previously reserved for as a sublease loss when Nasdaqs management did not intend to occupy the space, and recorded a release of the sublease loss reserve of $12.1 million, net of rental payments, in the fourth quarter of 2005.  
+
+Support Costs From Related Parties, net  
+
+Support costs from related parties, net were $33.8 million in 2006 compared with $41.8 million in 2005, a decrease of 19.1%. The decrease was primarily due to the transfer of ownership of the OTCBB to FINRA which reduced the associated regulatory costs. Also contributing to the decreases was a reduction in surveillance and other regulatory charges from FINRA primarily due to FINRAs review and allocation of expenses among the markets and members it regulates. After December 20, 2006, since FINRA is no longer a related party, the regulatory expense is now shown as part of direct expenses. See the description of regulatory expense under Direct Expenses above for further discussion.  
+
+Net Interest Expense  
+
+Net interest expense was $35.3 million in 2007 compared with $66.5 million in 2006, a decrease of 46.9%, and was $7.6 million in 2005. The decrease in 2007 was due to higher interest income due to higher cash balances and lower interest expense due to a lower average outstanding debt balance and lower interest rates year over year. In September 2007, we repaid in full and terminated our credit facilities from the proceeds of the sale of our share capital of the LSE. In the fourth quarter of 2007, H&F converted $300.0 million of its 3.75% convertible notes to equity. Also, in the fourth quarter of 2007, SLP and other partners converted a portion of the 3.75% convertible notes.  
+
+Net interest expense increased in 2006 compared with 2005 primarily due to additional interest expense on the credit facilities (see Note 9, Debt Obligations, to the consolidated financial statements) resulting from the purchase of issued share capital of the LSE. For 2006, the increase was also due to additional interest expense from our $205.0 million convertible notes issued in April 2005 and from our $750.0 million senior term loan facility issued in December 2005 to finance the INET acquisition, partially offset by a lower interest coupon rate on our $240.0 million convertible notes. For 2006, we also recorded higher interest income due to higher cash balances and interest rates, which partially offset the increase in net interest expense.  
+
+Dividend Income  
+
+Dividend income was $14.5 million in 2007 compared with $16.2 million in 2006. This represents ordinary dividends from our investment in the LSE.  
+
+Gain on Foreign Currency Option Contracts  
+
+The gain on foreign currency option contracts was $44.0 million in 2007 compared with $48.4 million in 2006. In order to hedge the foreign currency exposure on our proposed combination with OMX, we purchased and sold foreign currency option contracts in 2007, beginning at the time of the announcement of the proposed combination. The cumulative pre-tax realized gain on the OMX option contracts was $30.1 million for 2007. The fair value of the OMX option contract at December 31, 2007 was $60.7 million. The unrealized gain on this contract was $21.7 million for 2007.  
+
+In order to hedge the foreign currency exposure on our acquisition bid for the LSE, we purchased foreign currency option contracts at the time of the bid, which was the fourth quarter of 2006. The fair value of these contracts at December 31, 2006 was $71.7 million and the unrealized gain for the quarter ended December 31, 2006 was $48.4 million. In conjunction with the lapse of our final offers for the LSE, we traded out of these   
+
+54  
+
+Table of Contents 
+
+ foreign exchange contracts in February 2007. Due to the improved exchange rate of the dollar when compared to the pound sterling, we recorded a loss of approximately $7.8 million on these foreign currency option contracts in 2007 results. The cumulative realized pre-tax gain on the foreign currency option contracts was approximately $40.6 million. These contracts were cash settled for $63.9 million.  
+
+See Note 16, Fair Value of Financial Instruments, to the consolidated financial statements for further discussion.  
+
+Gain on Sale of Strategic Initiatives  
+
+The pre-tax gain on the sale of our strategic initiatives was $431.4 million for 2007. The gain represents the sale of our share capital of the LSE and is net of costs directly related to the sale of $18.0 million, primarily broker fees. See Note 7, Investments, to the consolidated financial statements for further discussion.  
+
+Strategic Initiative Costs  
+
+In connection with our strategic initiatives related to the LSE, including our acquisition bid, we incurred legal and advisory costs of $26.5 million for 2007. See Investment in the LSE, of Note 7, Investments, to the consolidated financial statements for further discussion.  
+
+Minority Interest  
+
+Minority interest was $0.1 million in 2007 compared with $0.9 million in 2006, a decrease of 88.9%. We began recording minority interest for Reuters minority investment in the Independent Research Network, a joint venture created to help public companies obtain independent analyst coverage, beginning in the third quarter of 2005. As of December 31, 2007, Reuters investment in the Independent Research Network was reduced to zero due to losses incurred at the Independent Research Network and 100.0% of the losses are now recorded by us. We are discontinuing the Independent Research Networks operations in 2008.  
+
+Income Taxes  
+
+Nasdaqs income tax provision was $275.5 million in 2007 compared with $85.2 million in 2006, and was $44.6 million in 2005, an increase of 91.0% in 2006 compared with 2005. The overall effective tax rate was 34.7% in 2007, 40.0% in 2006 and 41.9% in 2005. Although the income tax provision increased in 2007, the overall effective tax rate was lower in 2007 primarily due to the utilization of capital loss carryforwards and a reduction to the reserve for uncertain tax positions. The higher effective tax rate in 2005 when compared to 2007 and 2006 was primarily due to a loss on the restructuring of the $240.0 million convertible notes, a portion of which is not deductible for U.S. income tax purposes due to the conversion feature.  
+
+The effective tax rate may vary from period to period depending on, among other factors, the geographic and business mix of earnings and losses. These same and other factors, including history of pre-tax earnings and losses, are taken into account in assessing the ability to realize deferred tax assets.  
+
+We adopted the provisions of FASB Interpretation No. 48, Accounting for Uncertainty in Income Taxesan interpretation of FASB Statement No. 109, or FIN 48, on January 1, 2007. As a result of the implementation of FIN 48, we recognized a $1.0 million increase to reserves for uncertain tax positions. This increase was accounted for as an adjustment to the beginning balance of retained earnings in the consolidated balance sheet. At the adoption date of January 1, 2007, we had $9.2 million of unrecognized tax benefits of which $7.9 million would affect our effective tax rate if recognized. As of December 31, 2007, we had $7.6 million of unrecognized benefits of which $4.0 million would affect our effective tax rate if recognized.  
+
+Our policy is to recognize interest and/or penalties related to income tax matters in income tax expense. We had $1.8 million accrued for interest and penalties, net of tax effect on January 1, 2007. As of December 31, 2007, we had $2.7 million accrued for interest and penalties, net of tax effect.  
+
+55  
+
+Table of Contents 
+
+Nasdaq and its eligible subsidiaries file a consolidated U.S. federal income tax return and applicable state and local income tax returns. Federal income tax returns for years 2004-2006 are subject to examination by the Internal Revenue Service. In the third quarter of 2007, we concluded federal income tax audits for years 2000-2003. To the extent that the respective statute of limitations for a specific tax year is expired we have decreased the reserve for uncertain tax positions. Several state tax returns are currently under examination by the respective tax authorities for years 1996-2002 and we remain subject to state audits for years 2003-2006. The final outcome of such audits cannot yet be determined. We anticipate that the adjustments would not have a material impact on our consolidated financial position or results of operations.  
+
+Liquidity and Capital Resources  
+
+We require cash to pay our operating expenses, make capital expenditures and service our debt and other long-term liabilities. Our principal source of funds is cash from our operations. In addition, we have obtained funds by selling our common stock in the capital markets. In the near term, we expect that our operations will provide sufficient cash to fund our operating expenses, capital expenditures and interest payments on our debt. In the long-term, we may use both internally generated funds and external sources to satisfy our debt and other long-term liabilities. In order to finance our proposed combination with OMX, we will incur additional debt and will issue shares of our common stock. For further discussion see Note 9, Debt Obligations, and Note 19, Commitments, Contingencies and Guarantee, to the consolidated financial statements.  
+
+Principal factors that could affect the availability of our internally-generated funds include:  
+
+       deterioration of our revenues in any of our business segments,  
+
+       changes in our working capital requirements, and  
+
+       an increase in our expenses.  
+
+Principal factors that could affect our ability to obtain cash from external sources include:  
+
+       credit rating downgrades, which could limit our access to additional debt,  
+
+       a decrease in the market price of our common stock, and  
+
+       volatility in the public debt and equity markets.  
+
+The following sections discuss the effects of changes in our cash flows, capital requirements and other commitments on our liquidity and capital resources.  
+
+Cash and Cash Equivalents and Investments and Changes in Cash Flows  
+
+The following tables summarize our cash and cash equivalents and investments and changes in cash flows:  
+
+  [DATA_TABLE_REMOVED] 
+
+ # Denotes a variance equal to or greater than 100.0%.  
+
+  (1)  Available-for-sale investments at December 31, 2006 include our previously held $1.6 billion investment in the LSE.  
+
+56  
+
+Table of Contents [DATA_TABLE_REMOVED] 
+
+ # Denotes a variance greater than 100.0%.  
+
+Cash and cash equivalents and available-for-sale investments. Cash and cash equivalents and available-for-sale investments decreased from 2006 primarily due to a decrease in available-for-sale investments of $1.6 billion primarily due to the sale of our share capital of the LSE, partially offset by an increase in cash of $1.0 billion. Total proceeds received from the sale were approximately $1.8 billion and Nasdaq used approximately $1.1 billion of the proceeds to pay in full and terminate the credit facilities. Also, in 2007, cash was used to purchase foreign currency option contracts for the proposed combination with OMX. Partially offsetting these decreases was the receipt of cash from trading out of the foreign exchange contracts related to our acquisition bid for the LSE in February 2007, collection of additional Section 31 fees, the receipt of ordinary dividends from the LSE, and positive cash flow.  
+
+Changes in Cash Flows   
+
+Cash provided by operating activities. The following items impacted our cash provided by operating activities for the year ended December 31, 2007:  
+
+       Net income of $518.4 million, partially offset by:  
+
+       Non-cash items of approximately $407.7 million, comprised primarily of the gain on the sale of strategic initiative of $431.4 million, gain on foreign currency option contracts of $44.0 million and deferred taxes, net of $15.6 million, partially offset by strategic initiative costs of $26.5 million, clearing contract charge of $10.6 million, loss on the early extinguishment of debt of $7.0 million and depreciation and amortization of $38.9 million.  
+
+       Increase in income tax payable of $81.9 million primarily due to the sale of our share capital in the LSE and an increase in pre-tax income. Deferred revenue also increased $7.2 million due to additional Corporate Client Groups billings. Partially offsetting these items, was a net increase of $18.8 million in assets, primarily due to an increase in receivables due to the recording of additional Section 31 fees and a net decrease of $7.7 million in other operating liabilities.  
+
+During 2006, the following items impacted our cash provided by operating activities:  
+
+       Net income of $127.9 million.  
+
+       Non-cash charges of approximately $49.4 million, comprised primarily of depreciation and amortization of $70.9 million and loss on the early extinguishment and refinancing of debt obligations of $22.0 million, partially offset by a gain on foreign currency option contracts of $48.4 million.  
+
+       Increase in other operating liabilities of $36.7 million, mainly due to an increase in Section 31 fees payable to SEC and income tax payable of $83.3 million due to the recording of additional Section 31 fees in connection with Nasdaqs operation as a national securities exchange. Partially offsetting the increase in operating liabilities was a decrease in accounts payable and accrued expenses, other accrued liabilities, accrued personnel costs, payables to related parties and other liabilities totaling $46.6 million due to timing of payments.  
+
+We expect that cash provided by operating activities may fluctuate in future periods as a result of a number of factors, including fluctuations in our operating results, accounts receivable collections, share-based compensation and the timing and amount of other payments that we make.  
+
+57  
+
+Table of Contents 
+
+Cash provided by (used in) investing activities. The increase in cash provided by (used in) investing activities in 2007 compared with 2006 is primarily due to the proceeds from sales and redemptions and maturities of available-for-sale investments of $1.9 billion, which includes the proceeds from the sale of our share capital in the LSE of $1.8 billion. Also contributing to the increase was $67.9 million from settlement of foreign currency option contracts primarily related to our acquisition bid for the LSE. In 2007, in conjunction with the lapse of our final offers for the LSE in February 2007, we traded out of foreign currency option contracts which were purchased at the time of the commencement of our bid. These contracts were cash settled for $63.9 million. Partially offsetting these increases were the purchase of foreign currency option contracts of $13.0 million for our proposed combination with OMX, purchases of available-for-sale investments of $80.4 million, the acquisition of Directors Desk for $8.0 million, other purchase acquisition related adjustments of $7.1 million and purchases of property and equipment of $18.5 million. For 2006, the increase in cash used in investing activities compared with 2005 is primarily attributable to purchases of available-for-sale investments, including our purchase of LSE shares, purchase of foreign currency option contracts to hedge our acquisition bid for the LSE, and our acquisitions of Shareholder.com and PrimeNewswire, partially offset by proceeds from redemptions and maturities of available-for-sale investments and from the sale of our building in Connecticut.  
+
+Cash provided by (used in) financing activities. Cash used in financing activities for 2007 was primarily due to the repayment in full of the credit facilities from the proceeds of the sale of the share capital of the LSE. Cash provided by financing activities increased in 2006 compared with 2005 primarily due to the proceeds we received from our credit facilities and the net proceeds from our equity offerings in the first six months of 2006, partially offset by funds used for payments of our debt obligations and redemption of our Series C Cumulative preferred stock.  
+
+Capital Resources and Working Capital  
+
+Working capital (calculated as current assets less current liabilities) was $1.3 billion at December 31, 2007, compared with $1.9 billion at December 31, 2006, a decrease of $0.6 billion or 31.6%, primarily due to the repayment of debt obligations from the proceeds of the sale of the share capital of the LSE.  
+
+We have historically been able to generate sufficient funds from operations to meet working capital requirements. At December 31, 2007, we did not have any lines of credit. Prior to our repayment on September 28, 2007 of the credit facilities, we had an un-drawn $75.0 million revolving credit facility. See Credit Facilities, of Note 9, Debt Obligations, to the consolidated financial statements for further discussion.  
+
+In connection with our proposed combination with OMX, we plan to issue $425 million aggregate principal amount of convertible senior notes (and up to an additional $50 million aggregate principal amount based on potential exercise by the initial purchasers of an overallotment option) and to incur up to $2.075 billion in senior secured indebtedness under new credit facilities. See Note 9, Debt Obligations, to the consolidated financial statements.  
+
+At December 31, 2007, none of our lenders were affiliated with Nasdaq, except to the extent, if any, that SLP would be deemed an affiliate of Nasdaq due to its ownership of the $118.6 million aggregate principal amount of the 3.75% convertible notes and associated warrants and representation on our board of directors.  
+
+Credit Facilities  
+
+On September 28, 2007, Nasdaq used $1.1 billion of the proceeds from the sale of the share capital of the LSE to repay in full and terminate the credit facilities. See Note 7, Investments, and Note 9, Debt Obligations, to the consolidated financial statements for further discussion of the sale of the share capital of the LSE and repayment in full of the credit facilities.  
+
+58  
+
+Table of Contents 
+
+Broker Dealer Net Capital Requirements  
+
+Our broker-dealer subsidiaries, Nasdaq Execution Services, LLC and NASDAQ Options Services, LLC, are subject to regulatory requirements intended to ensure their general financial soundness and liquidity, which require that they comply with minimum capital requirements. At December 31, 2007, Nasdaq Execution Services was required to maintain minimum net capital of $0.3 million and had total net capital of approximately $18.9 million or $18.6 million in excess of the minimum amount required. At December 31, 2007, NASDAQ Options Services was also required to maintain minimum net capital of $0.3 million and had total net capital of approximately $4.7 million or $4.4 million in excess of the minimum amount required.  
+
+Quantitative and Qualitative Disclosures About Market Risk  
+
+Investments  
+
+We may maintain an investment portfolio of various holdings, types, and maturities. At December 31, 2007, we did not have any investments in available-for-sale securities. For investments classified as available-for-sale securities as of December 31, 2006, see Note 7, Investments, to the consolidated financial statements for further discussion. These securities are recorded in the Consolidated Balance Sheets at fair value with unrealized gains or losses, including foreign currency fluctuations, reported as a separate component of accumulated other comprehensive income, net of tax where applicable.  
+
+Nasdaq and its subsidiaries adhere to an investment policy approved by The Nasdaq Board of Directors for internally and externally managed portfolios. The goal of the policy is to maintain adequate liquidity at all times and to fund current budgeted operating and capital requirements and to maximize returns. All securities must meet credit rating standards as established by the policy and must be denominated in subsidiary specific currencies. The investment portfolio duration must not exceed 18 months. The policy prohibits the purchasing of any investment in equity securities, except for any purchases required by the SEC or for regulatory purposes. The policy also prohibits any investment in debt interest in an entity that derives more than 25.0% of its gross revenue from the combined broker-dealer and/or investment advisory businesses of all of its subsidiaries and affiliates. Nasdaqs investment policy is reviewed annually and was re-approved by the Board on February 6, 2008. Nasdaq also periodically reviews its investments and investment managers. Our purchase of the LSE equity securities was not part of the scope of our investment policy. Our Board of Directors separately approved our investment in the LSE.  
+
+We regularly monitor and evaluate the realizable value of our investment security portfolio. When assessing securities for other-than-temporary declines in value, we consider such factors as, among other things, the duration for which the market value had been less than cost, any news that has been released specific to the investee, analyst coverage and the outlook for the overall industry in which the investee operates. There were no impairment charges recorded on our investments during the years ended December 31, 2007, 2006 and 2005.  
+
+As of December 31, 2007, there were no hedges on our investments. However we periodically re-evaluate our hedging policies and may choose to enter into future transactions. Nasdaq does not currently hedge any variable interest rates on our investments.  
+
+Fixed Income Securities  
+
+As of December 31, 2007, there were no fixed income securities. Our primary investment objective for fixed income securities is to preserve principal while maximizing yields, without significantly increasing risk. These securities are subject to interest rate risk and their fair values may fluctuate with changes in interest rates. However, management does not believe that a 100 basis point fluctuation in market interest rates would have had a material effect on the carrying value of our fixed income securities during the year ended December 31, 2007.  
+
+59  
+
+Table of Contents 
+
+Investment in the LSE  
+
+On September 25, 2007, Nasdaq, through NAL, completed the sale of the shares at that time representing 28.0% of the share capital of the LSE to Borse Dubai for $1.6 billion in cash. On September 26, 2007, we sold the remaining substantial balance of our holdings in the LSE in open market transactions for approximately $193.5 million in cash. Total proceeds from these sales were $1.8 billion. As a result of these sales, we recognized a $431.4 million pre-tax gain which is net of $18.0 million of costs directly related to the sales, primarily broker fees. The cost of this investment was approximately GBP 736.5 million, or $1,334.8 million. This investment was accounted for under SFAS 115 with any unrealized gains or losses, including foreign currency fluctuations, recorded as a separate component of accumulated other comprehensive income, net of tax until sold.  
+
+We had purchased foreign currency option contracts in order to hedge the foreign exchange exposure on our acquisition bid for the LSE. This position was marked-to-market at each reporting period resulting in gains and losses, which are included in net income. As of December 31, 2006, the gain recorded in the Consolidated Statements of Income was $48.4 million. In conjunction with the lapse of our final offers for the LSE, we traded out of these foreign exchange contracts in February 2007. Due to the improving exchange rate of the dollar when compared to the pound sterling, we recorded a loss of approximately $7.8 million on these foreign currency option contracts in first quarter of 2007 results. The cumulative realized pre-tax gain on the foreign currency option contracts was approximately $40.6 million. See Note 16, Fair Value of Financial Instruments, to the consolidated financial statements for further discussion.  
+
+Debt Obligations  
+
+At December 31, 2007, our 3.75% convertible notes specify a fixed interest rate until October 22, 2012. However, due to the stock appreciation on the convertible option feature from $14.50 at the time of issuance to $49.49 at December 31, 2007, the fair value of Nasdaqs convertible notes exceeds its carrying value.  
+
+In 2007, Nasdaq did not hedge any variable interest rates on our debt obligations. However we periodically reevaluate our hedging policies and may choose to enter into future transactions.  
+
+Credit Risk  
+
+We are exposed to credit risk from third parties, including customers, counterparties and clearing agents. These parties may default on their obligations to us due to bankruptcy, lack of liquidity, operational failure or other reasons. In particular, our subsidiary Nasdaq Execution Services may be exposed to credit risk, due to the default of trading counterparties, in connection with the clearing and routing services Nasdaq Execution Services provides for our trading customers.  
+
+System trades in Nasdaq-listed securities, NYSE-listed securities and trades routed to other market centers for Exchange members are cleared by Nasdaq Execution Services, as a member of the NSCC.  
+
+Pursuant to the rules of the NSCC and Nasdaq Execution Services clearing agreement, Nasdaq Execution Services is liable for any losses incurred due to counterparty or a clearing agents failure to satisfy its contractual obligations, either by making payment or delivering securities. Adverse movements in the prices of securities that are subject to these transactions can increase our credit risk. However, we believe that the risk of material loss is limited, as Nasdaq Execution Services customers are not permitted to trade on margin and NSCC rules limit counterparty risk on self-cleared transactions by establishing credit limit and capital deposit requirements for all brokers that clear with NSCC. Nasdaq Execution Services has never incurred a liability due to a customers failure to satisfy its contractual obligations as counterparty to a system trade. Credit difficulties or insolvency or the perceived possibility of credit difficulties or insolvency of one or more larger or visible market participants could also result in market-wide credit difficulties or other market disruptions. We also have credit risk related to transaction fees that are billed to customers on a monthly basis, in arrears. Our potential exposure to credit losses on these transactions is represented by the receivable balances in our Consolidated Balance Sheets. Our customers are financial institutions whose ability to satisfy their contractual obligations may be   
+
+60  
+
+Table of Contents 
+
+ impacted by volatile securities markets. Credit losses such as those described above could adversely affect our consolidated financial position and results of operations.  
+
+Contractual Obligations and Contingent Commitments  
+
+Nasdaq has contractual obligations to make future payments under debt obligations by contract maturity, minimum rental commitments under non-cancelable operating leases, net and other obligations. The following table shows these contractual obligations at December 31, 2007:  
+
+  [DATA_TABLE_REMOVED] 
+
+  (1)  Debt obligations include interest payable of $4.5 million for each year, totaling $22.5 million by contract maturity. The interest payable was calculated on a 360 day basis at the contractual fixed rate of 3.75% multiplied by the remaining aggregate principal amount of $120.1 million at December 31, 2007.  
+
+  (2)  Other obligations includes interest payable of $0.4 million in 2008.  
+
+In addition to the above obligations, in 2007 we entered into definitive agreements to combine with OMX and acquire 33 1/3% of the equity of DIFX and acquire PHLX and BSX. We intend to close the OMX and DIFX transactions by the end of February 2008. The acquisitions of PHLX and BSX are expected to close in the first half of 2008. See Combination with OMX and Transaction with Borse Dubai, Proposed Acquisition of the Boston Stock Exchange, and Proposed Acquisition of the Philadelphia Stock Exchange, of Note 19, Commitments, Contingencies and Guarantee, to the consolidated financial statements for further discussion.  
+
+Off-Balance Sheet Arrangements  
+
+In connection with our registration as a national securities exchange, we completed an internal reorganization in November 2006. As part of the reorganization, The NASDAQ Stock Market, LLC assumed Nasdaqs obligations under the 3.75% convertible notes due October 22, 2012 and the related indenture. Nasdaq guarantees the obligations of the Exchange under the indenture. In the fourth quarter of 2007, $324.9 million of the $445.0 million convertible notes were converted from debt to equity. The Exchange continues to assume Nasdaqs obligation under the remaining aggregate principal amount of $120.1 million. See Obligations under Guarantee, of Note 19, Commitments, Contingencies and Guarantee, and Note 9, Debt Obligations, to the consolidated financial statements for further discussion.  
+
+Nasdaq did not have any other off-balance sheet arrangements as of December 31, 2007.  
+
+Critical Accounting Policies  
+
+The following provides information about our critical accounting policies. Critical accounting policies are defined as those that are reflective of significant judgments and uncertainties, and potentially result in materially different results under different assumptions and conditions. These policies relate to revenue recognition and cost of revenues, reserve for bad debts, valuation of goodwill and intangible assets, income taxes and software costs. For a summary of our significant accounting policies, including the accounting policies discussed below, see Note 2, Summary of Significant Accounting Policies, to the consolidated financial statements for further discussion.  
+
+61  
+
+Table of Contents 
+
+Revenue Recognition and Cost of Revenues. Market Services revenues (88.3% of total revenues and 65.0% of total revenues less liquidity rebates, brokerage, clearance and exchange fees in 2007) are derived from The Nasdaq Market Center and Nasdaq Market Services Subscriptions revenues. The Nasdaq Market Center revenues are variable, based on service volumes, and recognized as transactions occur. Nasdaq Market Services Subscriptions revenues are based on the number of presentation devices in service and quotes delivered through those devices. Nasdaq Market Services Subscriptions revenues are recognized in the month that information is provided. These revenues are recorded net of amounts due under revenue sharing arrangements with market participants. Pursuant to EITF 99-19, we record execution revenues from transactions on a gross basis in revenues and record related expenses such as liquidity rebate payments and execution costs as cost of revenues. We have recorded execution revenues related to the Brut and INET platforms on a gross basis since the related acquisitions, as Brut and INET have historically had risk as principal on transactions executed through their respective platforms. On February 1, 2006, Brut and INET merged together into a single broker-dealer, Brut, LLC, which was later renamed, Nasdaq Execution Services. All routed transactions are executed through Nasdaq Execution Services. Nasdaq Execution Services is registered with the SEC as a broker-dealer. Nasdaq Execution Services, as a broker-dealer, acts as principal to the transactions executed through The Nasdaq Market Center, which exposes Nasdaq Execution Services to clearance and settlement risk. Starting with the second quarter of 2005, we have reported execution revenues from transactions on our legacy Nasdaq platform on a gross basis in revenues and reported related expenses as cost of revenues, as we have certain risk associated with trade execution, subject to rule limitations and caps, as a result of our Limitation of Liability Rule. This change in presentation was implemented on a prospective basis beginning April 1, 2005 as required under U.S. GAAP, as a direct result of the rule change. Following our migration to a single trading platform, we continue to have execution risk on non-routed transactions that are conducted on our platform. We do not record a liability for any potential claims that may be submitted under the rule unless they meet the provisions of SFAS No. 5 Accounting for Contingencies, or SFAS 5. As such, losses arising as a result of the rule are accrued and charged to expense only if the loss is probable and estimable. Prior to the second quarter of 2005, execution revenues and the related expenses were recorded on a net basis as we did not act on a principal basis on any trades executed through our systems. In addition, under FINRA Rule 4705, we historically disclaimed any liability for losses arising from malfunctions of The Nasdaq Market Center. This rule eliminated liability or risk of loss to us for system failures. We are required to pay Section 31 fees to the SEC for supervision and regulation of securities markets, which are included in cost of revenues. We pass these costs along to our customers through our execution revenues.  
+
+Issuer Services revenues (11.7% of total revenues and 35.0% of total revenues less liquidity rebates, brokerage, clearance and exchange fees in 2007) include Corporate Client Group revenues and Nasdaq Financial Products revenues. Corporate Client Group revenues include annual fees, initial listing fees and listing of additional shares fees. Annual fees are recognized ratably over the following 12-month period. Initial listing and listing of additional shares fees are recognized on a straight-line basis over estimated service periods, which are six and four years, respectively, based on our historical listing experience. Corporate Client Group revenues also include Corporate Client services revenues, which includes our insurance business and shareholder, directors and newswire services. For our insurance business, commission income is recognized when coverage becomes effective, the premium due under the policy is known or can be reasonably estimated, and substantially all required services related to placing the insurance have been provided. The effect on income of subsequent premium adjustments, including policy cancellations, is recorded when the adjustments are known. Fee income for services other than placement of insurance coverage is recognized as those services are provided. Broker commission adjustments and commissions on premiums billed directly by underwriters are recognized when such amounts can be reasonably estimated. Shareholder.com revenues are based on subscription agreements with customers. Revenues from subscription agreements are recognized ratably over the contract period, generally one year in length. As part of subscription services, customers are also charged usage fees based upon actual usage of the services provided. Revenues from usage fees and other services are recognized when earned. PrimeNewswire generates fees primarily from wire distribution services, and revenues are recognized as services are provided. Directors Desk revenues are based on subscriptions for online services for directors. Subscriptions are one year in length and revenues are recognized ratably over the year. For Nasdaq Financial Products revenues, we receive license fees for our trademark licenses that vary by product based on assets or number or underlying dollar value   
+
+62  
+
+Table of Contents 
+
+ of contracts issued. Nasdaq primarily has two types of license agreements, transaction-based licenses and asset-based licenses. Transaction-based licenses are generally renewable long-term agreements. Customers are charged based on transaction volume or a minimum contract amount, or both. If a customer is charged based on transaction volume, Nasdaq recognizes revenue when the transaction occurs. If a customer is charged based on a minimum contract amount, Nasdaq recognizes revenue on a pro-rata basis over the licensing term. Asset-based licenses are also generally long-term agreements. Customers are charged based on a percentage of assets under management for licensed products, per the agreement, on a monthly or quarterly basis. These revenues are recorded on a monthly or quarterly basis over the term of the license agreement.  
+
+Reserve for Bad Debts. The reserve for bad debts is maintained at a level that management believes to be sufficient to absorb estimated losses in the accounts receivable portfolio. The reserve is increased by the provision for bad debts which is charged against operating results and decreased by the amount of charge-offs, net of recoveries. The amount charged against operating results is based on several factors including, but not limited to, a continuous assessment of the collectibility of each account, the length of time a receivable is past due and our historical experience with the particular customer. In circumstances where a specific customers inability to meet its financial obligations is known (i.e., bankruptcy filings), we record a specific provision for bad debts against amounts due to reduce the receivable to the amount we reasonably believe will be collected. Due to changing economic, business and market conditions, we review the reserve for bad debts monthly and make changes to the reserve through the provision for bad debts as appropriate. If circumstances change (i.e., higher than expected defaults or an unexpected material adverse change in a major customers ability to pay), our estimates of recoverability could be reduced by a material amount.  
+
+Valuation of Goodwill and Intangible Assets. Our business acquisitions typically result in the recording of goodwill and other intangible assets, and the recorded values of those assets may become impaired in the future. As of December 31, 2007, goodwill totaled approximately $980.7 million and intangible assets, net of accumulated amortization, totaled approximately $181.6 million. The determination of the value of such goodwill and intangible assets requires management to make estimates and assumptions that affect our consolidated financial statements. We assess potential impairments to goodwill and intangible assets when there is evidence that events or changes in circumstances indicate that the carrying amount of an asset may not be recovered. Our judgments regarding the existence of impairment indicators and future cash flows related to goodwill and intangible assets are based on operational performance of our acquired businesses, market conditions and other factors. Although there are inherent uncertainties in this assessment process, the estimates and assumptions we use are consistent with our internal planning. If these estimates or their related assumptions change in the future, we may be required to record an impairment charge on all or a portion of our goodwill and intangible assets. For goodwill, if the fair value of the reporting unit is less than its carrying value, an impairment loss is recorded to the extent that the fair value of the goodwill is less than the carrying value. For indefinite-lived intangible assets, impairment exists if the carrying value of the intangible asset exceeds its fair value. For intangible assets subject to amortization, impairment is recognized if the carrying amount is not recoverable and the carrying amount exceeds the fair value of the intangible asset. In addition, for goodwill and indefinite-lived intangible assets, we are required to test for impairment at the reporting unit level annually.  
+
+Income Taxes. Estimates and judgments are required in the calculation of certain tax liabilities and in the determination of the recoverability of certain deferred tax assets, which arise from net operating loss carryforwards, tax credit carryforwards and temporary differences between the tax and financial statement recognition of revenue and expense. SFAS No. 109, Accounting for Income Taxes, or SFAS 109, requires that deferred tax assets be reduced by a valuation allowance, if it is more likely than not that some portion or all of the recorded deferred tax assets will not be realized in future periods. We adopted the provisions of FIN 48, on January 1, 2007.  
+
+In assessing the need for a valuation allowance, we consider all available evidence including past operating results, the existence of cumulative losses in the most recent fiscal years, estimates of future taxable income and the feasibility of tax planning strategies. In the event that we change our determination as to the amount of   
+
+63  
+
+Table of Contents 
+
+ deferred tax assets that can be realized, we will adjust our valuation allowance with a corresponding impact to the provision for income taxes in the period in which such determination is made.  
+
+In addition, the calculation of our tax liabilities involves uncertainties in the application of tax regulations in the U.S. and other tax jurisdictions. We recognize potential liabilities for anticipated tax audit issues in such jurisdictions based on our estimate of whether, and the extent to which, additional taxes and interest may be due. While we believe that our tax liabilities reflect the probable outcome of identified tax uncertainties, it is reasonably possible that the ultimate resolution of any tax matter may be greater or less than the amount accrued. If events occur and the payment of these amounts ultimately proves unnecessary, the reversal of the liabilities would result in tax benefits being recognized in the period when we determine the liabilities are no longer necessary. If our estimate of tax liabilities proves to be less than the ultimate assessment, a further charge to expense would result.  
+
+Software Costs. We capitalize and amortize significant purchased application software and operational software that are an integral part of computer hardware on the straight-line method over their estimated useful lives, generally two to five years. We expense other purchased software as incurred.  
+
+Nasdaq uses Statement of Position 98-1, Accounting for the Costs of Computer Software Developed or Obtained for Internal Use, or SOP 98-1, for accounting for internally developed software. SOP 98-1 requires that certain costs incurred in connection with developing or obtaining internal use software be capitalized. We capitalize internal and third party costs incurred in connection with the development of internal use software.  
+
+Recently Adopted Accounting Pronouncements  
+
+FIN 48In June 2006, the FASB issued FIN 48, which clarifies the accounting for income taxes by prescribing a minimum recognition threshold that a tax position is required to meet before being recognized in the financial statements. FIN 48 also provides guidance on derecognition, measurement, classification, interest and penalties, accounting in interim periods, disclosure and transition. We adopted the provisions of FIN 48 on January 1, 2007. For discussion on the implementation of FIN 48, see Income Taxes.  
+
+SFAS No. 157In September 2006, the FASB issued SFAS No. 157, Fair Value Measurements, or SFAS 157. SFAS 157 defines fair value, establishes a framework for measuring fair value and expands disclosures about fair value measurements. SFAS 157 was effective for us on January 1, 2008. The adoption of SFAS 157 did not have a material impact on our consolidated financial position or results of operations.  
+
+SFAS No. 158In September 2006, the FASB also issued SFAS No. 158, Employers Accounting for Defined Benefit Pension and Other Postretirement Plans- an amendment of FASB Statements No. 87, 88, 106 and 132(R), or SFAS 158. We adopted the recognition and disclosure requirements under SFAS 158 as of December 31, 2006. See Note 11, Employee Benefits, to the consolidated financial statements for further discussion. SFAS 158 also requires plan assets and obligations to be measured as of the employers balance sheet date. While the new measurement date is effective for us on December 31, 2008, we are in compliance with the measurement date provision.  
+
+SFAS No. 159In February 2007, the FASB issued SFAS No. 159, The Fair Value Option for Financial Assets and Financial Liabilities, or SFAS 159. SFAS 159 allows entities to voluntarily choose, at specified election dates, to measure many financial assets and financial liabilities at fair value (the fair value option). SFAS 159 is expected to expand the use of fair value accounting but does not affect existing standards which require certain assets or liabilities to be carried at fair value. SFAS 159 provides an option for most financial assets and liabilities to be reported at fair value on an instrument-by-instrument basis with changes in fair value reported in earnings. After the initial adoption, the election is made at the acquisition of a financial asset, financial liability, or a firm commitment and it may not be revoked. SFAS 159 provides an opportunity to mitigate volatility in reported earnings that was caused by measuring hedged assets and liabilities that were previously required to use an accounting method other than fair value, while the related economic hedges were reported at fair value. SFAS 159 was effective for us on January 1, 2008. The adoption of SFAS 159 did not have a material impact on our consolidated financial position or results of operations.  
+
+64  
+
+Table of Contents 
+
+Recently Issued Accounting Pronouncements  
+
+SFAS No. 141(R) and SFAS No. 160In December 2007, the FASB issued SFAS No. 141 (revised 2007), Business Combinations, or SFAS 141(R), which revised SFAS 141, Business Combinations and also issued SFAS No. 160, Noncontrolling Interests in Consolidated Financial Statements, an amendment of ARB No. 51, or SFAS 160.  
+
+SFAS 141(R) will significantly change how business acquisitions are accounted for and will impact financial statements both on the acquisition date and in subsequent periods. SFAS 141(R) will require:  
+
+       more assets acquired and liabilities assumed to be measured at fair value as of the acquisition date;  
+
+       liabilities related to contingent consideration to be remeasured at fair value in each subsequent reporting period; and  
+
+       an acquirer to expense acquisition-related costs (e.g., deal fees for attorneys, accountants, investment bankers).  
+
+SFAS 160 will change the accounting and reporting for minority interests, which will be recharacterized as noncontrolling interests and classified as a component of equity.  
+
+SFAS 141(R) and SFAS 160 are effective for Nasdaq on January 1, 2009. SFAS 141(R) will be applied prospectively. SFAS 160 requires retroactive adoption of the presentation and disclosure requirements for existing minority interests. All other requirements of SFAS 160 shall be applied prospectively. Early adoption is prohibited for both standards.  
+
+Summarized Quarterly Financial Data (Unaudited)  
+
+  [DATA_TABLE_REMOVED] 
+
+65  
+
+Table of Contents 
+
+ Item 7A. Quantitative and Qualitative Disclosures About Market Risk.

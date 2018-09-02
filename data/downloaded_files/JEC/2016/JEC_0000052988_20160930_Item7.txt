@@ -1,0 +1,353 @@
+Item 7.  
+
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+Critical Accounting Policies and Estimates 
+
+In order to understand better the changes that occur to key elements of our financial condition, results of operations, and cash flows, a reader of this Management’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”) should be aware of the critical accounting policies we apply in preparing our consolidated financial statements. 
+
+The consolidated financial statements contained in this report were prepared in accordance with U.S. GAAP. The preparation of our consolidated financial statements and the financial statements of any business performing long-term engineering and construction-type contracts requires management to make certain estimates and judgments that affect both the entity’s results of operations and the carrying values of its assets and liabilities. Although our significant accounting policies are described in Note 2 – Significant Accounting Policies of Notes to Consolidated Financial Statements beginning on page F-1 of this Annual Report on Form 10-K, the following discussion is intended to highlight and describe those accounting policies that are especially critical to the preparation of our consolidated financial statements. 
+
+Revenue Accounting for Contracts and Use of Joint Ventures —In general, we recognize revenues at the time we provide services. Depending on the commercial terms of the contract, we recognize revenues either when costs are incurred, or using the percentage-of-completion method of accounting by relating contract costs incurred to date to the total estimated costs at completion. This method of revenue recognition requires us to prepare estimates of costs to complete contracts in progress as of the balance sheet dates. In making such estimates, judgments are required to evaluate the possible effects of variances in schedule, the costs of materials and labor, productivity, and the impact of change orders, claims, contract disputes, and achievement of contractual performance standards. Many of our engineering and construction contracts provide for reimbursement of costs plus a fixed or percentage fee. For contracts containing incentive fee arrangements, fees are frequently based on achievement of target completion dates, target costs, and/or other performance criteria. Failure to meet these targets or increases in contract costs can result in unrealized incentive fees or non-recoverable costs, which could exceed revenues recognized from the project. 
+
+We provide for contract losses in their entirety in the period they become known without regard to the percentage of completion. For multiple contracts with a single customer, we account for each contract separately. 
+
+The nature of our business sometimes results in clients, subcontractors or vendors presenting claims to us for recovery of costs they incurred in excess of what they expected to incur, or for which they believe they are not contractually responsible. In those situations where a claim against us may result in additional costs to the contract, we include in the total estimated costs of the contract (and therefore, the estimated amount of margin to be earned under the contract) an estimate, based on all relevant facts and circumstances available, of the additional costs to be incurred. Similarly, and in the normal course of business, we may present claims to our clients for costs we have incurred for which we believe we are not contractually responsible. In those situations where we have presented such claims to our clients, we include in revenues the amount of costs incurred, without profit, to the extent it is probable that the claims will result in additional contract revenue, and the amount of such additional revenue can be reliably estimated. Costs associated with unapproved change orders are included in revenues using substantially the same criteria used for claims. 
+
+Certain cost-reimbursable contracts with government customers as well as many commercial clients provide that contract costs are subject to audit and adjustment. In this situation, revenues are recorded at the time services are performed based upon the amounts we expect to realize upon completion of the contracts. In those situations where an audit indicates that we may have billed a client for costs that are not allowable under the terms of the contract, we estimate the amount of such nonbillable costs and adjust our revenues accordingly. 
+
+As is common to the industry, we execute certain contracts jointly with third parties through various forms of joint ventures and consortiums. Although the joint ventures own and hold the contracts with the clients, the services required by the contracts are typically performed by us and our joint venture partners, or by other subcontractors under subcontracting agreements with the joint ventures. The assets of our joint ventures, therefore, consist almost entirely of cash and receivables (representing amounts due from clients), and the liabilities of our joint ventures consist almost entirely of amounts due to the joint venture partners (for services provided by the partners to the joint ventures under their individual subcontracts) and other subcontractors. In general, at any given time, the equity of our joint ventures represents the undistributed profits earned on contracts the joint ventures hold with clients. Very few of our joint ventures have employees. None of our joint ventures have third-party debt or credit facilities. Our joint ventures, therefore, are simply mechanisms used to deliver engineering and construction services to clients. Generally they do not, in and of themselves, present any risk of loss to us or to our partners  
+
+Page 36 
+
+separate from those that we would carry if we were performing the contract on our own. We may, however, be exposed to additional risk through the use of joint ventures. See Item 1A – Risk Factors above. Under U.S. GAAP, our share of losses associated with the contracts held by the joint ventures, if and when they occur, has always been reflected in our Consolidated Financial Statements. 
+
+In evaluating the Company's joint ventures (also referred to as "variable interest entities", or "VIEs") for accounting and consolidation purposes, we perform a qualitative analysis to determine whether or not the Company has a “controlling financial interest” in the VIE. The Company is deemed to have a controlling financial interest in a VIE if it has (i) the power to direct the activities of the VIE that most significantly impact the VIE's economic performance; and (ii) the right to receive benefits, or obligation to absorb losses, that could potentially be significant to the VIE. In making our qualitative analysis, the Company assesses each VIE to determine those activities that most significantly impact the VIE's economic performance and whether the Company, another entity, or multiple entities have the power to direct those activities. 
+
+If we determine that we have the power to direct those activities of the VIE that most significantly impact its financial performance and have the right or obligation to receive benefits or absorb losses that could potentially be significant to the VIE, then we are the primary beneficiary of the VIE and we consolidate the VIE. If we determine that we do not have the power to direct the most significant activities of the VIE or power is shared by two or more unrelated parties, then we are not the primary beneficiary and we do not consolidate the VIE. 
+
+For the Company's unconsolidated joint ventures, we use either the equity method of accounting or proportional consolidation. The Company does not currently participate in any significant VIEs in which it has a controlling financial interest. There were no changes in facts and circumstances in the period that caused the Company to reassess the method of accounting for its VIEs. 
+
+Accounting for Stock Issued to Employees and Others — We measure the cost of employee services received in exchange for an award of equity instruments based on the estimated grant-date fair value of the award. We estimate the fair value of stock options granted to employees and directors using the Black-Scholes option-pricing model. Like all option-pricing models, the Black-Scholes model requires the use of subjective assumptions including (i) the expected volatility of the market price of the underlying stock, and (ii) the expected term of the award, among others. Accordingly, changes in assumptions and any subsequent adjustments to those assumptions can cause different fair values to be assigned to our stock option awards. For restricted stock units containing service and performance conditions with measures external to the Company, compensation expense is based on the fair value of such units determined using Monte Carlo Simulations. 
+
+Accounting for Pension Plans — the accounting for pension plans requires the use of assumptions and estimates in order to calculate periodic pension cost and the value of the plans’ assets and liabilities. These assumptions include discount rates, investment returns, and projected salary increases, among others. The actuarial assumptions used in determining the funded statuses of the plans are provided in Note 7 – Pension Plans of Notes to Consolidated Financial Statements beginning on page F-1 of this Annual Report on Form 10-K. 
+
+The expected rates of return on plan assets for fiscal 2017 range from 3.5% to 8.5% compared to 3.5% to 8.5% for the prior year. We believe the range of rates selected for fiscal 2017 reflects the long-term returns expected on the plans’ assets, considering recent market conditions, projected rates of inflation, the diversification of the plans’ assets, and the expected real rates of market returns. The discount rates used to compute plan liabilities were changed from a range of 1.6% to 7.8% in fiscal 2015 to a range of 0.7% to 7.0% in fiscal 2016. These assumptions represent the Company’s best estimate of the rates at which its pension obligations could be effectively settled. 
+
+Changes in the actuarial assumptions often have a material effect on the values assigned to plan assets and liabilities, and the associated pension expense. For example, if the discount rate used to value the net pension benefit obligation (“PBO”) at September 30, 2016, was higher (lower) by 0.5%, the PBO would have been lower (higher) at that date by approximately $124.4 million for non-U.S. plans, and by approximately $9.1 million for U.S. plans. If the expected return on plan assets was higher (lower) by 1.0%, the net periodic pension cost for fiscal 2017 would be lower (higher) by approximately $10.0 million for non-U.S. plans, and by approximately $1.3 million for U.S. plans. Differences between actuarial assumptions and actual performance (i.e., actuarial gains and losses) that are not recognized as a component of net periodic pension cost in the period in which such differences arise are recorded to accumulated other comprehensive income (loss) and are recognized as part of net periodic pension cost in future periods in accordance with U.S. GAAP. Management monitors trends in the marketplace within which our pension plans operate in an effort to assure the fairness of the actuarial assumptions used. 
+
+Page 37 
+
+Contractual Guarantees, Litigation, Investigations, and Insurance — In the normal course of business, we are subject to certain contractual guarantees and litigation. The guarantees to which we are a party generally relate to project schedules and plant performance. Most of the litigation in which we are involved has us as a defendant in workers’ compensation; personal injury; environmental; employment/labor; professional liability; and other similar lawsuits. We maintain insurance coverage for various aspects of our business and operations. We have elected, however, to retain a portion of losses that occur through the use of various deductibles, limits, and retentions under our insurance programs. This situation may subject us to some future liability for which we are only partially insured, or completely uninsured, and we intend to mitigate any such future liability by continuing to exercise prudent business judgment in negotiating the terms and conditions of our contracts. 
+
+In accordance with U.S. GAAP, we record in our Consolidated Balance Sheets amounts representing our estimated liability relating to such guarantees, litigation, and insurance claims. We include any adjustments to such liabilities in our consolidated results of operations. 
+
+In addition, as a contractor providing services to the U.S. federal government and several of its agencies, we are subject to many levels of audits, investigations, and claims by, or on behalf of, the U.S. federal government with respect to contract performance, pricing, costs, cost allocations, and procurement practices. We adjust revenues based upon the amounts we expect to realize considering the effects of any client audits or governmental investigations. 
+
+Testing Goodwill for Possible Impairment — The goodwill carried on our Consolidated Balance Sheets is tested annually for possible impairment. In performing the annual impairment test, we evaluate our goodwill at the reporting unit level. The Company performs the annual goodwill impairment test for the reporting units at the end of the third quarter of our fiscal year. The Company will test goodwill for impairment between annual tests if an event occurs or circumstances change that would more likely than not reduce the fair value of a reporting unit below its carrying amount. 
+
+During the second quarter of fiscal 2016, we reorganized our operations around four global lines of business. The four global lines, which represent our reporting units, are: Petroleum & Chemicals, Buildings & Infrastructure, Aerospace & Technology, and Industrial. Previously, the Company had two reporting units “Europe” and “Non-Europe”. 
+
+In conjunction with the aforementioned reorganization, we performed a quantitative impairment test and we allocated goodwill among our new reporting units based on the relative fair value of the four reporting units. As a result, in the second quarter of fiscal 2016, we performed a quantitative assessment of goodwill for each of the Company’s reporting units (both immediately before and after the reorganization). Based on this quantitative assessment, the fair value of each of the reporting units (pre and post reorganization) exceeded their respective net book values, and accordingly, no impairment charge was necessary as a result of the reorganization. 
+
+U.S. GAAP does not prescribe a specific valuation method for estimating the fair value of reporting units. The valuation technique used to estimate the fair value of the reporting units requires the use of significant estimates and assumptions, including revenue growth rates, operating margins, discount rates and future market conditions, among others. 
+
+We used both an income approach and a market approach to test our goodwill for possible impairment. Such approaches require us to make estimates and judgments. Under the income approach, fair value is determined by using the discounted cash flows of our reporting units. The Company’s discount rate reflects a weighted average cost of capital (“WACC”) for a peer group of companies representative of the Company’s respective reporting units. Under the market approach, the fair value of our reporting units is determined by reference to guideline companies that are reasonably comparable to our reporting units; the fair values are estimated based on the valuation multiples of the invested capital associated with the guideline companies. In assessing whether there is an indication that the carrying value of goodwill has been impaired, we utilize the results of both valuation techniques and consider the range of fair values indicated. The fair values for each reporting unit exceeded the respective book values ranging from 28% to 90%. 
+
+It is possible that changes in market conditions, economy, facts and circumstances, judgments, and assumptions used in estimating the fair value could change, resulting in possible impairment of goodwill in the future. The fair values resulting from the valuation techniques used are not necessarily representative of the values we might obtain in a sale of the reporting units to willing third parties. 
+
+In performing the Company’s annual impairment test as of the end of the third quarter of fiscal 2016 the Company performed a qualitative assessment, and determined that it was more likely than not that the fair value of its reporting units exceeded their carrying amounts. As a result, the Company is not required to proceed to a quantitative impairment assessment.  
+
+Page 38 
+
+ We have determined that the fair value of our reporting units substantially exceeded their respective carrying values for the Balance Sheets presented. 
+
+Fiscal 2016 
+
+During the second quarter of fiscal 2016, we reorganized our operating and reporting structure around four lines of business (“LOB”). This reorganization is intended to better serve our global clients, leverage our workforce, help streamline operations, and provide enhanced growth opportunities. The four global LOBs are: Petroleum & Chemicals, Buildings & Infrastructure, Aerospace & Technology, and Industrial. Previously, the Company operated its business as a single segment. 
+
+ The 2015 Restructuring and Other Events Affecting Fiscal 2016 
+
+During the second quarter of fiscal 2015, the Company commenced a series of initiatives intended to improve operational efficiency, reduce costs, and better position itself to drive growth of the business in the future (the " 2015 Restructuring"). The 2015 Restructuring was not completed in fiscal 2015, and actions related to the 2015 Restructuring continued throughout fiscal 2016. Actions related to the 2015 Restructuring completed during the fiscal year include involuntary terminations, the abandonment of certain leased offices, combining operational organizations, and the co-location of employees into other existing offices. The Company's consolidated results of operations for fiscal 2016 include a $187.9 million pre-tax impact relating to costs associated with the 2015 Restructuring. The majority of the costs of the 2015 Restructuring are included in selling, general, and administrative expense in the accompanying Consolidated Statements of Earnings.  
+
+The Company previously announced on July 15, 2016 that it had sold its Jacobs France subsidiary. The sale is part of the Company’s strategy to streamline our overall operational efficiency in regions that fit within our target markets and geographies. The loss on the sale of our French subsidiary was $17.1 million, or $0.14 per diluted share. 
+
+ In addition to the 2015 Restructuring and the sale of our French subsidiary, the Company’s consolidated results of operations for fiscal 2016 also include a non-cash write-off on an equity investment of $10.4 million, or $0.09 per share. The write off of the equity investment and the loss on sale of our French subsidiary are included in Loss on Disposal of Business and Investments on the Consolidated Statements of Earnings. 
+
+The following table summarizes the effects of the 2015 Restructuring and other events on the Company's consolidated results of operations for fiscal 2016 and fiscal 2015 (in thousands, except for earnings per share): 
+
+ [DATA_TABLE_REMOVED] 
+
+Page 39 
+
+ [DATA_TABLE_REMOVED] 
+
+ The 2015 Inter-company Debt Refinancing 
+
+During the third quarter of fiscal 2015, the Company completed the refinancing of certain international inter-company debt (the "2015 Inter-company Debt Refinancing"). The 2015 Inter-company Debt Refinancing resulted in a one-time tax benefit of $23.1 million, or $0.18 per share. 
+
+ 2016 Overview 
+
+The Company's GAAP net earnings for fiscal 2016 decreased by $92.5 million, or 30.5%, when compared to fiscal 2015. The Company’s results for fiscal 2016 when compared to the prior year were negatively impacted by the 2015 Restructuring, the loss on sale of our French subsidiary of $17.1 million, and the non-cash write-off on an equity investment of $10.4 million mentioned above. Excluding the effects of the 2015 Restructuring and these other events, the Company's adjusted net earnings for fiscal 2016 decreased by $37.3 million, or 9.1%, compared to the prior year. 
+
+Also influencing the comparability of the Company’s fiscal 2016 consolidated results to fiscal 2015 were (i) a $0.09 per diluted share tax benefit related to an international tax matter recorded in first quarter of fiscal 2016; (ii) a $0.03 net benefit per diluted share benefit related to several items, including the release of a foreign tax reserve and a one-time benefit in noncontrolling interests relating to certain work performed by one of our partially owned subsidiaries; partially off-set by the impact of a customer bankruptcy and a litigation settlement in the second quarter of fiscal 2016; (iii) a one-time tax related and other items of $4.1 million, or $0.03 per share in the fourth quarter of fiscal 2016; and (iv) a one-time tax benefit of $23.1 million, or $0.18 per share related to the 2015 Inter-company Debt Refinancing recorded in the second quarter of fiscal 2015. 
+
+Backlog at September 30, 2016 was $18.8 billion, and is essentially flat year over year. Backlog remains near record levels despite the negative effects on backlog stemming from the effects of foreign exchange rate changes. New prospects and new sales remain strong and the Company continues to have a positive outlook for many of the industry groups and markets in which our clients operate. 
+
+During fiscal 2016, the Company repurchased and retired 3.4 million shares of its common stock under its share repurchase program. Total cash spent for the shares repurchased during fiscal 2016 was $152.5 million. As of October 2, 2015, the Company exhausted the $500 million approved by the Board of Directors on August 19, 2014. On July 23, 2015, the Board of Directors approved another program to purchase an additional $500 million of the Company's common stock over the next three years. At the end of fiscal 2016, $347.5 million remained available under the current plan. 
+
+ Business Combinations Completed Between Fiscal 2014 and Fiscal 2016 
+
+During fiscal year 2016, the Company acquired J.L. Patterson & Associates and The Van Dyke Technology Group, Inc. These acquisitions were not material to the Company’s consolidated results for fiscal 2016. 
+
+We also completed a number of other acquisitions during fiscal 2014 including Federal Network Systems LLC ("FNS", formerly a subsidiary of Verizon); Eagleton Engineering, LLC; FMHC Corporation; Stobbarts (Nuclear) Limited; Trompeter Enterprises; and MARMAC Field Services, Inc. The results of operations of these other acquisitions were not material, individually or in the aggregate, to the Company's consolidated results of operations for fiscal 2014. During fiscal 2014, we also acquired an additional 15% interest in Jacobs, Zamel and Turbag Consulting Engineers Company ("ZATE"). This transaction brought the Company's ownership in ZATE to 75%. 
+
+Page 40 
+
+Consistent with other business combinations we have completed in the past, we began integrating businesses we acquired last year into our existing operations almost immediately after each business was acquired. Accordingly, it is not practicable to provide complete financial information for fiscal 2016 on a stand-alone basis for any of the businesses we acquired last year. 
+
+ Results of Operations 
+
+During the second quarter of fiscal 2016, we reorganized our operating and reporting structure around four lines of business (“LOB”). This reorganization is intended to better serve our global clients, leverage our workforce, help streamline operations, and provide enhanced growth opportunities. The four global LOBs are: Petroleum & Chemicals, Buildings & Infrastructure, Aerospace & Technology, and Industrial, which are the Company’s reportable segments. Previously, the Company operated its business as a single segment. 
+
+ Reconciliation of Segment Operating Profit to Total Operating Profit 
+
+The following table reconciles segment operating profit to total operating profit by including certain corporate-level items (in thousands). 
+
+ [DATA_TABLE_REMOVED] 
+
+Included in “unallocated corporate items” in the above table are costs and expenses, which relate to general corporate activities as well as corporate-managed benefit and insurance programs. Such costs and expenses include: (i) those elements of SG&A expenses relating to the business as a whole; (ii) those elements of the Company’s cash and equity incentive plans relating to corporate personnel whose other compensation costs are not allocated to the LOBs; (iii) the amortization of intangible assets acquired as part of purchased business combinations; (iv) the quarterly variances between the Company’s actual costs of certain of its self-insured integrated risk and employee benefit programs and amounts charged to the LOBs; and (v) certain adjustments relating to costs associated with the Company’s international defined benefit pension plans. In addition, “unallocated corporate items” includes adjustments to contract margins (both positive and negative) associated with projects where it has been determined, in the opinion of management, that such adjustments are not indicative of the performance of the related LOB and therefore should not be attributed to the LOB. 
+
+ Segment Operating Results 
+
+In evaluating the Company’s performance by operating segment, the Chief Operating Decision Maker reviews various metrics and statistical data for each LOB but focuses primarily on revenues and operating profit. As discussed above, segment operating profit includes not only local SG&A expenses but also the SG&A expenses of the Company’s support groups that have been allocated to the segments. In addition, the Company allocates portions of the Company’s cash and equity incentive plans to the LOBs. The revenues of certain LOBs are more affected by pass-through revenues than other LOBs. The methods for recognizing revenue, incentive fees, project losses, and change orders are consistent among the LOBs. 
+
+Aerospace & Technology 
+
+ [DATA_TABLE_REMOVED] 
+
+Aerospace & Technology revenues for the fiscal year ended September 30, 2016 decreased $267.3 million, or 9.1%, to $2.7 billion from $2.9 billion in fiscal 2015. The decrease was due in part to some of our U.S. government customers’ shift to a small-business preference in contract awards, which was partially mitigated by stronger revenues in our U.K. nuclear and defense markets. 
+
+Page 41 
+
+Aerospace & Technology revenues for the year ended October 2, 2015 increased $618.3 million, or 26.8%, to $2.9 billion from $2.3 billion in fiscal 2014. The increase was primarily due to the FNS acquisition completed during the fourth quarter of fiscal 2014. 
+
+Operating profit for the year ended September 30, 2016 decreased $1.6 million, or 0.8% to $203.8 million from $205.4 million in fiscal 2015. The slight decrease in operating profit was due to lower volumes in fiscal 2016 described above but was mostly mitigated by improving our performance on fixed price contracts. Operating margin for fiscal 2016, improved to 7.7%, compared to 7.0%, respectively, in fiscal 2015. The improvement in operating margin was due to additional fees on our nuclear work for the U.K. government, the replacement of lower margin work with higher margin contracts and our continued focus on overall profitability. 
+
+Operating profit for the year ended October 2, 2015 increased $65.7 million, or 47.0% to $205.4 million from $139.7 million, in fiscal 2014. The increase in operating profit was due primarily to the acquisition described above and an increase in nuclear and defense work in the U.K. As a result, operating margin for the year ended October 2, 2015, improved to 7.0%, compared to 6.1%, in fiscal 2014.  
+
+Buildings & Infrastructure 
+
+ [DATA_TABLE_REMOVED] 
+
+Buildings & Infrastructure revenues for the year ended September 30, 2016 decreased $204.9 million, or 8.3%, to $2.3 billion from $2.5 billion in fiscal 2015. The decrease was primarily due to reduced U.S. and U.K. client spending in certain markets during fiscal 2016. 
+
+Buildings & Infrastructure revenues for the year ended October 2, 2015 decreased $246.8 million, or 9.1%, to $2.5 billion from $2.7 billion in fiscal 2014. The decrease was primarily due to the decline in our Energy and Power business in the Asia Pacific region. 
+
+Operating profit for the year ended September 30, 2016 increased $29.3 million, or 20.2%, from $145.3 million in fiscal 2015 to $174.6 million. Proactive cost control and restructuring efforts contributed to the increase in operating profit for fiscal 2016 as compared to the corresponding period last year. As a result, operating margin for fiscal 2016 improved to 7.8%, compared to 5.9%, in fiscal 2015. 
+
+Operating profit for the year ended October 2, 2015 decreased $19.1 million, or 11.6% to $145.3 million from $164.4 million in fiscal 2014. The decrease in operating profit was due to the decline in energy and power business. As a result, operating margin for the year ended October 2, 2015, declined to 5.9%, compared to 6.1%, in fiscal 2014. 
+
+Industrial 
+
+ [DATA_TABLE_REMOVED] 
+
+Industrial revenues for the year ended September 30, 2016 increased $276.1 million, or 11.0%, to $2.8 billion from $2.5 billion in fiscal 2015. The increase was primarily due to new Life Sciences projects offset by a decline in the Mining & Minerals business due to weak market conditions. 
+
+Industrial revenues for the year ended October 2, 2015 decreased $438.8 million, or 14.8%, to $2.5 billion from $3.0 billion in fiscal 2014. The decrease was primarily due to a decline in the Mining & Minerals and Field Services business due to weak market conditions. 
+
+Page 42 
+
+Operating profit for the year ended September 30, 2016 decreased $45.3 million, or 35.8% to $81.3 million from $126.5 million, in fiscal 2015. The decrease was due to the decline in the Mining & Minerals business and was caused primarily by a negotiated settlement of a project claim that occurred in the second quarter of fiscal 2015 combined with the negative effects of a litigation settlement affecting the second quarter of fiscal 2016 and a customer bankruptcy. These decreases were offset in part by the increases in the Life Sciences market and benefits associated with the 2015 Restructuring. Although driven by discrete items in each of the periods presented, the change in operating profit was negative. As a result, operating margin for fiscal 2016 declined to 2.9% from 5.0% for the corresponding period last year. 
+
+Operating profit for the year ended October 2, 2015 decreased $7.7 million, or 5.7% to $126.5 million from $134.2 million, in fiscal 2014. The decrease in operating profit was due to the decline in the Mining & Minerals business driven by lower revenues as a result of weak market conditions. Operating margin for the year ended October 2, 2015 increased to 5.0%, compared to 4.5%, in fiscal 2014. The decrease in operating margin was driven primarily by a better project mix in the Specialty Chemical & Manufacturing markets and lower pass through revenue in Field Services. 
+
+Petroleum & Chemicals 
+
+ [DATA_TABLE_REMOVED] 
+
+Petroleum & Chemicals revenues for the year ended September 30, 2016 decreased $954.6 million, or 22.7%, to $3.3 billion from $4.2 billion in fiscal 2015. Petroleum & Chemicals revenues for the year ended October 2, 2015 decreased $513.0 million, or 10.9%, to $4.2 billion from $4.7 billion in fiscal 2014. The decrease in both comparable annual periods was primarily due to lower business volume in the Oil & Gas market sector and to a lesser extent the Refining market sector, particularly in the Middle East and North America, as weak oil prices have significantly impacted client capital spending and delayed the pace of new contract awards. 
+
+Operating profit for the year ended September 30, 2016 decreased $11.7 million, or 8.5%, to $126.6 million from $138.4 million in fiscal 2015. The decrease in operating profit was due to lower volume in the Oil and Gas and Refining market sectors offset in part by significant savings from restructuring efforts and LOB structure efficiencies. A continued strong focus on cost reductions has partially mitigated the volume reduction impact on operating profit. As a result, operating margin for the year ended September 30, 2016 increased to 3.9% from 3.3% in fiscal 2015. 
+
+Operating profit for the year ended October 2, 2015 decreased $24.1 million, or 14.8% to $138.4 million from $162.5 million, in fiscal 2014. The decrease in operating profit was due to lower business volume partially offset by restructuring actions to lower the LOB cost structure. As a result, operating margin for the year ended October 2, 2015, declined to 3.3%, compared to 3.4% in fiscal 2014.  
+
+Consolidated Results 
+
+Fiscal 2016 Compared to Fiscal 2015 
+
+Direct costs of contracts decreased $1.0 billion, or 9.4%, from $10.1 billion during fiscal 2015 to $9.2 billion during fiscal 2016. Direct costs of contracts include all costs incurred in connection with and directly for the benefit of client contracts, including depreciation and amortization relating to assets used in connection with providing the services required by client projects. The level of direct costs of contracts may fluctuate between reporting periods due to a variety of factors including the amount of pass-through costs we incur during a period. On those projects where we are responsible for subcontract labor or third party materials and equipment, we reflect the amounts of such items in both revenues and costs (and we refer to such costs as “pass-through costs”). On other projects, where the client elects to pay for such items directly and we have no associated responsibility for such items, these amounts are not considered pass-through costs and are, therefore, not reflected in either revenues or costs. To the extent that we incur a significant amount of pass-through costs in a period, our direct cost of contracts are likely to increase as well. The decrease in direct costs of contracts between fiscal years 2015 and 2016 is primarily a result of the general decline in our business. 
+
+Pass-through costs decreased $112.7 million, or 4.3%, from $2.6 billion during fiscal 2015 to $2.5 billion for fiscal 2016. In general, pass-through costs are more significant on projects that have a higher content of field services activities.  
+
+Page 43 
+
+Pass-through costs are generally incurred at a specific point in the lifecycle of a project and are highly dependent on the needs of our individual clients and the nature of the clients’ projects. However, because we have hundreds of projects, which start at various times within a fiscal year, the effect of pass-through costs on the level of direct costs of contracts, can vary between fiscal years without there being a fundamental or significant change to the underlying business. 
+
+As a percentage of revenues, direct costs of contracts were 83.9% for fiscal 2016, compared to 83.8% for fiscal 2015. The relationship between direct costs of contracts and revenues will fluctuate between reporting periods depending on a variety of factors including the mix of business during the reporting periods being compared as well as the level of margins earned from the various types of services provided. Generally speaking, the more procurement we do on behalf of our clients (i.e., where we purchase equipment and materials for use on projects, and/or procure subcontracts in connection with projects) and the more field services revenues we have relative to technical, professional services revenues, the higher the ratio will be of direct costs of contracts to revenues. Because revenues from pass-through costs typically have lower margin rates associated with them, it is not unusual for us to experience an increase or decrease in such revenues without experiencing a corresponding increase or decrease in our gross margins and operating profit. The ratio of direct costs of contracts to revenues was flat over the prior year period. The Company experienced a slight decrease in margins in fiscal 2016 when compared to fiscal 2015. 
+
+Selling, general, and administrative ("SG&A") expenses for fiscal 2016 decreased by $93.6 million, or 6%, to $1.43 billion, compared to $1.52 billion for fiscal 2015. The decrease in SG&A expenses was primarily due to higher SG&A savings associated with the 2015 Restructuring. Excluding the effects of the 2015 Restructuring in both fiscal 2016 and 2015, adjusted SG&A expenses for fiscal 2016 decreased $126.9 million, or 9%, to $1.24 billion from $1.37 billion in fiscal 2015. 
+
+Net interest expense for fiscal 2016 decreased $4.8 million to $7.4 million from $12.2 million in fiscal 2015. Included in net interest expense for fiscal 2016 was a reversal of $2.7 million of accrued interest expense related to the statute expiration of a foreign tax reserve. Interest expense for fiscal 2016 was also lower when compared to the same period last year due to lower debt levels. 
+
+Loss on disposal of business and investments for fiscal 2016 increased by $38.5 million to $41.4 million from $2.9 million in fiscal 2015. The increase is due to the previously discussed loss on the sale of our French subsidiary of $24.4 million, and a non-cash write-off on an equity investment of $17.0 million. 
+
+Miscellaneous expense for fiscal 2016 increased $2.8 million to $3.1 million from $0.2 million in fiscal 2015. The increase over the prior year period was primarily due to realized exchange rate losses. Included in miscellaneous expense for fiscal 2016 was a reversal of $5.1 million of accrued penalties related to the statute expiration of a foreign tax reserve. 
+
+The Company's effective income tax rate for fiscal 2016 increased to 25.2% from 23.5% in fiscal 2015. Contributing to the increase in the effective tax rate when compared to the prior year is the absence of a $23.1 million nonrecurring benefit related to a foreign currency loss in 2015. Also contributing to the increase is an $8.9 million charge related to the revaluation of deferred tax assets due to a statutory tax rate change in the United Kingdom. Offsetting the fiscal 2016 effective tax rate increases was a $11.2 million benefit related to a valuation allowance release, a $6.9 million benefit due to a prior period adjustment to income taxes payable and a $8.7 million benefit recorded upon the filing of a US amended tax return to claim additional foreign tax credits and Internal Revenue Code section 179D benefit for the design of energy efficient buildings. 
+
+Fiscal 2015 Compared to Fiscal 2014 
+
+The Company's GAAP net earnings for fiscal 2015 decreased by $25.1 million, or 7.6%, compared to fiscal 2014. Included in net earnings for fiscal 2015 is the one-time tax benefit of $23.1 million, or $0.18 per share, related to the 2015 Inter-company Debt Refinancing. 
+
+The Company's results for fiscal 2015 when compared to the prior year were positively impacted by (i) the SKM acquisition, which is included for all of fiscal 2015 compared to approximately nine and a half months in fiscal 2014 and, to a lesser degree, (ii) the other acquisitions completed during fiscal 2014. Also influencing the comparability of the Company's fiscal 2015 results of operations to fiscal 2014 were the 2015 Restructuring and the 2014 Events below: 
+
+Page 44 
+
+•  
+
+$6.8 million, or $0.05 per diluted share, increase to net earnings due to the favorable resolution of an international tax matter in the first quarter of fiscal 2014; as a result of these events, approximately $4.1 million of accrued interest expense was reversed; 
+
+•  
+
+$6.4 million, or $0.05 per diluted share, increase to net earnings related to a gain on the sale of certain intellectual property in the second quarter of fiscal 2014; 
+
+•  
+
+$22.7 million, or $0.18 per diluted share, decrease to net earnings relating to certain specific operational events at SKM and SKM transaction-related costs and expenses incurred during the first half of the fiscal year; and 
+
+•  
+
+$22.3 million, or $0.16 per diluted share, decrease to net earnings due to lower margins associated with certain projects in Europe combined with unusual weather effects in the second quarter of fiscal 2014. 
+
+Revenues decreased $580.3 million, or 4.6%, from $12.7 billion for fiscal 2014 to $12.1 billion for fiscal 2015. Revenues for fiscal year 2015 include a negative impact of $561.0 million related to the strengthening of the U.S. Dollar. 
+
+Direct costs of contracts decreased $474.9 million, or 4.5%, from $10.62 billion during fiscal 2014 to $10.15 billion during fiscal 2015. Pass-through costs decreased $352.2 million, or 11.9%, from $2.95 billion during fiscal 2014 to $2.60 billion for fiscal 2015. 
+
+As a percentage of revenues, direct costs of contracts were 83.8% for fiscal 2015, compared to 83.7% for fiscal 2014. The ratio of direct costs of contracts to revenues was flat over the prior year period.  
+
+Selling, general, and administrative ("SG&A") expenses for fiscal 2015 decreased by $22.9 million, or 1.5%, to $1.52 billion, compared to $1.55 billion for fiscal 2014. The decrease in SG&A expenses was primarily due to lower costs stemming from the 2014 Events, which were partially offset by increased costs related to the 2015 Restructuring. Excluding the effects of the 2015 Restructuring and the 2014 Events, adjusted SG&A expenses for fiscal 2015 decreased $67.4 million, or 4.7%, to $1.37 billion from $1.44 billion for the corresponding period last year. 
+
+Net interest expense for fiscal 2015 increased $10.5 million to $12.2 million from $1.7 million in fiscal 2014. Included in net interest expense for fiscal 2014 was the reversal of $4.1 million of accrued interest expense recorded in connection with income tax liabilities relating to certain contested international tax matters, which were favorably resolved during the first quarter of fiscal 2014. 
+
+Page 45 
+
+The Company’s consolidated effective income tax rate was 25.2% for fiscal 2016, compared to 23.5% in fiscal 2015. Contributing to the increase in the effective tax rate when compared to the prior year is the absence of a $23.1 million nonrecurring benefit related to foreign currency loss in 2015. The fiscal 2016 effective tax rate is lower than the statutory rate due to an $11.2 million benefit related to a valuation allowance release, a $6.9 million benefit due to a prior period adjustment to income taxes payable and an $8.7 million benefit recorded upon the filing of a US amended tax return to claim additional foreign tax credits and an IRC section 179D benefit for the design of energy efficient buildings. Offsetting the current year benefits was an $8.9 million expense charge related to the revaluation of deferred tax assets due to a statutory tax rate change in the United Kingdom. 
+
+Contractual Obligations 
+
+The following table sets forth certain information about our contractual obligations as of September 30, 2016 (in thousands): 
+
+ [DATA_TABLE_REMOVED] 
+
+(a)  
+
+Assumes the Company will make the end of lease term residual value guarantee payment of $62.4 million in 2025 with respect to the lease of an office building in Houston, Texas. Please refer to Note 11— Commitments and Contingencies, and Derivative Financial Instruments of Notes to Consolidated Financial Statements beginning on page F-1 of this Annual Report on Form 10-K. 
+
+(b)  
+
+Assumes that future contributions will be consistent with amounts projected to be contributed in fiscal 2017, allowing for certain growth based on rates of inflation and salary increases, but limited to the amount recorded as of September 30, 2016. Actual contributions will depend on a variety of factors, including amounts required by local laws and regulations, and other funding requirements. 
+
+(c)  
+
+Assumes that future payments will be consistent with amounts paid in fiscal 2016, allowing for certain growth. Due to the nonqualified nature of the plans, and the fact that benefits are based in part on years of service, the payments included in the schedule were limited to the amount recorded as of September 30, 2016. 
+
+(d)  
+
+Represents those liabilities estimated to be under firm contractual commitments as of September 30, 2016; primarily accounts payable and accrued payroll. 
+
+(e)  
+
+Determined based on borrowings outstanding at the end of fiscal 2016 using the interest rates in effect at that time and, for our outstanding long term debt, concluding with the expiration date of the 2014 Facility, as defined below. 
+
+Backlog Information 
+
+Backlog represents the total dollar amount of revenues we expect to record in the future as a result of performing work under contracts that have been awarded to us. We include in backlog the entire value of contracts at the time the contracts are awarded to us or when we have otherwise been authorized by the client to proceed with the services required by the contracts. With respect to O&M contracts, however, we include in backlog the amount of revenues we expect to receive for only one succeeding year, regardless of the remaining life of the contract. For national government programs (other than U.S. federal O&M contracts), our policy is to include in backlog the full contract award, whether funded or unfunded, excluding option periods. In accordance with industry practice, substantially all of our contracts are subject to cancellation or termination at the discretion of the client. In a situation where a client terminates a contract, we would ordinarily be entitled to receive payment for work performed up to the date of termination. In addition, it is not unusual for clients to change the scope of services required by the contract over the life of the project. Accordingly, backlog can fluctuate from one reporting period to the next due to the timing of when new contracts are added to backlog and when the contract revenue is recognized in our consolidated financial statements. Many of our contracts require us to provide services that span over a number of fiscal quarters (and sometimes over fiscal years). 
+
+Page 46 
+
+Please refer to Item 1A— Risk Factors, above, for a discussion of other factors that may cause backlog to ultimately convert into revenues at different amounts. 
+
+The following table summarizes our backlog for each of the last three fiscal years (in millions):  
+
+ [DATA_TABLE_REMOVED] 
+
+Our backlog at September 30, 2016 decreased by $46 million, or 0.2%, to $18.8 billion from $18.8 billion at October 2, 2015. The decrease in backlog from October 2, 2015 to September 30, 2016 was due primarily to new awards from clients operating in the Chemicals and Pharmaceuticals industries, offset in part by an approximate $182.6 million reduction due to foreign exchange. 
+
+Backlog in the Aerospace & Technology LOB at September 30, 2016 was $ 5.11 billion, up $ 229.2 million, or $180.4 million after the effect of exchange rate changes when compared to the backlog at October 2, 2015. The year-over-year increase in backlog was primarily from an increase in new awards from the U.S. federal government. 
+
+Backlog in the Buildings & Infrastructure LOB at September 30, 2016 was $5.03 billion, up $310.5 million, or $217.6 million after the effect of exchange rate changes when compared to the backlog at October 2, 2015. The year-over-year increase in backlog was primarily from new awards in the U.S. Buildings and Infrastructure market. 
+
+Backlog in the Industrial LOB at September 30, 2016 was $3.11 billion, down $543.9 million, or $449.5 million after the effect of exchange rate changes when compared to the backlog at October 2, 2015. The year-over-year decrease in backlog was primarily related to a lower level of field services awards. 
+
+Backlog in the Petroleum & Chemicals LOB at September 30, 2016 was $5.51 billion, down $41.8 million, or $5.3 million after the effect of exchange rate changes when compared to the backlog at October 2, 2015. The year-over-year decrease in backlog was primarily related to weak oil process affecting our customers’ capital spend. 
+
+Backlog relating to work to be performed either directly or indirectly for the U.S. federal government and its agencies totaled approximately $4.8 billion (or 25.4% of total backlog), $4.6 billion (or 23.9% of total backlog), and $3.9 billion (or 22.9% of total backlog) at September 30, 2016, October 2, 2015, and September 26, 2014, respectively. Most of our federal contracts require that services be provided beyond one year. In general, these contracts must be funded annually (i.e., the amounts to be spent under the contract must be appropriated by the U.S. Congress to the procuring agency, and then the agency must allot these sums to the specific contracts). 
+
+We estimate that approximately $7.7 billion, or 41.28%, of total backlog at September 30, 2016 will be realized as revenues within the next fiscal year. 
+
+Effects of Inflation 
+
+The effects of inflation on our business is discussed in Item 1A— Risk Factors, and is incorporated herein by reference. 
+
+Liquidity and Capital Resources 
+
+At September 30, 2016, our primary sources of liquidity consisted of $655.7 million of cash and cash equivalents and $1.21 billion of available borrowing capacity under our $1.6 billion revolving credit facility (the "2014 Facility"). 
+
+Additional information regarding the 2014 Facility is set forth in Note 6 - Borrowings in Notes to Consolidated Financial Statements beginning on page F-1 of this Annual Report on Form 10-K. We finance as much of our operations and growth as possible through cash generated by our operations. 
+
+Page 47 
+
+During fiscal 2016, our cash and cash equivalents increased by $194.9 million from $460.9 million at October 2, 2015 to $655.7 million at September 30, 2016. This compares to a net decrease in cash and cash equivalents of $271.8 million during fiscal 2015. During fiscal 2016, we experienced net cash inflows of $680.2 million from operating activities offset by outflows of $317.0 million from financing activities, $139.6 million from investing activities, and $28.7 million from the effects of exchange rate changes. 
+
+Operations provided net cash of $680.2 million during fiscal 2016. This compares to net cash inflows of $484.6 million and $721.7 million during fiscal 2015 and 2014, respectively. The $195.6 million increase in cash provided by operations in fiscal 2016 as compared to fiscal 2015 was due primarily to a $373.1 million favorable change in the Company's working capital accounts, partially offset by a $ 114.4 million decrease in net earnings attributable to the Group. 
+
+Because such a high percentage of our revenues are earned on cost-plus type contracts, and due to the significance of revenues relating to pass-through costs, most of the costs we incur are included in invoices we send to clients. Although we continually monitor our accounts receivable, we manage the operating cash flows of the Company by managing the working capital accounts in total, rather than by the individual elements. The primary elements of the Company’s working capital accounts are accounts receivable, accounts payable, and billings in excess of cost. Accounts payable consists of obligations to third parties relating primarily to costs incurred for projects, which are generally billable to clients. Accounts receivable consist of billings to our clients — a substantial portion of which is for project-related costs. Billings in excess of cost consist of billings to and payments from our clients for costs yet to be incurred. 
+
+This relationship between revenues and costs, and between receivables and payables is unique to our industry, and facilitates review of our liquidity at the total working capital level. The $373.1 million increase in cash flows relating to our working capital accounts during fiscal 2016 is indicative of our building momentum to become more effective in our working capital performance. 
+
+With respect to the Company’s trade accounts receivable, while our credit risk could be significant based on the fact that we provide services to clients operating in a wide range of industries as well as in a number of countries outside the U.S., we manage these issues closely to reduce exposures as much as possible and historically have not experienced material losses. Nevertheless, and as disclosed previously, the Company incurred a loss during the second quarter of fiscal 2016 relating to the bankruptcy of a client of the Industrial LOB. Our private sector customers include large, well-known, and well-established multi-national companies, and our government customers consist of national, state, and local agencies located principally in the U.S., the U.K., and Australia. Although we have not historically experienced significant collection issues with any of our governmental or commercial customers, we are currently reassessing how we extend credit to certain customers and markets that we service. 
+
+We used $139.6 million of cash and cash equivalents for investing activities during fiscal 2016. This compares to $96.1 million and $1.5 billion during fiscal 2015 and 2014, respectively. The increase in investing activities in fiscal 2016 when compared to fiscal 2015 was primarily the result of two small acquisitions in fiscal 2016 and the cash used in the sale of Jacobs France subsidiary. The acquisition activity in fiscal 2014 was primarily related to the Company's acquisition of SKM for $1.2 billion ($1.1 billion net of cash acquired).  
+
+Additions to property and equipment totaled $67.7 million, $88.4 million, and $132.1 million for fiscal years 2016, 2015, and 2014, respectively. Included in fiscal 2015 and 2014 activity are significant expenditures for leasehold improvements relating primarily to the consolidation of certain office space, expansion of office space and relocations of certain office space, all occurring in a number of locations. 
+
+Our financing activities resulted in net cash outflow of $317.0 million during fiscal 2016 as compared to net cash outflow of $553.3 million and net cash inflow of $304.9 million during fiscal 2015 and 2014, respectively. The $236.3 million in incremental cash inflow during fiscal 2016 as compared to the previous year was due primarily to a $269.8 million decrease in cash used to repurchased shares of Company common stock (discussed in further detail in Part II, Item 5 of this Annual Report on Form 10-K). The $858.2 million in incremental cash outflows during fiscal 2015 as compared to fiscal 2014 was due primarily to a $502.7 million increase in cash used to pay-off long-term debt during fiscal 2015, combined with a $343.9 million increase in cash used to repurchase shares of Company common stock  
+
+The Company had $655.7 million of cash and short-term equivalents at September 30, 2016. Of this amount, approximately $149.2 million was held in the U.S. and $506.5 million was held outside of the U.S., primarily in Canada, the U.K., and the Eurozone. Other than the tax cost of repatriating funds held outside the U.S. to the U.S. (see Note 10— Income  
+
+Page 48 
+
+Taxes of Notes to Consolidated Financial Statements beginning on page F-1 of this Annual Report on Form 10-K), there are no impediments to repatriating these funds to the U.S. 
+
+The total amount utilized under the 2014 Facility at September 30, 2016 was $387.8 million ($385.3 million in the form of direct borrowings and $2.5 million utilized in the form of letters of credit). Please refer to Note 6— Borrowings of Notes to Consolidated Financial Statements beginning on page F-1 of this Annual Report on Form 10-K for additional information regarding the 2014 Facility. 
+
+We believe we have adequate liquidity and capital resources to fund our operations, support our acquisition strategy, support the existing share repurchase authorization, and service our debt for the next twelve months. We had $655.7 million in cash and cash equivalents at September 30, 2016, compared to $460.9 million at October 2, 2015. Our consolidated working capital position at September 30, 2016 was $1.08 billion; a decrease of $59.7 million from October 2, 2015. 
+
+Additionally, there was $1.21 billion of borrowing capacity available at September 30, 2016 under the 2014 Facility. We believe that the remaining capacity, terms and conditions of the 2014 Facility, combined with cash on-hand and the other committed and uncommitted facilities we have in place, are adequate for our working capital and general business requirements. 
+
+The Company had $256.0 million of letters of credit outstanding at September 30, 2016. Of this amount, $2.5 million were issued under the 2014 Facility and $253.5 million were issued under separate, committed and uncommitted letter-of-credit facilities. 
+
+Off-Balance Sheet Arrangements 
+
+We are party to financial instruments with off-balance sheet risk in the form of guarantees not reflected in our balance sheet that arise in the normal course of business. However, such off-balance sheet arrangements are not reasonably likely to have an effect on our financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or resources that are material to investors. See Note 11 – Commitments and Contingencies, and Derivative Financial Instruments of Notes to Consolidated Financial Statements beginning on page F-1 of this Annual Report on Form 10-K. 
+
+New Accounting Pronouncements 
+
+From time to time, the Financial Accounting Standards Board ("FASB") issues accounting standards updates (each being an "ASU") to its Accounting Standards Codification ("ASC"), which constitutes the primary source of U.S. GAAP. The Company regularly monitors ASUs as they are issued and considers their applicability to its business. All ASUs applicable to the Company are adopted by the due date and in the manner prescribed by the FASB. A discussion of those recently issued ASUs most likely to affect the presentation of the Company's consolidated financial statements follows. 
+
+In May 2014, the FASB issued ASU No. 2014-09— Revenue from Contracts with Customers. The new guidance provided by ASU 2014-09 is intended to remove inconsistencies and perceived weaknesses in the existing revenue requirements, provide a more robust framework for addressing revenue issues, improve comparability, provide information that is more useful and simplify the preparation of financial statements. ASU 2014-09 was initially effective for annual and interim reporting periods beginning after December 15, 2016. On July 9, 2015, the FASB approved a one-year deferral of the effective date of this standard. The revised effective date for the standard is for annual reporting periods beginning after December 15, 2017 and interim periods therein. The FASB also approved changes allowing for early adoption of the standard as of the original effective date. The Company has completed its initial assessment of the new standard and is in the process of developing a plan to assess its contracts with customers. The Company currently intends to adopt the new standard using the Modified Retrospective application. This standard could have a significant impact on the Company’s Consolidated Financial Statements and an administrative impact on its operations. The Company will further assess the impact through its implementation program. 
+
+In February 2016, the FASB issued ASU 2016-02— Leases. ASU 2016-02 requires lessees to recognize assets and liabilities for most leases. ASU 2016-02 is effective for public entity financial statements for annual periods beginning after December 15, 2018, and interim periods within those annual periods. Early adoption is permitted, including adoption in an interim period. The guidance must be adopted using a modified retrospective approach for leases that exist or are entered into after the beginning of the earliest comparative period in the financial statements. The Company is evaluating the impact of the new guidance on its consolidated financial statements. This standard could have a significant impact on the Company’s  
+
+Page 49 
+
+Consolidated Financial Statements and an administrative impact on its operations. The Company will further assess the impact through its implementation program. 
+
+In March 2016, the FASB issued ASU 2016-09— Improvements to Employee Share-Based Payment Accounting. ASU 2016-09 simplifies several aspects of the accounting for share-based payment transactions, including the income tax consequences, classification of awards as either equity or liabilities, and classification on the statement of cash flows. ASU 2016-09 is effective for annual periods beginning after December 15, 2016, and interim periods within those annual periods. Early adoption is permitted for any entity in any interim or annual period for which financial statements have not been issued or made available for issuance. If an entity early adopts the amendments in an interim period, any adjustments must be reflected as of the beginning of the fiscal year that includes that interim period. An entity that elects early adoption must adopt all of the amendments in the same period. The Company is evaluating the impact of the new guidance on its consolidated financial statements and does not expect it to have a material impact. 
+
+During the second quarter of fiscal 2016, the Company adopted the provisions of ASU 2015-17— Balance Sheet Classification of Deferred Taxes on a retrospective basis for all periods presented. ASU 2015-17 removes the requirement to separate deferred income tax liabilities and assets into current and noncurrent amounts in a classified statement of financial position. Instead, the update requires that deferred tax liabilities and assets be classified as noncurrent in a classified statement of financial position. As a result of the Company’s adoption of ASU 2015-17 in the second quarter of fiscal 2016, the current deferred taxes and noncurrent deferred tax assets included in miscellaneous noncurrent assets on the October 2, 2015 Consolidated Balance Sheet were reclassified to noncurrent deferred taxes, which increased noncurrent deferred tax assets by $160.3 million and decreased miscellaneous noncurrent assets by $213.8 million. 
+
+Page 50 
+
+Item 7A.

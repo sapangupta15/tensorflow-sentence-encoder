@@ -1,0 +1,1100 @@
+Item 7.    Managements Discussion and Analysis of Financial Condition and 
+
+ Results of Operations    
+
+ INDEX  
+
+  [DATA_TABLE_REMOVED] 
+
+ 54  
+ Introduction   
+
+ The Goldman Sachs Group, Inc. (Group Inc.) is a leading global investment banking, securities and investment management firm that provides a wide range of financial services to a substantial and diversified client base that includes corporations, financial institutions, governments and high-net-worth individuals. Founded in 1869, the firm is headquartered in New York and maintains offices in London, Frankfurt, Tokyo, Hong Kong and other major financial centers around the world.  
+
+ Our activities are divided into three segments:  
+
+  [DATA_TABLE_REMOVED] 
+
+ When we use the terms Goldman Sachs, the firm, we, us and our, we mean Group Inc., a Delaware corporation, and its consolidated subsidiaries. References herein to our Annual Report on Form 10-K are to our Annual Report on Form 10-K for the fiscal year ended December 31, 2009.  
+
+ In connection with becoming a bank holding company, we were required to change our fiscal year-end from November to December. This change in our fiscal year-end resulted in a one-month transition period that began on November 29, 2008 and ended on December 26, 2008. Financial information for this fiscal transition period is included in Part II, Item 8 of our Annual Report on Form 10-K. In April 2009, the Board of Directors of Group Inc. (the Board) approved a change in our fiscal year-end from the last Friday of December to December 31. Fiscal 2009 began on December 27, 2008 and ended on December 31, 2009.  
+
+ All references to 2009, 2008 and 2007, unless specifically stated otherwise, refer to our fiscal years ended, or the dates, as the context requires, December 31, 2009, November 28, 2008 and November 30, 2007, respectively, and any reference to a future year refers to a fiscal year ending on December 31 of that year. All references to December 2008, unless specifically stated otherwise, refer to our fiscal one month ended, or the date, as the context requires, December 26, 2008. Certain reclassifications have been made to previously reported amounts to conform to the current presentation.  
+
+ In this discussion, we have included statements that may constitute forward-looking statements within the meaning of the safe harbor provisions of the U.S. Private Securities Litigation Reform Act of 1995. Forward-looking statements are not historical facts but instead represent only our beliefs regarding future events, many of which, by their nature, are inherently uncertain and outside our control. These statements include statements other than historical information or statements of current condition and may relate to our future plans and objectives and results, among other things, and may also include statements about the objectives and effectiveness of our risk management and    
+
+ 55  
+ liquidity policies, statements about trends in or growth opportunities for our businesses, statements about our future status, activities or reporting under U.S. or non-U.S. banking and financial regulation, and statements about our investment banking transaction backlog. By identifying these statements for you in this manner, we are alerting you to the possibility that our actual results and financial condition may differ, possibly materially, from the anticipated results and financial condition indicated in these forward-looking statements. Important factors that could cause our actual results and financial condition to differ from those indicated in these forward-looking statements include, among others, those discussed below under  Certain Risk Factors That May Affect Our Businesses as well as Risk Factors in Part I, Item 1A of our Annual Report on Form 10-K and Cautionary Statement Pursuant to the U.S. Private Securities Litigation Reform Act of 1995 in Part I, Item 1 of our Annual Report on Form 10-K.   
+
+ 56  
+ Executive Overview   
+
+ Our diluted earnings per common share were $22.13 for the year ended December 31, 2009, compared with $4.47 for the year ended November 28, 2008. Return on average common shareholders equity (ROE) (1) was 22.5% for 2009. Net revenues for 2009 were $45.17 billion, more than double the amount in 2008. Our ratio of compensation and benefits to net revenues for 2009 was 35.8% and represented our lowest annual ratio of compensation and benefits to net revenues. In addition, compensation was reduced by $500 million to fund a charitable contribution to Goldman Sachs Gives, our donor-advised fund. This contribution of $500 million was part of total commitments to charitable and small business initiatives during the year in excess of $1 billion. During the twelve months ended December 31, 2009, book value per common share increased 23% to $117.48 and tangible book value per common share (2) increased 27% to $108.42. During the year, the firm repurchased the preferred stock and associated warrant that were issued to the U.S. Department of the Treasury (U.S. Treasury) pursuant to the U.S. Treasurys TARP Capital Purchase Program. The firms cumulative payments to the U.S. Treasury related to this program totaled $11.42 billion, including the return of the U.S. Treasurys $10.0 billion investment, $318 million in preferred dividends and $1.1 billion related to the warrant repurchase. In addition, in 2009 the firm completed a public offering of common stock for proceeds of $5.75 billion. Our Tier 1 capital ratio under Basel I (3) was 15.0% as of December 31, 2009 and our Tier 1 common ratio under Basel I (3) was 12.2% as of December 31, 2009.  
+
+ Net revenues in Trading and Principal Investments were significantly higher compared with 2008, reflecting a very strong performance in Fixed Income, Currency and Commodities (FICC) and significantly improved results in Principal Investments, as well as higher net revenues in Equities. During 2009, FICC operated in an environment characterized by strong client-driven activity, particularly in more liquid products. In addition, asset values generally improved and corporate credit spreads tightened significantly for most of the year. Net revenues in FICC were significantly higher compared with 2008, reflecting particularly strong performances in credit products, mortgages and interest rate products, which were each significantly higher than 2008. Net revenues in commodities were also particularly strong and were slightly higher than 2008, while net revenues in currencies were strong, but lower than a particularly strong 2008. During 2009, mortgages included a loss of approximately $1.5 billion (excluding hedges) on commercial mortgage loans. Results in 2008 were negatively impacted by asset writedowns across non-investment-grade credit origination activities, corporate debt, private and public equities, and residential and commercial mortgage loans and securities. The increase in Principal Investments reflected gains on corporate principal investments and our investment in the ordinary shares of Industrial and Commercial Bank of China Limited (ICBC) compared with net losses in 2008. In 2009, results in Principal Investments included a gain of $1.58 billion related to our investment in the ordinary shares of ICBC, a gain of $1.31 billion from corporate principal investments and a loss of $1.76 billion from real estate principal investments. Net revenues in Equities for 2009 reflected strong results in the client franchise businesses. However,     
+
+ (1) ROE is computed by dividing net earnings applicable to common shareholders by average monthly common shareholders equity. See  Results of Operations  Financial Overview below for further information regarding our calculation of ROE.  
+
+ (2) Tangible common shareholders equity equals total shareholders equity less preferred stock, goodwill and identifiable intangible assets. Tangible book value per common share is computed by dividing tangible common shareholders equity by the number of common shares outstanding, including restricted stock units (RSUs) granted to employees with no future service requirements. We believe that tangible common shareholders equity is meaningful because it is one of the measures that we and investors use to assess capital adequacy. See  Equity Capital  Capital Ratios and Metrics below for further information regarding tangible common shareholders equity.  
+
+ (3) As a bank holding company, we are subject to consolidated regulatory capital requirements administered by the Board of Governors of the Federal Reserve System (Federal Reserve Board). We are reporting our Tier 1 capital ratios calculated in accordance with the regulatory capital requirements currently applicable to bank holding companies, which are based on the Capital Accord of the Basel Committee on Banking Supervision (Basel I). The Tier 1 capital ratio equals Tier 1 capital divided by total risk-weighted assets (RWAs). The Tier 1 common ratio equals Tier 1 capital less preferred stock and junior subordinated debt issued to trusts, divided by RWAs. See  Equity Capital  Consolidated Capital Requirements below for further information regarding our capital ratios.   
+
+ 57  
+ results in the client franchise businesses were lower than a strong 2008 and included significantly lower commissions. Results in principal strategies were positive compared with losses in 2008. During 2009, Equities operated in an environment characterized by a significant increase in global equity prices, favorable market opportunities and a significant decline in volatility levels.  
+
+ Net revenues in Asset Management and Securities Services decreased significantly compared with 2008, reflecting significantly lower net revenues in Securities Services, as well as lower net revenues in Asset Management. The decrease in Securities Services primarily reflected the impact of lower customer balances, reflecting lower hedge fund industry assets and reduced leverage. The decrease in Asset Management primarily reflected the impact of changes in the composition of assets managed, principally due to equity market depreciation during the fourth quarter of 2008, as well as lower incentive fees. During the year ended December 31, 2009, assets under management increased $73 billion to $871 billion, due to $76 billion of market appreciation, primarily in fixed income and equity assets, partially offset by $3 billion of net outflows. Outflows in money market assets were offset by inflows in fixed income assets.  
+
+ Net revenues in Investment Banking decreased compared with 2008, reflecting significantly lower net revenues in Financial Advisory, partially offset by higher net revenues in our Underwriting business. The decrease in Financial Advisory reflected a decline in industry-wide completed mergers and acquisitions. The increase in Underwriting reflected higher net revenues in equity underwriting, primarily reflecting an increase in industry-wide equity and equity-related offerings. Net revenues in debt underwriting were slightly lower than in 2008. Our investment banking transaction backlog increased significantly during the twelve months ended December 31, 2009. (1)  
+
+ Our business, by its nature, does not produce predictable earnings. Our results in any given period can be materially affected by conditions in global financial markets, economic conditions generally and other factors. For a further discussion of the factors that may affect our future operating results, see 
+
+  Certain Risk Factors That May Affect Our Businesses below as well as Risk Factors in Part I, Item 1A of our Annual Report on Form 10-K.   
+
+ (1) Our investment banking transaction backlog represents an estimate of our future net revenues from investment banking transactions where we believe that future revenue realization is more likely than not.  
+
+ 58  
+ Business Environment   
+
+ Our financial performance is highly dependent on the environment in which our businesses operate. During 2009, the economies of the U.S., Europe and Japan experienced a recession. Business activity across a wide range of industries and regions was greatly reduced, reflecting a reduction in consumer spending and low levels of liquidity across credit markets. In addition, unemployment continued to rise in 2009. However, economic conditions became generally more favorable during the second half of the year as real gross domestic product (GDP) growth turned positive in most major economies and growth in emerging markets improved. In addition, equity and credit markets were characterized by increasing asset prices, lower volatility and improved liquidity during the last nine months of the year. For a further discussion of how market conditions affect our businesses, see  Certain Risk Factors That May Affect Our Businesses below as well as Risk Factors in Part I, Item 1A of our Annual Report on Form 10-K. A further discussion of the business environment in 2009 is set forth below.  
+
+ Global. The global economy weakened during 2009, as evidenced by declines in real GDP in the major economies. In addition, economic growth in emerging markets slowed during the year, especially among those economies most reliant upon international trade. Volatility levels across fixed income and equity markets declined during the year and corporate credit spreads generally tightened, particularly in the second half of the year. In addition, global equity markets increased significantly during our fiscal year. The U.S. Federal Reserve, The Bank of Japan and The Peoples Bank of China left interest rates unchanged during 2009, while central banks in the Eurozone and the United Kingdom lowered interest rates during the first half of the year. After a significant decline in the second half of calendar year 2008, the price of crude oil increased significantly during 2009. The U.S. dollar weakened against the British pound and the Euro, but strengthened against the Japanese yen. In investment banking, industry-wide mergers and acquisitions activity remained weak, while industry-wide debt offerings and equity and equity-related offerings increased significantly compared with 2008.  
+
+ United States. Real GDP in the U.S. declined by an estimated 2.4% in calendar year 2009, compared with an increase of 0.4% in 2008. The recession in the U.S., which started near the beginning of our 2008 fiscal year, appeared to end in the third quarter of 2009, as real GDP increased during the second half of the year. Exports declined significantly in the first half of the year, but improved during the second half of the year. Consumer expenditure declined during 2009, despite significant support from the federal governments fiscal stimulus package. Business and consumer confidence improved during the year, but remained at low levels. The rate of inflation decreased during the year, reflecting an increase in unemployment and significant excess production capacity, which caused downward pressure on wages and prices. The U.S. Federal Reserve maintained its federal funds rate at a target range of zero to 0.25% during the year. In addition, the Federal Reserve purchased significant amounts of mortgage-backed securities, as well as U.S. Treasury and federal agency debt in order to improve liquidity and expand the availability of credit. The yield on the 10-year U.S. Treasury note increased by 169 basis points to 3.85% during our fiscal year. The NASDAQ Composite Index, the S&P 500 Index and the Dow Jones Industrial Average ended our fiscal year higher by 48%, 28% and 22%, respectively.   
+
+ 59  
+ Europe. Real GDP in the Eurozone economies declined by an estimated 4.0% in calendar year 2009, compared with an increase of 0.5% in 2008. Fixed investment, consumer expenditure and exports declined during 2009. However, surveys of business and consumer confidence improved during the year. Although employment levels declined in many economies, the largest decreases were in the countries that were most affected by the housing market decline. The rate of inflation declined during the year. In response to economic weakness and concerns about the health of the financial system, the European Central Bank lowered its main refinancing operations rate by 150 basis points to 1.00%. In the United Kingdom, real GDP declined by an estimated 4.8% for calendar year 2009, compared with an increase of 0.5% in 2008. Although real GDP declined significantly in the first half of the year, it appeared to increase during the fourth quarter of 2009. The Bank of England lowered its official bank rate during our fiscal year by a total of 150 basis points to 0.50%. Long-term government bond yields in both the Eurozone and the U.K. increased during our fiscal year. The Euro and British pound appreciated by 2% and 11%, respectively, against the U.S. dollar during our fiscal year. Major European equity markets ended our fiscal year significantly higher.  
+
+ Asia. In Japan, real GDP decreased by an estimated 5.0% in calendar year 2009, compared with a decrease of 1.2% in 2008. Measures of business investment, consumer expenditures and exports declined. Measures of inflation also declined during 2009. The Bank of Japan maintained its target overnight call rate at 0.10% during the year, while the yield on 10-year Japanese government bond increased during our fiscal year. The yen depreciated by 2% against the U.S. dollar. The Nikkei 225 increased 21% during our fiscal year.  
+
+ In China, real GDP growth was an estimated 8.7% in calendar year 2009, down from 9.6% in 2008. While exports declined during 2009, the impact on economic activity was mitigated by an increase in fixed investment and consumer spending, partially due to fiscal stimulus and strong credit expansion. Measures of inflation declined for most of 2009, but began to increase toward the end of the year. The Peoples Bank of China left its one-year benchmark lending rate unchanged at 5.31% during the year and maintained a broadly stable exchange rate against the U.S. dollar. The Shanghai Composite Index increased 77% during our fiscal year. Real GDP growth in India decreased slightly to an estimated 6.6% in calendar year 2009 from 6.7% in 2008. Industrial production and consumer spending increased during 2009. Exports declined significantly during 2009, but began to increase by the end of the year. The rate of wholesale inflation decreased during the year. The Indian rupee strengthened against the U.S. dollar. Equity markets in Hong Kong, India and South Korea increased significantly during our fiscal year.  
+
+ Other Markets. Real GDP in Brazil declined by an estimated 0.1% in calendar year 2009 compared with an increase of 5.1% in 2008. Although investment spending declined, an increase in commodity prices contributed to significant capital inflows, which helped support consumer spending. The Brazilian real strengthened against the U.S. dollar. In Russia, real GDP declined by an estimated 7.9% in calendar year 2009, compared with an increase of 5.6% in 2008. Low oil prices earlier in the year, as well as a tightening in credit availability, led to a significant decline in investment, consumption and exports. In addition, the Russian ruble depreciated against the U.S. dollar. Brazilian and Russian equity prices ended our fiscal year significantly higher.   
+
+ 60  
+ Certain Risk Factors That May Affect Our Businesses   
+
+ We face a variety of risks that are substantial and inherent in our businesses, including market, liquidity, credit, operational, legal, regulatory and reputational risks. For a discussion of how management seeks to manage some of these risks, see  Risk Management below. A summary of the more important factors that could affect our businesses follows below. For a further discussion of these and other important factors that could affect our businesses, see Risk Factors in Part I, Item 1A of our Annual Report on Form 10-K.  
+
+ Market Conditions and Market Risk. Our financial performance is highly dependent on the environment in which our businesses operate. A favorable business environment is generally characterized by, among other factors, high global GDP growth, transparent, liquid and efficient capital markets, low inflation, high business and investor confidence, stable geopolitical conditions, and strong business earnings. Unfavorable or uncertain economic and market conditions can be caused by: declines in economic growth, business activity or investor or business confidence; limitations on the availability or increases in the cost of credit and capital; increases in inflation, interest rates, exchange rate volatility, default rates or the price of basic commodities; outbreaks of hostilities or other geopolitical instability; corporate, political or other scandals that reduce investor confidence in capital markets; natural disasters or pandemics; or a combination of these or other factors. Our businesses and profitability have been and may continue to be adversely affected by market conditions in many ways, including the following:  
+
+  [DATA_TABLE_REMOVED]  
+
+ 61  
+  [DATA_TABLE_REMOVED] 
+
+ Liquidity Risk. Liquidity is essential to our businesses. Our liquidity may be impaired by an inability to access secured and/or unsecured debt markets, an inability to access funds from our subsidiaries, an inability to sell assets or redeem our investments, or unforeseen outflows of cash or collateral. This situation may arise due to circumstances that we may be unable to control, such as a general market disruption or an operational problem that affects third parties or us, or even by the perception among market participants that we, or other market participants, are experiencing greater liquidity risk.  
+
+ The financial instruments that we hold and the contracts to which we are a party are complex, as we employ structured products to benefit our clients and ourselves, and these complex structured products often do not have readily available markets to access in times of liquidity stress. Our investing activities may lead to situations where the holdings from these activities represent a significant portion of specific markets, which could restrict liquidity for our positions. Further, our ability to sell assets may be impaired if other market participants are seeking to sell similar assets at the same time, as is likely to occur in a liquidity or other market crisis. In addition, financial institutions with which we interact may exercise set-off rights or the right to require additional collateral, including in difficult market conditions, which could further impair our access to liquidity.   
+
+ 62  
+ Our credit ratings are important to our liquidity. A reduction in our credit ratings could adversely affect our liquidity and competitive position, increase our borrowing costs, limit our access to the capital markets or trigger our obligations under certain bilateral provisions in some of our trading and collateralized financing contracts. Under these provisions, counterparties could be permitted to terminate contracts with Goldman Sachs or require us to post additional collateral. Termination of our trading and collateralized financing contracts could cause us to sustain losses and impair our liquidity by requiring us to find other sources of financing or to make significant cash payments or securities movements. For a discussion of the potential impact on Goldman Sachs of a reduction in our credit ratings, see  Liquidity and Funding Risk  Credit Ratings below.  
+
+ Group Inc. has guaranteed the payment obligations of Goldman, Sachs & Co. (GS&Co.), Goldman Sachs Bank USA (GS Bank USA) and Goldman Sachs Bank (Europe) PLC (GS Bank Europe), subject to certain exceptions, and has pledged significant assets to GS Bank USA to support obligations to GS Bank USA. In addition, Group Inc. guarantees many of the obligations of its other consolidated subsidiaries on a transaction-by-transaction basis, as negotiated with counterparties. These guarantees may require Group Inc. to provide substantial funds or assets to its subsidiaries or their creditors or counterparties at a time when Group Inc. is in need of liquidity to fund its own obligations.  
+
+ Credit Risk. We are exposed to the risk that third parties that owe us money, securities or other assets will not perform their obligations. These parties may default on their obligations to us due to bankruptcy, lack of liquidity, operational failure or other reasons. A failure of a significant market participant, or even concerns about a default by such an institution, could lead to significant liquidity problems, losses or defaults by other institutions, which in turn could adversely affect us. We are also subject to the risk that our rights against third parties may not be enforceable in all circumstances. In addition, deterioration in the credit quality of third parties whose securities or obligations we hold could result in losses and/or adversely affect our ability to rehypothecate or otherwise use those securities or obligations for liquidity purposes. A significant downgrade in the credit ratings of our counterparties could also have a negative impact on our results. While in many cases we are permitted to require additional collateral from counterparties that experience financial difficulty, disputes may arise as to the amount of collateral we are entitled to receive and the value of pledged assets. Default rates, downgrades and disputes with counterparties as to the valuation of collateral increase significantly in times of market stress and illiquidity.  
+
+ Although we regularly review credit exposures to specific clients and counterparties and to specific industries, countries and regions that we believe may present credit concerns, default risk may arise from events or circumstances that are difficult to detect or foresee, particularly as new business initiatives and market developments lead us to transact with a broader array of clients and counterparties, as well as clearing houses and exchanges, and expose us to new asset classes and new markets.  
+
+ We have experienced, due to competitive factors, pressure to extend and price credit at levels that may not always fully compensate us for the risks we take. In particular, corporate clients seek such commitments from financial services firms in connection with investment banking and other assignments.  
+
+ Operational Risk. Our businesses are highly dependent on our ability to process and monitor, on a daily basis, a very large number of transactions, many of which are highly complex, across numerous and diverse markets in many currencies. These transactions, as well as the information technology services we provide to clients, often must adhere to client-specific guidelines, as well as legal and regulatory standards. Despite the resiliency plans and facilities we have in place, our ability to conduct business may be adversely impacted by a disruption in the infrastructure that supports our businesses and the communities in which we are located. This may include a disruption involving electrical, communications, internet, transportation or other services used by us or third parties with which we conduct business.   
+
+ 63  
+ Industry consolidation, whether among market participants or financial intermediaries, increases the risk of operational failure as disparate complex systems need to be integrated, often on an accelerated basis. Furthermore, the interconnectivity of multiple financial institutions with central agents, exchanges and clearing houses, and the increased centrality of these entities under proposed and potential regulation, increases the risk that an operational failure at one institution or entity may cause an industry-wide operational failure that could materially impact our ability to conduct business.  
+
+ Legal, Regulatory and Reputational Risk. We are subject to extensive and evolving regulation in jurisdictions around the world. Several of our subsidiaries are subject to regulatory capital requirements and, as a bank holding company, we are subject to minimum capital standards and a minimum Tier 1 leverage ratio on a consolidated basis. Our status as a bank holding company and the operation of our lending and other businesses through GS Bank USA subject us to additional regulation and limitations on our activities, as described in Regulation  Banking Regulation in Part I, Item 1 of our Annual Report on Form 10-K.  
+
+ New regulations could impact our profitability in the affected jurisdictions, or even make it uneconomic for us to continue to conduct all or certain of our businesses in such jurisdictions, or could cause us to incur significant costs associated with changing our business practices, restructuring our businesses, moving all or certain of our businesses and our employees to other locations or complying with applicable capital requirements, including liquidating assets or raising capital in a manner that adversely increases our funding costs or otherwise adversely affects our shareholders and creditors. To the extent new laws or regulations or changes in enforcement of existing laws or regulations are imposed on a limited subset of financial institutions, this could adversely affect our ability to compete effectively with other institutions that are not affected in the same way.  
+
+ A Financial Crisis Responsibility Fee to be assessed on the largest financial firms by the U.S. government was proposed on January 14, 2010. However, since this is still in the proposal stage and has not been approved by Congress, details surrounding the fee have not been finalized. We are currently evaluating the impact of the proposal on our results of operations. The impact of the proposal, if any, will be recorded when it is ultimately enacted.  
+
+ Substantial legal liability or a significant regulatory action against us, or adverse publicity, governmental scrutiny or legal and enforcement proceedings regardless of the ultimate outcome, could have material adverse financial effects, cause significant reputational harm to us or adversely impact the morale and performance of our employees, which in turn could seriously harm our businesses and results of operations. We face significant legal risks in our businesses, and the volume of claims and amount of damages and penalties claimed in litigation and regulatory proceedings against financial institutions remain high. Our experience has been that legal claims by customers and clients increase in a market downturn and that employment-related claims increase in periods when we have reduced the total number of employees. For a discussion of how we account for our legal and regulatory exposures, see  Use of Estimates below.   
+
+ 64  
+ Critical Accounting Policies    
+
+ Fair Value   
+
+ The use of fair value to measure financial instruments, with related gains or losses generally recognized in Trading and principal investments in our consolidated statements of earnings, is fundamental to our financial statements and our risk management processes and is our most critical accounting policy. The fair value of a financial instrument is the amount that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date (i.e., the exit price). Financial assets are marked to bid prices and financial liabilities are marked to offer prices. Fair value measurements do not include transaction costs.  
+
+ Substantially all trading assets and trading liabilities are reflected in our consolidated statements of financial condition at fair value. In determining fair value, we separate our trading assets, at fair value and trading liabilities, at fair value into two categories: cash instruments and derivative contracts, as set forth in the following table:  
+
+ Trading Instruments by Category
+
+ (in millions)   
+
+ [DATA_TABLE_REMOVED]  
+
+  (1)   Includes interests of $5.13 billion and $3.48 billion as of December 2009 and November 2008, respectively, held by investment funds managed by Goldman Sachs. The fair value of our investment in the ordinary shares of ICBC, which trade on The Stock Exchange of Hong Kong, includes the effect of foreign exchange revaluation for which we maintain an economic currency hedge.   
+
+  (2)   The following table sets forth the principal investments (other than our investments in ICBC and Sumitomo Mitsui Financial Group, Inc. (SMFG)) included within the Principal Investments component of our Trading and Principal Investments segment:    
+
+ [DATA_TABLE_REMOVED]  
+
+  (3)   Net of cash received pursuant to credit support agreements of $124.60 billion and $137.16 billion as of December 2009 and November 2008, respectively.   
+
+  (4)   Represents an economic hedge on the shares of common stock underlying our investment in the convertible preferred stock of SMFG.   
+
+  (5)   Net of cash paid pursuant to credit support agreements of $14.74 billion and $34.01 billion as of December 2009 and November 2008, respectively.     
+
+ 65  
+ Cash Instruments. Cash instruments include cash trading instruments, public principal investments and private principal investments.  
+
+       Cash Trading Instruments. Our cash trading instruments (e.g., equity and debt securities) are generally valued using quoted market prices, broker or dealer quotations, or alternative pricing sources with reasonable levels of price transparency. The types of instruments valued based on quoted market prices in active markets include most government obligations, active listed equities and certain money market securities.    
+
+ The types of instruments that trade in markets that are not considered to be active, but are valued based on quoted market prices, broker or dealer quotations, or alternative pricing sources with reasonable levels of price transparency include most government agency securities, most corporate bonds, certain mortgage products, certain bank loans and bridge loans, less liquid listed equities, certain state, municipal and provincial obligations and certain money market securities and loan commitments.  
+
+ Certain cash trading instruments trade infrequently and therefore have little or no price transparency. Such instruments include private equity investments and real estate fund investments, certain bank loans and bridge loans (including certain mezzanine financing, leveraged loans arising from capital market transactions and other corporate bank debt), less liquid corporate debt securities and other debt obligations (including less liquid corporate bonds, distressed debt instruments and collateralized debt obligations (CDOs) backed by corporate obligations), less liquid mortgage whole loans and securities (backed by either commercial or residential real estate), and acquired portfolios of distressed loans. The transaction price is initially used as the best estimate of fair value. Accordingly, when a pricing model is used to value such an instrument, the model is adjusted so that the model value at inception equals the transaction price. This valuation is adjusted only when changes to inputs and assumptions are corroborated by evidence such as transactions in similar instruments, completed or pending third-party transactions in the underlying investment or comparable entities, subsequent rounds of financing, recapitalizations and other transactions across the capital structure, offerings in the equity or debt capital markets, and changes in financial ratios or cash flows.  
+
+ For positions that are not traded in active markets or are subject to transfer restrictions, valuations are adjusted to reflect illiquidity and/or non-transferability. Such adjustments are generally based on market evidence where available. In the absence of such evidence, managements best estimate is used.  
+
+  [DATA_TABLE_REMOVED] 
+
+ Our investment in the ordinary shares of ICBC is valued using the quoted market price adjusted for transfer restrictions. Under the original transfer restrictions, the ICBC shares we held would have become free from transfer restrictions in equal installments on April 28, 2009 and October 20, 2009. During the quarter ended March 2009, the shares became subject to new supplemental transfer restrictions. Under these new supplemental transfer restrictions, on April 28, 2009, 20% of the ICBC shares that we held became free from transfer restrictions and we completed the disposition of these shares during the second quarter of 2009. Our remaining ICBC shares are subject to transfer restrictions, which prohibit liquidation at any time prior to April 28, 2010.   
+
+ 66  
+ We also have an investment in the convertible preferred stock of SMFG. This investment is valued using a model that is principally based on SMFGs common stock price. During 2008, we converted one-third of our SMFG preferred stock investment into SMFG common stock, and delivered the common stock to close out one-third of our hedge position. As of December 2009, we remained hedged on substantially all of the common stock underlying our remaining investment in SMFG.  
+
+       Private Principal Investments. Our private principal investments held within the Principal Investments component of our Trading and Principal Investments segment include investments in private equity, debt and real estate, primarily held through investment funds. By their nature, these investments have little or no price transparency. We value such instruments initially at transaction price and adjust valuations when evidence is available to support such adjustments. Such evidence includes recent third-party investments or pending transactions, third-party independent appraisals, transactions in similar instruments, discounted cash flow techniques, valuation multiples and public comparables.    
+
+ Derivative Contracts. Derivative contracts can be exchange-traded or over-the-counter (OTC). We generally value exchange-traded derivatives using models which calibrate to market-clearing levels and eliminate timing differences between the closing price of the exchange-traded derivatives and their underlying instruments.  
+
+ OTC derivatives are valued using market transactions and other market evidence whenever possible, including market-based inputs to models, model calibration to market-clearing transactions, broker or dealer quotations, or alternative pricing sources with reasonable levels of price transparency. Where models are used, the selection of a particular model to value an OTC derivative depends upon the contractual terms of, and specific risks inherent in, the instrument, as well as the availability of pricing information in the market. We generally use similar models to value similar instruments. Valuation models require a variety of inputs, including contractual terms, market prices, yield curves, credit curves, measures of volatility, voluntary and involuntary prepayment rates, loss severity rates and correlations of such inputs. For OTC derivatives that trade in liquid markets, such as generic forwards, swaps and options, model inputs can generally be verified and model selection does not involve significant management judgment.  
+
+ Certain OTC derivatives trade in less liquid markets with limited pricing information, and the determination of fair value for these derivatives is inherently more difficult. Where we do not have corroborating market evidence to support significant model inputs and cannot verify the model to market transactions, the transaction price is initially used as the best estimate of fair value. Accordingly, when a pricing model is used to value such an instrument, the model is adjusted so that the model value at inception equals the transaction price. Subsequent to initial recognition, we only update valuation inputs when corroborated by evidence such as similar market transactions, third-party pricing services and/or broker or dealer quotations, or other empirical market data. In circumstances where we cannot verify the model value to market transactions, it is possible that a different valuation model could produce a materially different estimate of fair value. See  Derivatives below for further information on our OTC derivatives.  
+
+ When appropriate, valuations are adjusted for various factors such as liquidity, bid/offer spreads and credit considerations. Such adjustments are generally based on market evidence where available. In the absence of such evidence, managements best estimate is used.   
+
+ 67  
+ Controls Over Valuation of Financial Instruments. A control infrastructure, independent of the trading and investing functions, is fundamental to ensuring that our financial instruments are appropriately valued at market-clearing levels (i.e., exit prices) and that fair value measurements are reliable and consistently determined.  
+
+ We employ an oversight structure that includes appropriate segregation of duties. Senior management, independent of the trading and investing functions, is responsible for the oversight of control and valuation policies and for reporting the results of these policies to our Audit Committee. We seek to maintain the necessary resources to ensure that control functions are performed appropriately. We employ procedures for the approval of new transaction types and markets, price verification, review of daily profit and loss, and review of valuation models by personnel with appropriate technical knowledge of relevant products and markets. These procedures are performed by personnel independent of the trading and investing functions. For financial instruments where prices or valuations that require inputs are less observable, we employ, where possible, procedures that include comparisons with similar observable positions, analysis of actual to projected cash flows, comparisons with subsequent sales, reviews of valuations used for collateral management purposes and discussions with senior business leaders. See  Market Risk and  Credit Risk below for a further discussion of how we manage the risks inherent in our trading and principal investing businesses.  
+
+ Fair Value Hierarchy  Level 3. The fair value hierarchy under Financial Accounting Standards Board Accounting Standards Codification (ASC) 820 prioritizes the inputs to valuation techniques used to measure fair value. The objective of a fair value measurement is to determine the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date (i.e., the exit price). The hierarchy gives the highest priority to unadjusted quoted prices in active markets for identical assets or liabilities (level 1 measurements) and the lowest priority to unobservable inputs (level 3 measurements). Assets and liabilities are classified in their entirety based on the lowest level of input that is significant to the fair value measurement.  
+
+ Instruments that trade infrequently and therefore have little or no price transparency are classified within level 3 of the fair value hierarchy. We determine which instruments are classified within level 3 based on the results of our price verification process. This process is performed by personnel independent of our trading and investing functions who corroborate valuations to external market data (e.g., quoted market prices, broker or dealer quotations, third-party pricing vendors, recent trading activity and comparative analyses to similar instruments). Instruments with valuations which cannot be corroborated to external market data are classified within level 3 of the fair value hierarchy.  
+
+ When broker or dealer quotations or third-party pricing vendors are used for valuation or price verification, greater priority is given to executable quotes. As part of our price verification process, valuations based on quotes are corroborated by comparison both to other quotes and to recent trading activity in the same or similar instruments. The number of quotes obtained varies by instrument and depends on the liquidity of the particular instrument. See Notes 2 and 3 to the consolidated financial statements in Part II, Item 8 of our Annual Report on Form 10-K for further information regarding fair value measurements.  
+
+ Valuation Methodologies for Level 3 Assets. Instruments classified within level 3 of the fair value hierarchy are initially valued at transaction price, which is considered to be the best initial estimate of fair value. As time passes, transaction price becomes less reliable as an estimate of fair value and accordingly, we use other methodologies to determine fair value, which vary based on the type of instrument, as described below. Regardless of the methodology, valuation inputs and assumptions are only changed when corroborated by substantive evidence. Senior management in control functions, independent of the trading and investing functions, reviews all significant unrealized gains/losses, including the primary drivers of the change in value. Valuations are further corroborated    
+
+ 68  
+ by values realized upon sales of our level 3 assets. An overview of methodologies used to value our level 3 assets subsequent to the transaction date is as follows:  
+
+       Equities and convertible debentures. Substantially all of our level 3 equities and convertible debentures consist of private equity investments and real estate fund investments. For private equity investments, recent third-party investments or pending transactions are considered to be the best evidence for any change in fair value. In the absence of such evidence, valuations are based on one or more of the following methodologies, as appropriate and available: transactions in similar instruments, discounted cash flow techniques, third-party independent appraisals, valuation multiples and public comparables. Such evidence includes pending reorganizations (e.g., merger proposals, tender offers or debt restructurings); and significant changes in financial metrics (e.g., operating results as compared to previous projections, industry multiples, credit ratings and balance sheet ratios). Real estate fund investments are carried at net asset value per share. The underlying investments in the funds are generally valued using discounted cash flow techniques, for which the key inputs are the amount and timing of expected future cash flows, capitalization rates and valuation multiples.   
+
+       Bank loans and bridge loans and Corporate debt securities and other debt obligations. Valuations are generally based on discounted cash flow techniques, for which the key inputs are the amount and timing of expected future cash flows, market yields for such instruments and recovery assumptions. Inputs are generally determined based on relative value analyses, which incorporate comparisons both to credit default swaps that reference the same underlying credit risk and to other debt instruments for the same issuer for which observable prices or broker quotes are available.   
+
+       Loans and securities backed by commercial real estate. Loans and securities backed by commercial real estate are collateralized by specific assets and may be tranched into varying levels of subordination. Due to the nature of these instruments, valuation techniques vary by instrument. Methodologies include relative value analyses across different tranches, comparisons to transactions in both the underlying collateral and instruments with the same or substantially the same underlying collateral, market indices (such as the CMBX (1)), and credit default swaps, as well as discounted cash flow techniques.   
+
+       Loans and securities backed by residential real estate. Valuations are based on both proprietary and industry recognized models (including Intex and Bloomberg), and discounted cash flow techniques. In the recent market environment, the most significant inputs to the valuation of these instruments are rates and timing of delinquency, default and loss expectations, which are driven in part by housing prices. Inputs are determined based on relative value analyses, which incorporate comparisons to instruments with similar collateral and risk profiles, including relevant indices such as the ABX (1).   
+
+       Loan portfolios. Valuations are based on discounted cash flow techniques, for which the key inputs are the amount and timing of expected future cash flows and market yields for such instruments. Inputs are determined based on relative value analyses which incorporate comparisons to recent auction data for other similar loan portfolios.   
+
+       Derivative contracts. Valuation models are calibrated to initial transaction price. Subsequent changes in valuations are based on observable inputs to the valuation models (e.g., interest rates, credit spreads, volatilities, etc.). Inputs are changed only when corroborated by market data. Valuations of less liquid OTC derivatives are typically based on level 1 or level 2 inputs that can be observed in the market, as well as unobservable inputs, such as correlations and volatilities.     
+
+ (1) The CMBX and ABX are indices that track the performance of commercial mortgage bonds and subprime residential mortgage bonds, respectively.  
+
+ 69  
+ Total level 3 assets were $46.48 billion and $66.19 billion as of December 2009 and November 2008, respectively. The decrease in level 3 assets as of December 2009 compared with November 2008 primarily reflected unrealized losses (principally on private equity investments and real estate fund investments, loans and securities backed by commercial real estate, and bank loans and bridge loans) and sales and paydowns (principally on loans and securities backed by commercial real estate, bank loans and bridge loans, and other debt obligations).  
+
+ The following table sets forth the fair values of financial assets classified within level 3 of the fair value hierarchy:  
+
+ Level 3 Financial Assets at Fair Value
+
+ (in millions)   
+
+ [DATA_TABLE_REMOVED]  
+
+    (1)   Substantially all consists of private equity investments and real estate fund investments. Real estate investments were $1.23 billion and $2.62 billion as of December 2009 and November 2008, respectively.   
+
+    (2)   Includes certain mezzanine financing, leveraged loans arising from capital market transactions and other corporate bank debt.   
+
+    (3)   Includes $741 million and $804 million as of December 2009 and November 2008, respectively, of CDOs and collateralized loan obligations backed by corporate obligations.   
+
+    (4)   Consists of acquired portfolios of distressed loans, primarily backed by commercial and residential real estate collateral.   
+
+    (5)   We do not bear economic exposure to these level 3 assets as they are financed by nonrecourse debt, attributable to minority investors or attributable to employee interests in certain consolidated funds.     
+
+ 70  
+ Loans and securities backed by residential real estate. We securitize, underwrite and make markets in various types of residential mortgages, including prime, Alt-A and subprime. At any point in time, we may use cash instruments as well as derivatives to manage our long or short risk position in residential real estate. The following table sets forth the fair value of our long positions in prime, Alt-A and subprime mortgage cash instruments:  
+
+ Long Positions in Loans and Securities Backed by Residential Real Estate
+
+ (in millions)   
+
+ [DATA_TABLE_REMOVED]  
+
+  [DATA_TABLE_REMOVED] 
+
+ Loans and securities backed by commercial real estate. We originate, securitize and syndicate fixed and floating rate commercial mortgages globally. At any point in time, we may use cash instruments as well as derivatives to manage our risk position in the commercial mortgage market. The following table sets forth the fair value of our long positions in loans and securities backed by commercial real estate by geographic region. The decrease in loans and securities backed by commercial real estate from November 2008 to December 2009 was primarily due to sales and paydowns.  
+
+ Long Positions in Loans and Securities Backed by
+
+ Commercial Real Estate by Geographic Region
+
+  (in millions)   
+
+ [DATA_TABLE_REMOVED]  
+
+  [DATA_TABLE_REMOVED]  
+
+ 71  
+ Leveraged Lending Capital Market Transactions. We arrange, extend and syndicate loans and commitments related to leveraged lending capital market transactions globally. The following table sets forth the notional amount of our leveraged lending capital market transactions by geographic region:  
+
+ Leveraged Lending Capital Market Transactions by Geographic Region
+
+ (in millions)   
+
+ [DATA_TABLE_REMOVED]  
+
+  (1)   Substantially all relates to the U.S.   
+
+  (2)   Represents the notional amount. We account for these transactions at fair value and our exposure was $2.27 billion and $5.53 billion as of December 2009 and November 2008, respectively.    
+
+ Other Financial Assets and Financial Liabilities at Fair Value. In addition to trading assets, at fair value and trading liabilities, at fair value, we have elected to account for certain of our other financial assets and financial liabilities at fair value under ASC 815-15 and ASC 825-10 (i.e., the fair value option). The primary reasons for electing the fair value option are to reflect economic events in earnings on a timely basis, to mitigate volatility in earnings from using different measurement attributes and to address simplification and cost-benefit considerations.  
+
+ Such financial assets and financial liabilities accounted for at fair value include:  
+
+  [DATA_TABLE_REMOVED]  
+
+ 72  
+ Goodwill and Identifiable Intangible Assets   
+
+ As a result of our acquisitions, principally SLK LLC (SLK) in 2000, The Ayco Company, L.P. (Ayco) in 2003 and our variable annuity and life insurance business in 2006, we have acquired goodwill and identifiable intangible assets. Goodwill is the cost of acquired companies in excess of the fair value of net assets, including identifiable intangible assets, at the acquisition date.  
+
+ Goodwill. We test the goodwill in each of our operating segments, which are components one level below our three business segments, for impairment at least annually, by comparing the estimated fair value of each operating segment with its estimated net book value. We derive the fair value of each of our operating segments based on valuation techniques we believe market participants would use for each segment (observable average price-to-earnings multiples of our competitors in these businesses and price-to-book multiples). We derive the net book value of our operating segments by estimating the amount of shareholders equity required to support the activities of each operating segment. Our last annual impairment test was performed during our 2009 fourth quarter and no impairment was identified.  
+
+ During 2008 (particularly during the fourth quarter) and early 2009, the financial services industry and the securities markets generally were materially and adversely affected by significant declines in the values of nearly all asset classes and by a serious lack of liquidity. If there was a prolonged period of weakness in the business environment and financial markets, our businesses would be adversely affected, which could result in an impairment of goodwill in the future.  
+
+ The following table sets forth the carrying value of our goodwill by operating segment:  
+
+ Goodwill by Operating Segment
+
+ (in millions)   
+
+ [DATA_TABLE_REMOVED]  
+
+  (1)   Primarily related to SLK.   
+
+  (2)   Primarily related to Ayco.     
+
+ 73  
+ Identifiable Intangible Assets. We amortize our identifiable intangible assets over their estimated lives or, in the case of insurance contracts, in proportion to estimated gross profits or premium revenues. Identifiable intangible assets are tested for impairment whenever events or changes in circumstances suggest that an assets or asset groups carrying value may not be fully recoverable. An impairment loss, generally calculated as the difference between the estimated fair value and the carrying value of an asset or asset group, is recognized if the sum of the estimated undiscounted cash flows relating to the asset or asset group is less than the corresponding carrying value.  
+
+ The following table sets forth the carrying value and range of estimated remaining lives of our identifiable intangible assets by major asset class:  
+
+ Identifiable Intangible Assets by Asset Class
+
+ ($ in millions)   
+
+ [DATA_TABLE_REMOVED]  
+
+  (1)   Primarily includes our clearance and execution and NASDAQ customer lists related to SLK and financial counseling customer lists related to Ayco.   
+
+  (2)   Primarily includes the value of business acquired related to our insurance businesses.   
+
+  (3)   Primarily includes marketing-related assets and other contractual rights.    
+
+ A prolonged period of weakness in global equity markets could adversely impact our businesses and impair the value of our identifiable intangible assets. In addition, certain events could indicate a potential impairment of our identifiable intangible assets, including (i) changes in trading volumes or market structure that could adversely affect our exchange-based market-making businesses (see discussion below), (ii) an adverse action or assessment by a regulator or (iii) adverse actual experience on the contracts in our variable annuity and life insurance business.  
+
+ In October 2008, the SEC approved the NYSEs proposal to create a new market model and redefine the role of NYSE DMMs. In June 2009, the NYSE successfully completed the rollout of new systems architecture that further reduces order completion time, which enables the NYSE to offer competitive execution speeds, while continuing to incorporate the price discovery provided by DMMs. Following solid performance during the first half of 2009, in the latter half of 2009, our DMM business was adversely impacted primarily by the lack of timely market data in the internal order/execution system of the NYSE (which, at times, results in DMMs making markets without real-time price information) and to a lesser extent, by lower trading volumes and lower volatility. In 2010, the NYSE is expected to address this market data issue. There can be no assurance that changes in these factors will result in sufficient cash flows to avoid impairment of our NYSE DMM rights in the future. In accordance with the requirements of ASC 360, we will be closely monitoring the performance of our DMM business to determine whether an impairment loss is required in the future. As of December 2009, the carrying value of our NYSE DMM rights was $420 million. To the extent that there were to be an impairment in the future, it would result in a significant writedown in the carrying value of these DMM rights.   
+
+ 74  
+ Use of Estimates   
+
+ The use of generally accepted accounting principles requires management to make certain estimates and assumptions. In addition to the estimates we make in connection with fair value measurements and the accounting for goodwill and identifiable intangible assets, the use of estimates and assumptions is also important in determining provisions for potential losses that may arise from litigation and regulatory proceedings and tax audits.  
+
+ We estimate and provide for potential losses that may arise out of litigation and regulatory proceedings to the extent that such losses are probable and can be reasonably estimated. In accounting for income taxes, we estimate and provide for potential liabilities that may arise out of tax audits to the extent that uncertain tax positions fail to meet the recognition standard under ASC 740. See Note 2 to the consolidated financial statements in Part II, Item 8 of our Annual Report on Form 10-K for further information regarding accounting for income taxes.  
+
+ Significant judgment is required in making these estimates and our final liabilities may ultimately be materially different. Our total estimated liability in respect of litigation and regulatory proceedings is determined on a case-by-case basis and represents an estimate of probable losses after considering, among other factors, the progress of each case or proceeding, our experience and the experience of others in similar cases or proceedings, and the opinions and views of legal counsel. Given the inherent difficulty of predicting the outcome of our litigation and regulatory matters, particularly in cases or proceedings in which substantial or indeterminate damages or fines are sought, we cannot estimate losses or ranges of losses for cases or proceedings where there is only a reasonable possibility that a loss may be incurred. See  Legal Proceedings in Part I, Item 3 of our Annual Report on Form 10-K for information on our judicial, regulatory and arbitration proceedings.   
+
+ 75  
+ Results of Operations   
+
+ The composition of our net revenues has varied over time as financial markets and the scope of our operations have changed. The composition of net revenues can also vary over the shorter term due to fluctuations in U.S. and global economic and market conditions. See  Certain Risk Factors That May Affect Our Businesses above and Risk Factors in Part I, Item 1A of our Annual Report on Form 10-K for a further discussion of the impact of economic and market conditions on our results of operations.   
+
+ Financial Overview   
+
+ The following table sets forth an overview of our financial results:  
+
+ Financial Overview
+
+ ($ in millions, except per share amounts)   
+
+ [DATA_TABLE_REMOVED]  
+
+  (1)   ROE is computed by dividing net earnings applicable to common shareholders by average monthly common shareholders equity. The following table sets forth our average common shareholders equity:    
+
+ [DATA_TABLE_REMOVED]  
+
+ 76  
+ Net Revenues  
+
+ 2009 versus 2008. Our net revenues were $45.17 billion in 2009, more than double the amount in 2008, reflecting significantly higher net revenues in Trading and Principal Investments. The increase in Trading and Principal Investments reflected a very strong performance in FICC and significantly improved results in Principal Investments, as well as higher net revenues in Equities. During 2009, FICC operated in an environment characterized by strong client-driven activity, particularly in more liquid products. In addition, asset values generally improved and corporate credit spreads tightened significantly for most of the year. Net revenues in FICC were significantly higher compared with 2008, reflecting particularly strong performances in credit products, mortgages and interest rate products, which were each significantly higher than 2008. Net revenues in commodities were also particularly strong and were slightly higher than 2008, while net revenues in currencies were strong, but lower than a particularly strong 2008. During 2009, mortgages included a loss of approximately $1.5 billion (excluding hedges) on commercial mortgage loans. Results in 2008 were negatively impacted by asset writedowns across non-investment-grade credit origination activities, corporate debt, private and public equities, and residential and commercial mortgage loans and securities. The increase in Principal Investments reflected gains on corporate principal investments and our investment in the ordinary shares of ICBC compared with net losses in 2008. In 2009, results in Principal Investments included a gain of $1.58 billion related to our investment in the ordinary shares of ICBC, a gain of $1.31 billion from corporate principal investments and a loss of $1.76 billion from real estate principal investments. Net revenues in Equities for 2009 reflected strong results in the client franchise businesses. However, results in the client franchise businesses were lower than a strong 2008 and included significantly lower commissions. Results in principal strategies were positive compared with losses in 2008. During 2009, Equities operated in an environment characterized by a significant increase in global equity prices, favorable market opportunities and a significant decline in volatility levels.  
+
+ Net revenues in Asset Management and Securities Services decreased significantly compared with 2008, reflecting significantly lower net revenues in Securities Services, as well as lower net revenues in Asset Management. The decrease in Securities Services primarily reflected the impact of lower customer balances, reflecting lower hedge fund industry assets and reduced leverage. The decrease in Asset Management primarily reflected the impact of changes in the composition of assets managed, principally due to equity market depreciation during the fourth quarter of 2008, as well as lower incentive fees. During the year ended December 31, 2009, assets under management increased $73 billion to $871 billion, due to $76 billion of market appreciation, primarily in fixed income and equity assets, partially offset by $3 billion of net outflows. Outflows in money market assets were offset by inflows in fixed income assets.  
+
+ Net revenues in Investment Banking decreased compared with 2008, reflecting significantly lower net revenues in Financial Advisory, partially offset by higher net revenues in our Underwriting business. The decrease in Financial Advisory reflected a decline in industry-wide completed mergers and acquisitions. The increase in Underwriting reflected higher net revenues in equity underwriting, primarily reflecting an increase in industry-wide equity and equity-related offerings. Net revenues in debt underwriting were slightly lower than in 2008.  
+
+ 2008 versus 2007. Our net revenues were $22.22 billion in 2008, a decrease of 52% compared with 2007, reflecting a particularly difficult operating environment, including significant asset price declines, high levels of volatility and reduced levels of liquidity, particularly in the fourth quarter. In addition, credit markets experienced significant dislocation between prices for cash instruments and the related derivative contracts and between credit indices and underlying single names. Net revenues in Trading and Principal Investments were significantly lower compared with 2007, reflecting significant declines in FICC, Principal Investments and Equities. The decrease in FICC primarily reflected losses in credit products, which included a loss of approximately $3.1 billion (net of hedges) related to non-investment-grade credit origination activities and losses from investments, including corporate debt and private and public equities. Results in mortgages included net losses of approximately    
+
+ 77  
+ $1.7 billion on residential mortgage loans and securities and approximately $1.4 billion on commercial mortgage loans and securities. Interest rate products, currencies and commodities each produced particularly strong results and net revenues were higher compared with 2007. During 2008, although client-driven activity was generally solid, FICC operated in a challenging environment characterized by broad-based declines in asset values, wider mortgage and corporate credit spreads, reduced levels of liquidity and broad-based investor deleveraging, particularly in the second half of the year. The decline in Principal Investments primarily reflected net losses of $2.53 billion from corporate principal investments and $949 million from real estate principal investments, as well as a $446 million loss from our investment in the ordinary shares of ICBC. In Equities, the decrease compared with particularly strong net revenues in 2007 reflected losses in principal strategies, partially offset by higher net revenues in our client franchise businesses. Commissions were particularly strong and were higher than 2007. During 2008, Equities operated in an environment characterized by a significant decline in global equity prices, broad-based investor deleveraging and very high levels of volatility, particularly in the second half of the year.  
+
+ Net revenues in Investment Banking also declined significantly compared with 2007, reflecting significantly lower net revenues in both Financial Advisory and Underwriting. In Financial Advisory, the decrease compared with particularly strong net revenues in 2007 reflected a decline in industry-wide completed mergers and acquisitions. The decrease in Underwriting primarily reflected significantly lower net revenues in debt underwriting, primarily due to a decline in leveraged finance and mortgage-related activity, reflecting difficult market conditions. Net revenues in equity underwriting were slightly lower compared with 2007, reflecting a decrease in industry-wide equity and equity-related offerings.  
+
+ Net revenues in Asset Management and Securities Services increased compared with 2007. Securities Services net revenues were higher, reflecting the impact of changes in the composition of securities lending customer balances, as well as higher total average customer balances. Asset Management net revenues increased slightly compared with 2007. During the year, assets under management decreased $89 billion to $779 billion, due to $123 billion of market depreciation, primarily in equity assets, partially offset by $34 billion of net inflows.  
+
+ One Month Ended December 2008. Our net revenues were $183 million for the month of December 2008. These results reflected a continuation of the difficult operating environment experienced during our fiscal fourth quarter of 2008, particularly across global equity and credit markets. Trading and Principal Investments recorded negative net revenues of $507 million. Results in Principal Investments reflected net losses of $529 million from real estate principal investments and $501 million from corporate principal investments, partially offset by a gain of $228 million related to our investment in the ordinary shares of ICBC. Results in FICC included a loss in credit products of approximately $1 billion (net of hedges) related to non-investment-grade credit origination activities, primarily reflecting a writedown of approximately $850 million related to the bridge and bank loan facilities held in LyondellBasell Finance Company. In addition, results in mortgages included a loss of approximately $625 million (excluding hedges) on commercial mortgage loans and securities. Interest rate products, currencies and commodities each produced strong results for the month of December 2008. During the month of December, although market opportunities were favorable for certain businesses, FICC operated in an environment generally characterized by continued weakness in the broader credit markets. Results in Equities reflected lower commission volumes and lower net revenues from derivatives compared with average monthly levels in 2008, as well as weak results in principal strategies. During the month of December, Equities operated in an environment characterized by continued weakness in global equity markets and continued high levels of volatility.  
+
+ Net revenues in Investment Banking were $135 million for the month of December and reflected very low levels of activity in industry-wide completed mergers and acquisitions, as well as continued challenging market conditions across equity and leveraged finance markets, which adversely affected our Underwriting business.   
+
+ 78  
+ Net revenues in Asset Management and Securities Services were $555 million for the month of December, reflecting Asset Management net revenues of $319 million and Securities Services net revenues of $236 million. During the calendar month of December, assets under management increased $19 billion to $798 billion due to $13 billion of market appreciation, primarily in fixed income and equity assets, and $6 billion of net inflows. Net inflows reflected inflows in money market assets, partially offset by outflows in fixed income, equity and alternative investment assets. Net revenues in Securities Services reflected favorable changes in the composition of securities lending balances, but were negatively impacted by a decline in total average customer balances.  
+
+ Operating Expenses  
+
+ Our operating expenses are primarily influenced by compensation, headcount and levels of business activity. Compensation and benefits expenses includes salaries, discretionary compensation, amortization of equity awards and other items such as payroll taxes, severance costs and benefits. Discretionary compensation is significantly impacted by, among other factors, the level of net revenues, prevailing labor markets, business mix and the structure of our share-based compensation programs. Our ratio of compensation and benefits to net revenues was 35.8% for 2009 and represented our lowest annual ratio of compensation and benefits to net revenues. While net revenues for 2009 were only 2% lower than our record net revenues in 2007, total compensation and benefits expenses for 2009 were 20% lower than 2007. For 2008, our ratio of compensation and benefits (excluding severance costs of approximately $275 million in the fourth quarter of 2008) to net revenues was 48.0%. Our compensation expense can vary from year to year and is based on our performance, prevailing labor markets and other factors. Our record low compensation ratio for 2009 reflects both very strong net revenues and the broader environment in which we currently operate.  
+
+ On December 9, 2009, the United Kingdom proposed legislation that would impose a non-deductible 50% tax on certain financial institutions in respect of discretionary bonuses in excess of £25,000 awarded under arrangements made between December 9, 2009 and April 5, 2010 to relevant banking employees. We are currently evaluating the impact of the draft legislation on our results of operations. However, since this legislation is in draft form, certain details surrounding the tax have not been finalized. The impact of the tax will be recorded when the legislation is enacted, which is currently expected to occur in the second quarter of 2010.   
+
+ 79  
+ The following table sets forth our operating expenses and total staff:  
+
+ Operating Expenses and Total Staff
+
+ ($ in millions)   
+
+ [DATA_TABLE_REMOVED]  
+
+  [DATA_TABLE_REMOVED] 
+
+ 2009 versus 2008. Operating expenses of $25.34 billion for 2009 increased 27% compared with 2008. Compensation and benefits expenses (including salaries, discretionary compensation, amortization of equity awards and other items such as payroll taxes, severance costs and benefits) of $16.19 billion were higher compared with 2008, due to higher net revenues. Our ratio of compensation and benefits to net revenues for 2009 was 35.8%, down from 48.0% (excluding severance costs of approximately $275 million in the fourth quarter of 2008) for 2008. In 2009, compensation was reduced by $500 million to fund a charitable contribution to Goldman Sachs Gives, our donor-advised fund. Total staff decreased 2% during 2009. Total staff including consolidated entities held for investment purposes decreased 5% during 2009.  
+
+ Non-compensation expenses of $9.15 billion for 2009 increased 2% compared with 2008. The increase compared with 2008 reflected the impact of charitable contributions of approximately $850 million (included in other expenses) during 2009, primarily including $310 million to The Goldman Sachs Foundation and $500 million to Goldman Sachs Gives. Compensation was reduced to fund the charitable contribution to Goldman Sachs Gives. The focus for this $500 million contribution to Goldman Sachs Gives is on those areas that have proven to be fundamental to creating jobs and economic growth, building and stabilizing communities, honoring service and veterans and increasing educational opportunities. We will ask our participating managing directors to make recommendations regarding potential charitable recipients for this contribution. Depreciation and amortization expenses also increased compared with 2008 and included real estate impairment    
+
+ 80  
+ charges of approximately $600 million related to consolidated entities held for investment purposes during 2009. The real estate impairment charges, which were measured based on discounted cash flow analysis, are included in our Trading and Principal Investments segment and reflected weakness in the commercial real estate markets, particularly in Asia. These increases were partially offset by the impact of lower brokerage, clearing, exchange and distribution fees, principally reflecting lower transaction volumes in Equities, and the impact of reduced staff levels and expense reduction initiatives during 2009.  
+
+ 2008 versus 2007. Operating expenses of $19.89 billion for 2008 decreased 30% compared with 2007. Compensation and benefits expenses (including salaries, discretionary compensation, amortization of equity awards and other items such as payroll taxes, severance costs and benefits) of $10.93 billion decreased 46% compared with 2007, reflecting lower levels of discretionary compensation due to lower net revenues. For 2008, our ratio of compensation and benefits (excluding severance costs of approximately $275 million in the fourth quarter of 2008) to net revenues was 48.0%. Our ratio of compensation and benefits to net revenues was 43.9% for 2007. Total staff decreased 3% during 2008. Total staff including consolidated entities held for investment purposes decreased 2% during 2008.  
+
+ Non-compensation expenses of $8.95 billion for 2008 increased 9% compared with 2007. The increase compared with 2007 was principally attributable to higher depreciation and amortization expenses, primarily reflecting the impact of real estate impairment charges related to consolidated entities held for investment purposes during 2008, and higher brokerage, clearing, exchange and distribution fees, primarily due to increased activity levels in Equities and FICC.  
+
+ One Month Ended December 2008. Operating expenses were $1.44 billion for the month of December 2008. Compensation and benefits expenses (including salaries, amortization of equity awards and other items such as payroll taxes, severance costs and benefits) were $744 million. No discretionary compensation was accrued for the month of December. Total staff decreased 3% compared with the end of fiscal year 2008. Total staff including consolidated entities held for investment purposes decreased 3% compared with the end of fiscal year 2008.  
+
+ Non-compensation expenses of $697 million for the month of December 2008 were generally lower than average monthly levels in 2008, primarily reflecting lower levels of business activity. Total non-compensation expenses included $68 million of net provisions for a number of litigation and regulatory proceedings.  
+
+ Provision for Taxes  
+
+ During 2009, the firm incurred $6.44 billion of corporate taxes, resulting in an effective income tax rate of 32.5%. The effective income tax rate for 2008 was approximately 1% and the effective income tax rate for 2007 was 34.1%. The increase in the effective income tax rate for 2009 compared with 2008 was primarily due to changes in the geographic earnings mix and a decrease in permanent benefits as a percentage of higher earnings. The effective tax rate for 2009 represents a return to a geographic earnings mix that is more in line with our historic earnings mix. The decrease in the effective income tax rate for 2008 compared with 2007 was primarily due to an increase in permanent benefits as a percentage of lower earnings and changes in geographic earnings mix. During 2008, we incurred losses in various U.S. and non-U.S. entities whose income/(losses) are subject to tax in the U.S. We also had profitable operations in certain non-U.S. entities that are taxed at their applicable local tax rates, which are generally lower than the U.S. rate. The effective income tax rate for the month of December 2008 was 38.0%.  
+
+ Effective January 1, 2010, the rules related to the deferral of U.S. tax on certain non-repatriated active financing income expired. We are currently assessing the impact but do not expect this change to be material to our financial condition, results of operations or cash flows for 2010.   
+
+ 81  
+ Our effective income tax rate can vary from period to period depending on, among other factors, the geographic and business mix of our earnings, the level of our pre-tax earnings, the level of our tax credits and the effect of tax audits. Certain of these and other factors, including our history of pre-tax earnings, are taken into account in assessing our ability to realize our net deferred tax assets. See Note 16 to the consolidated financial statements in Part II, Item 8 of our Annual Report on Form 10-K for further information regarding our provision for taxes.   
+
+ Segment Operating Results   
+
+ The following table sets forth the net revenues, operating expenses and pre-tax earnings of our segments:  
+
+ Segment Operating Results
+
+ (in millions)   
+
+  [DATA_TABLE_REMOVED] 
+
+  (1)   Operating expenses include net provisions for a number of litigation and regulatory proceedings of $104 million, $(4) million, $37 million and $68 million for the years ended December 2009, November 2008 and November 2007 and one month ended December 2008, respectively, that have not been allocated to our segments.    
+
+ Net revenues in our segments include allocations of interest income and interest expense to specific securities, commodities and other positions in relation to the cash generated by, or funding requirements of, such underlying positions. See Note 18 to the consolidated financial statements in Part II, Item 8 of our Annual Report on Form 10-K for further information regarding our business segments.  
+
+ The cost drivers of Goldman Sachs taken as a whole  compensation, headcount and levels of business activity  are broadly similar in each of our business segments. Compensation and benefits expenses within our segments reflect, among other factors, the overall performance of Goldman Sachs as well as the performance of individual business units. Consequently, pre-tax margins in one segment of our business may be significantly affected by the performance of our other business segments. A discussion of segment operating results follows.   
+
+ 82  
+ Investment Banking  
+
+ Our Investment Banking segment is divided into two components:  
+
+  [DATA_TABLE_REMOVED] 
+
+ The following table sets forth the operating results of our Investment Banking segment:  
+
+ Investment Banking Operating Results
+
+ (in millions)   
+
+ [DATA_TABLE_REMOVED]  
+
+ The following table sets forth our financial advisory and underwriting transaction volumes:  
+
+ Goldman Sachs Global Investment Banking Volumes (1)
+
+ (in billions)   
+
+ [DATA_TABLE_REMOVED]  
+
+  [DATA_TABLE_REMOVED]  
+
+ 83  
+ 2009 versus 2008. Net revenues in Investment Banking of $4.80 billion for 2009 decreased 7% compared with 2008.  
+
+ Net revenues in Financial Advisory of $1.89 billion decreased 29% compared with 2008, reflecting a decline in industry-wide completed mergers and acquisitions. Net revenues in our Underwriting business of $2.90 billion increased 15% compared with 2008, due to higher net revenues in equity underwriting, primarily reflecting an increase in industry-wide equity and equity-related offerings. Net revenues in debt underwriting were slightly lower than in 2008. Our investment banking transaction backlog increased significantly during the twelve months ended December 31, 2009. (1)  
+
+ Operating expenses of $3.53 billion for 2009 increased 12% compared with 2008, due to increased compensation and benefits expenses. Pre-tax earnings of $1.27 billion in 2009 decreased 38% compared with 2008.  
+
+ 2008 versus 2007. Net revenues in Investment Banking of $5.19 billion for 2008 decreased 31% compared with 2007.  
+
+ Net revenues in Financial Advisory of $2.66 billion decreased 37% compared with particularly strong net revenues in 2007, primarily reflecting a decline in industry-wide completed mergers and acquisitions. Net revenues in our Underwriting business of $2.53 billion decreased 24% compared with 2007, principally due to significantly lower net revenues in debt underwriting. The decrease in debt underwriting was primarily due to a decline in leveraged finance and mortgage-related activity, reflecting difficult market conditions. Net revenues in equity underwriting were slightly lower compared with 2007, reflecting a decrease in industry-wide equity and equity-related offerings. Our investment banking transaction backlog ended the year significantly lower than at the end of 2007. (1)  
+
+ Operating expenses of $3.14 billion for 2008 decreased 37% compared with 2007, due to decreased compensation and benefits expenses, resulting from lower levels of discretionary compensation. Pre-tax earnings of $2.04 billion in 2008 decreased 21% compared with 2007.  
+
+ One Month Ended December 2008. Net revenues in Investment Banking were $135 million for the month of December 2008. Net revenues in Financial Advisory were $72 million, reflecting very low levels of industry-wide completed mergers and acquisitions activity. Net revenues in our Underwriting business were $63 million, reflecting continued challenging market conditions across equity and leveraged finance markets. Our investment banking transaction backlog decreased from the end of fiscal year 2008. (1)  
+
+ Operating expenses were $169 million for the month of December 2008. Pre-tax loss was $34 million for the month of December 2008.   
+
+ (1) Our investment banking transaction backlog represents an estimate of our future net revenues from investment banking transactions where we believe that future revenue realization is more likely than not.  
+
+ 84  
+ Trading and Principal Investments  
+
+ Our Trading and Principal Investments segment is divided into three components:  
+
+  [DATA_TABLE_REMOVED] 
+
+ Substantially all of our inventory is marked-to-market daily and, therefore, its value and our net revenues are subject to fluctuations based on market movements. In addition, net revenues derived from our principal investments, including those in privately held concerns and in real estate, may fluctuate significantly depending on the revaluation of these investments in any given period. We also regularly enter into large transactions as part of our trading businesses. The number and size of such transactions may affect our results of operations in a given period.  
+
+ Net revenues from Principal Investments do not include management fees generated from our merchant banking funds. These management fees are included in the net revenues of the Asset Management and Securities Services segment.   
+
+ 85  
+ The following table sets forth the operating results of our Trading and Principal Investments segment:  
+
+ Trading and Principal Investments Operating Results
+
+ (in millions)   
+
+ [DATA_TABLE_REMOVED]  
+
+ 2009 versus 2008. Net revenues in Trading and Principal Investments of $34.37 billion for 2009 increased significantly compared with 2008.  
+
+ Net revenues in FICC of $23.32 billion for 2009 increased significantly compared with 2008. During 2009, FICC operated in an environment characterized by strong client-driven activity, particularly in more liquid products. In addition, asset values generally improved and corporate credit spreads tightened significantly for most of the year. The increase in net revenues compared with 2008 reflected particularly strong performances in credit products, mortgages and interest rate products, which were each significantly higher than 2008. Net revenues in commodities were also particularly strong and were slightly higher than 2008, while net revenues in currencies were strong, but lower than a particularly strong 2008. During 2009, mortgages included a loss of approximately $1.5 billion (excluding hedges) on commercial mortgage loans. Results in 2008 were negatively impacted by asset writedowns across non-investment-grade credit origination activities, corporate debt, private and public equities, and residential and commercial mortgage loans and securities.  
+
+ Net revenues in Equities of $9.89 billion for 2009 increased 7% compared with 2008. Net revenues for 2009 reflected strong results in the client franchise businesses. However, these results were lower than a strong 2008 and included significantly lower commissions. Results in principal strategies were positive compared with losses in 2008. During 2009, Equities operated in an environment characterized by a significant increase in global equity prices, favorable market opportunities and a significant decline in volatility levels.  
+
+ Principal Investments recorded net revenues of $1.17 billion for 2009. These results included a gain of $1.58 billion related to our investment in the ordinary shares of ICBC, a gain of $1.31 billion from corporate principal investments and a loss of $1.76 billion from real estate principal investments.   
+
+ 86  
+ Operating expenses of $17.05 billion for 2009 increased 44% compared with 2008, due to increased compensation and benefits expenses, resulting from higher net revenues. In addition, depreciation and amortization expenses were higher than 2008, reflecting the impact of real estate impairment charges of approximately $600 million related to consolidated entities held for investment purposes during 2009, while brokerage, clearing, exchange and distribution fees were lower than 2008, principally reflecting lower transaction volumes in Equities. Pre-tax earnings were $17.32 billion in 2009 compared with a pre-tax loss of $2.75 billion in 2008.  
+
+ 2008 versus 2007. Net revenues in Trading and Principal Investments of $9.06 billion for 2008 decreased 71% compared with 2007.  
+
+ Net revenues in FICC of $3.71 billion for 2008 decreased 77% compared with 2007, primarily reflecting losses in credit products, which included a loss of approximately $3.1 billion (net of hedges) related to non-investment-grade credit origination activities and losses from investments, including corporate debt and private and public equities. Results in mortgages included net losses of approximately $1.7 billion on residential mortgage loans and securities and approximately $1.4 billion on commercial mortgage loans and securities. Interest rate products, currencies and commodities each produced particularly strong results and net revenues were higher compared with 2007. During 2008, although client-driven activity was generally solid, FICC operated in a challenging environment characterized by broad-based declines in asset values, wider mortgage and corporate credit spreads, reduced levels of liquidity and broad-based investor deleveraging, particularly in the second half of the year.  
+
+ Net revenues in Equities of $9.21 billion for 2008 decreased 19% compared with a particularly strong 2007, reflecting losses in principal strategies, partially offset by higher net revenues in the client franchise businesses. Commissions were particularly strong and were higher than 2007. During 2008, Equities operated in an environment characterized by a significant decline in global equity prices, broad-based investor deleveraging and very high levels of volatility, particularly in the second half of the year.  
+
+ Principal Investments recorded a net loss of $3.86 billion for 2008. These results included net losses of $2.53 billion from corporate principal investments and $949 million from real estate principal investments, as well as a $446 million loss related to our investment in the ordinary shares of ICBC.  
+
+ Operating expenses of $11.81 billion for 2008 decreased 34% compared with 2007, due to decreased compensation and benefits expenses, resulting from lower levels of discretionary compensation. This decrease was partially offset by increased depreciation and amortization expenses, primarily reflecting the impact of real estate impairment charges related to consolidated entities held for investment purposes during 2008, and higher brokerage, clearing, exchange and distribution fees, primarily reflecting increased activity levels in Equities and FICC. Pre-tax loss was $2.75 billion in 2008 compared with pre-tax earnings of $13.23 billion in 2007.  
+
+ One Month Ended December 2008. Trading and Principal Investments recorded negative net revenues of $507 million for the month of December 2008.  
+
+ FICC recorded negative net revenues of $320 million for the month of December 2008. Results in credit products included a loss of approximately $1 billion (net of hedges) related to non-investment-grade credit origination activities, primarily reflecting a writedown of approximately $850 million related to the bridge and bank loan facilities held in LyondellBasell Finance Company. In addition, results in mortgages included a loss of approximately $625 million (excluding hedges) on commercial mortgage loans and securities. Interest rate products, currencies and commodities each produced strong results for the month of December 2008. During the month of December, although market opportunities were favorable for certain businesses, FICC operated in an environment generally characterized by continued weakness in the broader credit markets.   
+
+ 87  
+ Net revenues in Equities were $614 million for the month of December 2008. These results reflected lower commission volumes and lower net revenues from derivatives compared with average monthly levels in 2008, as well as weak results in principal strategies. During the month of December, Equities operated in an environment characterized by continued weakness in global equity markets and continued high levels of volatility.  
+
+ Principal Investments recorded a net loss of $801 million for the month of December 2008. These results included net losses of $529 million from real estate principal investments and $501 million from corporate principal investments, partially offset by a gain of $228 million related to our investment in the ordinary shares of ICBC.  
+
+ Operating expenses were $875 million for the month of December 2008. Pre-tax loss was $1.38 billion for the month of December 2008.  
+
+ Asset Management and Securities Services  
+
+ Our Asset Management and Securities Services segment is divided into two components:  
+
+  [DATA_TABLE_REMOVED] 
+
+ Assets under management typically generate fees as a percentage of asset value, which is affected by investment performance and by inflows and redemptions. The fees that we charge vary by asset class, as do our related expenses. In certain circumstances, we are also entitled to receive incentive fees based on a percentage of a funds return or when the return on assets under management exceeds specified benchmark returns or other performance targets. Incentive fees are recognized when the performance period ends (in most cases, on December 31) and they are no longer subject to adjustment.   
+
+ 88  
+ The following table sets forth the operating results of our Asset Management and Securities Services segment:  
+
+ Asset Management and Securities Services Operating Results
+
+ (in millions)   
+
+ [DATA_TABLE_REMOVED]  
+
+ Assets under management include assets in our mutual funds, alternative investment funds and separately managed accounts for institutional and individual investors. Substantially all assets under management are valued as of calendar month-end. Assets under management do not include:  
+
+  [DATA_TABLE_REMOVED] 
+
+ The following table sets forth our assets under management by asset class:  
+
+ Assets Under Management by Asset Class
+
+ (in billions)   
+
+ [DATA_TABLE_REMOVED]  
+
+  (1)   Primarily includes hedge funds, private equity, real estate, currencies, commodities and asset allocation strategies.     
+
+ 89  
+ The following table sets forth a summary of the changes in our assets under management:  
+
+ Changes in Assets Under Management
+
+ (in billions)   
+
+ [DATA_TABLE_REMOVED]  
+
+  (1)   Includes market appreciation of $13 billion and net inflows of $6 billion during the calendar month of December 2008.   
+
+  (2)   Includes $7 billion in net asset inflows in connection with our acquisition of Macquarie  IMM Investment Management.    
+
+ 2009 versus 2008. Net revenues in Asset Management and Securities Services of $6.00 billion for 2009 decreased 25% compared with 2008.  
+
+ Asset Management net revenues of $3.97 billion for 2009 decreased 13% compared with 2008, primarily reflecting the impact of changes in the composition of assets managed, principally due to equity market depreciation during the fourth quarter of 2008, as well as lower incentive fees. During the year ended December 31, 2009, assets under management increased $73 billion to $871 billion, due to $76 billion of market appreciation, primarily in fixed income and equity assets, partially offset by $3 billion of net outflows. Outflows in money market assets were offset by inflows in fixed income assets.  
+
+ Securities Services net revenues of $2.03 billion decreased 41% compared with 2008. The decrease in net revenues primarily reflected the impact of lower customer balances, reflecting lower hedge fund industry assets and reduced leverage.  
+
+ Operating expenses of $4.66 billion for 2009 decreased 6% compared with 2008, due to decreased compensation and benefits expenses. Pre-tax earnings of $1.34 billion in 2009 decreased 56% compared with 2008.  
+
+ 2008 versus 2007. Net revenues in Asset Management and Securities Services of $7.97 billion for 2008 increased 11% compared with 2007.  
+
+ Asset Management net revenues of $4.55 billion for 2008 increased 1% compared with 2007. During 2008, assets under management decreased $89 billion to $779 billion, due to $123 billion of market depreciation, primarily in equity assets, partially offset by $34 billion of net inflows. Net inflows reflected inflows in money market, fixed income and alternative investment assets, partially offset by outflows in equity assets.  
+
+ Securities Services net revenues of $3.42 billion for 2008 increased 26% compared with 2007, reflecting the impact of changes in the composition of securities lending customer balances, as well as higher total average customer balances.   
+
+ 90  
+ Operating expenses of $4.94 billion for 2008 decreased 8% compared with 2007, due to decreased compensation and benefits expenses, resulting from lower levels of discretionary compensation. Pre-tax earnings of $3.04 billion in 2008 increased 65% compared with 2007.  
+
+ One Month Ended December 2008. Net revenues in Asset Management and Securities Services were $555 million for the month of December 2008.  
+
+ Asset Management net revenues were $319 million for the month of December 2008. During the calendar month of December, assets under management increased $19 billion to $798 billion due to $13 billion of market appreciation, primarily in fixed income and equity assets, and $6 billion of net inflows. Net inflows reflected inflows in money market assets, partially offset by outflows in fixed income, equity and alternative investment assets.  
+
+ Securities Services net revenues were $236 million for the month of December 2008. These results reflected favorable changes in the composition of securities lending balances, but were negatively impacted by a decline in total average customer balances.  
+
+ Operating expenses were $329 million for the month of December 2008. Pre-tax earnings were $226 million for the month of December 2008.   
+
+ Geographic Data   
+
+ See Note 18 to the consolidated financial statements in Part II, Item 8 of our Annual Report on Form 10-K for a summary of our total net revenues, pre-tax earnings and net earnings by geographic region.   
+
+ Off-Balance-Sheet Arrangements   
+
+ We have various types of off-balance-sheet arrangements that we enter into in the ordinary course of business. Our involvement in these arrangements can take many different forms, including purchasing or retaining residual and other interests in mortgage-backed and other asset-backed securitization vehicles; holding senior and subordinated debt, interests in limited and general partnerships, and preferred and common stock in other nonconsolidated vehicles; entering into interest rate, foreign currency, equity, commodity and credit derivatives, including total return swaps; entering into operating leases; and providing guarantees, indemnifications, loan commitments, letters of credit and representations and warranties.  
+
+ We enter into these arrangements for a variety of business purposes, including the securitization of commercial and residential mortgages, corporate bonds, and other types of financial assets. Other reasons for entering into these arrangements include underwriting client securitization transactions; providing secondary market liquidity; making investments in performing and nonperforming debt, equity, real estate and other assets; providing investors with credit-linked and asset-repackaged notes; and receiving or providing letters of credit to satisfy margin requirements and to facilitate the clearance and settlement process.  
+
+ We engage in transactions with variable interest entities (VIEs), including VIEs that were considered qualifying special-purpose entities (QSPEs) prior to our adoption of Accounting Standards Update 2009-16, Transfers and Servicing (Topic 860)  Accounting for Transfers of Financial Assets, in the first quarter of 2010. Asset-backed financing vehicles are critical to the functioning of several significant investor markets, including the mortgage-backed and other asset-backed securities markets, since they offer investors access to specific cash flows and risks created through the securitization process. Our financial interests in, and derivative transactions with, such nonconsolidated entities are accounted for at fair value, in the same manner as our other financial instruments, except in cases where we apply the equity method of accounting.  
+
+ We did not have off-balance-sheet commitments to purchase or finance any CDOs held by structured investment vehicles as of December 2009 or November 2008.   
+
+ 91  
+ In December 2007, the American Securitization Forum (ASF) issued the Streamlined Foreclosure and Loss Avoidance Framework for Securitized Subprime Adjustable Rate Mortgage Loans (ASF Framework). The ASF Framework provides guidance for servicers to streamline borrower evaluation procedures and to facilitate the use of foreclosure and loss prevention measures for securitized subprime residential mortgages that meet certain criteria. For certain eligible loans as defined in the ASF Framework, servicers may presume default is reasonably foreseeable and apply a fast-track loan modification plan, under which the loan interest rate will be kept at the then current rate for a period up to five years following the upcoming reset date. Mortgage loan modifications of these eligible loans did not affect our accounting treatment for QSPEs that hold the subprime loans.  
+
+ The following table sets forth where a discussion of off-balance-sheet arrangements may be found in Part II, Items 7 and 8 of our Annual Report on Form 10-K:  
+
+  Type of Off-Balance-Sheet Arrangement     Disclosure in Annual Report on Form 10-K   
+
+  Retained interests or other continuing involvement relating to assets transferred by us to nonconsolidated entities     See Note 4 to the consolidated financial statements in Part II, Item 8 of our Annual Report on Form 10-K.   
+
+  Leases, letters of credit, and loans and other commitments     See Note 8 to the consolidated financial statements in Part II, Item 8 of our Annual Report on Form 10-K and  Contractual Obligations below.   
+
+  Guarantees     See Note 8 to the consolidated financial statements in Part II, Item 8 of our Annual Report on Form 10-K.   
+
+  Other obligations, including contingent obligations, arising out of variable interests we have in nonconsolidated entities     See Note 4 to the consolidated financial statements in Part II, Item 8 of our Annual Report on Form 10-K.   
+
+  Derivative contracts     See  Critical Accounting Policies above, and  Risk Management and  Derivatives below and Notes 3 and 7 to the consolidated financial statements in Part II, Item 8 of our Annual Report on Form 10-K.   
+
+ In addition, see Note 2 to the consolidated financial statements in Part II, Item 8 of our Annual Report on Form 10-K for a discussion of our consolidation policies and recent accounting developments that affected these policies effective January 1, 2010.   
+
+ 92  
+ Equity Capital   
+
+ The level and composition of our equity capital are determined by multiple factors including our consolidated regulatory capital requirements and an internal risk-based capital assessment, and may also be influenced by rating agency guidelines, subsidiary capital requirements, the business environment, conditions in the financial markets and assessments of potential future losses due to adverse changes in our business and market environments.  
+
+ Our consolidated regulatory capital requirements are determined by the Federal Reserve Board, as described below. Our internal risk-based capital assessment is designed to identify and measure material risks associated with our business activities, including market risk, credit risk and operational risk, in a manner that is closely aligned with our risk management practices.  
+
+ As of December 2009, our total shareholders equity was $70.71 billion (consisting of common shareholders equity of $63.76 billion and preferred stock of $6.96 billion). As of November 2008, our total shareholders equity was $64.37 billion (consisting of common shareholders equity of $47.90 billion and preferred stock of $16.47 billion). In addition to total shareholders equity, we consider our $5.00 billion of junior subordinated debt issued to trusts to be part of our equity capital, as it qualifies as capital for regulatory and certain rating agency purposes.  
+
+ Consolidated Capital Requirements  
+
+ The Federal Reserve Board is the primary U.S. regulator of Group Inc., a bank holding company that in August 2009 also became a financial holding company under the U.S. Gramm-Leach-Bliley Act of 1999. As a bank holding company, we are subject to consolidated regulatory capital requirements administered by the Federal Reserve Board. Under the Federal Reserve Boards capital adequacy rules, Goldman Sachs must meet specific capital requirements that involve quantitative measures of assets, liabilities and certain off-balance-sheet items as calculated under regulatory reporting practices. The firms capital levels are also subject to qualitative judgments by its regulators about components, risk weightings and other factors.   
+
+ 93  
+ Consolidated Capital Ratios  
+
+ The following table sets forth information regarding our consolidated capital ratios as of December 2009 calculated in accordance with the Federal Reserve Boards regulatory capital requirements currently applicable to bank holding companies, which are based on Basel I. These ratios are used by the Federal Reserve Board and other U.S. federal banking agencies in the supervisory review process, including the assessment of our capital adequacy. The calculation of these ratios includes certain market risk measures that are under review by the Federal Reserve Board. The calculation of these ratios has not been reviewed with the Federal Reserve Board and, accordingly, these ratios may be revised in subsequent filings.  
+
+ [DATA_TABLE_REMOVED]  
+
+  [DATA_TABLE_REMOVED] 
+
+ RWAs under the Federal Reserve Boards risk-based capital guidelines are calculated based on the amount of market risk and credit risk. RWAs for market risk include certain measures that are under review by the Federal Reserve Board. Credit risk for on-balance sheet assets is based on the balance sheet value. For off-balance sheet exposures, including OTC derivatives and commitments, a credit equivalent amount is calculated based on the notional of each trade. All such assets and amounts are then assigned a risk weight depending on, among other things, whether the counterparty is a sovereign, bank or qualifying securities firm, or other entity (or if collateral is held, depending on the nature of the collateral).  
+
+ Our Tier 1 leverage ratio is defined as Tier 1 capital under Basel I divided by adjusted average total assets (which includes adjustments for disallowed goodwill and certain intangible assets).   
+
+ 94  
+ Federal Reserve Board regulations require bank holding companies to maintain a minimum Tier 1 capital ratio of 4% and a minimum total capital ratio of 8%. The required minimum Tier 1 capital ratio and total capital ratio in order to be considered a well capitalized bank holding company under the Federal Reserve Board guidelines are 6% and 10%, respectively. Bank holding companies may be expected to maintain ratios well above the minimum levels, depending upon their particular condition, risk profile and growth plans. The minimum Tier 1 leverage ratio is 3% for bank holding companies that have received the highest supervisory rating under Federal Reserve Board guidelines or that have implemented the Federal Reserve Boards risk-based capital measure for market risk. Other bank holding companies must have a minimum Tier 1 leverage ratio of 4%.  
+
+ During 2009, the Basel Committee on Banking Supervision proposed several changes to the method of computing capital ratios. In addition, there are several other proposals which could potentially impact capital requirements. As a consequence, it is possible that minimum capital ratios required to be maintained under Federal Reserve Board regulations could be increased. It is also possible that changes in the prescribed calculation methodology could result in higher RWAs and lower capital ratios than are currently computed.  
+
+ Subsidiary Capital Requirements  
+
+ Many of our subsidiaries are subject to separate regulation and capital requirements in jurisdictions throughout the world. GS Bank USA, a New York State-chartered bank and a member of the Federal Reserve System and the Federal Deposit Insurance Corporation (FDIC), is regulated by the Federal Reserve Board and the New York State Banking Department and is subject to minimum capital requirements that (subject to certain exceptions) are similar to those applicable to bank holding companies. GS Bank USA and its subsidiaries are subject to the regulatory framework for prompt corrective action (PCA). GS Bank USA computes its capital ratios in accordance with the regulatory capital guidelines currently applicable to state member banks, which are based on Basel I as implemented by the Federal Reserve Board, for purposes of assessing the adequacy of its capital. GS Bank USAs capital levels and PCA classification are subject to qualitative judgments by its regulators about components, risk weightings and other factors.  
+
+ GS&Co. and Goldman Sachs Execution & Clearing, L.P. are registered U.S. broker-dealers and futures commission merchants, and are subject to regulatory capital requirements, including those imposed by the SEC, the Commodity Futures Trading Commission, the Chicago Board of Trade, the Financial Industry Regulatory Authority, Inc. and the National Futures Association. Goldman Sachs International (GSI) and Goldman Sachs Japan Co., Ltd., our principal non-U.S. regulated broker-dealer subsidiaries, are subject to the capital requirements of the U.K.s Financial Services Authority and Japans Financial Services Agency, respectively.  
+
+ See Note 17 to the consolidated financial statements in Part II, Item 8 of our Annual Report on Form 10-K for information regarding GS Bank USAs capital ratios under Basel I as implemented by the Federal Reserve Board, and for further information regarding the capital requirements of our other regulated subsidiaries.  
+
+ Subsidiaries not subject to separate regulatory capital requirements may hold capital to satisfy local tax guidelines, rating agency requirements (for entities with assigned credit ratings) or internal policies, including policies concerning the minimum amount of capital a subsidiary should hold based on its underlying level of risk. In certain instances, Group Inc. may be limited in its ability to access capital held at certain subsidiaries as a result of regulatory, tax or other constraints. As of December 2009, Group Inc.s equity investment in subsidiaries was $65.74 billion compared with its total shareholders equity of $70.71 billion.   
+
+ 95  
+ Group Inc. has guaranteed the payment obligations of GS&Co., GS Bank USA and GS Bank Europe, subject to certain exceptions. In November 2008, we contributed subsidiaries into GS Bank USA, and Group Inc. agreed to guarantee certain losses, including credit-related losses, relating to assets held by the contributed entities. In connection with this guarantee, Group Inc. also agreed to pledge to GS Bank USA certain collateral, including interests in subsidiaries and other illiquid assets.  
+
+ Our capital invested in non-U.S. subsidiaries is generally exposed to foreign exchange risk, substantially all of which is managed through a combination of derivative contracts and non-U.S. denominated debt.  
+
+ Rating Agency Guidelines  
+
+ The credit rating agencies assign credit ratings to the obligations of Group Inc., which directly issues or guarantees substantially all of the firms senior unsecured obligations. GS Bank USA has also been assigned a long-term issuer rating as well as ratings on its long-term and short-term bank deposits. In addition, credit rating agencies have assigned ratings to debt obligations of certain other subsidiaries of Group Inc.  
+
+ The level and composition of our equity capital are among the many factors considered in determining our credit ratings. Each agency has its own definition of eligible capital and methodology for evaluating capital adequacy, and assessments are generally based on a combination of factors rather than a single calculation. See  Liquidity and Funding Risk  Credit Ratings below for further information regarding our credit ratings.  
+
+ Equity Capital Management  
+
+ Our objective is to maintain a sufficient level and optimal composition of equity capital. We principally manage our capital through issuances and repurchases of our common stock. We may also, from time to time, issue or repurchase our preferred stock, junior subordinated debt issued to trusts and other subordinated debt as business conditions warrant. We manage our capital requirements principally by setting limits on balance sheet assets and/or limits on risk, in each case at both the consolidated and business unit levels. We attribute capital usage to each of our business units based upon our internal risk-based capital framework and manage the levels of usage based upon the balance sheet and risk limits established.  
+
+ Stock Offering. During the second quarter of 2009, we completed a public offering of 46.7 million common shares at $123.00 per share for total proceeds of $5.75 billion.  
+
+ Preferred Stock. In June 2009, we repurchased from the U.S. Treasury the 10.0 million shares of our Fixed Rate Cumulative Perpetual Preferred Stock, Series H (Series H Preferred Stock), that were issued to the U.S. Treasury pursuant to the U.S. Treasurys TARP Capital Purchase Program. The repurchase resulted in a one-time preferred dividend of $426 million, which is included in the consolidated statement of earnings for the year ended December 2009. This one-time preferred dividend represented the difference between the carrying value and the redemption value of the Series H Preferred Stock. In connection with the issuance of the Series H Preferred Stock in October 2008, we issued a 10-year warrant to the U.S. Treasury to purchase up to 12.2 million shares of common stock at an exercise price of $122.90 per share. We repurchased this warrant in full in July 2009 for $1.1 billion, which was recorded as a reduction to additional paid-in capital. Our cumulative payments to the U.S. Treasury related to the U.S. Treasurys TARP Capital Purchase Program totaled $11.42 billion, including the return of the U.S. Treasurys $10.0 billion investment (inclusive of the $426 million described above), $318 million in preferred dividends and $1.1 billion related to the warrant repurchase.   
+
+ 96  
+ In October 2008, we issued to Berkshire Hathaway and certain affiliates 50,000 shares of 10% Cumulative Perpetual Preferred Stock, Series G (Series G Preferred Stock), and a five-year warrant to purchase up to 43.5 million shares of common stock at an exercise price of $115.00 per share, for aggregate proceeds of $5.00 billion. The allocated carrying values of the warrant and the Series G Preferred Stock (based on their relative fair values on the date of issuance) were $1.14 billion and $3.86 billion, respectively. The Series G Preferred Stock is redeemable at the firms option, subject to the approval of the Federal Reserve Board, at a redemption value of $5.50 billion, plus accrued and unpaid dividends. Accordingly, upon a redemption in full at any time in the future of the Series G Preferred Stock, we would recognize a one-time preferred dividend of $1.64 billion (calculated as the difference between the carrying value and redemption value of the preferred stock), which would be recorded as a reduction to our earnings applicable to common shareholders and to our common shareholders equity in the period of redemption.  
+
+ Share Repurchase Program. We seek to use our share repurchase program to help maintain the appropriate level of common equity and to substantially offset increases in share count over time resulting from employee share-based compensation. The repurchase program is effected primarily through regular open-market purchases, the amounts and timing of which are determined primarily by our current and projected capital positions (i.e., comparisons of our desired level of capital to our actual level of capital) but which may also be influenced by general market conditions and the prevailing price and trading volumes of our common stock. Any repurchase of our common stock requires approval by the Federal Reserve Board.  
+
+ As of December 2009, we were authorized to repurchase up to 60.8 million additional shares of common stock pursuant to our repurchase program, subject to the approval of the Federal Reserve Board. See Market for Registrants Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities in Part II, Item 5 and Note 9 to the consolidated financial statements in Part II, Item 8 of our Annual Report on Form 10-K for additional information on our repurchase program.  
+
+ See Notes 7 and 9 to the consolidated financial statements in Part II, Item 8 of our Annual Report on Form 10-K for further information regarding our preferred stock, junior subordinated debt issued to trusts and other subordinated debt.   
+
+ 97  
+ Capital Ratios and Metrics  
+
+ The following table sets forth information on our assets, shareholders equity, leverage ratios, capital ratios and book value per common share:  
+
+ [DATA_TABLE_REMOVED]  
+
+  (1)   Adjusted assets excludes (i) low-risk collateralized assets generally associated with our matched book and securities lending businesses and federal funds sold, (ii) cash and securities we segregate for regulatory and other purposes and (iii) goodwill and identifiable intangible assets which are deducted when calculating tangible equity capital (see footnote 2 below).    
+
+ The following table sets forth the reconciliation of total assets to adjusted assets:  
+
+ [DATA_TABLE_REMOVED]  
+
+  (2)   Tangible equity capital equals total shareholders equity and junior subordinated debt issued to trusts less goodwill and identifiable intangible assets. We consider junior subordinated debt issued to trusts to be a component of our tangible equity capital base due to certain characteristics of the debt, including its long-term nature, our ability to defer payments due on the debt and the subordinated nature of the debt in our capital structure.     
+
+ 98  
+ The following table sets forth the reconciliation of total shareholders equity to tangible equity capital:  
+
+ [DATA_TABLE_REMOVED]  
+
+  [DATA_TABLE_REMOVED] 
+
+ The following table sets forth the reconciliation of total shareholders equity to tangible common shareholders equity:  
+
+ [DATA_TABLE_REMOVED]  
+
+  (7)   Book value and tangible book value per common share are based on common shares outstanding, including RSUs granted to employees with no future service requirements, of 542.7 million and 485.4 million as of December 2009 and November 2008, respectively.   
+
+  (8)   Calculated in accordance with the regulatory capital requirements currently applicable to bank holding companies. RWAs were $431.89 billion as of December 2009 under Basel I. See Note 17 to the consolidated financial statements in Part II, Item 8 of our Annual Report on Form 10-K for further information regarding our regulatory capital ratios.   
+
+  (9)   The Tier 1 common ratio equals Tier 1 capital less preferred stock and junior subordinated debt issued to trusts, divided by RWAs. We believe that the Tier 1 common ratio is meaningful because it is one of the measures that we and investors use to assess capital adequacy.    
+
+ The following table sets forth the reconciliation of Tier 1 capital to Tier 1 common capital:  
+
+ [DATA_TABLE_REMOVED]  
+
+ 99  
+ Contractual Obligations   
+
+ Goldman Sachs has contractual obligations to make future payments related to our unsecured long-term borrowings, secured long-term financings, time deposits, long-term noncancelable lease agreements and purchase obligations and has commitments under a variety of commercial arrangements.  
+
+ The following table sets forth our contractual obligations by maturity date as of December 2009:  
+
+ Contractual Obligations
+
+ (in millions)   
+
+ [DATA_TABLE_REMOVED]  
+
+  [DATA_TABLE_REMOVED] 
+
+ As of December 2009, our unsecured long-term borrowings were $185.09 billion, with maturities extending to 2043, and consisted principally of senior borrowings. See Note 7 to the consolidated financial statements in Part II, Item 8 of our Annual Report on Form 10-K for further information regarding our unsecured long-term borrowings.  
+
+ As of December 2009, our future minimum rental payments, net of minimum sublease rentals, under noncancelable leases were $3.17 billion. These lease commitments, principally for office space, expire on various dates through 2069. Certain agreements are subject to periodic escalation provisions for increases in real estate taxes and other charges. See Note 8 to the consolidated financial statements in Part II, Item 8 of our Annual Report on Form 10-K for further information regarding our leases.   
+
+ 100  
+ Our occupancy expenses include costs associated with office space held in excess of our current requirements. This excess space, the cost of which is charged to earnings as incurred, is being held for potential growth or to replace currently occupied space that we may exit in the future. We regularly evaluate our current and future space capacity in relation to current and projected staffing levels. In 2009, we incurred exit costs of $61 million related to our office space (included in Occupancy and Depreciation and Amortization in the consolidated statements of earnings). We may incur exit costs in the future to the extent we (i) reduce our space capacity or (ii) commit to, or occupy, new properties in the locations in which we operate and, consequently, dispose of existing space that had been held for potential growth. These exit costs may be material to our results of operations in a given period.  
+
+ As of December 2009, included in purchase obligations was $142 million of construction-related obligations. As of December 2009, our construction-related obligations include commitments of $104 million related to our new headquarters in New York City. Initial occupancy of our new headquarters occurred during the fourth quarter of 2009.  
+
+ Due to the uncertainty of the timing and amounts that will ultimately be paid, our liability for unrecognized tax benefits has been excluded from the above contractual obligations table.  
+
+ See Note 8 to the consolidated financial statements in Part II, Item 8 of our Annual Report on Form 10-K for information regarding our commitments, contingencies and guarantees.   
+
+ Risk Management   
+
+ Management believes that effective risk management is of primary importance to the success of Goldman Sachs. Accordingly, we have a comprehensive risk management process to monitor, evaluate and manage the principal risks we assume in conducting our activities. These risks include market, credit, liquidity, operational, legal, regulatory and reputational exposures.  
+
+ Risk Management Structure  
+
+ We seek to monitor and control our risk exposure through a variety of separate but complementary financial, credit, operational, compliance and legal reporting systems. In addition, a number of committees are responsible for monitoring risk exposures and for general oversight of our risk management process, as described further below. These committees (including their subcommittees), meet regularly and consist of senior members of both our revenue-producing units and departments that are independent of our revenue-producing units.  
+
+ Segregation of duties and management oversight are fundamental elements of our risk management process. In addition to the committees described below, functions that are independent of the revenue-producing units, such as Compliance, Finance, Legal, Management Controls (Internal Audit) and Operations, perform risk management functions, which include monitoring, analyzing and evaluating risk.  
+
+ Management Committee. The Management Committee oversees the global activities of the firm, including all firm risk control functions. The Committee provides this oversight directly and through authority delegated to the committees it has established.  
+
+ Risk Committees. The Firmwide Risk Committee is globally responsible for the ongoing monitoring and control of financial risks associated with the activities of the firm. Through both direct and delegated authority, the Committee approves firmwide, product, divisional and business unit limits for both market and credit risks, approves sovereign credit risk limits and credit risk limits by ratings groups, and reviews stress test and scenario analyses results. The Committee also approves new businesses and products.   
+
+ 101  
+ The Securities Division Risk Committee sets market risk limits for our trading activities, subject to overall firmwide risk limits, for the FICC and Equities businesses based on a number of risk measures, including VaR, stress tests, scenario analyses, and inventory levels.  
+
+ Business unit risk limits are established by the appropriate risk committee and may be further allocated by the business unit managers to individual trading desks. Trading desk managers have the first line of responsibility for managing risk within prescribed limits. These managers have in-depth knowledge of the primary sources of risk in their respective markets and the instruments available to hedge their exposures.  
+
+ Market risk limits are monitored by the Finance Division and are reviewed regularly by the appropriate risk committee. Limit violations are reported to the appropriate risk committee and business unit managers and addressed, as necessary. Credit risk limits are also monitored by the Finance Division and reviewed by the appropriate risk committee.  
+
+ The Investment Management Division Risk Committee oversees market, counterparty credit and liquidity risks related to our asset management businesses.  
+
+ Business Practices Committee. The Business Practices Committee assists senior management in its oversight of compliance and operational risks and related reputational concerns, seeks to ensure the consistency of our policies, practices and procedures with our Business Principles, and makes recommendations on ways to mitigate potential risks.  
+
+ Firmwide Capital Committee. The Firmwide Capital Committee provides approval and oversight of debt-related transactions, including principal commitments of the firms capital. Such capital commitments include, but are not limited to, extensions of credit, alternative liquidity commitments and certain debt underwritings. The Firmwide Capital Committee aims to ensure that business and reputational standards for underwritings and capital commitments are maintained on a global basis.  
+
+ Commitments Committee. The Commitments Committee reviews and approves underwriting and distribution activities, primarily with respect to offerings of equity and equity-related securities, and sets and maintains policies and procedures designed to ensure that legal, reputational, regulatory and business standards are maintained in conjunction with these activities. In addition to reviewing specific transactions, the Commitments Committee periodically conducts strategic reviews of industry sectors and products and establishes policies in connection with transaction practices.  
+
+ Credit Policy Committee. The Credit Policy Committee establishes and reviews broad credit policies and parameters that are implemented by the Credit Department.  
+
+ Finance Committee. The Finance Committee has oversight responsibility for liquidity risk, the size and composition of our balance sheet and capital base, and our credit ratings. The Finance Committee regularly reviews our liquidity, balance sheet, funding position and capitalization and makes adjustments in light of current events, risks and exposures, and regulatory requirements.  
+
+ New Products Committee. The New Products Committee, under the oversight of the Firmwide Risk Committee, is responsible for reviewing and approving new product proposals.  
+
+ Operational Risk Committee. The Operational Risk Committee provides oversight of the ongoing development and implementation of our operational risk policies, framework and methodologies, and monitors the effectiveness of operational risk management.  
+
+ Structured Products Committee. The Structured Products Committee reviews and approves proposed structured product transactions to be entered into with our clients that raise legal, regulatory, tax or accounting issues or present reputational risk to Goldman Sachs.   
+
+ 102  
+ Market Risk   
+
+ The potential for changes in the market value of our trading and investing positions is referred to as market risk. Such positions result from market-making, proprietary trading, underwriting and investing activities. Substantially all of our inventory positions are marked-to-market on a daily basis and changes are recorded in net revenues.  
+
+ Categories of market risk include exposures to interest rates, equity prices, currency rates and commodity prices. A description of each market risk category is set forth below:  
+
+       Interest rate risks primarily result from exposures to changes in the level, slope and curvature of the yield curve, the volatility of interest rates, mortgage prepayment speeds and credit spreads.   
+
+       Equity price risks result from exposures to changes in prices and volatilities of individual equities, equity baskets and equity indices.   
+
+       Currency rate risks result from exposures to changes in spot prices, forward prices and volatilities of currency rates.   
+
+       Commodity price risks result from exposures to changes in spot prices, forward prices and volatilities of commodities, such as electricity, natural gas, crude oil, petroleum products, and precious and base metals.    
+
+ We seek to manage these risks by diversifying exposures, controlling position sizes and establishing economic hedges in related securities or derivatives. For example, we may seek to hedge a portfolio of common stocks by taking an offsetting position in a related equity-index futures contract. The ability to manage an exposure may, however, be limited by adverse changes in the liquidity of the security or the related hedge instrument and in the correlation of price movements between the security and related hedge instrument.  
+
+ In addition to applying business judgment, senior management uses a number of quantitative tools to manage our exposure to market risk for Trading assets, at fair value and Trading liabilities, at fair value in the consolidated statements of financial condition. These tools include:  
+
+  [DATA_TABLE_REMOVED] 
+
+ VaR  
+
+ VaR is the potential loss in value of trading positions due to adverse market movements over a defined time horizon with a specified confidence level.  
+
+ For the VaR numbers reported below, a one-day time horizon and a 95% confidence level were used. This means that there is a 1 in 20 chance that daily trading net revenues will fall below the expected daily trading net revenues by an amount at least as large as the reported VaR. Thus, shortfalls from expected trading net revenues on a single trading day greater than the reported VaR would be anticipated to occur, on average, about once a month. Shortfalls on a single day can exceed reported VaR by significant amounts. Shortfalls can also occur more frequently or accumulate over a longer time horizon such as a number of consecutive trading days.   
+
+ 103  
+ The modeling of the risk characteristics of our trading positions involves a number of assumptions and approximations. While we believe that these assumptions and approximations are reasonable, there is no standard methodology for estimating VaR, and different assumptions and/or approximations could produce materially different VaR estimates.  
+
+ We use historical data to estimate our VaR and, to better reflect current asset volatilities, we generally weight historical data to give greater importance to more recent observations. Given its reliance on historical data, VaR is most effective in estimating risk exposures in markets in which there are no sudden fundamental changes or shifts in market conditions. An inherent limitation of VaR is that the distribution of past changes in market risk factors may not produce accurate predictions of future market risk. Different VaR methodologies and distributional assumptions could produce a materially different VaR. Moreover, VaR calculated for a one-day time horizon does not fully capture the market risk of positions that cannot be liquidated or offset with hedges within one day.  
+
+ The following tables set forth the daily VaR:  
+
+ Average Daily VaR (1)
+
+ (in millions)   
+
+ [DATA_TABLE_REMOVED]  
+
+  [DATA_TABLE_REMOVED] 
+
+ Our average daily VaR increased to $218 million in 2009 from $180 million in 2008, principally due to an increase in the interest rates category and a reduction in the diversification benefit across risk categories, partially offset by a decrease in the commodity prices category. The increase in interest rates was primarily due to wider spreads. The decrease in commodity prices was primarily due to lower energy prices.  
+
+ Our average daily VaR increased to $180 million in 2008 from $138 million in 2007, principally due to increases in the interest rate, commodity price and currency rate categories, partially offset by a decrease in the equity prices category. The increase in interest rates was primarily due to higher levels of volatility and wider spreads, partially offset by position reductions, and the increases in commodity prices and currency rates were primarily due to higher levels of volatility. The decrease in equity prices was principally due to position reductions, partially offset by higher levels of volatility.  
+
+ VaR excludes the impact of changes in counterparty and our own credit spreads on derivatives as well as changes in our own credit spreads on unsecured borrowings for which the fair value option was elected. The estimated sensitivity of our net revenues to a one basis point increase in credit spreads (counterparty and our own) on derivatives was a $1 million loss as of December 2009. In addition, the estimated sensitivity of our net revenues to a one basis point increase in our own credit spreads on unsecured borrowings for which the fair value option was elected was an $8 million gain (including hedges) as of December 2009.   
+
+ 104  
+ Daily VaR (1)
+
+ (in millions)   
+
+ [DATA_TABLE_REMOVED]  
+
+  [DATA_TABLE_REMOVED] 
+
+ Our daily VaR decreased to $153 million as of December 2009 from $244 million as of November 2008, due to a decrease in the interest rate and currency rate categories as well as an increase in the diversification benefit across risk categories, partially offset by an increase in the equity prices category. The decrease in interest rates was principally due to lower market volatilities, tighter spreads and lower levels of exposure. The decrease in currency rates was primarily due to lower market volatilities. The increase in equity prices was primarily due to higher levels of exposure.  
+
+ The following chart presents our daily VaR during 2009:  
+
+ Daily VaR
+
+ ($ in millions)   
+
+ 105  
+ Trading Net Revenues Distribution  
+
+ The following chart sets forth the frequency distribution of our daily trading net revenues for substantially all inventory positions included in VaR for the year ended December 2009:  
+
+ Daily Trading Net Revenues
+
+ ($ in millions)   
+
+ As part of our overall risk control process, daily trading net revenues are compared with VaR calculated as of the end of the prior business day. Trading losses incurred on a single day did not exceed our 95% one-day VaR during 2009. Trading losses incurred on a single day exceeded our 95% one-day VaR on 13 occasions during 2008.  
+
+ Other Market Risk Measures  
+
+ Certain portfolios and individual positions are not included in VaR, where VaR is not the most appropriate measure of risk (e.g., due to transfer restrictions and/or illiquidity). The market risk related to our investment in the ordinary shares of ICBC, excluding interests held by investment funds managed by Goldman Sachs, is measured by estimating the potential reduction in net revenues associated with a 10% decline in the ICBC ordinary share price. The market risk related to the remaining positions is measured by estimating the potential reduction in net revenues associated with a 10% decline in asset values.  
+
+ The sensitivity analyses for these equity and debt positions in the FICC and Equities components of our Trading and Principal Investments segment and equity, debt (primarily mezzanine instruments) and real estate positions in the Principal Investments component of our Trading and Principal Investments segment are measured by the impact of a decline in the asset values (including the impact of leverage in the underlying investments for real estate positions in the Principal Investments component) of such positions. The fair value of the underlying positions may be impacted by recent third-party investments or pending transactions, third-party independent appraisals, transactions in similar instruments, valuation multiples and public comparables, and changes in financial ratios or cash flows.   
+
+ 106  
+ The following table sets forth market risk for positions not included in VaR. These measures do not reflect diversification benefits across asset categories and, given the differing likelihood of the potential declines in asset categories, these measures have not been aggregated:  
+
+ [DATA_TABLE_REMOVED]  
+
+  [DATA_TABLE_REMOVED] 
+
+ The decrease in our 10% sensitivity measures as of December 2009 from November 2008 for debt and equity positions in the FICC and Equities components of our Trading and Principal Investments segment was primarily due to decreases in the fair value of the portfolios as well as due to dispositions. The decrease in our 10% sensitivity measure for equity positions in our Principal Investments component was primarily due to dispositions. The increase in our 10% sensitivity measure for debt positions in our Principal Investments component was primarily due to new investment activity. The decrease in our 10% sensitivity measure for real estate positions in our Principal Investments component was primarily due to a decrease in the fair value of the portfolio.  
+
+ In addition to the positions included in VaR and the other risk measures described above, as of December 2009, we held approximately $10.70 billion of financial instruments in our bank and insurance subsidiaries, primarily consisting of $5.12 billion of money market instruments, $1.25 billion of government and U.S. federal agency obligations, $2.78 billion of corporate debt securities and other debt obligations, and $1.31 billion of mortgage and other asset-backed loans and securities. As of November 2008, we held approximately $10.39 billion of financial instruments in our bank and insurance subsidiaries, primarily consisting of $2.86 billion of money market instruments, $3.08 billion of government and U.S. federal agency obligations, $2.87 billion of corporate debt securities and other debt obligations, and $1.22 billion of mortgage and other asset-backed loans and securities. In addition, as of December 2009 and November 2008, we held commitments and loans under the William Street credit extension program. See Note 8 to the consolidated financial statements in Part II, Item 8 of our Annual Report on Form 10-K for further information regarding our William Street credit extension program.   
+
+ 107  
+ Credit Risk   
+
+ Credit risk represents the loss that we would incur if a counterparty or an issuer of securities or other instruments we hold fails to perform under its contractual obligations to us, or upon a deterioration in the credit quality of third parties whose securities or other instruments, including OTC derivatives, we hold. Our exposure to credit risk principally arises through our trading, investing and financing activities. To reduce our credit exposures, we seek to enter into netting agreements with counterparties that permit us to offset receivables and payables with such counterparties. In addition, we attempt to further reduce credit risk with certain counterparties by (i) entering into agreements that enable us to obtain collateral from a counterparty on an upfront or contingent basis, (ii) seeking third-party guarantees of the counterpartys obligations, and/or (iii) transferring our credit risk to third parties using credit derivatives and/or other structures and techniques.  
+
+ To measure and manage our credit exposures, we use a variety of tools, including credit limits referenced to current exposure and potential exposure. Potential exposure is an estimate of exposure, within a specified confidence level, that could be outstanding over the life of a transaction based on market movements. In addition, as part of our market risk management process, for positions measured by changes in credit spreads, we use VaR and other sensitivity measures. To supplement our primary credit exposure measures, we also use scenario analyses, such as credit spread widening scenarios, stress tests and other quantitative tools.  
+
+ Our global credit management systems monitor credit exposure to individual counterparties and on an aggregate basis to counterparties and their subsidiaries. These systems also provide management, including the Firmwide Risk and Credit Policy Committees, with information regarding credit risk by product, industry sector, country and region.  
+
+ While our activities expose us to many different industries and counterparties, we routinely execute a high volume of transactions with counterparties in the financial services industry, including brokers and dealers, commercial banks, clearing houses, exchanges and investment funds. This has resulted in significant credit concentration with respect to this industry. In the ordinary course of business, we may also be subject to a concentration of credit risk to a particular counterparty, borrower or issuer, including sovereign issuers, or to a particular clearing house or exchange.  
+
+ As of December 2009 and November 2008, we held $83.83 billion (10% of total assets) and $53.98 billion (6% of total assets), respectively, of U.S. government and federal agency obligations included in Trading assets, at fair value and Cash and securities segregated for regulatory and other purposes in the consolidated statements of financial condition. As of December 2009 and November 2008, we held $38.61 billion (5% of total assets) and $21.13 billion (2% of total assets), respectively, of other sovereign obligations, principally consisting of securities issued by the governments of the United Kingdom and Japan. In addition, as of December 2009 and November 2008, $87.63 billion and $126.27 billion of our securities purchased under agreements to resell and securities borrowed (including those in Cash and securities segregated for regulatory and other purposes), respectively, were collateralized by U.S. government and federal agency obligations. As of December 2009 and November 2008, $77.99 billion and $65.37 billion of our securities purchased under agreements to resell and securities borrowed, respectively, were collateralized by other sovereign obligations, principally consisting of securities issued by the governments of Germany, the United Kingdom and Japan. As of December 2009 and November 2008, we did not have credit exposure to any other counterparty that exceeded 2% of our total assets.   
+
+ 108  
+ Derivatives   
+
+ Derivative contracts are instruments, such as futures, forwards, swaps or option contracts, that derive their value from underlying assets, indices, reference rates or a combination of these factors. Derivative instruments may be privately negotiated contracts, which are often referred to as OTC derivatives, or they may be listed and traded on an exchange.  
+
+ Substantially all of our derivative transactions are entered into to facilitate client transactions, to take proprietary positions or as a means of risk management. In addition to derivative transactions entered into for trading purposes, we enter into derivative contracts to manage currency exposure on our net investment in non-U.S. operations and to manage the interest rate and currency exposure on our long-term borrowings and certain short-term borrowings.  
+
+ Derivatives are used in many of our businesses, and we believe that the associated market risk can only be understood relative to all of the underlying assets or risks being hedged, or as part of a broader trading strategy. Accordingly, the market risk of derivative positions is managed together with our nonderivative positions.  
+
+ The fair value of our derivative contracts is reflected net of cash paid or received pursuant to credit support agreements and is reported on a net-by-counterparty basis in our consolidated statements of financial condition when we believe a legal right of setoff exists under an enforceable netting agreement. For an OTC derivative, our credit exposure is directly with our counterparty and continues until the maturity or termination of such contract.  
+
+ The following tables set forth the fair values of our OTC derivative assets and liabilities by tenor and by product type or credit rating. Tenor is based on expected duration for mortgage-related credit derivatives and generally on remaining contractual maturity for other derivatives. For option contracts that require settlement by delivery of an underlying derivative instrument, the tenor is generally classified based upon the maturity date of the underlying derivative instrument. In those instances where the underlying instrument does not have a maturity date or either counterparty has the right to settle in cash, the tenor is generally based upon the option expiration date.   
+
+ 109  
+ The following tables set forth the fair values of our OTC derivative assets and liabilities by product type and by tenor.  
+
+ OTC Derivatives
+
+ (in millions)   
+
+ [DATA_TABLE_REMOVED]  
+
+  (1)   Represents the netting of receivable balances with payable balances for the same counterparty across product types within a tenor category, pursuant to enforceable netting agreements. Receivable and payable balances with the same counterparty in the same product type and tenor category are netted within such product type and tenor category, where appropriate.   
+
+  (2)   Represents the netting of receivable balances with payable balances for the same counterparty across tenor categories, pursuant to enforceable netting agreements.   
+
+  (3)   Represents the netting of cash collateral received and posted on a counterparty basis pursuant to credit support agreements.   
+
+  (4)   Includes fair values of OTC derivative assets and liabilities, maturing within six months, of $21.60 billion and $18.08 billion, respectively.     
+
+ 110  
+ OTC Derivatives
+
+ (in millions)   
+
+ [DATA_TABLE_REMOVED]  
+
+  (1)   Represents the netting of receivable balances with payable balances for the same counterparty across product types within a tenor category, pursuant to enforceable netting agreements. Receivable and payable balances with the same counterparty in the same product type and tenor category are netted within such product type and tenor category, where appropriate.   
+
+  (2)   Represents the netting of receivable balances with payable balances for the same counterparty across tenor categories, pursuant to enforceable netting agreements.   
+
+  (3)   Represents the netting of cash collateral received and posted on a counterparty basis pursuant to credit support agreements.   
+
+  (4)   Includes fair values of OTC derivative assets and liabilities, maturing within six months, of $54.68 billion and $51.16 billion, respectively.     
+
+ 111  
+ The following tables set forth the distribution, by credit rating, of our exposure with respect to OTC derivatives by tenor, both before and after consideration of the effect of collateral and netting agreements. The categories shown reflect our internally determined public rating agency equivalents:  
+
+ OTC Derivative Credit Exposure
+
+ (in millions)   
+
+  [DATA_TABLE_REMOVED] 
+
+  (1)   Includes fair values of OTC derivative assets, maturing within six months, of $21.60 billion and $54.68 billion as of December 2009 and November 2008, respectively.   
+
+  (2)   Represents the netting of receivable balances with payable balances for the same counterparty across tenor categories, pursuant to enforceable netting agreements, and the netting of cash collateral received, pursuant to credit support agreements. Receivable and payable balances with the same counterparty in the same tenor category are netted within such tenor category, where appropriate.   
+
+  (3)   The decrease in the fair value of our OTC derivative credit exposure from November 2008 to December 2009 primarily reflects increases in equity prices, tightening credit spreads, and changes in interest and currency rates.    
+
+ Derivative transactions may also involve legal risks including the risk that they are not authorized or appropriate for a counterparty, that documentation has not been properly executed or that executed agreements may not be enforceable against the counterparty. We attempt to minimize these risks by obtaining advice of counsel on the enforceability of agreements as well as on the authority of a counterparty to effect the derivative transaction. In addition, certain derivative transactions (e.g., credit derivative contracts) involve the risk that we may have difficulty obtaining, or be unable to obtain, the underlying security or obligation in order to satisfy any physical settlement requirement.   
+
+ 112  
+ Liquidity and Funding Risk   
+
+ Liquidity is of critical importance to companies in the financial services sector. Most failures of financial institutions have occurred in large part due to insufficient liquidity. Accordingly, Goldman Sachs has in place a comprehensive set of liquidity and funding policies that are intended to maintain significant flexibility to address both Goldman Sachs-specific and broader industry or market liquidity events. Our principal objective is to be able to fund Goldman Sachs and to enable our core businesses to continue to generate revenues, even under adverse circumstances.  
+
+ We manage liquidity risk according to the following framework:  
+
+  [DATA_TABLE_REMOVED] 
+
+ Excess Liquidity  
+
+ Our most important liquidity policy is to pre-fund what we estimate will be our potential cash needs during a liquidity crisis and hold such excess liquidity in the form of unencumbered, highly liquid securities that may be sold or pledged to provide same-day liquidity. This Global Core Excess is intended to allow us to meet immediate obligations without needing to sell other assets or depend on additional funding from credit-sensitive markets. We believe that this pool of excess liquidity provides us with a resilient source of funds and gives us significant flexibility in managing through a difficult funding environment. Our Global Core Excess reflects the following principles:  
+
+  [DATA_TABLE_REMOVED]  
+
+ 113  
+ The size of our Global Core Excess is based on an internal liquidity model together with a qualitative assessment of the condition of the financial markets and of Goldman Sachs. Our liquidity model, through which we analyze the consolidated firm as well as our major broker-dealer and bank depository institution subsidiaries, identifies and estimates potential contractual and contingent cash and collateral outflows over a short-term horizon in a liquidity crisis, including, but not limited to:  
+
+  [DATA_TABLE_REMOVED] 
+
+       outflows of cash or collateral associated with the impact of market moves on our OTC derivatives, listed derivatives and securities and loans pledged as collateral for financing transactions;    
+
+       other outflows of cash or collateral related to derivatives, including the impact of trade terminations, collateral substitutions, collateral disputes, collateral calls or termination payments (in the event of a two-notch downgrade in our credit ratings), collateral that has not been called by counterparties but is available to them, or additional margin that could be requested by exchanges or clearing houses in a stressed environment;   
+
+       potential liquidity outflows associated with our prime brokerage business, including those related to customer credit balances;   
+
+       draws on our unfunded commitments not supported by William Street Funding Corporation(1), with draw assumptions varying in magnitude reflecting, among other things, the type of commitment and counterparty, and   
+
+       other upcoming cash outflows, such as tax and other large payments.    
+
+ The following table sets forth the average loan value of the securities (the estimated amount of cash that would be advanced by counterparties against these securities), as well as certain overnight cash deposits that are included in our Global Core Excess:  
+
+ [DATA_TABLE_REMOVED]  
+
+ The U.S. dollar-denominated excess is comprised of only unencumbered U.S. government securities, U.S. agency securities and highly liquid U.S. agency mortgage-backed securities, all of which are eligible as collateral in Federal Reserve open market operations, as well as certain overnight cash deposits. Our non-U.S. dollar-denominated excess is comprised of only unencumbered French, German, United Kingdom and Japanese government bonds and certain overnight cash deposits in highly liquid currencies. We strictly limit our Global Core Excess to this narrowly defined list of securities and cash because we believe they are highly liquid, even in a difficult funding environment. We do not believe that other potential sources of excess liquidity, such as lower-quality unencumbered securities or committed credit facilities, are as reliable in a liquidity crisis.   
+
+ (1) The Global Core Excess excludes liquid assets of $4.31 billion held separately by William Street Funding Corporation. See Note 8 to the consolidated financial statements in Part II, Item 8 of our Annual Report on Form 10-K for further information regarding the William Street credit extension program.  
+
+ 114  
+ We maintain our Global Core Excess to enable us to meet current and potential liquidity requirements of our parent company, Group Inc., and all of its subsidiaries. The Global Core Excess is held at Group Inc. and our major broker-dealer and bank depository institution subsidiaries. Each of these entities has its own liquidity model and funding risk management framework with separate excess liquidity pools intended to meet potential outflows in each entity in a stressed environment. Liquidity held in each of these subsidiaries is assumed to be usable only by that entity for the purpose of meeting its liquidity requirements. Subsidiary liquidity is not available to Group Inc. unless legally provided for and assuming no additional regulatory, tax or other restrictions.  
+
+ In addition to our Global Core Excess, we have a significant amount of other unencumbered securities as a result of our business activities. These assets include other government bonds, high-grade money market securities, corporate bonds and marginable equities. We do not include these securities in our Global Core Excess.  
+
+ In reporting our Global Core Excess and other unencumbered assets, we use loan values that are based on stress-scenario borrowing capacity and we regularly review these assumptions asset class by asset class. The estimated aggregate loan value of our Global Core Excess, cash deposits not included in the Global Core Excess and our other unencumbered assets averaged $210.48 billion and $163.41 billion for the years ended December 2009 and November 2008, respectively.  
+
+ Asset-Liability Management  
+
+ Assets. We seek to maintain a liquid balance sheet and substantially all of our inventory is marked-to-market daily. We impose balance sheet limits for each business and utilize aged inventory limits for certain financial instruments as a disincentive to our businesses to hold inventory over longer periods of time. Although our balance sheet fluctuates due to client activity, market conventions and periodic market opportunities in certain of our businesses, our total assets and adjusted assets at financial statement dates are typically not materially different from those occurring within our reporting periods.  
+
+ Liabilities. We seek to structure our liabilities to meet the following objectives:  
+
+       Term Structure  We seek to structure our liabilities to have long-dated maturities in order to reduce refinancing risk. We manage maturity concentrations for both secured and unsecured funding to ensure we are able to mitigate any concentrated funding outflows.    
+
+  [DATA_TABLE_REMOVED] 
+
+       Structural Protection  We structure our liabilities to reduce the risk that we may be required to redeem or repurchase certain of our borrowings prior to their contractual maturity. We issue substantially all of our unsecured debt without put provisions or other provisions that would, based solely upon an adverse change in our credit ratings, financial ratios, earnings, cash flows or stock price, trigger a requirement for an early payment, collateral support, change in terms, acceleration of maturity or the creation of an additional financial obligation.     
+
+ 115  
+ Secured Funding. We fund a substantial portion of our inventory on a secured basis, which we believe provides us with a more stable source of liquidity than unsecured financing, as it is less sensitive to changes in our credit quality due to the underlying collateral. However, we recognize that the terms or availability of secured funding, particularly overnight funding, can deteriorate rapidly in a difficult environment. To help mitigate this risk, we generally do not rely on overnight secured funding, unless collateralized with highly liquid securities such as securities eligible for inclusion in our Global Core Excess. Substantially all of our other secured funding is executed for tenors of one month or greater. Additionally, we monitor counterparty concentration and hold a portion of our Global Core Excess for refinancing risk associated with all secured funding transactions. We seek longer terms for secured funding collateralized by lower-quality assets, as we believe these funding transactions may pose greater refinancing risk. The weighted average life of our secured funding, excluding funding collateralized by highly liquid securities eligible for inclusion in our Global Core Excess, exceeded 100 days as of December 2009.  
+
+ Unsecured Short-Term Borrowings. Our liquidity also depends on the stability of our unsecured short-term financing base. Accordingly, we prefer issuing promissory notes, in which we do not make a market, over commercial paper, which we may repurchase prior to maturity through the ordinary course of business as a market maker. As of December 2009, our unsecured short-term borrowings, including the current portion of unsecured long-term borrowings, were $37.52 billion. See Note 6 to the consolidated financial statements in Part II, Item 8 of our Annual Report on Form 10-K for further information regarding our unsecured short-term borrowings.  
+
+ Unsecured Long-Term Borrowings. We issue unsecured long-term borrowings as a source of total capital in order to meet our long-term financing requirements. The following table sets forth our quarterly unsecured long-term borrowings maturity profile through 2015 as of December 2009:  
+
+ Unsecured Long-Term Borrowings Maturity Profile
+
+  ($ in millions)   
+
+ 116  
+ The weighted average maturity of our unsecured long-term borrowings as of December 2009 was approximately seven years. To mitigate refinancing risk, we seek to limit the principal amount of debt maturing on any one day or during any week or year. We swap a substantial portion of our long-term borrowings into short-term floating rate obligations in order to minimize our exposure to interest rates.  
+
+ Deposits. As of December 2009, our bank depository institution subsidiaries had $39.42 billion in customer deposits, including $9.30 billion of certificates of deposit and other time deposits with a weighted average maturity of four years, and $30.12 billion of other deposits, substantially all of which were from cash sweep programs. GS Bank USA has access to funding through the Federal Reserve Bank discount window. While we do not rely on funding through the Federal Reserve Bank discount window in our liquidity modeling and stress testing, we maintain policies and procedures necessary to access this funding.  
+
+ Government Facilities. As a bank holding company, we have access to certain programs and facilities established on a temporary basis by a number of U.S. regulatory agencies. As of December 2009, we had outstanding $20.76 billion of senior unsecured debt (comprised of $1.73 billion of short-term and $19.03 billion of long-term) guaranteed by the FDIC under the Temporary Liquidity Guarantee Program (TLGP), all of which will mature on or prior to June 15, 2012. We have not issued long-term debt under the TLGP since March 2009 and the program expired for new issuances with respect to the firm on October 31, 2009.  
+
+ See  Certain Risk Factors That May Affect Our Businesses above, and Risk Factors in Part I, Item 1A of our Annual Report on Form 10-K for a discussion of factors that could impair our ability to access the capital markets.  
+
+ Funding Policies. We seek to manage our assets and the maturity profile of our secured and unsecured funding base such that we should be able to liquidate our assets prior to our liabilities coming due, even in times of prolonged or severe liquidity stress.  
+
+ In order to avoid reliance on asset sales (other than our Global Core Excess), our goal is to ensure that we have sufficient total capital (unsecured long-term borrowings plus total shareholders equity) to fund our balance sheet for at least one year. However, we recognize that orderly asset sales may be prudent or necessary in a severe or persistent liquidity crisis. The target amount of our total capital is based on an internal funding model which incorporates, among other things, the following long-term financing requirements:  
+
+  [DATA_TABLE_REMOVED]  
+
+ 117  
+ Certain financial instruments may be more difficult to fund on a secured basis during times of market stress. Accordingly, we focus on funding these assets with longer contractual maturities to reduce refinancing risk in periods of market stress and generally hold higher levels of total capital for these assets than more liquid types of financial instruments. The following table sets forth our aggregate holdings in these categories of financial instruments:  
+
+ [DATA_TABLE_REMOVED]  
+
+  (1)   Includes funded commitments and inventory held in connection with our origination and secondary trading activities.   
+
+  (2)   Includes interests in our merchant banking funds. Such amounts exclude assets related to consolidated investment funds of $919 million and $1.16 billion as of December 2009 and November 2008, respectively, for which Goldman Sachs does not bear economic exposure.   
+
+  (3)   Includes interests of $5.13 billion and $3.48 billion as of December 2009 and November 2008, respectively, held by investment funds managed by Goldman Sachs.   
+
+  (4)   Includes interests in other investment funds that we manage.    
+
+ See Note 3 to the consolidated financial statements in Part II, Item 8 of our Annual Report on Form 10-K for further information regarding the financial instruments we hold.  
+
+ Subsidiary Funding Policies. The majority of our unsecured funding is raised by Group Inc. Group Inc. then lends the necessary funds to its subsidiaries, some of which are regulated, to meet their asset financing, liquidity and capital requirements. In addition, Group Inc. provides its regulated subsidiaries with the necessary capital to meet their regulatory requirements. The benefits of this approach to subsidiary funding include enhanced control and greater flexibility to meet the funding requirements of our subsidiaries. Funding is also raised at the subsidiary level through a variety of products, including secured funding, unsecured borrowings and deposits.  
+
+ Our intercompany funding policies are predicated on an assumption that, unless legally provided for, funds or securities are not freely available from a subsidiary to its parent company or other subsidiaries. In particular, many of our subsidiaries are subject to laws that authorize regulatory bodies to block or reduce the flow of funds from those subsidiaries to Group Inc. Regulatory action of that kind could impede access to funds that Group Inc. needs to make payments on obligations, including debt obligations. As such, we assume that capital or other financing provided to our regulated subsidiaries is not available to Group Inc. or other subsidiaries until the maturity of such financing.  
+
+ Group Inc. has provided substantial amounts of equity and subordinated indebtedness, directly or indirectly, to its regulated subsidiaries. For example, as of December 2009, Group Inc. had $25.45 billion of such equity and subordinated indebtedness invested in GS&Co., its principal U.S. registered broker-dealer; $21.90 billion invested in GSI, a regulated U.K. broker-dealer; $2.64 billion invested in Goldman Sachs Execution & Clearing, L.P., a U.S. registered broker-dealer; $3.74 billion invested in Goldman Sachs Japan Co., Ltd., a regulated Japanese broker-dealer; and    
+
+ 118  
+ $22.32 billion invested in GS Bank USA, a regulated New York State-chartered bank. Group Inc. also had $78.59 billion of unsubordinated loans and $18.09 billion of collateral provided to these entities as of December 2009, as well as significant amounts of capital invested in and loans to its other regulated subsidiaries.  
+
+ Contingency Funding Plan  
+
+ The Goldman Sachs CFP sets out the plan of action to fund business activity in emergency situations and/or periods of market stress. The CFP outlines the appropriate communication channels to be followed throughout a crisis period and also provides a framework for analyzing and responding to a liquidity crisis including, but not limited to, the potential risk factors, identification of liquidity outflows, mitigants and potential actions.  
+
+ Credit Ratings  
+
+ We rely upon the short-term and long-term debt capital markets to fund a significant portion of our day-to-day operations. The cost and availability of debt financing is influenced by our credit ratings. Credit ratings are important when we are competing in certain markets and when we seek to engage in longer-term transactions, including OTC derivatives. We believe our credit ratings are primarily based on the credit rating agencies assessment of our liquidity, market, credit and operational risk management practices, the level and variability of our earnings, our capital base, our franchise, reputation and management, our corporate governance and the external operating environment, including the perceived level of government support. See  Certain Risk Factors That May Affect Our Businesses above, and Risk Factors in Part I, Item 1A of our Annual Report on Form 10-K for a discussion of the risks associated with a reduction in our credit ratings.  
+
+ The following table sets forth our unsecured credit ratings (excluding debt guaranteed by the FDIC under the TLGP) and outlook as of December 2009. Preferred Stock in the table below includes Group Inc.s non-cumulative preferred stock and the Normal Automatic Preferred Enhanced Capital Securities (APEX) issued by Goldman Sachs Capital II and Goldman Sachs Capital III. As of December 2009, the trust preferred securities (Trust Preferred) issued by Goldman Sachs Capital I were rated A by DBRS, Inc., A- by Fitch, Inc., A2 by Moodys Investors Service, and BBB by Standard & Poors Ratings Services.  
+
+  [DATA_TABLE_REMOVED] 
+
+  [DATA_TABLE_REMOVED]  
+
+ 119  
+ On February 25, 2010, Moodys Investors Service lowered the ratings on Group Inc.s non-cumulative preferred stock and the APEX from A3 to Baa2, and the rating on the Trust Preferred from A2 to A3.  
+
+ Based on our credit ratings as of December 2009, additional collateral or termination payments pursuant to bilateral agreements with certain counterparties of approximately $1.12 billion and $2.36 billion could have been called by counterparties in the event of a one-notch and two-notch reduction, respectively, in our long-term credit ratings. In evaluating our liquidity requirements, we consider additional collateral or termination payments that may be required in the event of a two-notch reduction in our long-term credit ratings, as well as collateral that has not been called by counterparties, but is available to them.  
+
+ Cash Flows  
+
+ As a global financial institution, our cash flows are complex and interrelated and bear little relation to our net earnings and net assets and, consequently, we believe that traditional cash flow analysis is less meaningful in evaluating our liquidity position than the excess liquidity and asset-liability management policies described above. Cash flow analysis may, however, be helpful in highlighting certain macro trends and strategic initiatives in our businesses.  
+
+ Year Ended December 2009. Our cash and cash equivalents increased by $24.49 billion to $38.29 billion at the end of 2009. We generated $48.88 billion in net cash from operating activities. We used net cash of $24.39 billion for investing and financing activities, primarily for net repayments in unsecured and secured short-term borrowings and the repurchases of Series H Preferred Stock and the related common stock warrant from the U.S. Treasury, partially offset by an increase in bank deposits and the issuance of common stock.  
+
+ Year Ended November 2008. Our cash and cash equivalents increased by $5.46 billion to $15.74 billion at the end of 2008. We raised $9.80 billion in net cash from financing and operating activities, primarily from common and preferred stock issuances and deposits, partially offset by repayments of short-term borrowings. We used net cash of $4.34 billion in our investing activities.  
+
+ Operational Risk   
+
+ Operational risk relates to the risk of loss arising from shortcomings or failures in internal processes, people or systems, or from external events. Operational risk can arise from many factors ranging from routine processing errors to potentially costly incidents related to, for example, major systems failures. Operational risk may also cause reputational harm. Thus, efforts to identify, manage and mitigate operational risk must be equally sensitive to the risk of reputational damage as well as the risk of financial loss.  
+
+ We manage operational risk through the application of long-standing, but continuously evolving, firmwide control standards which are supported by the training, supervision and development of our people; the active participation and commitment of senior management in a continuous process of identifying and mitigating key operational risks across Goldman Sachs; and a framework of strong and independent control departments that monitor operational risk on a daily basis. Together, these elements form a strong firmwide control culture that serves as the foundation of our efforts to minimize operational risk exposure.  
+
+ Operational Risk Management & Analysis, a risk management function independent of our revenue-producing units, is responsible for developing and implementing a formalized framework to identify, measure, monitor, and report operational risks to support active risk management across Goldman Sachs. This framework, which evolves with the changing needs of our businesses and regulatory guidance, incorporates analysis of internal and external operational risk events, business environment and internal control factors, and scenario analysis. The framework also provides regular reporting of our operational risk exposures to our Board, risk committees and senior management. For    
+
+ 120  
+ a further discussion of operational risk see  Certain Risk Factors That May Affect Our Businesses above, and  Risk Factors in Part I, Item 1A of our Annual Report on Form 10-K.  
+
+ Recent Accounting Developments   
+
+ See Note 2 to the consolidated financial statements in Part II, Item 8 of our Annual Report on Form 10-K for information regarding Recent Accounting Developments.   
+
+ Item 7A. Quantitative and Qualitative Disclosures About Market Risk

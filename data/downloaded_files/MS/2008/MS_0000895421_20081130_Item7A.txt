@@ -1,0 +1,329 @@
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk.  
+
+Risk Management.  
+
+Risk Management Policy and Control Structure.  
+
+Risk is an inherent part of the Companys business and activities. The Companys ability to properly and effectively identify, assess, monitor and manage each of the various types of risk involved in its activities is critical to its soundness and profitability. The Companys portfolio of business activities helps reduce the impact that volatility in any particular area or related areas may have on its net revenues as a whole. The Company seeks to identify, assess, monitor and manage, in accordance with defined policies and procedures, the following principal risks involved in the Companys business activities: market, credit, liquidity and funding, operational and legal risk. Liquidity and funding risk is discussed in Managements Discussion and Analysis of Financial Condition and Results of OperationsLiquidity and Capital Resources in Part II, Item 7. The Companys currency exposure relating to its net monetary investments in non-U.S. dollar functional currency subsidiaries is discussed in Note 11 to the consolidated financial statements.  
+
+The cornerstone of the Companys risk management philosophy is the execution of risk-adjusted returns through prudent risk-taking that protects the Companys capital base and franchise. The Companys risk management philosophy is based on the following principles: comprehensiveness, independence, accountability, defined risk tolerance and transparency. Given the importance of effective risk management to the Companys reputation, senior management requires thorough and frequent communication and appropriate escalation of risk matters.  
+
+Risk management at the Company requires independent Company-level oversight, accountability of the Companys business segments, constant communication, judgment, and knowledge of specialized products and markets. The Companys senior management takes an active role in the identification, assessment and management of various risks at both the Company and business segment level. In recognition of the increasingly varied and complex nature of the global financial services business, the Companys risk management philosophy, with its attendant policies, procedures and methodologies, is evolutionary in nature and subject to ongoing review and modification.  
+
+The nature of the Companys risks, coupled with this risk management philosophy, informs the Companys risk governance structure. The Companys risk governance structure includes the Firm Risk Committee, the Chief Risk Officer, the Internal Audit Department, independent control groups, and various other risk control managers, committees and groups located within and across business segments.  
+
+The Firm Risk Committee, composed of the Companys most senior officers, oversees the Companys risk management structure. The Firm Risk Committees responsibilities include oversight of the Companys risk management principles, procedures and limits, and the monitoring of material market, credit, liquidity and funding, legal, operational and franchise risks and the steps management has taken to monitor and manage such risks. The Firm Risk Committee is overseen by the Audit Committee of the Board of Directors (the Audit Committee).  
+
+The Chief Risk Officer, a member of the Firm Risk Committee who reports to the Chief Executive Officer, oversees compliance with Company risk limits; approves certain excessions of Company risk limits; reviews material market, credit and operational risks; and reviews results of risk management processes with the Audit Committee.  
+
+The Internal Audit Department provides independent risk and control assessment and reports to the Audit Committee and administratively to the Chief Legal Officer. The Internal Audit Department examines the Companys operational and control environment and conducts audits designed to cover all major risk categories.  
+
+The Market Risk, Credit Risk, Operational Risk, Financial Control, Treasury, and Legal and Compliance Departments (collectively, the Company Control Groups), which are all independent of the Companys   
+
+88  
+
+Table of Contents 
+
+ business units, assist senior management and the Firm Risk Committee in monitoring and controlling the Companys risk through a number of control processes. The Company is committed to employing qualified personnel with appropriate expertise in each of its various administrative and business areas to implement effectively the Companys risk management and monitoring systems and processes.  
+
+Each business segment has a risk committee that is responsible for ensuring that the business segment, as applicable, adheres to established limits for market, credit, operational and other risks; implements risk measurement, monitoring, and management policies and procedures that are consistent with the risk framework established by the Firm Risk Committee; and reviews, on a periodic basis, its aggregate risk exposures, risk exception experience, and the efficacy of its risk identification, measurement, monitoring and management policies and procedures, and related controls.  
+
+Each of the Companys business segments also has designated operations officers, committees and groups, including operations and information technology groups (collectively, Segment Control Groups and, together with the Company Control Groups, the Control Groups) to manage and monitor specific risks and report to the business segment risk committee. The Control Groups work together to review the risk monitoring and risk management policies and procedures relating to, among other things, the business segments market, credit and operational risk profile, sales practices, reputation, legal enforceability, and operational and technological risks. Participation by the senior officers of the Control Groups helps ensure that risk policies and procedures, exceptions to risk limits, new products and business ventures, and transactions with risk elements undergo a thorough review.  
+
+The following is a discussion of the Companys risk management policies and procedures for its principal risks (other than funding and liquidity risk). The discussion focuses on the Companys securities activities (primarily its institutional trading activities) and corporate lending and related activities. The Company believes that these activities generate a substantial portion of its principal risks. This discussion and the estimated amounts of the Companys market risk exposure generated by the Companys statistical analyses are forward-looking statements. However, the analyses used to assess such risks are not predictions of future events, and actual results may vary significantly from such analyses due to events in the markets in which the Company operates and certain other factors described below.  
+
+Market Risk.  
+
+Market risk refers to the risk that a change in the level of one or more market prices, rates, indices, implied volatilities (the price volatility of the underlying instrument imputed from option prices), correlations or other market factors, such as market liquidity, will result in losses for a position or portfolio. Generally, the Company incurs market risk as a result of trading and client facilitation activities, principally within the Institutional Securities business where the substantial majority of the Companys Value-at-Risk (VaR) for market risk exposures is generated. In addition, the Company incurs trading-related market risk within the Global Wealth Management Group. Asset Management incurs non-trading market risk primarily from capital investments in real estate funds and investments in private equity vehicles.  
+
+Sound market risk management is an integral part of the Companys culture. The various business units and trading desks are responsible for ensuring that market risk exposures are well-managed and prudent. The Control Groups help ensure that these risks are measured and closely monitored and are made transparent to senior management. The Market Risk Department is responsible for ensuring transparency of material market risks, monitoring compliance with established limits, and escalating risk concentrations to appropriate senior management. To execute these responsibilities, the Market Risk Department monitors the Companys risk against limits on aggregate risk exposures, performs a variety of risk analyses, routinely reports risk summaries, and maintains the Companys VaR system. A variety of limits is designed to control price and market liquidity risk. Market risk is monitored through various measures: statistically (using VaR and related analytical measures); by measures of position sensitivity; and through routine stress testing and scenario analyses   
+
+89  
+
+Table of Contents 
+
+ conducted by the Market Risk Department in collaboration with the business units. The material risks identified by these processes are summarized in reports produced by the Market Risk Department that are circulated to and discussed with senior management.  
+
+Recent Market Conditions.  
+
+Recent unprecedented events in the global markets (see Executive SummaryGlobal Market and Economic Conditions in Fiscal 2008 Part II, Item 7 herein) are significantly outside the loss estimates forecast by VaR models and are more commonly measured by alternative risk measures such as stress tests and scenario analysis. In fiscal 2008, the Company continued to enhance these alternative risk measures to better reflect exposures arising from certain products (e.g., securitized products). The Company continues to improve its risk measurement using stress tests and scenario analysis and has refined its market risk limit framework. These actions, however, may not address the potential severity of possible losses as actual market moves may continue to be more dramatic than the estimates included in the Companys VaR, stress tests and scenario analyses. For a further discussion on limitations to VaR models, see VaR Methodology, Assumptions and Limitations below.  
+
+Sales and Trading and Related Activities.  
+
+Primary Market Risk Exposures and Market Risk Management. During fiscal 2008, the Company had exposures to a wide range of interest rates, equity prices, foreign exchange rates and commodity pricesand the associated implied volatilities and spreadsrelated to the global markets in which it conducts its trading activities.  
+
+The Company is exposed to interest rate and credit spread risk as a result of its market-making activities and proprietary trading in interest rate sensitive financial instruments (e.g., risk arising from changes in the level or implied volatility of interest rates, the timing of mortgage prepayments, the shape of the yield curve and credit spreads). The activities from which those exposures arise and the markets in which the Company is active include, but are not limited to, the following: emerging market corporate and government debt, non-investment grade and distressed corporate debt, investment grade corporate debt and asset-backed debt (including mortgage-related securities).  
+
+The Company is exposed to equity price and implied volatility risk as a result of making markets in equity securities and derivatives and maintaining proprietary positions (including positions in non-public entities). Positions in non-public entities may include, but are not limited to, exposures to private equity, venture capital, private partnerships, real estate funds and other funds. Such positions are less liquid, have longer investment horizons and are more difficult to hedge than listed equities.  
+
+The Company is exposed to foreign exchange rate and implied volatility risk as a result of making markets in foreign currencies and foreign currency derivatives, from maintaining foreign exchange positions and from holding non U.S. dollar-denominated financial instruments. The Company is exposed to commodity price and implied volatility risk as a result of market-making activities and maintaining positions in physical commodities (such as crude and refined oil products, natural gas, electricity, and precious and base metals) and related derivatives. Commodity exposures are subject to periods of high price volatility as a result of changes in supply and demand. These changes can be caused by weather conditions; physical production, transportation and storage issues; or geopolitical and other events that affect the available supply and level of demand for these commodities.  
+
+The Company manages its trading positions by employing a variety of risk mitigation strategies. These strategies include diversification of risk exposures and hedging. Hedging activities consist of the purchase or sale of   
+
+90  
+
+Table of Contents 
+
+ positions in related securities and financial instruments, including a variety of derivative products (e.g., futures, forwards, swaps and options). Hedging activities may not always provide effective mitigation against trading losses due to differences in the terms, specific characteristics or other basis risks that may exist between the hedge instrument and the risk exposure that is being hedged. The Company manages the market risk associated with its trading activities on a Company-wide basis, on a worldwide trading division level and on an individual product basis. The Company manages and monitors its market risk exposures in such a way as to maintain a portfolio that the Company believes is well-diversified in the aggregate with respect to market risk factors and that reflects the Companys aggregate risk tolerance as established by the Companys senior management.  
+
+Aggregate market risk limits have been approved for the Company and for its major trading divisions worldwide (equity and fixed income, which includes interest rate products, credit products, foreign exchange and commodities). Additional market risk limits are assigned to trading desks and, as appropriate, products and regions. Trading division risk managers, desk risk managers, traders and the Market Risk Department monitor market risk measures against limits in accordance with policies set by senior management.  
+
+The Market Risk Department independently reviews the Companys trading portfolios on a regular basis from a market risk perspective utilizing VaR and other quantitative and qualitative risk measures and analyses. The Companys trading businesses and the Market Risk Department also use, as appropriate, measures such as sensitivity to changes in interest rates, prices, implied volatilities and time decay to monitor and report market risk exposures.  
+
+Net exposure, defined as the potential loss to the Company over a period of time in the event of default of a referenced asset, assuming zero recovery, is one key risk measure the Company employs to standardize the aggregation of market risk exposures across cash and derivative products. Stress testing, which measures the impact on the value of existing portfolios of specified changes in market factors for certain products, is performed periodically and is reviewed by trading division risk managers, desk risk managers and the Market Risk Department. The Market Risk Department also conducts scenario analyses, which estimate the Companys revenue sensitivity to a set of specific, predefined market and geopolitical events.  
+
+Value-at-Risk (VaR). The Company uses the statistical technique known as VaR as one of the tools used to measure, monitor and review the market risk exposures of its trading portfolios. The Market Risk Department calculates and distributes daily VaR-based risk measures to various levels of management.  
+
+VaR Methodology, Assumptions and Limitations. The Company estimates VaR using a model based on historical simulation for major market risk factors and Monte Carlo simulation for name-specific risk in certain equity and fixed income exposures. Historical simulation involves constructing a distribution of hypothetical daily changes in the value of trading portfolios based on two sets of inputs: historical observation of daily changes in key market indices or other market factors (market risk factors); and information on the sensitivity of the portfolio values to these market risk factor changes. The Companys VaR model uses approximately four years of historical data to characterize potential changes in market risk factors. The Companys 95%/one-day VaR corresponds to the unrealized loss in portfolio value that, based on historically observed market risk factor movements, would have been exceeded with a frequency of 5%, or five times in every 100 trading days, if the portfolio were held constant for one day.  
+
+The Companys VaR model generally takes into account linear and non-linear exposures to price risk, interest rate risk and credit spread risk and linear exposures to implied volatility risks. Market risks that are incorporated in the VaR model include equity and commodity prices, interest rates, credit spreads, foreign exchange rates and associated implied volatilities. The VaR model also captures certain correlation risks associated with portfolio credit derivatives, as well as certain basis risks between corporate debt and related credit derivatives. As a supplement to the use of historical simulation for major market risk factors, the Companys VaR model uses Monte Carlo simulation to capture name-specific risk in equities and credit products (i.e., corporate bonds, loans, and credit derivatives).  
+
+91  
+
+Table of Contents 
+
+The Companys VaR models evolve over time in response to changes in the composition of trading portfolios and to improvements in modeling techniques and systems capabilities. The Company is committed to continuous review and enhancement of VaR methodologies and assumptions in order to capture evolving risks associated with changes in market structure and dynamics. As part of regular process improvement, additional systematic and name-specific risk factors may be added to improve the VaR models ability to more accurately estimate risks to specific asset classes or industry sectors. In response to increased levels of market volatility realized during fiscal 2008, the Company has reviewed the appropriateness of the implementation of its VaR models and has made certain changes to more accurately capture risks generated by certain fixed income products. These changes include additional historical time series that provide broader product coverage of subprime consumer and other mortgage products as well as updated mappings of risk exposures to historical price time series.  
+
+Among their benefits, VaR models permit estimation of a portfolios aggregate market risk exposure, incorporating a range of varied market risks; reflect risk reduction due to portfolio diversification or hedging activities; and can cover a wide range of portfolio assets. However, VaR risk measures should be interpreted carefully in light of the methodologys limitations, which include the following: past changes in market risk factors may not always yield accurate predictions of the distributions and correlations of future market movements; changes in portfolio value in response to market movements (especially for complex derivative portfolios) may differ from the responses calculated by a VaR model; VaR using a one-day time horizon does not fully capture the market risk of positions that cannot be liquidated or hedged within one day; the historical market risk factor data used for VaR estimation may provide only limited insight into losses that could be incurred under market conditions that are unusual relative to the historical period used in estimating the VaR; and published VaR results reflect past trading positions while future risk depends on future positions. VaR is most appropriate as a risk measure for trading positions in liquid financial markets and will understate the risk associated with severe events, such as periods of extreme illiquidity. The Company is aware of these and other limitations and, therefore, uses VaR as only one component in its risk management oversight process. As explained above, this process also incorporates stress testing and scenario analyses and extensive risk monitoring, analysis, and control at the trading desk, division and Company levels.  
+
+VaR for Fiscal 2008. The table below presents the Companys Aggregate, Trading and Non-trading VaR for each of the Companys primary market risk exposures at November 30, 2008 and November 30, 2007, incorporating substantially all financial instruments generating market risk that are managed by the Companys trading businesses. This measure of VaR incorporates most of the Companys trading-related market risks. However, a small proportion of trading positions generating market risk is not included in VaR, and the modeling of the risk characteristics of some positions relies upon approximations that, under certain circumstances, could produce significantly different VaR results from those produced using more precise measures. For example, risks associated with residential mortgage-backed securities have been approximated as it is difficult to capture precisely the relevant microeconomic factors that affect mortgage prices within a VaR context.  
+
+Aggregate VaR also incorporates certain non-trading risks, including (a) the interest rate risk generated by funding liabilities related to institutional trading positions, (b) public company equity positions recorded as investments by the Company and (c) corporate loan exposures that are awaiting distribution to the market. Investments made by the Company that are not publicly traded are not reflected in the VaR results presented below. Aggregate VaR also excludes certain funding liabilities primarily related to fixed and other non-trading assets. The credit spread risk generated by the Companys funding liabilities is not included in the Companys Aggregate VaR calculations. As of November 30, 2008, the notional amount of funding liabilities related to non-trading assets (including premises, equipment and software, goodwill, deferred tax assets and intangible assets) was approximately $8.7 billion, with a duration of approximately 11 years. The credit spread risk sensitivity generated by the Companys funding liabilities (i.e., those funding both trading and non-trading assets) corresponded to an increase in value of approximately $81 million for each +1 basis point (or 1/100th of a percentage point) widening in the Companys credit spread level as of November 30, 2008.  
+
+92  
+
+Table of Contents 
+
+Since the VaR statistics reported below are estimates based on historical position and market data, VaR should not be viewed as predictive of the Companys future revenues or financial performance or of its ability to monitor and manage risk. There can be no assurance that the Companys actual losses on a particular day will not exceed the VaR amounts indicated below or that such losses will not occur more than five times in 100 trading days. VaR does not predict the magnitude of losses which, should they occur, may be significantly greater than the VaR amount.  
+
+The table below presents 95%/one-day VaR for each of the Companys primary risk exposures and on an aggregate basis at November 30, 2008 and November 30, 2007.  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1) Diversification benefit equals the difference between Total VaR and the sum of the VaRs for the four risk categories. This benefit arises because the simulated one-day losses for each of the four primary market risk categories occur on different days; similar diversification benefits also are taken into account within each category.  
+
+The Companys Aggregate VaR at November 30, 2008 was $135 million compared with $83 million at November 30, 2007. The increase in Aggregate VaR at year-end was driven primarily by a substantial increase in interest rate and credit spread VaR, partially offset by decreases in equity price, foreign exchange rate and commodity price VaR.  
+
+The Companys Trading VaR at November 30, 2008 was $104 million compared with $78 million at November 30, 2007. The increase in Trading VaR at year-end was driven primarily by a substantial increase in interest rate and credit spread VaR, partially offset by decreases in equity price, foreign exchange rate and commodity price VaR.  
+
+Non-trading VaR at November 30, 2008 increased to $67 million from $33 million at November 30, 2007 primarily due to an increase in interest rate and credit spread VaR.  
+
+The Company views average Trading VaR over a period of time as more representative of trends in the business than VaR at any single point in time. Table 2 below, which presents the high, low and average 95%/one-day Trading VaR during fiscal 2008 and fiscal 2007, represents substantially all of the Companys trading activities. Certain market risks included in the year-end Aggregate VaR discussed above are excluded from these measures (e.g., equity price risk in public company equity positions recorded as principal investments by the Company and certain funding liabilities related to trading positions).    
+
+Average Trading VaR for fiscal 2008 increased to $98 million from $87 million in fiscal 2007, driven by increases in interest rate and credit spread VaR and foreign exchange rate VaR. Average Total VaR for fiscal 2008 increased to $115 million from $92 million in fiscal 2007, which was also driven by increases in interest rate and credit spread VaR and foreign exchange rate VaR. The increase in interest rate and credit spread VaR   
+
+93  
+
+Table of Contents 
+
+ was predominately driven by increased volatility in interest rate and credit spread sensitive products, especially securities that reference mortgage-backed securities. The increase in foreign exchange rate VaR was driven by increased exposure to foreign currencies. Average Non-trading VaR for fiscal 2008 increased to $53 million from $22 million in fiscal 2007, driven primarily by increased exposures associated with certain Non-trading lending positions.  
+
+  [DATA_TABLE_REMOVED] 
+
+VaR Statistics under Varying Assumptions.   
+
+VaR statistics are not readily comparable across firms because of differences in the breadth of products included in each firms VaR model, in the statistical assumptions made when simulating changes in market factors, and in the methods used to approximate portfolio revaluations under the simulated market conditions. These differences can result in materially different VaR estimates for similar portfolios. As a result, VaR statistics are more reliable and relevant when used as indicators of trends in risk taking within a firm rather than as a basis for inferring differences in risk taking across firms. Table 3 below presents the VaR statistics that would result if the Company were to adopt alternative parameters for its calculations, such as the reported confidence level (95% versus 99%) for the VaR statistic or a shorter historical time series (four years versus one year) for market data upon which it bases its simulations:  
+
+  [DATA_TABLE_REMOVED] 
+
+In addition, if the Company were to report Trading VaR (using a four-year historical time series) with respect to a 10-day holding period, the Companys 95% and 99% Average Trading VaR for fiscal 2008 would have been $311 million and $556 million, respectively.  
+
+94  
+
+Table of Contents 
+
+Distribution of VaR Statistics and Net Revenues for Fiscal 2008.  
+
+As shown in Table 2 above, the Companys average 95%/one-day Trading VaR for fiscal 2008 was $98 million. The histogram below presents the distribution of the Companys daily 95%/one-day Trading VaR for fiscal 2008. The most frequently occurring value was between $97 million and $103 million, while for approximately 92% of trading days during the fiscal year, VaR ranged between $88 million and $109 million.  
+
+One method of evaluating the reasonableness of the Companys VaR model as a measure of the Companys potential volatility of net revenue is to compare the VaR with actual trading revenue. Assuming no intra-day trading, for a 95%/one-day VaR, the expected number of times that trading losses should exceed VaR during the fiscal year is 13, and, in general, if trading losses were to exceed VaR more than 21 times in a year, the accuracy of the VaR model could be questioned. Accordingly, the Company evaluates the reasonableness of its VaR model by comparing the potential declines in portfolio values generated by the model with actual trading results. For days where losses exceed the 95% or 99% VaR statistic, the Company examines the drivers of trading losses to evaluate the VaR models accuracy relative to realized trading results.  
+
+The Company incurred daily trading losses in excess of the 95%/one-day Trading VaR on 18 days during fiscal 2008. Most of these losses were incurred in the fourth quarter of fiscal 2008, a period of unprecedented volatility across the equity, corporate credit and securitized product markets (e.g., the fourth quarter provided the majority of the most volatile stock market days in the past 60 years and major indexes lost approximately 30% in the quarter). Since the Company bases its VaR calculations on four years of equally weighted historical data, clustering of VaR exceptions should occur during periods of exceptionally high market turbulence. An examination of the 18 outliers incurred during the fiscal year revealed that these losses occurred on days when markets experienced unusually high price volatility.  
+
+Over the longer term, trading losses are expected to exceed VaR an average of three times per quarter at the 95% confidence level. The Company bases its VaR calculations on the long-term (or unconditional) distribution and,   
+
+95  
+
+Table of Contents 
+
+ therefore, evaluates its risk from a longer term perspective, which avoids understating risk during periods of relatively lower volatility in the market.  
+
+The histogram below shows the distribution of daily net trading revenue during fiscal 2008 for the Companys trading businesses (including net interest and non-agency commissions but excluding certain non-trading revenues such as primary, fee-based and prime brokerage revenue credited to the trading businesses). During fiscal 2008, the Company experienced net trading losses on 76 days. These loss days were driven predominately by increased market volatility realized during the second half of the fiscal year.  
+
+Credit Risk.  
+
+Credit risk refers to the risk of loss arising from borrower or counterparty default when a borrower, counterparty or obligor does not meet its financial obligations. The Company is exposed to two distinct types of credit risk in its businesses. The Company incurs significant, single-name credit risk exposure through the Institutional Securities business and to a lesser extent through its commercial lending activity in its Global Wealth Management Group. This type of risk requires credit analysis of specific counterparties, both initially and on an ongoing basis. The Company also incurs individual consumer credit risk in the Global Wealth Management Group business through margin and non-purpose loans to individual investors, which are collateralized by securities.  
+
+The Company has structured its credit risk management framework to reflect that each of these businesses generates unique credit risks that are appropriately managed discretely. The Institutional Credit Department (Institutional Credit) evaluates and monitors credit risk exposure for the Institutional Securities business segment. Institutional Credit is responsible for ensuring transparency of material credit risks, ensuring compliance with established limits, approving material extensions of credit, and escalating risk concentrations to appropriate senior management. Credit risk exposure in the Global Wealth Management Group business segment is managed through various credit risk committees, whose membership includes Institutional Credit. The Global Wealth Management Group Risk Management Department is responsible for monitoring, measuring and analyzing credit risk exposures, including margin loans and credit sensitive, higher risk transactions.  
+
+96  
+
+Table of Contents 
+
+Institutional Securities Activities.  
+
+Corporate Lending. In connection with certain of its Institutional Securities business activities, the Company provides loans or lending commitments (including bridge financing) to selected clients. Such loans and commitments can generally be classified as either event-driven or relationship-driven.  
+
+Event-driven loans and commitments refer to activities associated with a particular event or transaction, such as to support client merger, acquisition or recapitalization transactions. The commitments associated with these event-driven activities may not be indicative of the Companys actual funding requirements since funding is contingent upon a proposed transaction being completed. In addition, the borrower may not fully utilize the commitment or the Companys portion of the commitment may be reduced through the syndication process. The borrowers ability to draw on the commitment is also subject to certain terms and conditions, among other factors. The borrowers of event-driven lending transactions may be investment grade or non-investment grade. The Company risk manages its exposures in connection with event-driven transactions through various means, including syndication, distribution and/or hedging.  
+
+Relationship-driven loans and commitments are generally made to expand business relationships with select clients. The commitments associated with relationship-driven activities may not be indicative of the Companys actual funding requirements, as the commitment may expire unused or the borrower may not fully utilize the commitment. The borrowers of relationship-driven lending transactions may be investment grade or non-investment grade. The Company may hedge its exposures in connection with relationship-driven transactions.  
+
+Securitized Products. The Company also extends loans and lending commitments to clients that are secured by assets of the borrower and generally provide for over-collateralization, including commercial real estate, loans secured by loan pools, corporate and operating company loans, and secured lines of revolving credit. Credit risk with respect to these loans and lending commitments arises from the failure of a borrower to perform according to the terms of the loan agreement and a decline in collateral value.  
+
+Other. In addition to the activities performed by Institutional Credit, there are credit risks managed by various business areas within Institutional Securities. For example, certain businesses with heightened settlement risk monitor compliance with established settlement risk limits. Certain risk management activities as they pertain to establishing appropriate collateral amounts for the Companys prime brokerage and securitized product businesses are primarily monitored within those areas in that they determine the appropriate collateral level for each strategy or position. In addition, a collateral management group monitors collateral levels against requirements and oversees the administration of the collateral function.  
+
+Derivative Contracts. In the normal course of business, the Company enters into a variety of derivative contracts related to financial instruments and commodities. The Company uses these instruments for trading and investment purposes, as well as for asset and liability management. These instruments generally represent future commitments to swap interest payment streams, exchange currencies, or purchase or sell commodities and other financial instruments on specific terms at specified future dates. Many of these products have maturities that do not extend beyond one year, although swaps, options and equity warrants typically have longer maturities.  
+
+The Company incurs credit risk as a dealer in OTC derivatives. Credit risk with respect to derivative instruments arises from the failure of a counterparty to perform according to the terms of the contract. The Companys exposure to credit risk at any point in time is represented by the fair value of the derivative contracts reported as assets. The fair value of derivatives represents the amount at which the derivative could be exchanged in an orderly transaction between market participants, and is further described in Note 2 to the consolidated financial statements. Future changes in interest rates, foreign currency exchange rates, or the fair values of the financial instruments, commodities, or indices underlying these contracts ultimately may result in cash settlements exceeding fair value amounts recognized in the consolidated statements of financial condition.  
+
+97  
+
+Table of Contents 
+
+Analyzing Credit Risk. Credit risk management takes place at the transaction, counterparty and portfolio levels. In order to help protect the Company from losses resulting from these activities, Institutional Credit analyzes all material lending and derivative transactions and ensures that the creditworthiness of the Companys counterparties and borrowers is reviewed regularly and that credit exposure is actively monitored and managed. Institutional Credit assigns obligor credit ratings to the Companys counterparties and borrowers. These credit ratings are intended to assess a counterpartys probability of default and are derived using methodologies generally consistent with those employed by external rating agencies. Credit ratings of BB+ or below are considered non-investment grade. Additionally, for lending transactions, Institutional Credit evaluates the relative position of the Companys particular obligation in the borrowers capital structure and relative recovery prospects, as well as collateral (if applicable) and other structural elements of the particular transaction. The Company has credit guidelines that limit potential credit exposure to any one borrower or counterparty and to aggregates of borrowers or counterparties. Institutional Credit administers these limits and monitors and reports credit exposure relative to limits.  
+
+Risk Mitigation. The Company may seek to mitigate credit risk from its lending and derivatives transactions in multiple ways. At the transaction level, the Company seeks to mitigate risk through management of key risk elements such as size, tenor, seniority and collateral. The Company actively hedges its lending and derivatives exposure through various financial instruments which may include single name, portfolio and structured credit derivatives. Additionally, the Company may sell, assign or sub-participate funded loans and lending commitments to other financial institutions in the primary and secondary loan market. In connection with its derivatives trading activities, the Company may enter into master netting agreements and collateral arrangements with counterparties. These agreements provide the Company with the ability to offset a counterpartys rights and obligations, request additional collateral when necessary or liquidate the collateral in the event of counterparty default.  
+
+Credit ExposureCorporate Lending. The following table presents information about the Companys corporate funded loans and lending commitments as of November 30, 2008. The total corporate lending exposure column includes both lending commitments and funded loans. Funded loans represent loans that have been drawn by the borrower and that were outstanding as of November 30, 2008. Lending commitments represent legally binding obligations to provide funding to clients as of November 30, 2008 for both relationship-driven and event-driven lending transactions. As discussed above, these loans and lending commitments have varying terms, may be senior or subordinated, may be secured or unsecured, are generally contingent upon representations, warranties and contractual conditions applicable to the borrower, and may be syndicated, traded or hedged by the Company.  
+
+At November 30, 2008 and November 30, 2007, the aggregate amount of investment grade loans was $8.3 billion and $13.0 billion, respectively, and the aggregate amount of non-investment grade loans was $9.5 billion and $10.9 billion, respectively. At November 30, 2008 and November 30, 2007, the aggregate amount of lending commitments outstanding was $42.4 billion and $70.2 billion, respectively. In connection with these corporate lending activities (which include corporate funded loans and lending commitments), the Company had hedges (which include single name, sector and index hedges) with a notional amount of $35.8 billion and $37.6 billion at November 30, 2008 and November 30, 2007, respectively. The table below shows the Companys credit exposure from its corporate lending positions and commitments as of November 30, 2008. Since commitments associated with these business activities may expire unused, they do not necessarily reflect the actual future cash funding requirements:  
+
+98  
+
+Table of Contents 
+
+Corporate Lending Commitments and Funded Loans  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1) Obligor credit ratings are determined by Institutional Credit using methodologies generally consistent with those employed by external rating agencies.  
+
+ (2) Total corporate lending exposure includes both lending commitments and funded loans, which are at fair value. Amounts exclude approximately $36 billion of notional amount of hedges.  
+
+Event-driven Loans and Commitments.  
+
+Included in the total corporate lending exposure amounts in the table above is event-driven exposure of $9.4 billion comprised of funded loans of $4.3 billion and lending commitments of $5.1 billion. Included in the $9.4 billion of event-driven exposure were $5.6 billion of loans and lending commitments to non-investment grade borrowers that were closed.  
+
+Activity associated with the corporate event-driven lending exposure during fiscal 2008 was as follows (dollars in millions):  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1) Included in net reductions are sales of approximately $4.2 billion of highly leveraged loans, high yield notes, and lending commitments to affiliates of third party private equity firms. The Company provided senior secured financing of approximately $3.0 billion to these firms. The Companys retained interest is the senior debt collateralized by the transferred assets. The transferred assets are no longer reflected in the consolidated financial statements. The retained interests are classified as Financial instruments ownedCorporate and other debt in the consolidated statement of financial condition.  
+
+99  
+
+Table of Contents 
+
+Credit ExposureDerivatives. The table below presents a summary by counterparty credit rating and remaining contract maturity of the fair value of OTC derivatives in a gain position at November 30, 2008. Fair value represents the risk reduction arising from master netting agreements, where applicable, and, in the final column, net of collateral received (principally cash and U.S. government and agency securities):  
+
+OTC Derivative ProductsFinancial Instruments Owned(1)  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1) Fair values shown present the Companys exposure to counterparties related to the Companys OTC derivative products. The table does not include the effect of any related hedges utilized by the Company. The table also excludes fair values corresponding to other credit exposures, such as those arising from the Companys lending activities.  
+
+ (2) Obligor credit ratings are determined by Institutional Credit using methodologies generally consistent with those employed by external rating agencies.  
+
+ (3) Amounts represent the netting of receivable balances with payable balances for the same counterparty across maturity categories. Receivable and payable balances with the same counterparty in the same maturity category are netted within such maturity category, where appropriate. Cash collateral received is netted on a counterparty basis, provided legal right of offset exists.  
+
+The following tables summarize the fair values of the Companys OTC derivative products recorded in Financial instruments owned and Financial instruments sold, not yet purchased by product category and maturity as of November 30, 2008, including on a net basis, where applicable, reflecting the fair value of related non-cash collateral for financial instruments owned:  
+
+OTC Derivative ProductsFinancial Instruments Owned  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1) Amounts represent the netting of receivable balances with payable balances for the same counterparty across maturity and product categories. Receivable and payable balances with the same counterparty in the same maturity category are netted within the maturity category, where appropriate. Cash collateral received is netted on a counterparty basis, provided legal right of offset exists.  
+
+100  
+
+Table of Contents 
+
+OTC Derivative ProductsFinancial Instruments Sold, Not Yet Purchased(1)  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1) Since these amounts are liabilities of the Company, they do not result in credit exposures.  
+
+ (2) Amounts represent the netting of receivable balances with payable balances for the same counterparty across maturity and product categories. Receivable and payable balances with the same counterparty in the same maturity category are netted within the maturity category, where appropriate. Cash collateral paid is netted on a counterparty basis, provided legal right of offset exists.  
+
+The Companys derivatives (both listed and OTC), on a net of counterparty and cash collateral basis, as of November 30, 2008 and November 30, 2007 are summarized in the table below, showing the fair value of the related assets and liabilities by product category:  
+
+  [DATA_TABLE_REMOVED] 
+
+Each category of derivative products in the above tables includes a variety of instruments, which can differ substantially in their characteristics. Instruments in each category can be denominated in U.S. dollars or in one or more non-U.S. currencies.  
+
+The Company determines the fair values recorded in the above tables using various pricing models. For a discussion of fair value as it affects the consolidated financial statements, see Managements Discussion and Analysis of Financial Condition and Results of OperationsCritical Accounting Policies in Part II, Item 7 and Notes 2 and 3 to the consolidated financial statements.  
+
+Country Exposure. As of November 30, 2008, primarily based on the domicile of the counterparty, approximately 10% of the Companys credit exposure (for credit exposure arising from corporate loans and lending commitments as discussed above and current exposure arising from the Companys OTC derivatives contracts) was to emerging markets, and no one emerging market country accounted for more than 3.2% of the Companys credit exposure. The Company defines emerging markets to include generally all countries that are   
+
+101  
+
+Table of Contents 
+
+ not members of the Organization for Economic Co-operation and Development and includes as well the Czech Republic, Hungary, Korea, Mexico, Poland, the Slovak Republic and Turkey but excludes countries rated AA and Aa2 or above by Standard & Poors and Moodys Investors Service, respectively.  
+
+The following tables show the Companys percentage of credit exposure from its primary corporate loans and lending commitments and OTC derivative products by country as of November 30, 2008:  
+
+  [DATA_TABLE_REMOVED] 
+
+Industry Exposure. As of November 30, 2008, the Companys material credit exposure (for credit exposure arising from corporate loans and lending commitments as discussed above and current exposure arising from the Companys OTC derivatives contracts) was to entities engaged in the following industries: financial institutions, insurance, utilities, sovereign, transportation, consumer-related entities and telecommunications.  
+
+The following tables show the Companys percentage of credit exposure from its primary corporate loans and lending commitments and OTC derivative products by industry as of November 30, 2008:  
+
+  [DATA_TABLE_REMOVED] 
+
+102  
+
+Table of Contents [DATA_TABLE_REMOVED] 
+
+Global Wealth Management Group Activities.  
+
+Margin Lending. Customer margin accounts, the primary source of retail credit exposure, are collateralized in accordance with internal and regulatory guidelines. The Company monitors required margin levels and established credit limits daily and, pursuant to such guidelines, requires customers to deposit additional collateral, or reduce positions, when necessary. Factors considered in the review of margin loans are the amount of the loan, the intended purpose, the degree of leverage being employed in the account, and overall evaluation of the portfolio to ensure proper diversification or, in the case of concentrated positions, possible hedging strategies. Additionally, transactions relating to concentrated or restricted positions require a review of any legal impediments to liquidation of the underlying collateral. Underlying collateral for margin loans is reviewed with respect to the liquidity of the proposed collateral positions, valuation of securities, historic trading range, volatility analysis and an evaluation of industry concentrations. At November 30, 2008, there were approximately $4.5 billion of customer margin loans outstanding.  
+
+Non-purpose Securities-Based Lending. Non-purpose securities-based lending allows clients to borrow money against the value of qualifying securities for any suitable purpose other than purchasing, trading, or carrying marketable securities or refinancing margin debt. The Company establishes approved lines and advance rates against qualifying securities and monitors limits daily and, pursuant to such guidelines, requires customers to deposit additional collateral, or reduce debt positions, when necessary. Factors considered in the review of non-purpose securities-based lending are amount of the loan, the degree of concentrated or restricted positions, and the overall evaluation of the portfolio to ensure proper diversification or, in the case of concentrated positions, possible hedging strategies. Underlying collateral for non-purpose securities-based loans is reviewed with respect to the liquidity of the proposed collateral positions, historic trading range, volatility analysis and an evaluation of industry concentrations.  
+
+Commercial Lending. Global Wealth Management Group provides structured credit facilities to high net worth individuals and their small and medium-size domestic businesses through Morgan Stanley Commercial Financial Services, Inc. (CFS). CFS suite of products includes working capital lines of credit, revolving lines of credit, standby letters of credit, term loans and commercial real estate mortgages. Clients are required to submit a credit application and financial statements to CFS centralized credit processing platform. CFS underwriting professionals recommend a lending structure following an analysis of the borrower, the guarantor, the collateral, cash flow, liquidity, leverage and credit history. For standard transactions, credit requests are approved via signature of independent credit officers, and where transactions are of size and higher complexity, approval is secured through a formal loan committee chaired by independent credit professionals. The facility is risk rated and upon credit approval is moved to the general portfolio where it is monitored periodically through account management, covenants compliance certificates, and spot and cycle audits.  
+
+Consumer Lending Activities.  
+
+With respect to first mortgages and second mortgages, including home equity lines of credit (mortgage lending), a loan evaluation process is adopted within a framework of credit underwriting policies and collateral   
+
+103  
+
+Table of Contents 
+
+ valuation. The Companys underwriting policy is designed to ensure that all borrowers pass an assessment of capacity and willingness to pay, which includes an analysis of applicable industry standard credit scoring models (e.g., FICO scores), debt ratios and reserves of the borrower. Loan-to-collateral value ratios are determined based on independent third-party property appraisal/valuations, and security lien position is established through title/ownership reports. As part of the mortgage lending business strategy, almost all loans are sold in the secondary market through securitizations and whole loan sales, while almost all servicing rights are retained. These sales and securitizations pass the risk of credit loss onto the purchaser/investor.  
+
+Operational Risk.  
+
+Operational risk refers to the risk of financial or other loss, or potential damage to a firms reputation, resulting from inadequate or failed internal processes, people, systems or from external events (e.g., external or internal fraud, legal and compliance risks, damage to physical assets, etc.). The Company may incur operational risk across the full scope of its business activities, including revenue generating activities (e.g., sales and trading) and support functions (e.g., information technology and facilities management). Legal and compliance risk is included in the scope of operational risk and is discussed below under Legal Risk.  
+
+The goal of the Companys operational risk management framework is to establish firm-wide operational risk standards related to risk measurement, monitoring and management. Operational risk policies are designed to reduce the likelihood and/or impact of operational incidents as well as to mitigate legal, regulatory and reputational risks. The framework continually responds to changing regulatory and business environment landscape. As a foundation for the Basel II Advanced Measurement Approach, an enhanced risk-based capital model has been developed for the calculation of capital related to operational risk. This model encompasses both quantitative and qualitative elements, including internal and external operational incidents, metrics, risk and control self-assessments and scenario analysis.  
+
+The Operational Risk Oversight Committee, a Firm-wide committee, is chaired by the Companys Chief Risk Officer, and assists the Firm Risk Committee in executing its responsibilities for oversight of operational risk, including evaluating assessments of risk exposure, reviewing the Companys significant operational risk exposures, recommending and overseeing firmwide remediation efforts, review and evaluation of current event risk issues, and establishing firmwide operational risk program standards related to risk measurement, monitoring and management.  
+
+The Companys Operational Risk Manager (ORM) oversees, monitors, measures, analyzes and reports on operational risk across the Company. The ORM is independent of the business segments and is supported by the Firm-wide Operational Risk Department (ORD). The ORM is also responsible for facilitating, designing, implementing and monitoring the Firm-wide operational risk program. The ORD works with the business segments and Control Groups to help ensure a transparent, consistent and comprehensive framework for managing operational risk within each area and across the Company, globally.  
+
+Primary responsibility for the management of operational risk is with the business segments, the Control Groups, and the business managers therein. The business managers, generally, maintain processes and controls designed to identify, assess, manage, mitigate and report operational risk. As new products and business activities are developed and processes are designed and modified, operational risks are considered. Each business segment has a designated operational risk coordinator. The operational risk coordinator regularly reviews operational risk issues and reports with senior management within each business. Each Control Group also has a designated operational risk coordinator, or equivalent, and a forum for discussing operational risk matters and/or reports with senior management. Oversight of business segment operational risk is provided by business segment risk committees, the Operational Risk Oversight Committee, senior management through the Firm Risk Committee.  
+
+Business Continuity Management is an ongoing program of analysis and planning that ensures a recovery strategy and required resources for the resumption of critical business functions following a disaster or other   
+
+104  
+
+Table of Contents 
+
+ business interruption. Disaster recovery plans are in place for critical facilities and resources on a Company-wide basis, and redundancies are built into the systems as deemed appropriate. The key components of the Companys disaster recovery plans include: crisis management; business segment recovery plans; applications/data recovery; work area recovery; and other elements addressing management, analysis, training and testing.  
+
+The Company maintains an information security program that coordinates the management of information security risks and satisfies regulatory requirements. Information security procedures are designed to protect the Companys information assets against unauthorized disclosure, modification or misuse. These procedures cover a broad range of areas, including: application system entitlement; data protection; internet and intranet access, communications and usage; and mobile and portable information usage. The Company has also established policies, procedures and technologies to protect its computer and other assets from unauthorized access.  
+
+The Company utilizes the services of external vendors in connection with the Companys ongoing operations. These may include, for example, outsourced processing and support functions and consulting and other professional services. The Company manages its exposures to the quality of these services through a variety of means, including service level and other contractual agreements, service and quality reviews, and ongoing monitoring of the vendors performance. It is anticipated that the use of these services will continue and possibly increase in the future.  
+
+Legal Risk.  
+
+Legal risk includes the risk of non-compliance with applicable legal and regulatory requirements and standards. Legal risk also includes contractual and commercial risk such as the risk that a counterpartys performance obligations will be unenforceable. The Company is generally subject to extensive regulation in the different jurisdictions in which it conducts its business (see BusinessSupervision and Regulation in Part I, Item 1). The Company has established procedures based on legal and regulatory requirements on a worldwide basis that are designed to foster compliance with applicable statutory and regulatory requirements. The Company, principally through the Legal and Compliance Division, also has established procedures that are designed to require that the Companys policies relating to conduct, ethics and business practices are followed globally. In connection with its businesses, the Company has and continuously develops various procedures addressing issues such as regulatory capital requirements, sales and trading practices, new products, potential conflicts of interest, structured transactions, use and safekeeping of customer funds and securities, credit granting, money laundering, privacy and recordkeeping. In addition, the Company has established procedures to mitigate the risk that a counterpartys performance obligations will be unenforceable, including consideration of counterparty legal authority and capacity, adequacy of legal documentation, the permissibility of a transaction under applicable law and whether applicable bankruptcy or insolvency laws limit or alter contractual remedies. The legal and regulatory focus on the financial services industry presents a continuing business challenge for the Company.  
+
+105  
+
+Table of Contents 
+
+Item 8. Financial Statements and Supplementary Data.

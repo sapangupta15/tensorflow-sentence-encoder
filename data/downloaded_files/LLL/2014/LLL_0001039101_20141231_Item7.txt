@@ -1,0 +1,717 @@
+Item 7. Managements Discussion and Analysis of Financial Condition and Results of Operations  
+
+Overview and Outlook  
+
+Internal Review of Aerospace Systems Segment and Related Matters  
+
+As disclosed in our 2013 Form 10-K/A filed on October 10, 2014, we conducted an internal review related to instances of misconduct and accounting errors at our Aerospace Systems segment during 2014. The internal review at our Aerospace Systems segment was conducted with the assistance of outside legal and accounting advisors, and was completed in October 2014. As a result of the internal review at our Aerospace Systems segment, we identified and recorded aggregate pre-tax charges as follows: (1) $75 million for 2014, (2) $60 million for 2013, (3) $25 million for 2012, (4) $5 million for 2011, and (5) $4 million for periods prior to 2011.  
+
+The adjustments related to the internal review at our Aerospace Systems segment only affected the Platform and Logistics Solutions sector of the Aerospace Systems segment. The cumulative aggregate adjustments attributable to the Logistics Solutions division were approximately $117 million and at Platform Systems were approximately $52 million. The Logistics Solutions division adjustments related to: (1) losses of $69 million with respect to the U.S. Army C-12 fixed-price maintenance and logistics support contract due to cost overruns inappropriately deferred, sales invoices inappropriately prepared, and the failure to timely and accurately perform contract cost estimates at completion and valuation assessments of inventories and receivables, at our Army Sustainment Division, and (2) accounting errors of $48 million related to the valuation of inventories and receivables, and the correction for certain accruals on other logistics support contracts. The Platform Systems adjustments were primarily due to: (1) losses of $37 million on two aircraft modification contracts and two contracts for rotary wing sub-assemblies and parts, and (2) write-offs of deferred costs of $15 million to design and test aerostructures for a new commercial aircraft.  
+
+This Managements Discussion and Analysis of Financial Condition and Results of Operations, and our audited consolidated financial statements, included herein, give effect to the adjustments related to the internal review at our Aerospace Systems segment for all periods presented.  
+
+As part of the findings from the internal review at our Aerospace Systems segment, we also identified certain material weaknesses in our internal controls over financial reporting (ICFR) that existed as of December 31, 2013 and that continue to exist as of December 31, 2014. Solely as a result of these material weaknesses, we have  
+
+31  
+
+Table of Contents 
+
+ concluded that our disclosure controls and procedures and ICFR were not effective as of December 31, 2014. The material weaknesses are further discussed in Part II  Item 9A  Controls and Procedures.  
+
+L-3s Business  
+
+L-3 is a prime contractor in Intelligence, Surveillance and Reconnaissance (ISR) systems, aircraft sustainment (including modifications, logistics and maintenance), simulation and training, night vision and image intensification equipment, enterprise and mission information technology (IT) solutions and cyber operations. L-3 is also a leading provider of a broad range of communication and electronic systems and products used on military and commercial platforms. Our customers include the United States (U.S.) Department of Defense (DoD) and its prime contractors, U.S. Government intelligence agencies, the U.S. Department of Homeland Security (DHS), foreign governments, and domestic and international commercial customers.  
+
+We have the following four reportable segments: (1) Electronic Systems, (2) Aerospace Systems, (3) Communication Systems, and (4) National Security Solutions (NSS). Financial information for our segments is included in Note 22 to our audited consolidated financial statements. Electronic Systems provides a broad range of components, products, subsystems, systems, and related services for military and commercial customers in several niche markets across several business areas. These business areas include precision engagement & training, sensor systems, power & propulsion systems, marine systems, aviation products, warrior systems and security & detection systems. Aerospace Systems delivers integrated solutions for the global ISR market and provides modernization, upgrade, sustainment, and maintenance and logistics support for a wide variety of aircraft and ground systems. Communication Systems delivers products and services for the global communications market, specializing in strategic and tactical airborne, space, ground and sea-based communication systems. NSS provides cybersecurity solutions, high-performance computing, enterprise IT services, analytics and intelligence analysis to the DoD, U.S. Government intelligence agencies, federal civilian agencies and foreign governments.  
+
+On July 17, 2012, L-3 completed the spin-off of its subsidiary, Engility Holdings, Inc. (Engility) to L-3s shareholders. As a result of the spin-off, the results of operations and cash flows of the Engility businesses have been classified as discontinued operations for the year ended December 31, 2012. References to financial data are to L-3s continuing operations, unless specifically noted. See Spin-off of Engility within this section for additional information related to Engility and the spin-off.  
+
+We generated sales of $12,124 million and $12,622 million for the years ended December 31, 2014 and 2013, respectively, and our primary customer was the DoD. The table below presents a summary of our sales by end customer and the percent contributed by each to our total sales.  
+
+  [DATA_TABLE_REMOVED] 
+
+Most of our contracts (revenue arrangements) with the U.S. Government are subject to U.S. Defense Contract Audit Agency audits and various cost and pricing regulations, and include standard provisions for termination for  
+
+32  
+
+Table of Contents 
+
+ the convenience of the U.S. Government. Multiyear U.S. Government contracts and related orders are subject to cancellation if funds for contract performance for any subsequent year become unavailable. Foreign government contracts generally include comparable provisions relating to termination for the convenience of the relevant foreign government.  
+
+Business Environment  
+
+U.S. Government Markets. Sales to U.S. Government customers represented 71% of our 2014 sales, and were primarily to DoD customers, which comprised 66% of our sales. Therefore, our annual sales are generally highly correlated to changes in U.S. Government spending levels, especially DoD budget levels.  
+
+The DoD budget peaked in the fiscal year ended September 30, 2010 (FY 2010) at $690 billion and has declined since. The total budget for FY 2014 was $581 billion, which increased slightly compared to the FY 2013 budget due to an increase in the Overseas Contingency Operations (OCO) budget. The FY 2014 base budget remained at $496 billion compared to FY 2013. The total DoD budget for FY 2015 is $560 billion, which decreased by 4% due to a decrease in the OCO budget. The FY 2015 DoD base budget remains flat at $496 billion compared to FY 2014.  
+
+The enacted FY 2013 and FY 2014 DoD budgets and the FY 2015 DoD budget, which was fully appropriated by Congress on December 13, 2014, comply with the sequestration cuts required by the Budget Control Act of 2011 (BCA), as amended by The American Taxpayer Relief Act (ATRA) and the Bipartisan Budget Act of 2013 (BBA). ATRA, enacted on January 2, 2013, reduced the sequester cuts to the FY 2013 DoD budget by $9 billion. The BBA, enacted on December 26, 2013, reduced budget sequester cuts to the DoD base budget by approximately $22 billion for FY 2014 and $9 billion for FY 2015 and increased the FY 2014 OCO budget by $6 billion compared to the amount requested by the Obama Administration (Administration).  
+
+On February 2, 2015, the Administration submitted its FY 2016 DoD Proposed Budget Request (PBR). The total FY 2016 DoD budget request is $585 billion ($534 million base budget, $51 million OCO), a requested increase of 4% compared to the appropriated FY 2015 DoD budget. However, Congress has not approved the FY 2016 budget. The FY 2016 PBR, for the base budget, exceeds the BCA sequestration cut spending caps by $34 billion in FY 2016, $35 billion in FY 2017, $31 billion in FY 2018 and $27 billion in FY 2019. The table below excludes the base budget amounts that exceed the BCA spending caps for FY 2016 to FY 2019.  
+
+  [DATA_TABLE_REMOVED] 
+
+While we believe that L-3 is well positioned to benefit from several of the DoDs focus areas, the decline in the DoD budgets in 2015 and the potential decline in the FY 2016 budget, depending on if Congress provides relief from sequestration cuts, will generally pressure and possibly reduce funding for some of our contracts, which could reduce our sales and operating income and negatively impact our results of operations and cash flows. Uncertainty continues to exist, even with the passage of the BBA, regarding how sequestration cuts will be implemented in DoD budgets for FY 2016 and beyond and what challenges this may present for the defense industry, including L-3, our customers and suppliers. Furthermore, while members of Congress and the Administration continue to discuss various options to address sequestration and the U.S. Governments overall fiscal challenges, we cannot predict the outcome of these efforts. We do not believe the FY 2015 sequester cuts  
+
+33  
+
+Table of Contents 
+
+ to the DoD budget will have a significant negative impact on our results of operations or cash flows for the year ending December 31, 2015. However, depending on how future sequestration cuts are implemented, we believe that sequestration could have a material, negative impact on our results of operations and cash flows in the future. In addition, declining DoD budgets due to sequestration or other reductions could also potentially trigger non-cash goodwill impairment charges depending on how these reductions impact each of our reporting units. See Critical Accounting Policies  Goodwill and Identifiable Intangible Assets within this section.  
+
+International and Commercial Markets. Sales to end customers other than the U.S. Government represented 29% of our 2014 sales and we expect those sales to represent 32% of our consolidated 2015 sales, including 4% for L-3 MSI, which we expect to divest in the second quarter of 2015. These sales are generally affected by international government security and military priorities, as well as the fiscal situations of our international government end customers, global economic conditions for our commercial end markets and our competitive success in winning new business and increasing market share.  
+
+Key Performance Measures  
+
+The primary financial performance measures that we use to manage our businesses and monitor results of operations are sales and operating income trends. Management believes that these financial performance measures are the primary growth drivers for our earnings and cash flow per common share. Generally, in evaluating our businesses and contract performance, we focus on net sales, operating income and operating margin, and not by type or amount of operating costs.  
+
+One of our primary business objectives is to increase sales from organic growth and select business acquisitions. We define organic sales growth as the increase or decrease in sales for the current period compared to the prior period, excluding sales in the: (1) current period from business acquisitions that are included in our actual results of operations for less than twelve months, and (2) prior period from business and product line divestitures that are included in our actual results of operations for the twelve-month period prior to the divestiture date. We expect to supplement, strengthen and enhance our existing businesses by selectively acquiring businesses that: (1) add important new technologies and products, (2) provide access to select customers, programs and contracts and (3) provide attractive returns on investment. Another important financial performance measure that we use is operating margin, which we define as operating income as a percentage of sales, because sales growth combined with operating margin levels determine our operating income levels.  
+
+Sales Trends. For the year ended December 31, 2014, consolidated net sales of $12,124 million declined by 4%, comprised of an organic sales decline of 5%, partially offset by net sales from business acquisitions of 1%, compared to the year ended December 31, 2013. Our average annual sales declined for the five years ended December 31, 2014 by 2% as average annual organic sales declined by approximately 3% and average annual sales growth from business acquisitions, net of divestitures, was approximately 1%. See Results of Operations, including segment results below for further discussion of sales.  
+
+For the years ended December 31, 2014, 2013, and 2012, our largest contract (revenue arrangement) in terms of annual sales was the Fort Rucker Maintenance Support contract with the U.S. Army Aviation and Missile Life Cycle Management Command (AMCOM), which is included in our Aerospace Systems segment. Under this contract, which generated approximately 4% of our 2014, 2013 and 2012 sales, we provide maintenance, logistics and other related sustainment support services for rotary wing aircraft assigned to Fort Rucker and satellite units in Alabama. Our period of performance, including unexercised annual options, continues through September 30, 2017.  
+
+We derived approximately 66% of our 2014 sales from DoD customers and, as a result, our sales are highly correlated to DoD budget levels. DoD budgets are a function of several factors and uncertainties beyond our control, including, but not limited to, changes in U.S. procurement policies, budget considerations, current and future economic conditions, presidential administration priorities, U.S. military engagements, changing national security and defense requirements, geo-political developments, actual fiscal year congressional appropriations for defense budgets, and sequestration and other DoD budget reductions. Any of these factors could result in a significant increase, decrease or redirection of DoD budgets and impact L-3s future results of operations,  
+
+34  
+
+Table of Contents 
+
+ including our sales and operating income growth rates. Additionally, L-3s future results of operations will be affected by our ability to retain our existing business, including our revenue arrangements with DoD customers, and to successfully re-compete for existing business and compete for new business, which largely depends on: (1) our successful performance on existing contracts, (2) the effectiveness and innovation of our technologies and research and development activities, (3) our ability to offer better program performance than our competitors at an affordable cost, and (4) our ability to retain our employees and hire new ones, particularly those employees who have U.S. Government security clearances. We expect our 2015 consolidated sales to decline by approximately 2% compared to 2014, primarily due to the declines in DoD budgets.  
+
+Segment Operating Income Trends. For the year ended December 31, 2014, our segment operating income was $1,085 million, a decrease of 10% from $1,212 million for the year ended December 31, 2013. Our segment operating income as a percentage of sales (segment operating margin) was 8.9% for the year ended December 31, 2014, a decrease of 70 basis points from 9.6% for the year ended December 31, 2013. See Results of Operations, including segment results below for a discussion of operating margin.  
+
+Our effective management of labor, material, subcontractor and other direct costs is an important element of cost control and favorable contract performance. We believe that proactively re-sizing our businesses to their anticipated sales, combined with continuous cost improvement will enable us to increase our cost competitiveness. While we continue to undertake cost management actions, such as reducing our indirect costs, resizing select business units, and improving our productivity and contract performance in an effort to maintain or even increase operating margin, these efforts may not be successful and may be partially or fully offset by other cost increases. Although we expect our 2015 annual consolidated operating margin to increase as compared to 2014, changes in the competitive environment and DoD procurement practices, reductions to the DoD budget, lower consolidated sales and changes in annual pension expense, including related assumptions such as the benefit obligation discount rates could result in lower operating margin. Furthermore, select business acquisitions and new business, including contract renewals and new contracts, could have lower future operating margins compared to L-3s operating margins on existing contracts.  
+
+Other Events  
+
+Held for Sale. On December 16, 2014, we entered into a definitive agreement with Wärtsilä Corporation to sell our Marine Systems International (L-3 MSI) business for a base purchase price of 285 million, subject to customary adjustments and an estimated reduction of 60 million for L-3 MSI employee pension-related liabilities to be assumed by Wärtsilä Corporation. L-3 MSI is a sector within our Electronic Systems segment, primarily selling to the commercial shipbuilding industry. L-3 MSI is a turnkey supplier of complete electrical systems, as well as integrated navigation, automation, communications and power and propulsion systems for all types of ships, including cruise liners, ferries and offshore and specialty vessels. The transaction is anticipated to be completed in the second quarter of 2015, subject to customary closing conditions and regulatory approvals.  
+
+The pending divestiture of L-3 MSI is accounted for in accordance with Accounting Standards Update (ASU) 2014-08, Reporting Discontinued Operations and Disclosures of Disposals of Components of an Entity. Accordingly, we classified L-3 MSIs assets and liabilities as held for sale in our audited consolidated balance sheet at December 31, 2014. Also, in accordance with ASU 2014-08, L-3 MSIs results of operations are included in income from continuing operations for all periods presented and are not classified within discontinued operations. See Note 4 to our audited consolidated financial statements for the major assets and liabilities included in held for sale relating to L-3 MSI at December 31, 2014.  
+
+We estimated a pre-tax gain of approximately $20 million as of December 31, 2014 in connection with the sale of L-3 MSI based on the U.S. dollar equivalent of the estimated sales proceeds of $350 million and the amounts that would be de-recognized from L-3s consolidated balance sheet. The actual gain or loss to be recognized upon the sale of L-3 MSI is subject to change primarily based on fluctuations in Euro to U.S. dollar currency exchange rates. For every 1% change in the Euro to U.S. dollar currency exchange rate compared to the same currency exchange rate at December 31, 2014, which was 1.215 U.S. dollars to 1 Euro, the U.S. dollar equivalent proceeds and pre-tax gain on sale would change by approximately $4 million. Based on the currency exchange rate of 1.14 U.S. dollars to 1 Euro at February 20, 2015, we would expect to realize a pre-tax loss of approximately $3 million on the sale of L-3 MSI.  
+
+35  
+
+Table of Contents 
+
+The accounting standards for long-lived assets to be disposed of by sale require that we measure assets and liabilities of a disposal group, classified as held for sale, at the lower of its carrying amount or fair value less costs to sell, at the end of each reporting period. At December 31, 2014, the fair value of the L-3 MSI disposal group exceeded its carrying value and no adjustment to carrying value was required. At the end of each future reporting period, we will adjust the carrying value of the L-3 MSI disposal group to the lower of its carrying amount or fair value less cost to sell, with any losses recognized through cost of sales. We may recognize a gain in subsequent periods not to exceed the cumulative losses previously recognized if the fair value of the L-3 MSI disposal group subsequently recovers. We will recognize any unrealized gains of the L-3 MSI disposal group upon completion of the L-3 MSI divestiture.  
+
+Debt Repurchases, Issuances and Redemptions. On May 28, 2014, L-3 Communications issued $350 million in principal amount of 1.50% Senior Notes that mature on May 28, 2017 (2017 Senior Notes) and $650 million in principal amount of 3.95% Senior Notes that mature on May 28, 2024 (2024 Senior Notes). The 2017 Senior Notes and 2024 Senior Notes (together referred to as the Senior Notes) were issued at a bond discount of $1 million and $3 million, respectively. The net cash proceeds of $988 million from this Senior Notes offering were used primarily to fund the retirement of our 3% Convertible Contingent Debt Securities (CODES) as discussed below. The remaining net proceeds were used for general corporate purposes.  
+
+On May 13, 2014, L-3 Holdings called for the full redemption of all of its outstanding CODES effective on June 2, 2014. The conversion value of CODES of $935 million was calculated in accordance with the indenture governing the CODES. L-3 Holdings settled the entire conversion value with respect to converted CODES in cash. As of June 20, 2014, the CODES have been retired. As a result of the conversion, we recorded a reduction to shareholders equity of $161 million, related to the excess conversion value over the fair value of the debt component of the CODES, net of deferred tax liability.  
+
+On July 26, 2012, (the redemption date), L-3 Communications used a portion of the proceeds received in connection with the spin-off of Engility to redeem $250 million of L-3 Communications 6 3/8% Senior Subordinated Notes due 2015 (6 3/8% 2015 Notes) at a redemption price of 102.125%, plus accrued and unpaid interest, up to but not including the redemption date. In connection with the redemption of the 6 3/8% 2015 Notes, we recorded a debt retirement charge of $8 million ($5 million after income tax, or $0.05 per diluted share).  
+
+On October 15, 2012 (the redemption date), L-3 Communications redeemed the remaining outstanding $250 million of its 6 3/8% 2015 Notes at a redemption price of 101.063%, plus accrued and unpaid interest, up to but not including the redemption date. In connection with the redemption, we recorded a debt retirement charge of approximately $5 million ($3 million after income tax, or $0.03 per diluted share).  
+
+Spin-off of Engility. On July 17, 2012, L-3 completed the spin-off of its subsidiary, Engility, to L-3s shareholders (the spin-off). The spin-off was a tax-free distribution to L-3 shareholders for U.S. federal tax purposes, except for cash received by shareholders in lieu of fractional shares. L-3 shareholders of record on July 16, 2012 (the record date) received one share of Engility common stock for every six shares of L-3 common stock held on the record date. Engility began trading as an independent publicly traded company on the New York Stock Exchange on July 18, 2012.  
+
+In connection with the spin-off, Engility made a cash distribution of $335 million to L-3. We used a portion of the proceeds to redeem $250 million of our 6 3/8% 2015 Notes on July 26, 2012 and the remaining proceeds were used primarily to repurchase outstanding shares of our common stock. There was no gain or loss recognized by us as a result of the spin-off transaction.  
+
+Prior to the completion of the spin-off, L-3 and Engility entered into a Distribution Agreement dated July 16, 2012 and several other agreements that govern certain aspects of our relationship with Engility following the spin-off. These agreements generally provide that each party is responsible for its respective assets, liabilities and obligations, including employee benefits, insurance and tax-related assets and liabilities, following the spin-off, whether accrued or contingent.  
+
+As a result of the spin-off, the results of operations and cash flows of the Engility businesses have been classified as discontinued operations for all periods presented. We incurred transaction expenses in connection with the spin-off of $19 million ($14 million after income taxes) for the year ended December 31, 2012 which have been included  
+
+36  
+
+Table of Contents 
+
+ in discontinued operations. In addition, we allocated interest expense for debt not directly attributable or related to L-3s other operations of $14 million to discontinued operations for the year ended December 31, 2012. Interest expense was allocated in accordance with the accounting standards for discontinued operations and was based on the ratio of Engilitys net assets to the sum of: (1) total L-3 consolidated net assets and (2) L-3 consolidated total debt.  
+
+Engilitys statement of operations data, which has been classified as discontinued operations, is provided in the table below. See Note 4 to the audited consolidated financial statements for additional information.  
+
+  [DATA_TABLE_REMOVED] 
+
+Business Acquisitions and Divestitures  
+
+As discussed above, one aspect of our strategy is to selectively acquire businesses that add new products and technologies, or provide access to select customers, programs and contracts. We intend to continue acquiring select businesses for reasonable valuations that will provide attractive returns to L-3. Our business acquisitions, depending on their contract-type, sales mix or other factors, could reduce L-3s consolidated operating margin while still increasing L-3s operating income, earnings per share, and net cash from operating activities. In addition, we may also dispose of certain businesses if we determine that they no longer fit into L-3s overall business strategy and we are able to receive an attractive price.  
+
+Acquisitions. The table below summarizes the acquisitions that we have completed during the years ended December 31, 2012, 2013, and 2014 referred to herein as business acquisitions. See Note 4 to our audited consolidated financial statements for further information regarding our business acquisitions. During the year ended December 31, 2014, we used net cash of $57 million for business acquisitions.  
+
+  [DATA_TABLE_REMOVED] 
+
+   (1)   The purchase price represents the contractual consideration for the acquired business, excluding adjustments for net cash acquired and acquisition transaction costs.  
+
+   (2)   Excludes additional purchase price of $6 million for a final net working capital adjustment. See Note 4 to our audited consolidated financial statements for additional information on the final net working capital adjustment.  
+
+37  
+
+Table of Contents 
+
+All of our business acquisitions are included in our consolidated results of operations from their dates of acquisition. We regularly evaluate potential business acquisitions. On January 21, 2015, we acquired the assets of Miteq, Inc. (Miteq) for a purchase price of $41 million, which was financed with cash on hand. Miteq was combined with our Narda Microwave-East business and the new organization was re-named L-3 Narda-Miteq. Miteq offers a broad product line of active and passive radio frequency (RF) microwave components and low-power satellite communications (SATCOM) products for space and military applications that complement the existing Narda Microwave East product line. The combined L-3 Narda-Miteq business will provide products for the DoD, other U.S. Government agencies, prime contractors and commercial customers.  
+
+Held for Sale. We regularly evaluate potential business divestitures. On December 16, 2014, we entered into a definitive agreement with Wärtsilä Corporation to sell our Marine Systems International business. See Other EventsHeld for Sale above for further discussion of the pending sale and impact on our audited consolidated financial statements.  
+
+Spin-off of Engility. On July 17, 2012, we completed the spin-off of our subsidiary, Engility Holdings, Inc. See Spin-off of Engility within this section for further discussion of the spin-off, distribution of proceeds and impact on our financial results.  
+
+Critical Accounting Policies  
+
+Our significant accounting policies are described in Note 2 to our audited consolidated financial statements. The preparation of financial statements in conformity with accounting principles generally accepted in the United States of America (U.S. GAAP) requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of sales and cost of sales during the reporting period. The most significant of these estimates and assumptions relate to contract revenue, profit and loss recognition, fair values of assets acquired and liabilities assumed in business combinations, market values for inventories reported at lower of cost or market, pension and post-retirement benefit obligations, stock-based employee compensation expense, income taxes, including the valuations of deferred tax assets, litigation reserves and environmental obligations, accrued product warranty costs and the recoverability, useful lives and valuation of recorded amounts of long-lived assets, identifiable intangible assets and goodwill. Changes in estimates are reflected in the period during which they become known. Actual amounts will differ from these estimates and could differ materially. We believe that our critical accounting estimates have the following attributes: (1) we are required to make assumptions about matters that are uncertain and require judgment at the time of the estimate, (2) use of reasonably different assumptions could have changed our estimates, particularly with respect to estimates of contract revenues and costs, and recoverability of assets, and (3) changes in the estimate could have a material effect on our financial condition or results of operations. We believe the following critical accounting policies contain the more significant judgments and estimates used in the preparation of our financial statements.  
+
+Contract Revenue Recognition and Contract Estimates. Approximately 46% of our consolidated net sales are generated from contracts (revenue arrangements) that require us to design, develop, manufacture, modify, upgrade, test and integrate complex aerospace and electronic equipment, and to provide related engineering and technical services according to the buyers specifications. These revenue arrangements or contracts are generally fixed-price, cost-plus, or time-and-material type and are covered by accounting standards for construction-type and production-type contracts and federal government contractors. Substantially all of our cost-plus type and time-and-material type contracts are with the U.S. Government, primarily the DoD. Certain of our contracts with the U.S. Government are multi-year contracts that are funded annually by the customer, and sales on these multi-year contracts are based on amounts appropriated (funded) by the U.S. Government. Our remaining sales are accounted for in accordance with accounting standards for revenue arrangements with commercial customers.  
+
+Sales and profits on fixed-price type contracts that are covered by accounting standards for construction-type and production-type contracts and federal government contractors are substantially recognized using percentage-of-completion (POC) methods of accounting. Sales on such contracts represent approximately 40% of our consolidated net sales. Sales and profits on fixed-price production contracts under which units are produced and delivered in a continuous or sequential process are recorded as units are delivered based on their contractual  
+
+38  
+
+Table of Contents 
+
+ selling prices (the units-of-delivery method). Sales and profits on each fixed-price production contract under which units are not produced and delivered in a continuous or sequential process, or under which a relatively few number of units are produced, are recorded based on the ratio of actual cumulative costs incurred to total estimated costs at completion of the contract multiplied by the total estimated contract revenue, less cumulative sales recognized in prior periods (the cost-to-cost method). Under both POC methods of accounting, a single estimated total profit margin is used to recognize profit for each contract over its entire period of performance, which can exceed one year.  
+
+Accounting for the sales on these fixed-price contracts requires the preparation of estimates of: (1) total contract revenue, (2) total costs at completion, which is equal to the sum of the actual incurred costs to date on the contract and the estimated costs to complete the contracts statement of work, and (3) measurement of progress towards completion. The estimated profit or loss at completion on a contract is equal to the difference between the total estimated contract revenue and the total estimated cost at completion. Under the units-of-delivery method, sales on a fixed-price type contract are recorded as the units are delivered during the period based on their contractual selling prices. Under the cost-to-cost method, sales on a fixed-price type contract are recorded at amounts equal to the ratio of actual cumulative costs incurred divided by total estimated costs at completion, multiplied by (i) the total estimated contract revenue, less (ii) the cumulative sales recognized in prior periods. The profit recorded on a contract in any period using either the units-of-delivery method or cost-to-cost method is equal to (i) the current estimated total profit margin multiplied by the cumulative sales recognized, less (ii) the amount of cumulative profit previously recorded for the contract. In the case of a contract for which the total estimated costs exceed the total estimated revenues, a loss arises, and a provision for the entire loss is recorded in the period that the loss becomes evident. The unrecoverable costs on a loss contract that are expected to be incurred in future periods are recorded as a component of other current liabilities entitled Estimated cost in excess of estimated contract value to complete contracts in process in a loss position.  
+
+Adjustments to estimates for a contracts revenue, estimated costs at completion and estimated profit or loss are often required as work progresses under a contract, as experience is gained and more information is obtained, even though the scope of work required under the contract may not change, or if contract modifications occur. The impact of revisions in profit (loss) estimates for all types of contracts subject to percentage-of-completion accounting are recognized on a cumulative catch-up basis in the period in which the revisions are made. Amounts representing contract change orders or claims are included in sales only when they can be reliably estimated and their realization is reasonably assured. The revisions in contract estimates, if significant, can materially affect our results of operations and cash flows, as well as reduce the valuations of receivables and inventories, and, in some cases, result in liabilities to complete contracts in a loss position. Aggregate net changes in contract estimates increased operating income by $66 million, or 6%, for the year ended December 31, 2014, $114 million, or 9%, for the year ended December 31, 2013, and $72 million, or 6%, for the year ended December 31, 2012.  
+
+Sales and profits on cost-plus type contracts that are covered by accounting standards for government contractors are recognized as allowable costs are incurred on the contract, at an amount equal to the allowable costs plus the estimated profit on those costs. Sales on such contracts represent approximately 6% of our consolidated net sales. The estimated profit on a cost-plus contract is fixed or variable based on the contractual fee arrangement. Incentive and award fees are our primary variable fee contractual arrangement. Incentive and award fees on cost-plus type contracts are included as an element of total estimated contract revenues and recorded to sales when a basis exists for the reasonable prediction of performance in relation to established contractual targets and we are able to make reasonably dependable estimates for them. Sales and profits on time-and-material type contracts are recognized on the basis of direct labor hours expended multiplied by the contractual fixed rate per hour, plus the actual costs of material and other direct non-labor costs. On a time-and-material type contract, the fixed hourly rates include amounts for the cost of direct labor, indirect contract costs and profit. Cost-plus type or time-and-material type contracts generally contain less estimation risks than fixed-price type contracts.  
+
+Sales on arrangements for (1) fixed-price type contracts that require us to perform services that are not related to production of tangible assets (Fixed-Price Service Contracts), and (2) certain commercial customers are  
+
+39  
+
+Table of Contents 
+
+ recognized in accordance with accounting standards for revenue arrangements with commercial customers. Sales for our businesses whose customers are primarily commercial business enterprises are substantially generated from single element revenue arrangements. Sales are recognized when there is persuasive evidence of an arrangement, delivery has occurred or services have been performed, the selling price to the buyer is fixed or determinable and collectability is reasonably assured. Sales for Fixed-Price Service Contracts that do not contain measurable units of work performed are generally recognized on a straight-line basis over the contractual service period, unless evidence suggests that the revenue is earned, or obligations fulfilled, in a different manner. Sales for Fixed-Price Service Contracts that contain measurable units of work performed are generally recognized when the units of work are completed. Sales and profit on cost-plus and time-and-material type contracts within the scope of revenue recognition accounting standards for revenue arrangements with commercial customers are recognized in the same manner as those within the scope of contract accounting standards, except for incentive and award fees. Cost-based incentive fees are recognized when they are realizable in the amount that would be due under the contractual termination provisions as if the contract was terminated. Performance based incentive fees and award fees are recorded as sales when awarded by the customer.  
+
+For contracts with multiple deliverables, we apply the separation and allocation guidance under the accounting standard for revenue arrangements with multiple deliverables, unless all the deliverables are covered by contract accounting standards, in which case we apply the separation and allocation guidance under contract accounting standards. Revenue arrangements with multiple deliverables are evaluated to determine if the deliverables should be separated into more than one unit of accounting. We recognize revenue for each unit of accounting based on the revenue recognition policies discussed above.  
+
+Sales and cost of sales in connection with contracts to provide services to the U.S. Government that contain collection risk because the contracts are incrementally funded and subject to the availability of funds appropriated, are deferred until the contract modification is obtained, indicating that adequate funds are available to the contract or task order.  
+
+Goodwill and Identifiable Intangible Assets. In accordance with the accounting standards for business combinations, we record the assets acquired and liabilities assumed based on their estimated fair values at the date of acquisition (commonly referred to as the purchase price allocation). Identifiable intangible assets are recognized as assets apart from goodwill if they arise from contractual or other legal rights, or if they are capable of being separated or divided from the acquired business and sold, transferred, licensed, rented or exchanged. However, we do not recognize separate intangible assets for the assembled workforces of our business acquisitions.  
+
+Generally, the largest separately identifiable intangible asset from the businesses that we acquire is the value of their assembled workforces, which includes the human capital of the management, administrative, marketing and business development, scientific, engineering and technical employees of the acquired businesses. The success of our businesses, including their ability to retain existing business (revenue arrangements) and to successfully compete for and win new business (revenue arrangements), is primarily dependent on the management, marketing and business development, contracting, engineering and technical skills and knowledge of our employees, rather than on productive capital (plant and equipment, and technology and intellectual property). Additionally, for a significant portion of our businesses, our ability to attract and retain employees who have U.S. Government security clearances, particularly those with top-secret and above clearances, is critical to our success, and is often a prerequisite for retaining existing revenue arrangements and pursuing new ones. Generally, patents, trademarks and licenses are not material for our acquired businesses. Furthermore, our U.S. Government contracts (revenue arrangements) generally permit other companies to use our patents in most domestic work performed by such other companies for the U.S. Government. Therefore, because intangible assets for assembled workforces are part of goodwill, the substantial majority of the intangible assets for our acquired business acquisitions are recognized as goodwill. Additionally, the value assigned to goodwill for our business acquisitions also includes the value that we expect to realize from cost reduction measures that we implement for our acquired businesses. Goodwill equals the amount of the purchase price of the business  
+
+40  
+
+Table of Contents 
+
+ acquired in excess of the sum of the fair value of identifiable acquired assets, both tangible and intangible, less the fair value of liabilities assumed. At December 31, 2014, we had goodwill of $7,501 million and identifiable intangible assets of $243 million.  
+
+The most significant identifiable intangible asset that is separately recognized in accordance with U.S. GAAP for our business acquisitions is customer contractual relationships. All of our customer relationships are established through written customer contracts (revenue arrangements). The fair value for customer contractual relationships is determined, as of the date of acquisition, based on estimates and judgments regarding expectations for the estimated future after-tax earnings and cash flows (including cash flows from working capital) arising from the follow-on sales on contract (revenue arrangement) renewals expected from customer contractual relationships over their estimated lives, including the probability of expected future contract renewals and sales, less a contributory asset charge, all of which is discounted to present value. All identifiable intangible assets are amortized over their estimated useful lives as the economic benefits are consumed. We review customer contractual relationships for impairment whenever events or changes in circumstances indicate that the carrying amount may not be recoverable in accordance with the accounting standards for long-lived assets. If any such event or change in circumstances occurs, and, if our revised estimates of future after-tax cash flows are significantly lower than our estimates at the date we acquired the customer contractual relationships, we may be required to record an impairment charge to write-down these intangible assets to their realizable values. We also review and update our estimates of the duration of our customer contractual relationships, at least annually. If such estimates indicate that the duration of our customer contractual relationships has decreased compared to the estimates made as of the date we acquired these intangible assets, then we accelerate the amortization period for our customer contractual relationships over their remaining useful lives.  
+
+We review goodwill for impairment annually as of November 30 and whenever events or changes in circumstances indicate that the carrying amount may not be recoverable. The accounting standards for goodwill allow for the assessment of qualitative factors, such as macroeconomic conditions, industry and market conditions and entity relevant events or circumstances to determine whether it is more likely or not that the fair value of a reporting unit is less than its carrying amount. L-3 did not utilize a qualitative assessment approach for the November 30, 2014 goodwill impairment test, as we chose instead to complete the quantitative two-step testing process for each reporting unit.  
+
+A reporting unit is an operating segment, as defined by the segment reporting accounting standards, or a component of an operating segment. A component of an operating segment is a reporting unit if the component constitutes a business for which discrete financial information is available and is reviewed by operating segment management. Two or more components of an operating segment may be aggregated and deemed a single reporting unit for goodwill impairment testing purposes if the components have similar economic characteristics.  
+
+L-3 had 12 reporting units at December 31, 2014 (and at November 30, 2014 when our annual goodwill impairment assessment was completed) compared to 13 reporting units at December 31, 2013. The reduction in the number of our reporting units was due to a realignment of L-3s business segments during the quarter ended March 28, 2014, and due to other changes in L-3s management and reporting structure during 2014. Six reporting units were consolidated into three reporting units, and two reporting units were separated into four. The reporting units that were consolidated consisted of the (1) Communication Systems and Microwave Products reporting units, (2) Precision Engagement and Training & Simulation reporting units, and (3) Marine & Power Systems and Space & Propulsion reporting units. The Marine Systems International reporting unit was separated from the Marine & Power Systems reporting unit, and the Tactical Satellite Communications reporting unit was separated from the Communication Systems reporting unit. The reporting units that were consolidated had fair values in excess of their carrying values at the time of the realignments and the related goodwill for each was reallocated and reassigned in the current reporting unit.  
+
+L-3s aggregate balance of goodwill decreased by $295 million to $7,501 million at December 31, 2014 from $7,796 million at December 31, 2013 due to a $231 million reclassification of goodwill to assets held for sale, $99 million for foreign currency translation adjustments and $1 million related to a business disposition,  
+
+41  
+
+Table of Contents 
+
+ partially offset by an increase of $36 million for business acquisitions. The table below presents the number of reporting units and the associated goodwill at December 31, 2014 for each of our reportable segments.  
+
+  [DATA_TABLE_REMOVED] 
+
+The first step in the process of testing goodwill for potential impairment is to compare the carrying value of the reporting unit to its fair value. If a potential impairment is identified, the second step is to measure the impairment loss by comparing the implied fair value of goodwill with the carrying value of goodwill of the reporting unit. Our methodology for determining the fair value of a reporting unit is estimated using a discounted cash flow (DCF) valuation approach, and is dependent on estimates for future sales, operating income, depreciation and amortization, income tax payments, working capital changes, and capital expenditures, as well as expected long-term growth rates for cash flows. All of these factors are affected by economic conditions related to the industries in which we operate (predominantly the U.S. defense industry), as well as, conditions in the U.S. capital markets.  
+
+The more significant assumptions used in our DCF valuations to determine the fair values of our reporting units in connection with the goodwill valuation assessment at November 30, 2014 were: (1) detailed three-year cash flow projections for each of our reporting units, (2) the expected long-term cash flow growth rates for each of our reporting units (commonly known as Terminal Growth Rates), which approximate the expected long-term nominal growth rate for the U.S. DoD budget, U.S. economy and the respective industries in which the reporting units operate, expected inflation rates, and specific circumstances for each reporting unit, including contracts or programs ending and expected new business, and (3) risk adjusted discount rates, which represent the weighted average cost of capital (WACC) for each reporting unit and include the estimated risk-free rate of return that is used to discount future cash flow projections to their present values. There were no changes to the underlying methods used in 2014 as compared to the prior year DCF valuations of our reporting units.  
+
+Each reporting unit WACC was comprised of: (1) an estimated required rate of return on equity, based on publicly traded companies with business and economic risk characteristics comparable to each of L-3s reporting units (Market Participants), including a risk free rate of return of 2.62% on the 20 year U.S. Treasury Bond as of December 1, 2014 (3.82% as of November 30, 2013) and an equity risk premium of 6% (5% as of November 30, 2013), and (2) an after-tax rate of return on Market Participants debt, which was derived from a selected Corporate bond index having a Baa debt rating, consistent with the credit rating of the Market Participants. Each of the estimated required rate of return on equity and the after-tax rate of return on Market Participants debt is weighted by the relative market value percentages of the Market Participants equity and debt. The WACC assumptions for each reporting unit are based on a number of market inputs that are outside of our control and are updated annually to reflect changes to such market inputs as of the date of our annual goodwill impairment assessments, including changes to: (1) the estimated required rate of return on equity based on historical returns on common stock securities of Market Participants and the Standard & Poors 500 Index over the prior five-year period, (2) the risk free rate of return based on the prevailing market yield on the 20 year U.S. Treasury Bond, (3) the rate of return on Corporate bonds having a debt rating consistent with the credit rating of the Market Participants, and (4) the relative market value percentages of Market Participants equity and debt.  
+
+42  
+
+Table of Contents 
+
+The table below presents the weighted average risk adjusted discount rate assumptions in WACC, used in our DCF valuation for each of our reportable segments for our goodwill impairment assessments at November 30, 2014 and 2013.  
+
+  [DATA_TABLE_REMOVED] 
+
+   (1)   The weighted average risk adjusted discount rate in WACC for the Electronic Systems reportable segment is comprised of separate discount rates for each reporting unit within the segment that range from 6.71% to 8.37% for 2014 and 7.42% to 8.03% for 2013.  
+
+   (2)   The weighted average risk adjusted discount rate in WACC for the Aerospace Systems reportable segment is comprised of separate discount rates for each reporting unit within the segment that range from 6.71% to 7.35% for 2014. Both reporting units within the Aerospace Systems reportable segment used the risk adjusted discount rate in WACC as presented in the table above for 2013.  
+
+   (3)   The weighted average risk adjusted discount rate in WACC for the Communication Systems reportable segment is comprised of separate discount rates for each reporting unit within the segment that range from 6.71% to 6.93% for 2014.  
+
+As presented in the table below, L-3s historical three-year average annual cash flow growth rates for 2014, 2013 and 2012 for our reportable segments ranged from a negative 29% to a positive 29%. The annual cash flows generated by each of our reporting units varies from year to year, and, therefore, the annual cash flow growth rates do not result in linear trends, due to a number of factors, including, but not limited to: (1) variability of annual sales volume and sales growth rates, (2) increases and decreases in working capital, including customer advance payments and billings on multi-year contracts (revenue arrangements) with long-term performance periods (exceeding one year), (3) the timing of invoicing and cash collections between fiscal years from receivables due from customers on multi-year contracts (revenue arrangements), (4) the timing of increases and decreases of select inventories procured and produced in anticipation of future product sales, which frequently overlap the ending and beginning of fiscal years, (5) the timing of the receipt of award fee and incentive fee payments from customers on contracts (revenue arrangements), (6) variability in annual cash outlays for research and development costs, (7) changes in cash outlays for capital expenditures for property, plant and equipment, and (8) increases in annual sales and costs and expense volumes of a reporting unit resulting from business acquisitions. As a result of the factors discussed above and the varying sizes of our reporting units, the annual cash flow levels and growth rates at the reporting unit level tend to fluctuate significantly from year to year.  
+
+The 2014 cash flow amount and the cash flow growth rate for each of the last three years for each of our segments are presented in the following table.  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1)   Reportable segment estimated cash flow excludes interest payments on debt and other corporate cash flows.  
+
+ (2)   The increase in 2014 cash flows for Electronic Systems was primarily due to a decrease in tax payments as a result of a lower effective income tax rate, as well as lower working capital requirements at Warrior Systems and Security & Detection Systems, partially offset by an increase in working capital for Marine Systems International primarily for contracts in process that are billed based on performance milestones. The decrease in 2013 cash flows was primarily due to lower operating income compared to 2012 and liquidations of advance payments for Sensor Systems. The increase in 2012 cash flows was primarily due to increases in working capital at Sensor Systems and Warrior Systems in 2011 that did not recur in 2012, partially offset by lower operating income compared to 2011 for Power & Propulsion Systems and Marine Systems International.  
+
+43  
+
+Table of Contents 
+
+ (3)   The decrease in 2014 cash flows for Aerospace Systems was due to lower operating income compared to 2013 at Logistics Solutions and Platforms Systems, partially offset by a decrease in tax payments as a result of a lower effective tax rate. The increase in 2013 cash flows was due to small ISR aircraft sales to the DoD. The increase in 2012 cash flows was due to higher operating income and an increase in advance payments, partially offset by an increase in tax payments.  
+
+ (4)   The increase in 2014 cash flows for Communication Systems was due to lower working capital requirements and capital expenditures, as well as higher operating income and a decrease in tax payments as a result of a lower effective income tax rate. The decrease in 2013 cash flows was due to lower operating income, partially offset by lower capital expenditures. The increase in 2012 cash flows was primarily due to the timing of billings and cash receipts and an increase in advance payments.  
+
+ (5)   The decrease in 2014 cash flows for NSS was primarily due to lower sales and operating income, as well as a use of cash for trade accounts payable. The decrease in 2013 cash flows was primarily due to 2012 cash inflows that did not recur, including collections of billed receivables and customer advance payments. The increase in 2012 cash flows was primarily due to lower working capital requirements.  
+
+We consistently consider several factors to determine expected future annual cash flows for our reporting units, including, historical multi-year average cash flow trends by reporting unit and the expected future cash flow growth rates for each of our reporting units primarily based on our estimates of future sales, operating income, and working capital changes. Furthermore, the substantial majority of our reporting units are primarily dependent upon the DoD budget and spending. Sales from DoD customers generate a significant portion of our annual sales and have historically represented approximately 65% or more of our total sales. Accordingly, to determine expected future annual cash flows for our reporting units we also consider: (1) the DoD budget and spending priorities, (2) expansion into new markets, (3) changing conditions in existing markets for our products, system, and services, (4) possible termination of certain government contracts, (5) expected success in new business competitions and re-competitions on existing business, and (6) anticipated operating margins and working capital requirements, which vary significantly depending on the stage of completion (early, mature, ending) of contracts (revenue arrangements). We closely monitor changes in these factors and their impact on the expected cash flow of our reporting units. In addition to these factors that were relevant and specific to each of our reporting units, our goodwill impairment assessments as of November 30, 2014 assumed a flat DoD base budget in FY 2015, 1% growth in the base budget in FY 2016 and 2% nominal growth in the base budget beginning with FY 2017, consistent with our discussion of the business environment.  
+
+Additionally, our actual cash flows may be higher than our projections and the DCF valuation does not reflect actions that we may take to increase the profitability and cash flows of our reporting units, including our four reporting units with fair value cushions of less than 20% in the second table below. Actions we may take include consolidating and streamlining select business operations, creating future synergies with other L-3 businesses, or pursuing incremental targeted growth opportunities. Additionally, the DCF valuations do not assume future business acquisitions or divestitures.  
+
+The table below presents the estimated: (1) 2015 cash flow amount, (2) average annual cash flow growth rates for 2015  2017, and (3) weighted average annual cash flow growth rates after 2017 for each of our reportable segments.  
+
+  [DATA_TABLE_REMOVED] 
+
+   (1)   Reportable segment estimated cash flow excludes interest payments on a debt and other corporate cash flows.  
+
+   (2)   Electronic Systems projected cash flow is expected to decrease by $132 million from $436 million in 2014 to $304 million in 2015. The decrease is primarily due to an increase in forecasted tax payments as a result of a higher effective tax rate, lower sales and operating income and higher working capital requirements at Power & Propulsion Systems, and higher working capital requirements at Precision Engagement & Training.  
+
+44  
+
+Table of Contents 
+
+   (3)   Aerospace Systems projected cash flow is expected to decrease by $27 million from $287 million in 2014 to $260 million in 2015. The decrease is primarily due to an increase in forecasted tax payments as a result of a higher effective tax rate and higher capital expenditures, partially offset by higher expected operating income in 2015.  
+
+   (4)   Communications Systems projected cash flow is expected to decrease by $142 million from $315 million in 2014 to $173 million in 2015. The decrease is primarily due to an increase in forecasted tax payments as a result of a higher effective tax rate and working capital improvements at Broadband Communication Systems in 2014 that are not expected to recur.  
+
+   (5)   NSS projected cash flow is expected to increase by $22 million from $42 million in 2014 to $64 million in 2015. The expected increase is primarily due to higher expected operating income in 2015 and a use of cash for trade accounts payable in 2014, that is not expected to recur. This increase is expected to be partially offset by an increase in forecasted tax payments as a result of a higher effective tax rate.  
+
+A decline in the estimated fair value of a reporting unit could result in a goodwill impairment, and a related non-cash impairment charge against earnings, if the estimated fair value for the reporting unit is less than the carrying value of the net assets of the reporting unit, including its goodwill. A large decline in estimated fair value of a reporting unit could result in an adverse effect on our financial condition and results of operations.  
+
+As discussed above, the more significant assumptions used in our DCF valuations for each of our reporting units were detailed three-year undiscounted cash flow projections, risk adjusted discount rates, or WACC, used to discount the cash flow projections to their present value and expected Terminal Growth Rates. The current year (2015-2017) consolidated three-year undiscounted cash flow projections declined 7% compared to the prior year (2014-2016), with the changes by each reporting unit ranging from a decline of 35% to an increase of 18%. The risk adjusted discount rate, or WACC, decreased by an average of 60 basis points compared to the prior year valuations primarily due to a decrease of approximately 120 basis points in the risk free rate of return, partially offset by an increase in the estimated required rate of return on equity related to a 100 basis point increase in the assumed equity risk premium. The expected Terminal Growth Rates utilized in the current year valuations were consistent with those utilized in the prior year valuations, except for the commercial aviation reporting unit, which increased from 2% in the prior year valuation to 3% in the current year valuation due to higher expected growth in the commercial aviation market. The expected Terminal Growth rates for L-3s other reporting units remained at 2% in the current year valuations due to a continued improved outlook for DoD budgets and a return to a nominal annual growth rate of 2% by FY 2017.  
+
+We evaluated the sensitivity of the DCF fair value estimates for each reporting unit, which were used for our goodwill impairment assessment, by separately assessing the impact on the estimated fair value of each reporting unit by: (1) increasing the risk adjusted discount rate (WACC) by 50 basis points, or (2) reducing the Terminal Growth Rate by 50 basis points, compared to those used in our estimated fair value calculations, while holding all other assumptions unchanged. All of our reporting units would have had a fair value in excess of their carrying value under both scenarios, except for the NSS reporting unit. In each of the two scenarios, the fair value of the NSS reporting unit would have been less than its carrying value and step two of the impairment assessment would have been required. In addition, we applied hypothetical decreases to the estimated fair values of each of our reporting units. We determined that a decrease in fair value of at least 20% would be required before any reporting unit, with the exception of four reporting units presented in the table below, would have a carrying value in excess of its fair value. The table below presents the: (1) risk adjusted discount rates, (2) annual cash flow and three-year average growth rate, (3) 2014 cash flow, (4) goodwill balance, and (5) excess fair value percentage and dollar amount, for each of these four reporting units.  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1)   Reporting unit cash flow excludes interest payments on debt and other corporate cash flows.  
+
+ (2)   The goodwill balance is as of November 30, 2014, our goodwill impairment testing date.  
+
+ (3)   The excess fair value represents the percentage and dollar amount by which the fair value of a reporting unit must decline before a potential impairment is identified and would require the second step of the goodwill impairment assessment to be performed.  
+
+45  
+
+Table of Contents 
+
+ (4)   Our DCF valuation for the NSS reporting unit assumed higher projected cash flow of approximately 53% in 2015 compared to 2014 due to higher expected operating income and a use of cash for trade accounts payable in 2014 that is not expected to recur. In addition, our DCF valuation assumed that projected cash flow will remain approximately 50% above 2014 levels in 2016 and 2017. Projected cash flows are expected to grow 2% annually beginning in 2018.  
+
+ (5)   Our DCF valuation for the Warrior Systems reporting unit assumed lower projected cash flow of approximately 15% in 2015 compared to 2014 due to the liquidation of customer advances received in 2013 that is not expected to recur, partially offset by higher margins in 2015 due to cost reductions relating to restructuring actions implemented during 2014 and sales mix. In addition, our DCF valuation assumed that projected cash flow in 2016 and 2017 will grow 14% and 4%, primarily due to increased international sales and increased sales from new products. Projected cash flows are expected to grow 2% annually beginning in 2018.  
+
+ (6)   Our DCF valuation for the Power & Propulsion Systems reporting unit assumed projected cash flow of approximately $9 million in 2015 compared to cash flows of $72 million in 2014 due to an increase in forecasted tax payments as a result of a higher effective income tax rate, lower sales and operating income and higher working capital requirements. In 2016, cash flows are assumed to increase to $55 million due to increasing sales and operating income and an increase in working capital requirements in 2015 that are not expected to recur. In 2017, cash flows are assumed to increase to $82 million due to increasing sales and operating income and cash receipts on a large engines production contract for a foreign government. Projected cash flows are expected to grow 2% annually beginning in 2018.  
+
+ (7)   Our DCF valuation for the Security and Detection Systems reporting unit assumed lower projected cash flow of approximately 22% in 2015 compared to 2014 due to an increase in forecasted tax payments as a result of a higher effective income tax rate. Cash flows are projected to remain approximately 20% below 2014 levels in 2016 and 2017 due to continued higher effective income tax rates. Projected cash flows are expected to grow 2% annually beginning in 2018.  
+
+As discussed previously, in addition to the annual goodwill impairment assessment, we review goodwill for impairment whenever events or changes in circumstances indicate that the carrying amount of a reporting units goodwill may not be recoverable. As such, listed below are certain circumstances, depending on their outcomes, that may require us to review goodwill for impairment for one or more of the four reporting units in the table above prior to the next annual assessment (November 30, 2015):  
+
+       lower than expected annual sales from our contracts with the DoD, arising from unanticipated changes or reductions to future DoD budgets; and  
+
+       the ability of the reporting units, in particular NSS, to achieve: (1) 2015 projected sales, operating income and cash flow, and (2) the win-loss experience on 2015 contract re-competitions and new business pursuits.  
+
+Pension Plan and Postretirement Benefit Plan Obligations. The obligations for our pension plans and postretirement benefit plans and the related annual costs of employee benefits are calculated based on several long-term assumptions, including discount rates and expected mortality for employee benefit liabilities, and rates of return on plan assets, and expected annual rates for salary increases for employee participants in the case of pension plans, and expected annual increases in the costs of medical and other health care benefits in the case of postretirement benefit obligations. These long-term assumptions are subject to revision based on changes in interest rates, financial market conditions, expected versus actual returns on plan assets, expected participant mortality and other actuarial assumptions, including future rates of salary increases, benefit formulas and levels, and rates of increase in the costs of benefits. Changes in the assumptions, if significant, could materially affect the amount of annual net periodic benefit costs recognized in our results of operations from one year to the next, the liabilities for the pension plans and postretirement benefit plans, and our annual cash requirements to fund these plans. Our pension expense for 2015 is expected to increase by $58 million to $138 million from $80 million in 2014. Our discount rate assumption decreased from a weighted average rate of 5.03% at December 31, 2013 to 4.14% at December 31, 2014. The expected increase in our 2015 pension expense is primarily due to the decrease in the weighted average discount rate and a change in expected mortality to reflect historical and projected mortality improvements. See Part II  Item 7  Managements Discussion and Analysis of Financial Condition and Results of Operations  Liquidity and Capital Resources  Pension Plans for a further discussion of our estimated 2015 pension expense.  
+
+Discount rates are used to determine the present value of our pension obligations and also affect the amount of pension expense in any given period. The discount rate assumptions used to determine our pension and postretirement benefit obligations at December 31, 2014 and 2013 were based on a hypothetical AA yield curve  
+
+46  
+
+Table of Contents 
+
+ represented by a series of annualized individual discount rates. Each bond issue underlying the yield curve is required to have a rating of AA or better by Moodys Investors Service, Inc. and/or Standard & Poors. The resulting discount rate reflects the matching of plan liability cash flows to the yield curve. For a sensitivity analysis projecting the impact of a change in the discount rate on our projected benefit obligation and pension expense, see Part II  Item 7  Managements Discussion and Analysis of Financial Condition and Results of Operations  Liquidity and Capital Resources  Pension Plans.  
+
+Valuation of Deferred Income Tax Assets and Liabilities. At December 31, 2014, we had deferred tax assets of $749 million, deferred tax liabilities of $1,056 million and a valuation allowance of $9 million. The deferred tax assets include $15 million for loss carryforwards and $10 million for tax credit carryforwards which are subject to various limitations and will expire if unused within their respective carryforward periods. Deferred income taxes are determined separately for each of our tax-paying entities in each tax jurisdiction. The future realization of our deferred income tax assets ultimately depends on our ability to generate sufficient taxable income of the appropriate character (for example, ordinary income or capital gains) within the carryback and carryforward periods available under the tax law and, to a lesser extent, our ability to execute successful tax planning strategies. Based on our estimates of the amounts and timing of future taxable income and tax planning strategies, we believe that we will be able to realize our deferred tax assets, except for capital losses and certain U.S. Federal, foreign and state net operating losses. A change in the ability of our operations to continue to generate future taxable income, or our ability to implement desired tax planning strategies, could affect our ability to realize the future tax deductions underlying our deferred tax assets, and require us to provide a valuation allowance against our deferred tax assets. The recognition of a valuation allowance would result in a reduction to net income and, if significant, could have a material impact on our effective tax rate, results of operations and financial position in any given period.  
+
+Liabilities for Pending and Threatened Litigation. We are subject to litigation, government investigations, proceedings, claims or assessments and various contingent liabilities incidental to our business or assumed in connection with certain business acquisitions. In accordance with the accounting standards for contingencies, we accrue a charge for a loss contingency when we believe it is both probable that a liability has been incurred, and the amount of the loss can be reasonably estimated. If the loss is within a range of specified amounts, the most likely amount is accrued, and we accrue the minimum amount in the range if no amount within the range represents a better estimate. Generally, we record the loss contingency at the amount we expect to pay to resolve the contingency and the amount is generally not discounted to the present value. Amounts recoverable under insurance contracts are recorded as assets when recovery is deemed probable. Contingencies that might result in a gain are not recognized until realizable. Changes to the amount of the estimated loss, or resolution of one or more contingencies could have a material impact on our results of operations, financial position and cash flows. See Note 19 to our audited consolidated financial statements for further discussion of our litigation matters.  
+
+Valuation of Long-Lived Assets. In addition to goodwill and identifiable intangible assets recognized in connection with our business acquisitions, our long-lived assets also include property, plant and equipment, capitalized software development costs for software to be sold, leased or otherwise marketed, and certain long-term investments. As of December 31, 2014, the consolidated carrying values of our property, plant and equipment were $1,088 million, capitalized software development costs were $59 million and certain long-term investments were $12 million. As of December 31, 2014, the carrying value of our property, plant and equipment represented 8% of total assets and the carrying value of our capitalized software development costs and certain long-term investments each represented less than 1% of total assets. We review the valuation of our long-lived assets whenever events or changes in circumstances indicate that the carrying amount of these assets may not be recoverable. An impairment loss is recognized when the carrying amount of a long-lived asset exceeds its fair value or net realizable value expected to result from the assets use and eventual disposition. We use a variety of factors to assess valuation, depending upon the asset. Long-lived assets are evaluated based upon the expected period the asset will be utilized, and other factors depending on the asset, including estimated future sales, profits and related cash flows, estimated product acceptance and product life cycles, changes in technology and customer demand, and the performance of invested companies and joint ventures. Changes in estimates and judgments on any of these factors could have a material impact on our results of operations and financial position.  
+
+47  
+
+Table of Contents 
+
+Results of Operations  
+
+The following information should be read in conjunction with our audited consolidated financial statements. The following information has been adjusted to reflect the spin-off of Engility and related classification of results of operations and cash flows as discontinued operations. Also, our results of operations for the periods presented are affected by our business acquisitions. See Note 4 to our audited consolidated financial statements for a discussion of our business acquisitions and dispositions.  
+
+Consolidated Results of Operations  
+
+The table below provides selected financial data, excluding discontinued operations, for the years ended December 31, 2014, 2013 and 2012.  
+
+  [DATA_TABLE_REMOVED] 
+
+ nm  not meaningful  
+
+2014 Compared with 2013  
+
+Net Sales: For the year ended December 31, 2014, consolidated net sales of $12.1 billion decreased $498 million, or 4%, compared to the year ended December 31, 2013, as lower sales to the DoD caused by sequestration cuts and the continuing U.S. military drawdown from Afghanistan impacted each segment. Net sales to the U.S. Government, including sales from acquired businesses of $78 million, declined 7%, or $602 million, to $8,584 million in the year ended December 31, 2014, compared to $9,186 million in the year ended December 31, 2013. This decrease was partially offset by an increase in net sales to international and commercial customers of 3%, or $104 million, to $3,540 million in the year ended December 31, 2014, compared to $3,436 million in the year ended December 31, 2013. Net sales to international and commercial customers, as a percentage of consolidated net sales, increased to 29% for the year ended December 31, 2014, as compared to 27% for the year ended December 31, 2013.  
+
+Sales from products decreased by $280 million to $6,909 million for the year ended December 31, 2014, compared to $7,189 million for the year ended December 31, 2013. Product sales represented 57% of consolidated net sales for each of the years ended December 31, 2014 and 2013. Sales of products declined for: (1) Broadband Communication Systems, primarily due to lower U.S. Army demand for remote video terminals driven by the U.S. military drawdown from Afghanistan, and lower volume for airborne and ground-based networked communication systems as contracts near completion and due to declining demand related to DoD budget reductions, (2) Platform and Logistics Solutions due to reduced deliveries of aircraft cabin assemblies and subassemblies based on contractual delivery schedules, lower volume for the Canadian Department of National Defence (DND) and commercial contracts nearing completion, and lower volume to the U.S. Air Force (USAF) from the DoDs planned reduction in the Compass Call aircraft fleet, partially offset by increased volume for the  
+
+48  
+
+Table of Contents 
+
+ Australia C-27J aircraft, (3) Sensor Systems due to declining demand primarily for airborne electro-optic infrared (EO/IR) turrets to the U.S. military related to the drawdown from Afghanistan and the completion of a contract for force protection products for a foreign ministry of defense, (4) Precision Engagement & Training primarily due to reduced deliveries of U.S. Army, rotary wing training systems for the Flight School XXI program based on contractual delivery schedules, lower volume for upgrades for F/A-18 flight simulator trainers and completed contracts for guidance products for the U.S. Army, and (5) Tactical Satellite Communications, primarily due to lower demand and timing of deliveries of mobile and ground-based satellite communication systems for the U.S. military. These decreases were partially offset by sales from the Mustang Technology Group acquisition and organic sales growth for: (1) Space & Power Systems due to increased deliveries of power devices for commercial satellites, and (2) Security & Detection Systems due to increased demand for airport security system products from international customers and the Transportation Security Administration (TSA).  
+
+Sales from services decreased by $218 million to $5,215 million for the year ended December 31, 2014, compared to $5,433 million for the year ended December 31, 2013. Service sales represented 43% of consolidated net sales for each of the years ended December 31, 2014 and 2013. Sales from services decreased due to: (1) lower demand for a technical support contract for a U.S. Government agency caused by sequestration and intelligence support services for the U.S. Army due to the drawdown in Afghanistan and (2) lower volume for Platform and Logistics Solutions to the USAF from the DoDs retirement of the Joint Cargo Aircraft (JCA) and lower demand for field maintenance and sustainment services for USAF training aircraft. See the reportable segment results for additional discussion of our segment sales trends.  
+
+Operating income and operating margin: Operating income for the year ended December 31, 2014 of $1,085 million decreased $127 million, or 10%, compared to the year ended December 31, 2013. Operating margin decreased by 70 basis points to 8.9% for the year ended December 31, 2014, compared to 9.6% for the year ended December 31, 2013. Operating margin decreased by: (1) 120 basis points due to lower sales and mix changes and unfavorable contract performance adjustments in the Aerospace Systems segment and $25 million of outside accounting and legal advisory costs incurred in connection with the previously disclosed internal review of the Aerospace Systems segment, (2) 20 basis points due to a charge of $18 million in the Electronic Systems segment related to a product specifications matter, and (3) 10 basis points due to higher overhead expenses and lower sales in the NSS segment. These decreases were partially offset by lower pension expense of $94 million ($59 million after income taxes, or $0.67 per diluted share), which increased operating margin by 80 basis points. See the reportable segment results below for additional discussion of segment operating margin trends.  
+
+Interest expense: Interest expense for the year ended December 31, 2014 increased by $1 million compared to the year ended December 31, 2013, primarily due to higher amortization of bond discounts and debt issuance costs relating to new debt that was issued during the year ended December 31, 2014.  
+
+Interest and other income: Interest and other income, net, for the year ended December 31, 2014 decreased due to a loss recorded on the sale of a business within the Warrior Systems sector of the Electronic Systems segment of $3 million.  
+
+Effective income tax rate: The effective tax rate for the year ended December 31, 2014 decreased to 26.8% from 28.0% primarily due to a lower effective tax rate on foreign earnings.  
+
+Net income from continuing operating attributable to L-3 and diluted earnings per share from continuing operations: Net income from continuing operations attributable to L-3 in the year ended December 31, 2014 decreased 12% to $664 million compared to the year ended December 31, 2013, and diluted earnings per share (EPS) from continuing operations decreased 8% to $7.56 from $8.24. Net income from continuing operations and diluted earnings per share were affected by the factors discussed herein.  
+
+Diluted weighted average common shares outstanding: Diluted weighted average common shares outstanding for the year ended December 31, 2014 declined by 4% compared to the year ended December 31, 2013 due to repurchases of L-3 common stock in connection with our share repurchase programs authorized by our Board of Directors, partially offset by additional shares issued in connection with various employee stock-based compensation programs and contributions to employee savings plans made in common stock.  
+
+49  
+
+Table of Contents 
+
+2013 Compared with 2012  
+
+Net Sales: For the year ended December 31, 2013, consolidated net sales of $12.6 billion decreased $485 million, or 4%, compared to the year ended December 31, 2012 as lower sales to the DoD caused by declining budgets, sequestration cuts and the continuing U.S. military drawdown from Afghanistan impacted each segment. Acquired businesses, which are all included in the Electronic Systems segment, added $81 million to net sales in the year ended December 31, 2013. Net sales to international and commercial customers increased 10%, or $315 million, to $3,436 million in the year ended December 31, 2013, including $74 million from acquired businesses, compared to $3,121 million in the year ended December 31, 2012. Net sales to international and commercial customers, as a percentage of consolidated net sales, increased to 27% for the year ended December 31, 2013 compared to 24% for the year ended December 31, 2012.  
+
+Sales from products decreased by $397 million to $7,189 million for the year ended December 31, 2013, compared to $7,586 million for the year ended December 31, 2012. Product sales represented 57% and 58% of consolidated net sales for the years ended December 31, 2013 and 2012, respectively. Sales of products declined for: (1) Broadband Communication Systems, primarily due to lower U.S. Army demand for remote video terminals due to the U.S. military drawdown from Afghanistan, and lower volume due to contracts nearing completion and declining demand caused by sequestration and other DoD budget reductions, (2) Space & Power Systems due to reduced deliveries of power devices for commercial satellite communication systems, (3) Tactical Satellite Communications Products mobile and ground-based satellite communication systems for the U.S. military as programs ended, (4) Precision Engagement & Training primarily due to programs for ordnance products ending, and (5) Sensor Systems due to lower volume primarily for airborne EO/IR turrets for the U.S. Army Persistent Threat Detection System (PTDS) contract due to the U.S. military drawdown from Afghanistan. The decrease in product sales was also due to sales volume declines for Security & Detection Systems. These decreases were partially offset by sales from the Link U.K. business acquisition and organic sales growth for: (1) Platform Systems due to increased volume for modifications for the USAF EC-130 aircraft, and (2) Warrior Systems due to increased demand for holographic weapon sights for the commercial sporting and recreation markets.  
+
+Sales from services, decreased by $88 million to $5,433 million for the year ended December 31, 2013, compared to $5,521 million for the year ended December 31, 2012. Service sales represented 43% and 42% of consolidated net sales for the years ended December 31, 2013 and 2012, respectively. Sales from services decreased due to: (1) lower volume for small ISR aircraft systems due to the U.S. military drawdown from Afghanistan, (2) lower volume for Logistics Solutions, primarily due to the competitive loss of a task order for U.S. Army contract field team support services in Southwest Asia and reduced fleet management services due to the loss of the Joint Primary Aircraft Training Systems (JPATS) contract for the USAF, and (3) lower demand for technical support for a U.S. Government agency and information technology (IT) support services for the U.S. Special Operations Command (USSOCOM). See the reportable segment results for additional discussion of our segment sales trends.  
+
+Operating income and operating margin: Operating income for the year ended December 31, 2013 of $1,212 million decreased $96 million, or 7%, as compared to the year ended December 31, 2012. Operating margin decreased by 40 basis points to 9.6% for the year ended December 31, 2013, compared to 10.0% for the year ended December 31, 2012. The decrease in operating margin was primarily due to higher production costs and reduced productivity for the Communication Systems segment, which reduced operating margin by 30 basis points. Higher pension expense of $11 million ($7 million after income taxes, or $0.08 per diluted share) reduced operating margin by 10 basis points. Additionally, the years ended December 31, 2013 and 2012 included severance charges that reduced operating income. In 2013, the severance charges were $29 million ($18 million after income taxes, or $0.20 per diluted share) compared to $23 million ($14 million after income taxes, or $0.14 per diluted share) for 2012. See the reportable segment results for additional discussion of segment operating margin trends.  
+
+Interest expense: Interest expense for the year ended December 31, 2013 declined by $7 million compared to the year ended December 31, 2012, due to lower outstanding debt, which reduced interest expense by $21 million, partially offset by $14 million of interest expense that was allocated to discontinued operations in 2012.  
+
+50  
+
+Table of Contents 
+
+Interest and other income: Interest and other income, net, for the year ended December 31, 2013 increased by $9 million primarily due to a $5 million non-cash impairment charge recorded in 2012 for the dissolution of an unconsolidated joint venture and increased interest income accretion related to the net investment in sales-type leases of flight simulator systems.  
+
+Effective income tax rate: The effective tax rate for the year ended December 31, 2013 decreased to 28.0% from 32.1% for the same period last year. The decrease is primarily due to tax benefits in the year ended December 31, 2013 of: (1) $33 million ($0.36 per diluted share) for the U.S. Federal research and experimentation tax credit (R&E Credit) retroactively reinstated in 2013, of which $17 million ($0.19 per diluted share) relates to 2012, and (2) $8 million related to deferred tax benefits.  
+
+Net income from continuing operations attributable to L-3 and diluted earnings per share from continuing operations: Net income from continuing operations attributable to L-3 in the year ended December 31, 2013 decreased 1% to $751 million compared to the year ended December 31, 2012, and diluted EPS from continuing operations increased 6% to $8.24 from $7.74. Net income from continuing operations and diluted earnings per share were affected by the factors discussed herein.  
+
+Diluted weighted average common shares outstanding: Diluted weighted average common shares outstanding for the year ended December 31, 2013 declined by 7% compared to the year ended December 31, 2012 due to repurchases of L-3 common stock in connection with our share repurchase programs authorized by our Board of Directors, partially offset by additional shares issued in connection with various employee stock-based compensation programs and contributions to employee savings plans made in common stock.  
+
+Reportable Segment Results of Operations. The table below presents selected data by reportable segment reconciled to consolidated totals. See Note 22 to our audited consolidated financial statements for additional reportable segment data.  
+
+  [DATA_TABLE_REMOVED] 
+
+   (1)   Net sales are after intercompany eliminations.  
+
+51  
+
+Table of Contents 
+
+Electronic Systems  
+
+  [DATA_TABLE_REMOVED]  
+
+2014 Compared with 2013  
+
+Electronic Systems net sales for the year ended December 31, 2014 increased by $19 million, or 0.4%, compared to the year ended December 31, 2013. Sales increased: (1) $38 million for Security & Detection Systems due to increased volume for airport security system products from international customers and the TSA, (2) $28 million for Marine Systems International due to timing of deliveries of shipbuilding products to a foreign navy and commercial customers, (3) $27 million for Power & Propulsion Systems primarily due to increased volume on certain contracts including an engine production contract to a foreign military and missile targets to the Missile Defense Agency (MDA), partially offset by lower volume on undersea warfare products, and (4) $14 million primarily for Warrior Systems due to increased deliveries of night vision goggles to foreign militaries and the U.S. Army, partially offset by lower demand for holographic weapons sights for the commercial sporting and recreational markets. The Mustang Technology Group business acquisition increased sales by $41 million. These increases were partially offset by sales decreases of: (1) $65 million for Precision Engagement & Training due to reduced deliveries of U.S. Army rotary wing training systems for the Flight School XXI program, lower volume for upgrades for F/A-18 flight simulator trainers and completed contracts for guidance products for the U.S. Army, and (2) $64 million for Sensor Systems primarily due to lower volume for airborne EO/IR turrets to the U.S. military due to the drawdown from Afghanistan, and the completion of a contract for force protection products for a foreign ministry of defense.  
+
+Electronic Systems operating income for the year ended December 31, 2014 increased by $4 million, or 0.8%, compared to the year ended December 31, 2013. Operating margin of 11.6% remained the same. Operating margin increased by 60 basis points due to lower pension expense of $30 million and 30 basis points primarily due to improved contract performance, primarily for Power & Propulsion Systems, Precision Engagement & Training and Warrior Systems. These increases were offset by decreases of: (1) 50 basis points primarily due to lower sales for Sensor Systems, and (2) 40 basis points due to a charge of $18 million related to a product specifications matter.  
+
+2013 Compared with 2012  
+
+Electronic Systems net sales for the year ended December 31, 2013 decreased by $29 million, or 0.6%, compared to the year ended December 31, 2012. Sales declined: (1) $39 million for Sensor Systems due to lower volume primarily for airborne EO/IR turrets for the U.S. Army PTDS contract due to the U.S. military drawdown from Afghanistan, (2) $38 million for Precision Engagement & Training primarily due to contracts for ordnance products nearing completion, partially offset by an increase in sales for upgrades for F/A-18 flight simulator trainers and volume on new commercial aircraft simulation contracts, (3) $35 million for Security & Detection Systems due to lower orders from the TSA caused by U.S. Government sequestration cuts and the completion of certain international contracts, and (4) $23 million for Power & Propulsion Systems due to certain funding constraints for the MDA air-launched target programs. These decreases were partially offset by a sales increase of $25 million, primarily for Warrior Systems due to increased demand for holographic weapon sights for the commercial sporting, and recreation markets, and $81 million, primarily due to the Link U.K. and L-3 KEO business acquisitions.  
+
+Electronic Systems operating income for the year ended December 31, 2013 of $533 million, which included severance charges of $16 million, decreased by $36 million, or 6%, compared to the year ended December 31, 2012. Operating margin decreased by 70 basis points to 11.6%. Sales declines and mix changes reduced operating margin by 70 basis points, sales from acquired businesses reduced operating margin by 20 basis points  
+
+52  
+
+Table of Contents 
+
+ and higher severance charges reduced operating margin by 10 basis points. These declines were partially offset by improved contract performance across several business areas, primarily Power & Propulsion Systems, which increased operating margin by 30 basis points.  
+
+Aerospace Systems  
+
+  [DATA_TABLE_REMOVED]  
+
+2014 Compared with 2013  
+
+Aerospace Systems net sales for the year ended December 31, 2014 decreased by $230 million, or 5%, compared to the year ended December 31, 2013. Sales decreased $205 million for Platform and Logistics Solutions and $25 million for ISR Systems. Platform and Logistics Solutions sales decreased: (1) $89 million due to lower volume to the USAF from the DoDs retirement of the JCA and the DoDs planned reduction in the Compass Call aircraft fleet, (2) $89 million due to lower volume for aircraft modifications for the U.S. Navy maritime patrol aircraft due to the transition to a new aircraft platform and international head-of-state aircraft, (3) $59 million primarily due to lower volume for the Canadian DND and commercial contracts nearing completion, (4) $48 million due to reduced deliveries of aircraft cabin assemblies and subassemblies, and (5) $7 million primarily due to decreased volume for field maintenance and sustainment services for USAF training aircraft. These decreases were partially offset by a sales increase of $55 million for the Australia C-27J aircraft and $32 million primarily due to higher volume for foreign military aircraft modification contracts. ISR Systems sales declined primarily due to lower sales and volume for small ISR aircraft and aircraft systems due to the U.S. military drawdown in Afghanistan.  
+
+Aerospace Systems operating income for the year ended December 31, 2014 decreased by $138 million, or 32%, compared to the year ended December 31, 2013. Operating margin declined by 270 basis points to 6.7%. Operating margin declined by: (1) 170 basis points primarily due to lower sales and mix changes, (2) 80 basis points due to unfavorable contract performance adjustments on modification contracts for international head-of-state and search and rescue aircraft, (3) 60 basis points due to $25 million of charges for outside accounting and legal advisory costs incurred in connection with the internal review of the Aerospace Systems segment, and (4) 40 basis points primarily due to unfavorable contract performance adjustments on a number of contracts for aircraft cabin assemblies. These decreases were partially offset by 80 basis points due to lower pension expense of $35 million.  
+
+2013 Compared with 2012  
+
+Aerospace Systems net sales for the year ended December 31, 2013 decreased by $44 million, or 1%, compared to the year ended December 31, 2012. Sales declines of $66 million for Logistics Solutions and $10 million for Platform Systems were partially offset by a sales increase of $32 million for ISR Systems. The decrease in sales for Logistics Solutions was primarily due to the competitive loss of a task order for U.S. Army contract field team support services in Southwest Asia, which was completed in 2012, reduced fleet management services due to the loss of the JPATS contract for the USAF and lower volume for field maintenance and sustainment services for U.S. Army C-12 aircraft. These decreases were partially offset by increased volume for field maintenance and sustainment services for USAF training aircraft. Platform Systems sales decreased primarily due to lower volume for U.S. Navy maritime patrol aircraft and JCA, as well as reduced deliveries of aircraft cabin assemblies, partially offset by higher volume on USAF EC-130 and international head of state aircraft, and aircraft maintenance for the Canadian DND. The increase in sales for ISR Systems was primarily due to $78 million of higher volume on ISR platforms for foreign military customers and $50 million of small ISR aircraft sales to the DoD. These increases were partially offset by $96 million of lower volume primarily for small ISR aircraft systems due to the U.S. military drawdown from Afghanistan.  
+
+53  
+
+Table of Contents 
+
+Aerospace Systems operating income for the year ended December 31, 2013 of $426 million, which included severance charges of $2 million, decreased by $11 million, or 3%, compared to the year ended December 31, 2012. Operating margin decreased by 10 basis points to 9.4%. Operating margin decreased by 60 basis points primarily due to write-offs of unbilled receivables and contract inventory assets related primarily to cost overruns on the U.S. Army C-12 contract and design and test expenses for aerostructures on a new commercial aircraft, which were identified as part of the internal review of the Aerospace Systems segment. Higher pension expense of $12 million reduced operating margin by 30 basis points. These decreases were partially offset by 80 basis points primarily due to improved productivity on certain contracts.  
+
+Communication Systems  
+
+  [DATA_TABLE_REMOVED]  
+
+2014 Compared with 2013  
+
+Communication Systems net sales for the year ended December 31, 2014 decreased by $201 million, or 9%, compared to the year ended December 31, 2013. Sales decreased $188 million for Broadband Communication Systems primarily due to: (1) lower volume for airborne and ground-based networked communication systems as contracts near completion and demand declines due to DoD budget reductions, (2) lower U.S. Army demand for remote video terminals and ISR support services driven by the U.S. military drawdown from Afghanistan, and (3) the completion of a specialty radio frequency (RF) contract for the U.S. Army. Sales also decreased $60 million for Tactical Satellite Communications products primarily due to lower demand and timing of deliveries of mobile and ground-based satellite communication systems for the U.S. military. These decreases were partially offset by an increase of $47 million primarily for Space & Power Systems due to increased deliveries of power devices for commercial satellites.  
+
+Communication Systems operating income for the year ended December 31, 2014 increased by $28 million, or 17%, compared to the year ended December 31, 2013. Operating margin increased by 220 basis points to 9.9%. Operating margin increased by: (1) 140 basis points due to lower pension expense of $28 million, (2) 50 basis points due to improved productivity, and (3) 30 basis points primarily due to lower development and production costs for Broadband Communication Systems.  
+
+2013 Compared with 2012  
+
+Communication Systems net sales for the year ended December 31, 2013 decreased by $322 million, or 13%, compared to the year ended December 31, 2012. Sales decreased $183 million for Broadband Communication Systems, $77 million for Space & Power Systems and $62 million primarily for Tactical Satellite Communications Products. The decrease in sales for Broadband Communication Systems was due to: (1) lower U.S. Army demand for remote video terminals due to the U.S. military drawdown from Afghanistan, (2) lower volume primarily for airborne and ground-based systems and vehicle mounted satellite communication ground stations due to contracts nearing completion and declining demand caused by sequestration and other DoD budget reductions, and (3) lower productivity due to the implementation of new enterprise resource planning (ERP) systems during the 2013 third quarter. The decrease in sales for Space & Power Systems and Tactical Satellite Communications Products was primarily due to reduced deliveries of power devices for commercial satellite communication systems and mobile and ground-based satellite communication systems for the U.S. military as programs ended, respectively.  
+
+Communication Systems operating income for the year ended December 31, 2013 of $168 million, which included severance charges of $11 million, decreased by $55 million, or 25%, compared to the year ended  
+
+54  
+
+Table of Contents 
+
+ December 31, 2012. Operating margin decreased by 120 basis points to 7.7%. Operating margin declined by: (1) 140 basis points primarily due to higher production costs and unfavorable contract performance for Broadband Communication Systems, (2) 50 basis points for higher costs and lower productivity due to the implementation of new ERP systems at Broadband Communication Systems, and (3) 10 basis points due to higher severance charges of $3 million. These decreases were partially offset by 80 basis points primarily due to improved contract performance for Space & Power Systems.  
+
+National Security Solutions (NSS)  
+
+  [DATA_TABLE_REMOVED]  
+
+2014 Compared with 2013  
+
+NSS net sales for the year ended December 31, 2014 decreased by $86 million, or 7%, compared to the year ended December 31, 2013. Sales declined by: (1) $52 million for Defense Solutions primarily due to lower demand and contracts nearing completion, partially offset by an information technology (IT) services contract for the U.S. Army Reserve that began in the 2013 fourth quarter, (2) $45 million for Federal Solutions primarily due to completed contracts, and (3) $27 million for Intelligence Solutions primarily due to U.S. Government sequestration cuts. The Data Tactics business acquisition increased sales by $38 million.  
+
+NSS operating income for the year ended December 31, 2014 decreased by $21 million, or 25%, compared to the year ended December 31, 2013. Operating margin decreased by 130 basis points to 5.3%. Operating margin decreased by: (1) 60 basis points due to higher business development, marketing and selling expenses, and lower sales and higher overhead expense rates caused by delayed contract awards for international contracts and protests on contracts with the U.S. Government, (2) 50 basis points due to less favorable contract performance adjustments, and (3) 20 basis points due to lower margins on new business and recompetitions due to competitive pricing pressure.  
+
+2013 Compared with 2012  
+
+NSS net sales for the year ended December 31, 2013 decreased by $90 million, or 7%, compared to the year ended December 31, 2012 primarily due to lower demand for a technical support contract for a U.S. Government agency due to U.S. Government sequestration cuts, and less demand for USSOCOM IT support services, as our previous single-award contract converted to several multiple-award contracts, which reduced our workshare.  
+
+NSS operating income for the year ended December 31, 2013 of $85 million increased by $6 million, or 8%, compared to the year ended December 31, 2012. Operating margin increased by 90 basis points to 6.6%. Operating margin increased by: (1) 70 basis points due to legal fees of $5 million related to a supplier dispute and a $4 million inventory write-down of security and safety equipment in 2012, which did not recur in 2013, (2) 50 basis points due to lower operating costs, and (3) 40 basis points for improved contract performance. These increases were partially offset by 70 basis points primarily due to lower sales and mix changes.  
+
+Liquidity and Capital Resources  
+
+Anticipated Sources and Uses of Cash Flow  
+
+At December 31, 2014, we had total cash and cash equivalents of $442 million. While no amounts of the cash and cash equivalents are considered restricted, $129 million was held by the Companys foreign subsidiaries. The repatriation of cash held in non-U.S. jurisdictions is subject to local capital requirements, as well as income tax considerations. Our primary source of liquidity is cash flow generated from operations. We generated  
+
+55  
+
+Table of Contents 
+
+ $1,125 million of cash from operating activities from continuing operations during the year ended December 31, 2014. We also received net cash proceeds of $988 million for the issuance of our new Senior Notes. Significant cash uses during the year ended December 31, 2014 included $935 million for the CODES retirement, $823 million to repurchase shares of our common stock, $208 million for dividends, $183 million for capital expenditures and $57 million for business acquisitions.  
+
+As of December 31, 2014, we had the full availability of our $1 billion Amended and Restated Credit Facility (Credit Facility), which expires on February 3, 2017. We currently believe that our cash from operating activities together with our cash on hand and available borrowings under our Credit Facility will be adequate for the foreseeable future to meet our anticipated requirements for working capital, capital expenditures, defined benefit plan contributions, commitments, contingencies, research and development expenditures, business acquisitions (depending on the size), contingent purchase price payments on previous business acquisitions, program and other discretionary investments, interest payments, income tax payments, L-3 Holdings dividends and share repurchases.  
+
+Balance Sheet  
+
+Billed receivables decreased by $139 million to $852 million at December 31, 2014 from $991 million at December 31, 2013 primarily due to $77 million reclassified to assets held for sale at December 31, 2014 and the timing of billings and collections primarily for ISR Systems and Platform & Logistics Solutions, lower sales for Broadband Communication Systems and $16 million of foreign currency translation adjustments. These decreases were partially offset by billings from increased deliveries of EO/IR turrets and $4 million from the L-3 Data Tactics business acquisition.  
+
+Contracts in process decreased by $147 million to $2,295 million at December 31, 2014 from $2,442 million at December 31, 2013. During the year ended December 31, 2014, contracts in process decreased (1) $70 million due to amounts reclassified to assets held for sale, (2) $49 million for a transfer to property, plant and equipment, primarily for a C-27J aircraft training system and two flight simulators that are no longer available for sale to customers, since we are utilizing these assets to provide training services, (3) $22 million primarily for foreign currency translation adjustments, and (4) $6 million comprised of:  
+
+       Decreases of $8 million in unbilled contract receivables primarily due to lower sales for Broadband Communication Systems, partially offset by an increase due to sales exceeding billings for ISR Systems; partially offset by  
+
+       Increases of $2 million in inventoried contract costs, comprised of increases for Broadband Communication Systems and Aviation Products, partially offset by decreases for Advanced Communication Systems and Space & Power Systems due to the timing of deliveries.  
+
+L-3s receivables days sales outstanding (DSO) was 71 at December 31, 2014, and at December 31, 2013. We calculate our DSO by dividing: (1) our aggregate end of period billed receivables and net unbilled contract receivables, by (2) our trailing 12 month sales adjusted, on a pro forma basis, to include sales from business acquisitions and exclude sales from business divestitures that we completed as of the end of the period, and sales from our Marine Systems International business, which is classified as held for sale at December 31, 2014, multiplied by the number of calendar days in the trailing 12 month period (365 days at December 31, 2014 and 2013). Our trailing 12 month pro forma sales were $11,598 million at December 31, 2014 and $12,657 million at December 31, 2013.  
+
+The decrease in inventories was primarily due to amounts reclassified to assets held for sale.  
+
+The increase in other current assets was primarily due to an increase in our U.S. Federal income tax receivable related to the passage of the Tax Increase Prevention Act on December 19, 2014.  
+
+The increase in PP&E was primarily due to the transfer of $49 million from contracts in process, primarily for a C-27J aircraft training system and two flight simulators that are no longer available for sale to customers as discussed above.  
+
+56  
+
+Table of Contents 
+
+Goodwill decreased by $295 million to $7,501 million at December 31, 2014 from $7,796 million at December 31, 2013. The table below presents the changes in goodwill by segment.  
+
+  [DATA_TABLE_REMOVED] 
+
+   (1)   The decrease in goodwill for the Electronics Systems segment was due to the final purchase price allocation for the Mustang business acquisition made in 2013. The increase in goodwill for the NSS segment was due to the L-3 Data Tactics business acquisition.  
+
+   (2)   The decrease in goodwill presented in the Electronic Systems segment was primarily due to the strengthening of the U.S. dollar against the Euro, the Canadian dollar and the British pound during 2014. The decrease in goodwill presented in the Aerospace Systems segment was due to the strengthening of the U.S. dollar against the Canadian dollar during 2014.  
+
+   (3)   On December 16, 2014, we entered into a definitive agreement with Wärtsilä Corporation to sell our Marine Systems International business.  
+
+The decrease in identifiable intangible assets was primarily due to amortization expense of $43 million and $9 million reclassified to assets held for sale, partially offset by an increase for the recognition of customer contractual relationships and technology intangibles for the L-3 Data Tactics and Mustang business acquisitions.  
+
+The decrease in accounts payable and accrued expenses was primarily due to the timing of when invoices for purchases from third party vendors and subcontractors were received and payments were made, reduced sales and reclassifications to liabilities held for sale.  
+
+Accrued employment costs decreased primarily due to a reclassification to liabilities held for sale.  
+
+The decrease in advance payments and billings in excess of costs incurred was primarily due to a reclassification to liabilities held for sale, mostly offset by an increase due to cash collections on performance based billings related to contracts with the DoD and foreign customers for ISR systems.  
+
+The decrease in long-term deferred income tax liabilities was primarily due to the increase in the deferred tax asset for pension liabilities (due to the increase in the pension plans unfunded status) and by the retirement of the CODES, partially offset by the tax amortization of certain goodwill and other identifiable intangible assets during 2014.  
+
+Pension Plans  
+
+L-3 maintains defined benefit pension plans covering approximately 24% of its employees. At December 31, 2014, L-3s projected benefit obligation (PBO), which includes accumulated benefits plus the incremental benefits attributable to projected future salary increases for covered employees, was $3,663 million and exceeded the fair value of L-3s pension plan assets of $2,570 million by $1,093 million. At December 31, 2013, L-3s PBO was $2,973 million and exceeded the fair value of L-3s pension plan assets of $2,403 million by $570 million. The $523 million increase in our unfunded status was primarily due to the decrease in our weighted average discount rate from 5.03% at December 31, 2013 to 4.14% at December 31, 2014 and changes in mortality rate assumptions to reflect historical and projected mortality improvements, partially offset by 2014 employer pension contributions.  
+
+The expected long-term return on plan assets assumption represents the average rate that we expect to earn over the long-term on the assets of our benefit plans, including those from dividends, interest income and capital appreciation. We utilize a third-party consultant to assist in the development of the expected long-term return on plan assets, which is based on expectations regarding future long-term rates of return for the plans investment  
+
+57  
+
+Table of Contents 
+
+ portfolio, with consideration given to the allocation of investments by asset class and historical and forward looking rates of return for each individual asset class. With respect to the determination of our expected long-term return on plan assets assumption for the year ended December 31, 2014, we considered: (1) a 20 year forward looking return on plan assets as developed by our third-party consultant, which is currently 8.49% for our U.S. plans and 7.25% for our Canadian plans and (2) our historical returns for the latest 10 year period. While we review historical rates of return on our plan assets, the substantial volatility in any one year can result in historical data that is less indicative of future returns. Accordingly, we give greater consideration toward forward looking returns in developing our expected long-term return on plan assets assumption. In reviewing our historical returns, we noted that the average annual return on our pension plan assets for the 10 year period of 2005 through 2014, net of investment management fees and administrative costs, determined on an arithmetic basis, was 7.09%. Arithmetic annual averages represent the simple average returns over independent annual periods. In addition, the actual annual returns have exceeded our long-term return on plan assets assumption in seven of the past ten years. Since we have not had a significant change in investment strategy, and based on the forward looking and historical returns on our plan assets discussed above, we believe our existing weighted average long-term return on plan assets assumption of 8.13% is within a reasonable range, and determined that our weighted average long-term return on plan assets assumption in 2014 would remain at 8.13%, consistent with our 2013 assumption.  
+
+We recorded net actuarial losses of $560 million in the year ended December 31, 2014 primarily due to the decrease in our weighted average discount rate and change in mortality rate assumptions, as noted above, which is reflected in accumulated other comprehensive loss. Actuarial gains and losses in a period represent the difference between actual and actuarially assumed experience, primarily due to discount rates and pension plan asset returns. Actuarial gains and losses that our pension plans experience are not recognized in pension expense in the year incurred, but rather are recorded as a component of accumulated other comprehensive income (loss). The accumulated gains and losses in excess of a corridor, defined as the greater of 10% of the fair value of a plans assets and 10% of its projected benefit obligation, are generally amortized to pension expense in future periods over the estimated average remaining service periods of the covered employees. See Note 20 to our audited consolidated financial statements for additional information regarding our pension plans.  
+
+Our pension expense for 2014 was $80 million. We currently expect pension expense for 2015 to increase $58 million to approximately $138 million primarily due to the decrease in our weighted average discount rate and change in mortality rate assumptions as noted above.  
+
+Our pension expense for 2015 may be different from our current expectations when finalized due to a number of factors, including the effect of any future business acquisitions and divestitures for which we assume liabilities for pension benefits, changes in headcount at our businesses that sponsor pension plans, actual pension plan contributions and changes (if any) to our pension assumptions for 2015, including the discount rate, mortality rates, expected long-term return on plan assets and salary increases.  
+
+Our contributions for 2014 were $97 million and we currently expect to contribute between approximately $100 million and $132 million to our pension plans in 2015. Actual 2015 pension contributions could be affected by changes in the funded status of our pension plans during 2014. A substantial portion of our pension plan contributions for L-3s businesses that are U.S. Government contractors are recoverable as allowable indirect contract costs at amounts generally equal to the annual pension contributions.  
+
+Our projected benefit obligation and annual pension expense are significantly affected by, holding all other assumptions constant, certain actuarial assumptions. The following table illustrates the sensitivity of a change in certain assumptions for our pension plans and resulting increase (decrease) to the 2015 expected pension expense and PBO at December 31, 2014.  
+
+  [DATA_TABLE_REMOVED] 
+
+58  
+
+Table of Contents 
+
+Statement of Cash Flows  
+
+The table below provides a summary of our cash flows from (used in) operating, investing, and financing activities for the periods indicated.  
+
+  [DATA_TABLE_REMOVED] 
+
+Operating Activities  Continuing Operations  
+
+2014 Compared with 2013. We generated $1,125 million of cash from operating activities during the year ended December 31, 2014, a decrease of $138 million compared with $1,263 million generated during the year ended December 31, 2013. The decrease was due to $83 million of lower income from continuing operations and $85 million of more cash used for changes in operating assets and liabilities primarily due to uses of cash for trade accounts payable. This decrease was partially offset by an increase of $30 million, primarily for higher non-cash expenses due to deferred income taxes, consistent with lower payments for income taxes in 2014 compared to 2013. The net cash from changes in operating assets and liabilities is further discussed above under Liquidity and Capital Resources  Balance Sheet.  
+
+2013 Compared with 2012. We generated $1,263 million of cash from operating activities during the year ended December 31, 2013, an increase of $32 million compared with $1,231 million generated during the year ended December 31, 2012. The increase was due to $110 million of less cash used for changes in operating assets and liabilities primarily due to lower income tax payments and pension plan contributions. This increase was partially offset by a decrease of $76 million, primarily for lower non-cash expenses due to deferred income taxes, and lower income from continuing operations of $2 million. Deferred income taxes were lower during the year ended December 31, 2013 primarily due to a decline in pension contributions and the related impact on income taxes.  
+
+Interest Payments. Our cash from operating activities included interest payments on debt of $176 million for the year ended December 31, 2014, $171 million for the year ended December 31, 2013, and $198 million for the year ended December 31, 2012. Our interest expense also included amortization of deferred debt issuance costs and bond discounts, which are non-cash items.  
+
+Investing Activities  Continuing Operations  
+
+During 2014, we used $229 million of cash primarily to: (1) acquire a business discussed under Business Acquisitions Divestitures and (2) pay $183 million for capital expenditures. These cash outflows were partially offset by proceeds of $6 million from sales of businesses.  
+
+During 2013, we used $261 million of cash primarily to: (1) acquire a business discussed under Business Acquisitions and Divestitures and (2) pay $209 million for capital expenditures. These cash outflows were partially offset by proceeds of $12 million from dispositions of property, plant and equipment.  
+
+During 2012, we used $200 million of cash primarily to: (1) acquire three businesses discussed under Business Acquisitions and Divestitures and (2) pay $210 million for capital expenditures. These cash outflows were partially offset by $335 million of cash received from the spin-off of Engility and $20 million of cash received from the dissolution of an unconsolidated joint venture.  
+
+Financing Activities  Continuing Operations  
+
+Debt  
+
+At December 31, 2014, total outstanding debt was $3,939 million, all of which was senior debt compared to $3,630 million at December 31, 2013, of which $2,941 million was senior debt and $689 million was CODES.  
+
+59  
+
+Table of Contents 
+
+ There were no borrowings outstanding under our Credit Facility at December 31, 2014. At December 31, 2014, we had the full availability of our $1 billion Credit Facility for future borrowings. We also had $615 million of outstanding standby letters of credit at December 31, 2014, that may be drawn upon in the event that we do not perform on certain of our contractual requirements. At December 31, 2014, our outstanding debt matures between November 15, 2016 and May 28, 2024. See Note 10 to our audited consolidated financial statements for the components of our debt at December 31, 2014.  
+
+Debt Issuances  
+
+The terms of each of the outstanding Senior Notes issued by L-3 Communications during the year ended December 31, 2014 are presented in the table below. There were no debt issuances during the years ended December 31, 2013 and 2012. See Note 10 to our audited consolidated financial statements for additional information on the redemption provisions of our outstanding Senior Notes.  
+
+  [DATA_TABLE_REMOVED] 
+
+Debt Repayments  
+
+On May 13, 2014, L-3 Holdings called for the full redemption of all of its outstanding CODES effective on June 2, 2014 (the Redemption Date). The redemption price for the CODES was $1,000 per $1,000 principal amount of the CODES, plus accrued and unpaid interest to, but excluding, the Redemption Date. Holders of the CODES were entitled to convert all or a portion thereof (in integral multiples of $1,000) at any time prior to the close of business on the business day immediately preceding the Redemption Date. The conversion value of CODES of $935 million was calculated in accordance with the indenture governing the CODES. L-3 Holdings settled the entire conversion value with respect to converted CODES in cash. As of June 20, 2014, the CODES have been retired. As a result of the conversion, we recorded a reduction to shareholders equity of $161 million, related to the excess conversion value over the fair value of the debt component of the CODES, net of deferred tax liability.  
+
+In connection with the spin-off, Engility made a cash distribution of $335 million to L-3. L-3 Communications used a portion of the proceeds to redeem $250 million of the 6  3⁄8% 2015 Notes on July 26, 2012. Also, on October 15, 2012, L-3 Communications redeemed the remaining outstanding $250 million of its 6  3⁄8% 2015 Notes. Information on the Senior Subordinated Notes we redeemed during the year ended December 31, 2012 is presented in the table below.  
+
+  [DATA_TABLE_REMOVED] 
+
+Debt Covenants and Other Provisions. The Credit Facility and Senior Notes contain financial and/or other restrictive covenants. See Note 10 to our audited consolidated financial statements for a description of our debt and related financial covenants, including cross default provisions. We were in compliance with our financial and other restrictive covenants at December 31, 2014 and 2013.  
+
+Guarantees. The borrowings under the Credit Facility are fully and unconditionally guaranteed by L-3 Holdings and by substantially all of the material 100% owned domestic subsidiaries of L-3 Communications on an unsecured senior basis. The payment of principal and premium, if any, and interest on the Senior Notes is fully and unconditionally guaranteed, on an unsecured senior basis, jointly and severally, by L-3 Communications material wholly-owned domestic subsidiaries that guarantee any of its other indebtedness.  
+
+Subordination. The guarantees of the Credit Facility and the Senior Notes rank pari passu with each other.  
+
+60  
+
+Table of Contents 
+
+Equity  
+
+During 2014 and 2013, L-3 Holdings Board of Directors authorized the following quarterly cash dividends:  
+
+  [DATA_TABLE_REMOVED] 
+
+L-3 Holdings repurchased $823 million, or 6.9 million shares, of its common stock during the year ended December 31, 2014 compared to $800 million, or 8.7 million shares, of its common stock during the year ended December 31, 2013.  
+
+L-3 Holdings announced, on February 10, 2015, that its Board of Directors had increased L-3 Holdings regular quarterly cash dividend by 8% to $0.65 per share, payable on March 16, 2015, to shareholders of record at the close of business on March 2, 2015.  
+
+The number of holders of L-3 Holdings common stock, on February 18, 2015, was approximately 28,673. On February 20, 2015, the closing price of L-3 Holdings common stock, as reported by the NYSE, was $132.87 per share.  
+
+Contractual Obligations  
+
+The table below presents our estimated total contractual obligations from our continuing operations at December 31, 2014, including the amounts expected to be paid or settled for each of the periods indicated below.  
+
+  [DATA_TABLE_REMOVED] 
+
+   (1)   Represents principal amount of long-term debt and only includes scheduled principal payments.  
+
+   (2)   Represents expected interest payments on L-3s long-term debt balance as of December 31, 2014 using the stated interest rate on our fixed rate debt, assuming that current borrowings remain outstanding to the contractual maturity date.  
+
+   (3)   Non-cancelable operating leases are presented net of estimated sublease rental income.  
+
+   (4)   Includes the residual value guarantee for two real estate lease agreements, expiring on August 31, 2015, that are accounted for as operating leases. We have the right to exercise options under the lease agreements to renew the leases, to purchase both properties for $28 million or sell both properties on behalf of the lessor. If we elect to sell the properties, we must pay the lessor a residual value guarantee of $23 million. See Note 19 to our audited consolidated financial statements for a further description of these leases.  
+
+61  
+
+Table of Contents 
+
+   (5)   Represents open purchase orders at December 31, 2014 for amounts expected to be paid for goods or services that are legally binding.  
+
+   (6)   Other long-term liabilities primarily consist of workers compensation and deferred compensation for the years ending December 31, 2016 and thereafter and also include pension and postretirement benefit plan contributions that we expect to pay in 2015.  
+
+   (7)   Our pension and postretirement benefit plan funding policy is generally to contribute in accordance with cost accounting standards that affect government contractors, subject to the Internal Revenue Code and regulations thereon. For 2015, we expect to contribute between $100 million and $132 million to our pension plans and approximately $10 million to our postretirement benefit plans. Due to the current uncertainty of the amounts used to compute our expected pension and postretirement benefit plan funding, we believe it is not practicable to reasonably estimate such future funding for periods in excess of one year and we may decide or be required to contribute more than we expect to our pension and postretirement benefit plans.  
+
+   (8)   Excludes all income tax obligations, a portion of which represents unrecognized tax benefits in connection with uncertain tax positions taken, or expected to be taken on our income tax returns as of December 31, 2014 since we cannot determine the time period of future tax consequences. For additional information regarding income taxes, see Note 17 to our audited consolidated financial statements.  
+
+Off Balance Sheet Arrangements  
+
+The table below presents our estimated total contingent commitments and other guarantees at December 31, 2014, including the amounts expected to be paid or settled for each of the periods indicated below.  
+
+  [DATA_TABLE_REMOVED] 
+
+   (1)   Represents outstanding letters of credit with financial institutions covering performance and financial guarantees per contractual requirements with certain customers. These letters of credit may be drawn upon in the event of L-3s nonperformance.  
+
+   (2)   Represents the minimum guarantees made by L-3 or the lessee under the purchase option for certain operating leases in which the lease renewal is not exercised (see Note 19 to our audited consolidated financial statements for a description of these guarantees).  
+
+   (3)   Represents potential additional contingent purchase payments for business acquisitions that are contingent upon the post-acquisition financial performance or certain other performance conditions of the acquired businesses in accordance with the contractual purchase agreement.  
+
+   (4)   The total amount does not include residual value guarantees for two real estate lease agreements, expiring on August 31, 2015, that are accounted for as operating leases. We have the right to exercise options under the lease agreements to purchase both properties for $28 million on or before August 31, 2015. See Note 19 to our audited consolidated financial statements for a further description of these leases.  
+
+Legal Proceedings and Contingencies  
+
+We are engaged in providing products and services under contracts with the U.S. Government and, to a lesser degree, under foreign government contracts, some of which are funded by the U.S. Government. All such contracts are subject to extensive legal and regulatory requirements, and, periodically, agencies of the U.S. Government investigate whether such contracts were and are being conducted in accordance with these requirements. Under U.S. Government procurement regulations, an indictment by a federal grand jury, or an administrative finding against us as to our present responsibility to be a U.S. Government contractor or subcontractor, could result in the suspension for a period of time from eligibility for awards of new government contracts or task orders or in a loss of export privileges. A conviction, or an administrative finding that satisfies the requisite level of seriousness, could result in debarment from contracting with the federal government for a specified term. We are currently cooperating with the U.S. Government on several investigations, none of which we anticipate will have a material adverse effect on our consolidated financial position, results of operations or cash flows. Also, we have been periodically subject to litigation, government investigations, proceedings, claims or assessments and various contingent liabilities incidental to our business. We accrue for these contingencies  
+
+62  
+
+Table of Contents 
+
+ when it is probable that a liability has been incurred and the amount of the loss can be reasonably estimated. For a description of our legal proceedings and contingencies, see Note 19 to our audited consolidated financial statements.  
+
+We continually assess our obligations with respect to applicable environmental protection laws. While it is difficult to determine the timing and ultimate cost that we will incur to comply with these laws, based upon available internal and external assessments, with respect to those environmental loss contingencies of which we are aware, we believe that even without considering potential insurance recoveries, if any, there are no environmental loss contingencies that, in the aggregate, would be material to our consolidated financial position, results of operations or cash flows.  
+
+Derivative Financial Instruments and Other Market Risk  
+
+Included in our derivative financial instruments are foreign currency forward contracts. All of our derivative financial instruments that are sensitive to market risk are entered into for purposes other than trading.  
+
+Interest Rate Risk. Our Credit Facility is subject to variable interest and is therefore sensitive to changes in interest rates. The interest rates on the Senior Notes are fixed-rate and are not affected by changes in interest rates. Additional data on our debt obligations and our applicable borrowing spreads included in the interest rates we would pay on borrowings under the Credit Facility, if any, are provided in Note 10 to our audited consolidated financial statements.  
+
+Foreign Currency Exchange Risk. Our U.S. and foreign businesses enter into contracts with customers, subcontractors or vendors that are denominated in currencies other than their functional currencies. To protect the functional currency equivalent cash flows associated with certain of these contracts, we enter into foreign currency forward contracts, which are generally designated and accounted for as cash flow hedges. At December 31, 2014, our foreign currency forward contracts had maturities ranging through 2018, a notional value of $280 million and a corresponding net fair value that was a liability of $6 million.  
+
+Accounting Standards Issued and Not Yet Implemented  
+
+For a discussion of accounting standards issued and not yet implemented, see Note 2 to our audited consolidated financial statements.  
+
+Inflation  
+
+The effect of inflation on our sales and earnings has not been significant. Although a majority of our sales are made under long-term contracts (revenue arrangements), the selling prices of such contracts, established for deliveries in the future, generally reflect estimated costs to be incurred in these future periods. In addition, some of our contracts provide for price adjustments through cost escalation clauses.  
+
+Forward-Looking Statements  
+
+Certain of the matters discussed concerning our operations, cash flows, financial position, economic performance and financial condition, including in particular, the likelihood of our success in developing and expanding our business and the realization of sales from backlog, include forward-looking statements within the meaning of Section 27A of the Securities Act and Section 21E of the Exchange Act.  
+
+All statements other than historical facts may be forward-looking statements, such as may, will, should, likely, projects, expects, anticipates, intends, plans, believes, estimates, and similar expressions are used to identify forward-looking statements. We caution investors that these statements are subject to risks and uncertainties many of which are difficult to predict and generally beyond our control that could cause actual results to differ materially from those expressed in, or implied or projected by, the forward-looking information and statements. Some of the factors that could cause actual results to differ include, but are not limited to, the following: our dependence on the defense industry; backlog processing and program slips resulting from delayed awards and/or funding from the DoD and other major customers; the U.S. Government fiscal situation; changes  
+
+63  
+
+Table of Contents 
+
+ in DoD budget levels and spending priorities; U.S. Government failure to raise the debt ceiling; our reliance on contracts with a limited number of customers and the possibility of termination of government contracts by unilateral government action or for failure to perform; the extensive legal and regulatory requirements surrounding many of our contracts; our ability to retain our existing business and related contracts; our ability to successfully compete for and win new business; or, identify, acquire and integrate additional businesses; our ability to maintain and improve our operating margin; the availability of government funding and changes in customer requirements for our products and services; our significant amount of debt and the restrictions contained in our debt agreements; our ability to continue to recruit, retain and train our employees; actual future interest rates, volatility and other assumptions used in the determination of pension benefits and equity based compensation, as well as the market performance of benefit plan assets; our collective bargaining agreements, our ability to successfully negotiate contracts with labor unions and our ability to favorably resolve labor disputes should they arise; the business, economic and political conditions in the markets in which we operate; global economic uncertainty; the DoDs Better Buying Power and other efficiency initiatives; events beyond our control such as acts of terrorism; our ability to perform contracts on schedule; our international operations; our extensive use of fixed-price type revenue arrangements; the rapid change of technology and high level of competition in which our businesses participate; risks relating to technology and data security; our introduction of new products into commercial markets or our investments in civil and commercial products or companies; the outcome of litigation matters; results of audits by U.S. Government agencies and of on-going governmental investigations, including the internal review of the Aerospace Systems segment; the impact on our business of improper conduct by our employees, agents or business partners; ultimate resolution of contingent matters, claims and investigations relating to acquired businesses, and the impact on the final purchase price allocations; and the fair values of our assets.  
+
+In addition, for a discussion of other risks and uncertainties that could impair our results of operations or financial condition, see Part I  Item 1A  Risk Factors and Note 19 to our audited consolidated financial statements, in each case included in this Annual Report on Form 10-K for the year ended December 31, 2014 and any material updates to these factors contained in any of our future filings.  
+
+Readers of this document are cautioned that our forward-looking statements are not guarantees of future performance and the actual results or developments may differ materially from the expectations expressed in the forward-looking statements.  
+
+As for the forward-looking statements that relate to future financial results and other projections, actual results will be different due to the inherent uncertainties of estimates, forecasts and projections and may be better or worse than projected and such differences could be material. Given these uncertainties, you should not place any reliance on these forward-looking statements. These forward-looking statements also represent our estimates and assumptions only as of the date that they were made. We expressly disclaim a duty to provide updates to these forward-looking statements, and the estimates and assumptions associated with them, after the date of this filing, to reflect events or changes in circumstances or changes in expectations or the occurrence of anticipated events.  
+
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk

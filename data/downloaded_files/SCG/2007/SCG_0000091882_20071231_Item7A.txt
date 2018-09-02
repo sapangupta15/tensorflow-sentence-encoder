@@ -1,0 +1,37 @@
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+All financial instruments held by the Company described below are held for purposes other than trading. 
+
+Interest Rate Risk 
+
+The tables below provides information about long-term debt issued by the Company and other financial instruments that are sensitive to changes in interest rates. For debt obligations, the tables present principal cash flows and related weighted average interest rates by expected maturity dates. For interest rate swaps, the figures shown reflect notional amounts, weighted average interest rates and related maturities. Fair values for debt and swaps represent quoted market prices. 
+
+ [DATA_TABLE_REMOVED]  
+
+ [DATA_TABLE_REMOVED]  
+
+While a decrease in interest rates would increase the fair value of debt, it is unlikely that events which would result in a realized loss will occur. 
+
+The above tables exclude long-term debt of $72 million at December 31, 2007 and $80 million at December 31, 2006, which amounts do not have a stated interest rate associated with them. 
+
+In June 2007 SCANA entered into an agreement to issue and sell Floating Rate Senior Notes due June 1, 2034, in an aggregate principal amount of between $90 million and $110 million. The notes are to be issued at intervals between December 2007 and June 2009. In December 2007 SCANA issued $40 million of the Floating Rate Senior Notes. At December 31, 2007 the estimated fair value of the Company’s forward starting interest rate swap related to $40 million of the Floating Rate Senior Notes is depicted in the table above. 
+
+In the fourth quarter 2007 SCE&G entered into several 30-year forward starting swap agreements in anticipation of its proposed issuance of $250 million in debt no later than February 29, 2008. At December 31, 2007 the estimated fair value of SCE&G’s forward starting interest rate swaps related to this expected debt issuance totaled $6.3 million (loss). On January 14, 2008 SCE&G issued $250 million of its First Mortgage Bonds having an annual interest rate of 6.05% and maturing on January 15, 2038. SCE&G terminated the forward starting interest rate swaps concurrent with the issuance of the debt. This debt and related swaps are not reflected in the table above.
+
+Table of Contents  
+
+Commodity Price Risk 
+
+The following tables provide information about the Company’s financial instruments that are sensitive to changes in natural gas prices. Weighted average settlement prices are per 10,000 DT. Fair value represents quoted market prices. 
+
+ [DATA_TABLE_REMOVED]  
+
+ [DATA_TABLE_REMOVED]  
+
+The Company uses derivative instruments to hedge forward purchases and sales of natural gas, which create market risks of different types. See Note 9 to the consolidated financial statements. 
+
+The NYMEX futures information above includes those financial positions of Energy Marketing, SCE&G and PSNC Energy. SCE&G’s tariffs include a purchased gas adjustment (PGA) clause that provides for the recovery of actual gas costs incurred. The SCPSC has ruled that the results of these hedging activities are to be included in the PGA. As such, costs of related derivatives utilized by SCE&G to hedge gas purchasing activities are recoverable through the weighted average cost of gas calculation. The offset to the change in fair value of these derivatives is recorded as a regulatory asset or liability. PSNC Energy utilizes futures, options and swaps to hedge gas purchasing activities. PSNC Energy’s tariffs also include a provision for the recovery of actual gas costs incurred. PSNC Energy records premiums, transaction fees, margin requirements and any realized and unrealized gains or losses from its hedging program in deferred accounts as a regulatory asset or liability for the over or under- recovery of gas costs.
+
+Table of Contents  
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

@@ -1,0 +1,33 @@
+Item 7A.QUANTITATIVE AND QUALITATIVE DISCLOSURE ABOUT MARKET RISK (in millions)
+
+Market risk is the potential loss arising from adverse changes in market rates and prices, such as foreign currency exchange rates, interest rates and other relevant market rate or price changes. In the ordinary course of business, the Company is exposed to various market risks, including changes in foreign currency exchange and interest rates, and the Company regularly evaluates the exposure to such changes. The Company addresses its exposure to market risks, principally the market risks associated with changes in foreign currency exchange rates and interest rates, through a controlled program of risk management that includes, from time to time, the use of derivative financial instruments such as foreign currency forward contracts and interest rate swap agreements. Although, as set forth below, the Company’s zero-coupon subordinated notes contain features that are considered to be embedded derivative instruments, the Company does not hold or issue derivative financial instruments for trading purposes. 
+
+Foreign Currency Exchange Rates
+
+Approximately 10.3% of the Company's net revenues for the year ended December 31, 2016 and approximately 11.0% of those for the year ended 2015 were denominated in currencies other than the U.S. Dollar. The Company's financial statements are reported in U.S. Dollars and, accordingly, fluctuations in exchange rates will affect the translation of revenues and expenses denominated in foreign currencies into U.S. Dollars for purposes of reporting the Company's consolidated financial results. In both 2016 and 2015, the most significant currency exchange rate exposures were to the Canadian Dollar, Swiss Franc, Euro and British Pound. Excluding the impacts from any outstanding or future hedging transactions, a hypothetical change of 10% in average exchange rates used to translate all foreign currencies to U.S. Dollars would have impacted income before income taxes for 2016 by approximately $6.1. Gross accumulated currency translation adjustments recorded as a separate component of shareholders’ equity were $(250.0) and $(370.7) at December 31, 2016 and 2015, respectively. The Company does not have significant operations in countries in which the economy is considered to be highly inflationary.
+
+The Company earns revenue from service contracts over a period of several months and, in some cases, over a period of several years. Accordingly, exchange rate fluctuations during this period may affect the Company's profitability with respect to such contracts. The Company is also subject to foreign currency transaction risk for fluctuations in exchange rates during the period of time between the consummation and cash settlement of transactions. The Company limits its foreign currency transaction risk through exchange rate fluctuation provisions stated in some of its contracts with customers, or it may hedge transaction risk with foreign currency forward contracts. At December 31, 2016, the Company had five open foreign exchange forward contracts relating to service contracts with various amounts maturing monthly through January 2017 with a notional value totaling approximately 
+
+ 63
+
+Index
+
+$167.9 million. At December 31, 2015, the Company had four open foreign exchange forward contracts relating to service contracts with various amounts maturing monthly through January 2016 with a notional value totaling approximately $93.1 million.
+
+Interest Rates
+
+Some of the Company's debt is subject to interest at variable rates. As a result, fluctuations in interest rates affect the Company's financial results. The Company attempts to manage interest rate risk and overall borrowing costs through an appropriate mix of fixed and variable rate debt including the utilization of derivative financial instruments, primarily interest rate swaps. 
+
+Borrowings under the Company's term loan credit facility and revolving credit facility are subject to variable interest rates, unless fixed through interest rate swaps or other agreements. As of December 31, 2016 and 2015, the Company had approximately $565.0 and $715.0 of unhedged variable rate debt under the term loan credit facility.
+
+During the third quarter of 2013, the Company entered into two fixed-to-variable interest rate swap agreements for its 4.625% Senior Notes due 2020 with an aggregate notional amount of $600.0 and variable interest rates based on one-month LIBOR plus 2.298% to hedge against changes in the fair value of a portion of the Company's long-term debt. 
+
+The Company’s zero-coupon subordinated notes contain the following two features that are considered to be embedded derivative instruments under authoritative guidance in connection with accounting for derivative instruments and hedging activities:
+
+1)The Company will pay contingent cash interest on the zero-coupon subordinated notes after September 11, 2006, if the average market price of the notes equals 120% or more of the sum of the issue price, accrued original issue discount and contingent additional principal, if any, for a specified measurement period.
+
+2)Holders may surrender zero-coupon subordinated notes for conversion during any period in which the rating assigned to the zero-coupon subordinated notes by S&P Ratings Services is BB- or lower.
+
+Each quarter-point increase or decrease in the variable rate would result in the Company's interest expense changing by approximately $1.4 per year for the Company's unhedged variable rate debt. 
+
+Item 8.FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

@@ -1,0 +1,61 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk  
+
+Cash, Cash Equivalents, Marketable Securities and Interest Income Risk  
+
+Our bank deposits and money market investments are generally held with a number of large, diverse financial institutions worldwide which we believe mitigates certain risks. In addition, we purchase high quality debt security investments, substantially all with relatively short maturities (see a description of our debt securities held in Notes 3 and 4 of Notes to Consolidated Financial Statements and Liquidity and Capital Resources above). Therefore, interest rate movements generally do not materially affect the valuation of our debt security investments. Substantially all of our marketable securities are designated as available-for-sale.  
+
+Changes in the overall level of interest rates affect the interest income that is generated from our cash, cash equivalents and marketable securities. For fiscal 2010, total interest income was $122 million with our investments yielding an average 0.59% on a worldwide basis. This interest rate level was down by 164 basis points from 2.23% for fiscal 2009. If overall interest rates fell by 50 basis points from our average of 0.59%  
+
+74  
+
+Table of Contents 
+
+ during fiscal 2010, our annual interest income would decline by approximately $97 million, assuming consistent investment levels. The table below presents the cash, cash equivalent and marketable securities balances and the related weighted average interest rates for our investment portfolio at May 31, 2010. The cash, cash equivalent and marketable securities balances are recorded at their fair values at May 31, 2010.  
+
+  [DATA_TABLE_REMOVED] 
+
+Interest Expense Risk  
+
+Our total borrowings were $14.7 billion as of May 31, 2010, all of which were fixed rate borrowings. In September 2009, we entered into certain fixed to variable interest rate swap agreements to manage the interest rate and related debt fair value exposures associated with our $1.5 billion of senior notes due July 2014 (2014 Notes) so that the interest payable on the 2014 Notes effectively became variable based on LIBOR. We do not use interest rate swap arrangements for trading purposes. We have designated these swap agreements as qualifying instruments and are accounting for them as fair value hedges pursuant to the FASBs accounting standard for derivatives and hedging. These transactions are characterized as fair value hedges for financial accounting purposes because they protect us against changes in the fair values of our 2014 Notes due to interest rate movements. The changes in fair values of these interest rate swap agreements will be recognized as interest expense in our consolidated statements of operations with the corresponding amounts included in other assets or other non-current liabilities in our consolidated balance sheets. The amount of net gain (loss) attributable to the risk being hedged is recognized as interest expense in our consolidated statements of operations with the corresponding amount included in notes payable and other non-current borrowings. The periodic interest settlements, which occur at the same intervals as the 2014 Notes, are recorded as interest expense.  
+
+By entering into these interest rate swap arrangements, we have assumed risks associated with variable interest rates based upon LIBOR. Our 2014 Notes had an effective interest rate of 1.44% as of May 31, 2010, after considering the effects of the aforementioned interest rate swap arrangements. Changes in the overall level of interest rates affect the interest expense that we recognize in our statements of operations. An interest rate risk sensitivity analysis is used to measure interest rate risk by computing estimated changes in cash flows as a result of assumed changes in market interest rates. As of May 31, 2010, if LIBOR-based interest rates increased by 100 basis points, the change would increase our interest expense annually by approximately $15 million as it relates to our fixed to variable interest rate swap agreements.  
+
+In May 2010, we repaid $1.0 billion of floating rate senior notes and settled the variable to fixed interest rate swap agreement that was used to manage the economic effect of variable interest obligations associated with such floating rate senior notes.  
+
+Foreign Currency Risk  
+
+Foreign Currency Transaction Risk  
+
+We transact business in various foreign currencies and are subject to risks associated with the effects of certain foreign currency exposures. We have a program that primarily utilizes foreign currency forward contracts to offset these risks. Our program may be suspended from time to time. This program was active for the majority of fiscal 2010 and was suspended during our fourth quarter of fiscal 2010. When the program is active, we enter into foreign currency forward contracts so that increases or decreases in our foreign currency exposures are offset by gains or losses on the foreign currency forward contracts in order to mitigate the risks and volatility associated with our foreign currency transactions. Our foreign currency exposures typically arise from intercompany sublicense fees and other intercompany transactions that are expected to be cash settled in the near term. Although we have suspended our historical foreign currency forward contract program as of May 31, 2010, our subsidiaries continue to enter into cross-currency transactions and create cross-currency exposures via intercompany arrangements and we expect that these transactions and exposures will continue. Our ultimate  
+
+75  
+
+Table of Contents 
+
+ realized gain or loss with respect to currency fluctuations will generally depend on the size and type of cross-currency transactions that we enter into, the currency exchange rates associated with these exposures and changes in those rates, whether we have entered into foreign currency forward contracts to offset these exposures and other factors. 
+
+Historically, we have not used foreign currency forward contracts for trading purposes and have not designated these forward contracts as hedging instruments pursuant to ASC 815. Accordingly, we have recorded the fair value of these historical contracts as of the end of our reporting period to our consolidated balance sheet with changes in fair value recorded to non-operating income (expense), net in our consolidated statement of operations. As of May 31, 2010, we estimate that certain of our U.S. Dollar and Euro functional subsidiaries have the equivalent of approximately $2.0 billion and approximately 410 million (approximately $500 million) of net intercompany receivables whereby the amounts to be received by these subsidiaries are in currencies other than U.S. Dollars or Euros, respectively, and are therefore subject to remeasurement as of each balance sheet date. As of May 31, 2010, we have no financial instruments in place to mitigate the risks associated with these foreign currency exposures. If overall foreign currency exchange rates weaken (strengthen) against both the U.S. Dollar and Euro by 10%, we estimate that we would incur approximately $250 million of remeasurement losses (gains) in connection with these intercompany balances assuming the balances remained constant with those as of May 31, 2010. Net foreign exchange transaction (losses) gains included in non-operating income (expense), net in the accompanying consolidated statements of operations were $(149) million, $(65) million and $17 million in fiscal 2010, 2009 and 2008, respectively. Included in the net foreign exchange transaction losses for fiscal 2010 were foreign currency losses relating to our Venezuelan subsidiarys operations, which are more thoroughly described under Non-Operating Income (Expense), net in Managements Discussion and Analysis of Financial Condition and Results of Operations above. As a large portion of our consolidated operations are international, we could experience additional foreign currency volatility in the future, the amounts and timing of which may vary.  
+
+Foreign Currency Translation Risk  
+
+Fluctuations in foreign currencies impact the amount of total assets and liabilities that we report for our foreign subsidiaries upon the translation of these amounts into U.S. Dollars. In particular, the amount of cash, cash equivalents and marketable securities that we report in U.S. Dollars for a significant portion of the cash held by these subsidiaries is subject to translation variance caused by changes in foreign currency exchange rates as of the end of each respective reporting period (the offset to which is recorded to accumulated other comprehensive income on our consolidated balance sheet). Periodically, we hedge net assets of certain international subsidiaries from foreign currency exposure and provide a discussion in Foreign Currency Net Investment Risk below.  
+
+As the U.S. Dollar fluctuated against certain international currencies as of the end of fiscal 2010, the amount of cash, cash equivalents and marketable securities that we reported in U.S. Dollars for these subsidiaries as of May 31, 2010 declined relative to what we would have reported using a constant currency rate as of May 31, 2009. As reported in our consolidated statements of cash flows, the estimated effect of exchange rate changes on our reported cash and cash equivalents balances in U.S. Dollars for fiscal 2010, 2009 and 2008 was a (decrease) increase of $(107) million, $(501) million, and $437 million, respectively. The following table includes the U.S. Dollar equivalent of cash, cash equivalents and marketable securities denominated in certain major foreign currencies as of May 31, 2010:  
+
+  [DATA_TABLE_REMOVED] 
+
+76  
+
+Table of Contents 
+
+If overall foreign currency exchange rates in comparison to the U.S. Dollar weakened by 10%, the amount of cash, cash equivalents and marketable securities we would report in U.S. Dollars would increase by approximately $695 million, assuming constant foreign currency cash, cash equivalent and marketable securities balances.  
+
+Foreign Currency Net Investment Risk  
+
+Periodically, we hedge net assets of certain of our international subsidiaries using foreign currency forward contracts to offset the translation and economic exposures related to our foreign currency-based investments in these subsidiaries. These contracts have been designated as net investment hedges pursuant to ASC 815. We entered into these net investment hedges for all of fiscal 2009 and the majority of fiscal 2010. We suspended this program during our fourth quarter of fiscal 2010 and, as of May 31, 2010, we have no contracts outstanding.  
+
+We used the spot method to measure the effectiveness of our net investment hedges. Under this method for each reporting period, the change in fair value of the forward contracts attributable to the changes in spot exchange rates (the effective portion) was reported in accumulated other comprehensive income on our consolidated balance sheet and the remaining change in fair value of the forward contract (the ineffective portion, if any) was recognized in non-operating income (expense), net, in our consolidated statement of operations. We recorded settlements under these forward contracts in a similar manner. The fair values of both the effective and ineffective portions were recorded to our consolidated balance sheet as prepaid expenses and other current assets for amounts receivable from the counterparties or other current liabilities for amounts payable to the counterparties.  
+
+Net gains (losses) on our net investment hedges reported in stockholders equity, net of tax effects, were $(131) million, $(41) million and $(53) million in fiscal 2010, 2009 and 2008, respectively. Net gains on our net investment hedges reported in non-operating income (expense), net were $1 million, $10 million and $23 million in fiscal 2010, 2009 and 2008, respectively.  
+
+Item 8. Financial Statements and Supplementary Data

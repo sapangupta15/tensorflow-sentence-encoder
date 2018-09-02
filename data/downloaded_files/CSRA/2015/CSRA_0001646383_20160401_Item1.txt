@@ -1,0 +1,345 @@
+PART I
+
+Item 1. Business 
+
+Overview
+
+CSRA is a leading pure-play provider of information technology (“IT”) services to the U.S. federal government. We deliver tailored, innovative and efficient offerings to our customers; long-term value to our investors; scale to our strategic partners; and targeted skills development and career opportunities to our employees. As of April 1, 2016, we have over 18,000 employees and were executing on more than 1,000 projects in connection with over 100 contracts. 
+
+We work with our customers to understand their complex environments and are committed to supporting their missions. Our skilled personnel, expanding capabilities and competitive cost structure contribute to our track record of delivering high-quality solutions and services on schedule and within budget. We expect to return to revenue growth, sustain best-in-class margins by capturing the synergy benefits of our business combination with SRA, embrace a culture of efficiency to compete aggressively in our marketplace and deliver strong cash flow to the company.
+
+Our business operates through two balanced segments, Defense and Intelligence and Civil and services various U.S. federal, state and local agencies. We combine our technical expertise in applications and IT infrastructure solutions with our deep public sector mission knowledge and experience to differentiate ourselves and engage with our customers at the highest levels to lead change. A summary of our net revenue, earnings from operations and assets for our segments and total assets is further described in Note 21—Segment and Geographic Information to the audited Consolidated and Combined Financial Statements contained in Part II—Item 8 of this Annual Report on Form 10-K. Such information is incorporated herein by reference and made a part of this Form 10-K.
+
+We believe we are well positioned to lead our public sector customers into the digital future as they increasingly move to “as a service” delivery. In addition, we believe that the breadth of our contracts, our demonstrated expertise in IT, our strong partnerships with key providers across the federal government and our commercial heritage provide us with a competitive advantage. For instance, as part of our overall strategy, we go to market with vendor partners and comprehensive capabilities that are embedded in our Service Offerings and Alliance Program. In addition, we treat every expense as an investment to sustain a highly competitive cost structure while simultaneously adopting next generation IT for our own use and for delivery to our customers. Finally, we continue to take advantage of advances in IT to move work to low-cost centers. We expect that our Integrated Technology Center (“ITC”) in Bossier City, Louisiana will enable us to deliver cost-effective solutions and services by leveraging a low-cost labor market, economies of scale and strategic relationships with the State of Louisiana and its technology-focused academic institutions.
+
+We continue to compete in an industry that is highly regulated, controlled by the Federal Acquisition Regulation (“FAR”) and subject to contract audit oversight, which limits competition by our commercial partners to select vehicles. Nevertheless, the industry is highly competitive and favors participants with competitive cost structures. We believe we are well suited to compete across all spectrums of our industry, combining demonstrated expertise managing large and complex programs with the agility to pursue smaller orders on a diverse set of indefinite delivery, indefinite quantity (“IDIQ”) contracts. We believe this flexibility helps reduce our overall portfolio risk during changing market conditions.
+
+History and Development
+
+CSRA’s business has been focused on the public sector for more than 55 years, tracing back to the first government contract awarded in 1961 to our former parent, CSC. CSRA Inc., formerly known as Computer Sciences Government Services Inc., was incorporated in Nevada on June 16, 2015, in anticipation of the Spin-Off. On November 27, 2015, CSRA became an independent public company through consummation of the Spin-Off. On November 30, 2015, CSRA completed its combination with SRA and began trading on the New York Stock Exchange under the ticker symbol “CSRA.” CSRA operates as a fully integrated company via its primary operating subsidiaries, CSRA LLC and SRA International, Inc.
+
+Operating Model: Customers and Offering Solutions
+
+Our operating model combines customer and mission intimacy with the ability to adapt and apply our scalable and cost-effective offering solutions. This approach is focused on lowering implementation and operational costs while improving mission-critical effectiveness and efficiency through innovation.
+
+Long-Standing Relationships with Industry Customers
+
+Our extensive domain expertise and customer intimacy allow us to unlock the value of our technical solutions for our customers. We believe we have strong and long-standing relationships with a diverse group of customers at all levels of the U.S. federal government. In order to support our customers, we have focused industry teams that provide in-depth knowledge and extensive domain expertise to serve our customers through our two operating segments: (1) Defense and Intelligence and (2) Civil.
+
+Defense and Intelligence Segment
+
+The Department of Defense (“DoD”) is our largest customer in the Defense and Intelligence segment, to which we provide the full spectrum of our services and offerings. Our industry teams work closely with all services and agencies within the DoD to identify requirements for which we can provide our differentiated solutions.
+
+Through our work on the Army’s Logistics Modernization Program, we have helped modernize the Army’s global supply chain and streamlined military logistics and support with one of the world’s largest fully integrated supply chain solutions for maintenance, repair and overhaul planning and execution. We also manage and operate the largest helicopter training facility in the world through the Flight School XXI program at the U.S. Army Aviation Center in Fort Rucker, Alabama, where we employ cutting-edge flight simulators to provide helicopter flight training to the Army’s rotary wing aviators.
+
+We provide support for the Navy and Marine Corps worldwide through network and connectivity operations under the “ONE-Net” and “Information Technology Support Services” programs. In addition, we offer software development and sustainment for the Marine Corps’ pay and personnel organization. We are also the leading supplier of ship design and engineering services for the Naval Sea Systems Command, providing acquisition and engineering support for numerous Navy ship acquisition programs.
+
+We also provide the DoD global Joint Commands and Combatant Commands (“COCOMS”) with a full range of communications and IT support services. In addition, we supply the United States European Command (“USEUCOM”) and United States Africa Command (“USAFRICOM”) devices, hardware, software and network IT and communications operation, maintenance and life cycle support for command, control, communication and computer (“C4”) systems. We also develop software and manage complex logistics systems for the U.S. Transportation Command and Air Mobility Command (“USTRANSCOM”). Finally, we deliver network and cybersecurity support, as well as data center operations, applications modernization and help desk services to the U.S. Strategic Command (“USSTRATCOM”).
+
+We also provide support to the Intelligence Community’s “Information Technology Enterprise” strategy through seamless and secure solutions for its applications and data analytics. One of our key programs involves the outsourcing of the IT infrastructure of a U.S. Intelligence agency to a partnership led by our team. This contractor-owned and operated venture works to implement the next-generation best practices for infrastructure for advanced use in the U.S. federal government. Since the creation of this partnership in 2000, we have been able to reduce both network and server outages, while also reducing overall staffing needs, despite a significant increase in the number of network devices employed under the program. We are currently working to migrate users under this program to a virtual desktop infrastructure.
+
+Civil Segment
+
+Through our Civil segment, we provide services to numerous federal civil agencies including the Departments of Homeland Security (the “DHS”) and State, as well as to various U.S. federal, state and local health departments. We supply civil government agencies with mission information systems and associated technical support services.
+
+1
+
+For instance, we leverage systems integration disciplines for the Federal Aviation Administration’s (“FAA”) National Airspace System and have developed enhanced simulation software to help train the next generation of air traffic controllers. We have also designed, developed, tested and implemented a robust and scalable cloud-based application that allows the FAA to register small Unmanned Aerial Systems or drones, accept payment by credit card and print registration certificates for over 500,000 users.
+
+We provide IT infrastructure and systems integration services to agencies with missions including counterterrorism, protecting the environment, and assuring that financial markets run smoothly. CSRA is one of the leading IT infrastructure providers to the DHS, and our Data Center 1 (“DC1”) contract, which provides “as-a-service” capability to all the DHS components, was recently renewed by the DHS. As part of our extensive history of servicing the Environmental Protection Agency (“EPA”), we offer support services to various EPA initiatives, including our recent web development contract with the Office of Research and Development (“ORD”). We also support the Securities and Exchange Commission (“SEC”) by managing its enterprise IT infrastructure and operations. Further, we have also worked to bring next generation IT business models to our customers. For example, together with ServiceNow, we have worked to deliver IT service management using an “as-a-service consumption-based” model to the National Aeronautics and Space Administration (“NASA”). Through this as-a-service model, we provide administrative, financial, human resources and procurement services to NASA employees, applicants, contractors, and university partners.
+
+CSRA also maintains a global footprint in civilian agencies. We deliver visa processing services for the Department of State under the Global Support Strategy contract. This service is available around the globe at 78 posts in 48 countries, including through 24 off-site facilitation centers in Argentina, Brazil, Colombia and Mexico. We currently process an average of over five million applications per year, roughly half of the total U.S. visa application volume worldwide. Support for these services is facilitated by software which provides visa appointment booking services, fee collections, document management and delivery services, call center and online support, all through a mobile application. These services have been enhanced with our latest innovation created for Canada’s embassy and consulates that uses a tablet solution to automate applicant entry and documentation processes, improves tracking of applicant information, and reduces visa processing times.
+
+Finally, we also provide support for the National Institutes of Health’s (“NIH”) Cancer Genome Atlas (“TCGA”), which is the most detailed characterization of cancer ever attempted at the molecular level. We operate the Data Coordinating Center (“DCC”), which provides bioinformatics and development support to cancer researchers worldwide. To ensure integrity of the genomic data, our bioinformaticians work to create data standards used for receipt and distribution of the data. We have implemented data collection and analysis procedures to verify the accuracy and quality of high throughput incoming data and prepare it for rapid, public distribution in well-defined established public formats for sharing with the worldwide genomic community.
+
+Capabilities
+
+Within our vertically-oriented model, our technologists engage directly with our customers, which we believe enables us to understand and, in turn, meet our customers’ needs. In order to provide our customers with a high level of technical services, we have established a virtual matrix model across six Service Areas-Digital Services, Enterprise Business Services, Digital Platforms, Cyber, Data Science, and Professional and Citizen Services. Our Service Area leaders provide domain leadership in their specific areas of expertise, organize technical communities providing opportunities for mobility and career progression to our technologists, and oversee the creation and management of our key differentiated go-to-market capabilities. Increasingly, we deliver these technical capabilities through our ITC for managed services ranging from network operations through agile development services. CSRA runs a dedicated Integration Services team to build pilots, prototypes and initial deployments of new capabilities to support marketing and delivery needs. This team provides a bridge between the design concept and proving the concept works in a production setting.
+
+We connect our Service Area teams with our Alliance Program, which harnesses and proliferates innovative offerings throughout the company. Our Alliance Program focuses on building deep technical and marketing relationships with large vendors such as Amazon Web Services (“AWS”), ServiceNow, Microsoft, SAP and Oracle to co-create offerings and to team more effectively to address our shared pipeline. Our Alliance Program includes a special focus on innovative, “born on the cloud” companies that offer differentiated capabilities that enable our customers to achieve their mission objectives more effectively and at a lower cost point.
+
+2
+
+Digital Services
+
+Digital Services encompasses a broad range of solutions focused around the migration, transformation and modernization of application portfolios, including basic operations and maintenance support, migration to cloud-based platforms, consolidation, version upgrades and mobile enablement. Our Digital Services works together with our customers to provide application sustainment and to guide them through the modernization and development of critical IT systems. For instance, we have helped various U.S. federal, state and local government agencies modernize or transform their existing and aging applications (using both custom and commercial-off-the-shelf applications) and have mapped the transition of their systems and applications to mobile and cloud-based solutions. 
+
+In addition, we build custom applications that help the U.S. federal government provide services to its citizens, such as air safety for travelers and health coverage for the uninsured. We combine mature processes and relationships with key partners to deliver innovative applications built with leading edge and emerging technologies. Our application development services are powered by product offerings for faster time-to-mission, higher quality and cloud-independent applications. Some of these product offerings include: FutureEdge, a suite of application modernization tools; and CSRA AppWorks, a pre-configured agile application management platform. We believe that our extensive mission domain expertise enables us to help our public sector customers deliver services to the public more efficiently and effectively.
+
+Enterprise Business Services
+
+Enterprise Business Services provides proven methodologies and industry best practices to lead full lifecycle programs and deliver both on-premise and cloud-based enterprise commercial off-the-shelf (“COTS”) applications. We have extensive experience with providing ERP implementations, upgrades, and sustainment support for COTS packages such as SAP, Oracle, PeopleSoft, Microsoft and Salesforce. Our services allow our customers to better align their respective agencies’ missions, improve business processes, and reduce their total cost of ownership by leveraging COTS solutions to support their enterprise business operations. We also work with our customers to modernize their business systems by implementing next generation applications such as cloud-hosted case management solutions.
+
+Digital Platforms
+
+Our Digital Platforms Service Area provides the platform to enable Digital Services by delivering agile infrastructure services such as converged infrastructure, cloud platforms, Platform-as-a-Service (“PaaS”), mobile platforms (enterprise mobility management (“EMM”) and mobile PaaS), as well as IT service management (“ITSM”), and cloud management. 
+
+Our Digital Platforms Service Area provides efficient and on-demand managed services anywhere, whether on the customer’s premises, at a partner data center or within one of our own data centers. Our Digital Platforms Service Area handles everything inside a data center, from power, space and cooling to management of the systems and processes. We form the process, security and technology-bridge between the “stove-piped” legacy infrastructure and near-cloud-ready environments. Our specific range of services includes data center best practices, co-location, network, storage, compute, cyber, desktops, unified communications, enterprise service management and mobile. Through our on-demand services, we believe that we are able to find innovative ways to address problems our customers encounter. We also use our Digital Platforms Service Area to incubate leverageable managed IT services out of our ITC. This delivery center possesses the highest level of security accreditation under the Federal Information Security Management Act. CSRA partners with local universities to coordinate curricula and to recruit top local talent to staff this delivery center. 
+
+We utilize lessons learned, experience, methodological leadership, and skilled personnel to help customers embrace incremental application development processes at scale and make the necessary changes to their governance, systems development life cycle, and security processes, which enable our customers to adapt to a more agile technology culture. Indeed, we have helped our customers migrate some of the larger applications programs in the U.S. federal government from traditional “waterfall” development approach to agile practices.
+
+We offer access to next generation platform-as-a-service, enterprise class middleware, database technologies and performance monitoring tools that allow our teams to predict and tune application performance prior to full deployment. For instance, our teams have used our development and operations (“DevOps”) tools to increase efficiency and improve quality of applications used by the U.S. Patent and Trademark Office, Environmental Protection Agency and for agencies within the Intelligence Community.
+
+3
+
+We also provide a channel for U.S. federal agencies to buy, manage, and use Federal Risk and Authorization Management Program (“FedRAMP”) and DoD-approved hybrid cloud services with a single point of control via cloud management platforms. This scalable, on-demand, pay-for-what-you-use model allows customers to buy just the right amount of capacity to meet their needs. Cloud management platforms enable a self-service, on-demand IT operating model with an easy-to-use, one-click cloud service deployment. Since we have no preferred vendors for these services, we are able to provide our customers with an independent assessment of any such services, while our strategic partnerships with third-party cloud providers afford us the freedom to craft custom solutions based on each customer's specific requirements. We work with multiple third-party providers of cloud services, including AWS and Microsoft Azure, and also offer our own cloud stacks.
+
+Cyber
+
+Cybersecurity is of paramount importance to all of our public sector customers. We guide our customers through the development and execution of all IT security aspects such as information assurance, the implementation of IT security processes and tools, and managing Security Operations Centers (“SOC”). We believe that our cyber domain experts are at the forefront of defining strategies and solutions to address new attack vectors associated with large scale adoption of hybrid IT, including cloud and mobility. Our cyber experts are also focused on building comprehensive solutions to manage the emerging challenge of insider cyber threats.
+
+We implement reliable, repeatable SOCs to combat the most pervasive cyber threats facing our nation today. We train our engineers and analysts to exacting standards, and we design and build operations centers based on our customers’ needs, operational structure and applicable governing policies. Functions and capabilities are tailored to fit our customers’ respective organizational missions and goals. We also leverage our Alliance Program to identify and implement innovative technologies in the cybersecurity domain in order to further improve our customers’ security posture. Our SOC are designed and managed to focus on the strategic integration of automation to increase network resiliency and decrease the time between detection of a breach and remediation.
+
+Data Science
+
+We help our customers derive value out of data science by focusing on a variety of critical areas, including: 
+
+•data management; 
+
+•data warehousing;
+
+•master data management (“MDM”); 
+
+•analytics;
+
+•big data;
+
+•Extract, Transform, and Load (“ETL”); and 
+
+•in-memory database (“IMDB”) solutions. 
+
+Specifically, we provide solutions using best-of-breed technologies, including open source and traditional platforms, to help government agencies derive mission value from big data. Our Data Science service area designs systems to enhance and maximize the user experience with data through intensive visualization. For instance, we created the “Coral Reef” application for the Army, which is an information system that is used to visualize complex data and links between data. We have also developed web-based tools that allow decision makers in the defense and intelligence communities to receive information more quickly, and specifically for their needs, from various data. Finally, we also advise organizations regarding how to extract more value from big data and help chart a path based on that organization’s specific mission.
+
+Professional and Citizen Services
+
+Our Professional and Citizen Services focus on helping our clients deliver effective, efficient and agile business process services and enhanced customer experiences that are enabled by cutting-edge IT and software.
+
+4
+
+Capabilities delivered through CSRA's Professional and Citizen Services include the following:
+
+•Transaction processing: health care, financial (invoice/payment), grants, aid applications, and other claims and processing activities;
+
+•Shared Services: human resources, finance, procurement, and IT consolidation;
+
+•Service Desk/Contact Center: customer service provided through a variety of service delivery mechanisms;
+
+•Workflow and process-based solutions: administrative and support services, background investigations and digitization services;
+
+•Global Visa Processing: worldwide services that include visa processing, information dissemination, appointment management, fee collection, document delivery, greeter services for visa applicants, passport services, and modernization; and 
+
+•Organizational Change Management/Transformation: we help customers with a full range of services, including advising on strategic and technical matters, as well as implementation and deployment. Including, integrated services (streamlined service delivery models for new efficiencies) and Public service performance management (organizational, methodological, and strategic).
+
+We believe that Citizen Services are a top priority for the U.S. federal government, and technology is a critical component of those services. Our public sector customers rely on a range of business processes to deliver services to the public. We apply our IT knowledge to business processes and functions, enabling our customers to deliver more efficient and effective customer services. We also help agencies provide citizens with a unified, consistent and user-friendly experience via their communication channel of choice. For instance, we have helped certain of our customers move from traditional face-to-face or telephone-based service to 24/7 self-service options via web, mobile devices, speech recognition and interactive video. Our staff is also highly specialized, maintains a high-level of security clearances, and provides trusted services such as background investigations and visa processing to various agencies in the federal government.
+
+We also provide services that enable our customers to maximize their enterprise services while using only minimal resources. Our delivery is based on the effective management of demand for our resources and utilizing the appropriate processes and tools to find the right personnel for our customers’ needs. We believe this approach benefits our customers by reducing their IT related costs and risk, while also improving responsiveness, compliance and performance. We provide IT competency support to customers who own and maintain their IT environments and are looking for a specific IT skill set or need to augment IT staff. Our experts provide support for areas such as architecture, engineering, development projects, service operations and management. As new technologies emerge, we provide skilled personnel capable of meeting evolving IT requirements. 
+
+Strategic Vision: Leadership and Growth Strategy
+
+We drive growth through our ability to understand each customer’s mission and connect it to our broad-based IT capabilities. We expect that this strategy will allow us to become a preferred partner to both government customers and commercial vendors. In the context of this strategy, we frame our priorities in terms of (1) the critical mission priorities of our customers, which are comprised of government agencies, (2) the U.S. government-wide mandate to improve efficiency and reduce costs and (3) the U.S. government’s long-term plan to shift to next generation technologies.
+
+Critical Mission Priorities of Government Agencies. We have more than 50 years of public sector experience and decades-long relationships with many of our top customers, which trace back to our former parent, CSC. Due to our focus on servicing various agencies within the U.S. federal government, we believe that our culture and, in turn, our personnel are focused on helping our customers achieve their respective missions.
+
+Government-wide Mandate to Improve Efficiency and Reduce Cost. We expect to continue taking a disciplined approach to the management of our overhead costs, including capturing cost synergies from the Mergers. In addition, we anticipate to continue working on current engagements and to proactively seek out new opportunities, including to leverage our low-cost delivery capability at our ITC. In addition, we plan to have our solution architects review every bid to identify work packages suitable for a low-cost shared service delivery model. Our goal is to increase our delivery capability from about 350 employees to over 1,000 employees over the next three years. 
+
+5
+
+Government’s Long-term Shift to Next Generation Technologies. We believe that we offer tools that will allow the government agencies that we serve to transition from buying legacy technologies to purchasing next generation technologies. Specifically, we believe that we are helping drive technological innovation among the customers that we serve through the implementation of next-generation technology and solutions in cloud, big data, mobility and application solutions and services. We also believe that we have enhanced our technical and domain expertise with strategic partnerships that deliver innovative end-to-end solutions, while maintaining our independence to optimize customers’ technology choices.
+
+We expect to continue to support our growth objectives through each of the strategic elements described above. In addition, in order to try and enhance our growth, we plan to, among other things:
+
+•prioritize business development investments and further improve the quality, efficiency, and reuse of our proposals; 
+
+•expand our partner-driven offerings and prioritize opportunities in the areas of cybersecurity and cloud-based next generation infrastructure and application development; 
+
+•employ our data analytics capabilities to extract intelligence from vast amounts of data across our customers’ portfolios; and 
+
+•develop policy solutions for emerging problems, such as immigrant processing and climate change, that demonstrate thought leadership and leverage all of the touch points of our company. 
+
+Through all of these initiatives we aim to expand our volume of new business submittals to approximately $16 billion annually from a combined run rate of approximately $10 billion for the first half of fiscal year 2016, while simultaneously enhancing submit quality through new business related performance improvements and better win rates.
+
+Business Environment and Competitive Landscape
+
+Industry Overview
+
+We are focused on serving various agencies within the U.S. federal government, and we maintain a limited presence in state and local programs linked to U.S. federal government work and projects located in international markets that are contracted, financed, or sponsored by the U.S federal government. We believe that the industry outlook is more positive than it has been in recent years due to:
+
+•Large and fragmented addressable market. We compete in a large addressable market that provides room for growth. The overall amount spent on contracted services is projected to be more than $250 billion during Government Fiscal Year (“GFY”) 2017, representing an increase of 3% over the amount spent during GFY 2016 (a GFY starts on October 1 and ends on September 30). Information technology spending is expected to remain essentially flat from GFY 2016 to GFY 2017 at a total amount of $81.5 billion. President Obama’s budget request for GFY 2017 also contemplates the need to modernize and upgrade legacy information technology systems through the creation of a $3.0 billion revolving fund that will be made available to departments and agencies to make these upgrades. 
+
+•Continued sequester relief and more budget clarity. Since the sequester introduced mandatory cuts to government discretionary spending, the U.S. Congress has provided relief by funding agencies with more than $78 billion, and the President’s budget request contemplates an additional $100 billion in discretionary funding for GFY 2018 to GFY 2021. Initially sequester relief had been unknown at the beginning of each GFY which created uncertainty, but recent bipartisan budget agreements have provided funding levels for both the budget year and the next year (GFY 2016 and GFY 2017 in the most recent agreement). Knowing that funding levels were approved above sequester levels has reduced concerns about government shutdowns and has helped keep funding streams for government services contracts more stable on a month to month basis. We expect the GFY 2017 to begin under a continuing resolution at agreed levels and thus avoid any concerns about government shutdowns or uncertain start of the GFY. As important as the spending level, the two-year budget framework provides the clarity our customers need to issue new procurements.
+
+6
+
+•Increasing demand for Next Gen IT services. The US federal government is in the process of transforming its IT infrastructure and software systems, with mandates such as Data Center Consolidation and Cloud First, in order to increase efficiency and reduce expenses. We believe that the capabilities we provide address the priority areas of IT investment for the federal government, including cloud, cybersecurity, data analytics, agile-based software development methodologies, and modernization of the government’s applications with a bias toward Software-as-a-Service (“SaaS”) and mobile devices. Based on independent industry sources, Next Gen technology offerings such as big data and cloud are predicted to show double-digit annual growth over the next three years.
+
+Competitive Landscape
+
+We provide full-spectrum professional IT services to the U.S. federal government as well as state and local agencies and team with, and compete against, companies across this entire competitive landscape:
+
+•Large defense contractors are capable of competing across our entire market space, and they possess the reputation and ability to compete on large deals with any U.S. federal government agency and have the financial strength to manage and execute large-scale programs. Some of the large defense contractors we regularly compete with include Lockheed Martin, Northrop Grumman, Raytheon, Boeing and General Dynamics.
+
+•Diversified consulting, technology and outsourcing service providers are highly regarded and successful with commercial clients, but lack the breadth of public sector offerings and presence to compete broadly across the public sector market. Some of our competitors in this category include IBM, AT&T, Verizon, HP Enterprise Services, Dell, Accenture and CGI.
+
+•Pure-play U.S. federal government service providers are highly specialized firms that have exceptional mission knowledge, customer intimacy or specific intellectual property that can make them major competitors in the markets that they serve. Some of our competitors in this category include CACI, Booz Allen, SAIC, Leidos, ManTech and ICF.
+
+•Small businesses provide services to the federal government through requirements and incentive programs to create entrepreneurial opportunities for small business owners. In order to support our customers’ use of these small business set-asides, we are implementing a “preferred” small business partner program to team more effectively and compete in this segment of the market.
+
+•Commercial IT vendors offer service offerings that have recently emerged in the government market, including AWS, Microsoft Azure, Google, Salesforce, ServiceNow and other cloud providers. We plan to partner with the leading disruptive players, incorporating their offerings into our hybrid cloud business model to meet customer mission demand and their very specific and unique requirements, culture and rate of adoption.
+
+Our People and Culture
+
+People
+
+ Our past and continued success as an IT, mission- and operations-related services provider is highly dependent on the excellent technical capabilities, high standards and ethics and dedication of our personnel. We employ over 18,000 people, many of whom are deployed at customer sites throughout the U.S. Our headquarters are located in Falls Church, Virginia, with other major locations in Alabama, Kentucky, Louisiana, Maryland, New Jersey, New York, North Carolina, Virginia and Washington D.C.
+
+CLEAR Corporate Values
+
+Our corporate values are “CLEAR”: Client-Focused, Leadership, Execution Excellence, Aspiration and Results. The CLEAR values provide a unifying focus and purpose to each of our employees. No matter the customer, offering, or work location, our CLEAR values work to harmonize our culture and our approach to customer service. In today’s fast-paced, diverse workplace, we believe that our values inform our instincts and represent common standards in an increasingly virtual enterprise. We believe that the uniformity of our values aligns us as teammates from all layers and levels, and normalizes our interactions with customers, alliance partners and respected competitors.
+
+7
+
+Ethics and Compliance
+
+Our business’s commitment to ethics is unwavering, and our ethics and compliance program (“compliance program”) is designed to meet general governance and specific industry and regulatory requirements with a strategic focus on values, culture and performance with integrity. We know that strong risk management processes and effective internal controls-policies, procedures, training, audit and monitoring programs are key components of well-run, ethical and compliant organizations. Beyond these, however, we believe culture and values also contribute to the health of our organization, and, accordingly, our executives and the compliance program’s leadership are heavily invested in these areas as well.
+
+Our code of business conduct makes clear that we expect ethical leadership, performance with integrity, and compliance with company policies and the law. Our code also makes clear that all employees are obligated to report known or suspected misconduct on the part of any other employee. In addition, we maintain a zero tolerance policy for retaliatory behavior toward those who make such reports in good faith. We train employees annually on the principles of our compliance program and the contents of our code, which applies equally to all directors, officers, executives and employees of CSRA worldwide.
+
+Security
+
+Security is critically important to our customers and their missions, and it is fundamental to our business. We have integrated the essential components of physical, personnel and cyber security into the core fabric of our corporate culture. We have harnessed the expertise of defense, intelligence and industrial security professionals within our workforce to expand and strengthen the security ethos throughout the organization. The traditional disciplines of physical and personnel security are key components to the new challenges of cyber security. By blending these traditional disciplines, we are able to build security structures poised to meet the challenges of next generation IT. Security is integral to our interactions with our workforce and the customers we serve. 
+
+Outstanding Talent Community
+
+We have a longstanding culture, rich in mission and IT experience, which provides a foundation that is deep in customer domain knowledge and trust. The majority of the workforce is technical in nature with over 60% having a bachelor’s degree or higher. Employees’ skills and talents range from entry level technologist to expert level professionals in software design and development, DevOps, network engineering, systems administration, programmer analyst, systems engineering, training, logistics, consulting, product development, customer support, scientist and next-generation IT including agile, cyber, cloud and mobility. We have thousands of employees doing every aspect of software and data engineering, half of which are engaged on Agile teams. We cover many development languages including .NET, C#, Java, Ruby, Groovy, Drupal and Python. Many use Open Source tools as their primary environment in both public and private clouds.
+
+Our workforce is led by talented and experienced leaders that have cross-industry, technical and broad experience and the knowledge and experience to bring the best solutions to our customers’ most complex missions. Our executive leadership leverages extensive industry experience, across our defense, intelligence, health and civil markets, are recognized as leaders in their respective markets by our customers and partners, and have proven successful track records for performance and growth. Our strong succession planning and development means we have a deep bench of leaders coming up through the organization.
+
+We invest heavily in our talent acquisition and staffing capabilities to ensure we are able to find and hire the most qualified candidates. We recruit excellent talent into the organization, with a key emphasis on our university relations and recruiting strategy, in order to build the emerging leaders and technologists of our future. Each year, we typically receive more than 100,000 applications, conduct more than 6,000 interviews and hire over 4,000 new personnel. In addition, we partner to hire those exiting the military through programs focused on wounded veterans and those with disabilities. We have over 4,400 self-identified veterans in our workforce today, one third of whom self-identified as having a disability. In 2015, we were recognized for being one of the best companies for veterans based on our population base as well as our practices, policies and culture.
+
+8
+
+Talent Development
+
+We focus on continued development in four key areas: leadership, sales, program management and technical. We offer online and community-based educational opportunities, in addition to trainings offered by our partners in their respective areas. We promote an environment of continuous learning with strong educational assistance and certification benefits, along with individual development plans aligned with our growth strategy.
+
+Intellectual Property
+
+Our technical services and products are not generally dependent upon patent protection, although we do anticipate selectively seeking patent protection. Our proprietary intellectual property portfolio, which covers products, technical services, consulting, methodologies and know-how, is protected by non-disclosure agreements, contractual arrangements and in the form of one or more of the following protection: trade secret, patent, copyright or trademark. Some of our proprietary intellectual property contains licensed third-party and open source components. We integrate deep domain knowledge of our clients’ mission with industry leading innovative products and technologies, including open source technologies, to create value for our clients.
+
+For our work under U.S. federal government-funded contracts and subcontracts, the U.S. federal government obtains certain rights to data, software and related information developed under such contracts or subcontracts. These rights may allow the U.S. federal government to disclose such data, software and related information to third parties which may in some instances include competitors. In the case of our work as a subcontractor, our prime contractors may also have certain rights to data, information and products that we develop under the subcontract.
+
+In connection with the Spin-Off, CSC granted us a perpetual, royalty-free, non-assignable license to certain know-how owned by CSC that we leverage to run our business. In addition, CSC granted us a perpetual, royalty-free, non-assignable license to certain software products, trademarks, work flows, and design methodologies. Although these IP rights can provide us a competitive edge on some contracts and opportunities, we do not explicitly rely on this IP to deliver services and solutions to our clients. During the first five years following the Spin-Off, the licenses granted to us will be restricted to use solely in connection with U.S. federal and certain U.S. state and local government customers. In addition, any improvements we make to such intellectual property or derivative works of such intellectual property that we develop will be assigned to CSC and licensed back to us subject to the same limitations on use. As a result of the scope limitation in our rights to use our intellectual property, our ability to effectively bid for or perform contracts for customers other than the U.S. federal government and certain U.S. state and local governments is extremely limited unless we acquire or independently develop, without making use of CSC’s intellectual property, other intellectual property that would permit us to do so. In addition, we granted CSC a non-exclusive, perpetual, royalty-free, fully paid-up, non-assignable license to any intellectual property acquired or developed by us within six months following the Spin-Off, including licenses to all SRA intellectual property. CSC is limited to use this IP outside our field of U.S. federal and certain state and local government customers during the first five years following the Spin-Off.
+
+Regulatory Matters
+
+As a U.S. federal government contractor, our business is heavily regulated and, as a result, our need for compliance awareness and business and employee support is significant. Specifically, our industry is governed by various laws and regulations, including those laws and regulations relating to: the formation, administration and performance of contracts; the security and control of information and information systems; international trade compliance; human trafficking; the mandatory disclosure of “credible evidence” of a violation of certain criminal laws; the civil False Claims Act, which is intended to prevent fraud against the federal government. In addition, U.S. federal government contractors are generally subject to other requirements, including:
+
+•the FAR and related regulations, which regulate the formation, administration and performance of U.S. federal government contracts;
+
+•the Truth in Negotiations Act, which requires certification and disclosure of cost and pricing data in connection with the negotiation of certain contracts, modifications, or task orders; 
+
+•the Procurement Integrity Act, which regulates access to competitor bid and proposal information, as well as certain internal government procurement sensitive information. In addition, this act regulates our ability to provide compensation to certain former government procurement officials; 
+
+9
+
+•laws and regulations restricting the ability of a contractor to provide gifts or gratuities to employees of the U.S. federal government;
+
+•post-government employment laws and regulations, which restrict the ability of a contractor to recruit and hire current employees of the U.S. federal government and deploy former employees of the U.S. federal government;
+
+•laws, regulations, and executive orders restricting the use and dissemination of information classified for national security purposes or determined to be “controlled unclassified information” or “for official use only”;
+
+•laws and regulations relating to the export of certain products, services, and technical data, including requirements regarding any applicable licensing of our employees involved in such work;
+
+•laws, regulations, and executive orders regulating the handling, use, and dissemination of personally identifiable information in the course of performing a U.S. federal government contract; 
+
+•laws, regulations, and executive orders governing organizational conflicts of interest that may prevent us from bidding for or restrict our ability to compete for certain U.S. federal government contracts because of the work that we currently perform for the U.S. federal government; 
+
+•laws, regulations and executive orders that impose requirements on us to ensure compliance with requirements and protect the government from risks related to our supply chain;
+
+•laws, regulations and mandatory contract provisions providing protections to employees or subcontractors seeking to report alleged fraud, waste, and abuse related to a government contract;
+
+•the “Contractor Business Systems Rule,” which authorizes DoD agencies to withhold a portion of our payments if we are determined to have a significant deficiency in any of our accounting, cost estimating, purchasing, earned value management, material management and accounting, or property management systems; and
+
+•the “Cost Accounting Standards and Cost Principles,” which impose accounting requirements that govern our right to reimbursement under certain cost-based U.S. federal government contracts and require consistency of accounting practices over time. 
+
+We are also subject to oversight by the U.S. Office of Federal Contract Compliance Programs for federal contract and affirmative action compliance, to include in the following areas:
+
+•affirmative action plans;
+
+•applicant tracking;
+
+•compliance training;
+
+•customized affirmative action databases and forms;
+
+•glass ceiling and compensation audits;
+
+•desk and on-site audits;
+
+•conciliation agreements;
+
+•disability accessibility for applicants and employees;
+
+•diversity initiatives;
+
+•Equal Employment Opportunity (“EEO”) compliance;
+
+•employment eligibility verification, E-Verify;
+
+•internal affirmative action audits;
+
+10
+
+•Internet recruiting and hiring processes;
+
+•Office of Federal Contract Compliance Programs (“OFCCP”) administrative enforcement actions;
+
+•record-keeping requirements; and
+
+•Sarbanes-Oxley compliance.
+
+The U.S. federal government routinely revises its procurement practices and adopts new contract rules and regulations. In order to anticipate compliance with changes to laws and regulations, we participate in industry-wide associations that represent the industry perspectives on proposed regulations to the government, monitor proposed regulatory changes to adapt our policies and processes to accommodate the changes when they become effective, maintain compliance staff in our corporate departments, and conduct awareness and training for affected employees, such as our contracts staff and DCAA compliance team.
+
+The U.S. federal government has a broad range of tools available to enforce its procurement law and policies. These include debarring or suspending a particular contractor, certain of its operations and/ or individual employees from future government business. In addition to any statutory recourse available to the government, individuals, on behalf of the federal government, may also bring qui tam suits against us for any alleged fraud related to payments under a U.S. federal government contract or program. 
+
+Seasonality
+
+The U.S. federal government’s fiscal year ends on September 30 of each year. It is not uncommon for U.S. federal government agencies to award extra tasks or complete other contract actions in the weeks leading up to the end of its fiscal year in order to avoid the loss of unexpended fiscal year funds. In addition, we also have generally experienced increased bid and proposal costs in the months leading up to the U.S. federal government’s fiscal year end as we pursue new contract opportunities being awarded shortly after the U.S. federal government fiscal year end. Finally, we also tend to generate less revenue and profit from our labor services during the December quarter as a result higher leave-taking during the holiday season.
+
+Executive Officers of the Registrant
+
+Our executive officers as of May 24, 2016 are listed below, along with their ages on that date, positions and offices held and the year in which they were appointed to such office. All such persons have been appointed to serve until their successors are appointed and qualified or until their earlier resignation or removal.
+
+[DATA_TABLE_REMOVED]
+
+11
+
+Business Experience of Executive Officers
+
+Larry Prior joined CSRA as President and Chief Executive Officer on November 27, 2015. Prior to joining CSRA, Mr. Prior served as executive vice president and general manager of CSC’s North American Public Sector (2014-2015). Previously, Mr. Prior served as vice president and general manager of the Defense and Intelligence Group in CSC’s NPS, providing next-generation technology solutions and mission services to the U.S. Department of Defense and intelligence community (2013-2014). Before joining CSC, Mr. Prior was executive vice president of Service Sectors and chief operating officer for BAE Systems, Inc. (2010-2013). 
+
+David Keffer joined CSRA as Executive Vice President, Chief Financial Officer on November 30, 2015. Prior to joining CSRA, he was the executive vice president and Chief Financial Officer at SRA International (2014-2015). Mr. Keffer was the Chief Financial Officer of SRA’s National Security Sector (2011-2013), and, until his appointment as Chief Financial Officer, he served as Corporate Controller (2013-2014). 
+
+William J. Haynes II joined CSRA as Executive Vice President, General Counsel and Secretary on January 6, 2016. Prior to joining CSRA, he served as the Executive Vice President and General Counsel of SIGA Technologies (2012-2016), Chief Corporate Counsel at Chevron Corporation (2008-2012) and General Counsel of the Department of Defense (2001-2008).
+
+John Reing joined CSRA as Executive Vice President, Chief Human Resources Officer on November 30, 2015. Prior to joining CSRA, he was Senior Vice President of Human Resources at SRA International (January 2012-November 2015). He has also served as Vice President of HR & Administration for BAE Systems, Support Solutions Sector (January 2009-January 2012), Vice President of HR for Network System Business (June 2007-December 2009) and Vice President of Global Compensation, HRIS & International Assignments out of the U.S. (January 2003-June 2007). Before joining BAE Systems, he was the Director of the Washington, D.C. Area Human Resources Consulting Practice for PricewaterhouseCoopers (1996-2003) and a team leader at the Hay Group Compensation Consulting Practice in Philadelphia, Pennsylvania (1993-1996).
+
+Ken Deutsch became CSRA’s Executive Vice President, Defense Group on April 2, 2016. Previously, he acted as CSRA’s Executive Vice President and General Manager, Defense Mission Services from November 27, 2015 to April 2, 2016. Prior to joining CSRA, Mr. Deutsch served as Vice President and General Manager of CSC’s North American Public Sector Defense and Intelligence Group (2013-2015). Mr. Deutsch joined CSC in October 2009 as Vice President Information Dominance Programs and CSC’s DoD Cyber Account Executive. 
+
+Paul Nedzbala became CSRA’s Executive Vice President, Health and Civil Group on April 2, 2016. Previously, he acted as CSRA’s Executive Vice President, Health from November 30, 2015 to April 2, 2016. Prior to joining CSRA, Mr. Nedzbala served as the executive vice president of SRA's Health and Civil Group (2013-2015). Prior to his appointment as executive vice president of SRA’s Health and Civil Group, he held multiple leadership roles in both SRA’s former Health and Civil Government Groups (2007-2013). 
+
+Leigh Palmer joined CSRA as Executive Vice President and General Manager, Intelligence Group on November 30, 2015. Prior to joining CSRA, she held several roles in BAE Systems’ intelligence business including Vice President, National Information Technology Mission Solutions within the Intelligence and Security sector (April 2011-November 2015); Vice President, Advanced Programs within the Information Technology and Cybersecurity Solutions business unit (2009-2011); Director in a Cybersecurity business unit (2007-2009); and several management positions overseeing BAE’s technology deployment programs for intelligence community customers (2004-2007). Prior to joining BAE Systems, Ms. Palmer was a Department Manager at Northrop Grumman Corporation (2000-2004). 
+
+Sally Sullivan became CSRA’s Executive Vice President, Homeland Security Group on April 2, 2016. Previously she acted as CSRA’s Executive Vice President, Business Development from November, 30, 2015 to April 2, 2016. Prior to joining CSRA, Ms. Sullivan served as CSC’s Vice President of NPS Business Development and Strategy (2013-2015). Ms. Sullivan joined CSC from ManTech International Corporation, where she served as Executive Vice President of Corporate Affairs and Market Expansion (2009-2013). Ms. Sullivan has held senior leadership positions at Bechtel National (2008-2009), Northrop Grumman (2001-2007), and EDS (1980-1997). She has served on the boards of CharityWorks, The Father McKenna Center in Washington, D.C., The Country Day School in McLean, Virginia., and as Board Chair for The Fishing School.
+
+12
+
+George Batsakis became CSRA’s Chief Growth Officer on April 2, 2016. Previously he acted as CSRA’s Executive Vice President and General Manager, Defense Group from November 30, 2015 to April 2, 2016. Prior to joining CSRA, Mr. Batsakis served as executive vice president for SRA's National Security Group (2007-2015). 
+
+John Dancy joined CSRA as Chief Information Officer on November 30, 2015, and became Vice President, Chief Information Officer on April 2, 2016. Prior to joining CSRA, he served as director of Strategic Initiatives in CSC’s North American Public Sector Infrastructure Services Group (2013-2015). Mr. Dancy joined CSC from SRA International, where he served as vice president of Europe and Africa Operations (2010-2013). Before joining SRA International, Mr. Dancy progressed through several leadership roles at Northrop Grumman (1999-2010). Mr. Dancy has also held positions at Charlotte Pipe and Foundry and Royal Insurance (1988-1998).
+
+Company Information
+
+Our corporate website is http://www.csra.com. Information contained on our website is not part of this Annual Report on Form 10-K. Through the "Investor Relations" portion of our website, we make available, free of charge, our proxy statements, Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and other relevant filings with the SEC and any amendments to those reports as soon as reasonably practicable after such material has been filed with, or furnished to, the SEC. These filings are also accessible on the SEC's website at http://www.sec.gov.
+
+Item 1A. Risk Factors

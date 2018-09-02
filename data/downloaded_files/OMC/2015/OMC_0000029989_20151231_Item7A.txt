@@ -1,0 +1,39 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+We manage our exposure to foreign exchange and interest rate risk through various strategies, including the use of derivative financial instruments. We use forward foreign exchange contracts as economic hedges to manage the cash flow volatility arising from foreign exchange rate fluctuations. Additionally, we use interest rate swaps to manage our interest expense and structure our debt portfolio to achieve a mix of fixed rate and floating rate debt. We do not use derivative instruments for trading or speculative purposes. Utilizing derivative instruments exposes us to the risk that counterparties to the derivative contracts will fail to meet their contractual obligations. To mitigate counterparty credit risk, we have a policy of only entering into derivative contracts with carefully selected major financial institutions based on specific minimum credit standards and other factors. 
+
+26
+
+We evaluate the effects of changes in foreign currency exchange rates, interest rates and other relevant market risks on our derivative instruments. We periodically determine the potential loss from market risk on our derivative instruments by performing a value-at-risk, or VaR, analysis. VaR is a statistical model that utilizes historical currency exchange and interest rate data to measure the potential impact on future earnings of our derivative financial instruments assuming normal market conditions. The VaR model is not intended to represent actual losses but is used as a risk estimation and management tool. Based on the results of the model, we estimate with 95% confidence a maximum one-day change in the net fair value of our derivative financial instruments at December 31, 2015 was not significant.
+
+Foreign Exchange Risk
+
+Our results of operations are subject to risk from the translation to U.S. Dollars of the revenue and expenses of our foreign operations, which are generally denominated in their local currency. For the most part, revenue and expenses of our foreign operations are denominated in the same currency, which minimizes the economic impact on our operating margin. The effects of currency exchange transactions on our results of operations are discussed in Note 2 to the consolidated financial statements.
+
+Our international operations represent approximately 44% of our revenue. While our major international markets include the European Union, the United Kingdom, Australia, Brazil, Canada, China and Japan, our agencies transact business in more than 50 different currencies.
+
+ As an integral part of our global treasury operations, we centralize our cash and use multicurrency pools to manage the foreign exchange risk between subsidiaries and their respective treasury centers from which they borrow or invest funds. However, in certain circumstances, subsidiaries borrow or invest with a treasury center operating in a different currency. At December 31, 2015, we had outstanding forward foreign exchange contracts with an aggregate notional amount of $22.1 million to manage the foreign exchange risk associated with these activities. Additionally, there are circumstances where revenue and expense transactions are not denominated in the same currency. In these instances, amounts are either promptly settled or hedged with forward contracts. At December 31, 2015, we had outstanding forward foreign exchange contracts with an aggregate notional amount of $85.9 million to manage the foreign exchange risk of these activities.
+
+Foreign currency derivative instruments are designated as economic hedges; therefore, any gain or loss in fair value incurred on those instruments is generally offset by decreases or increases in the fair value of the underlying exposures. By using these financial instruments, we reduced financial risk of adverse foreign exchange changes by foregoing any gain (reward) which might have occurred if the markets moved favorably.
+
+Interest Rate Risk
+
+We use interest rate swaps to manage our interest cost and structure our long-term debt portfolio to achieve a mix of fixed rate and floating rate debt. Based on market conditions, we may terminate the swaps to reduce our exposure to rising interest rates or to monetize any gain and lock in a reduction in interest expense over the term of the underlying debt. At December 31, 2015, the total aggregate principal amount of our fixed rate senior notes was $4.5 billion and the total notional amount of the fixed-to-floating interest rate swaps was $1.75 billion. The interest rate swaps have the economic effect of converting our debt portfolio to 61% fixed rate obligations and 39% floating rate obligations. On January 19, 2016, we terminated the remaining $1.0 billion notional amount of the swap on the 2022 Notes, reducing the outstanding notional amount of the swaps to $750 million.
+
+Also, we are exposed to interest rate volatility on future debt issuances. To manage this risk, we use forward-starting interest rate swaps to lock in the interest rate on future debt issuances. At December 31, 2015, the total notional amount of the forward-starting interest rate swaps was $1.0 billion. Upon settlement of the swap, any gain or loss on the effective portion of the swap will be amortized to interest expense over the term of the new debt or will be recorded in results of operations if the refinancing is not completed. 
+
+A complete discussion of our interest rate swaps is included in Note 6 to the consolidated financial statements. 
+
+Credit Risk
+
+We provide advertising, marketing and corporate communications services to several thousand clients who operate in nearly every industry sector of the global economy and we grant credit to qualified clients in the normal course of business. Due to the diversified nature of our client base, we do not believe that we are exposed to a concentration of credit risk as our largest client accounted for 2.7% of revenue in 2015. However, during periods of economic downturn, the credit profiles of our clients could change.
+
+27
+
+In the normal course of business, our agencies enter into contractual commitments with media providers and production companies on behalf of our clients at levels that can substantially exceed the revenue from our services. These commitments are included in accounts payable when the services are delivered by the media providers or production companies. If permitted by local law and the client agreement, many of our agencies purchase media and production services for our clients as an agent for a disclosed principal. In addition, while operating practices vary by country, media type and media vendor, in the United States and certain foreign markets, many of our agencies’ contracts with media and production providers specify that our agencies are not liable to the media and production providers under the theory of sequential liability until and to the extent we have been paid by our client for the media or production services.
+
+Where purchases of media and production services are made by our agencies as a principal or are not subject to the theory of sequential liability, the risk of a material loss as a result of payment default by our clients could increase significantly and such a loss could have a material adverse effect on our business, results of operations and financial position.
+
+In addition, our methods of managing the risk of payment default, including obtaining credit insurance, requiring payment in advance, mitigating the potential loss in the marketplace or negotiating with media providers, may be less available or unavailable during a severe economic downturn.
+
+Item 8. Financial Statements and Supplementary Data

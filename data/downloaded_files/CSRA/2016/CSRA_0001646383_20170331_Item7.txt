@@ -1,0 +1,541 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations of CSRA
+
+Management’s discussion and analysis of financial condition and results of operations of CSRA (“MD&A”) should be read in conjunction with our audited Consolidated and Combined Financial Statements and accompanying notes included elsewhere in this Form 10-K, as well as the discussion in Part I, Item 1. Business. This discussion contains forward-looking statements that involve risks and uncertainties. The forward-looking statements are not historical facts, but rather are based on our current expectations, estimates, assumptions, and projections about our industry, business and future financial results. These statements should be considered in addition to, but not as a substitute for, other measures of our financial performance reported in accordance with GAAP. Our actual results could differ materially from the results contemplated by these forward-looking statements due to a number of factors, including those we discuss in Part I, Item 1A. Risk Factors. 
+
+Our audited Consolidated and Combined Financial Statements discussed below reflect our financial condition, results of operations, and cash flows. The financial information discussed below, however, may not necessarily reflect what our financial condition, results of operations, or cash flows would have been had we operated as a separate, independent entity during the periods presented prior to the Spin-Off, or what our financial condition, results of operations, and cash flows may be in the future. 
+
+The following MD&A of CSRA covers certain periods prior to the Spin-Off and Mergers. For accounting and financial reporting purposes, Computer Sciences GS is considered to be the predecessor to CSRA and as a result, its historical financial statements now constitute the historical financial statements of CSRA. Accordingly, results reported through November 27, 2015 include only the operations of Computer Sciences GS on a carve-out basis. 
+
+The results reported after November 27, 2015 include the operations of CSRA, including SRA (as a result of the Mergers). These historical financial statements may not be indicative of our future performance. 
+
+This Management’s Discussion and Analysis of Financial Condition and Results of Operations of CSRA is organized as follows:
+
+•Overview: A discussion of our business and overall analysis of financial and other highlights affecting CSRA to provide context for the remainder of MD&A. 
+
+•Results of Operations: An analysis of our financial results comparing fiscal year 2017 and fiscal year 2016 to the prior years, respectively. A discussion of the results of operations at the combined level is followed by a more detailed discussion of the results of operations by segment.
+
+•Liquidity and Capital Resources: An analysis of changes in our cash flows and a discussion of our financial condition and liquidity. 
+
+•Contractual Obligations: An overview of contractual obligations, retirement benefit plan funding and off balance sheet arrangements.
+
+•Critical Accounting Policies and Estimates: A discussion of accounting policies and estimates that we believe are important to understanding the assumptions and judgments incorporated in our reported financial results.
+
+Business Overview
+
+Every day CSRA makes a difference in how the government serves our country and our citizens. We deliver a broad range of innovative, next-generation IT solutions and professional services to help our customers modernize their legacy systems, protect their networks and assets, and improve the effectiveness and efficiency of mission-critical functions for our war fighters and our citizens. Our approximately 18,500 employees understand that success is a matter of perseverance, courage, adaptability and experience. 
+
+Headquartered in Falls Church, Virginia, we deliver comprehensive offerings from concept through sustainment. We deliver IT, mission-and operations-related services across the U.S. government to the DoD, intelligence community and homeland security, civil and healthcare agencies, as well as certain state and local government agencies. We leverage deep domain-based customer intimacy and decades of experience in helping customers execute their mission with a fundamental understanding of their IT environment that has earned us the ability to introduce next-generation technologies. We bring scalable and more cost-effective IT solutions to government agencies that are seeking to improve mission-critical effectiveness and efficiency through innovation.
+
+This approach is designed to yield savings in implementation and operational costs as well as a higher standard of delivery. Demand for our U.S. public sector offerings is driven by evolving government priorities such as: (1) the critical mission priorities of government agencies, (2) the government-wide mandate to improve efficiency and reduce cost, and (3) the government’s long-term shift to next generation technologies. 
+
+CSRA’s reportable segments are as follows:
+
+•Defense and Intelligence—The Defense and Intelligence segment provides services to the DoD, National Security Agency, branches of the Armed Forces and other DoD and Intelligence agencies.
+
+•Civil—The Civil segment provides services to various federal agencies within the Department of Homeland Security, Department of Health and Human Services and other federal civil agencies, as well as various state and local government agencies.
+
+30
+
+Financial Overview
+
+We completed the following significant transactions during fiscal year 2017:
+
+•In November 2016, we completed an amendment of our debt facilities which extended the terms of the facilities by one year, reduced our interest rate on related borrowings, and changed certain terms in order to provide greater financial flexibility to the Company. See Note 14—Debt to our Consolidated and Combined Financial Statements in this Form 10-K for further information.[DATA_TABLE_REMOVED]
+
+•In February 2017, CSRA Inc. and Computer Sciences Corporation entered into a Relationship Agreement (the “Relationship Agreement”). Pursuant to the Relationship Agreement, the non-competition covenants set forth in the Master Separation and Distribution Agreement, dated as of November 27, 2015, by and between CSRA and CSC (the “MSDA”), restricting CSC’s business activities in certain areas of the U.S. federal, state and local government fields are deemed null and void ab initio. The Relationship Agreement also provides that the Non-U.S. Agency Agreement, dated as of November 27, 2015, between CSRA and CSC (the “Non-US Agency Agreement”), is supplemented to permit CSRA to sell services to certain additional non-U.S. government customers in certain territories. We also entered into an Amended and Restated Intellectual Property Matters Agreement (the “IPMA”) with CSC which amends and restates the original IPMA. In connection with the IPMA, CSRA made a one-time payment of $65.0 million to CSC in February 2017, and recognized $61.4 million related to the IPMA within Separation and Merger costs in our Consolidated Statement of Operations for fiscal year 2017. The remaining $3.6 million in costs associated with that agreement were capitalized as software or intellectual property and are being amortized over its estimated useful life. Pursuant to the amendment, CSRA was released from the obligation under the original IPMA to pay the remaining four years of annual maintenance fees of $30 million to CSC. As a result, CSRA will have no further obligation to pay maintenance or product fees to CSC, and will not receive any such service under any of the aforementioned agreements. 
+
+Key operating results for the last three fiscal years are as follows.
+
+[DATA_TABLE_REMOVED]
+
+(1)Adjusted EBITDA is a non-GAAP measure that we believe provides useful information to investors regarding our results of operations, as it provides another measure of our profitability, our ability to service our debt, and is considered an important measure by financial analysts covering CSRA and peer companies in our industry. We changed our Adjusted EBITDA measure in fiscal year 2017 to fully remove the costs and benefits associated with our legacy defined benefit plans. Prior year amounts have been revised to conform to the current year presentation. Our presentation of Adjusted EBITDA is based on CSRA’s credit agreement. We exclude the costs and benefits of legacy defined benefit plans because participation in these plans has been frozen for several years and these costs are not included in the 
+
+31
+
+compensation of our employees. Our definition of such measure may differ from similarly described measures of other companies. 
+
+The following table presents a reconciliation of Income from continuing operations, net of taxes, to Adjusted EBITDA:
+
+[DATA_TABLE_REMOVED]
+
+(a) Historically, we only made adjustments for actuarial changes, settlement gains (losses), and amortization of prior service benefits of our pension and other postretirement benefit plans. Beginning in fiscal year 2017 we record an adjustment for the full net (benefit) expense of these plans. 
+
+(2)Free cash flow is a non-GAAP measure and our definition of such measure may differ from that used by other companies. We define free cash flow as equal to the sum of: (1) operating cash flows, (2) investing cash flows, excluding business acquisitions, dispositions and investments, and (3) payments on capital leases and other long-term asset financings. For comparability between periods, free cash flow is further adjusted for: (i) non-recurring separation-related payments, (ii) the amount of net proceeds received from the initial sale of billed and/or unbilled receivables at the time that we initially implemented the Master Accounts Receivable Purchase Agreement (the “Purchase Agreement”), and (iii) the incremental net proceeds received from the initial sale of receivables when they first become eligible for sale under the Purchase Agreement. Free cash flow should not be considered a substitute for operating and investing cash flows as determined in accordance with GAAP. Free cash flow is one of the factors our management uses in reviewing the overall performance of the business and motivating performance through incentive compensation for key business leaders. We believe that strong free cash flow is one of the attributes that attracts potential investors to our industry. Free cash flow provides both management and investors a measurement of cash generated from operations that is available to fund acquisitions, pay dividends, repay debt and repurchase our common stock. Management overcomes the limitations of this non-GAAP measure by also reviewing the GAAP measures of operating, investing and financing cash flows. 
+
+32
+
+A reconciliation of free cash flow to the most directly comparable GAAP financial measure is presented below:
+
+[DATA_TABLE_REMOVED]
+
+Business Drivers
+
+We generate revenue in each of our segments by providing services on a variety of contract types. These vary in duration from six months to more than 10 years. Factors affecting revenue include our ability to:
+
+•bid on and win new contract awards;
+
+•satisfy existing customers and obtain add-on business and win contract recompetes;
+
+•compete on services offered, delivery models offered, technical ability and innovation, quality, flexibility, experience, and results created; and
+
+•identify, integrate, and leverage acquisitions to generate new revenues.
+
+In addition to the revenue factors above, factors affecting our earnings include our ability to:
+
+•control costs, particularly labor costs, subcontractor expenses, and overhead costs, including healthcare, pension and general and administrative costs;
+
+•anticipate talent needs to avoid staff shortages or excesses;
+
+•accurately estimate various factors incorporated in contract bids and proposals; and
+
+•migrate compatible service offerings to lower cost areas.
+
+In addition to the earnings factors above, the following factors affect our cash flows:
+
+•our ability to manage the timing of receivables and payables;
+
+•availability of investment opportunities, particularly business acquisitions;
+
+•our ability to meet existing contractual obligations;
+
+•our tax obligations; and
+
+•our ability to deploy capital efficiently for software, property, and equipment.
+
+33
+
+Key Performance Indicators
+
+We manage and assess the performance of our business through various measures. The primary financial measures we use to assess our results and manage our business include contract awards, backlog, revenue, days sales outstanding, and cash flows.
+
+Contract awards. In addition to being a primary driver of future revenue, contract wins or awards help management assess of our ability to compete. The total level of wins tends to fluctuate from year to year depending on the timing of new or recompeted contracts, as well as numerous external factors.
+
+Backlog. Backlog represents the total estimated contract value of predominantly long-term contracts, based on customer commitments that we believe to be firm, less the amount of revenue already recognized on those contracts. Backlog value is based on contract commitments, management’s judgment and assumptions about volume of services, availability of customer funding and other factors. Backlog estimates for government contracts include both the funded and unfunded portions and all of the option periods. Backlog estimates are subject to change and may be affected by factors including modifications of contracts and foreign currency movements.
+
+Revenue. Revenue is derived from backlog (relating to contracts won in prior periods), and work secured in the current period. Year-over-year revenues tend to vary less than contract wins, and reflect performance on both new and existing contracts.
+
+Days sales outstanding (“DSO”). DSO is a measure for timeliness of receivable collections. It is calculated as total receivables at the fiscal period end divided by revenue-per-day. Revenue-per-day equals total revenue divided by the number of days in the fiscal period. Total receivables includes unbilled receivables but excludes tax receivables.
+
+Cash flow. Primary drivers of our cash flow are earnings provided by our operations and the use of capital to generate those earnings. Also contributing to short-term cash flow are movements in current asset and liability balances. See information about free cash flow, a non-GAAP measure in endnote (2) within Financial Overview above.
+
+Certain of our key performance measures in fiscal years 2017 and 2016 were as follows.
+
+• We announced contract awards(3) of $6.9 billion during fiscal year 2017 as compared to $6.8 billion during fiscal year 2016. 
+
+• Total backlog as of March 31, 2017 was $15.2 billion as compared to $15.1 billion at April 1, 2016. Of the total $15.2 billion in backlog, approximately $3.5 billion is expected to be realized as revenue during fiscal year 2018, and $2.4 billion was funded. 
+
+• Revenue recognized in fiscal year 2017 was $4.99 billion, compared to $4.25 billion in fiscal year 2016.
+
+• Days Sales Outstanding (“DSO”) was 54 days as of March 31, 2017, compared to 52 days at the end of the prior fiscal year. The increase in DSO at March 31, 2017 was due largely to a $25 million receivable associated with our funding of settlement for a legacy pension plan of Computer Science GS Business.
+
+• Cash provided by operating activities was $488 million and $553 million for the fiscal years ended March 31, 2017 and April 1, 2016, respectively.
+
+• Cash used in investing activities was $(168) million and $(1.6) billion for the fiscal years ended March 31, 2017 and April 1, 2016, respectively. This change was primarily due to the acquisition of SRA in fiscal year 2016.
+
+• Cash (used in) provided by financing activities was $(324) million and $1.18 billion for the fiscal years ended March 31, 2017 and April 1, 2016, respectively. The amount provided in the prior year was primarily attributable to borrowings of debt for the purchase of SRA, which was partially offset by the Special Dividend payment at the time of the Spin-Off. The use of cash in fiscal year 2017 reflects net repayments on long-term debt and cash dividends paid to common stockholders.
+
+34
+
+(3)Announced award values for competitive indefinite delivery/indefinite quantity awards represent the expected contract value at the time a task order is awarded under the contract. Announced values for non-competitive indefinite delivery/indefinite quantity awards represent management’s estimate at the award date.
+
+Economic and Industry Factors
+
+Our revenues are generated almost exclusively from contracts with the U.S. government and with state governments on programs funded by the federal government. As a result, our business performance is affected by the overall level of U.S. government spending and the alignment of our offerings and capabilities with the budget priorities of the U.S. government. While we anticipate that federal discretionary spending will grow, government budget deficits and the national U.S. debt will constrain spending across all federal agencies. Adverse changes in fiscal and economic conditions, including sequestration, future government shutdowns, and issues related to the nation’s debt ceiling could materially impact our business.
+
+Our market is highly competitive and has characteristics unique to the federal contracting environment. Almost all of our U.S. government contracts and subcontracts may be modified, curtailed, or terminated either at the convenience of the government or for default based on factors set forth in the FAR. Our results of operations are also affected by the evolving priorities of the U.S. government, as well as by the pace of technological change and the type and level of technology spending by our customers. The ability to identify and capitalize on these markets and technological changes early in their cycles is a key driver of our performance. Our results of operations are also impacted by economic conditions generally, including macroeconomic conditions, and the impact that they have on the U.S. government. 
+
+We compete in a large addressable market that provides room for growth. We expect the overall amount spent on contracted services will be more than $250 billion during GFY 2017, although there is a large portion of this work for which we do not compete (e.g. base operations). There are no firms that dominate our market.
+
+Revenues are driven by our ability to secure new contracts and to deliver solutions and services that add value to our customers. To drive revenue growth we must deliver market-leading service offerings and deploy skilled teams of professionals quickly across all government industries and domains. We believe that our scale, combination of technical expertise in applications and IT infrastructure solutions combined with our deep public sector mission knowledge and experience, firmly established vendor partnerships, and commitment to a culture of frugality will enable us to compete effectively in the current market environment. 
+
+See “Risk Factors” in Part I of this Annual Report for additional discussion of our industry and regulatory environment.
+
+Results of Operations
+
+We report our results based on a fiscal year convention that comprises four thirteen-week quarters. Every fifth year includes an additional week in the first quarter of the fiscal year to prevent the fiscal year from moving from an approximate end of March date. As a result, the first quarter of fiscal year 2015 had an extra week. Despite the variable component of extra-week revenue, our costs during the extra week were largely fixed. 
+
+For accounting purposes, the Consolidated and Combined Financial Statements reflect the financial results of SRA from the date of the Merger to March 31, 2016 combined with the Computer Sciences GS Business for the fiscal year ended April 1, 2016.
+
+35
+
+Revenues
+
+Revenues for the Defense and Intelligence and Civil segments were as follows:
+
+[DATA_TABLE_REMOVED]
+
+The major factors affecting the percent change in revenues were as follows:
+
+For fiscal year 2017, our total revenue increased by $743 million, or 17.5%, as compared to fiscal year 2016. Excluding revenue of $1,440 million and $461 million attributable to SRA, revenue for fiscal years 2017 and 2016 amounted to $3,553 million and $3,789 million, respectively, a decrease of $236 million. Excluding SRA in both periods, the decline in revenue was due primarily to reductions in the Logistics Modernization Program (“LMP”) for the U.S. Army, as well as a net reduction in contracts with the Department of Homeland Security (“DHS”). See Note 3—Acquisitions and Divestitures for information on the unaudited proforma results of CSRA that include the historical results of SRA for the full fiscal year of 2016 compared to fiscal year 2017.
+
+Our fiscal year 2016 revenue increased $180 million, or 4.4%, as compared to fiscal year 2015. Excluding revenue of $461 million attributable to SRA, revenue for fiscal year 2016 amounted to $3,789 million, a decrease of $281 million compared to fiscal year 2015. Excluding the impact of SRA, the revenue decline was due to reductions in the Logistics Modernization Program for the U.S. Army, as well as a lower overall volume of direct material and other direct cost purchases. The decrease in revenue was also attributed to the extra week in fiscal year 2015, which did not recur in fiscal year 2016. We won contracts with award values of $6.8 billion during fiscal year 2016 as compared to $2.9 billion during fiscal year 2015.
+
+Defense and Intelligence Segment
+
+Fiscal Year 2017
+
+For fiscal year 2017, Defense and Intelligence segment revenues increased by $183.4 million, or 8.9% as compared to fiscal year 2016 primarily due to additional revenue attributable to SRA. Excluding revenue of $426.6 million and $137.1 million attributable to SRA in fiscal years 2017 and 2016, respectively, revenues declined $106.1 million primarily due to a $79 million reduction from the downsizing of LMP and $36 million of net reduction in contract tasking with the U.S. Army, U.S. Navy, the Missile Defense Agency and NSA.
+
+Fiscal Year 2016
+
+For fiscal year 2016, Defense and Intelligence segment revenues decreased $59.6 million or 2.8% as compared to fiscal year 2015 primarily due to reduced contract tasking and contract conclusions offset by the additional revenue attributable to SRA. Excluding revenue of $137.1 million attributable to SRA, the $196.7 million revenue decrease compared to fiscal year 2015 was due to a net reduction in contract tasking with the U.S. Army, U.S. Navy, NSA and DISA. In addition, there was lower revenue of $37.1 million on certain contracts with the Defense Intelligence Agency and Missile Defense Agency that either had concluded or were winding down, and $28.9 million of lower revenue as a result of the divestiture of Welkin in the first quarter of fiscal year 2016. These revenue decreases were partially offset by $51.2 million of revenue on new or expanded contracts with the U.S. Navy, U.S. Army and other DOD agencies and a classified customer with $40.2 million of revenue from the fiscal year 2015 acquisition of Tenacity Solutions.
+
+36
+
+Civil Segment
+
+Fiscal Year 2017
+
+For fiscal year 2017, Civil segment revenues increased by $559.5 million, or 25.6% as compared to fiscal year 2016 primarily due to the additional revenue attributable to SRA. Excluding revenue attributable to SRA of $1,013.1 million and $324.1 million in fiscal years 2017 and 2016, respectively, the resulting $129.6 million decrease was primarily due to revenue reductions of $69 million on programs with DHS and $14 million of net task order reductions associated with other federal agencies. In addition, revenue declined by $46 million on a state government program that transitioned from development stage to operations and maintenance.
+
+Fiscal Year 2016 
+
+For fiscal year 2016, Civil segment revenues increased $240.3 million, or 12.4% as compared to the fiscal year 2015 primarily due to the additional revenue attributable to SRA which was offset by reduced contract tasking and contract conclusions. Excluding revenue of $324.1 million attributable to SRA, the $83.8 million revenue decrease was primarily due to reduced contract tasking on programs with the Department of Treasury, NASA, DHS and other federal agencies that had either ended or were winding down. Revenue from contracts with non-federal agencies increased $26.9 million primarily due to an increase in contract tasking on a state contract. 
+
+Segment Operating Income
+
+Segment operating income and segment operating margin for the Defense and Intelligence and Civil segments were as follows:
+
+[DATA_TABLE_REMOVED]
+
+The major factors affecting the percent change in segment operating income and segment operating income margin by segment were as follows:
+
+Defense and Intelligence Segment
+
+Fiscal Year 2017
+
+For fiscal year 2017, Defense and Intelligence segment operating income decreased by $5.2 million, or (1.9)% as compared to fiscal year 2016. Excluding Defense and Intelligence segment operating income of $2.8 million and loss of $3.1 million attributable to SRA for fiscal years 2017 and 2016, respectively, segment operating income for the Defense and Intelligence segment declined by $11.1 million. This decline in segment operating income as well as the decline in the segment’s operating income margin was primarily due to lower revenues and a higher volume of project start up activities where margins are lower during transition. These declines were partially offset by higher pension income and program efficiencies in fiscal year 2017. 
+
+37
+
+Fiscal Year 2016
+
+For fiscal year 2016, Defense and Intelligence segment operating income increased by $19.1 million, or 7.5%, as compared to fiscal year 2015. Excluding Defense and Intelligence segment operating loss of $3.1 million attributable to SRA, the increase in operating income and operating margin for fiscal year 2016 was primarily the result of better contract performance, other program related efficiencies, and efficiencies in the Selling, general, and administrative expense (“SG&A”). 
+
+Civil Segment
+
+Fiscal Year 2017
+
+For fiscal year 2017, Civil segment operating income increased by $150.6 million, or 51.9% as compared to fiscal year 2016. Excluding Civil segment operating income of $18.5 million and $6.0 million in fiscal year 2017 and 2016, respectively, attributable to SRA, operating income of the segment increased $138.1 million. This increase in segment operating income as well as the segment operating income margin in fiscal year 2017 compared to the prior year was primarily the result of higher pension income, better contract performance and other program efficiencies in fiscal year 2017. 
+
+Fiscal Year 2016
+
+For fiscal year 2016, Civil segment operating income decreased by $2.6 million, or 0.9% as compared to fiscal year 2015. Excluding Civil segment operating income of $6.0 million attributable to SRA, the decrease of $8.6 million in operating income for fiscal year 2016 was primarily the result of lower net favorable adjustments on programs accounted for under percentage-of-completion accounting. Operating income margin decreased by 1.8 percentage points from 15.1% to 13.3%, due largely to the change in contract mix with the additions of SRA and the lower net favorable adjustments programs accounted for under the percentage-of-completion accounting. 
+
+Costs and Expenses
+
+Our total costs and expenses were as follows:
+
+[DATA_TABLE_REMOVED]
+
+(a) Included in both COS and SG&A are $(98.0) million, $202.8 million and $8.3 million, of pension and postretirement actuarial (gains)losses, and pension settlement (gains) losses for fiscal years 2017, 2016, and 2015, respectively. COS also includes related party transactions with CSC in periods prior to the Spin-Off of $4.8 million and $7.8 million in fiscal years 2016 and 2015, respectively.
+
+Costs of Services
+
+Fiscal Year 2017
+
+COS, as a percentage of revenue, decreased to 76.7% for fiscal year 2017 as compared to 84.1% for fiscal year 2016. 
+
+38
+
+The decrease in COS, as a percentage of revenue, was primarily a result of the recognition of pension settlement and actuarial gains when compared to fiscal year 2016. COS was positively impacted by a $98.0 million benefit from mark-to-market adjustments and settlement gains associated with our various defined benefit plans in fiscal year 2017 compared to a negative impact of $197 million from such adjustments in fiscal year 2016. Excluding the impact of mark-to-market adjustments and settlement gains, COS as a percentage of revenue would have been 78.7% and 79.5% in fiscal year 2017 and 2016, respectively. This decrease in COS (adjusted for defined benefit plan impacts) as a percentage of revenue for the period is a result of a stronger mix of revenue (e.g., more labor services and fewer direct material pass-throughs), program delivery efficiencies, indirect cost reductions, and merger synergies.
+
+Fiscal Year 2016
+
+COS, as a percentage of revenue, increased to 84.1% for fiscal year 2016 as compared to 80.7% for fiscal year 2015. 
+
+COS was negatively impacted in fiscal year 2016 by the $197 million increase from mark-to-market adjustments in our various defined benefit plans and increases in the expected returns on plan assets when compared to fiscal year 2015. Excluding the impact of these mark-to-market adjustments, COS as a percentage of revenue would have been 79.5%. The decrease as a percentage of revenue for the period is a result of a stronger mix of revenue (e.g., more labor services and fewer direct material pass-throughs), program delivery efficiencies, indirect cost reductions, and merger synergies. 
+
+Selling, General and Administrative
+
+Fiscal Year 2017
+
+SG&A expense, as a percentage of revenue, decreased to 4.2% for fiscal year 2017 as compared to 4.4% from fiscal year 2016, mainly due to merger synergies, indirect cost reductions, and vendor management. To a lesser extent, SG&A was positively impacted by the benefit from mark-to-market adjustments and settlement gains associated with our various defined benefit plans in fiscal year 2017.
+
+Fiscal Year 2016
+
+SG&A expense, as a percentage of revenue, decreased to 4.4% for the fiscal year ended April 1, 2016 as compared to 4.8% for fiscal year 2015, mainly due to merger cost synergies.
+
+Depreciation and Amortization (“D&A”)
+
+D&A for the Defense and Intelligence and Civil segments were as follows:
+
+[DATA_TABLE_REMOVED]
+
+(a) Excludes $2.5 million, $9.2 million , and $9.7 million of contract-related intangible amortization, which is recorded as a reduction to revenues and included in Depreciation and amortization in the Consolidated and Combined Statements of Cash Flows for fiscal years 2017, 2016, and 2015, respectively. 
+
+39
+
+Fiscal Year 2017
+
+D&A increased $58.9 million in fiscal year 2017 compared to prior year, and as a percentage of revenue, increased to 4.8% for fiscal year 2017 as compared to 4.3% for fiscal year 2016. Excluding D&A of $90.7 million largely attributable to the acquisition of SRA and the customer and contract related intangibles recognized, D&A would have been $150.4 million, and as a percentage of revenue for fiscal year 2017 would have been 3.0%, which is lower than for fiscal year 2016 when excluding the same SRA-related intangibles amortization. 
+
+Fiscal Year 2016
+
+D&A, as a percentage of revenue, increased to 4.3% for fiscal year 2016 as compared to 3.4% for fiscal year 2015. Excluding D&A of $43.3 million largely attributable to the acquisition of SRA and the customer and contract related intangibles recognized, D&A, as a percentage of revenue, for fiscal year 2016 was 3.3%, slightly lower than fiscal year 2015.
+
+Separation and Merger Costs
+
+Separation and merger costs were costs incurred to give effect to Computer Sciences GS’s separation from CSC and subsequent merger with SRA. These costs are primarily comprised of third-party accounting, legal and other consulting services, as well as information technology infrastructure and application costs. For fiscal year 2017 separation and merger costs were $89.8 million compared to $118.0 million in fiscal year 2016. Pursuant to the Merger Agreement, all merger costs incurred by Computer Sciences GS were paid by CSRA. Separation and merger costs in fiscal year 2017 include $61.4 million of expense related to the amended IPMA agreement with CSC executed in February 2017. 
+
+Share-Based Compensation Expense
+
+In connection with the Spin-Off, the equity compensation awards in fiscal year 2016 of employees of CSC who became employees of CSRA at the date of the Spin-Off were converted into equity awards of CSRA having the same terms and conditions as their prior CSC awards.
+
+In connection with the Mergers, CSRA exchanged outstanding options held by SRA employees for options to purchase, on the same terms and conditions, shares of common stock of CSRA. The number of shares subject to the options granted in exchange was equal to the number of common shares of SRA that would have been received or a number of shares of CSRA common stock that provided the equivalent value to the SRA common shares determined using the Black-Scholes option-pricing model.
+
+During fiscal year 2016, a number of new equity awards were granted, consisting of performance conditioned restricted stock units, restricted stock units and non-qualified stock options, which are subject to a variety of service, performance and market conditions. For the fiscal years ended March 31, 2017 and April 1, 2016 the total expense recognized in CSRA’s results of operations related to equity awards was $29.0 million and $10.2 million, respectively. 
+
+Share-based compensation expense for fiscal year 2017 includes $15.2 million recognized upon the achievement of certain performance conditions associated with replacement awards issued in connection with the Mergers. See Note 17—Share-Based Compensation Plans to our Consolidated and Combined Financial Statements in this Form 10-K for additional information on share-based compensation including unrecognized compensation expense that will impact our earnings in future periods.
+
+Interest Expense, Net
+
+Fiscal Year 2017
+
+Interest expense of $123.7 million for the fiscal year ended March 31, 2017 increased by $70.2 million compared to $53.5 million of interest expense for fiscal year 2016 due to the additional long-term debt incurred in 
+
+40
+
+connection with the Spin-Off and Merger transactions in November 2015 for the full fiscal year 2017 period. In addition, the Company amended its debt facilities in the third quarter of fiscal year 2017, which resulted in loss on extinguishment of $8 million in the period. 
+
+Fiscal Year 2016 
+
+Interest expense of $53.5 million in fiscal year 2016 increased $31.6 million compared to $21.9 million in fiscal year 2015. The increase was primarily due to the incurrence of debt related to the Spin-Off and Mergers.
+
+Other (Income) Expense, Net
+
+Fiscal Year 2017
+
+Other (income) expense, net comprises gains and losses from the sale of businesses and non-operating assets, the impact of movement in foreign currency exchange rates on CSRA's foreign currency denominated assets and liabilities and other miscellaneous gains and losses.
+
+Other expense amounted to $3.1 million for the fiscal year ended March 31, 2017 compared to other income of $15.2 million for the fiscal year 2016. Other income, net, in fiscal year 2016 is due to an $18.6 million pre-tax gain from the divestiture of Welkin Associates Limited (“Welkin”), a wholly-owned subsidiary and provider of systems engineering and technical assistance services to the intelligence community and other U.S. Department of Defense clients.
+
+Fiscal Year 2016
+
+Other income amounted to $15.2 million in fiscal year 2016 compared to other expenses of $5.6 million in fiscal year 2015. Of the $20.8 million increase, approximately $18.6 million is due to the pre-tax gain from the divestiture of Welkin. Other components of the change include the impact of a strengthening dollar in 2016 when compared to other currencies. 
+
+Taxes
+
+Our effective tax rate (“ETR”) on income from continuing operations for fiscal years 2017, 2016, and 2015 was 36.2%, 30.9%, and 37.6%, respectively. The lower ETR in fiscal year 2016 was primarily driven by the tax benefit generated by CSRA’s payment of a special dividend following the Spin-Off transaction. Absent the impact of the special dividend and transaction costs of the Spin-Off in fiscal year 2016, our ETR would be similar across all three fiscal years. Our tax returns are routinely audited and settlements of issues raised in these audits sometimes affect our tax provisions. A reconciliation of the differences between the U.S. federal statutory rate and the ETR, as well as other information about our income tax provision, is provided in Note 15—Income Taxes to the accompanying Consolidated and Combined Financial Statements. For the tax impact of discontinued operations, see Note 3—Acquisitions and Dispositions to the accompanying Consolidated and Combined Financial Statements. 
+
+Significant management judgment is required in determining our provision for income taxes, deferred tax assets and liabilities, and any valuation allowance recorded against deferred tax assets. A valuation allowance of $11 million and $8.7 million has been recorded against deferred tax assets as of March 31, 2017 and April 1, 2016, respectively, relating to net operating losses in foreign jurisdictions. 
+
+Income from Discontinued Operations
+
+In fiscal year 2015, we incurred approximately $1.9 million in after-tax losses related to the divestiture of a portion of Computer Sciences GS Business’s Applied Technology Division (“ATD”) due to a settlement on ATD-related litigation and related legal expenses. There were no discontinued operations in fiscal years 2017 or 2016.
+
+41
+
+Liquidity and Capital Resources
+
+Cash Flows
+
+[DATA_TABLE_REMOVED]
+
+Operating Cash Flow
+
+Net cash provided by operating activities for fiscal year 2017 was $488 million, a decrease of $65 million compared to fiscal year 2016. This decrease was primarily due to a lower change in accounts receivable during fiscal year 2017 that was partially offset by a positive change in deferred income taxes as compared to the prior year. In addition, operating cash flow was negatively affected by our execution of an amended IPMA with CSC that resulted in our making a one-time payment of $65 million in the fourth quarter of fiscal year 2017. Our operating cash flow for fiscal year 2017 also reflects a $25 million payment to satisfy our commitment to fund CSC’s pension settlement obligation to the purchaser of ATD in fiscal year 2014. We expect to receive reimbursement for the pension obligation payment during fiscal year 2018. See Note 2— Corporate Allocations and Transition Agreements for additional information about the IPMA with CSC.
+
+Net cash provided by operating activities for fiscal year 2016 of $553 million increased by $66 million as compared to fiscal year 2015 in part due to the Mergers. Excluding cash flows provided by operating activities of $8 million attributable to SRA, the increase in net operating cash flow was primarily attributable to the decrease in accounts receivable due to our receivable sales program offset by costs associated with the Spin-Off and merger transactions.
+
+Investing Cash Flow
+
+Net cash used in investing activities for fiscal year 2017 was $168 million, as compared to $1.6 billion for fiscal year 2016 and $117 million in fiscal year 2015. Cash used in investing activities in fiscal year 2017 primarily reflects purchases of capital equipment and software. Cash used in investing activities in fiscal year 2016 includes payments of $1.5 billion related to the SRA acquisition (net of extinguishment of SRA’s debt) and $161 million for purchases of software, property and equipment. Purchases of software, property, and equipment was $78 million in fiscal year 2015.
+
+Financing Cash Flow
+
+Net cash used in financing activities for the fiscal year ended March 31, 2017 was $324 million, which was a decrease of $1.5 billion from the fiscal year ended April 1, 2016. The use of cash in fiscal year 2017 reflects repayments on long-term debt and cash dividends to common stockholders. The amount provided by financing activities in fiscal year 2016 was primarily attributable to borrowings of debt for the purchase of SRA, which was partially offset by the Special Dividend payment at the time of the Spin-Off. The year over year change also reflects the absence of amounts transferred to CSC in the fiscal year 2017 period. As discussed in “Debt Financing” below, we refinanced our debt facilities in the third quarter of fiscal year 2017.
+
+Net cash provided by financing activities in fiscal year 2016 was $1.2 billion, an increase of $1.5 billion from fiscal year 2015. The significant changes in financing cash flows related to the incurrence of $3.0 billion of debt 
+
+42
+
+associated with the Spin-Off and Mergers, including the payment of the $1.1 billion Special Dividend. Excluding cash flows used in financing activities of $15 million attributable to SRA, the increase was primarily attributable to the lower lease payments and transfers to CSC. 
+
+Liquidity
+
+As of March 31, 2017, CSRA’s total liquidity was $826 million, consisting of $126 million of cash and cash equivalents and $700 million available under CSRA's revolving credit facility. In addition, we increase our liquidity by selling receivables under a Master Accounts Receivable Purchase Agreement (“Purchase Agreement”). These facilities are described further below. We believe our capital structure and financial position will provide us with financial flexibility in a dynamic industry that we believe affords competitive and strategic advantages to providers that maintain financial flexibility.
+
+Master Accounts Receivable Purchase Agreement (the “Purchase Agreement”)
+
+After the Spin-Off, CSRA became the primary seller of certain accounts receivable under the Purchase Agreement, which we entered into on April 21, 2015. The Purchase Agreement provides for the continuous non-recourse sale of our eligible trade receivables. The Purchase Agreement was amended several times to add additional purchasing counterparties, to extend the term, to add SRA as an additional seller of accounts receivables, and to convert the Purchase Agreement into a committed facility. See Note 5—Receivables in this Form 10-K for additional information on these amendments. In connection with the addition of the SRA receivables into the facility, the Company evaluated allowances associated with SRA’s government audit activities, receivable aging and specific collectability issues and increased the associated allowance by approximately $3 million in the first quarter of fiscal year 2017.
+
+Under the Purchase Agreement, CSRA can sell eligible receivables, including billed receivables and certain unbilled receivables arising from “cost plus fixed fee” and “time and materials” contracts up to $450.0 million outstanding at any one time. CSRA has no retained interests in the transferred receivables, and only performs collection and administrative functions for the Purchaser for a servicing fee. 
+
+During fiscal year 2017, CSRA sold $3,155 million of our billed and unbilled receivables for cash. Collections by the purchaser on the receivables we sold were $3,089 million for fiscal year 2017. As of March 31, 2017, there was also $37 million of cash collected but not remitted due to timing of settlements, which was recorded as restricted cash. We incurred purchase discount and administrative fees of $4 million for fiscal year 2017. Total receivables sold, net of collections and fees related to accounts receivable sales, resulted in an increase in operating cash flow of $62 million for fiscal year 2017.
+
+Upon consummation of the Mergers, CSRA assumed SRA’s separate account receivable purchase agreement. SRA maintained an accounts receivable purchase agreement under which SRA sold certain accounts receivable to a third party (the “Factor”) without recourse to SRA. The Factor initially paid SRA 90% of the receivable and the remaining price was deferred and recognized once the Factor collected from SRA’s customer. Beginning April 2, 2016, SRA discontinued selling receivables under its separate accounts receivable purchase agreement. The SRA accounts receivable agreement was terminated as of June 27, 2016 and, at that time, SRA became an additional seller under the Purchase Agreement. There were no sales of receivables under this facility during fiscal year 2017. 
+
+Outlook for Liquidity
+
+In the opinion of management, CSRA will be able to meet its liquidity and cash needs, including debt servicing, operational liquidity and discretionary investments, for at least the next twelve months through the combination of cash flows from operating activities, available cash balances, available borrowings under CSRA's revolving credit facility, and sales of receivables under the Purchase Agreement. If these resources need to be augmented, additional cash requirements would likely be financed by the issuance of debt or equity securities. However, there can be no assurances that CSRA will be able to obtain debt financing on acceptable terms (or at all) in the future.
+
+Debt service in the next five years is expected to be funded from available cash flow, and we do not expect that these debt service payments will adversely affect our available liquidity for short-term working capital and other 
+
+43
+
+cash requirements needs. Our expected liquidity and capital structure may be impacted, however, by discretionary investments and acquisitions that CSRA may pursue. While the timing and financial magnitude of these possible actions are currently indeterminable, CSRA expects to be able to manage and adjust its capital structure in the future to meet its liquidity needs.
+
+In accordance with a November 2015 agreement with the Pension Benefit Guaranty Corporation (“PBGC”), we also have an obligation, unless certain conditions are met during fiscal year 2018 and 2019, to make payments to our underfunded defined benefit pension plans. See Note 16—Pension and Other Postretirement Benefit Plans to the Consolidated and Combined Financial Statements for further discussion of our pension obligations, including the November 2015 agreement with the PBGC. 
+
+Our exposure to operational liquidity is primarily from a small number of our long-term contracts which require significant investment of cash flows from operating activities during the initial phases of the contracts. We recover these investments over the life of the contract depending on our performance as well as customer acceptance. Any changes or uncertainty in global economic conditions may also affect our business as customers and suppliers may decide to downsize, defer or cancel contracts, which could negatively affect operating cash flows.
+
+Our primary cash needs continue to be for working capital, capital expenditures, commitments and other discretionary investments. Our ability to fund our operating needs depends, in part, on our ability to continue to generate positive cash flow from operations or, if necessary, raise cash in the capital markets. Longer term, our pension funding obligation represents another potential cash need, depending on asset returns, interest rates and other factors.
+
+Capitalization
+
+At the end of fiscal year 2017, CSRA’s ratio of net debt-to-total capitalization was 84.6%, a decrease of 8.1 percentage points from the end of fiscal year 2016. The decrease in the ratio was primarily the result of debt repayments, net of additional borrowings, of approximately $165 million and an increase in equity capital from net income recognized during fiscal year 2017.
+
+The following table summarizes CSRA’s capitalization ratios as of the end of fiscal year 2017 and fiscal year 2016:
+
+[DATA_TABLE_REMOVED]
+
+(6) Total debt is the sum of short and long-term components of GAAP debt and capitalized leases.
+
+(7) Net debt is a non-GAAP measure and our determination of it may not be comparable with calculations of similar measures by other issuers. We calculate net debt by subtracting cash and cash equivalents from total debt (including capitalized leases). We believe that net debt assists in understanding our financial position and we use it to monitor our financial leverage. We believe that net debt is useful to investors because it provides insights into our financial strength.
+
+44
+
+Debt Financing
+
+At March 31, 2017, including capitalized lease liabilities, CSRA had $116 million of short-term borrowings and current maturities of long-term debt, and $2.7 billion of long-term debt. 
+
+We obtained financing in connection with the Spin-Off and the Mergers under the following credit facilities: (1) a five-year senior secured revolving credit facility (the “Revolving Credit Facility”) with a committed borrowing capacity of $700 million, all of which was available and undrawn as of March 31, 2017, (2) a three-year senior secured tranche term loan facility with an aggregate outstanding principal amount of $570 million as of March 31, 2017 (the “Tranche A1 Facility”), (3) a five-year senior secured tranche term loan facility with an aggregate outstanding principal amount of $1.58 billion as of Mach 31, 2017 (the “Tranche A2 Facility” and, together with the Tranche A1 Facility, the “Term Loan A Facilities”), and (4) a seven-year senior secured term loan facility in an aggregate outstanding principal amount of $466 million as of March 31, 2017 (the “Term Loan B Facility”, and, together with the Term Loan A Facilities, the “Term Loan Facilities”). As discussed above in Note 14— Debt, we completed an amendment to these facilities in November 2016 to: (a) lower the interest rate on the Term Loan B Facility, (b) provide for greater financial flexibility for the Company, and (c) extended the terms of each of these facilities by one year. The Revolving Credit Facility and the Term Loan Facilities, as amended, have the following material terms:
+
+•Interest. Borrowings incur interest at an index rate plus an applicable margin for each specific facility. The applicable margins for borrowings under the Revolving Credit Facility and borrowings under the Term Loan A Facilities vary and are determined based on our corporate credit rating or corporate family rating. 
+
+•Amortization. Borrowings under the Revolving Credit Facility can be prepaid at any time and can be redrawn until its maturity. The Tranche A1 Facility has no scheduled amortization prior to maturity. The Tranche A2 Facility requires quarterly scheduled amortization at a rate equivalent to 5% per annum, until the remaining principal balance is due at maturity. The Term Loan B facility requires quarterly scheduled amortization at a rate equivalent to 1% per annum, until the remaining principal balance is due at maturity. For the Term Loan Facilities, the required quarterly amortization is reduced by any amounts due under the excess cash flow provision discussed below.
+
+•Covenants. The Revolving Credit Facility and Term Loan Facilities contain negative covenants customary for financings of this type, including covenants that place limitations on the incurrence of additional indebtedness; the creation of liens; the payment of dividends to a maximum of $75 million annually; sales of assets; fundamental changes, including mergers and acquisitions; loans and investments; negative pledges; transactions with affiliates; restrictions affecting subsidiaries; modification to charter documents in a manner materially adverse to the lenders; changes in fiscal year and limitations on conduct of business. The Revolving Credit Facility and Term Loan Facilities also contain affirmative covenants and representations and warranties customary for financings of this type. In addition, the Revolving Credit Facility and Term Loan A Facilities contain financial covenants requiring, as at the end of, and for, each fiscal quarter of CSRA: (1) a ratio of consolidated total debt to consolidated EBITDA not in excess of 4:50:1:00, stepping down to 4.00 or 3.75, in the event of certain circumstances, (2) a consolidated EBITDA to interest expense ratio of not less than 3.00:1.00, and (3) a ratio of consolidated secured net debt to consolidated EBITDA not to exceed 4.00:1:00, stepping down to 3.75 on June 30, 2017.
+
+•Excess Cash Flow. The Term Loan Facilities require the Company to prepay outstanding term loans, subject to certain exceptions, in the case of excess annual cash flow and in the event of certain asset sales, casualty events and issuances of debt. Any required excess cash flow payments are due within 90 days following the end of the fiscal year. As of March 31, 2017, the Company determined it did not have to make an additional repayment related to its excess cash flow for fiscal year 2017 since CSRA’s voluntary repayments during the fiscal year exceeded the amount it would otherwise be required to repay.
+
+•Events of Default. The lenders under the Revolving Credit Facility and the Term Loan Facilities may declare any indebtedness outstanding thereunder due and payable and may cancel any remaining 
+
+45
+
+commitments under the Revolving Credit Facility, if an event of default occurs and is continuing. These events of default include a failure to pay principal when due or interest or commitment fees within five days of the date when due; a material inaccuracy of a representation or warranty at the time made; a bankruptcy event; a failure to comply with the covenants, subject to a customary grace period; cross-events of default to material indebtedness; certain material ERISA events; material judgments; actual or asserted invalidity of any guarantee or non-perfection of any material portion of the collateral under the security documents; a change in control; and, with respect to the Revolving Credit Facility and Term Loan A Facilities only, a breach of the financial covenants.
+
+During the fiscal year 2017, the Company made repayments of $50 million on the Revolving Credit Facility. During fiscal year 2017, the Company made $169 million in repayments on the Term Loan Facilities, excluding the impact of the amendment in the third quarter, including $48 million related to the prior year’s excess cash flow provision and a $20 million voluntary prepayment during the fourth quarter of the fiscal year.
+
+ In March 2016, CSRA executed a series of hedging transactions to manage the interest rate risk related to $1.4 billion of its Term Loan A Facilities. CSRA’s objectives in using cash flow hedges are to add stability to interest expense and to manage its exposure to interest rate movements (see Note 8—Derivative Instruments for additional information).
+
+We enter into leasing transactions to obtain facilities and equipment to operate our business. Many of these leases are categorized as capital leases and are entered into for service to or the benefit of our customers. Our long-term capital lease obligation increased from $108.5 million at April 1, 2016 to $172.2 million at March 31, 2017. We expect to incur additional capital lease obligations in fiscal year 2018 in support of our business operations and growth. 
+
+Our ability to access the capital markets and other sources of funding is highly dependent upon our credit ratings. In addition, the interest rate in certain of our long-term debt is determined, in part, by our credit rating. Credit rating agencies review their ratings periodically and, therefore, the credit rating assigned to CSRA by each agency may be subject to revision at any time. Accordingly, CSRA is not able to predict whether its current credit ratings will remain unchanged. Factors that can affect CSRA's credit ratings include changes in its operating performance, its financial position, the outcome of ongoing litigation as well as regulatory action, and changes in its business strategy. If changes in CSRA's credit ratings were to occur, they could impact, among other things, its future borrowing costs and access to capital markets. See “Risk Factors” for additional information.
+
+Equity Transactions
+
+On November 30, 2015, CSRA's Board of Directors approved a share repurchase program authorizing up to $400 million in share repurchases of CSRA's outstanding common stock. The timing, volume, and nature of future share repurchases are at the discretion of management and the Board of Directors, and may be suspended or discontinued at any time. CSRA plans to offset equity grants through share repurchases over time, balancing them with debt reduction and other forms of cash deployment. The repurchase program expires on March 31, 2019. During fiscal years 2017 and 2016, CSRA repurchased and retired a total of 2,757,448 shares of common stock through open market purchases for aggregate consideration of $79 million at an average price of $29.31 per share. CSRA has remaining authorization to repurchase $321 million of common stock as of March 31, 2017 pursuant to its Share Repurchase Program. 
+
+During fiscal year 2017, CSRA declared quarterly cash dividends to its common stockholders aggregating $0.40 per share, or approximately $65 million. In the opinion of management, CSRA has sufficient liquidity and expects to continue paying quarterly cash dividends although such payments are subject to continued approval by CSRA's Board of Directors.
+
+Off Balance Sheet Arrangements
+
+As of March 31, 2017, except for the potential obligation associated with a November 2015 agreement with PBGC (see Note 16—Pension and Other Postretirement Benefit Plans to the Consolidated and Combined Financial Statements for additional information), we did not have any off balance sheet arrangements that have or are 
+
+46
+
+reasonably likely to have a current or future effect on our financial condition, changes in our financial condition, revenues, or expenses, results of operations, liquidity, capital expenditures or capital resources that are material to investors. 
+
+Contractual Obligations
+
+The following table summarizes the expiration of the surety bonds and letters of credit associated with our performance guarantees and expiration of the stand-by letters of credit used in lieu of cash, outstanding as of March 31, 2017 (see Note 21—Commitments and Contingencies to the Consolidated and Combined Financial Statements):
+
+[DATA_TABLE_REMOVED]
+
+The following table summarizes our future payments, excluding the effects of time value, on contractual obligations by period as of March 31, 2017:
+
+[DATA_TABLE_REMOVED]
+
+(a) Includes scheduled principal payments. Excludes capitalized lease liabilities.
+
+(b) Includes scheduled interest payments on long-term debt.
+
+To the extent we can reliably determine when payments will occur pertaining to unrecognized tax benefit liabilities, the related amounts will be included in the table above. However, due to the high degree of uncertainty regarding the timing of potential future cash flows associated with the approximately $45 million of such liabilities at March 31, 2017, we are unable to make a reliable estimate of when amounts, if any, may be paid to the respective taxing authorities.
+
+Regarding minimum purchase obligations included above, we have occasionally signed long-term purchase agreements with certain service providers to obtain favorable pricing, committed service levels and terms for services necessary for the operation of business activities. For these limited number of agreements, we are contractually committed to purchase specified service minimums over remaining periods ranging generally from one to four years. If we do not meet the specified service minimums, we may have an obligation to pay the service provider a portion or the entire shortfall.
+
+As of March 31, 2017 CSRA’s Consolidated and Combined Financial Statements reflected projected pension benefit obligations that exceeded related plan assets, resulting in a deficit in funded status under GAAP of approximately $459 million for the qualified plans as of March 31, 2017. Under the Code, including ERISA, Pension Protection Act (“PPA”) and the Highway and Transportation Funding Act of 2014 (“HATFA”), the funded value of our aggregate plan assets as of December 31, 2016 exceeded estimated liabilities by approximately $261 million. In addition, at December 31, 2016 our aggregate excess funding balance, which is the amount that would need to be exhausted before we would be required to make additional cash contributions to those plans, was 
+
+47
+
+approximately $338 million. Because funding status as determined under the Code, as amended by HATFA, rather than under GAAP, governs our obligation to make required cash contributions to those plans, we do not currently expect to be required to make any cash contributions to our qualified U.S. defined benefit plans for fiscal years 2017, 2018 or 2019, with the exception of any payments required by our November 2015 agreement with PBGC if we are unable to meet certain conditions. We are unable to make a reasonable estimate of the timing and amount of cash outflows for future periods. As a result, pension benefit obligations have been excluded from the above table. See Note 16—Pension and Other Postretirement Benefit Plans to the Consolidated and Combined Financial Statements for further discussion of our pension obligation, including the November 2015 agreement with PBGC.
+
+During fiscal year 2017, we contributed $1 million to postretirement plans. During fiscal year 2017, pension benefits contributions amounted to $8 million. Refer to the Critical Accounting Estimates section below and to Note 1— Basis of Presentation and Summary of Significant Accounting Policies to the Consolidated and Combined Financial Statements for further discussion.
+
+Critical Accounting Estimates
+
+Recent accounting pronouncements and the anticipated impact to CSRA are described in the notes to the Consolidated and Combined Financial Statements included in this Form 10-K.
+
+Our Consolidated and Combined Financial Statements have been prepared in accordance with GAAP. Our significant accounting policies are described in Note 1— Basis of Presentation and Summary of Significant Accounting Policies to the Consolidated and Combined Financial Statements. The preparation of the Consolidated and Combined Financial Statements in accordance with GAAP requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenue and expenses, as well as the disclosure of contingent assets and liabilities. We base our estimates and judgments on historical experience and other factors believed to be reasonable under the circumstances. Many of the estimates made are for contract-specific issues. Changes to estimates or assumptions on a specific contract could result in a material adjustment to the Consolidated and Combined Financial Statements. 
+
+We have identified several critical accounting estimates. An accounting estimate is considered critical if both: (a) the nature of the estimates or assumptions is material due to the levels of subjectivity and judgment involved, and (b) the impact of changes in the estimates and assumptions would have a material effect on the Consolidated and Combined Financial Statements. Our critical accounting estimates relate to revenue recognition, cost estimation and recoverability on long-term, fixed-price contracts; software development costs; estimates used to determine deferred income taxes; assumptions related to purchase accounting and goodwill; assumptions to determine retirement benefits costs and liabilities; and assumptions and estimates used to analyze contingencies and litigation. For all of these estimates, we caution that future events rarely develop exactly as forecast, and the best estimates routinely require adjustment.
+
+Revenue recognition
+
+Substantially all of our revenue is derived from contracts with departments and agencies of the U.S. government, as well as other state and local government agencies. We generate our revenue from the following types of contractual arrangements: time and materials contracts, firm-fixed-price contracts and cost-plus-fee contracts. We also provide services to other businesses of CSC, which are included as related party revenues for the periods presented prior to the Spin-Off. After the Spin-Off, these services are included in revenues. 
+
+Due to the long-term nature of our contracts, the amounts we record in our financial statements using contract accounting methods are material and require us to make reasonably dependable estimates for the design and delivery of our services. Some contract sales may include estimated amounts not contractually agreed to by the customer, including cost or performance incentives (such as award and incentive fees), unpriced change orders, claims and requests for equitable adjustment. Amounts pertaining to cost or performance incentives are included in estimated contract sales when they are reasonably estimable.
+
+48
+
+Percentage-of-completion method
+
+Contracts with the U.S. government and certain contracts with customers other than the U.S. government require the use of estimates-at-completion (“EAC”) in the application of the percentage-of-completion accounting method, whereby the determination of revenues and costs on a contract through its completion can require significant judgment and estimation. Under this method, and subject to the effects of changes in estimates, we recognize revenue using an estimated margin at completion as contract milestones or other input- or output-based measures are achieved. This can result in costs being deferred as work in process until contractual billing milestones are achieved. Alternatively, this can result in revenue recognized in advance of billing milestones if output-based or input-based measures are achieved. Contracts that require estimates at completion using the percentage-of-completion method accounted for approximately 39% and 43% of our revenues for fiscal years 2017 and 2016, respectively.
+
+We regularly review project profitability and underlying estimates and closely monitor compliance with, and the consistent application of, our critical accounting policies related to contract accounting including the preparation of EACs for our contracts. Our cost estimation process is based on the professional knowledge of our program managers and finance professionals and draws on their significant experience and judgment. Also, regular and recurring evaluations of contract cost, scheduling and technical matters are performed by management personnel who are independent from the business operations personnel performing work under the contract. 
+
+We generally review and reassess our sales, cost and profit estimates for each significant contract at least annually or more frequently as determined by the occurrence of events, changes in circumstances and evaluations of contract performance to reflect the latest reliable information available. When changes in estimates of contract sales or costs occur, we make revisions to EACs and reflect changes in the results of operations as a change in accounting estimate in the period in which the facts that give rise to the revision become known by management. Since contract costs are typically incurred over a period of several years, estimation of these costs requires the use of judgment. Factors considered in estimating the cost of the work to be completed include the availability, productivity and cost of labor, the nature and complexity of work to be performed, the effect of change orders, availability and cost of materials, the effect of any delays in performance and the level of indirect cost allocations. For fiscal years 2017, 2016, and 2015 our net EAC adjustments as a percentage of total net sales were 0.5%, 1.5% and 1.9%, respectively. See “Revenue Recognition” within Note 1— Summary of Significant Accounting Policies in our Consolidated and Combined Financial Statements for additional information about EACs recorded within the last three fiscal years.
+
+Provisions for estimated losses at completion, if any, are recognized in the period in which the loss becomes evident. The provision includes estimated costs in excess of estimated revenue and any profit margin previously recognized. There were no significant adjustments to income before taxes related to changes in the provision for estimated losses in the fiscal years ended March 31, 2017, April 1, 2016 and April 3, 2015.
+
+Amounts billed and collected but not yet earned as revenues under certain types of contracts are deferred. Contract costs incurred for U.S. government contracts, including indirect costs, are subject to audit and adjustment through negotiations between government representatives and us. Further, as contracts are performed, change orders can be a regular occurrence and may be unpriced until negotiated with the customer. Un-priced change orders are included in estimated contract sales when they are probable of recovery in an amount at least equal to the cost. Amounts representing claims (including change orders unapproved as to both scope and price) and requests for equitable adjustment are included in estimated contract revenues when they are reliably estimable and realization is probable.
+
+Our U.S. government contracts generally contain FAR provisions that enable the customer to terminate a contract for default, or for the convenience of the government. If a contract is terminated for default, we may not be entitled to recover any of our costs on partially completed work and may be liable to the government for re-procurement costs of acquiring similar products or services from another contractor, and for certain other damages. Termination of a contract for the convenience of the government may occur when the government concludes it is in the best interests of the government that the contract be terminated. Under a termination for convenience, the contractor is typically entitled to be paid in accordance with the contract’s terms for costs incurred prior to the 
+
+49
+
+effective date of termination, plus a reasonable profit and settlement expenses. At March 31, 2017, April 1, 2016, and April 3, 2015, we did not have any federal contract terminations in process that would have a material effect on our financial position, annual results of operations or cash flows.
+
+Capitalization of software development costs
+
+We capitalize certain costs incurred to develop commercial software products to be sold, leased or otherwise marketed after establishing technological feasibility, and we capitalize costs to develop or purchase internal-use software. Significant estimates and assumptions include: determining the appropriate period over which to amortize the capitalized costs based on estimated useful lives, estimating the marketability of the commercial software products and related future revenues, and assessing the unamortized cost balances for impairment.
+
+For commercial software products, determining the appropriate amortization period is based on estimates of future revenues from sales of the products. We consider various factors to project marketability and future revenues, including an assessment of alternative solutions or products, current and historical demand for the product and anticipated changes in technology that may make the product obsolete.
+
+Estimates used to determine income tax expense
+
+We make certain estimates and judgments in determining income tax expense for financial statement purposes. These estimates and judgments occur in the calculation of certain tax assets and liabilities, which principally arise from differences in the timing of recognition of revenue and expense for tax and financial statement purposes. We also must analyze income tax reserves, as well as determine the likelihood of recoverability of deferred tax assets, and adjust any valuation allowances accordingly. Considerations with respect to the recoverability of deferred tax assets include the period of expiration of the tax asset, planned use of the tax asset, and historical and projected taxable income as well as tax liabilities for the tax jurisdiction to which the tax asset relates. The calculation of our tax liabilities also involves dealing with uncertainties in the application of complex tax regulations. We recognize unrecognized tax benefits in the Consolidated and Combined Financial Statements when it is more likely than not the tax position will be sustained under examination.
+
+Assumptions related to purchase accounting and goodwill
+
+When we acquire a controlling financial interest through a business combination, we use the acquisition method of accounting to allocate the purchase consideration to the assets acquired and liabilities assumed, which are recorded at fair value. Any excess of purchase consideration over the fair value of the assets acquired and liabilities assumed is recognized as goodwill.
+
+Acquisition-related costs are recognized separately from the business combination and are expensed as incurred. The results of operations of acquired businesses are included in the Consolidated and Combined Financial Statements from the acquisition date.
+
+We test goodwill for impairment on an annual basis, as of the first day of the second fiscal quarter, at each of our reporting units, and between annual tests if circumstances change, or if an event occurs that would more likely than not reduce the fair value of a reporting unit below its carrying amount. A significant amount of judgment is involved in determining whether an event indicating impairment has occurred between annual testing dates. Such indicators include, among other things, a significant decline in expected future cash flows; a significant adverse change in legal factors or in the business climate; unanticipated competition; the disposal of a significant component of a reporting unit; and the testing for recoverability of a significant asset group within a reporting unit. The results of our annual goodwill impairment test for fiscal years 2017 and 2016 indicated that the estimated fair value of each reporting unit significantly exceeded its respective carrying value.
+
+See Note 1—Basis of Presentation and Summary of Significant Accounting Policies to the Consolidated and Combined Financial Statements for more information related to our accounting policy related to acquisition accounting and goodwill.
+
+50
+
+Assumptions to determine retirement benefits costs and liabilities
+
+CSRA recognizes actuarial gains and losses in earnings at the time of plan remeasurement, typically annually during the fourth quarter, rather than amortized over time. CSRA’s accounting policy requires the use of fair value rather than the market-related value of plan assets. The weighted-average of the expected long-term rates of return, for all pension plans, on plan assets utilized to determine net periodic pension cost for fiscal year 2017 and fiscal year 2016 were 7.8% and 7.9%, respectively. The assumption for the expected long-term rate of return on plan assets was selected by taking into account the asset mix of the plan, forward looking asset class returns (adjusted for inflation and real returns) and other factors such as changes in market expectations. CSRA and its advisors carefully analyze the risks and returns associated with various investment classes as plan assets are invested. 
+
+Historically, CSRA estimated the service and interest cost components of pension and other post-retirement benefit plans using a single weighted-average discount rate derived from the yield curve used to measure the benefit obligation at the beginning of the period. In the third quarter of fiscal year 2016, CSRA changed the way it estimates the costs of the service and interest components through a full yield curve approach by applying the specific spot rates along the yield curve used in the determination of the net periodic expense to the relevant projected cash flows. The full yield curve approach impacts actuarial gains and losses based upon interest rate expectations, or gains and losses merely resulting from the timing and magnitude of cash outflows associated with our benefit obligations. The individual spot rates are comprised of the rate of return on many high-quality, fixed income corporate bonds of AA rating by one of the nationally recognized statistical rating organizations. 
+
+See Note 16—Pension and Other Postretirement Benefit Plans in our Consolidated and Combined Financial Statements for additional information related to management’s determination and use of actuarial assumptions and our approach used to compute interest and service costs.
+
+Assumptions and estimates used to analyze contingencies and litigation
+
+We are subject to various claims and contingencies associated with lawsuits, insurance, tax and other issues arising in the normal course of business. The Consolidated and Combined Financial Statements reflect the treatment of claims and contingencies based on management’s view of the expected outcome. We consult with legal counsel on issues related to litigation and seek input from other experts and advisors with respect to matters in the ordinary course of business. If the likelihood of an adverse outcome is probable and the amount is estimable, we accrue a liability in accordance with ASC 450 “Contingencies.” Significant changes in the estimates or assumptions used in assessing the likelihood of an adverse outcome could have a material effect on our consolidated financial results.
+
+New Accounting Standards 
+
+See Note 1—Basis of Presentation and Summary of Significant Accounting Policies to our accompanying Consolidated and Combined Financial Statements for information related to our adoption of new accounting standards and for information on our anticipated adoption of recently issued accounting standards.
+
+51
+
+Item 7A. Quantitative and Qualitative Disclosures about Financial Market Risk

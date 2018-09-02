@@ -1,0 +1,635 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+Management’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”) is designed to provide a reader of Danaher’s financial statements with a narrative from the perspective of Company management. The Company’s MD&A is divided into five sections:
+
+•Overview
+
+•Results of Operations
+
+•Liquidity and Capital Resources
+
+•Critical Accounting Estimates
+
+•New Accounting Standards
+
+This discussion and analysis should be read along with Danaher’s audited financial statements and related Notes thereto as of December 31, 2017 and 2016 and for each of the three years in the period ended December 31, 2017 included in this Annual Report.
+
+OVERVIEW
+
+General
+
+Refer to “Item 1. Business—General” for a discussion of Danaher’s strategic objectives and methodologies for delivering long-term shareholder value. Danaher is a multinational business with global operations. During 2017, approximately 63% of Danaher’s sales were derived from customers outside the United States. As a diversified, global business, Danaher’s operations are affected by worldwide, regional and industry-specific economic and political factors. Danaher’s geographic and industry diversity, as well as the range of its products, software and services, help limit the impact of any one industry or the economy of any single country on its consolidated operating results. Given the broad range of products manufactured, software and services provided and geographies served, management does not use any indices other than general economic trends to predict the overall outlook for the Company. The Company’s individual businesses monitor key competitors and customers, including to the extent possible their sales, to gauge relative performance and the outlook for the future.
+
+As a result of the Company’s geographic and industry diversity, the Company faces a variety of opportunities and challenges, including rapid technological development (particularly with respect to computing, automation, artificial intelligence, mobile connectivity, communications and digitization) in most of the Company’s served markets, the expansion and evolution of opportunities in high-growth markets, trends and costs associated with a global labor force, consolidation of the Company’s competitors and increasing regulation. The Company operates in a highly competitive business environment in most markets, and the Company’s long-term growth and profitability will depend in particular on its ability to expand its business in high-growth geographies and high-growth market segments, identify, consummate and integrate appropriate acquisitions, develop innovative and differentiated new products and services with higher gross profit margins, expand and improve the effectiveness of the Company’s sales force, continue to reduce costs and improve operating efficiency and quality, and effectively address the demands of an increasingly regulated global environment. The Company is making significant investments, organically and through acquisitions, to address the rapid pace of technological change in its served markets and to globalize its manufacturing, research and development and customer-facing resources (particularly in high-growth markets) in order to be responsive to the Company’s customers throughout the world and improve the efficiency of the Company’s operations.
+
+Business Performance
+
+Consolidated sales for the year ended December 31, 2017 increased 8.5% as compared to 2016. While differences exist among the Company’s businesses, on an overall basis, demand for the Company’s products and services increased on a year-over-year basis in 2017 as compared to 2016. This demand, together with the Company’s continued investments in sales growth initiatives and the other business-specific factors discussed below, contributed to year-over-year core sales growth of 3.5% (for the definition of “core sales,” refer to “—Results of Operations” below). Geographically, both high-growth and developed markets contributed to year-over-year core sales growth during 2017. The Company defines high-growth markets as developing markets of the world experiencing rapid growth in gross domestic product and infrastructure which includes Eastern Europe, the Middle East, Africa, Latin America and Asia (with the exception of Japan and Australia). Core sales growth rates in high-growth markets grew at a high-single digit rate in 2017 as compared to 2016 led by strength in China, India, Eastern Europe and Latin America, partially offset by weakness in the Middle East. High-growth markets represented 
+
+30
+approximately 30% of the Company’s total sales in 2017. Core sales in developed markets grew at a low-single digit rate in 2017 as compared to 2016 and were driven by North America and Western Europe.
+
+The Company’s income from continuing operations for the year-ended December 31, 2017 totaled approximately $2.5 billion, or $3.50 per diluted share, compared to approximately $2.2 billion, or $3.08 per diluted share for the year ended December 31, 2016.
+
+During 2017, the Company made the strategic decision to discontinue a molecular diagnostic product line in its Diagnostics segment. As a result, the Company recorded $76 million of pretax restructuring, impairment and other related charges ($51 million after-tax or $0.07 per diluted share). These charges included $49 million of noncash charges for the impairment of certain technology-related intangible assets as well as related inventory and property, plant and equipment with no further use. In addition, the Company incurred $27 million of cash restructuring costs primarily related to employee severance and related charges. Substantially all restructuring activities related to this discontinued product line were completed in 2017.
+
+Acquisitions
+
+During 2017, the Company acquired ten businesses for total consideration of $386 million in cash, net of cash acquired. The businesses acquired complement existing units of the Company’s Life Sciences, Dental and Environmental & Applied Solutions segments. The aggregate annual sales of these ten businesses at the time of their respective acquisitions, in each case based on the company’s revenues for its last completed fiscal year prior to the acquisition, were $160 million. 
+
+For a discussion of the Company’s 2016 and 2015 acquisition and disposition activity, refer to “Liquidity and Capital Resources—Investing Activities”.
+
+Fortive Separation
+
+On July 2, 2016, Danaher completed the Separation of its former Test & Measurement segment, Industrial Technologies segment (excluding the product identification businesses) and retail/commercial petroleum business by distributing to Danaher stockholders on a pro rata basis all of the issued and outstanding common stock of Fortive, the entity Danaher incorporated to hold such businesses. To effect the Separation, Danaher distributed to its stockholders one share of Fortive common stock for every two shares of Danaher common stock outstanding as of June 15, 2016, the record date for the distribution.
+
+During the second quarter of 2016, the Company received net cash distributions of approximately $3.0 billion from Fortive as consideration for the Company’s contribution of assets to Fortive in connection with the Separation (“Fortive Distribution”). Danaher used a portion of the cash distribution proceeds to repay the $500 million aggregate principal amount of 2.3% senior unsecured notes that matured in June 2016 and to redeem approximately $1.9 billion in aggregate principal amount of outstanding indebtedness in August 2016 (consisting of the Company’s 5.625% senior unsecured notes due 2018, 5.4% senior unsecured notes due 2019 and 3.9% senior unsecured notes due 2021 (collectively the “Redeemed Notes”)). Danaher also paid an aggregate of $188 million in make-whole premiums in connection with the August 2016 redemptions, plus accrued and unpaid interest. The Company used the balance of the Fortive Distribution to fund certain of the Company’s regular, quarterly cash dividends to shareholders. 
+
+The accounting requirements for reporting the Separation of Fortive as a discontinued operation were met when the Separation was completed. Accordingly, the accompanying Consolidated Financial Statements for all periods presented reflect this business as a discontinued operation. The Company allocated a portion of the consolidated interest expense and income to discontinued operations based on the ratio of the discontinued business’ net assets to the Company’s consolidated net assets. Fortive had revenues of approximately $3.0 billion in 2016 prior to the Separation and approximately $6.2 billion in 2015. 
+
+As a result of the Separation, the Company incurred $48 million in Separation-related costs during the year ended December 31, 2016 which are included in earnings from discontinued operations, net of income taxes in the accompanying Consolidated Statement of Earnings. These Separation costs primarily relate to professional fees associated with preparation of regulatory filings and Separation activities within finance, tax, legal and information system functions as well as certain investment banking fees incurred upon the Separation. 
+
+In 2017, Danaher recorded a $22 million income tax benefit related to the release of previously provided reserves associated with uncertain tax positions on certain Danaher tax returns which were jointly filed with Fortive entities. These reserves were released due to the expiration of statutes of limitations for those returns. All Fortive entity-related balances were included in the income tax benefit related to discontinued operations.
+
+31
+Sale of Investments
+
+The Company received $138 million of cash proceeds and recorded $22 million in short-term other receivables from the sale of certain marketable equity securities during 2017. The Company recorded a pretax gain related to this sale of $73 million ($46 million after-tax or $0.06 per diluted share).
+
+For a discussion of the Company’s 2016 and 2015 sales of investments activity, refer to “Liquidity and Capital Resources—Investing Activities”.
+
+U.S. Tax Cuts and Jobs Act
+
+On December 22, 2017, the TCJA was enacted, which substantially changes the U.S. tax system, including lowering the corporate tax rate from 35% to 21% (beginning in 2018), and affected the Company in a number of ways. As a result of the TCJA, the Company recognized a provisional tax liability of approximately $1.2 billion in 2017 for the Transition Tax, which is payable over a period of eight years. The Company also remeasured U.S. deferred tax assets and liabilities based on the income tax rates at which the deferred tax assets and liabilities are expected to reverse in the future (generally 21%), resulting in an income tax benefit of approximately $1.2 billion. After considering the effect of the TCJA, the Company expects its 2018 effective tax rate to be in the range of 20% to 21%. The Company does not expect the Transition Tax to significantly impact the Company’s cash flows from operations due to the payment period of eight years and the Company’s ability to use available credits to reduce the required payments. For further discussion of the TCJA, refer to “—Income Taxes.”
+
+RESULTS OF OPERATIONS
+
+In this report, references to the non-GAAP measure of core sales (also referred to as core revenues or sales from existing businesses) refer to sales from continuing operations calculated according to generally accepted accounting principles in the United States (“GAAP”) but excluding:
+
+•sales from acquired businesses; and
+
+•the impact of currency translation.
+
+References to sales or operating profit attributable to acquisitions or acquired businesses refer to sales or operating profit, as applicable, from acquired businesses recorded prior to the first anniversary of the acquisition less the amount of sales and operating profit, as applicable, attributable to divested product lines not considered discontinued operations. The portion of revenue attributable to currency translation is calculated as the difference between:
+
+•the period-to-period change in revenue (excluding sales from acquired businesses); and
+
+•the period-to-period change in revenue (excluding sales from acquired businesses) after applying current period foreign exchange rates to the prior year period.
+
+Core sales growth should be considered in addition to, and not as a replacement for or superior to, sales, and may not be comparable to similarly titled measures reported by other companies. Management believes that reporting the non-GAAP financial measure of core sales growth provides useful information to investors by helping identify underlying growth trends in Danaher’s business and facilitating comparisons of Danaher’s revenue performance with its performance in prior and future periods and to Danaher’s peers. Management also uses core sales growth to measure the Company’s operating and financial performance. The Company excludes the effect of currency translation from core sales because currency translation is not under management’s control, is subject to volatility and can obscure underlying business trends, and excludes the effect of acquisitions and divestiture-related items because the nature, size, timing and number of acquisitions and divestitures can vary dramatically from period-to-period and between the Company and its peers and can also obscure underlying business trends and make comparisons of long-term performance difficult.
+
+Throughout this discussion, references to sales volume refer to the impact of both price and unit sales and references to productivity improvements generally refer to improved cost efficiencies resulting from the ongoing application of DBS.
+
+32
+Revenue Performance  
+
+[DATA_TABLE_REMOVED]
+
+Core sales grew on a year-over-year basis in both 2017 and 2016. Sales from acquired businesses increased on a year-over-year basis in both years primarily due to the acquisitions of Cepheid in the fourth quarter of 2016 and Pall in the third quarter of 2015. Currency translation increased reported sales on a year-over-year basis in 2017 primarily due to the U.S. dollar weakening against the euro, partially offset by the U.S. dollar strengthening against the Japanese yen and Chinese renminbi. Currency translation reduced reported sales on a year-over-year basis in 2016 as the U.S. dollar was, on average, stronger against other major currencies. 
+
+Operating profit margins were 16.5% for the year ended December 31, 2017 as compared to 16.3% in 2016. The following factors impacted year-over-year operating profit margin comparisons.
+
+2017 vs. 2016 operating profit margin comparisons were favorably impacted by: [DATA_TABLE_REMOVED]
+
+•Acquisition-related charges in 2016 - 50 basis points
+
+2017 vs. 2016 operating profit margin comparisons were unfavorably impacted by:[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+•Third quarter 2016 gain on resolution of acquisition-related matters less the impact of fourth quarter 2017 net gain on resolution of acquisition-related matters - 5 basis points[DATA_TABLE_REMOVED]
+
+Operating profit margins were 16.3% for the year ended December 31, 2016 as compared to 15.0% in 2015. The following factors impacted year-over-year operating profit margin comparisons.
+
+2016 vs. 2015 operating profit margin comparisons were favorably impacted by:[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+•Acquisition-related charges in the first quarter of 2015 associated with the acquisition of Nobel Biocare, primarily related to fair value adjustments to acquired inventory - 15 basis points
+
+•2016 gains on resolution of acquisition-related matters - 10 basis points
+
+33
+2016 vs. 2015 operating profit margin comparisons were unfavorably impacted by:[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+Business Segments
+
+Sales by business segment for the years ended December 31 are as follows ($ in millions):
+
+[DATA_TABLE_REMOVED]
+
+LIFE SCIENCES
+
+The Company’s Life Sciences segment offers a broad range of research tools that scientists use to study the basic building blocks of life, including genes, proteins, metabolites and cells, in order to understand the causes of disease, identify new therapies and test new drugs and vaccines. The segment, through its Pall business, is also a leading provider of filtration, separation and purification technologies to the biopharmaceutical, food and beverage, medical, aerospace, microelectronics and general industrial sectors. 
+
+Life Sciences Selected Financial Data 
+
+[DATA_TABLE_REMOVED]
+
+Revenue Performance 
+
+[DATA_TABLE_REMOVED]
+
+2017 Compared to 2016
+
+During the first quarter of 2017, a product line was transferred from the Life Sciences segment to the Environmental & Applied Solutions segment. While this change is not material to segment results in total, the resulting change in sales growth has been included in the “Acquisitions and other” line in the table above.
+
+34
+Price increases in the segment contributed 0.5% to revenue growth on a year-over-year basis during 2017 as compared with 2016 and are reflected as a component of the change in core revenue growth.
+
+Core sales of the business’ broad range of mass spectrometers continued to grow on a year-over-year basis led by strong sales growth in the pharmaceutical market across Asia and North America as well as sales growth in the food and forensics markets across all major regions. This growth was partially offset by continuing declines in demand in the clinical market in North America. Core sales of microscopy products increased on a year-over-year basis with growth in demand across most end-markets particularly in Western Europe and the high-growth markets. Year-over-year sales for the business’ flow cytometry and particle counting products grew in 2017, primarily due to new product introductions and were led by increases in sales in North America, Western Europe and China. Core sales for filtration, separation and purification technologies grew on a year-over-year basis led by continued growth in biopharmaceuticals and microelectronics, partially offset by declines in the process, industrial and medical products particularly in the first half of 2017. Geographically, core sales in filtration, separation and purification technologies were primarily led by growth in North America and Asia, partially offset by declines in the Middle East largely due to a major project in 2016 which did not repeat in 2017.
+
+Operating profit margins increased 230 basis points during 2017 as compared to 2016. The following factors impacted year-over-year operating profit margin comparisons.
+
+2017 vs. 2016 operating profit margin comparisons were favorably impacted by:[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+2017 vs. 2016 operating profit margin comparisons were unfavorably impacted by:
+
+•Fourth quarter 2017 loss on resolution of acquisition-related matters - 5 basis points
+
+2016 Compared to 2015 
+
+Price increases in the segment did not have a significant impact on sales growth on a year-over-year basis during 2016 as compared with 2015.
+
+Core sales of the business’ broad range of mass spectrometers continued to grow on a year-over-year basis led by strong core sales growth in the pharmaceutical market in China and India as well as the services businesses. This growth was partially offset by declines in the overall market in Japan and softness in demand in the clinical end-market in North America. Core sales of microscopy products were essentially flat on a year-over-year basis with growth in demand in North America and China offset by declines in Japan. Year-over-year demand for the business’ flow cytometry and particle counting products grew in 2016, led by increases in demand in North America, Western Europe and China.
+
+The acquisition of Pall in August 2015 contributed the majority of the increase in sales from acquisitions. During the year ended December 31, 2016, Pall’s revenues grew on a year-over-year basis compared to the business’ 2015 results, led by continued growth in the life sciences business primarily due to demand for biopharmaceutical solutions including single-use technologies, partially offset by soft demand in the industrial business as a result of overall market weakness.
+
+Operating profit margins increased 540 basis points during 2016 as compared to 2015. The following factors impacted year-over-year operating profit margin comparisons. 
+
+2016 vs. 2015 operating profit margin comparisons were favorably impacted by:[DATA_TABLE_REMOVED]
+
+35
+[DATA_TABLE_REMOVED]
+
+2016 vs. 2015 operating profit margin comparisons were unfavorably impacted by:[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+Depreciation and amortization expense increased during 2016 as compared to 2015 due primarily to the impact of recently acquired businesses, particularly Pall, and the resulting increase in depreciable and amortizable assets.
+
+DIAGNOSTICS
+
+The Company’s Diagnostics segment offers analytical instruments, reagents, consumables, software and services that hospitals, physicians’ offices, reference laboratories and other critical care settings use to diagnose disease and make treatment decisions. 
+
+Diagnostics Selected Financial Data
+
+[DATA_TABLE_REMOVED]
+
+Revenue Performance 
+
+[DATA_TABLE_REMOVED]
+
+2017 Compared to 2016
+
+Price increases in the segment contributed 0.5% to sales growth on a year-over-year basis during 2017 as compared with 2016 and are reflected as a component of the change in core revenue growth.
+
+Core sales in the clinical lab business increased on a year-over-year basis. Geographically, continued strong demand in high-growth markets for the clinical lab business was partially offset by declines in Western Europe and Japan. Increased demand in the immunoassay product line drove the majority of the growth for the year in the clinical lab business. Growth in the acute care diagnostic business was driven by continued strong consumable sales in 2017 across most major geographies. Increased demand for advanced staining and core histology instruments and related consumables across most major geographies drove the majority of the year-over-year core sales growth in the pathology diagnostics business.
+
+The acquisition of Cepheid in November 2016 contributed the majority of the increase in sales from acquisitions. During 2017, Cepheid’s revenues compared to the business’ 2016 results grew on a year-over-year basis in most major geographies and product lines. As Cepheid is integrated into the Company, a process that will continue over the next several years, the Company has realized and expects to realize cost savings and other business process improvements through the application of DBS. 
+
+36
+During 2017, the Company made the strategic decision to discontinue a molecular diagnostic product line in its Diagnostics segment. As a result, the Company recorded $76 million of pretax restructuring, impairment and other related charges ($51 million after-tax or $0.07 per diluted share). These charges included $49 million of noncash charges for the impairment of certain technology-related intangible assets as well as related inventory and property, plant and equipment with no further use. In addition, the Company incurred $27 million of cash restructuring costs primarily related to employee severance and related charges. Substantially all restructuring activities related to this discontinued product line were completed in 2017.
+
+Operating profit margins declined 70 basis points during 2017 as compared to 2016. The following factors impacted year-over-year operating profit margin comparisons.
+
+2017 vs. 2016 operating profit margin comparisons were favorably impacted by:[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+•2017 gain on resolution of acquisition-related matters - 25 basis points
+
+2017 vs. 2016 operating profit margin comparisons were unfavorably impacted by:[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+Depreciation and amortization increased during 2017 as compared with 2016 primarily due to the impact of recently acquired businesses, primarily Cepheid, and the resulting increase in depreciable and amortizable assets.
+
+2016 Compared to 2015 
+
+Price increases in the segment contributed 0.5% to sales growth on a year-over-year basis during 2016 as compared with 2015 and are reflected as a component of the change in core revenue growth.
+
+Geographically, demand in the clinical lab business increased on a year-over-year basis led by continuing strong demand in high-growth markets, particularly China, partially offset by declines in North America. Increased demand in the immunoassay products drove the majority of growth for the year in the clinical business. Continued strong consumable sales in 2016 particularly in China, Western Europe, North America and Japan drove the majority of the year-over-year sales growth in the acute care diagnostic business. Increased demand for advanced staining consumables, particularly in North America and China, and core histology instruments across most major geographies, but particularly in China, drove the majority of the year-over-year sales growth in the pathology diagnostics business.
+
+Operating profit margins increased 20 basis points during 2016 as compared to 2015. The following factors impacted year-over-year operating profit margin comparisons.
+
+2016 vs. 2015 operating profit margin comparisons were favorably impacted by:[DATA_TABLE_REMOVED]
+
+2016 vs. 2015 operating profit margin comparisons were unfavorably impacted by:[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+37
+Amortization increased during 2016 as compared with 2015 primarily due to the impact of recently acquired businesses including Cepheid and the resulting increase in amortizable assets.
+
+DENTAL
+
+The Company’s Dental segment provides products that are used to diagnose, treat and prevent disease and ailments of the teeth, gums and supporting bone, as well as to improve the aesthetics of the human smile. The Company is a leading worldwide provider of a broad range of dental consumables, equipment and services, and is dedicated to driving technological innovations that help dental professionals improve clinical outcomes and enhance productivity. 
+
+Dental Selected Financial Data 
+
+[DATA_TABLE_REMOVED]
+
+Revenue Performance 
+
+[DATA_TABLE_REMOVED]
+
+2017 Compared to 2016 
+
+Price increases in the segment did not have a significant impact on sales growth on a year-over-year basis during 2017 as compared with 2016.
+
+Geographically, year-over-year core revenue growth was strong in China, Russia and other high-growth markets, offset by lower demand in the United States and Western Europe. Strong year-over-year growth continued during 2017 for the specialty consumables business, which consists of implant solutions and orthodontic products. Core sales growth for the specialty consumables business was led by high-growth markets and North America. Dental equipment core sales were essentially flat during 2017, as increased demand in high-growth markets was offset by weaker demand in the United States and Western Europe, particularly later in the year for North America due to the realignment of dental equipment distributors and manufacturers. Demand was lower for traditional dental consumable product lines in North America and Western Europe reflecting inventory destocking by several distribution partners. While the impact of inventory destocking in the consumables business began to lessen late in 2017, the recent realignment of distributors and manufacturers in the dental industry, primarily in North America, may have a continued negative impact on revenues in the near-term.
+
+Operating profit margins declined 80 basis points during 2017 as compared to 2016. The following factors unfavorably impacted year-over-year operating profit margin comparisons:[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+38
+[DATA_TABLE_REMOVED]
+
+2016 Compared to 2015 
+
+Price increases in the segment contributed 0.5% to sales growth on a year-over-year basis during 2016 as compared with 2015 and are reflected as a component of the change in core revenue growth.
+
+Geographically, year-over-year core revenue growth was strong in China and other high-growth markets, with low-single digit growth in the United States partially offset by lower demand in Western Europe. Continued strong year-over-year demand for implant solutions, particularly in China and North America, and increased demand for orthodontic products, primarily in China and Russia, drove growth during 2016. Dental equipment core sales also increased during 2016, primarily in high-growth markets and North America partially offset by weaker demand in Western Europe. Lower demand for dental consumable product lines in North America and the Middle East partially offset this year-over-year growth in 2016.
+
+Operating profit margins increased 160 basis points during 2016 as compared to 2015. The following factors impacted year-over-year operating profit margin comparisons.
+
+2016 vs. 2015 operating profit margin comparisons were favorably impacted by:[DATA_TABLE_REMOVED]
+
+•Acquisition-related charges in the first quarter of 2015 associated with the acquisition of Nobel Biocare, primarily related to fair value adjustments to acquired inventory - 80 basis points
+
+2016 vs. 2015 operating profit margin comparisons were unfavorably impacted by:[DATA_TABLE_REMOVED]
+
+ENVIRONMENTAL & APPLIED SOLUTIONS
+
+The Company’s Environmental & Applied Solutions segment products and services help protect important resources and keep global food and water supplies safe. The Company’s water quality business provides instrumentation, services and disinfection systems to help analyze, treat and manage the quality of ultra-pure, potable, industrial, waste, ground, source and ocean water in residential, commercial, municipal, industrial and natural resource applications. The Company’s product identification business provides equipment, software, services and consumables for various color and appearance management, packaging design and quality management, printing, marking, coding and traceability applications for consumer, pharmaceutical and industrial products.
+
+Environmental & Applied Solutions Selected Financial Data 
+
+[DATA_TABLE_REMOVED]
+
+39
+Revenue Performance 
+
+[DATA_TABLE_REMOVED]
+
+2017 Compared to 2016 
+
+During the first quarter of 2017, a product line was transferred from the Life Sciences segment to the Environmental & Applied Solutions segment. While this change is not material to segment results in total, the resulting change in sales growth has been included in the “Acquisitions and other” line in the table above. 
+
+Price increases in the segment contributed 1.0% to sales growth on a year-over-year basis during 2017 as compared with 2016 and are reflected as a component of the change in core revenue growth.
+
+Core sales in the segment’s water quality businesses grew at a low-single digit rate during 2017 as compared with 2016. Year-over-year core sales in the analytical instrumentation product line grew, as increased demand in the industrial and municipal end-markets was partially offset by lower demand in the environmental end-markets. Geographically, year-over-year core revenue growth in the analytical instrumentation product line was driven by increased demand in China, Western Europe and North America, partially offset by lower demand in the Middle East and Latin America. Year-over-year core revenue growth in the business’ chemical treatment solutions product line was due primarily to an expansion of the customer base in the United States, driven by higher demand in food, steel and oil and gas-related end-markets. Core sales in the business’ ultraviolet water disinfection product line grew on a year-over-year basis due primarily to higher demand in municipal and industrial end-markets in North America, Western Europe and Asia. 
+
+Core sales in the segment’s product identification businesses grew at a mid-single digit rate during 2017 as compared with 2016. Continued strong year-over-year demand for marking and coding equipment and related consumables in most major geographies, led by North America and Western Europe, drove the majority of the core revenue growth. Demand for the business’ packaging and color solutions also increased year-over-year. Geographically, core revenue growth for packaging and color solutions was led by North America, Western Europe and Asia.
+
+Operating profit margins declined 60 basis points during 2017 as compared to 2016. The following factors impacted year-over-year operating profit margin comparisons.
+
+2017 vs. 2016 operating profit margin comparisons were favorably impacted by:[DATA_TABLE_REMOVED]
+
+2017 vs. 2016 operating profit margin comparisons were unfavorably impacted by:[DATA_TABLE_REMOVED]
+
+2016 Compared to 2015
+
+Price increases in the segment contributed 1.0% to sales growth on a year-over-year basis during 2016 as compared with 2015 and are reflected as a component of the change in core revenue growth.
+
+Core sales in the segment’s water quality businesses grew at a low-single digit rate during 2016 as compared with 2015. Year-over-year core sales in the analytical instrumentation product line grew, as increases in sales to the U.S. municipal end-market and Western Europe were partially offset by lower demand in Eastern Europe and China. Year-over-year core revenue growth in the business’ chemical treatment solutions product line was due primarily to an expansion of the customer base in the United States. Chemical treatment solutions saw an improvement in commodity oriented end-markets in Latin America in the fourth quarter of 2016 after declining growth in the earlier portion of 2016. Core sales in the business’ ultraviolet water disinfection 
+
+40
+product line grew on a year-over-year basis due primarily to higher demand in municipal and industrial end-markets in Western Europe, China and Australia. 
+
+Core sales in the segment’s product identification businesses grew at a mid-single digit rate during 2016 as compared with 2015. Continued strong year-over-year demand for marking and coding equipment and related consumables in most major geographies, led by North America, Western Europe and Latin America, drove the majority of the core revenue growth. Demand for the business’ packaging and color solutions was flat year-over-year, as core revenue growth in the second half of the year was offset by weakness in the first half of the year. Geographically, increased demand in the high-growth markets was offset by weaker demand in North America and Europe.
+
+Operating profit margins declined 80 basis points during 2016 as compared to 2015. The following factors unfavorably impacted year-over-year operating profit margin comparisons.[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+COST OF SALES AND GROSS PROFIT
+
+[DATA_TABLE_REMOVED]
+
+The year-over-year increase in cost of sales during 2017 as compared with 2016 is due primarily to the impact of higher year-over-year sales volumes, including sales from recently acquired businesses and the impact of restructuring, impairment and other related charges associated with the Company’s strategic decision to discontinue a product line in its Diagnostics segment. This increase in cost of sales was partially offset by year-over-year cost savings at recently acquired businesses, incremental year-over-year cost savings associated with the continued productivity improvement actions taken in 2017 and 2016, and the year-over-year decrease in acquisition-related charges associated with fair value adjustments to acquired inventory which decreased cost of sales by $21 million during 2017 as compared to 2016.
+
+The year-over-year increase in cost of sales during 2016 as compared with 2015, is due primarily to the impact of higher year-over-year sales volumes, including sales from recently acquired businesses. This increase in cost of sales was partially offset by year-over-year cost savings at recently acquired businesses, particularly Pall, incremental year-over-year cost savings associated with the continued productivity improvement actions taken in 2016 and 2015, and the year-over-year decrease in acquisition-related charges associated with fair value adjustments to acquired inventory which decreased cost of sales by $85 million during 2016 as compared to 2015.
+
+The year-over-year increase in gross profit margins during 2017 as compared with 2016 is due primarily to the favorable impact of higher year-over-year sales volumes and incremental year-over-year cost savings associated with the continuing productivity improvements taken in 2017 and 2016. In addition, the acquisition-related charges associated with fair value adjustments to acquired inventory and deferred revenue were higher in 2016 than 2017, which improved gross profit margins by 10 basis points during 2017 as compared with 2016.
+
+The year-over-year increase in gross profit margins during 2016 as compared with 2015 is due primarily to the favorable impact of higher year-over-year sales volumes, incremental year-over-year cost savings associated with the continuing productivity improvements taken in 2016 and 2015 and improved gross profit margins on a year-over-year basis at recently acquired businesses, particularly Pall. In addition, the acquisition-related charges associated with fair value adjustments to acquired inventory and deferred revenue were higher in 2015 than 2016, which improved gross profit margins by 50 basis points during 2016 as compared with 2015.
+
+41
+OPERATING EXPENSES
+
+[DATA_TABLE_REMOVED]
+
+SG&A expenses as a percentage of sales declined 20 basis points on a year-over-year basis for 2017 compared with 2016. The decline was driven by increased leverage of the Company’s general and administrative cost base resulting from higher 2017 sales volumes, continuing productivity improvements taken in 2017 and 2016 as well as the benefit of lower acquisition charges in 2017 compared to 2016, particularly change in control payments and restructuring costs in connection with the acquisition of Cepheid. The decline in SG&A expenses as a percentage of sales was partially offset by restructuring, impairment and other related charges associated with the Company’s strategic decision to discontinue a product line in its Diagnostics segment, higher relative spending levels at recently acquired companies, primarily Cepheid, and continued investments in sales and marketing growth initiatives. 
+
+SG&A expenses as a percentage of sales increased 30 basis points on a year-over-year basis for 2016 compared with 2015. The increase in SG&A expenses as a percentage of sales from 2015 to 2016 was driven by continued investments in sales and marketing growth initiatives and higher relative spending levels at recently acquired businesses. Change in control payments and restructuring costs in connection with the acquisition of Cepheid, as well as associated transaction costs, also increased SG&A expenses as a percentage of sales by 35 basis points during 2016. These increases were partially offset by the benefit of increased leverage of the Company’s general and administrative cost base resulting from higher 2016 sales, lower year-over-year costs associated continuing productivity improvement initiatives and incremental year-over-year cost savings associated with the continuing productivity improvements taken in 2016 and 2015 as well as the benefit of lower Pall acquisition charges (change in control payments to Pall employees in connection with the acquisition of Pall, as well as associated transaction costs and amortization charges associated with acquisition-related intangible assets, net of the positive impact of freezing pension benefits) in 2016 compared to 2015.
+
+R&D expenses (consisting principally of internal and contract engineering personnel costs) as a percentage of sales increased in 2017 as compared with 2016 due primarily to higher R&D expenses as a percentage of sales in the businesses most recently acquired, primarily Cepheid, as well as year-over-year increases in spending in the Company’s new product development initiatives. R&D expenses as a percentage of sales declined in 2016 as compared to 2015 due primarily to lower R&D expenses as a percentage of sales in the businesses most recently acquired, particularly Pall, as well as year-over-year differences in the timing of investments in the Company’s new product development initiatives.
+
+NONOPERATING INCOME (EXPENSE) 
+
+The Company received $138 million of cash proceeds and recorded $22 million in short-term other receivables from the sale of certain marketable equity securities during 2017. The Company recorded a pretax gain related to this sale of $73 million ($46 million after-tax or $0.06 per diluted share).
+
+During 2016, the Company received cash proceeds of $265 million from the sale of certain marketable equity securities and recorded a pretax gain related to this sale of $223 million ($140 million after-tax or $0.20 per diluted share). 
+
+During 2016, the Company also paid $188 million of make-whole premiums associated with the early extinguishment of the Redeemed Notes. The Company recorded a loss on extinguishment of these borrowings, net of certain deferred gains, of $179 million ($112 million after-tax or $0.16 per diluted share). 
+
+During 2015, the Company received cash proceeds of $43 million from the sale of certain marketable equity securities and recorded a pretax gain related to these sales of $12 million ($8 million after-tax or $0.01 per diluted share). 
+
+INTEREST COSTS
+
+Interest expense of $163 million for 2017 was $22 million lower than in 2016, due primarily to the decrease in interest costs as a result of the early extinguishment of certain outstanding borrowings in the third quarter of 2016 using the proceeds from the Fortive Distribution and due to lower commercial paper borrowings in 2017 compared to 2016, partially offset by the cost of 
+
+42
+additional long-term debt refinancing relating to the acquisition of Cepheid. For a further description of the Company’s debt as of December 31, 2017 refer to Note 9 to the Consolidated Financial Statements. Interest expense of $184 million in 2016 was $45 million higher than the 2015 interest expense of $140 million due primarily to the higher interest costs associated with the debt issued in the second half of 2015 in connection with the 2015 acquisition of Pall, partially offset by decreases in interest costs as a result of the early extinguishment of the Redeemed Notes in the third quarter of 2016 using the proceeds from the Fortive Distribution.
+
+INCOME TAXES
+
+General
+
+Income tax expense and deferred tax assets and liabilities reflect management’s assessment of future taxes expected to be paid on items reflected in the Company’s Consolidated Financial Statements. The Company records the tax effect of discrete items and items that are reported net of their tax effects in the period in which they occur.
+
+The Company’s effective tax rate can be affected by changes in the mix of earnings in countries with different statutory tax rates (including as a result of business acquisitions and dispositions), changes in the valuation of deferred tax assets and liabilities, accruals related to contingent tax liabilities and period-to-period changes in such accruals, the results of audits and examinations of previously filed tax returns (as discussed below), the expiration of statutes of limitations, the implementation of tax planning strategies, tax rulings, court decisions, settlements with tax authorities and changes in tax laws and regulations, including the TCJA and legislative policy changes that may result from the OECD’s initiative on Base Erosion and Profit Shifting. For a description of the tax treatment of earnings that are planned to be reinvested indefinitely outside the United States, refer to “—Liquidity and Capital Resources – Cash and Cash Requirements” below.
+
+The amount of income taxes the Company pays is subject to ongoing audits by federal, state and foreign tax authorities, which often result in proposed assessments. Management performs a comprehensive review of its global tax positions on a quarterly basis. Based on these reviews, the results of discussions and resolutions of matters with certain tax authorities, tax rulings and court decisions and the expiration of statutes of limitations, reserves for contingent tax liabilities are accrued or adjusted as necessary. For a discussion of risks related to these and other tax matters, refer to “Item 1A. Risk Factors”.
+
+On December 22, 2017, the TCJA was enacted, substantially changing the U.S. tax system and affecting the Company in a number of ways. Notably, the TCJA:  
+
+•establishes a flat corporate income tax rate of 21.0% on U.S. earnings; 
+
+•imposes a one-time tax on unremitted cumulative non-U.S. earnings of foreign subsidiaries, which we refer to in this Annual Report as the Transition Tax; 
+
+•imposes a new minimum tax on certain non-U.S. earnings, irrespective of the territorial system of taxation, and generally allows for the repatriation of future earnings of foreign subsidiaries without incurring additional U.S. taxes by transitioning to a territorial system of taxation; 
+
+•subjects certain payments made by a U.S. company to a related foreign company to certain minimum taxes (Base Erosion Anti-Abuse Tax); 
+
+•eliminates certain prior tax incentives for manufacturing in the United States and creates an incentive for U.S. companies to sell, lease or license goods and services abroad by allowing for a reduction in taxes owed on earnings related to such sales; 
+
+•allows the cost of investments in certain depreciable assets acquired and placed in service after September 27, 2017 to be immediately expensed; and 
+
+•reduces deductions with respect to certain compensation paid to specified executive officers. 
+
+While the changes from the TCJA are generally effective beginning in 2018, U.S. GAAP accounting for income taxes requires the effect of a change in tax laws or rates to be recognized in income from continuing operations for the period that includes the enactment date. Due to the complexities involved in accounting for the enactment of the TCJA, the SEC Staff Accounting Bulletin No. 118 (“SAB No. 118”) allowed the Company to record provisional amounts in earnings for the year ended December 31, 2017. Where reasonable estimates can be made, the provisional accounting should be based on such estimates. When no reasonable estimate can be made, the provisional accounting may be based on the tax law in effect before the TCJA. The Company is required to complete its tax accounting for the TCJA within a one year period when it has obtained, prepared, and analyzed the information to complete the income tax accounting. 
+
+43
+The Company has not completed its accounting for the tax effects of enactment of the TCJA; however, as described below, the Company has made reasonable estimates of the effects of the TCJA on its Consolidated Financial Statements which are included as a component of income tax expense from continuing operations: 
+
+•Deferred tax assets and liabilities: U.S. deferred tax assets and liabilities were remeasured based on the rates at which they are expected to reverse in the future, which is generally 21.0%, resulting in an income tax benefit of approximately $1.2 billion. The Company will continue to analyze certain aspects of the TCJA which could potentially affect the tax basis of the reported amounts. Additionally, the Company’s U.S. tax returns for 2017 will be filed during the fourth quarter of 2018 and any changes to the tax positions for temporary differences compared to the estimates used will result in an adjustment of the estimated tax benefit recorded as of December 31, 2017.  
+
+•Transition Tax effects: The Transition Tax is based on the Company’s total post-1986 earnings and profits that were previously deferred from U.S. income taxes. The Company recorded a provisional amount for the Transition Tax expense resulting in an increase in income tax expense of approximately $1.2 billion. The Company will continue to evaluate the TCJA and any future guidance from the U.S. Treasury Department and IRS in the determination of the Transition Tax which could result in adjustment of the estimate recorded as of December 31, 2017. [DATA_TABLE_REMOVED]
+
+The Company will continue to analyze the effects of the TCJA on its Consolidated Financial Statements and operations. Additional impacts from the enactment of the TCJA will be recorded as they are identified during the measurement period as provided for in SAB No. 118, which extends up to one year from the enactment date.  
+
+Year-Over-Year Changes in the Tax Provision and Effective Tax Rate
+
+The Company’s effective tax rate related to continuing operations for the years ended December 31, 2017, 2016 and 2015 was 16.0%, 17.5% and 14.4%, respectively.
+
+The Company’s effective tax rate for each of 2017, 2016 and 2015 differs from the U.S. federal statutory rate of 35.0% due principally to the Company’s earnings outside the United States that are indefinitely reinvested and taxed at rates lower than the U.S. federal statutory rate. In addition: [DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+The Company conducts business globally, and files numerous consolidated and separate income tax returns in the U.S. federal, state and foreign jurisdictions. The countries in which the Company has a material presence that have had significantly lower statutory tax rates than the United States include China, Denmark, Germany, Singapore, Switzerland and the United Kingdom. The Company’s ability to obtain a tax benefit from lower statutory tax rates outside of the United States depends on its levels of taxable income in these foreign countries and the amount of foreign earnings which are indefinitely reinvested in those 
+
+44
+countries. The Company believes that a change in the statutory tax rate of any individual foreign country would not have a material effect on the Company’s Consolidated Financial Statements given the geographic dispersion of the Company’s taxable income. 
+
+The Company and its subsidiaries are routinely examined by various domestic and international taxing authorities. The IRS has completed substantially all of the examinations of the Company’s federal income tax returns through 2011 and is currently examining certain of the Company’s federal income tax returns for 2012 through 2015. In addition, the Company has subsidiaries in Austria, Belgium, Canada, China, Denmark, Finland, France, Germany, Hong Kong, India, Italy, Japan, New Zealand, Sweden, Switzerland, the United Kingdom and various other countries, states and provinces that are currently under audit for years ranging from 2004 through 2015. 
+
+Tax authorities in Denmark have raised significant issues related to interest accrued by certain of the Company’s subsidiaries. On December 10, 2013, the Company received assessments from the Danish tax authority (“SKAT”) totaling approximately DKK 1.5 billion (approximately $245 million based on exchange rates as of December 31, 2017) including interest through December 31, 2017, imposing withholding tax relating to interest accrued in Denmark on borrowings from certain of the Company’s subsidiaries for the years 2004-2009. The Company is currently in discussions with SKAT and anticipates receiving an assessment for years 2010-2012 totaling approximately DKK 895 million (approximately $144 million based on exchange rates as of December 31, 2017) including interest through December 31, 2017. Management believes the positions the Company has taken in Denmark are in accordance with the relevant tax laws and is vigorously defending its positions. The Company appealed these assessments with the National Tax Tribunal in 2014 and intends on pursuing this matter through the European Court of Justice should this appeal be unsuccessful. The ultimate resolution of this matter is uncertain, could take many years, and could result in a material adverse impact to the Company’s financial statements, including its effective tax rate. 
+
+After considering the effect of the TCJA, the Company expects its 2018 effective tax rate to be in the range of 20% to 21%. Any future legislative changes in the United States including regulations related to the TCJA or potential tax reform in other jurisdictions, could cause the Company’s effective tax rate to differ from this estimate. Refer to Note 12 to the Consolidated Financial Statements for additional information related to income taxes.
+
+DISCONTINUED OPERATIONS 
+
+As further discussed in Note 3 to the Consolidated Financial Statements, discontinued operations includes the results of the Fortive businesses which were disposed of during the third quarter of 2016 as well as the results of the Company’s former communications business which was disposed of during the third quarter of 2015. All periods presented have been restated to reflect the Fortive and communications businesses within discontinued operations. 
+
+In 2017, Danaher recorded a $22 million income tax benefit related to the release of previously provided reserves associated with uncertain tax positions on certain Danaher tax returns which were jointly filed with Fortive entities. These reserves were released due to the expiration of statutes of limitations for those returns. All Fortive entity-related balances were included in the income tax benefit related to discontinued operations. 
+
+In 2016, earnings from discontinued operations, net of income taxes, were $400 million and reflected the operating results of the Fortive businesses prior to the Separation. In 2015, earnings from discontinued operations, net of income taxes, were approximately $1.6 billion and reflected the operations of both the Fortive and communications businesses as well as the gain on the sale of the communications business in 2015.
+
+COMPREHENSIVE INCOME
+
+Comprehensive income increased by approximately $1.7 billion in 2017 as compared to 2016, primarily due to increased earnings from continuing operations, an increased gain from foreign currency translation adjustments compared to 2016, pension and postretirement plan benefit adjustments and the decrease in the unrealized gains (losses) on available-for-sale securities from the sale of certain marketable equity securities, partially offset by lower net earnings attributable to discontinued operations in 2017 compared to 2016. The Company recorded a foreign currency translation gain of $976 million for 2017 compared to a translation loss of $517 million for 2016. The Company recorded a pension and postretirement plan benefit gain of $71 million for 2017 compared to a loss of $58 million for 2016.
+
+Comprehensive income decreased by $617 million in 2016 as compared to 2015, primarily due to the impact of decreases in net earnings attributable to discontinued operations, foreign currency translation adjustments resulting from the strengthening of the U.S. dollar compared to most major currencies during the year but at a lower rate than in the prior year, and pension and postretirement plan benefit adjustments. The Company recorded a foreign currency translation loss of $517 million for 2016 
+
+45
+compared to a translation loss of $976 million for 2015. The Company recorded a pension and postretirement plan benefit loss of $58 million in 2016 compared to a gain of $81 million in 2015.
+
+INFLATION
+
+The effect of inflation on the Company’s revenues and net earnings was not significant in any of the years ended December 31, 2017, 2016 or 2015.
+
+FINANCIAL INSTRUMENTS AND RISK MANAGEMENT
+
+The Company is exposed to market risk from changes in interest rates, foreign currency exchange rates, equity prices and commodity prices as well as credit risk, each of which could impact its Consolidated Financial Statements. The Company generally addresses its exposure to these risks through its normal operating and financing activities. In addition, the Company’s broad-based business activities help to reduce the impact that volatility in any particular area or related areas may have on its operating profit as a whole.
+
+Interest Rate Risk
+
+The Company manages interest cost using a mixture of fixed-rate and variable-rate debt. A change in interest rates on long-term debt impacts the fair value of the Company’s fixed-rate long-term debt but not the Company’s earnings or cash flow because the interest on such debt is fixed. Generally, the fair market value of fixed-rate debt will increase as interest rates fall and decrease as interest rates rise. As of December 31, 2017, an increase of 100 basis points in interest rates would have decreased the fair value of the Company’s fixed-rate long-term debt (excluding the LYONs, which have not been included in this calculation as the value of this convertible debt is primarily derived from the value of its underlying common stock) by $470 million.
+
+As of December 31, 2017, the Company’s variable-rate debt obligations consisted primarily of U.S. dollar and euro-based commercial paper borrowings (refer to Note 9 to the Consolidated Financial Statements for information regarding the Company’s outstanding commercial paper balances as of December 31, 2017). As a result, the Company’s primary interest rate exposure results from changes in short-term interest rates. As these shorter duration obligations mature, the Company may issue additional short-term commercial paper obligations to refinance all or part of these borrowings. In 2017, the average annual interest rate associated with outstanding commercial paper borrowings was approximately 6 basis points. A hypothetical increase of this average to 18 basis points would have increased the Company’s annual interest expense by $4 million. The hypothetical increase used is the actual amount by which the Company’s commercial paper interest rates fluctuated during 2017.
+
+Currency Exchange Rate Risk
+
+The Company faces transactional exchange rate risk from transactions with customers in countries outside the United States and from intercompany transactions between affiliates. Transactional exchange rate risk arises from the purchase and sale of goods and services in currencies other than Danaher’s functional currency or the functional currency of its applicable subsidiary. The Company also faces translational exchange rate risk related to the translation of financial statements of its foreign operations into U.S. dollars, Danaher’s functional currency. Costs incurred and sales recorded by subsidiaries operating outside of the United States are translated into U.S. dollars using exchange rates effective during the respective period. As a result, the Company is exposed to movements in the exchange rates of various currencies against the U.S. dollar. In particular, the Company has more sales in European currencies than it has expenses in those currencies. Therefore, when European currencies strengthen or weaken against the U.S. dollar, operating profits are increased or decreased, respectively. The effect of a change in currency exchange rates on the Company’s net investment in international subsidiaries is reflected in the accumulated other comprehensive income (loss) component of stockholders’ equity. 
+
+Currency exchange rates positively impacted 2017 reported sales by 0.5% on a year-over-year basis as the U.S. dollar weakened against the euro, partially offset by the effect of the U.S. dollar strengthening against the Japanese yen and Chinese renminbi. If the exchange rates in effect as of December 31, 2017 were to prevail throughout 2018, currency exchange rates would positively impact 2018 estimated sales by approximately 2.0% relative to the Company’s performance in 2017. Strengthening of the U.S. dollar against other major currencies would adversely impact the Company’s sales and results of operations on an overall basis. Any weakening of the U.S. dollar against other major currencies would positively impact the Company’s sales and results of operations.
+
+The Company has generally accepted the exposure to exchange rate movements without using derivative financial instruments to manage this risk. Both positive and negative movements in currency exchange rates against the U.S. dollar will therefore continue to affect the reported amount of sales and net earnings in the Company’s Consolidated Financial Statements. In 
+
+46
+addition, the Company has assets and liabilities held in foreign currencies. The Company’s foreign currency-denominated debt partially hedges its net investments in foreign operations against adverse movements in exchange rates. A 10% depreciation in major currencies relative to the U.S. dollar as of December 31, 2017 would have reduced foreign currency-denominated net assets and stockholders’ equity by $880 million.
+
+Equity Price Risk
+
+The Company’s available-for-sale investment portfolio has in the past included publicly traded equity securities that are sensitive to fluctuations in market price. However, during 2017 the Company sold substantially all of its available-for-sale equity securities. 
+
+Commodity Price Risk
+
+For a discussion of risks relating to commodity prices, refer to “Item 1A. Risk Factors.”
+
+Credit Risk
+
+The Company is exposed to potential credit losses in the event of nonperformance by counterparties to its financial instruments. Financial instruments that potentially subject the Company to credit risk consist of cash and temporary investments, receivables from customers and derivatives. The Company places cash and temporary investments with various high-quality financial institutions throughout the world and exposure is limited at any one institution. Although the Company typically does not obtain collateral or other security to secure these obligations, it does regularly monitor the third-party depository institutions that hold its cash and cash equivalents. The Company’s emphasis is primarily on safety and liquidity of principal and secondarily on maximizing yield on those funds.
+
+In addition, concentrations of credit risk arising from receivables from customers are limited due to the diversity of the Company’s customers. The Company’s businesses perform credit evaluations of their customers’ financial conditions as appropriate and also obtain collateral or other security when appropriate.
+
+The Company enters into derivative transactions infrequently and such transactions are generally insignificant to the Company’s financial condition and results of operations. These transactions are typically entered into with high-quality financial institutions and exposure at any one institution is limited.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Management assesses the Company’s liquidity in terms of its ability to generate cash to fund its operating, investing and financing requirements. The Company continues to generate substantial cash from operating activities and believes that its operating cash flow and other sources of liquidity will be sufficient to allow it to continue investing in existing businesses, consummating strategic acquisitions, paying interest and servicing debt and managing its capital structure on a short and long-term basis.
+
+47
+Following is an overview of the Company’s cash flows and liquidity for the years ended December 31:
+
+Overview of Cash Flows and Liquidity
+
+[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+•The Company used cash generated from operations as well as the proceeds from the long-term borrowings noted below to reduce net outstanding borrowings with maturities of 90 days or less, primarily commercial paper borrowings, by approximately $3.8 billion.[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+48
+Operating Activities
+
+Cash flows from operating activities can fluctuate significantly from period-to-period as working capital needs and the timing of payments for income taxes, restructuring activities, pension funding and other items impact reported cash flows.
+
+Operating cash flows from continuing operations were approximately $3.5 billion for 2017, an increase of $390 million, or approximately 13%, as compared to 2016. The year-over-year change in operating cash flows from 2016 to 2017 was primarily attributable to the following factors:[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+Operating cash flows from continuing operations were approximately $3.1 billion for 2016, an increase of $255 million, or 9% as compared to 2015. This increase was primarily attributable to the increase in net earnings from continuing operations in 2016 as compared to 2015.
+
+Investing Activities
+
+Cash flows relating to investing activities consist primarily of cash used for acquisitions and capital expenditures, including instruments leased to customers, cash used for investments and cash proceeds from divestitures of businesses or assets.
+
+Net cash used in investing activities was $843 million during 2017 compared to approximately $5.2 billion and approximately $15.0 billion of net cash used in 2016 and 2015, respectively.
+
+Acquisitions, Divestitures and Sale of Investments
+
+2017 Acquisitions and Sale of Investments
+
+For a discussion of the Company’s 2017 acquisitions and sale of investments, refer to “—Overview.”
+
+2016 Acquisitions, Divestitures and Sale of Investments
+
+For a discussion of the Company’s 2016 Separation of its former Test & Measurement segment, Industrial Technologies segment (excluding the product identification businesses) and retail/commercial petroleum business, refer to “—Overview.”
+
+On November 4, 2016, Copper Merger Sub, Inc., a California corporation and an indirect, wholly-owned subsidiary of the Company acquired all of the outstanding shares of common stock of Cepheid, a California corporation, for $53.00 per share in cash, for a total purchase price of approximately $4.0 billion, net of assumed debt and acquired cash (the “Cepheid 
+
+49
+Acquisition”). Cepheid is now part of the Company’s Diagnostics segment. Cepheid generated revenues of $539 million in 2015. The Company initially financed the Cepheid acquisition price with available cash and proceeds from the issuance of U.S. dollar and euro-denominated commercial paper.
+
+In addition to the Cepheid Acquisition, during 2016 the Company acquired seven businesses for total consideration of $882 million in cash, net of cash acquired. The businesses acquired complement existing units of each of the Company’s four segments. The aggregate annual sales of these seven businesses at the time of their respective acquisitions, in each case based on the company’s revenues for its last completed fiscal year prior to the acquisition, were $237 million.
+
+During 2016, the Company received cash proceeds of $265 million from the sale of certain marketable equity securities and recorded a pretax gain related to this sale of $223 million ($140 million after-tax or $0.20 per diluted share).
+
+2015 Acquisitions, Divestitures and Sale of Investments
+
+On August 31, 2015, Pentagon Merger Sub, Inc., a New York corporation and an indirect, wholly-owned subsidiary of the Company, acquired all of the outstanding shares of common stock of Pall, a New York corporation, for $127.20 per share in cash, for a total purchase price of approximately $13.6 billion, net of assumed debt of $417 million and acquired cash of approximately $1.2 billion (the “Pall Acquisition”). Pall is part of the Company’s Life Sciences segment. In its fiscal year ended July 31, 2015, Pall generated consolidated revenues of approximately $2.8 billion.
+
+The Company initially financed the approximately $13.6 billion acquisition price of Pall with approximately $2.5 billion of available cash, approximately $8.1 billion of net proceeds from the issuance and sale of U.S. dollar and euro-denominated commercial paper and €2.7 billion (approximately $3.0 billion based on currency exchange rates as of the date of issuance) of net proceeds from the issuance and sale of euro-denominated senior unsecured notes. 
+
+In addition to the Pall Acquisition, during 2015 the Company acquired nine businesses for total consideration of approximately $670 million in cash, net of cash acquired. The businesses acquired complement existing units of each of the Company’s four segments. The aggregate annual sales of these nine businesses at the time of their respective acquisitions, in each case based on the company’s revenues for its last completed fiscal year prior to the acquisition, were approximately $355 million.
+
+In July 2015, the Company consummated the split-off of the majority of its former communications business to Danaher shareholders who elected to exchange Danaher shares for ownership interests in the communications business, and the subsequent merger of the communications business with a subsidiary of NetScout. Danaher shareholders who participated in the exchange offer tendered 26 million shares of Danaher common stock (approximately $2.3 billion on the date of tender) and received 62.5 million shares of NetScout common stock which represented approximately 60% of the shares of NetScout common stock outstanding following the combination. 
+
+The accounting requirements for reporting the disposition of the communications business as a discontinued operation were met when the split-off and merger were completed. Accordingly, the accompanying Consolidated Financial Statements for all periods presented reflect this business as discontinued operations. The Company allocated a portion of the consolidated interest expense to discontinued operations based on the ratio of the discontinued business’ net assets to the Company’s consolidated net assets. The Company recorded an aggregate after-tax gain on the disposition of this business of $767 million, or $1.08 per diluted share, in its 2015 results in connection with the closing of this transaction representing the value of the 26 million shares of Company common stock tendered for the communications business in excess of the carrying value of the business’ net assets. This gain was included in the results of discontinued operations for the year ended December 31, 2015. The communications business had revenues of $346 million in 2015 prior to the disposition.
+
+During 2015, the Company received cash proceeds of $43 million from the sale of certain marketable equity securities and recorded a pretax gain related to these sales of $12 million ($8 million after-tax or $0.01 per diluted share).
+
+Capital Expenditures
+
+Capital expenditures are made primarily for increasing capacity, replacing equipment, supporting new product development, improving information technology systems and the manufacture of instruments that are used in operating-type lease arrangements that certain of the Company’s businesses enter into with customers. Capital expenditures totaled $620 million in 2017, $590 million in 2016 and $513 million in 2015. The increase in capital spending in 2017 was due to increased investments in other operating assets, particularly new facilities, and operating assets at newly acquired businesses. The increase in capital spending in 2016 was due to increased investments in machinery and equipment, including operating assets at newly acquired businesses such as Pall, and to a lesser extent, increases in equipment leased to customers. In 2018, the Company expects capital spending to be approximately $700 million, though actual expenditures will ultimately depend on business conditions.
+
+50
+Financing Activities
+
+Cash flows from financing activities consist primarily of cash flows associated with the issuance and repayments of commercial paper and other debt, issuances and repurchases of common stock, excess tax benefits from stock-based compensation, and payments of cash dividends to shareholders. Financing activities used cash of approximately $3.1 billion during 2017 compared to approximately $2.0 billion of cash provided during 2016. The year-over-year increase in cash used in financing activities was due primarily to higher net repayments of commercial paper borrowings in 2017 as compared to 2016 (as the Company increased its commercial paper borrowings in 2016 for the Cepheid acquisition) as well as lower proceeds from the issuance of debt in 2017 as compared to 2016. These impacts were partially offset by lower repayments of long-term debt in 2017 as compared to the comparable period of 2016 as the Company used a portion of the proceeds from the Fortive Distribution to repay outstanding long-term indebtedness in August 2016.
+
+Financing activities provided cash of approximately $2.0 billion during 2016 compared to approximately $9.1 billion of cash provided during 2015. Cash provided by financing activities in 2016 primarily relates to approximately $3.4 billion of net proceeds received from the issuance of the Fortive Debt in June 2016 and the net issuance of outstanding borrowings with maturities of 90 days or less, primarily commercial paper borrowings, of approximately $2.2 billion, and the issuance of approximately ¥29.9 billion aggregate principal amount (approximately $262 million based on the currency exchange rate as of the date of the issuance) of 0.352% senior unsecured notes. These issuances were partially offset by the repayment of the $500 million aggregate principal amount of 2.3% senior unsecured notes that matured in June 2016, the repayment of approximately $1.9 billion in aggregate principal amount of outstanding indebtedness in August 2016 (consisting of the Redeemed Notes), the repayment of the CHF 120 million ($124 million) aggregate principal amount of the 4.0% senior unsecured notes due in October 2016 and $485 million of cash distributed to Fortive in connection with the Separation. 
+
+Total debt was approximately $10.5 billion and $12.3 billion as of December 31, 2017 and 2016, respectively. The Company had the ability to incur an additional $1.6 billion of indebtedness in direct borrowings or under the outstanding commercial paper facility based on the amounts available under the Company’s $4.0 billion credit facility which were not being used to backstop outstanding commercial paper balances as of December 31, 2017. Refer to Note 9 to the Consolidated Financial Statements for information regarding the Company’s financing activities and indebtedness, including the Company’s outstanding debt as of December 31, 2017, and the Company’s commercial paper program and related credit facility.
+
+Shelf Registration Statement
+
+The Company has filed a “well-known seasoned issuer” shelf registration statement on Form S-3 with the SEC that registers an indeterminate amount of debt securities, common stock, preferred stock, warrants, depositary shares, purchase contracts and units for future issuance. The Company utilized this shelf registration statement for the offering and sale of the U.S. dollar and euro-denominated senior unsecured notes issued in 2015 and 2017. The Company expects to use net proceeds realized by the Company from future securities sales off this shelf registration statement for general corporate purposes, including without limitation repayment or refinancing of debt or other corporate obligations, acquisitions, capital expenditures, share repurchases and dividends and/or working capital.
+
+Stock Repurchase Program
+
+Please see “Issuer Purchases of Equity Securities” in Item 5 of Part II of this Annual Report for a description of the Company’s stock repurchase program.
+
+Dividends
+
+The Company declared a regular quarterly dividend of $0.14 per share that was paid on January 26, 2018 to holders of record on December 29, 2017. Aggregate cash payments for dividends during 2017 were $378 million. Dividend payments were lower in 2017 as compared to 2016 as the Company decreased the per share amount of its quarterly dividend in the third quarter of 2016 as a result of the Fortive Separation.
+
+For a description of the dividend of Fortive shares in July 2016, refer to Note 3 to the Consolidated Financial Statements.
+
+Cash and Cash Requirements
+
+As of December 31, 2017, the Company held $630 million of cash and cash equivalents that were invested in highly liquid investment-grade debt instruments with a maturity of 90 days or less with an approximate weighted average annual interest rate of 0.9%. Of this amount, $37 million was held within the United States and $593 million was held outside of the United States. The Company will continue to have cash requirements to support working capital needs, capital expenditures and acquisitions, 
+
+51
+pay interest and service debt, pay taxes and any related interest or penalties, fund its restructuring activities and pension plans as required, pay dividends to shareholders, repurchase shares of the Company’s common stock and support other business needs. The Company generally intends to use available cash and internally generated funds to meet these cash requirements, but in the event that additional liquidity is required, particularly in connection with acquisitions, the Company may also borrow under its commercial paper programs or credit facility, enter into new credit facilities and either borrow directly thereunder or use such credit facilities to backstop additional borrowing capacity under its commercial paper programs and/or access the capital markets. The Company also may from time to time access the capital markets to take advantage of favorable interest rate environments or other market conditions.
+
+While repatriation of some cash held outside the United States may be restricted by local laws, most of the Company’s foreign cash could be repatriated to the United States. Following enactment of the TCJA and the associated Transition Tax, in general, repatriation of cash to the United States can be completed with no incremental U.S. tax; however, repatriation of cash could subject the Company to non-U.S. jurisdictional taxes on distributions. The cash that the Company’s non-U.S. subsidiaries hold for indefinite reinvestment is generally used to finance foreign operations and investments, including acquisitions. The income taxes applicable to such earnings are not readily determinable or practicable. The Company continues to evaluate the impact of the TCJA on its election to indefinitely reinvest certain of its non-U.S. earnings. As of December 31, 2017, management believes that it has sufficient liquidity to satisfy its cash needs, including its cash needs in the United States.
+
+During 2017, the Company contributed $53 million to its U.S. defined benefit pension plans and $45 million to its non-U.S. defined benefit pension plans. During 2018, the Company’s cash contribution requirements for its U.S. and its non-U.S. defined benefit pension plans are expected to be approximately $30 million and $50 million, respectively. The ultimate amounts to be contributed depend upon, among other things, legal requirements, underlying asset returns, the plan’s funded status, the anticipated tax deductibility of the contribution, local practices, market conditions, interest rates and other factors.
+
+Contractual Obligations
+
+The following table sets forth, by period due or year of expected expiration, as applicable, a summary of the Company’s contractual obligations as of December 31, 2017 under (1) debt obligations, (2) leases, (3) purchase obligations and (4) other long-term liabilities reflected on the Company’s Consolidated Balance Sheet The amounts presented in the “Other long-term liabilities” line in the table below include $670 million of noncurrent gross unrecognized tax benefits and related interest (and do not include $66 million of current gross unrecognized tax benefits which are included in the “Accrued expenses and other liabilities” line on the Consolidated Balance Sheet). However, the timing of the long-term portion of these liabilities is uncertain, and therefore, they have been included in the “More Than 5 Years” column in the table below. Refer to Note 12 to the Consolidated Financial Statements for additional information on unrecognized tax benefits. Certain of the Company’s acquisitions also involve the potential payment of contingent consideration. The table below does not reflect any such obligations, as the timing and amounts of any such payments are uncertain. Refer to “—Off-Balance Sheet Arrangements” for a discussion of other contractual obligations that are not reflected in the table below.
+
+[DATA_TABLE_REMOVED]
+
+(a) As described in Note 9 to the Consolidated Financial Statements.
+
+(b) Amounts do not include interest payments. Interest on debt and capital lease obligations is reflected in a separate line in the table.
+
+(c) Interest payments on debt are projected for future periods using the interest rates in effect as of December 31, 2017. Certain of these projected interest payments may differ in the future based on changes in market interest rates.
+
+52
+(d) As described in Note 15 to the Consolidated Financial Statements, certain leases require the Company to pay real estate taxes, insurance, maintenance and other operating expenses associated with the leased premises. These future costs are not included in the table above.
+
+(e) Consist of agreements to purchase goods or services that are enforceable and legally binding on the Company and that specify all significant terms, including fixed or minimum quantities to be purchased, fixed, minimum or variable price provisions and the approximate timing of the transaction.
+
+(f) Primarily consist of obligations under product service and warranty policies and allowances, performance and operating cost guarantees, estimated environmental remediation costs, self-insurance and litigation claims, postretirement benefits, pension obligations, deferred tax liabilities and deferred compensation obligations. The timing of cash flows associated with these obligations is based upon management’s estimates over the terms of these arrangements and is largely based upon historical experience.
+
+Off-Balance Sheet Arrangements
+
+Guarantees and Related Instruments
+
+The following table sets forth, by period due or year of expected expiration, as applicable, a summary of guarantees and related instruments of the Company as of December 31, 2017.
+
+[DATA_TABLE_REMOVED]
+
+Guarantees and related instruments consist primarily of outstanding standby letters of credit, bank guarantees and performance and bid bonds. These have been provided in connection with certain arrangements with vendors, customers, insurance providers, financing counterparties and governmental entities to secure the Company’s obligations and/or performance requirements related to specific transactions.
+
+Other Off-Balance Sheet Arrangements
+
+The Company has from time to time divested certain of its businesses and assets. In connection with these divestitures, the Company often provides representations, warranties and/or indemnities to cover various risks and unknown liabilities, such as claims for damages arising out of the use of products or relating to intellectual property matters, commercial disputes, environmental matters or tax matters. In particular, in connection with the 2016 Fortive Separation and the 2015 split-off of the Company’s communications business, Danaher entered into separation and distribution and related agreements pursuant to which Danaher agreed to indemnify the other parties against certain damages and expenses that might occur in the future. These indemnification obligations cover a variety of liabilities, including, but not limited to, employee, tax and environmental matters. The Company has not included any such items in the contractual obligations table above because they relate to unknown conditions and the Company cannot estimate the potential liabilities from such matters, but the Company does not believe it is reasonably possible that any such liability will have a material effect on the Company’s financial statements. In addition, as a result of these divestitures, as well as restructuring activities, certain properties leased by the Company have been sublet to third-parties. In the event any of these third-parties vacate any of these premises, the Company would be legally obligated under master lease arrangements. The Company believes that the financial risk of default by such sub-lessors is individually and in the aggregate not material to the Company’s Consolidated Financial Statements.
+
+In the normal course of business, the Company periodically enters into agreements that require it to indemnify customers, suppliers or other business partners for specific risks, such as claims for injury or property damage arising out of the Company’s products or services or claims alleging that Company products or services infringe third-party intellectual property. The Company has not included any such indemnification provisions in the contractual obligations table above. Historically, the Company has not experienced significant losses on these types of indemnification obligations.
+
+The Company’s Restated Certificate of Incorporation requires it to indemnify to the full extent authorized or permitted by law any person made, or threatened to be made a party to any action or proceeding by reason of his or her service as a director or officer of the Company, or by reason of serving at the request of the Company as a director or officer of any other entity, subject to limited exceptions. Danaher’s Amended and Restated By-laws provide for similar indemnification rights. In addition, Danaher has executed with each director and executive officer of Danaher Corporation an indemnification agreement which provides for substantially similar indemnification rights and under which Danaher has agreed to pay expenses in advance of the final disposition of any such indemnifiable proceeding. While the Company maintains insurance for this type of liability, a significant deductible applies to this coverage and any such liability could exceed the amount of the insurance coverage.
+
+53
+Legal Proceedings
+
+Refer to “Item 3. Legal Proceedings” and Note 16 to the Consolidated Financial Statements for information regarding legal proceedings and contingencies, and for a discussion of risks related to legal proceedings and contingencies, refer to “Item 1A. Risk Factors.”
+
+CRITICAL ACCOUNTING ESTIMATES
+
+Management’s discussion and analysis of the Company’s financial condition and results of operations is based upon the Company’s Consolidated Financial Statements, which have been prepared in accordance with accounting principles generally accepted in the United States. The preparation of these financial statements requires management to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosure of contingent assets and liabilities. The Company bases these estimates and judgments on historical experience, the current economic environment and on various other assumptions that are believed to be reasonable under the circumstances. Actual results may differ materially from these estimates and judgments.
+
+The Company believes the following accounting estimates are most critical to an understanding of its financial statements. Estimates are considered to be critical if they meet both of the following criteria: (1) the estimate requires assumptions about material matters that are uncertain at the time the estimate is made, and (2) material changes in the estimate are reasonably likely from period-to-period. For a detailed discussion on the application of these and other accounting estimates, refer to Note 1 to the Consolidated Financial Statements.
+
+Acquired Intangibles—The Company’s business acquisitions typically result in the recognition of goodwill, in-process R&D and other intangible assets, which affect the amount of future period amortization expense and possible impairment charges that the Company may incur. Refer to Notes 1, 2 and 6 to the Consolidated Financial Statements for a description of the Company’s policies relating to goodwill, acquired intangibles and acquisitions.
+
+In performing its goodwill impairment testing, the Company estimates the fair value of its reporting units primarily using a market-based approach. In evaluating the estimates derived by the market-based approach, management makes judgments about the relevance and reliability of the multiples by considering factors unique to its reporting units, including operating results, business plans, economic projections, anticipated future cash flows, and transactions and marketplace data as well as judgments about the comparability of the market proxies selected. In certain circumstances the Company also estimates fair value utilizing a discounted cash flow analysis (i.e., an income approach) in order to validate the results of the market approach. The discounted cash flow model requires judgmental assumptions about projected revenue growth, future operating margins, discount rates and terminal values. There are inherent uncertainties related to these assumptions and management’s judgment in applying them to the analysis of goodwill impairment. 
+
+As of December 31, 2017, the Company had eight reporting units for goodwill impairment testing. Reporting units resulting from recent acquisitions generally present the highest risk of impairment. Management believes the impairment risk associated with these reporting units decreases as these businesses are integrated into the Company and better positioned for potential future earnings growth. The Company’s annual goodwill impairment analysis in 2017 indicated that in all instances, the fair values of the Company’s reporting units exceeded their carrying values and consequently did not result in an impairment charge. The excess of the estimated fair value over carrying value (expressed as a percentage of carrying value for the respective reporting unit) for each of the Company’s reporting units as of the annual testing date ranged from approximately 50% to approximately 600%. In order to evaluate the sensitivity of the fair value calculations used in the goodwill impairment test, the Company applied a hypothetical 10% decrease to the fair values of each reporting unit and compared those hypothetical values to the reporting unit carrying values. Based on this hypothetical 10% decrease, the excess of the estimated fair value over carrying value (expressed as a percentage of carrying value for the respective reporting unit) for each of the Company’s reporting units ranged from approximately 35% to approximately 530%.
+
+The Company reviews identified intangible assets for impairment whenever events or changes in circumstances indicate that the related carrying amounts may not be recoverable. The Company also tests intangible assets with indefinite lives at least annually for impairment. Determining whether an impairment loss occurred requires a comparison of the carrying amount to the sum of undiscounted cash flows expected to be generated by the asset. These analyses require management to make judgments and estimates about future revenues, expenses, market conditions and discount rates related to these assets.
+
+If actual results are not consistent with management’s estimates and assumptions, goodwill and other intangible assets may be overstated and a charge would need to be taken against net earnings which would adversely affect the Company’s Consolidated Financial Statements. Historically, the Company’s estimates of goodwill and intangible assets have been materially correct.
+
+54
+Contingent Liabilities—As discussed in “Item 3. Legal Proceedings” and Note 16 to the Consolidated Financial Statements, the Company is, from time to time, subject to a variety of litigation and similar contingent liabilities incidental to its business (or the business operations of previously owned entities). The Company recognizes a liability for any contingency that is known or probable of occurrence and reasonably estimable. These assessments require judgments concerning matters such as litigation developments and outcomes, the anticipated outcome of negotiations, the number of future claims and the cost of both pending and future claims. In addition, because most contingencies are resolved over long periods of time, liabilities may change in the future due to various factors, including those discussed in Note 16 to the Consolidated Financial Statements. If the reserves established by the Company with respect to these contingent liabilities are inadequate, the Company would be required to incur an expense equal to the amount of the loss incurred in excess of the reserves, which would adversely affect the Company’s financial statements.
+
+Revenue Recognition—The Company derives revenues from the sale of products and services. Refer to Note 1 to the Consolidated Financial Statements for a description of the Company’s revenue recognition policies. 
+
+Although most of the Company’s sales agreements contain standard terms and conditions, certain agreements contain multiple elements or nonstandard terms and conditions. As a result, judgment is sometimes required to determine the appropriate accounting, including whether the deliverables specified in these agreements should be treated as separate units of accounting for revenue recognition purposes, and, if so, how the consideration should be allocated among the elements and when to recognize revenue for each element. The Company allocates revenue to each element in the contractual arrangement based on the selling price hierarchy that, in some instances, may require the Company to estimate the selling price of certain deliverables that are not sold separately or where third-party evidence of pricing is not observable. The Company’s estimate of selling price impacts the amount and timing of revenue recognized in multiple element arrangements. The Company also enters into lease arrangements with customers, which requires the Company to determine whether the arrangements are operating or sales-type leases. Certain of the Company’s lease contracts are customized for larger customers and often result in complex terms and conditions that typically require significant judgment in applying the lease accounting criteria.
+
+On January 1, 2018, the Company adopted Accounting Standards Update (“ASU”) No. 2014-09, Revenue from Contracts with Customers (Topic 606), which supersedes nearly all existing revenue recognition guidance. Refer to ‘New Accounting Standards’ in Note 1 to the Consolidated Financial Statements for additional information on the Company’s adoption of this ASU.
+
+If the Company’s judgments regarding revenue recognition prove incorrect, the Company’s reported revenues in particular periods may be incorrect. Historically, the Company’s estimates of revenue have been materially correct.
+
+Pension and Other Postretirement Benefits—For a description of the Company’s pension and other postretirement benefit accounting practices, refer to Notes 10 and 11 to the Consolidated Financial Statements. Calculations of the amount of pension and other postretirement benefit costs and obligations depend on the assumptions used in the actuarial valuations, including assumptions regarding discount rates, expected return on plan assets, rates of salary increases, health care cost trend rates, mortality rates, and other factors. If the assumptions used in calculating pension and other postretirement benefits costs and obligations are incorrect or if the factors underlying the assumptions change (as a result of differences in actual experience, changes in key economic indicators or other factors) the Company’s Consolidated Financial Statements could be materially affected. A 50 basis point reduction in the discount rates used for the plans would have increased the U.S. net obligation by $146 million ($111 million on an after-tax basis) and the non-U.S. net obligation by $142 million ($107 million on an after-tax basis) from the amounts recorded in the Consolidated Financial Statements as of December 31, 2017. A 50 basis point increase in the discount rates used for the plans would have decreased the U.S. net obligation by $134 million ($102 million on an after-tax basis) and the non-U.S. net obligation by $137 million ($104 million on an after-tax basis) from the amounts recorded in the Consolidated Financial Statements as of December 31, 2017.
+
+For 2017, the estimated long-term rate of return for the U.S. plans is 7.0%, and the Company intends to continue to use an assumption of 7.0% for 2018. The estimated long-term rate of return for the non-U.S. plans was determined on a plan-by-plan basis based on the nature of the plan assets and ranged from 1.0% to 5.8%. If the expected long-term rate of return on plan assets for 2017 was reduced by 50 basis points, pension expense for the U.S. and non-U.S. plans for 2017 would have increased $9 million ($6 million on an after-tax basis) and $5 million ($4 million on an after-tax basis), respectively.
+
+For a discussion of the Company’s 2017 and anticipated 2018 defined benefit pension plan contributions, refer to “—Liquidity and Capital Resources – Cash and Cash Requirements”.
+
+Income Taxes—For a description of the Company’s income tax accounting policies, refer to Notes 1 and 12 to the Consolidated Financial Statements. The Company establishes valuation allowances for its deferred tax assets if it is more likely than not that some or all of the deferred tax asset will not be realized. This requires management to make judgments and estimates regarding: (1) the timing and amount of the reversal of taxable temporary differences, (2) expected future taxable income, and 
+
+55
+(3) the impact of tax planning strategies. Future changes to tax rates would also impact the amounts of deferred tax assets and liabilities and could have an adverse impact on the Company’s Consolidated Financial Statements. 
+
+The Company provides for unrecognized tax benefits when, based upon the technical merits, it is “more likely than not” that an uncertain tax position will not be sustained upon examination. Judgment is required in evaluating tax positions and determining income tax provisions. The Company re-evaluates the technical merits of its tax positions and may recognize an uncertain tax benefit in certain circumstances, including when: (1) a tax audit is completed; (2) applicable tax laws change, including a tax case ruling or legislative guidance; or (3) the applicable statute of limitations expires.
+
+On December 22, 2017, the TCJA was enacted, which substantially changes the U.S. tax system, including lowering the corporate tax rate from 35% to 21% (beginning in 2018), and affected the Company in a number of ways. Under U.S. GAAP, the Company is required to account for tax legislation when the legislation is enacted. Accordingly, the Company has reflected the provisional estimate of changes from the TCJA in the Consolidated Financial Statements as of December 31, 2017 based upon the Company’s analysis of the legislation using available information. Certain assumptions related to the impact of the TCJA will require continued monitoring and further analysis including the amount of foreign cash and undistributed earnings subject to the Transition Tax, the amount of available credits to reduce required payments of the Transition Tax and the impact of estimated temporary differences between book and taxable income in 2017 or prior periods under audit by the IRS. Although the Company believes that its estimates and judgments are reasonable, actual results may differ materially from these estimates. The Company will continue to refine these estimates throughout 2018 and record any required adjustments as they are determined as permitted by SAB No. 118. The U.S. Treasury Department and the IRS have not yet issued regulations implementing the new tax law, and these regulations could result in changes to the Company’s estimates. Some or all of these judgments are also subject to review by the IRS. If the IRS were to successfully challenge the Company’s right to realize some or all of the tax benefit the Company has recorded, based on current interpretation of the law regarding certain items, or if the amount of the Transition Tax or other tax liabilities are understated, it could have a material adverse effect on the Company’s financial statements.
+
+In addition, certain of the Company’s tax returns are currently under review by tax authorities including in Denmark (refer to “—Results of Operations – Income Taxes” and Note 12 to the Consolidated Financial Statements). Management believes the positions taken in these returns are in accordance with the relevant tax laws. However, the outcome of these audits is uncertain and could result in the Company being required to record charges for prior year tax obligations which could have a material adverse impact to the Company’s Consolidated Financial Statements, including its effective tax rate.
+
+An increase of 1.0% in the Company’s 2017 nominal tax rate would have resulted in an additional income tax provision for continuing operations for the year ended December 31, 2017 of $29 million.
+
+NEW ACCOUNTING STANDARDS
+
+For a discussion of the new accounting standards impacting the Company, refer to Note 1 to the Consolidated Financial Statements.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK

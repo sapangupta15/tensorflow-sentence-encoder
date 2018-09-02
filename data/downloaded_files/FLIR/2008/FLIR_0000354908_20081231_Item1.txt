@@ -1,0 +1,211 @@
+PART I  
+
+ ITEM 1. BUSINESS  
+
+General  
+
+We are a world leader in the design, manufacture and marketing of thermal imaging systems. Our products are used in a wide variety of applications in commercial, industrial and government markets, internationally as well as domestically. We offer a variety of system configurations to suit specific customer requirements. Our business is organized into three divisions: Thermography, Commercial Vision Systems and Government Systems.  
+
+Thermography products are generally sold for commercial and industrial applications, typically where imaging and temperature measurement together are required. Products range from highly sensitive cameras with extensive analytic capabilities and sophisticated image processing to less expensive cameras offering excellent performance and value for less demanding applications. Our Thermography products range in price from $3,000 for an inexpensive hand-held camera to over $150,000 for our most sophisticated science cameras. Our strategy in this business is to continue to develop products for high-end applications while introducing new products at lower price points, and capitalize on highly price-elastic demand in numerous emerging markets. Revenue from Thermography has grown at a compound annual rate of 20 percent since 2001 and was $327.3 million or 30 percent of consolidated revenue in 2008.  
+
+Commercial Vision Systems (CVS) is focused on emerging commercial markets for infrared imaging technology where the primary need is to see at night or in adverse conditions. As the cost of infrared technology has declined, demand in large untapped markets such as commercial security, automotive, marine, airborne and first responder markets has grown rapidly. CVS has focused its efforts on expanding distribution, accelerating design cycles, reducing manufacturing costs and providing excellent customer service in these markets. Our infrared sensor business, which sells focal plane arrays and camera cores internally as well as to third parties on an original equipment manufacturer (OEM) basis, is also a part of CVS. CVS products range in price from under $2,000 for an OEM imaging core to more than $450,000 for a high definition airborne electronic news gathering broadcast system. Since 2005, CVS revenue has grown at a compound annual rate of 29 percent. CVS revenue was $180.6 million or 17 percent of our consolidated revenue in 2008.  
+
+1  
+
+Table of Contents 
+
+Government Systems (GS) is focused on government customers and markets where very high performance is required. Typical applications include surveillance, force protection, drug interdiction, search and rescue, special operations and target designation. We address these markets through either a commercial, off-the-shelf (COTS) model or a commercially developed, military qualified (CDMQ) model. Products developed under the COTS model are applicable to a range of government customers and markets but are also appropriate for military applications. CDMQ products are specifically designed to meet military specifications. In both the COTS and CDMQ product development models, we use internally generated funds for research and development, and generally own all rights to the products and their design. We have continued to increase our emphasis on CDMQ as a development strategy, and it is a growing part of our GS business. We also periodically accept government funded design and development contracts. GS products are often customized for specific applications and frequently incorporate additional sensors, including visible light cameras, low light cameras, laser rangefinders, laser illuminators and laser designators. GS products range in price from $30,000 for our hand-held and fixed security systems to over $1 million for our most advanced stabilized laser designation systems. Since 2005, GS revenue has grown at a compound annual rate of 33 percent. GS is our largest division with 2008 revenue of $569.0 million, or 53 percent of consolidated Company revenue in 2008.  
+
+For additional information concerning the Companys three divisions, including revenues from external customers, earnings from operations and total assets by segment, see Note 17 to the Consolidated Financial Statements in Item 8.  
+
+FLIR Systems, Inc. is an Oregon corporation and was incorporated in 1978. The Companys headquarters are located at 27700 SW Parkway Avenue, Wilsonville, Oregon 97070-8238, and the telephone number at this location is (503) 498-3547. Information about the Company is available on our website at www.flir.com.  
+
+Infrared Technology Overview  
+
+Infrared is a portion of the electro-magnetic spectrum that is not visible by the human eye because its wavelength is too long. Unlike visible light, infrared radiation (or heat) is emitted directly by all objects above absolute zero in temperature. Thermal imaging systems detect this infrared radiation and convert it into an electronic signal, which is then processed into a video signal and displayed on a video screen. Thermal imaging systems are different than other types of low light vision systems, such as visible light intensification used in night vision goggles. Infrared imaging systems are not adversely affected by the presence of visible light, so they can be used day or night, and are not susceptible to rapid changes in visible light levels. Since infrared systems are detecting emitted infrared radiation, they are passive and thus more covert than certain illuminated systems. Additionally, thermal imaging systems can measure minute temperature differences, a critical feature for a variety of commercial, industrial and scientific applications.  
+
+An infrared detector, which collects or absorbs infrared radiation and converts it into an electronic signal, is the primary component of thermal imaging systems. The two types of infrared detectors we manufacture and use in our systems are often referred to as cooled and uncooled. Cooled detectors utilize a mechanical micro-cooler to reduce the operating temperature of the infrared sensor to -200° C, and offer high sensitivity and resolution for long-range applications or those requiring high measurement precision. These systems, while more sensitive and thus able to see farther, result in a product that is heavier, more complex and uses more power than those using uncooled detectors. Uncooled detectors operate at room temperature and thus do not require a micro-cooler, resulting in products that are lighter, use less power and are less expensive to produce than cooled systems. While the performance of uncooled detectors is improving, uncooled detectors are still less sensitive than cooled detectors. The cost of both types of detectors is declining and we expect to continue reducing costs as volumes rise in the future. We expect demand for both types of systems to increase.  
+
+Products and Markets  
+
+Thermography. The Thermography market has traditionally addressed thermal imaging applications where both imaging and temperature measurement are required. This market has grown in size and breadth as prices   
+
+2  
+
+Table of Contents 
+
+ have declined, volumes have increased and new applications have been found. Over the past several years, markets have grown rapidly and expanded beyond the traditional industrial predictive and preventive maintenance segments. We expect new markets to continue to develop in the future. Key end-user markets include:  
+
+Predictive Maintenance  Thermal imaging systems are used for monitoring the condition of mechanical and electrical equipment. Such monitoring allows for the detection of equipment faults (manifested as hot spots) so they can be repaired before they fail. This increases equipment productivity and avoids catastrophic failures or major damage, which reduces operating expenses by lowering repair costs and reducing downtime. Improved functionality of image analysis software, smaller size and weight, and simplicity of system operation are critical factors for this well established market segment.  
+
+Research & Development  Infrareds unique ability to detect minute differences in temperature while detailing complex thermal dynamics and patterns makes Thermography systems a useful tool in a wide variety of research and development applications. Our systems provide the ability to view thermal distribution in real time for products ranging in size from small hybrid integrated circuits to jet engines. Common applications include product development of microelectronics, cell phones, laptop computers, telecommunications equipment, consumer appliances, automotive components and aircraft engines. Systems used in research and development applications typically require very high imaging performance and measurement precision, coupled with extensive analysis and reporting software. We have a complete line of both cooled and uncooled infrared imagers specifically designed for high-end research and development applications.  
+
+Manufacturing Process Control  Thermal imaging applications for manufacturing process control include monitoring the quality of metal, plastic and glass cast parts, which are highly dependent upon the temperature distribution in the mold; monitoring the quality of paper, which is dependent upon proper and even moisture distribution during the drying process; and monitoring the quality of products such as rubber gloves, which can be thermally examined to locate abnormally warm or cool spots, indicating non-uniform thickness that may result in a quality defect.  
+
+Building Inspection  Infrared imagers can detect missing insulation, electrical faults, water intrusion, pest infiltration, gauge energy efficiency, and help detect the presence of moisture. This market has grown rapidly as costs decline and new uses for thermal imaging systems emerge, and we expect continued growth in the future.  
+
+Gas Detection   Specially designed infrared systems can detect and image hydrocarbon gas emissions or leaks. Using this technology, we have established a market focused on leak detection at gas production, transmission and storage locations, as well as compliance monitoring by environmental and other regulatory agencies. New applications are emerging for this technology. For example, we now have a system that detects Sulfur Hexafluoride, a dangerous pollutant and potential   
+
+3  
+
+Table of Contents 
+
+ fire hazard used as an insulator in electrical transformers. During 2008, the United States Environmental Protection Agency (EPA) modified its rules to allow optical gas imaging systems such as ours to be used in place of toxic vapor analyzers for the detection of gas leaks under leak detection programs required by the EPA.  
+
+Emerging Thermography  Over the past six years, we have successfully introduced progressively lower priced thermal imaging systems that have enabled us to expand traditional Thermography markets and open new markets for our products. These products, the latest of which is the i-family, have met with strong market acceptance in the lower-end building and electrical inspection markets, and we expect additional market segments for thermal imaging to develop as prices continue to decline. These market segments may include healthcare, food service and distribution, veterinary science, automotive care, aircraft inspection, maritime vessel inspections and plumbing.  
+
+Training   We offer fee-based training on the principles of thermography and the use of our products through ITC® , our Infrared Training Center, which provides comprehensive instruction, training, certification and applications engineering from several FLIR locations or at the customers site. We also license Infrared Training Centers to qualified third parties in certain countries. In 2008, over 9,500 people received training at our Infrared Training Centers worldwide.  
+
+Commercial Vision Systems. Commercial Vision Systems is focused on commercial markets where the primary need is to see at night and in adverse conditions. While these markets are broad and growing rapidly, they exhibit low penetration of infrared technology and require distinct distribution channels. As in Thermography, price elasticity of demand is high, and as prices fall further, we expect sales volumes to continue to increase. CVS is focused on expanding its product line and building distribution channels. Significant markets for CVS products today include:  
+
+Perimeter Security  Thermal imaging systems have been used for surveillance and perimeter security of government, military and industrial facilities for many years. Over the past few years, we have introduced a series of lower priced, purpose built systems targeted at the commercial security market and are actively expanding distribution in this market. Demand for security systems utilizing thermal imaging technology is growing rapidly across all segments.  
+
+Automotive Night Vision  Since 2001, we have worked with Autoliv Electronics, a major supplier of safety equipment to the automotive industry, to offer a night vision system for passenger automobiles. Since late 2005, BMW has offered a Night Vision System utilizing our camera as an option in their 5-, 6-, and 7-Series automobiles. The system provides drivers with the ability to see at night and through obscurants, such as fog, at distances much further than can be seen with traditional headlights. In late 2008, the second generation of the BMW Night Vision System, which incorporates significant improvements, including a pedestrian warning system, was introduced on the 7-Series automobiles. Together with Autoliv, we expect to introduce night vision systems into several additional automakers products in 2010 and beyond.  
+
+4  
+
+Table of Contents 
+
+Other Transportation Night Vision  We are actively marketing our products in other transportation markets, such as trucks, trains, recreational vehicles and first responder vehicles, as well as aftermarket sales in the automotive market. These markets are in the early stages of adoption of infrared technology but we believe they offer significant future growth opportunities.  
+
+Marine  In 2006, we introduced the first cost-effective infrared device specifically designed for recreational boating, cruise lines, commercial fishing and merchant marine vessels, ferries, and other maritime markets. Since then we have aggressively expanded distribution through a combination of direct sales and a network of dealers.  
+
+Law Enforcement  We are a leader in the supply of stabilized airborne thermal imaging systems for federal, state and local law enforcement agencies. Agencies with this type of equipment have the ability to track suspects, locate lost persons and provide situational awareness to officers on the ground. We also offer low cost, hand-held systems to the law enforcement market. These cameras provide a light weight, cost-effective, high performance tool for police officers and other law enforcement professionals to conduct search and rescue, surveillance, or pursuit missions.  
+
+Electronic News Gathering  The use of airborne observation and broadcast systems has become a standard tool for television stations and broadcast networks. This market segment continues to transition from traditional analog cameras to high-definition digital systems. Our products in this market use high-definition visible cameras integrated into highly stabilized gimbal turrets for mounting on news helicopters.  
+
+OEM Markets  We supply cooled and uncooled camera cores, sensors and readout integrated circuits on an OEM basis for a broad range of applications where customers require a product at a lower level of integration than a fully developed thermal imaging system. Examples of major customers in this segment are Mine Safety Appliances, Inc. (firefighting); Aerovironment, Inc. (unmanned aerial vehicles); Northrop Grumman Corporation (cooled cores for military applications); Hologic (readout integrated circuits for digital X-ray); and various makers of security systems worldwide.  
+
+Government Systems. Government Systems focuses on providing enhanced vision capabilities to a wide variety of military, paramilitary, law enforcement, public safety and other government customers. Our systems typically provide the capability to see over long distances, day or night, through adverse weather conditions and from a wide variety of vehicle, man portable and fixed installation platforms. Currently, the majority of our infrared imaging systems use cooled technology to identify objects from long distances; however, uncooled thermal imaging systems are growing rapidly in certain markets such as weapon sights, military vehicles and unmanned aerial vehicles. Many of our markets require systems that operate in demanding environments such as extreme climatic conditions, battlefield and military environments or maritime conditions. Systems are often installed onto larger platforms and must be able to integrate with such other systems as aircraft avionics, radars, laser systems and large, broad-based security networks.  
+
+5  
+
+Table of Contents 
+
+Government Systems offers a very wide array of products across multiple markets. For airborne applications, we have developed highly stabilized platforms, known as gimbals, which typically contain multiple payloads in addition to the infrared imaging system, as well as sophisticated software and analytic capabilities. For land applications, we manufacture three types of products: hand-held products, platform mounted products and targeting products. Platform mounted units are typically housed in a weather-tight enclosure and feature remote control capabilities and multi-sensor integration capability (e.g., closed circuit TV, laser rangefinder, compass or global positioning system). Hand-held ground products are ruggedized and have optional lenses and target location capabilities. Ground-based targeting products are designed to attach to existing daylight sights to provide bore-sighted, nighttime capabilities. For maritime applications, we manufacture a mix of airborne and shipborne products. The shipborne products are similar to our airborne gimbals, but are inverted and have a high level of customization for the marine environment.  
+
+The Government Systems market primarily consists of the following end-user market segments:  
+
+Search and Rescue  Thermal imaging systems are used in airborne and shipborne search and rescue missions to rescue individuals in danger or distress on boats or vehicles, or lost in adverse conditions. Such systems are in use today by organizations such as the United States Coast Guard, the United States Marine Corps, the United States Air National Guard and the United Kingdom Ministry of Defense.  
+
+Force Protection  In instances where military or other personnel are deployed in hostile areas, thermal imaging systems mounted on towers or other platforms are deployed to identify and defeat potential threats at an early stage. Our systems are deployed for this purpose by the United States Army, United States Marine Corps and others worldwide.  
+
+Border and Maritime Patrol  Thermal imaging systems are used in airborne, shipborne, hand-held and fixed installation applications for border and maritime surveillance, particularly at night, to enforce borders and coastal waters, to monitor national fishing boundaries and to prevent smuggling. Our cameras are currently deployed along numerous borders worldwide, including in the United States, Europe and the Middle East.  
+
+Surveillance and Reconnaissance  Thermal imaging systems are used in surveillance and reconnaissance applications for the precise positioning of objects or people from substantial distances and for enhanced situational awareness, particularly at night or in conditions of reduced or obscured visibility.  
+
+Targeting  We offer several products that provide precise target location and designation capabilities in this application ranging from a clip-on rifle scope device to a high-precision, stabilized, airborne laser designator system.  
+
+Federal Drug Interdiction  Thermal imaging systems enable government agencies to expand their drug interdiction and support activities by allowing greater surveillance and detection capabilities. Our systems are in use by the United States Customs Service, the United States Drug Enforcement Agency and the United States Federal Bureau of Investigation, as well as by foreign governments.  
+
+6  
+
+Table of Contents 
+
+Our Government Systems contracts and subcontracts are subject to certain risks related to doing business with the United States government and may be subject to termination, reduction and/or amendment at the election of the United States government. For a discussion of these risks, see sections We depend on the United States government for a material portion of our business and changes in government spending could adversely affect our business and As a United States government contractor, we are subject to a number of procurement rules and regulations in Item 1A Risk Factors.  
+
+Mergers and Acquisitions  
+
+Since 2003, we have made a total of seven acquisitions. Most recently, we acquired Extech Instruments Corporation (Extech) in November 2007, Cedip Infrared Systems (Cedip) in January 2008, and Ifara Tecnologias, S.L. (Ifara) in April 2008. Extech, now part of our Thermography division, has broadened our distribution channels, particularly into catalog, internet and retail, all of which are increasingly important for our Thermography strategy. The Cedip acquisition added significantly to our product portfolio, particularly in advanced technical cameras sold through Thermography and stabilized gimbaled systems sold primarily through Government Systems while broadening distribution, particularly in Asia. The Ifara acquisition provided us with in-house access to software and middleware solutions including video analytics, networking and multi-sensor integration to support the growing needs of our customers for more integrated solutions.  
+
+We are selective in our acquisition strategy, seeking to make acquisitions that are strategically important and generally add to our technology, distribution network or product portfolio. We are continuously evaluating opportunities for additional acquisitions, but cannot predict the timing, size or nature of any future activity.  
+
+Technology and Core Competencies  
+
+We use our expertise in product design, infrared imagers, optics, lasers, image processing, systems integration and other technologies, to develop and produce sophisticated thermal and multi-sensor imaging systems. We integrate the following capabilities and disciplines into our manufacturing processes:  
+
+System Design  We have developed extensive competencies in the design and integration of numerous capabilities and payloads into integrated systems or sub-systems. Competencies such as stabilization, packaging and systems integration allow us to effectively combine a wide variety of technologies and payloads to design and manufacture complex systems to suit our customers needs.  
+
+Radiometry  Our ability to produce thermal imaging systems that can accurately measure temperature is critical in many of our Thermography markets. We have demonstrated know-how in designing and producing systems that can measure temperature to within very precise tolerances while maintaining accuracy and stability over time and over a wide range of ambient temperatures. We believe our skills in this area, known as radiometry, offer an important competitive advantage over many of our competitors.  
+
+Mechanical Engineering  Our design and production of thermal imaging systems involves highly sophisticated mechanical engineering techniques, particularly in the design and assembly of the supporting structures for system components such as detector arrays, coolers, scanners and optics. We also have expertise in designing stabilized assemblies used in our gimbal mounted products utilizing electro-mechanical control, gyroscopes and electronic stabilization, and specialized control mechanisms.  
+
+7  
+
+Table of Contents 
+
+Infrared Detector Design and Manufacturing  We design and manufacture both cooled and uncooled infrared detector arrays, in high volumes and at low cost. We believe our uncooled Vanadium Oxide microbolometers and cooled detectors using Indium Antimonide and Indium Gallium Arsenide are among the highest performing infrared detectors of their type available in the world. Internal design and manufacturing of detectors provides significant cost and engineering advantages compared with the use of third-party detectors.  
+
+Integrated Circuits and Electronic Design  We have significant electronic design capabilities across several specialized areas, including readout integrated circuit design, signal processing, image processing and electronics integration. Our design expertise lies in the areas of reliability, low power consumption and extreme environmental survivability.  
+
+Software Development  Software is an increasingly important aspect of our overall engineering and design activity. Networking capability, video analytics and other software and middleware applications are growing in importance. Our systems are also able to interface with many standard external software protocols.  
+
+Optical Design, Fabrication and Coating  We design and manufacture sophisticated infrared optics using materials such as silicon and germanium that are required to produce a thermal imaging system. This capability allows us to rapidly develop optics optimized for use with our cameras and avoid costs and delays associated with reliance on third-party optics suppliers. We also have the ability to apply custom vapor deposited coatings to improve the transmission of the unique lens materials that are used in infrared systems.  
+
+Micro-Coolers  We manufacture the industrys smallest, lightest and lowest power micro-coolers for use in cooling infrared detectors at our facility in North Billerica, Massachusetts. Our coolers are especially effective in hand-held applications, where light weight and long battery life are essential.  
+
+Lasers and Laser Components  Many of our more sophisticated systems are increasingly being offered with various types of laser payloads, including laser pointers, illuminators, rangefinders and designators. We design purpose-built laser rangefinders and designators for inclusion in some of our gimbaled systems at our facility in Orlando, Florida, and manufacture laser designators, rangefinders and related components at our facility in Bozeman, Montana.  
+
+Research and development expenses were $90.0 million in 2008, $72.5 million in 2007 and $60.6 million in 2006. We anticipate that we will continue to have significant research and development expenses in the future to provide a continuing flow of innovative and high quality products to maintain and enhance our competitive position in each of our business segments.  
+
+Proprietary Rights  
+
+We have numerous patents, trademarks, trade secrets and other intellectual property that are important for our success. We rely on a combination of patent, trademark and trade secret laws, confidentiality agreements and   
+
+8  
+
+Table of Contents 
+
+ contractual provisions to protect our proprietary rights. While we believe that our historical success has been primarily a function of other competitive advantages such as the skill and experience of our employees, our worldwide, multi-channel sales, distribution and servicing network, our name recognition and quality products, our intellectual property provides important competitive advantages as well, and we therefore endeavor to protect our intellectual property from misappropriation. We cannot, however, be certain or give any assurance that we can maintain our competitive advantage in the thermal imaging industry or that competitors will not develop similar or superior capabilities.  
+
+Customers  
+
+The primary customers for our products vary substantially by division. Typical Thermography customers include research and development facilities, universities, industrial companies, utility companies, building inspectors, electrical contractors, thermography consultants, damage restoration contractors and numerous commercial enterprises. Commercial Vision Systems serves customers such as OEMs, automotive suppliers, aircraft manufacturers and dealers, marine electronics dealers, major integrators of security systems and news gathering agencies. Government Systems customers generally consist of domestic and foreign government agencies, including military, paramilitary and police forces. Our customers in each segment are located around the world and are serviced by a global distribution and service organization.  
+
+A substantial portion of our revenue is derived from sales to United States and foreign government agencies and our business will continue to be substantially dependent upon such sales. Aggregate sales to United States government agencies accounted for 41 percent of our revenue in 2008, 39 percent of our revenue in 2007 and 32 percent in 2006.  
+
+Sales to customers outside the United States accounted for 38 percent of revenue in 2008, 39 percent in 2007 and 45 percent in 2006. We expect revenue outside the United States to continue to account for a significant portion of our total revenue. Further information about geographic operations and customers appears in Note 17 to the Consolidated Financial Statements in Item 8.  
+
+Sales and Distribution  
+
+We believe our sales and distribution organization is among the largest in the industry and effectively covers the world with a combination of direct sales, independent representatives and distributors, dealers, application engineers, and service and training centers. Our sales personnel, including third-party distributors, undergo a comprehensive training program on each products technical specifications, functions and applications. We also continuously update our training programs to incorporate technological and competitive shifts and changes.  
+
+We sell in many distinct markets and have established specific sales channels for each market. We sell our Thermography products worldwide through a direct sales staff and a network of distributors and representatives. Our Thermography business continues to expand distribution, particularly in Asia and Latin America. At the end of 2008, our Thermography division employed over 170 direct sales personnel and utilized approximately 500 distributors. In November 2007, we acquired Extech Instruments Corporation, a distributor of hand-held test equipment. We are utilizing its distribution channels, particularly into catalogs and retailers to expand our distribution in the United States. In January 2008, we acquired Cedip Infrared Systems which has provided additional distribution capability, particularly in international markets.  
+
+Commercial Vision Systems is also actively expanding its distribution network by hiring additional direct sales personnel and expanding third-party distribution networks in specific markets. At the end of 2008, our Commercial Vision Systems sales organization employed approximately 70 direct sales personnel as well as a worldwide network of dealers across many distinct markets. In certain markets CVS has chosen to supply camera cores on an OEM basis to companies with well established distribution networks. Examples include firefighting, where we supply cores to Mine Safety Appliances, and automotive, where we are partnered with Autoliv.  
+
+9  
+
+Table of Contents 
+
+Our Government Systems business has a direct sales staff of approximately 100 individuals and a network of independent representatives and distributors covering major government markets worldwide. Included in this total are technical and customer support staff in the United States and Europe who provide application development, technical training and operational assistance to direct and indirect sales personnel as well as to customers.  
+
+Marketing  
+
+With our further expansion into the low cost segment of the commercial markets, we have developed greater competencies in market research, electronic marketing, marketing communications and business development. Our ability to identify new markets, adapt our product solutions to meet unique market needs, quickly develop marketing communications that highlight these unique features, and leverage existing and new distribution channels to develop incremental business are important aspects of our marketing and communications efforts.  
+
+We focus our product marketing activities on internet promotion, advertising, direct mail, press tours, technical articles for publications and participation in most major trade shows in our industry. These activities give us the opportunity to educate potential customers about the key features and attributes of our products and how they may be used to address specific customer needs.  
+
+Customer Service  
+
+We maintain service facilities at our factories in Wilsonville, Oregon; North Billerica, Massachusetts; Goleta, California; Danderyd, Sweden; and Croissy-Beauborg, France; and at our locations in West Malling, United Kingdom; Antwerp, Belgium; Frankfurt, Germany; Toronto, Canada; Paris, France; Milan, Italy; Hong Kong; Dubai, United Arab Emirates; Shanghai, China; Tokyo, Japan; Sao Paulo, Brazil; and Melbourne, Australia. Each of our service facilities has the capability to perform the complex calibrations required to service commercial thermal imaging systems. We also maintain field service capabilities in five additional foreign locations under the direction of our independent representatives or distributors.  
+
+Manufacturing  
+
+We manufacture many of the critical components for our products, including infrared detectors, gimbals, optics and coatings, laser sub-systems and micro-coolers, and develop much of the necessary software and middleware for our systems. This vertical integration minimizes lead times, facilitates prompt delivery of our products, controls costs and ensures that these components satisfy our quality standards. We purchase other parts pre-assembled, including certain detectors, certain coolers and optics, circuit boards, cables and wire harnesses. These components are then assembled into finished systems and tested at one of our primary production facilities located in Wilsonville, Oregon; North Billerica, Massachusetts; Goleta, California; Danderyd, Sweden; Croissy-Beauborg, France; Tallinn, Estonia; and Bozeman, Montana.  
+
+Our manufacturing operations are, from time to time, audited by certain OEM customers, which include several major aircraft manufacturers, and have been certified as meeting their quality standards. Our facilities in Wilsonville, North Billerica, Goleta, Danderyd, West Malling, Croissy-Beauborg, Tallinn and Bozeman are ISO 9001:2000 certified.  
+
+Backlog  
+
+At December 31, 2008 and 2007, we had a total order backlog of $663 million and $393 million, respectively. Government Systems typically has the highest backlog of our divisions relative to revenue and in absolute terms. At December 31, 2008, Government Systems backlog totaled $552 million, compared with $305 million at December 31, 2007 with the increase primarily due to the growth of the program business. Commercial Vision Systems carries backlog in certain markets, but is less backlog dependent than Government   
+
+10  
+
+Table of Contents 
+
+ Systems. Commercial Vision Systems backlog at year end 2008 was $91 million, compared with $68 million a year earlier. Thermography is our least backlog intensive business, and typically ships products within a few weeks of receipt of orders. At December 31, 2008, Thermography backlog was $20 million, unchanged from last year end. Backlog is defined as orders received for products or services for which a sales agreement is in place and delivery is expected within twelve months.  
+
+Competition  
+
+Competition in the market for thermal imaging equipment is significant. We believe that the principal competitive factors in our market are product performance, price, customer service and training, product reputation, and effective marketing and sales efforts. Our competitors are different in each market segment. In the Thermography market, principal competitors include Fluke (a division of Danaher Corporation) and NEC San-Ei. Competitors in Commercial Vision Systems vary market by market, but include L-3 Communications, ULIS, Axsys Technologies, ICx Technologies and numerous smaller companies. In the Government Systems market, our competitors include Raytheon Corporation, BAE Systems, L-3 Communications, DRS Corporation (a Finmecanica Company), Lockheed Martin Corporation, El-Op, Sagem, Tamam and Thales. Many of these competitors have substantially greater financial, technical and marketing resources than we do.  
+
+Employees  
+
+As of December 31, 2008, we had 1,943 employees of which 1,252 were in the United States and 691 were outside of the United States. We have generally been successful in attracting highly skilled technical, marketing and management personnel to date. None of our employees in the United States is represented by a union or other bargaining group. Employees in Sweden are represented by unions whose contracts are subject to periodic renegotiations. We believe our relationships with our employees and unions are good.  
+
+Available Information  
+
+Our internet website address is www.flir.com. This Report, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 are available through our internet website as soon as reasonably practicable after we electronically file such material with, or furnish it to, the Securities and Exchange Commission. Our internet website and the information contained therein or connected thereto are not intended to be incorporated into this Report.  
+
+ ITEM 1A. RISK FACTORS

@@ -1,0 +1,355 @@
+ITEM 7.   MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS    
+
+This discussion and analysis of financial condition and results of operations should be read in conjunction with our consolidated financial statements and accompanying notes included in Item 8. Financial Statements and Supplementary Data.  
+
+Cautionary Statement  
+
+The statements in this Managements Discussion and Analysis that are forward-looking, within the meaning of the Private Securities Litigation Reform Act of 1995, involve numerous risks and uncertainties and are based on current expectations. The reader should not place undue reliance on these forward-looking statements. Our actual results could differ materially from those anticipated in these forward-looking statements for many reasons, including those risks discussed under Risk Factors and elsewhere in this document. Often, forward-looking statements can be identified by the use of forward-looking words, such as may, will, could, should, expect, believe, anticipate, estimate, continue, plan, intend, project and other similar terminology, or the negative of such terms. We disclaim any responsibility to update or revise any forward-looking statement provided in this Managements Discussion and Analysis for any reason.  
+
+Nature of Operations  
+
+We design, develop and market programmable platforms, including advanced ICs in the form of PLDs, software design tools and predefined system functions delivered as IP. In addition to our programmable platforms, we provide design services, customer training, field engineering and technical support. Our PLDs include FPGAs, CPLDs and EPPs. These devices are standard products that our customers program to perform desired logic functions. Our products are designed to provide high integration and quick time-to-market for electronic equipment manufacturers in end markets such as wired and wireless communications, industrial, scientific and medical, aerospace and defense, audio, video and broadcast, consumer, automotive and data processing. We sell our products globally through independent domestic and foreign distributors and through direct sales to OEMs by a network of independent sales representative firms and by a direct sales management organization.  
+
+Critical Accounting Policies and Estimates  
+
+The methods, estimates and judgments we use in applying our most critical accounting policies have a significant impact on the results we report in our consolidated financial statements. The SEC has defined critical accounting policies as those that are most important to the portrayal of our financial condition and results of operations and require us to make our most difficult and subjective judgments, often as a result of the need to make estimates of matters that are inherently uncertain. Based on this definition, our critical accounting policies include: valuation of marketable and non-marketable securities, which impacts losses on debt and equity securities when we record impairments; revenue recognition, which impacts the recording of revenues; and valuation of inventories, which impacts cost of revenues and gross margin. Our critical accounting policies also include: the assessment of impairment of long-lived assets including acquisition-related intangibles, which impacts their valuation; the assessment of the recoverability of goodwill, which impacts goodwill impairment; accounting for income taxes, which impacts the provision or benefit recognized for income taxes, as well as the valuation of deferred tax assets recorded on our consolidated balance sheet; and valuation and recognition of stock-based compensation, which impacts gross margin, research and development (R&D) expenses, and selling, general and administrative (SG&A) expenses. Below, we discuss these policies further, as well as the estimates and judgments involved. We also have other key accounting policies that are not as subjective, and therefore, their application would not require us to make estimates or judgments that are as difficult, but which nevertheless could significantly affect our financial reporting.  
+
+Valuation of Marketable and Non-marketable Securities  
+
+Our short-term and long-term investments include marketable debt securities and non-marketable equity securities. As of April 2, 2011, we had marketable debt securities with a fair value of $2.33 billion and non-marketable equity securities in private companies of $11.4 million (adjusted cost, which approximates fair value).  
+
+We determine the fair values for marketable debt and equity securities using industry standard pricing services, data providers and other third-party sources and by internally performing valuation analyses. See Note 3. Fair Value Measurements to our consolidated financial statements, included in Item 8. Financial Statements and Supplementary Data, for details of the valuation methodologies. In determining if and when a decline in value below adjusted cost of marketable debt and equity securities is other than temporary, we evaluate on an ongoing basis the market conditions, trends of earnings, financial condition, credit ratings, any underlying collateral and other key measures for our investments. We recorded an other-than-temporary impairment for marketable debt securities and a marketable equity security in fiscal 2009. We did not record any other-than-temporary impairment for marketable debt or equity securities in fiscal 2011 or 2010.  
+
+24   
+Our investments in non-marketable securities of private companies are accounted for by using the cost method. These investments are measured at fair value on a non-recurring basis when they are deemed to be other-than-temporarily impaired. In determining whether a decline in value of non-marketable equity investments in private companies has occurred and is other than temporary, an assessment is made by considering available evidence, including the general market conditions in the investees industry, the investees product development status and subsequent rounds of financing and the related valuation and/or our participation in such financings. We also assess the investees ability to meet business milestones and the financial condition and near-term prospects of the individual investee, including the rate at which the investee is using its cash, the investees need for possible additional funding at a lower valuation and any bona fide offer to purchase the investee from a prospective acquirer. The valuation methodology for determining the fair value of non-marketable equity securities is based on the factors noted above which require management judgment and are Level 3 inputs. See Note 3. Fair Value Measurements to our consolidated financial statements, included in Item 8. Financial Statements and Supplementary Data, for additional information. When a decline in value is deemed to be other than temporary, we recognize an impairment loss in the current periods operating results to the extent of the decline. We recorded other-than-temporary impairments for non-marketable equity securities in fiscal 2011, 2010 and 2009 of $5.9 million, $3.8 million and $3.0 million, respectively.  
+
+Revenue Recognition  
+
+Sales to distributors are made under agreements providing distributor price adjustments and rights of return under certain circumstances. Revenue and costs relating to distributor sales are deferred until products are sold by the distributors to the distributors end customers. For fiscal 2011, approximately 63% of our net revenues were from products sold to distributors for subsequent resale to OEMs or their subcontract manufacturers. Revenue recognition depends on notification from the distributor that product has been sold to the distributors end customer. Also reported by the distributor are product resale price, quantity and end customer shipment information, as well as inventory on hand. Reported distributor inventory on hand is reconciled to deferred revenue balances monthly. We maintain system controls to validate distributor data and to verify that the reported information is accurate. Deferred income on shipments to distributors reflects the effects of distributor price adjustments and the amount of gross margin expected to be realized when distributors sell through product purchased from us. Accounts receivable from distributors are recognized and inventory is relieved when title to inventories transfers, typically upon shipment from Xilinx at which point we have a legally enforceable right to collection under normal payment terms.  
+
+As of April 2, 2011, we had $134.0 million of deferred revenue and $34.2 million of deferred cost of revenues recognized as a net $99.8 million of deferred income on shipments to distributors. As of April 3, 2010, we had $110.4 million of deferred revenue and $30.3 million of deferred cost of revenues recognized as a net $80.1 million of deferred income on shipments to distributors. The deferred income on shipments to distributors that will ultimately be recognized in our consolidated statement of income will be different than the amount shown on the consolidated balance sheet due to actual price adjustments issued to the distributors when the product is sold to their end customers.  
+
+Revenue from sales to our direct customers is recognized upon shipment provided that persuasive evidence of a sales arrangement exists, the price is fixed, title has transferred, collection of resulting receivables is reasonably assured, and there are no customer acceptance requirements and no remaining significant obligations. For each of the periods presented, there were no significant formal acceptance provisions with our direct customers.  
+
+Revenue from software licenses is deferred and recognized as revenue over the term of the licenses of one year. Revenue from support services is recognized when the service is performed. Revenue from Support Products, which includes software and services sales, was less than 6% of net revenues for all of the periods presented.  
+
+Allowances for end customer sales returns are recorded based on historical experience and for known pending customer returns or allowances.  
+
+Valuation of Inventories  
+
+Inventories are stated at the lower of actual cost (determined using the first-in, first-out method) or market (estimated net realizable value). The valuation of inventory requires us to estimate excess or obsolete inventory as well as inventory that is not of saleable quality. We review and set standard costs quarterly to approximate current actual manufacturing costs. Our manufacturing overhead standards for product costs are calculated assuming full absorption of actual spending over actual volumes, adjusted for excess capacity. Given the cyclicality of the market, the obsolescence of technology and product lifecycles, we write down inventory based on forecasted demand and technological obsolescence. These factors are impacted by market and economic conditions, technology changes, new product introductions and changes in strategic direction and require estimates that may include uncertain elements. The estimates of future demand that we use in the valuation of inventory are the basis for our published revenue forecasts, which are also consistent with our short-term manufacturing plans. If our demand forecast for specific products is greater than actual demand and we fail to reduce manufacturing output accordingly, we could be required to write down additional inventory, which would have a negative impact on our gross margin.  
+
+25   
+Impairment of Long-Lived Assets Including Acquisition-Related Intangibles  
+
+Long-lived assets and certain identifiable intangible assets to be held and used are reviewed for impairment if indicators of potential impairment exist. Impairment indicators are reviewed on a quarterly basis. When indicators of impairment exist and assets are held for use, we estimate future undiscounted cash flows attributable to the assets. In the event such cash flows are not expected to be sufficient to recover the recorded value of the assets, the assets are written down to their estimated fair values based on the expected discounted future cash flows attributable to the assets or based on appraisals. Factors affecting impairment of assets held for use include the ability of the specific assets to generate separately identifiable positive cash flows.  
+
+When assets are removed from operations and held for sale, we estimate impairment losses as the excess of the carrying value of the assets over their fair value. Factors affecting impairment of assets held for sale include market conditions. Changes in any of these factors could necessitate impairment recognition in future periods for assets held for use or assets held for sale.  
+
+Long-lived assets such as acquisition-related intangible assets and property, plant and equipment, are considered non-financial assets, and are only measured at fair value when indicators of impairment exist. The accounting and disclosure guidance for fair value measurements established by the Financial Accounting Standards Board (FASB) became effective for these assets beginning in the first quarter of fiscal 2010. See Note 3. Fair Value Measurements to our consolidated financial statements, included in Item 8. Financial Statements and Supplementary Data, for additional information.  
+
+Goodwill  
+
+As required by the authoritative guidance for goodwill established by the FASB, goodwill is not amortized but is subject to impairment tests on an annual basis, or more frequently if indicators of potential impairment exist, and goodwill is written down when it is determined to be impaired. We perform an annual impairment review in the fourth quarter of each fiscal year and compare the fair value of the reporting unit in which the goodwill resides to its carrying value. If the carrying value exceeds the fair value, the goodwill of the reporting unit is potentially impaired. For purposes of impairment testing, Xilinx operates as a single reporting unit. We use the quoted market price method to determine the fair value of the reporting unit. Based on the impairment review performed during the fourth quarter of fiscal 2011, there was no impairment of goodwill in fiscal 2011. Unless there are indicators of impairment, our next impairment review for goodwill will be performed and completed in the fourth quarter of fiscal 2012. To date, no impairment indicators have been identified.  
+
+Accounting for Income Taxes  
+
+Xilinx is a multinational corporation operating in multiple tax jurisdictions. We must determine the allocation of income to each of these jurisdictions based on estimates and assumptions and apply the appropriate tax rates for these jurisdictions. We undergo routine audits by taxing authorities regarding the timing and amount of deductions and the allocation of income among various tax jurisdictions. Tax audits often require an extended period of time to resolve and may result in income tax adjustments if changes to the allocation are required between jurisdictions with different tax rates.  
+
+In determining income for financial statement purposes, we must make certain estimates and judgments. These estimates and judgments occur in the calculation of certain tax liabilities and in the determination of the recoverability of certain deferred tax assets, which arise from temporary differences between the tax and financial statement recognition of revenue and expense. Additionally, we must estimate the amount and likelihood of potential losses arising from audits or deficiency notices issued by taxing authorities. The taxing authorities positions and our assessment can change over time resulting in a material effect on the provision for income taxes in periods when these changes occur.  
+
+We must also assess the likelihood that we will be able to recover our deferred tax assets. If recovery is not likely, we must increase our provision for taxes by recording a reserve in the form of a valuation allowance for the deferred tax assets that we estimate will not ultimately be recoverable.  
+
+We perform a two-step approach to recognize and measure uncertain tax positions relating to accounting for income taxes. The first step is to evaluate the tax position for recognition by determining if the weight of available evidence indicates that it is more likely than not that the position will be sustained on audit, including resolution of related appeals or litigation processes, if any. The second step is to measure the tax benefit as the largest amount that is more than 50% likely of being ultimately realized. See Note 16. Income Taxes to our consolidated financial statements included in Item 8. Financial Statements and Supplementary Data.  
+
+26   
+Stock-Based Compensation  
+
+Determining the appropriate fair-value model and calculating the fair value of stock-based awards at the date of grant requires judgment. We use the Black-Scholes option-pricing model to estimate the fair value of employee stock options and rights to purchase shares under our Employee Stock Purchase Plan. Option pricing models, including the Black-Scholes model, also require the use of input assumptions, including expected stock price volatility, expected life, expected dividend rate, expected forfeiture rate and expected risk-free rate of return. We use implied volatility based on traded options in the open market as we believe implied volatility is more reflective of market conditions and a better indicator of expected volatility than historical volatility. In determining the appropriateness of implied volatility, we considered: the volume of market activity of traded options, and determined there was sufficient market activity; the ability to reasonably match the input variables of traded options to those of options granted by us, such as date of grant and the exercise price, and determined the input assumptions were comparable; and the length of term of traded options used to derive implied volatility, which is generally one to two years and which was extrapolated to match the expected term of the employee options granted by us, and determined the length of the option term was reasonable. The expected life of options granted is based on the historical exercise activity as well as the expected disposition of all options outstanding. We will continue to review our input assumptions and make changes as deemed appropriate depending on new information that becomes available. Higher volatility and expected lives result in a proportional increase to stock-based compensation determined at the date of grant. The expected dividend rate and expected risk-free rate of return do not have as significant an effect on the calculation of fair value.  
+
+In addition, we developed an estimate of the number of stock-based awards which will be forfeited due to employee turnover. Quarterly changes in the estimated forfeiture rate have an effect on reported stock-based compensation, as the effect of adjusting the rate for all expense amortization after April 1, 2006 is recognized in the period the forfeiture estimate is changed. If the actual forfeiture rate is higher than the estimated forfeiture rate, then an adjustment is made to increase the estimated forfeiture rate, which will result in a decrease to the expense recognized in the financial statements. If the actual forfeiture rate is lower than the estimated forfeiture rate, then an adjustment is made to decrease the estimated forfeiture rate, which will result in an increase to the expense recognized in the financial statements. The impact of forfeiture true up and forfeiture rate estimates in fiscal 2011, 2010 and 2009 reduced stock-based compensation expense by $14.1 million, $16.7 million and $15.8 million, respectively. The expense we recognize in future periods could also differ significantly from the current period and/or our forecasts due to adjustments in the assumed forfeiture rates.  
+
+Results of Operations  
+
+The following table sets forth statement of income data as a percentage of net revenues for the fiscal years indicated:  
+
+ [DATA_TABLE_REMOVED]  
+
+27   
+Net Revenues  
+
+ [DATA_TABLE_REMOVED]  
+
+Net revenues in fiscal 2011 increased 29% to $2.37 billion, up from $1.83 billion in fiscal 2010. The significant year-over-year increase was driven by strong New Product growth and broad based strength across all of our end markets and geographies. Total unit sales increased in fiscal 2011 versus the comparable prior year period. The average selling price per unit also increased during the same time period. Net revenues in fiscal 2010 were essentially flat with fiscal 2009 as the first half of fiscal 2010 revenues was adversely impacted by economic conditions and was substantially lower than revenues in the prior year period, while the second half was substantially higher than revenues in the prior year period. New Product revenues increased considerably in fiscal 2010 from the comparable prior year period but were offset by declines in Mainstream, Base and Support Products. In fiscal 2010, total unit sales declined and the average selling price per unit increased versus the comparable prior year period. See Net Revenues by Product and Net Revenues by End Markets below for more information on our product and end-market categories.  
+
+No end customer accounted for more than 10% of net revenues for any of the periods presented.  
+
+Net Revenues by Product  
+
+We sell our products to global manufacturers of electronic products in end markets such as wired and wireless communications, aerospace and defense, industrial, scientific and medical and audio, video and broadcast. The vast majority of our net revenues are generated by sales of our semiconductor products, but we also generate sales from support products. We classify our product offerings into four categories: New, Mainstream, Base and Support Products. The composition of each product category is as follows:  
+
+ [DATA_TABLE_REMOVED]  
+
+      Mainstream Products include the Virtex-4, Spartan-3, Spartan-II and CoolRunner-II product families.    
+
+      Base Products consist of our older product families including the Virtex, Virtex-E, Virtex-II, Spartan, XC4000, CoolRunner and XC9500 products.    
+
+      Support Products include configuration products (PROMs), software, IP, customer training, design services and support.    
+
+These product categories, except for Support Products, are modified on a periodic basis to better reflect the age of the products and advances in technology. The most recent modification was made on March 29, 2009, which was the beginning of our fiscal 2010. Amounts for the prior periods presented have been reclassified to conform to the new categorization. New Products include our most recent product offerings and are typically designed into our customers latest generation of electronic systems. Mainstream Products are generally several years old and designed into customer programs that are currently shipping in full production. Base Products are older than Mainstream Products with demand generated generally by the customers oldest systems still in production. Support Products are generally products or services sold in conjunction with our semiconductor devices to aid customers in the design process.  
+
+Net revenues by product categories for the fiscal years indicated were as follows:  
+
+ [DATA_TABLE_REMOVED]  
+
+Net revenues from New Products increased significantly in fiscal 2011 as a result of continued strong market acceptance of these products, particularly for our 65-nanometer (nm) Virtex-5, 40-nm Virtex-6 and 45-nm Spartan-6 product families. We expect sales of New Products to continue to increase over time as more customer programs enter volume production with our 40/45-nm products. In fiscal 2010, Virtex-5 contributed to the majority of the revenue growth versus the comparable prior year period.  
+
+Net revenues from Mainstream Products increased in fiscal 2011 primarily due to increased sales of our Virtex-4 product family. Net revenues from Mainstream Products declined in fiscal 2010 due to lower demand associated with the weakened economic conditions during the first half of the fiscal year.  
+
+28   
+Net revenues from Base Products increased in fiscal 2011 from the comparable prior year period primarily due to last time buying activities for some of our oldest products. The decline in net revenues from Base Products in fiscal 2010, as compared to the prior year period, was due to lower sales from some of our oldest products and was expected since these products are mature and approaching the end of life.  
+
+Net revenues from Support Products increased in fiscal 2011 from the comparable prior year period primarily due to higher sales in our PROM products. Net revenues from Support Products decreased in fiscal 2010 from the comparable prior year period due to a decline in revenues from both our PROMs and software products.  
+
+Net Revenues by End Markets  
+
+Our end market revenue data is derived from our understanding of our end customers primary markets. We classify our net revenues by end markets into four categories: Communications, Industrial and Other, Consumer and Automotive, and Data Processing. The percentage change calculation in the table below represents the year-to-year dollar change in each end market.  
+
+Net revenues by end markets for the fiscal years indicated were as follows:  
+
+ [DATA_TABLE_REMOVED]  
+
+In fiscal 2011, sales from each of our end markets increased double digits versus the comparable prior year period.  
+
+Net revenues from Communications, our largest end market, increased from the comparable prior year period due to higher sales from both wired and wireless communication applications. In fiscal 2010, higher sales from wireless communication applications drove the increase in net revenues versus the comparable prior year period.  
+
+Net revenues from the Industrial and Other end market increased in fiscal 2011 from the comparable prior year period primarily due to higher sales in industrial, scientific and medical as well as test and measurement applications. In fiscal 2010, the decrease in net revenues from the comparable prior year period was primarily driven by weaker sales in industrial, scientific and medical applications as well as test and measurement applications during the first half of the fiscal year.  
+
+Net revenues from the Consumer and Automotive end market increased in fiscal 2011 from the comparable prior year period primarily due to higher sales in audio, video and broadcast applications. Net revenues from the Consumer and Automotive end market decreased in fiscal 2010 from the comparable prior year period primarily due to decreased sales in audio, video and broadcast and consumer applications.  
+
+In fiscal 2011, net revenues from the Data Processing end market increased from the comparable prior year period due to higher sales from computing, data processing and storage applications. In fiscal 2010, net revenues from the Data Processing end market declined from the comparable prior year period due to a decrease in sales from computing and data processing applications.  
+
+Net Revenues by Geography  
+
+Geographic revenue information reflects the geographic location of the distributors or OEMs who purchased our products. This may differ from the geographic location of the end customers. Net revenues by geography for the fiscal years indicated were as follows:  
+
+ [DATA_TABLE_REMOVED]  
+
+In fiscal 2011, sales from each of our geographies increased double digits versus the comparable prior year period.  
+
+29   
+North America net revenues increased in fiscal 2011 from the comparable prior year period due to broad-based strength across all end markets, with particular strength coming from the Industrial and Other end market. Net revenues in North America were essentially flat in fiscal 2010 compared with the prior year period, as lower sales from the Consumer and Automotive end market offset strength in each of the other end markets including Communications, Industrial and Other and Data Processing.  
+
+Net revenues in Asia Pacific increased in fiscal 2011 from the comparable prior year period primarily due to higher sales in the Communications end market with increases in sales from both wired and wireless communications applications. The increase in fiscal 2010, as compared to the prior year period, was primarily driven by strength in the Communications end market, which experienced strong sales growth associated with the deployment of next generation wireless applications in China.  
+
+Net revenues in Europe increased in fiscal 2011 from the comparable prior year period driven by broad-based strength across all end market segments and all sub segments with particular strength coming from the Communications end market primarily due to higher sales from wireless communications applications. Net revenues in Europe decreased in fiscal 2010, as compared to the prior year period, due to weaker sales in most end market applications with the exception of wireless communication and automotive applications.  
+
+The fiscal 2011 increase in net revenues in Japan was primarily driven by higher sales in the Industrial and Other and Consumer end market segments. Net revenues in Japan decreased in fiscal 2010 due to broad-based weakness across all end market categories.  
+
+Gross Margin  
+
+ [DATA_TABLE_REMOVED]  
+
+The increase in the gross margin percentage in fiscal 2011 from the comparable prior year period was driven primarily by a broad improvement in product costs and higher revenue. This improvement was partly offset by the growth of New Products. New Products generally have lower gross margins than Mainstream and Base Products as they are in the early stage of their product life cycle and have higher unit costs associated with relatively lower volumes and early manufacturing maturity.  
+
+Gross margin percentage in fiscal 2010 was essentially flat from the comparable prior year period as cost savings related to yield improvement and overall restructuring effort were offset by the strength of New Products.  
+
+Gross margin may be affected in the future by product mix shifts, competitive-pricing pressure, manufacturing-yield issues and wafer pricing. We expect to mitigate any adverse impacts from these factors by continuing to improve yields on our New Products and by improving manufacturing efficiencies.  
+
+Sales of inventory previously written off were not material during fiscal 2011, 2010 or 2009.  
+
+In order to compete effectively, we pass manufacturing cost reductions on to our customers in the form of reduced prices to the extent that we can maintain acceptable margins. Price erosion is common in the semiconductor industry, as advances in both product architecture and manufacturing process technology permit continual reductions in unit cost. We have historically been able to offset much of this revenue decline in our mature products with increased revenues from newer products.  
+
+Research and Development  
+
+ [DATA_TABLE_REMOVED]  
+
+R&D spending increased $23.0 million or 6% during fiscal 2011 compared to the same period last year. The increase was mainly due to higher employee compensation related to variable spending, such as incentive compensation expenses associated with higher revenue and operating margin, and higher overall headcount.  
+
+R&D spending increased $14.1 million or 4% during fiscal 2010 compared to fiscal 2009. The increase was mainly due to increased mask and wafer spending in fiscal 2010 associated with the introduction of Virtex 6 and Spartan 6 product families.  
+
+We plan to continue to selectively invest in R&D efforts in areas such as new products and more advanced process development, IP and the development of new design and layout software. We will also consider acquisitions to complement our strategy for technology leadership and engineering resources in critical areas.  
+
+30   
+Selling, General and Administrative  
+
+ [DATA_TABLE_REMOVED]  
+
+SG&A expenses increased $23.0 million or 7% during fiscal 2011 compared to the same period last year. The increase was primarily due to higher variable spending associated with higher revenue and operating margin, particularly sales commissions and incentive compensation expenses, and higher legal expenses related to litigations and acquisitions.  
+
+SG&A expenses decreased $16.2 million or 5% during fiscal 2010 compared to the same period last year. The decrease was primarily due to headcount reduction as a result of restructuring measures taken during fiscal 2010, partially offset by higher litigation related costs.  
+
+Amortization of Acquisition-Related Intangibles  
+
+ [DATA_TABLE_REMOVED]  
+
+Amortization expense in fiscal 2011 was related to the intangible assets acquired in the fourth quarter of fiscal 2011. See Note 19. Business Combinations to our consolidated financial statements, included in Item 8. Financial Statements and Supplementary Data. Amortization expense in fiscal 2010 and 2009 was related to the intangible assets from our prior acquisitions, which were fully amortized by the first quarter of fiscal 2010.  
+
+Restructuring Charges  
+
+During the third quarter of fiscal 2011, we announced restructuring measures designed to realign resources and drive overall operating efficiencies across the Company. These measures impacted 56 positions, or less than 2% of our global workforce, in various geographies and functions worldwide. The reorganization plan was completed by the end of the fourth quarter of fiscal 2011.  
+
+We recorded total restructuring charges of $10.3 million in fiscal 2011, primarily related to severance pay expenses.  
+
+We estimate that these measures will result in gross annual savings related to employee compensation of approximately $4.0 million before taxes. However, there can be no assurance that these expected savings will be completely realized in the future as they may be offset by increases in other expenses.  
+
+The following table summarizes the restructuring accrual activity for fiscal 2011:  
+
+ [DATA_TABLE_REMOVED]  
+
+The charges above, as well as the restructuring charges recorded in prior fiscal year (see below), have been shown separately as restructuring charges on the consolidated statements of income. The remaining accrual as of April 2, 2011 was primarily related to severance pay and benefits that are expected to be paid during the first quarter of fiscal 2012.  
+
+During the first quarter of fiscal 2010, we announced restructuring measures designed to drive structural operating efficiencies across the Company. We completed this restructuring plan at the end of the fourth quarter of fiscal 2010, and reduced our global workforce by approximately 200 net positions, or about 6%. These employee terminations impacted various geographies and functions worldwide. We recorded total restructuring charges of $30.1 million in fiscal 2010, primarily related to severance pay expenses, which were paid in full as of April 2, 2011.  
+
+31   
+Stock-Based Compensation  
+
+ [DATA_TABLE_REMOVED]  
+
+The $3.8 million increase in stock-based compensation expense for fiscal 2011 as compared to the same period last year was mainly due to higher weighted-average fair values of stock awards granted and lower forfeitures during the year. The $2.0 million increase in stock-based compensation expense for fiscal 2010 as compared to the same period last year was due to an increase in the number of shares granted, which was partly offset by declining weighted-average fair values of stock awards vesting and an increase in the number of shares cancelled due to the fiscal 2010 restructuring.  
+
+Gain on Early Extinguishment of Convertible Debentures  
+
+During fiscal 2009, we paid $193.2 million in cash to repurchase $310.4 million (principal amount) of our debentures and recognized a gain on early extinguishment of convertible debentures of $75.0 million, net of the write-off of the pro rata portions of unamortized debt discount and issuance costs of $41.5 million and unamortized derivative valuation of $736 thousand.  
+
+Impairment Loss on Investments  
+
+ [DATA_TABLE_REMOVED]  
+
+We recorded an impairment loss on investments in non-marketable equity securities of $5.9 million and $3.8 million for fiscal 2011 and 2010, respectively, due to other-than-temporary decline in the estimated fair value of certain investees.  
+
+We recognized impairment losses on investments of $54.1 million during fiscal 2009, which consisted of $51.1 million related to marketable debt and equity securities and $3.0 million related to non-marketable equity securities. Of the $51.1 million impairment loss recognized during fiscal 2009, $38.0 million was related to senior class asset-backed securities where the issuer went into receivership and we concluded that it was not likely that we would recover the balance of our investment. This decline in fair value was deemed to be other than temporary and, therefore, we recognized an impairment loss of $38.0 million on these securities during fiscal 2009. We also recognized an additional impairment loss of $10.0 million on marketable debt securities, primarily due to the bankruptcy filing by one of the issuers of the marketable debt securities. Lastly, we recognized another $3.1 million of impairment loss in marketable equity securities investment during fiscal 2009 as a result of the continued decline in its market value, which led us to believe that the decline in the market value was other than temporary.  
+
+Interest and Other Income (Expense), Net  
+
+ [DATA_TABLE_REMOVED]  
+
+The increase in interest and other expense, net in fiscal 2011 over the prior year was due primarily to the interest expense related to the 2.625% Debentures. Interest and other income (expense), net was a net expense of $6.6 million in fiscal 2010 compared to a net income of $7.6 million in fiscal 2009. Interest income in 2010 decreased over the prior year was due primarily to a decrease in interest rates earned on the investment portfolio. The average interest rate yield in fiscal 2010 on our investments decreased by over 2.5 percentage points as compared to fiscal 2009 period. See Note 12. Interest and Other Income (Expense), Net to our consolidated financial statements, included in Item 8. Financial Statements and Supplementary Data.  
+
+32   
+Provision for Income Taxes  
+
+ [DATA_TABLE_REMOVED]  
+
+The effective tax rates in all years reflected the favorable impact of foreign income at statutory rates less than the U.S. rate and tax credits earned.  
+
+The increase in the effective tax rate in fiscal 2011, when compared with fiscal 2010, was due to a shift in the geographic mix of earnings subject to U.S. tax and to a reduction in the benefit of U.S. tax credits in proportion to U.S. earnings. The fiscal 2011 increase was partially offset by an increase in the amount of permanently reinvested foreign earnings for which no U.S. taxes were provided. In addition, the fiscal 2011 increase was partially offset by the retroactive extension of the federal research credit.  
+
+The decrease in the effective tax rate in fiscal 2010, when compared with fiscal 2009, was due to an increase in the amount permanently reinvested outside the U.S. in fiscal 2010 for which no U.S. taxes have been provided, thereby reducing the rates for the period, compounded by an increase in the fiscal 2009 rate for the gain on early extinguishment of debentures taxable at U.S. tax rates. The fiscal 2009 increase however was offset by a benefit from the retroactive extension of the research credit.  
+
+The Internal Revenue Service (IRS) audited and issued proposed adjustments to our tax returns for fiscal 1996 through 2001. We filed petitions with the Tax Court in response to assertions by the IRS relating to fiscal 1996 through 2000. All issues have been settled with the IRS as described below.  
+
+On August 30, 2005, the Tax Court issued its opinion concerning whether the value of stock options must be included in the cost sharing agreement with Xilinx Ireland. The Tax Court agreed with us that no amount for stock options was to be included in the cost sharing agreement, and entered its decision on May 31, 2006. On August 25, 2006, the IRS appealed the decision to the Ninth Circuit Court of Appeals (Appeals Court). On May 27, 2009, we received a 2-1 adverse judicial ruling from the Appeals Court reversing the Tax Court decision; this adverse ruling was later withdrawn on January 13, 2010 after oral arguments. On March 22, 2010, the Appeals Court affirmed the August 30, 2005 Tax Court decision in our favor. On June 21, 2010, the time for the IRS to appeal the March 22, 2010 decision to the United States Supreme Court lapsed. As a result, all issues concerning this matter are closed.  
+
+In a separate matter, on December 8, 2008, the IRS issued a statutory notice of deficiency reflecting proposed audit adjustments for fiscal 2005. We began negotiations with the IRS Appeals Division in the third quarter of fiscal 2010, and settled the remaining proposed adjustment in the fourth quarter of fiscal 2010 with no net change in tax liability. On September 20, 2010, pursuant to stipulations filed by us and the IRS, the Tax Court entered its final order closing all remaining fiscal 2005 issues. We received a small refund and, accordingly, all matters with the IRS relating to fiscal 2005 are resolved. See Note 16. Income Taxes and Note 18. Litigation Settlements and Contingencies to our consolidated financial statements, included in Item 8. Financial Statements and Supplementary Data.  
+
+Financial Condition, Liquidity and Capital Resources  
+
+We have historically used a combination of cash flows from operations and equity and debt financing to support ongoing business activities, acquire or invest in critical or complementary technologies, purchase facilities and capital equipment, repurchase our common stock and debentures under our repurchase program, pay dividends and finance working capital. Additionally, our investments in debt securities are available for future sale.  
+
+Fiscal 2011 Compared to Fiscal 2010  
+
+Cash, Cash Equivalents and Short-term and Long-term Investments  
+
+The combination of cash, cash equivalents and short-term and long-term investments as of April 2, 2011 and April 3, 2010 totaled $2.69 billion and $1.97 billion, respectively. As of April 2, 2011, we had cash, cash equivalents and short-term investments of $1.93 billion and working capital of $2.25 billion. Cash provided by operations of $724.2 million for fiscal 2011 was $169.9 million higher than the $554.3 million generated during fiscal 2010. Cash provided by operations during fiscal 2011 resulted primarily from net income as adjusted for non-cash related items and deferred income on shipment to distributors, which were partially offset by increases in inventories, accounts receivable and a decrease in income taxes payable.  
+
+Net cash used in investing activities was $625.4 million during fiscal 2011, as compared to net cash provided by investing activities of $336.7 million in fiscal 2010. Net cash used in investing activities during fiscal 2011 primarily consisted of $526.4 million of net purchases of available-for-sale securities, $65.0 million for purchases of property, plant and equipment (see further discussion below) and $33.7 million for acquisition of businesses.  
+
+33   
+Net cash provided by financing activities was $92.2 million in fiscal 2011, as compared to net cash used in financing activities of $252.1 million in fiscal 2010. Net cash provided by financing activities during fiscal 2011 consisted of $587.6 million of net proceeds from issuance of the 2.625% Debentures, $170.4 million of proceeds from issuance of common stock under employee stock plans, $46.9 million of proceeds from issuance of warrants, $30.2 million of proceeds from sale of interest rate swaps and $7.4 million for the excess of the tax benefit from stock-based compensation, offset by $468.9 million of repurchase of common stocks, $169.1 million for dividend payments to stockholders and $112.3 million for purchase of call options to hedge against potential dilution upon conversion of the 2.625% Debentures.  
+
+Accounts Receivable  
+
+Accounts receivable, net of allowances for doubtful accounts, customer returns and distributor pricing adjustments increased by 9% from $262.7 million at the end of fiscal 2010 to $286.5 million at the end of fiscal 2011. The increase in accounts receivable balance was primarily attributable to increase in net revenues in fiscal 2011 from the comparable prior year period. Due to higher accounts receivable collection, DSO decreased to 45 days as of April 2, 2011 from 53 days as of April 3, 2010.  
+
+Inventories  
+
+Inventories increased from $130.6 million as of April 3, 2010 to $264.7 million as of April 2, 2011. The combined inventory days at Xilinx and the distribution channel increased to 135 days as of April 2, 2011, compared to 89 days as of April 3, 2010. The increases were primarily due to build ahead of a number of legacy parts due to the closure of a particular foundry line and higher safety stock levels on certain parts in light of tight capacity at our foundry partners in anticipation of future demand.  
+
+We attempt to maintain sufficient levels of inventory in various product, package and speed configurations in order to keep lead times short and to meet forecasted customer demand and address potential supply constraints. Conversely, we also attempt to minimize the handling costs associated with maintaining higher inventory levels and to fully realize the opportunities for cost reductions associated with architecture and manufacturing process advancements. We continually strive to balance these two objectives to provide excellent customer response at a competitive cost.  
+
+Property, Plant and Equipment  
+
+During fiscal 2011, we invested $65.0 million in property, plant and equipment compared to $28.2 million in fiscal 2010. Primary investments in fiscal 2011 were for testers, handlers, equipment and software in order to support our new products development and infrastructures.  
+
+Current Liabilities  
+
+Current liabilities increased from $357.2 million at the end of fiscal 2010 to $368.1 million at the end of fiscal 2011. The increase was primarily due to the increase in deferred income on shipments to distributors and other accruals related to the growth in our overall business, partially offset by the decrease in income taxes payable because we were in prepaid position at the end of fiscal 2011.  
+
+Stockholders Equity  
+
+Stockholders equity increased $294.1 million during fiscal 2011, from $2.12 billion in fiscal 2010 to $2.41 billion in fiscal 2011. The increase in stockholders equity was attributable to total comprehensive income of $653.6 million (which included net income of $641.9 million) for fiscal 2011, issuance of common stock under employee stock plans of $170.4 million, the equity (conversion option) components of the 2.625% Debentures issued in June 2010 of $108.1 million, stock-based compensation related amounts totaling $65.5 million (including the related tax benefits associated with stock option exercises), and proceeds from issuance of warrants of $46.9 million. The increases were partially offset by the repurchase of common stock of $468.9 million, payment of dividends to stockholders of $169.1 million and purchase of call options to hedge against potential dilution upon conversion of the 2.625% Debentures of $112.3 million.  
+
+Fiscal 2010 Compared to Fiscal 2009  
+
+Cash, Cash Equivalents and Short-term and Long-term Investments  
+
+The combination of cash, cash equivalents and short-term and long-term investments as of April 3, 2010 and March 28, 2009 totaled $1.97 billion and $1.67 billion, respectively. As of April 3, 2010, we had cash, cash equivalents and short-term investments of $1.39 billion and working capital of $1.55 billion. Cash provided by operations of $554.3 million for fiscal 2010 was $111.8 million higher than the $442.5 million generated during fiscal 2009. Cash provided by operations during fiscal 2010 resulted primarily from net income as adjusted for non-cash related items, increases in accrued liabilities, accounts payable and deferred income on shipment to distributors, which were partially offset by increases in accounts receivable, other assets, inventories and prepaid and other current assets as well as a decrease in income taxes payable.  
+
+34   
+Net cash used in investing activities was $336.7 million during fiscal 2010, as compared to net cash provided by investing activities of $274.5 million in fiscal 2009. Net cash used in investing activities during fiscal 2010 consisted of $306.3 million of net purchases of available-for-sale securities and $28.2 million for purchases of property, plant and equipment (see further discussion below) and $2.3 million of other investing activities.  
+
+Net cash used in financing activities was $252.1 million in fiscal 2010, as compared to $518.1 million in fiscal 2009. Net cash used in financing activities during fiscal 2010 consisted of $150.0 million for the repurchase of common stock, $165.6 million for dividend payments to stockholders and $1.3 million for reduction of tax benefits from stock-based compensation. These items were partially offset by $64.9 million of proceeds from the issuance of common stock under employee stock plans.  
+
+Accounts Receivable  
+
+Accounts receivable, net of allowances for doubtful accounts, customer returns and distributor pricing adjustments increased by 21% from $216.4 million at the end of fiscal 2009 to $262.7 million at the end of fiscal 2010. DSO increased to 53 days as of April 3, 2010 from 43 days as of March 28, 2009. The increases were primarily attributable to an increase in net shipments at the end of the fourth quarter of fiscal 2010 compared to the end of the fourth quarter of fiscal 2009.  
+
+Inventories  
+
+Inventories increased from $119.8 million as of March 28, 2009 to $130.6 million as of April 3, 2010. The combined inventory days at Xilinx and the distribution channel increased to 89 days as of April 3, 2010, compared to 80 days as of March 28, 2009. The increases were primarily due to higher inventory at Xilinx and in the distributor channel as a result of the higher anticipated demand.  
+
+Property, Plant and Equipment  
+
+During fiscal 2010, we invested $28.2 million in property, plant and equipment compared to $39.1 million in fiscal 2009. Primary investments in fiscal 2010 were for software, testers, handlers, computer and other equipment.  
+
+Current Liabilities  
+
+Current liabilities increased from $233.1 million at the end of fiscal 2009 to $357.2 million at the end of fiscal 2010. The increase was primarily due to the increase in trade payables and accrued liabilities from variable spending driven by higher revenues in the fourth quarter of fiscal 2010 compared to the same prior year period, and an increase in deferred income on shipments to distributors. The increase in deferred income on shipments to distributors was due to an increase in distributor inventories as of April 3, 2010 compared to the prior year.  
+
+Stockholders Equity  
+
+Stockholders equity increased $171.7 million during fiscal 2010, from $1.95 billion in fiscal 2009 to $2.12 billion in fiscal 2010. The increase in stockholders equity was attributable to total comprehensive income of $375.1 million (which included net income of $357.5 million) for fiscal 2010, the issuance of common stock under employee stock plans of $60.1 million and stock-based compensation related amounts totaling $52.1 million (net of the related tax benefits associated with stock option exercises). The increases were partially offset by the payment of dividends to stockholders of $165.6 million and the repurchase of common stock of $150.0 million.  
+
+Liquidity and Capital Resources  
+
+Cash generated from operations is used as our primary source of liquidity and capital resources. Our investment portfolio is also available for future cash requirements as is our $250.0 million revolving credit facility entered into in April 2007. We are not aware of any lack of access to the revolving credit facility; however, we can provide no assurance that access to the credit facility will not be impacted by adverse conditions in the financial markets. Our credit facility is not reliant upon a single bank. There have been no borrowings to date under our existing revolving credit facility.  
+
+We used $468.9 million of cash to repurchase 17.8 million shares of our common stock in fiscal 2011 compared with $150.0 million used to repurchase 6.2 million shares in fiscal 2010. During fiscal 2011, we paid $169.1 million in cash dividends to stockholders, representing an aggregate amount of $0.64 per common share. During fiscal 2010, we paid $165.6 million in cash dividends to stockholders, representing an aggregate amount of $0.60 per common share. In addition, on March 10, 2011, our Board of Directors declared a cash dividend of $0.19 per common share for the first quarter of fiscal 2012. The dividend is payable on June 8, 2011 to stockholders of record on May 18, 2011. Our common stock and debentures repurchase program and dividend policy could be impacted by, among other items, our views on potential future capital requirements relating to R&D, investments and acquisitions, legal risks, principal and interest payments on our debentures and other strategic investments.  
+
+35   
+The global credit crisis has imposed exceptional levels of volatility and disruption in the capital markets, severely diminished liquidity and credit availability, and increased counterparty risk. Nevertheless, we anticipate that existing sources of liquidity and cash flows from operations will be sufficient to satisfy our cash needs for the foreseeable future. We will continue to evaluate opportunities for investments to obtain additional wafer capacity, procurement of additional capital equipment and facilities, development of new products and potential acquisitions of technologies or businesses that could complement our business. However, the risk factors discussed in Item 1A included in Part I and below could affect our cash positions adversely. In addition, certain types of investments such as auction rate securities may present risks arising from liquidity and/or credit concerns. In the event that our investments in auction rate securities become illiquid, we do not expect this will materially affect our liquidity and capital resources or results of operations.  
+
+As of April 2, 2011, marketable securities measured at fair value using Level 3 inputs were comprised of $35.0 million of student loan auction rate securities. The amount of assets and liabilities measured using significant unobservable inputs (Level 3) as a percentage of the total assets and liabilities measured at fair value was less than 2% as of April 2, 2011. See Note 3. Fair Value Measurements to our consolidated financial statements, included in Item 8. Financial Statements and Supplementary Data, for additional information.  
+
+During fiscal 2011, we redeemed $20.2 million of student loan auction rate securities for cash at par value. Additionally, during fiscal 2011, we sold $10.8 million notional value of student loan auction rate securities and realized a $580 thousand loss.  
+
+Contractual Obligations  
+
+The following table summarizes our significant contractual obligations as of April 2, 2011 and the effect such obligations are expected to have on our liquidity and cash flows in future periods. This table excludes amounts already recorded on our consolidated balance sheet as current liabilities as of April 2, 2011.  
+
+ [DATA_TABLE_REMOVED]  
+
+ (1)   We lease some of our facilities, office buildings and land under non-cancelable operating leases that expire at various dates through November 2035. Rent expense, net of rental income, under all operating leases was approximately $4.9 million for fiscal 2011. See Note 10. Commitments to our consolidated financial statements, included in Item 8. Financial Statements and Supplementary Data, for additional information about operating leases.  
+
+ (2)   Due to the nature of our business, we depend entirely upon subcontractors to manufacture our silicon wafers and provide assembly and some test services. The lengthy subcontractor lead times require us to order the materials and services in advance, and we are obligated to pay for the materials and services when completed. We expect to receive and pay for these materials and services in the next three to six months, as the products meet delivery and quality specifications.  
+
+ (3)   As of April 2, 2011, we had $16.7 million of non-cancelable license obligations to providers of electronic design automation software and hardware/software maintenance expiring at various dates through December 2013.  
+
+ (4)   We committed up to $5.0 million to acquire, in the future, rights to intellectual property until July 2023. License payments will be amortized over the useful life of the intellectual property acquired.  
+
+ (5)   For purposes of this table we have assumed the principal of our debentures will be paid on maturity dates, which is June 15, 2017 for the 2.625% senior convertible debentures and March 15, 2037 for the 3.125% junior convertible debentures. See Note 14. Convertible Debentures and Revolving Credit Facility to our consolidated financial statements, included in Item 8. Financial Statements and Supplementary Data, for additional information about our debentures.   
+
+36   
+As of April 2, 2011, $45.3 million of liabilities for uncertain tax positions and related interest and penalties were classified as long-term income taxes payable in the consolidated balance sheet. Due to the inherent uncertainty with respect to the timing of future cash outflows associated with such liabilities, we are unable to reliably estimate the timing of cash settlement with the respective taxing authorities. Therefore, liabilities for uncertain tax positions have been excluded from the contractual obligations table above.  
+
+Off-Balance-Sheet Arrangements  
+
+As of April 2, 2011, we did not have any significant off-balance-sheet arrangements, as defined in Item 303(a)(4)(ii) of SEC Regulation S-K.  
+
+Recent Accounting Pronouncements  
+
+See Note 2. Summary of Significant Accounting Policies and Concentrations of Risk to our consolidated financial statements, included in Item 8. Financial Statements and Supplementary Data, for information about recent accounting pronouncements, including the expected dates of adoption and estimated effects, if any, on our consolidated financial statements.  
+
+37   
+ ITEM 7A.   QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK

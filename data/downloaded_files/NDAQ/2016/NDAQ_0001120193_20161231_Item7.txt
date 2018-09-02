@@ -1,0 +1,820 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+The following discussion and analysis of the financial condition and results of operations of Nasdaq should be read in conjunction with our consolidated financial statements and related notes included in this Form 10-K, as well as the discussion under “Item 1A. Risk Factors.”
+
+Business Overview
+
+We are a leading provider of trading, clearing, exchange technology, regulatory, securities listing, information and public company services. Our global offerings are diverse and include trading and clearing across multiple asset classes, trade management services, data products, financial indexes, capital formation solutions, corporate solutions, and market technology products and services. Our technology powers markets across the globe, supporting equity derivative trading, clearing and settlement, cash equity trading, fixed income trading and many other functions.
+
+For further discussion of our business, see “Item 1. Business.” 
+
+Business Environment
+
+We serve listed companies, market participants and investors by providing derivative, commodities, cash equity, and fixed income markets, thereby facilitating economic growth and corporate entrepreneurship. We provide market technology to exchanges, clearing organizations and central securities depositories around the world. We also offer companies and other organizations access to innovative products, software solutions and services that increase transparency, mitigate risk, improve board efficiency and facilitate better corporate governance. In broad terms, our business performance is impacted by a number of drivers including macroeconomic events affecting the risk and return of financial assets, investor sentiment, government and private sector demands for capital, the regulatory environment for capital markets, changing technology, particularly in the financial services industry, and changes in investment patterns and priorities. Our future revenues and net income will continue to be influenced by a number of domestic and international economic trends including, among others: 
+
+•Trading volumes and values in equity derivative, cash equity and FICC, which are driven primarily by overall macroeconomic conditions;
+
+•The number of companies seeking equity financing, which is affected by factors such as investor demand, the global economy, and availability of diverse sources of financing, as well as tax and regulatory policies; 
+
+•The demand for information about, or access to, our markets, which is dependent on the products we trade, our importance as a liquidity center, and the quality and pricing of our data and trade management services;
+
+•The demand by companies and other organizations for the products sold by our Corporate Solutions business, which is largely driven by the overall state of the economy and the attractiveness of our offerings;
+
+•The demand for licensed ETPs and other financial products based on our indexes as well as changes to the underlying assets associated with existing licensed financial products;
+
+•The challenges created by the automation of market data consumption, including competition and the quickly evolving nature of the data business;
+
+•The outlook of our technology customers for capital market activity;
+
+•Continuing pressure in transaction fee pricing due to intense competition in the U.S. and Europe;
+
+•Competition related to pricing, product features and service offerings;
+
+•Regulatory changes relating to market structure or affecting certain types of instruments, transactions, pricing structures or capital market participants; and 
+
+•Technological advances and members’ and customers’ demand for speed, efficiency, and reliability. 
+
+Currently our business drivers are defined by investors and companies which have a wait and see posture about the pace of future global economic growth. The current consensus forecast for gross domestic product growth for the U.S. is 1.6% in 2016 and 2.3% in 2017 and the Eurozone is 1.6% in 2016 and 1.4% in 2017. Forecasts for both regions have been experiencing downward revisions over the last year as the outlook for growth deteriorates with significant downward revisions for the Eurozone following Brexit. Very recent forecasts for the U.S., however, have speculated that U.S. economic growth may be stronger than baseline forecasts depending on the fiscal priorities of the new administration. While we expect continued modest annual growth in many of our non-trading segments (Corporate Services, Information Services, and Market Technology), we recognize that there are a number of significant structural and political issues continuing to impact the global economy. Consequently, sustained instability could return at any time, resulting in an increased level of market volatility, oscillating trading volumes, and a more cautious outlook by the clients of our non-trading segments. Following elevated volatility levels in the second half of 2015, market volatility remained high in the first quarter of 2016 before declining into the second quarter. Volatility remained at a moderate level throughout the remainder of the year except for two spikes following the results of the Brexit vote and the U.S. presidential election. 
+
+Volatility and market uncertainty in 2016 led to the worst year for the number of U.S. IPO listings since 2012. Additional impacts on our business drivers include the international enactment and implementation of new legislative and regulatory initiatives, the evolution of market participants’ trading and investment strategies, and the continued rapid progression and deployment of new technology in the financial 
+
+29
+services industry. The business environment that influenced our financial performance for 2016 may be characterized as follows:
+
+•Intense competition among U.S. exchanges and dealer-owned systems for cash equity trading volume and strong competition between MTFs and exchanges in Europe for cash equity trading volume;
+
+•Globalization of exchanges, customers and competitors extending the competitive horizon beyond national markets; 
+
+•Headwinds in fund flows and market performance negatively impacted new business and assets under management of existing business in our Index Licensing and Services business during the first half of 2016. However, performance began to improve during the latter part of 2016, with assets under management ending the year higher versus 2015. In addition, we had solid growth in our Data Products business; and
+
+•Market trends requiring continued investment in technology to meet customers’ and regulators’ demands as markets and participants adapt to a global financial industry, as increasing numbers of new companies are created, and as emerging countries show ongoing interest in developing their financial markets.
+
+2017 Outlook
+
+Our strategy continues to include identifying organic growth within our core business units and developing adjacent opportunities within our core businesses. In addition, our strategy includes identifying acquisitions that both, complement our strengths and extend our capabilities, and offer opportunities for revenue and expense synergies and increased shareholder value. 
+
+During 2017, we expect changes in both the competitive and regulatory environments. In the U.S., in 2016, The Investors Exchange LLC became a registered exchange, CBOE and BATS announced their intent to merge as did Deutsche Börse A.G. and LSE. In February 2017, Miami International Securities Exchange launched a second options exchange. We expect intense competition among U.S. equity and options marketplaces to continue and new entrants will be part of our competitive environment. While the willingness of new entrants to commence operations can be taken as a positive sign of good health in the trading industry, as these organizations implement their strategies, they have the potential to affect the competitive environment we face.
+
+European regulators are currently moving forward on a number of new policies affecting the operation and infrastructure of the financial markets. The implementation of EMIR is changing the way we structure and operate the Nordic clearinghouse. MiFID II, as well as the new regulations in MiFIR, will change the way our trading business operates and will create both challenges in our existing businesses, as well as new opportunities for growth. Full implementation of these 
+
+regulations may be delayed and consequently create an uncertain environment for our businesses.
+
+The following discusses our 2017 outlook for each of our segments:
+
+Market Services
+
+Economic and political uncertainty continue to weigh on the global economy and the debate over future fiscal and monetary policy in the U.S. and Europe continues. We believe that our diversified businesses position us well to compete in an uncertain market environment. If increased levels of market volatility persist in 2017, many of the asset classes within our Market Services segment and our Data Products business will continue to benefit.
+
+NFX continues to experience growth in its energy derivative products. We enter 2017 with a clear opportunity to increase the number of clients running on the NFX platform, and we continue to identify additional products to bring to market.
+
+We expect global markets to continue to be marked by significant change in 2017, driven primarily by regulatory initiatives in the U.S. and Europe as recently adopted regulations and legislation continue to be implemented. These changes could result in the continued fragmentation of cash equity markets, and trading could continue to migrate from exchanges to OTC systems, particularly in the U.S. Conversely, trading in OTC derivatives could begin to move onto exchanges and other execution facilities.
+
+Information Services
+
+As we look toward the future, we continue to make progress to leverage emerging technologies to expand the ways we serve clients, with our launch of the trading and analytics product suite, which just begins to leverage machine intelligence in its logic. 
+
+We also continue to make strides in expanding our Index Licensing and Services business, in particular in our smart-beta products, which make up a strong portion of our growing assets under management total. An example of this was launching the first fixed income product leveraging the DWA relative strength methodology, in partnership with State Street Corporation.
+
+Corporate Services
+
+In 2016, our Corporate Solutions business launched Nasdaq IR Insight, our investor relations platform. During 2016, we made significant progress to enhance the client experience. In doing both of these, we created an architectural foundation for our next generation corporate solutions products going forward. In addition, we continued to invest in our Public Relations and Governance businesses through our acquisitions of Marketwired and Boardvantage.
+
+Growth in our Corporate Services segment will depend on a positive economic outlook and a lower level of merger and acquisition transactions.
+
+Volatility in the markets will have a negative impact on the pace of IPOs and consequently on the opportunities for revenue 
+
+30
+growth in our Listing Services and Corporate Solutions businesses. 
+
+Market Technology
+
+In 2016, we announced the Nasdaq Financial Framework, which is our new, modular architecture that will provide next generation capital markets capabilities, including the integration of blockchain technology across the issuance and settlement of securities, as well as cloud-enabled trading and clearing. We expect this next generation platform to contribute meaningfully to our order intake in 2017 and beyond.
+
+In Summary
+
+We believe that our future will continue to be determined by our ability to satisfy our customer's evolving needs and to allocate resources in strategic areas which will yield attractive returns. 
+
+Consistent with our long-term strategy, we will continue to leverage our technology strengths and offer new products that expand and strengthen our relationships with existing and new customers.
+
+We believe that our continued focus on meeting our cost, revenue and technology objectives will enable us to benefit from any improving economic conditions in the future. We will continue to look for opportunities to further diversify our business with enhanced product offerings and/or acquisitions that are complementary to our existing businesses. 
+
+Business Segments
+
+We manage, operate and provide our products and services in four business segments: Market Services, Corporate Services, Information Services and Market Technology. In 2016, due to changes in our executive leadership and to better reflect how our chief operating decision maker views the businesses, we realigned our reportable segments to integrate the Corporate Solutions and Listing Services businesses into our new Corporate Services segment. Market Technology is now a separate reportable segment. Prior to this change, our Corporate Solutions and Market Technology businesses were part of our Technology Solutions segment. All prior period segment disclosures have been recast to reflect our change in reportable segments. See Note 1, “Organization and Nature of Operations,” and Note 19, “Business Segments,” to the consolidated financial statements for further discussion of our reportable segments and additional financial information about geographic data, as well as how management allocates resources, assesses performance and manages these businesses as four separate segments. 
+
+Sources of Revenues and Transaction-Based Expenses
+
+See “Revenue Recognition and Transaction-Based Expenses,” of Note 2, “Summary of Significant Accounting Policies,” to the consolidated financial statements for further discussion of our sources of revenues and transaction-based expenses.
+
+31
+Nasdaq’s Operating Results
+
+Key Drivers
+
+The following table includes key drivers for our Market Services, Corporate Services, Information Services and Market Technology segments. In evaluating the performance of our business, our senior management closely evaluates these key drivers.
+
+[DATA_TABLE_REMOVED]
+
+____________
+
+32
+(1) For the year ended December 31, 2016, matched market share for Nasdaq ISE, Nasdaq GMNI, and Nasdaq MCRY is included since the closing of the ISE acquisition on June 30, 2016. 
+
+(2) Includes Finnish option contracts traded on EUREX Group.
+
+(3) Includes transactions executed on The Nasdaq Stock Market’s, Nasdaq BX’s and Nasdaq PSX’s systems plus trades reported through the FINRA/Nasdaq Trade Reporting Facility.
+
+(4) Transactions executed on Nasdaq Commodities or OTC and reported for clearing to Nasdaq Commodities measured by Terawatt hours (TWh).
+
+(5) New listings include IPOs, including those completed on a best efforts basis, issuers that switched from other listing venues, closed-end funds and separately listed ETPs.
+
+(6) New listings include IPOs and represent companies listed on the Nasdaq Nordic and Nasdaq Baltic exchanges and companies on the alternative markets of Nasdaq First North.
+
+(7) Number of listed companies for The Nasdaq Stock Market at period end, including separately listed ETPs.
+
+(8) Represents companies listed on the Nasdaq Nordic and Nasdaq Baltic exchanges and companies on the alternative markets of Nasdaq First North at period end.
+
+(9) Total contract value of orders signed during the period.
+
+(10) Represents total contract value of signed orders that are yet to be recognized as revenue. Market technology deferred revenue, as discussed in Note 8, “Deferred Revenue,” to the consolidated financial statements, represents consideration received that is yet to be recognized as revenue for these signed orders.
+
+33
+Financial Summary
+
+The following table summarizes our financial performance for the year ended December 31, 2016 when compared with the same period in 2015, and for the year ended December 31, 2015 when compared with the same period in 2014. The comparability of our results of operations between reported periods is impacted by the acquisitions of Nasdaq CXC and Marketwired in February 2016, Boardvantage in May 2016, ISE in June 2016, and DWA in January 2015. See “2016 Acquisitions” and “2015 Acquisitions,” of Note 4, “Acquisitions,” to the consolidated financial statements for further discussion. For a detailed discussion of our results of operations, see "Segment Operating Results" below. 
+
+[DATA_TABLE_REMOVED]
+
+In countries with currencies other than the U.S. dollar, revenues and expenses are translated using monthly average exchange rates. Impacts on our revenues less transaction-based expenses and operating income associated with fluctuations in foreign currency are discussed in more detail under “Item 7A. Quantitative and Qualitative Disclosures about Market Risk.”
+
+* * * * * *
+
+Segment Operating Results
+
+The following table shows our revenues by segment, transaction-based expenses for our Market Services segment and total revenues less transaction-based expenses:
+
+[DATA_TABLE_REMOVED]
+
+34
+The following charts show our Market Services, Corporate Services, Information Services and Market Technology segments as a percentage of our total revenues less transaction-based expenses of $2,277 million in 2016, $2,090 million in 2015 and $2,067 million in 2014:
+
+35
+MARKET SERVICES
+
+The following table shows total revenues, transaction-based expenses, and total revenues less transaction-based expenses from our Market Services segment:
+
+[DATA_TABLE_REMOVED]
+
+____________
+
+(1) Includes Section 31 fees of $24 million in 2016, $19 million in 2015 and $28 million in 2014. Section 31 fees are recorded as equity derivative trading and clearing revenues with a corresponding amount recorded in transaction-based expenses. 
+
+(2) Includes Section 31 fees of $290 million in 2016, $282 million in 2015 and $306 million in 2014. Section 31 fees are recorded as cash equity trading revenues with a corresponding amount recorded in transaction-based expenses. 
+
+Equity Derivative Trading and Clearing Revenues
+
+Equity derivative trading and clearing revenues and equity derivative trading and clearing revenues less transaction-based expenses increased in 2016 compared with 2015 and decreased in 2015 compared with 2014. 
+
+The increases in 2016 were primarily due to:
+
+•the inclusion of revenues from our acquisition of ISE, partially offset by;
+
+•lower U.S. industry trading volumes; and 
+
+•lower market share at Nasdaq PHLX. 
+
+The decreases in 2015 were primarily due to:
+
+•a decline in overall market share at our three U.S. options exchanges;
+
+•a decrease in U.S. industry trading volumes; and
+
+•an unfavorable impact from foreign exchange of $10 million, partially offset by;
+
+•an increase in trading volumes in European stock options and index futures products. 
+
+Further impacting the decrease in equity derivative trading and clearing revenues in 2015 was a decrease in the U.S. average revenue capture rate and a decline in Section 31 pass-through fee revenue. Further impacting the decrease in equity derivative trading and clearing revenues less transaction-based expenses in 2015 was a decrease in the U.S. average net capture rate.
+
+Section 31 fees are recorded as equity derivative trading and clearing revenues with a corresponding amount recorded as transaction-based expenses. In the U.S., we are assessed these fees from the SEC and pass them through to our customers in the form of incremental fees. Pass-through fees can increase or decrease due to rate changes by the SEC, our percentage of the overall industry volumes processed on our systems, and 
+
+36
+differences in actual dollar value of shares traded. Since the amount recorded in revenues is equal to the amount recorded as transaction-based expenses, there is no impact on our revenues less transaction-based expenses. The increase in 2016 compared with 2015 was primarily due to the inclusion of Section 31 fees from our acquisition of ISE. The decrease in 2015 compared with 2014 was primarily due to lower rates and lower dollar value traded. 
+
+Transaction rebates, in which we credit a portion of the per share execution charge to the market participant, increased in 2016 compared with 2015 and decreased in 2015 compared with 2014. 
+
+The increase in 2016 was primarily due to:
+
+•the inclusion of rebates associated with our acquisition of ISE, partially offset by;
+
+•lower U.S. industry trading volumes; and
+
+•lower market share at Nasdaq PHLX. 
+
+The decrease in 2015 was primarily due to a:
+
+•decrease in the average rebate rate;
+
+•decline in overall market share at our three U.S. options exchanges; and
+
+•decrease in U.S. industry trading volumes. 
+
+Brokerage, clearance and exchange fees increased in 2016 compared with 2015 and decreased in 2015 compared with 2014. The increase in 2016 was primarily due to higher Section 31 pass-through fees due to the inclusion of Section 31 fees from our acquisition of ISE. The decrease in 2015 was primarily due to lower Section 31 pass-through fees and a decrease in routing costs due to a decline in volume routed. 
+
+Cash Equity Trading Revenues
+
+Cash equity trading revenues and cash equity trading revenues less transaction-based expenses increased in 2016 compared with 2015. The increases in 2016 were primarily due to:
+
+•the inclusion of revenues associated with our acquisition of Nasdaq CXC; and
+
+•higher U.S. and European industry trading volumes, partially offset by a; 
+
+•decrease in our overall U.S. and European matched market share executed on Nasdaq’s exchanges. 
+
+The increase in cash equity trading revenues less transaction-based expenses in 2016 was also unfavorably impacted by a decrease in the U.S. average net capture rate.
+
+Cash equity trading revenues decreased in 2015 compared with 2014 primarily due to:
+
+•a decrease in our overall U.S. matched market share executed on Nasdaq’s exchanges;
+
+•a decline in Section 31 pass-through fee revenue; and 
+
+•an unfavorable impact from foreign exchange of $18 million, partially offset by;
+
+•higher U.S. and European industry trading volumes; and
+
+•an increase in the U.S. average revenue capture rate. 
+
+Cash equity trading revenues less transaction-based expenses increased in 2015 compared with 2014 primarily due to:
+
+•higher U.S. and European industry trading volumes; and 
+
+•an increase in the average net capture rate, partially offset by;
+
+•a decrease in our overall U.S. matched market share executed on Nasdaq’s exchanges; and 
+
+•an unfavorable impact from foreign exchange of $18 million. 
+
+Similar to equity derivative trading and clearing, in the U.S. we record Section 31 fees as cash equity trading revenues with a corresponding amount recorded as transaction-based expenses. We are assessed these fees from the SEC and pass them through to our customers in the form of incremental fees. Since the amount recorded as revenues is equal to the amount recorded as transaction-based expenses, there is no impact on our revenues less transaction-based expenses. The increase in 2016 compared with 2015 was primarily due to higher dollar value traded on Nasdaq’s exchanges and higher SEC fee rates. The decrease in 2015 compared with 2014 was primarily due to lower SEC fee rates, partially offset by higher dollar value traded on Nasdaq’s exchanges. 
+
+For The Nasdaq Stock Market, Nasdaq PSX and Nasdaq CXC, we credit a portion of the per share execution charge to the market participant that provides the liquidity and for Nasdaq BX, we credit a portion of the per share execution charge to the market participant that takes the liquidity. These transaction rebates increased in 2016 compared with 2015 and decreased in 2015 compared with 2014. 
+
+The increase in 2016 was primarily due to:
+
+•higher U.S. industry trading volumes; and
+
+•the inclusion of rebates associated with our acquisition of Nasdaq CXC, partially offset by a;
+
+•decrease in our overall U.S. matched market share executed on Nasdaq’s exchanges. 
+
+The decrease in 2015 was primarily due to a:
+
+•decrease in our overall U.S. matched market share executed on Nasdaq’s exchanges; and a
+
+•decline in the average rebate rate, partially offset by an;
+
+•increase in U.S. industry trading volumes.
+
+Brokerage, clearance and exchange fees increased in 2016 compared with 2015 and decreased in 2015 compared with 2014. The increase in 2016 was primarily due to an increase in Section 31 pass-through fees. The decrease in 2015 was primarily due to a decline in Section 31 pass-through fees. 
+
+37
+FICC Revenues
+
+FICC revenues increased slightly in 2016 compared with 2015 and decreased in 2015 compared with 2014. FICC revenues less transaction-based expenses decreased both in 2016 compared with 2015 and in 2015 compared with 2014. The decrease in FICC revenues less transaction-based expenses in 2016 was primarily due to the impact of NFX trading incentives and a decline in U.S. fixed income revenues, partially offset by higher commodities revenues. The decrease in FICC revenues and FICC revenues less transaction-based expenses in 2015 was primarily due to volume declines in U.S. fixed income products and European commodities products, a decrease related to a scheduled contract termination of a technology licensing customer, and an unfavorable impact from foreign exchange of $11 million, partially offset by lower trading incentives at Nasdaq NLX, our former London-based multilateral trading venue.
+
+Trade Management Services Revenues
+
+Trade management services revenues increased in 2016 compared with 2015 primarily due to an increase in customer demand for network connectivity and the inclusion of revenues from our acquisition of ISE. Trade management services revenues were flat in 2015 compared with 2014 as an increase in customer demand for network connectivity was offset by an unfavorable impact from foreign exchange of $8 million. 
+
+CORPORATE SERVICES
+
+The following table shows revenues from our Corporate Services segment: 
+
+[DATA_TABLE_REMOVED]
+
+Corporate Solutions Revenues 
+
+Corporate solutions revenues increased in 2016 compared with 2015 primarily due to the inclusion of revenues associated with the acquisitions of Marketwired and Boardvantage. See “Acquisition of Marketwired,” and “Acquisition of Boardvantage,” of Note 4, “Acquisitions,” to the consolidated financial statements for further discussion of the Marketwired and Boardvantage acquisitions. Corporate solutions revenues decreased in 2015 compared with 2014 primarily due to a decline in the demand for our investor relations products and an unfavorable impact from foreign exchange of $9 million. 
+
+Listing Services Revenues
+
+Listing services revenues increased both in 2016 compared with 2015 and in 2015 compared with 2014. The increase in 2016 was primarily due to an increase in European revenues due to new company listings. The increase in 2015 was primarily due to an increase in U.S. listing services revenues, partially offset by a decrease in European listing services revenues. The increase in U.S. listing services revenues was primarily due to an increase in annual listing fees as a result of pricing actions and an increase in the number of listed companies. The decrease in European listing services revenues was primarily due to an unfavorable impact from foreign exchange of $12 million, partially offset by an increase in the number of listed companies and higher annual renewal fees. 
+
+INFORMATION SERVICES
+
+The following table shows revenues from our Information Services segment:
+
+[DATA_TABLE_REMOVED]
+
+Data Products Revenues
+
+Data products revenues increased both in 2016 compared with 2015 and in 2015 compared with 2014. The increase in 2016 was primarily due to growth in proprietary data products revenues, the inclusion of revenues associated with the acquisitions of ISE and Nasdaq CXC, and higher index data products revenues. The increase in 2015 was primarily due to the inclusion of revenues associated with the acquisition of DWA, higher revenues from shared tape revenue plans, and higher customer demand for U.S. proprietary data products, partially offset by an unfavorable impact from foreign exchange of $14 million. 
+
+Index Licensing and Services Revenues
+
+Index licensing and services revenues were flat in 2016 compared with 2015 as an increase in revenues associated with the acquisition of ISE was offset by a decrease in average fees on ETPs tracking to Nasdaq indexes and a decrease in the value of underlying assets associated with non-ETP Nasdaq-licensed products.
+
+Index licensing and services revenues increased in 2015 compared with 2014 due to an increase in the value of underlying assets associated with Nasdaq-licensed ETFs and other financial products due to product growth and newly executed product licenses. The increase in 2015 was also due to our acquisition of DWA.
+
+38
+See “Acquisition of ISE,” “Acquisition of Nasdaq CXC,” and “Acquisition of DWA,” of Note 4, “Acquisitions,” to the consolidated financial statements for further discussion of our ISE, Nasdaq CXC and DWA acquisitions.
+
+MARKET TECHNOLOGY
+
+The following table shows revenues from our Market Technology segment:
+
+[DATA_TABLE_REMOVED]
+
+Market Technology Revenues
+
+The increase in 2016 was primarily due to an increase in revenues from software, licensing and support as well as surveillance products. The decrease in 2015 was primarily due to an unfavorable impact from foreign exchange of $17 million and lower software license and support revenues, partially offset by operational increases in software as a service revenues and change request revenues, reflecting increased customer demand. 
+
+Total Order Value
+
+Total order value, which represents the total contract value of orders signed that are yet to be recognized as revenues, was $777 million as of December 31, 2016, $788 million as of December 31, 2015 and $716 million as of December 31, 2014. As of December 31, 2016, market technology deferred revenue of $185 million represents consideration received that is yet to be recognized as revenue for these signed orders. See Note 8, “Deferred Revenue,” to the consolidated financial statements for further discussion. The recognition and timing of these revenues depends on many factors, including those that are not within our control. As such, the following table of market technology revenues to be recognized in the future represents our best estimate:
+
+[DATA_TABLE_REMOVED]
+
+* * * * * *
+
+Expenses
+
+Operating Expenses 
+
+The following table shows our operating expenses:
+
+[DATA_TABLE_REMOVED]
+
+The increase in compensation and benefits expense in 2016 was primarily due to overall higher compensation costs resulting from our 2016 acquisitions and accelerated expense due to the retirement of the company’s former CEO for equity awards previously granted. Partially offsetting the 2016 increases was lower compensation expense reflecting lower performance incentives and a favorable impact from foreign exchange of $3 million. The increase in 2015 was primarily due to overall 
+
+higher compensation costs associated with higher performance incentives and increased compensation costs resulting from our acquisition of DWA. Partially offsetting the 2015 increases was a favorable impact from foreign exchange of $38 million. 
+
+Headcount increased to 4,325 employees at December 31, 2016 from 3,824 at December 31, 2015. Headcount was 3,687 at December 31, 2014. 
+
+39
+The increase in professional and contract services expense in 2016 was primarily associated with our 2016 acquisitions. The decrease in 2015 was primarily due to a favorable impact from foreign exchange of $8 million.
+
+The increase in computer operations and data communications expense in 2016 was primarily due to higher hardware and license costs associated with our 2016 acquisitions. The increase in 2015 was primarily due to an increase in VAT, reflecting a charge for the reversal of previously recorded VAT receivables no longer deemed collectible of $12 million and higher software lease and maintenance costs, partially offset by a favorable impact from foreign exchange of $8 million.
+
+The increase in occupancy expense in 2016 primarily reflects additional facility and rent costs associated with our 2016 acquisitions, partially offset by lower facility and rent costs as a result of our restructuring activities. The decrease in 2015 reflects lower facility and rent costs due to our restructuring activities and lower costs resulting from services no longer needed under the transition services agreement that was entered into in connection with our acquisition of the TR Corporate businesses. Also contributing to the decrease in 2015 was a favorable impact from foreign exchange of $5 million.
+
+The increase in general, administrative and other expense in 2016 is primarily associated with our 2016 acquisitions. The decrease in 2015 was primarily due to a lower provision for bad debts due to better collection results, a favorable impact from foreign exchange of $5 million, and a loss on extinguishment of debt recorded in 2014. 
+
+Marketing and advertising expense increased in 2016 primarily due to an increase in advertising spend while the decrease in 2015 was primarily due to decreased advertising spend. 
+
+The increase in depreciation and amortization expense in 2016 was primarily due to additional amortization expense associated with software assets placed in service and acquired intangible assets, primarily related to our 2016 acquisitions. The increase in 2015 was primarily due to additional amortization expense associated with acquired intangible assets relating to the acquisition of DWA, as well as increased depreciation expense associated with assets and software placed in service. Partially offsetting these increases was a favorable impact from foreign exchange of $10 million. 
+
+Regulatory expense increased in 2016 due to investigations of cybersecurity processes at our Nordic exchanges and clearinghouse. In December 2016, we were issued a $6 million fine by the SFSA as a result of findings in connection with its investigation. The SFSA’s conclusions related to governance issues rather than systems and platform security. We have appealed the SFSA’s decision, including the amount of the fine. 
+
+Merger and strategic initiatives expense for 2016 was primarily related to our acquisitions of ISE, Boardvantage, Marketwired, and Nasdaq CXC. Merger and strategic initiatives expense for 2015 was primarily related to certain strategic initiatives and our acquisition of DWA. Merger and strategic initiatives expense for 2014 was primarily related to our acquisitions of the TR Corporate businesses and eSpeed and a charge of $23 million related to the reversal of a receivable under a tax sharing agreement with an unrelated party. 
+
+See Note 3, “Restructuring Charges,” to the consolidated financial statements for a discussion of our restructuring charges recorded during 2016 and 2015.
+
+* * * * * *
+
+Non-operating Income and Expenses
+
+The following table shows our non-operating income and expenses:
+
+[DATA_TABLE_REMOVED]
+
+Interest Income
+
+Interest income increased slightly in 2016 compared with 2015 and decreased in 2015 compared with 2014. The decrease in 2015 was primarily due to lower average cash and financial investments balances.
+
+40
+Interest Expense 
+
+The following table shows our interest expense:
+
+[DATA_TABLE_REMOVED]
+
+Interest expense increased in 2016 compared with 2015 primarily due to our 2016 debt issuances. Interest expense decreased in 2015 compared with 2014 primarily due to a favorable impact from foreign exchange of $6 million.
+
+See Note 9, “Debt Obligations,” to the consolidated financial statements for further discussion of our debt obligations.
+
+Asset Impairment Charges
+
+The asset impairment charge of $578 million in 2016 related to a pre-tax, non-cash intangible asset impairment charge related to the full write-off of the eSpeed trade name due to a continued decline in the operating performance of the eSpeed business during 2016 and a rebranding of our Fixed Income business under a single brand called Nasdaq Fixed Income.
+
+Asset impairment charges of $49 million in 2014 related to a $38 million non-cash intangible asset impairment charge associated with customer relationships and an $11 million non-cash asset impairment charge related to certain technology assets. 
+
+See “Intangible Asset Impairment Charges,” of Note 5, “Goodwill and Acquired Intangible Assets,” to the consolidated financial statements for further discussion of the intangible asset impairment charges in both 2016 and 2014.
+
+Other Investment Income
+
+Other investment income was $3 million in 2016 and primarily relates to dividend income received on a cost method investment.
+
+Net Income from Unconsolidated Investees
+
+Net income from unconsolidated investees was $2 million in 2016 and included income recognized from our equity method investments in OCC and EuroCCP N.V. , partially offset by the write-off of our equity method investment in The Order Machine. Net income from unconsolidated investees was $17 million in 2015 and primarily included income recognized from our equity method investment in OCC. We were not able to determine what our share of OCC’s income was for the year ended December 31, 2014 until the first quarter of 2015, when financial statements were made available to us. As a result, we recorded other income of $13 million in the first quarter of 2015 relating to our share of OCC’s income for the year ended December 31, 2014. See “Equity Method 
+
+Investments,” of Note 6, “Investments,” to the consolidated financial statements for further discussion of our equity method investments. 
+
+Tax Matters
+
+The following table shows our income tax provision and effective tax rates:
+
+[DATA_TABLE_REMOVED]
+
+The lower effective tax rate in 2016 when compared with 2015 is primarily due to a shift in the geographic mix of earnings, largely driven by the write-off of the eSpeed trade name, partially offset by an unfavorable ruling from the Finnish Supreme Administrative Court. The higher effective tax rate in 2015 when compared with 2014 was primarily due to a decrease in unrecognized tax benefits in 2014.
+
+The effective tax rate may vary from period to period depending on, among other factors, the geographic and business mix of earnings and losses. These same and other factors, including history of pre-tax earnings and losses, are taken into account in assessing the ability to realize deferred tax assets. 
+
+In order to recognize and measure our unrecognized tax benefits, management determines whether a tax position is more likely than not to be sustained upon examination, including resolution of any related appeals or litigation processes, based on the technical merits of the position. Once it is determined that a position meets the recognition thresholds, the position is measured to determine the amount of benefit to be recognized in the consolidated financial statements. Interest and/or penalties related to income tax matters are recognized in income tax expense.
+
+Although no new U.S. tax legislation has been enacted, we are currently assessing the impact various tax reform proposals will have on our consolidated financial statements.
+
+See Note 10, “Income Taxes,” to the consolidated financial statements for further discussion of our tax matters.
+
+41
+Non-GAAP Financial Measures
+
+In addition to disclosing results determined in accordance with U.S. GAAP, we also have provided non-GAAP net income attributable to Nasdaq and non-GAAP diluted earnings per share. Management uses this non-GAAP information internally, along with U.S. GAAP information, in evaluating our performance and in making financial and operational decisions. We believe our presentation of these measures provides investors with greater transparency and supplemental data relating to our financial condition and results of operations. In addition, we believe the presentation of these measures is useful to investors for period-to-period comparisons of results as the items described below do not reflect ongoing operating performance.
+
+These measures are not in accordance with, or an alternative to, U.S. GAAP, and may be different from non-GAAP measures used by other companies. Investors should not rely on any single financial measure when evaluating our business. We recommend investors review the U.S. GAAP financial measures included in this Annual Report on Form 10-K, including our consolidated financial statements and the notes thereto. When viewed in conjunction with our U.S. GAAP results and the accompanying reconciliation, we believe these non-GAAP measures provide greater transparency and a more complete understanding of factors affecting our business than U.S. GAAP measures alone.
+
+We understand that analysts and investors regularly rely on non-GAAP financial measures, such as non-GAAP net income attributable to Nasdaq and non-GAAP diluted earnings per share, to assess operating performance. We use non-GAAP net income attributable to Nasdaq and non-GAAP diluted earnings per share because they highlight trends more clearly in our business that may not otherwise be apparent when relying solely on U.S. GAAP financial measures, since these measures eliminate from our results specific financial items that have less bearing on our ongoing operating performance. Non-GAAP net income attributable to Nasdaq for the periods presented below is calculated by adjusting for the following items:
+
+Amortization expense of acquired intangible assets: We amortize intangible assets acquired in connection with various acquisitions. 
+
+In the first quarter of 2015, Nasdaq began excluding the amortization of acquired intangible assets when evaluating the performance of our businesses and its managers and when allocating resources amongst the businesses. Our non-GAAP and operating income metrics are used internally and by our investors to measure the ongoing operating performance of Nasdaq. Management’s view of operating performance has not changed significantly from prior periods.
+
+However, intangible asset amortization expense can vary from period to period due to episodic acquisitions completed, rather than from our ongoing business operations. As such, if intangible asset amortization is included in performance measures, it is more difficult to assess the day-to-day operating performance of the businesses, the relative operating 
+
+performance of the businesses between periods, and the earnings power of Nasdaq. In connection with this change to the calculation of our internal performance measures in the first quarter of 2015, we also aligned our external reporting with these same performance measures. Historical periods were restated to conform to the current presentation. Performance measures excluding intangible asset amortization therefore, provide investors with a more useful representation of our businesses’ ongoing activity in each period.
+
+Restructuring charges: Restructuring charges are associated with our 2015 restructuring plan to improve performance, cut costs and reduce spending and are primarily related to (i) the rebranding of our company name from The NASDAQ OMX Group, Inc. to Nasdaq, Inc., (ii) severance and other termination benefits, (iii) costs to vacate duplicate facilities, and (iv) asset impairment charges. We exclude these restructuring costs because these costs do not reflect future operating expenses and do not contribute to a meaningful evaluation of Nasdaq’s ongoing operating performance or comparison of Nasdaq’s performance between periods.
+
+Merger and strategic initiatives expense: We have pursued various strategic initiatives and completed a number of acquisitions in recent years which have resulted in expenses which would not have otherwise been incurred. These expenses include integration costs, as well as legal, due diligence and other third party transaction costs. The frequency and the amount of such expenses vary significantly based on the size, timing and complexity of the transaction. Accordingly, we exclude these costs for purposes of calculating non-GAAP measures which provide a more meaningful analysis of Nasdaq’s ongoing operating performance or comparisons in Nasdaq’s performance between periods.
+
+Asset impairment charges:  Intangible assets that have indefinite lives are reviewed for impairment at least annually, or when indicators of impairment are present. In December 2016, we recorded a pre-tax, non-cash intangible asset impairment charge of $578 million related to the full write-off of the eSpeed trade name. The impairment charge was the result of a decline in operating performance and the rebranding of our Fixed Income business. In 2014, we recorded a non-cash asset impairment charge of $38 million related to an acquired intangible asset associated with customer relationships. The impairment resulted primarily from changes in forecasted revenues associated with the acquired customer list of our eSpeed business. In 2014, we also recorded a non-cash asset impairment charge related to certain technology assets of $11 million. We exclude these charges because they do not reflect future operating expenses and do not contribute to a meaningful evaluation of Nasdaq’s ongoing operating performance or comparison of Nasdaq’s performance between periods.
+
+Other significant items: We have excluded certain other charges or gains that are the result of other non-comparable events to measure operating performance. For 2016, other significant items primarily included a regulatory fine received by our exchange in Stockholm and Nasdaq Clearing, accelerated expense due to the retirement of the company’s former CEO 
+
+42
+for equity awards previously granted, the release of a sublease loss reserve due to the early exit of a facility, and the impact of the write-off of an equity method investment, partially offset by a gain resulting from the sale of a percentage of a separate equity method investment. For 2015, other significant items included income from our equity investment in OCC where we were not able to determine what our share of OCC’s income was for the year ended December 31, 2014 until the first quarter of 2015, when financial statements were made available to us. 
+
+As a result, we recorded other income in the first quarter of 2015 relating to our share of OCC’s income for the year ended December 31, 2014. For 2015, other significant adjustments also included the reversal of a VAT refund. For 2014, other significant items included extinguishment of debt, a sublease loss reserve and special legal expense. We believe the exclusion of such amounts allows management and investors to better understand the financial results of Nasdaq. 
+
+* * * * * *
+
+The following table represents reconciliations between U.S. GAAP net income and diluted earnings per share and non-GAAP net income and diluted earnings per share:
+
+[DATA_TABLE_REMOVED]
+
+____________ 
+
+(1) We determine the tax effect of each item based on the tax rules in the respective jurisdiction where the transaction occurred. Also included in this adjustment for the year ended December 31, 2016 is $27 million in tax expense associated with an unfavorable decision from the Finnish Supreme Administrative Court on a tax position. For the year ended December 31, 2014 this amount includes $23 million associated with the recognition of a previously unrecognized tax benefit. 
+
+43
+Liquidity and Capital Resources
+
+Historically, we have funded our operating activities and met our commitments through cash generated by operations, augmented by the periodic issuance of our common stock and debt. See Note 9, “Debt Obligations,” to the consolidated financial statements for further discussion of our debt obligations. Currently, our cost and availability of funding remain healthy. 
+
+As part of the purchase price consideration of a prior acquisition, Nasdaq has contingent future obligations to issue 992,247 shares of Nasdaq common stock annually which approximated certain tax benefits associated with the transaction of $484 million. Such contingent future issuances of Nasdaq common stock will be paid ratably through 2027 if Nasdaq’s total gross revenues equal or exceed $25 million in each such year. The contingent future issuances of Nasdaq common stock are subject to anti-dilution protections and acceleration upon certain events. 
+
+In May 2016, Nasdaq issued the 2023 Notes and in June 2016, Nasdaq issued the 2026 Notes. We used the majority of the net proceeds from the 2023 Notes of $664 million and the 2026 Notes of $495 million to fund the acquisition of ISE and related expenses. See “3.85% Senior Unsecured Notes,” and “1.75% Senior Unsecured Notes,” of Note 9, “Debt Obligations,” and “Acquisition of ISE,” of Note 4, “Acquisitions,” to the consolidated financial statements for further discussion.
+
+In March 2016, Nasdaq entered into the 2016 Credit Facility which provides for a $400 million senior unsecured term loan facility. In March 2016, loans in an aggregate principal amount of $400 million were drawn under the 2016 Credit Facility and the net proceeds of $399 million were used to partially repay amounts outstanding under the revolving credit commitment of the 2014 Credit Facility. As of December 31, 2016, the balance of $399 million reflects the aggregate principal amount, less the unamortized debt issuance costs. See “2016 Credit Facility,” of Note 9, “Debt Obligations,” to the consolidated financial statements for further discussion.
+
+Our 2014 Credit Facility consists of a $750 million revolving credit commitment (with sublimits for non-dollar borrowings, swingline borrowings and letters of credit). As of December 31, 2016, availability under the revolving credit commitment was $749 million. See “2014 Credit Facility,” of Note 9, “Debt Obligations,” to the consolidated financial statements for further discussion. 
+
+In the near term, we expect that our operations and availability under our revolving credit commitment will provide sufficient cash to fund our operating expenses, capital expenditures, debt repayments, any share repurchases, and any dividends. 
+
+Various assets and liabilities, including cash and cash equivalents, receivables, accounts payable and accrued expenses, can fluctuate from month to month. Working capital (calculated as current assets less current liabilities) was $478 million at December 31, 2016, compared with $340 million at December 31, 2015, an increase of $138 million. Current asset balance changes increased working capital by $1,300 million, 
+
+with increases in default funds and margin deposits, receivables, net, cash and cash equivalents, financial investments, at fair value, and other current assets, partially offset by a decrease in restricted cash. Current liability balance changes decreased working capital by $1,162 million, due to increases in default funds and margin deposits, accrued personnel costs, deferred revenue, accounts payable and accrued expenses, and Section 31 fees payable to the SEC, partially offset by a decrease in other current liabilities.
+
+Principal factors that could affect the availability of our internally-generated funds include:
+
+•deterioration of our revenues in any of our business segments;
+
+•changes in our working capital requirements; and
+
+•an increase in our expenses.
+
+Principal factors that could affect our ability to obtain cash from external sources include:
+
+•operating covenants contained in our credit facilities that limit our total borrowing capacity;
+
+•increases in interest rates under our credit facilities;
+
+•credit rating downgrades, which could limit our access to additional debt;
+
+•a decrease in the market price of our common stock; and
+
+•volatility in the public debt and equity markets.
+
+The following sections discuss the effects of changes in our financial assets, debt obligations, clearing and broker-dealer net capital requirements, and cash flows on our liquidity and capital resources.
+
+Financial Assets
+
+The following table summarizes our financial assets:
+
+[DATA_TABLE_REMOVED]
+
+Cash and Cash Equivalents and Restricted Cash
+
+Cash and cash equivalents includes all non-restricted cash in banks and highly liquid investments with original maturities of 90 days or less at the time of purchase. The balance retained in cash and cash equivalents is a function of anticipated or possible short-term cash needs, prevailing interest rates, our investment policy, and alternative investment choices. As of December 31, 2016, our cash and cash equivalents of $403 million were primarily invested in bank deposits, money market funds and commercial paper. In the long-term, we may use both internally generated funds and external sources to satisfy our debt 
+
+44
+obligations and other long-term liabilities. Cash and cash equivalents as of December 31, 2016 increased $102 million from December 31, 2015 primarily due to net cash provided by operating and financing activities, partially offset by net cash used in investing activities. See “Cash Flow Analysis” below for further discussion. 
+
+As of December 31, 2016 and December 31, 2015, restricted cash is restricted from withdrawal due to a contractual requirement or not available for general use. Restricted cash was $15 million as of December 31, 2016 and $56 million as of December 31, 2015, a decrease of $41 million. The decrease is primarily due to lower restricted cash due to a decline in customer funds held in connection with privately negotiated securities transactions. Restricted cash is classified as restricted cash in the Consolidated Balance Sheets.
+
+Repatriation of Cash
+
+Our cash and cash equivalents held outside of the U.S. in various foreign subsidiaries totaled $102 million as of December 31, 2016 and $105 million as of December 31, 2015. The remaining balance held in the U.S. totaled $301 million as of December 31, 2016 and $196 million as of December 31, 2015.
+
+Unremitted earnings of subsidiaries outside of the U.S. are used to finance our international operations and are generally considered to be indefinitely reinvested. It is not our current intent to change this position. However, the majority of cash held outside the U.S. is available for repatriation, but under current law, could subject us to additional U.S. income taxes, less applicable foreign tax credits. 
+
+Share Repurchase Program
+
+See “Share Repurchase Program,” of Note 13, “Nasdaq Stockholders’ Equity,” to the consolidated financial statements for further discussion of our share repurchase program.
+
+Cash Dividends on Common Stock
+
+The following table shows quarterly cash dividends declared per common share on our outstanding common stock:
+
+[DATA_TABLE_REMOVED]
+
+See “Cash Dividends on Common Stock,” of Note 13, “Nasdaq Stockholders’ Equity,” to the consolidated financial statements for further discussion of the dividends.
+
+Financial Investments, at Fair Value
+
+Our financial investments, at fair value totaled $245 million as of December 31, 2016 and $201 million as of December 31, 2015 and are primarily comprised of trading securities, mainly highly rated European government debt securities. Of these securities, $172 million as of December 31, 2016 and $166 million as of December 31, 2015 are assets utilized to meet regulatory capital requirements, primarily for our clearing operations at Nasdaq Clearing. See Note 6, “Investments,” to the consolidated financial statements for further discussion of our trading investment securities. 
+
+* * * * * *
+
+Debt Obligations
+
+The following table summarizes our debt obligations by contractual maturity:
+
+[DATA_TABLE_REMOVED]
+
+45
+In addition to the $750 million revolving credit commitment and $400 million term loan facility, we also have other credit facilities related to our Nasdaq Clearing operations in order to provide further liquidity. Credit facilities, which are available in multiple currencies, totaled $170 million at December 31, 2016 and $202 million December 31, 2015, in available liquidity, none of which was utilized.
+
+At December 31, 2016, we were in compliance with the covenants of all of our debt obligations.
+
+See Note 9, “Debt Obligations,” to the consolidated financial statements for further discussion of our debt obligations.
+
+Clearing and Broker-Dealer Net Capital Requirements
+
+Clearing Operations Regulatory Capital Requirements
+
+We are required to maintain minimum levels of regulatory capital for the clearing operations of Nasdaq Clearing. The level of regulatory capital required to be maintained is dependent upon many factors, including market conditions and creditworthiness of the counterparty. At December 31, 2016, our required regulatory capital of $172 million is primarily comprised of highly rated European government debt securities that are included in financial investments, at fair value in the Consolidated Balance Sheets. 
+
+Broker-Dealer Net Capital Requirements
+
+Our operating broker-dealer subsidiaries, Nasdaq Execution Services, Execution Access, NPM Securities, SMTX, and Nasdaq Capital Markets Advisory are subject to regulatory requirements intended to ensure their general financial soundness and liquidity. These requirements obligate these 
+
+subsidiaries to comply with minimum net capital requirements. The following table summarizes the net capital requirements for our broker-dealer subsidiaries as of December 31, 2016:
+
+[DATA_TABLE_REMOVED]
+
+Other Capital Requirements
+
+Nasdaq Execution Services 
+
+Nasdaq Execution Services also is required to maintain a $2 million minimum level of net capital under our clearing arrangement with OCC. 
+
+Nasdaq CXC 
+
+As a member of the Investment Industry Regulatory Organization of Canada, Nasdaq CXC must comply with its dealer member rules which are intended to ensure general financial soundness and liquidity. Under these rules, Nasdaq CXC is required to comply with minimum net capital requirements. At December 31, 2016, Nasdaq CXC was required to maintain minimum net capital of $0.2 million and had total net capital of approximately $5.8 million, or $5.6 million in excess of the minimum amount required. 
+
+46
+Cash Flow Analysis
+
+The following table summarizes the changes in cash flows:
+
+[DATA_TABLE_REMOVED]
+
+Net Cash Provided by Operating Activities
+
+Net cash provided by operating activities increased $40 million in 2016 compared with 2015 and increased $50 million in 2015 compared with 2014. The increases were primarily due to additional cash flows from our acquisitions completed during 2016 and 2015 and higher cash flows from our Listing Services business primarily due to an increase in annual renewal fees, partially offset by an increase in cash payments related to merger and strategic initiatives expense associated with our 2016 and 2015 acquisitions. 
+
+Net Cash Used in Investing Activities 
+
+Net cash used in investing activities increased $1,222 million in 2016 compared with 2015 and increased $280 million in 2015 compared with 2014 primarily due to an increase in cash paid for acquisitions, net of cash and cash equivalents acquired of $1,460 million in 2016 and $226 million in 2015. 
+
+Net Cash Provided by (Used in) Financing Activities
+
+Net cash provided by financing activities for the year ended December 31, 2016 primarily consisted of net proceeds of $2,456 million, of which $1,159 million related to the issuances of our 2023 Notes and 2026 Notes to fund our acquisition of ISE, $399 million related to net proceeds from our 2016 Credit Facility and $898 million related to proceeds from utilization of the revolving credit commitment under our 2014 Credit Facility to partially fund our acquisitions of Boardvantage, Marketwired and Nasdaq CXC, and other general corporate purposes. These proceeds were partially offset by the repayment of $1,156 million on the revolving credit commitment under our 2014 Credit Facility. We also used $200 million of cash to pay cash dividends on our common stock and $100 million of cash to repurchase our common stock. 
+
+Net cash used in financing activities for the year ended December 31, 2015 primarily consisted of $377 million of cash used to repurchase our common stock, the repayment of $369 million on the revolving credit commitment of our 2014 Credit 
+
+Facility, and $149 million related to cash dividends paid on our common stock, partially offset by $506 million from the partial utilization of the revolving credit commitment under our 2014 Credit Facility to partially fund our acquisition of DWA and other general corporate purposes.
+
+See “2016 Acquisitions,” and “2015 Acquisitions,” of Note 4, “Acquisitions,” to the consolidated financial statements for further discussion of our acquisitions.
+
+See Note 9, “Debt Obligations,” to the consolidated financial statements for further discussion of our debt obligations.
+
+See “Share Repurchase Program,” and “Cash Dividends on Common Stock,” of Note 13, “Nasdaq Stockholders’ Equity,” to the consolidated financial statements for further discussion of our share repurchase program and cash dividends paid on our common stock. 
+
+47
+Contractual Obligations and Contingent Commitments
+
+Nasdaq has contractual obligations to make future payments under debt obligations by contract maturity, minimum rental commitments under non-cancelable operating leases, net and other obligations. The following table shows these contractual obligations as of December 31, 2016:
+
+[DATA_TABLE_REMOVED]
+
+____________
+
+(1) Our debt obligations include both principal and interest obligations. At December 31, 2016, an interest rate of 2.84% was used to compute the amount of the contractual obligations for interest on the 2016 Credit Facility. All other debt obligations were primarily calculated on a 360-day basis at the contractual fixed rate multiplied by the aggregate principal amount at December 31, 2016. See Note 9, “Debt Obligations,” to the consolidated financial statements for further discussion.
+
+(2) We lease some of our office space under non-cancelable operating leases with third parties and sublease office space to third parties. Some of our leases contain renewal options and escalation clauses based on increases in property taxes and building operating costs.
+
+(3) Other obligations primarily consist of potential future escrow agreement payments related to prior acquisitions as well as other service agreement payments.
+
+* * * * * *
+
+Non-Cash Contingent Consideration
+
+As part of the purchase price consideration of a prior acquisition, we have agreed to future annual issuances of 992,247 shares of Nasdaq common stock which approximated certain tax benefits associated with the transaction. Such contingent future issuances of Nasdaq common stock will be paid ratably through 2027 if Nasdaq’s total gross revenues equal or exceed $25 million in each such year. The contingent future issuances of Nasdaq common stock are subject to anti-dilution protections and acceleration upon certain events.
+
+Off-Balance Sheet Arrangements
+
+For discussion of off-balance sheet arrangements see:
+
+•Note 16, “Clearing Operations,” to the consolidated financial statements for further discussion of our non-cash default fund contributions and margin deposits received for clearing operations;
+
+•Note 17, “Leases,” to the consolidated financial statements for further discussion of our lease commitments; and
+
+•Note 18, “Commitments, Contingencies and Guarantees,” to the consolidated financial statements for further discussion of:
+
+•Guarantees issued and credit facilities available;
+
+•Lease commitments;
+
+•Other guarantees;
+
+•Non-cash contingent consideration;
+
+•Escrow agreements;
+
+•Routing brokerage activities;
+
+•Litigation; and
+
+•Tax audits.
+
+Quantitative and Qualitative Disclosures About Market Risk
+
+Market risk represents the potential for losses that may result from changes in the market value of a financial instrument due to changes in market conditions. As a result of our operating, investing and financing activities, we are exposed to market risks such as interest rate risk and foreign currency exchange rate risk. We are also exposed to credit risk as a result of our normal business activities.
+
+We have implemented policies and procedures to measure, manage, monitor and report risk exposures, which are reviewed regularly by management and the board of directors. We identify risk exposures and monitor and manage such risks on a daily basis.
+
+We perform sensitivity analyses to determine the effects of market risk exposures. We may use derivative instruments solely to hedge financial risks related to our financial positions or risks that are incurred during the normal course of business. We do not use derivative instruments for speculative purposes.
+
+Interest Rate Risk
+
+We are subject to the risk of fluctuating interest rates in the normal course of business. Our exposure to market risk for changes in interest rates relates primarily to our financial investments and debt obligations which are discussed below.
+
+48
+Financial Investments 
+
+As of December 31, 2016, our investment portfolio was primarily comprised of trading securities, mainly highly rated European government debt securities, which pay a fixed rate of interest. These securities are subject to interest rate risk and will decrease in value if market interest rates increase. If market interest rates were to increase immediately and uniformly by 100 basis points from levels as of December 31, 2016, the fair value of this portfolio would have declined by $6 million. 
+
+Debt Obligations
+
+As of December 31, 2016, substantially all of our debt obligations are fixed-rate obligations. While changes in interest 
+
+rates will have no impact on the interest we pay on fixed-rate obligations, we are exposed to changes in interest rates as a result of borrowings under our 2016 Credit Facility and the 2014 Credit Facility, as these facilities have variable interest rates. As of December 31, 2016, there were no outstanding borrowings under our 2014 Credit Facility. The principal amount outstanding under the 2016 Credit Facility was $400 million. A hypothetical 100 basis points increase in interest rates on the 2016 Credit Facility would increase interest expense by approximately $4 million based on borrowings as of December 31, 2016. 
+
+* * * * * *
+
+Foreign Currency Exchange Rate Risk
+
+As a leading global exchange group, we are subject to foreign currency transaction risk. Our primary exposure to foreign currency denominated revenues less transaction-based expenses and operating income for the years ended December 31, 2016 and 2015 is presented in the following tables:
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+____________
+
+#Represents multiple foreign currency rates.
+
+N/ANot applicable.
+
+(1) The 2015 percentage of operating income in Swedish Krona was impacted by restructuring charges recorded during 2015 as a majority of these charges were recorded in currencies other than the U.S. dollar, primarily the Swedish Krona. See Note 3, “Restructuring Charges,” to the consolidated financial statements for further discussion. 
+
+Our investments in foreign subsidiaries are exposed to volatility in currency exchange rates through translation of the foreign subsidiaries’ net assets or equity to U.S. dollars. Substantially all of our foreign subsidiaries operate in functional currencies other than the U.S. dollar. Fluctuations in currency exchange 
+
+rates may create volatility in our results of operations as we are required to translate the balance sheets and operational results of these foreign currency denominated subsidiaries into U.S. dollars for consolidated reporting. The translation of foreign subsidiaries’ non-U.S. dollar balance sheets into U.S. dollars 
+
+49
+for consolidated reporting results in a cumulative translation adjustment which is recorded in accumulated other comprehensive loss within stockholders’ equity in the Consolidated Balance Sheets.
+
+Our primary exposure to net assets in foreign currencies as of December 31, 2016 is presented in the following table:
+
+[DATA_TABLE_REMOVED]
+
+____________
+
+(1) Includes goodwill of $2,400 million and intangible assets, net of $586 million.
+
+Credit Risk
+
+Credit risk is the potential loss due to the default or deterioration in credit quality of customers or counterparties. We are exposed to credit risk from third parties, including customers, counterparties and clearing agents. These parties may default on their obligations to us due to bankruptcy, lack of liquidity, operational failure or other reasons. We limit our exposure to credit risk by rigorously evaluating the counterparties with which we make investments and execute agreements. The financial investment portfolio objective is to invest in securities to preserve principal while maximizing yields, without significantly increasing risk. Credit risk associated with investments is minimized substantially by ensuring that these financial assets are placed with governments which have investment grade ratings, well-capitalized financial institutions and other creditworthy counterparties. 
+
+Our subsidiary Nasdaq Execution Services may be exposed to credit risk, due to the default of trading counterparties, in connection with the routing services it provides for our trading customers. System trades in cash equities routed to other market centers for members of our cash equity exchanges are routed by Nasdaq Execution Services for clearing to the NSCC. In this function, Nasdaq Execution Services is to be neutral by the end of the trading day, but may be exposed to intraday risk if a trade extends beyond the trading day and into the next day, thereby leaving Nasdaq Execution Services susceptible to counterparty risk in the period between accepting the trade and routing it to the clearinghouse. In this interim period, Nasdaq Execution Services is not novating like a clearing broker but instead is subject to the short-term risk of counterparty failure before the clearinghouse enters the transaction. Once the clearinghouse officially accepts the trade for novation, Nasdaq Execution Services is legally removed from trade execution risk. However, Nasdaq has membership obligations to NSCC independent of Nasdaq Execution Services’ arrangements.
+
+Pursuant to the rules of the NSCC and Nasdaq Execution Services’ clearing agreement, Nasdaq Execution Services is liable for any losses incurred due to a counterparty or a clearing agent’s failure to satisfy its contractual obligations, either by making payment or delivering securities. Adverse movements in the prices of securities that are subject to these transactions can increase our credit risk. However, we believe that the risk of material loss is limited, as Nasdaq Execution Services’ customers are not permitted to trade on margin and NSCC rules limit counterparty risk on self-cleared transactions by establishing credit limits and capital deposit requirements for all brokers that clear with NSCC. Historically, Nasdaq Execution Services has never incurred a liability due to a customer’s failure to satisfy its contractual obligations as counterparty to a system trade. Credit difficulties or insolvency, or the perceived possibility of credit difficulties or insolvency, of one or more larger or visible market participants could also result in market-wide credit difficulties or other market disruptions. 
+
+Execution Access is an introducing broker which operates the trading platform for our Nasdaq Fixed Income business to trade in U.S. Treasury securities. Execution Access has a clearing arrangement with Cantor Fitzgerald. As of December 31, 2016, we have contributed $20 million of clearing deposits to Cantor Fitzgerald in connection with this clearing arrangement. These deposits are recorded in other current assets in our Consolidated Balance Sheets. Some of the trading activity in Execution Access is cleared by Cantor Fitzgerald through the Fixed Income Clearing Corporation. Execution Access assumes the counterparty risk of clients that do not clear through the Fixed Income Clearing Corporation. Counterparty risk of clients exists for Execution Access between the trade date and settlement date of the individual transactions, which is one business day. All of Execution Access’ obligations under the clearing arrangement with Cantor Fitzgerald are guaranteed by Nasdaq. Counterparties that do not clear through the Fixed Income Clearing Corporation are subject to a credit due diligence process and may be required to post collateral, provide principal letters, or provide other forms of credit enhancement to Execution Access for the purpose of mitigating counterparty risk. 
+
+We are exposed to credit risk through our clearing operations with Nasdaq Clearing. See Note 16, “Clearing Operations,” to the consolidated financial statements for further discussion. 
+
+We also have credit risk related to transaction and subscription-based revenues that are billed to customers on a monthly or quarterly basis, in arrears. Our potential exposure to credit losses on these transactions is represented by the receivable balances in our Consolidated Balance Sheets. On an ongoing basis, we review and evaluate changes in the status of our counterparties’ creditworthiness. Credit losses such as those described above could adversely affect our consolidated financial position and results of operations.
+
+50
+Critical Accounting Policies and Estimates 
+
+The preparation of financial statements and related disclosures in conformity with U.S. GAAP requires management to make judgments, assumptions, and estimates that affect the amounts reported in the consolidated financial statements and accompanying notes. Note 2, “Summary of Significant Accounting Policies,” to the consolidated financial statements describes the significant accounting policies and methods used in the preparation of the consolidated financial statements. The accounting policies described below are significantly affected by critical accounting estimates. Such accounting policies require significant judgments, assumptions, and estimates used in the preparation of the consolidated financial statements, and actual results could differ materially from the amounts reported based on these policies.
+
+Revenue Recognition
+
+Corporate Services Revenues
+
+Listing Services Revenues
+
+Listing services revenues primarily include annual renewal fees, initial listing fees, and listing of additional shares fees. Annual renewal fees do not require any judgments or assumptions by management as these amounts are recognized ratably over the following 12-month period. However, listing of additional shares fees and initial listing fees are recognized on a straight-line basis over estimated service periods, which are four and six years, respectively, based on our historical listing experience and projected future listing duration. Unamortized balances are recorded as deferred revenue in the Consolidated Balance Sheets.
+
+Goodwill and Related Impairment
+
+Goodwill represents the excess of purchase price over the value assigned to the net assets, including identifiable intangible assets, of a business acquired. Goodwill is allocated to our reporting units based on the assignment of the fair values of each reporting unit of the acquired company. We test goodwill for impairment at the reporting unit level annually, or in interim periods if certain events occur indicating that the carrying amount may be impaired, such as changes in the business climate, poor indicators of operating performance or the sale or disposition of a significant portion of a reporting unit. For purposes of performing our goodwill impairment test, our five reporting units are the Market Services segment, the two businesses comprising the Corporate Services segment: Corporate Solutions and Listing Services, the Information Services segment, and the Market Technology segment. We test for impairment during the fourth quarter of our fiscal year using carrying amounts as of October 1. In conducting the 2016 annual impairment test for goodwill, we first performed a qualitative assessment to determine whether it was more likely than not that the fair value of a reporting unit was less than the carrying amount as a basis for determining whether it was necessary to perform the two-step quantitative goodwill impairment test described in FASB ASC Topic 350, 
+
+“Intangibles–Goodwill and Other,” or ASC Topic 350. The more-likely-than-not threshold is defined as having a likelihood of more than 50 percent. If, after assessing the totality of events or circumstances, we determine that it is more likely than not that the fair value of a reporting unit is less than its carrying amount, then the two-step quantitative test for goodwill impairment is performed for the appropriate reporting units. Otherwise, we conclude that no impairment is indicated and the two-step quantitative test for goodwill impairment is not performed.
+
+In conducting the qualitative assessment, we analyzed actual and projected growth trends for each reporting unit, as well as historical performance versus plan and the results of prior quantitative tests performed. Additionally, each reporting unit assesses critical areas that may impact their business, including macroeconomic conditions and the related impact, market related exposures, competitive changes, new or discontinued products, changes in key personnel, and other potential risks to their projected financial results.
+
+If required, the quantitative goodwill impairment test consists of two steps performed at the reporting unit level. 
+
+•The first step compares the estimated fair value of each reporting unit to its corresponding carrying amount, including goodwill. The fair value of each reporting unit is estimated using a combination of discounted cash flow valuation, which incorporates assumptions regarding future growth rates, terminal values, and discount rates, as well as guideline public company valuations, incorporating relevant trading multiples of comparable companies and other factors. The estimates and assumptions used consider historical performance and are consistent with the assumptions used in determining future profit plans for each reporting unit, which are approved by our board of directors. If the reporting unit’s estimated fair value exceeds its estimated carrying amount, goodwill is not impaired.
+
+•If the first step results in the carrying amount exceeding the fair value of the reporting unit, then a second step must be completed in order to determine the amount of goodwill impairment that should be recorded, if any. In the second step, the implied fair value of the reporting unit’s goodwill is determined by allocating the reporting unit’s fair value to all of its assets and liabilities other than goodwill in a manner similar to a purchase price allocation. The implied fair value of the goodwill that results from the application of this second step is then compared to the carrying amount of the goodwill and an impairment charge is recorded for any difference.
+
+For our annual test of goodwill impairment in 2016, we considered the results of prior quantitative tests performed on our reporting units and also considered future financial projections, current market conditions, and any changes in the carrying amount of the reporting units.
+
+51
+The following table presents the balances of goodwill for our reportable segments at the time of our 2016 annual impairment: 
+
+[DATA_TABLE_REMOVED]
+
+We utilized the qualitative screen for our Market Services, Listing Services, Information Services and Market Technology reporting units, as the excesses of their fair values over their respective carrying amounts at the time of the last quantitative test were significant. The last quantitative tests were in 2013 for the Listing Services, Information Services and Market Technology reporting units and in 2015 for the Market Services reporting unit. In conducting the qualitative assessment, we evaluated the performance of each of these reporting units since the last quantitative test, as well as future financial projections to determine if there were any changes in the key inputs used to determine the fair values of each reporting unit. We also considered the qualitative factors in ASC Topic 350, as well as other relevant events and circumstances. Based on the results of the qualitative assessment for each reporting unit, we concluded based on a preponderance of positive indicators and the weight of such indicators that the fair values of our Market Services, Listing Services, Information Services and Market Technology reporting units are more likely than not greater than their respective carrying amounts and as a result, quantitative analyses were not needed. Therefore, no further testing of goodwill for impairment was performed for these reporting units for the year ended December 31, 2016. 
+
+Although the fair value of our Corporate Solutions reporting unit also exceeded its carrying amount by more than 10.0% in our 2015 and 2014 annual goodwill impairment tests, since the excess of fair value over the carrying amount has historically been less than our other reporting units, we bypassed the qualitative assessment for this reporting unit. We performed step one of the quantitative goodwill impairment test for this reporting unit and determined that the fair value of our Corporate Solutions reporting unit exceeded its carrying amount by more than 10.0%. As a result, no goodwill impairment was recorded. The fair value of our Corporate Solutions reporting unit was determined using a combination of two equally weighted valuation methods, a market approach and an income approach. The market approach estimates fair value by applying revenues, earnings and cash flow multiples to the Corporate Solutions reporting unit's operating performance. The multiples are derived from comparable publicly-traded companies with similar operating and investment characteristics to the Corporate Solutions reporting unit. The market approach requires management’s judgment to 
+
+determine several valuation inputs, including the selection of comparable companies and control premium.
+
+The control premium is based on recent transactions in the marketplace. Under the income approach, we estimated future cash flows of our Corporate Solutions reporting unit based on internally generated forecasts of future financial performance. We determined a long-term growth rate for the terminal year period based on historical and expected inflation rates as well as management’s estimate of the long-term growth of the business. We then discounted the projected cash flows using the appropriate weighted average cost of capital for the Corporate Solutions reporting unit. 
+
+Although we believe our estimates of fair value are reasonable, the determination of certain valuation inputs is subject to management’s judgment. Changes in these inputs could materially affect the results of our impairment review. If our forecasts of cash flows generated by our Corporate Solutions reporting unit or other key inputs are negatively revised in the future, the estimated fair value of the Corporate Solutions reporting unit would be adversely impacted, potentially leading to an impairment in the future that could materially affect our operating results.
+
+Subsequent to our annual impairment test, no indications of impairment were identified.
+
+Indefinite-Lived Intangible Assets and Related Impairment
+
+Intangible assets deemed to have indefinite useful lives are not amortized but instead are tested for impairment at least annually and more frequently whenever events or changes in circumstances indicate that the fair value of the asset may be less than its carrying amount. The fair value of indefinite-lived intangible assets is primarily determined on the basis of estimated discounted value, using the relief from royalty approach or excess earnings approach for trade names and the Greenfield Approach for exchange and clearing registrations and licenses, both of which incorporate assumptions regarding future revenue projections and discount rates. Similar to goodwill impairment testing, we test for impairment of indefinite-lived intangible assets during the fourth quarter of our fiscal year using carrying amounts as of October 1. In conducting the 2016 annual impairment test for indefinite-lived intangible assets, we first performed a qualitative assessment to determine whether it was more likely than not that the fair value of an indefinite-lived intangible asset was less than the carrying amount as a basis for determining whether it was necessary to perform the quantitative impairment test described in ASC Topic 350. The more-likely-than-not threshold is defined as having a likelihood of more than 50 percent. If, after assessing the totality of events or circumstances, we determine that it is more likely than not that the fair value of an indefinite-lived intangible asset is less than its carrying amount, then the quantitative test for indefinite-lived intangible assets impairment is performed for the appropriate intangible assets. If the carrying amount of the indefinite-lived intangible asset exceeds its fair value, an impairment charge is recorded for the difference.
+
+52
+As discussed in “Intangible Asset Impairment Charges,” of Note 5, “Goodwill and Acquired Intangible Assets,” to the consolidated financial statements, we recorded the following pre-tax, non-cash indefinite-lived asset impairment charges during 2016 and 2015:
+
+•December 2016: $578 million to write off the full value of the eSpeed trade name; and 
+
+•March 2015: $119 million - in connection with our global rebranding initiative, we decided to change our company name from The NASDAQ OMX Group, Inc. to Nasdaq, Inc., which became effective in the third quarter of 2015. In connection with this action, we decided to discontinue the use of the OMX trade name, and therefore wrote off the full value of the trade name.
+
+These charges did not impact the company’s consolidated cash flows, liquidity, or capital resources. The write off of the eSpeed trade name is recorded in asset impairment charges in the Consolidated Statements of Income for 2016 and the write off of the OMX trade name is recorded in restructuring charges in the Consolidated Statements of Income for 2015. 
+
+There were no other impairments of indefinite-lived intangible assets for the years ended December 31, 2016, 2015 and 2014.
+
+Other Long-Lived Assets and Related Impairment
+
+We review our other long-lived assets, such as finite-lived intangible assets, equity and cost method investments, as well as property and equipment for potential impairment when there is evidence that events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable. The carrying amount of an asset is not recoverable if it exceeds the sum of the undiscounted cash flows expected to result from the use and eventual disposition of the asset. We evaluate our equity and cost method investments for other-than-temporary declines in value by considering a variety of factors such as the earnings capacity of the investment and the fair value of the investment compared to its carrying amount. In addition, for investments where the market value is readily determinable, we consider the underlying stock price as an additional factor. Any required impairment loss is measured as the amount by which the carrying amount of the asset exceeds its fair value and is recorded as a reduction in the carrying amount of the related asset and a charge to operating results. 
+
+Among our finite-lived intangible assets, we performed an undiscounted cash flow analysis to test whether the eSpeed customer relationship intangible asset was recoverable as we concluded that indicators of impairment were present in the current year as discussed in “Intangible Asset Impairment Charges,” of Note 5, “Goodwill and Acquired Intangible Assets,” to the consolidated financial statements. As of December 31, 2016, the eSpeed customer relationship intangible asset had a remaining net book value of $57 million. The results of the recoverability test indicated that the estimated future undiscounted cash flows exceeded the carrying amount of the asset by a significant amount. Therefore, no impairment charge was recorded in 2016. We will continue to monitor potential triggering events. Any changes in these factors could 
+
+result in further testing for recoverability, and, if it is determined that the carrying amount of the asset is not recoverable, an impairment of the asset would then be recorded.
+
+We evaluate our equity method investments for other-than-temporary declines in value by considering a variety of factors such as the earnings capacity of the investment. As of December 31, 2016, the estimated fair value of our investment in The Order Machine was less than the carrying amount and management considered the decline in value to be other-than-temporary. As a result, we recorded a non-cash impairment charge of $7 million in December 2016 to write off the full value of the investment. This charge is recorded in net income from unconsolidated investees in the Consolidated Statements of Income. No other impairments of equity method investments were recorded in 2016, 2015 or 2014.
+
+During 2014, we recorded intangible asset impairment charges of $38 million. See “Intangible Asset Impairment Charges,” of Note 5, “Goodwill and Acquired Intangible Assets,” for further discussion of impairment charges recorded on our finite-lived intangible assets.
+
+Income Taxes
+
+Estimates and judgments are required in the calculation of certain tax liabilities and in the determination of the recoverability of certain deferred tax assets, which arise from net operating loss carryforwards, tax credit carryforwards and temporary differences between the tax and financial statement recognition of revenue and expense. Our deferred tax assets are reduced by a valuation allowance if it is more likely than not that some portion or all of the recorded deferred tax assets will not be realized in future periods. Management is required to determine whether a tax position is more likely than not to be sustained upon examination, including resolution of any related appeals or litigation processes, based on the technical merits of the position. Once it is determined that a position meets the recognition thresholds, the position is measured to determine the amount of benefit to be recognized in the consolidated financial statements. Interest and/or penalties related to income tax matters are recognized in income tax expense.
+
+In assessing the need for a valuation allowance, we consider all available evidence including past operating results, the existence of cumulative losses in the most recent fiscal years, estimates of future taxable income and the feasibility of tax planning strategies. In the event that we change our determination as to the amount of deferred tax assets that can be realized, we will adjust our valuation allowance with a corresponding impact to the provision for income taxes in the period in which such determination is made.
+
+In addition, the calculation of our tax liabilities involves uncertainties in the application of tax regulations in the U.S. and other tax jurisdictions. We recognize potential liabilities for anticipated tax audit issues in such jurisdictions based on our estimate of whether, and the extent to which, additional taxes and interest may be due. While we believe that our tax liabilities reflect the probable outcome of identified tax uncertainties, it is reasonably possible that the ultimate resolution of any tax 
+
+53
+matter may be greater or less than the amount accrued. If events occur and the payment of these amounts ultimately proves unnecessary, the reversal of the liabilities would result in tax benefits being recognized in the period when we determine the liabilities are no longer necessary. If our estimate of tax liabilities proves to be less than the ultimate assessment, a further charge to expense would result.
+
+Recent Accounting Pronouncements
+
+See “Recently Adopted Accounting Pronouncements,” and “Recently Issued Accounting Pronouncements,” of Note 2, “Summary of Significant Accounting Policies,” to the consolidated financial statements for further discussion of recently adopted and recently issued accounting pronouncements that are applicable to Nasdaq.
+
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk.

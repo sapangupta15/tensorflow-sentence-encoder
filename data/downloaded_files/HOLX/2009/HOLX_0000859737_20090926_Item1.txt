@@ -1,0 +1,343 @@
+PART I  
+
+ Item 1. Business  
+
+Overview  
+
+We are a developer, manufacturer and supplier of medical imaging systems and diagnostic and surgical products focused on the healthcare needs of women. Our core business segments are focused on breast health, diagnostics, GYN surgical and skeletal health. We have historically focused our resources on developing systems and subsystems offering superior image quality and diagnostic accuracy, which has enabled us to capture significant market share and customer loyalty, despite the presence of large competitors.  
+
+Our breast health products include a broad portfolio of breast imaging and related products and accessories, including digital and film-based mammography systems, computer-aided detection (CAD), minimally invasive breast biopsy and tissue extraction devices, breast biopsy guidance systems, breast imaging comfort pads, and breast brachytherapy products. We have also developed a new breast imaging platform, Dimensions, which utilizes a new technology, tomosynthesis, to produce three dimensional (3D) images, as well as conventional two dimensional (2D) full field digital mammography (FFDM) images. In the United States, our Dimensions product has been approved by the Food and Drug Administration (FDA) for providing conventional 2D images, and we are conducting further clinical trials to support our pre-market approval (PMA) application for the 3D configuration. Our Dimensions platform has received CE mark approval in Europe in fiscal 2008 and Canadian registration in March 2009, both for 2D and 3D modes of imaging. Within our breast brachytherapy related products is our MammoSite system, which provides accelerated partial breast irradiation technology. We received FDA clearance for our MammoSite ML radiation therapy system, a multi-lumen device that provides the oncologist with additional flexibility in specifically targeting radiation in the tissue with cancer cells, on August 27, 2009.  
+
+Our diagnostics products include the ThinPrep System (ThinPrep), which is primarily used in cytology applications, such as cervical cancer screening, and the Rapid Fetal Fibronectin Test, which assists physicians in assessing the risk of pre-term birth. In July 2008, we acquired Third Wave Technologies, Inc. (Third Wave), a company that develops and markets molecular diagnostic reagents for a wide variety of DNA and RNA analysis applications based on its proprietary Invader chemistry. Our current clinical diagnostic offerings based upon this Invader chemistry include products to assist in the diagnosis of human papillomavirus (HPV), Cystic Fibrosis, cardiovascular risk and other diseases. We received FDA approval of Cervista HPV High Risk (HR) and Cervista HPV 16/18 tests in March 2009 as well as CE mark approval in Europe in January 2009 for Cervista HPV HR and in May 2009 for Cervista HPV 16/18.  
+
+Our GYN surgical products include the NovaSure Impedance Controlled RF Ablation System (NovaSure System) and the Adiana Permanent Contraception System (Adiana System). The NovaSure System enables physicians to treat women suffering from excessive menstrual bleeding in a minimally invasive manner. The Adiana System is a form of permanent female contraception intended as an alternative to tubal ligation. We received FDA approval of the Adiana System in July 2009 and CE mark approval for the system in Europe in December 2008.  
+
+Our skeletal health products include dual-energy X-ray bone densitometry systems, an ultrasound-based osteoporosis assessment product, our Fluoroscan mini C-arm imaging products, and our Esaote line of extremity Magnetic Resonance Imaging (MRI) systems that were manufactured by an original equipment manufacturer.  
+
+We were incorporated in Massachusetts in October 1985 and reincorporated in Delaware in March 1990. Unless the context otherwise requires, references to us, Hologic or our company refer to Hologic, Inc. and each of its consolidated subsidiaries.  
+
+3  
+
+Table of Contents 
+
+Trademark Notice  
+
+Hologic is a trademark of Hologic, Inc. Other trademarks, logos, and slogans registered or used by Hologic and its divisions and subsidiaries in the United States and other countries include, but are not limited to, the following:  
+
+Adiana, AEG, ATEC, BioLucent, Celero, Cervista, Cytyc, Dimensions, DirectRay, Eviva, FAST Paddle, Fluoroscan, Gestiva, HTC, Invader, LORAD, MammoPad, MammoSite, M-IV, MultiCare, NovaSure, PreservCyt, QDR, R2, Rapid FFN, Sahara, SecurView, Selenia, StereoLoc, Suros, TechMate, ThinPrep, Third Wave, TLI IQ.  
+
+Available Information  
+
+Our Internet website address is http://www.hologic.com. Through our website, we make available, free of charge, our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and any amendments to those reports, as soon as reasonably practicable after we electronically file such material with, or furnish it to, the Securities and Exchange Commission (SEC). These SEC reports can be accessed through the investor relations section of our website. The information found on our website is not part of this or any other report we file with or furnish to the SEC.  
+
+You may read and copy any materials we file with the SEC at the SECs Public Reference Room at 100 F Street, NE, Washington, DC 20549. You may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. The SEC also maintains an Internet website that contains reports, proxy and information statements, and other information regarding the Company and other issuers that file electronically with the SEC. The SECs Internet website address is http://www.sec.gov.  
+
+Products  
+
+We view our operations and manage our business in four principal reporting segments: Breast Health, Diagnostics, GYN Surgical and Skeletal Health. Financial information concerning these segments is provided in Note 13 of the Notes to our Consolidated Financial Statements included in this report.  
+
+Breast Health Products  
+
+Our breast health products include a broad portfolio of breast imaging and related products and accessories, including digital and film-based mammography systems, computer-aided detection (CAD), minimally invasive breast biopsy and tissue extraction devices, breast biopsy guidance systems, breast imaging comfort pads, and breast brachytherapy products. We have also developed a new breast imaging platform, Dimensions, which utilizes a new technology, tomosynthesis, to produce 3D images. In fiscal 2009, our breast health segment also included the sale of digital detectors to an original equipment manufacturer, and our organic photoconductor coating business acquired in connection with the acquisition of our selenium coating capabilities for our mammography digital detectors. Commencing in fiscal 2010, we do not expect to generate revenues from these two sources, which contributed approximately $17.6 million of revenue in fiscal 2009.  
+
+Selenia Full Field Digital Mammography System  
+
+The Selenia full field digital mammography system is based on our proprietary, amorphous selenium DirectRay digital detector, which preserves image quality by using amorphous selenium to directly convert x-rays to electronic signals. Many other digital technologies employ an indirect two-step process by first converting x-ray energy into light and then converting the light energy into electrical signals. We believe that digital x-ray imaging technologies that require light conversion may compromise image resolution, lessening detection capability. Our DirectRay flat panel detector technology employs an amorphous selenium (a-Se) photoconductor to directly convert x-ray photons into an electrical signal. No intensifying screens or additional processes are required to capture and convert the x-ray energy, enabling high imaging resolution and contrast sensitivity.  
+
+4  
+
+Table of Contents 
+
+The Selenia product family has a number of other features designed to improve image quality and patient throughput. The open architecture of the systems design provides for full integration with existing enterprise Picture Archiving and Communications Systems (PACS) and Radiology Information Systems (RIS). The Selenia product family includes the Selenia base configuration, the Selenia S configuration (a screening-only configuration), the Selenia Value (a lower cost alternative to the Selenia base configuration) and the Selenia Encore (refurbished units), each of which offer customers varying performance capabilities and product costs.  
+
+Breast Tomosynthesis  
+
+Our Dimensions platform includes a mammography gantry capable of performing both 2D and 3D image acquisition and display. When operating in 3D mode, the system acquires a series of low dose x-ray images taken in a scanning motion at various angles. The images are mathematically processed into a series of small slices, revealing breast tissue from a 3D perspective. We believe that by allowing the clinician to review breast tissue in three dimensional space, the more subtle architecture of various types of suspicious lesions may be able to be better interpreted, which may ultimately increase cancer detection and reduce unnecessary patient callbacks. In the United States, our Dimensions product has been approved by the Food and Drug Administration (FDA) for providing conventional 2D images, and we are conducting further clinical trials to support our pre-market approval (PMA) application for the 3D configuration. Our Dimensions 3D configuration received CE mark approval in Europe in fiscal 2008 and Canadian registration in March 2009.  
+
+Screen-Film Mammography Systems  
+
+Our screen-film mammography systems include our LORAD M-IV and M-IV Platinum systems. The M-IV Platinum system incorporates our Fully Automatic Self-adjusting Tilt (FAST) Paddle, and our High Transmission Cellular (HTC) Grid.  
+
+SecurView Workstation  
+
+The images captured by digital mammography systems are typically transmitted electronically for review by a radiologist at a work station. Early product development activities focused on improving digital workflow in the breast-imaging suite due to limited PACS mammography functionality. To this end, we developed the SecurViewDX breast imaging softcopy workstation, approved for interpretation of digital mammograms from most vendors as well as images from other diagnostic breast modalities. To complement this product, we also developed the SecurViewRT workstation, a technologist workstation enabling bi-directional exchange of electronic communications between the reviewer and the technologist. An additional configuration was added to the Selenia acquisition workstation to allow incorporation of a second monitor and computer, providing all functionalities of the SecurViewRT workstation within the exam room. This configuration is called the Selenia with TechMate digital mammography system.  
+
+CAD Systems  
+
+We have developed CAD software tools for a variety of imaging modalities and disease states. CAD is used by an increasing number of radiologists as a second pair of eyes when reading a womans mammogram. Use of this technology provides reviewers with the potential to detect findings that might otherwise be overlooked during the review process, thus increasing cancer detection. We have integrated our mammography applications CAD software tools into our line of multi-modality breast imaging workstations.  
+
+Stereotactic Breast Biopsy Systems  
+
+We provide clinicians with the flexibility of choosing upright or prone systems for breast biopsy by offering two minimally invasive stereotactic breast biopsy guidance systems, the MultiCare Platinum dedicated, prone breast biopsy table and the StereoLoc II upright attachment. The StereoLoc II attachment is used in conjunction  
+
+5  
+
+Table of Contents 
+
+ with our M-IV series of screen-film mammography systems and our Selenia full field digital mammography system. These systems provide an alternative to open surgical biopsy, and can be performed as an outpatient procedure under local anesthesia, allowing shorter recovery times.  
+
+Breast Biopsy Products  
+
+We offer minimally invasive interventional products for breast biopsy, tissue removal and biopsy site marking. The biopsy technology, which includes a patented fluid management system, allows the removal of tissue or biopsy samples using stereotactic x-ray, ultrasound and MRI guidance systems. Our Automated Tissue Excision and Collection (ATEC) product line includes percutaneous, automatic vacuum-assisted breast biopsy collection systems, a disposable device used to collect samples, and biopsy site markers. The ATEC line of products is designed to accommodate a broad range of clinical and patient presentations. In 2007, we began offering the Celero vacuum-assisted, spring-loaded, large-core biopsy device designed for use under ultrasound guidance to access hard-to-reach lesions in the axilla, near the chest wall, near implants or behind the nipple. In November 2008, we began offering the Eviva stereotactic vacuum-assisted breast biopsy device. This premium device offers several new features, including improved compatibility with the MultiCare Platinum prone breast biopsy table, an integrated firing mechanism, and an integrated, end-ploy site marking system.  
+
+MammoSite Radiation Therapy System  
+
+The MammoSite Radiation Therapy System accelerated partial breast irradiation (APBI) is comprised of an inflatable balloon catheter in which a radioactive source is introduced for therapy delivery. The inflatable balloon is inserted into the surgical cavity remaining after a lumpectomy. The catheter portion of the system allows the radioactive source to be added or withdrawn over the course of the therapy. This local placement of the balloon provides for therapeutic delivery of a 5-day course of radiation to the tissue most likely to contain residual cancerous cells following surgery, while reducing radiation exposure to adjacent healthy tissue. We recently introduced the MammoSite ML radiation therapy system, for which we received FDA clearance on August 27, 2009. The MammoSite ML system is a multi-lumen device that provides radiation oncologists the ability to shape the radiation dose for typical cases and treat patients who are otherwise not appropriate candidates for traditional brachytherapy. The MammoSite ML device has a central lumen, similar to the original MammoSite device, and three offset lumens parallel to the central lumen. In addition to allowing greater flexibility in radiation treatment planning, the use of a multiple-lumen device typically results in a higher reimbursement rate.  
+
+MammoPad Breast Cushion  
+
+Our mammography related products include a proprietary MammoPad breast cushion. The MammoPad cushion is designed to reduce the discomfort women often experience during mammography. The cushions grip-like surface also holds breast tissue in place to improve breast positioning. The radiolucent cushion does not interfere with image quality and can be used with both digital and analog mammography.  
+
+Photoconductor Coatings  
+
+Our AEG Elektrofotografie GmbH (AEG) subsidiary is our sole supplier of the amorphous selenium photoconductor coatings employed in our Selenia and Dimensions full-field digital mammography detectors. AEG also develops, manufactures, and sells non-medical selenium and organic photoconductor materials for use in a variety of other electro photographic applications, including copying and printing. During the fourth quarter of fiscal 2009, we closed our organic photoconductor drum coatings manufacturing operations in Shanghai, China.  
+
+6  
+
+Table of Contents 
+
+Diagnostic Products  
+
+Our diagnostic product offerings include the ThinPrep System used primarily for cytology applications, such as cervical cancer screening, and the Rapid Fetal Fibronectin Test for pre-term birth risk assessment. Our Third Wave acquisition enables us to develop and market molecular diagnostic reagents for a wide variety of DNA and RNA analysis applications based on Third Waves proprietary Invader chemistry, including our two recently approved HPV tests.  
+
+ThinPrep System  
+
+The ThinPrep System is the most widely used method for cervical cancer screening in the United States. If detected in the pre-cancerous stage, most cervical cancer cases are preventable. The ThinPrep System consists of any one or more of the following: the ThinPrep 2000 Processor, ThinPrep 3000 Processor, ThinPrep Imaging System, and related reagents, filters and other supplies, such as the ThinPrep Pap Test and our proprietary ThinPrep PreservCyt Solution.  
+
+The ThinPrep Process. The ThinPrep process begins with the patients cervical sample being taken by the physician using a cervical sampling device that, rather than being smeared on a microscope slide as in a conventional Pap smear, is rinsed in a vial filled with our proprietary PreservCyt Solution. This enables most of the patients cell sample to be preserved before the cells can be damaged by air drying. The ThinPrep specimen vial is then labeled and sent to a laboratory equipped with a ThinPrep Processor for slide preparation. At the laboratory, the ThinPrep specimen vial is inserted into a ThinPrep Processor, a proprietary sample preparation device which automates the process of preparing cervical slides for staining and microscopic examination.  
+
+In the case of manual screening, the cytotechnologist screens each Pap test slide with a microscope to first determine the adequacy of the slide and to then examine the entire slide to differentiate diseased or abnormal cells from normal cells. With the ThinPrep Imaging System, the screening process has been automated to combine the power of computer imaging technology and human interpretive skills. Prior to human review, the ThinPrep Imaging System rapidly scans and locates areas of interest for review. By directing the cytotechnologist to areas of interest on a slide, the system may increase a cytology laboratorys screening productivity and diagnostic accuracy.  
+
+In September 2009, we announced CE marking approval for our ThinPrep Integrated Imager. The Integrated Imager represents the latest innovation in cervical screening by combining proven ThinPrep imaging technology and slide review into a single, convenient stand-alone device. This new product offering allows laboratories of all sizes to benefit from clinical advantages of ThinPrep imaging for cervical screening. CE marking approval allows Hologic to market the ThinPrep integrated imager in the 27 countries of the European Union (EU) and three of the four member states of the European Free Trade Association (EFTA). Marketing of this product in the U.S. will require FDA approval.  
+
+Additional Applications. In addition to serving as a replacement for the conventional Pap smear, the ThinPrep System can also be used for non-gynecological cytology screening applications. Non-gynecological cytology applications include fine-needle aspiration specimens (e.g., breast, thyroid, lung or liver), lavage specimens (e.g., breast, gastrointestinal), body fluids (e.g., urine, pleural fluid, ascitic fluid, pericardial fluid), respiratory specimens (e.g., sputum, brushing of respiratory tracts) and ancillary testing (e.g., cell blocks, immunocytochemistry, special stains).  
+
+Rapid Fetal Fibronectin Test  
+
+The Rapid Fetal Fibronectin Test is a patented single-use disposable test used to determine a womans risk of preterm birth by detecting the presence of a specific protein, fetal fibronectin, in vaginal secretions during pregnancy. This test is approved by the FDA for use in assessing the risk of preterm birth. The test utilizes a single-use, disposable cassette and is analyzed on our patented instrument, the TLiIQ System.  
+
+7  
+
+Table of Contents 
+
+Human Papillomavirus (HPV) Offering and InVitro Diagnostics  
+
+HPV is the most common sexually transmitted disease in the U.S. and is recognized as the cause of most cervical cancer. In March 2009, we received FDA approval for both our Cervista HPV HR and Cervista HPV 16/18 tests for the following intended uses:  
+
+The Cervista HPV HR test has been approved for two uses:  
+
+       To screen patients with atypical squamous cells of undetermined significance (ASC-US) cervical cytology results to determine the need for referral to colposcopy, and  
+
+       Used adjunctively with cervical cytology to screen women 30 years and older to assess the presence or absence of high-risk HPV types.  
+
+The Cervista HPV 16/18 test has been approved for two uses:  
+
+       In women 30 years and older, the test may be used adjunctively with the Cervista HPV HR test in combination with cervical cytology to assess the presence or absence of specific high-risk HPV types, and  
+
+       Used adjunctively with the Cervista HPV HR test in patients with ASC-US cervical cytology results to assess the presence or absence of specific high-risk HPV types. The results of this test are not intended to prevent women from proceeding to colposcopy.  
+
+These tests employ Third Waves Invader technology and are performed out of the ThinPrep PreservCyt collection vial. The Cervista HPV HR test is an in vitro diagnostic test for the quantitative detection of DNA from the fourteen high-risk HPV types responsible for most cervical disease. The Cervista HPV 16/18 test is an in vitro diagnostic test for the qualitative detection of DNA from HPV types 16 and 18, the types that cause approximately 70% of cervical disease.  
+
+The Invader UGT1A1 Molecular Assay, a molecular diagnostic acquired as part of our recent acquisition of Third Wave, is cleared for use to identify patients who may be at increased risk of adverse reaction to the chemotherapy drug Camptosar (irinotecan) by detecting and identifying specific mutations in the UGT1A1 gene that have been associated with that risk. Camptosar, marketed in the U.S. by Pfizer, Inc., is used to treat colorectal cancer and was relabeled in 2005 to include dosing recommendations based on a patients genetic profile.  
+
+Our other current clinical diagnostic offerings based upon our Invader chemistry include products to assist in the diagnosis of Cystic Fibrosis, cardiovascular risk and other diseases.  
+
+GYN Surgical Products  
+
+Our surgical product offerings include the NovaSure System, and the Adiana System.  
+
+NovaSure System  
+
+The NovaSure System is a minimally-invasive procedure that allows physicians to treat women suffering from excessive menstrual bleeding. The system consists of a disposable device and a controller that delivers radio frequency, or RF, energy to ablate the endometrial lining of the uterus. The NovaSure disposable device is a hand-held, single-use device that incorporates a flexible gold-plated mesh electrode used to deliver the RF energy during the NovaSure procedure. The NovaSure RF Controller generates and delivers the RF energy customized for each patient, monitors several critical treatment and safety parameters, and automatically controls other aspects of the procedure.  
+
+8  
+
+Table of Contents 
+
+The NovaSure System is a second generation endometrial ablation therapy approved by the FDA to be performed without drug or surgical pre-treatment. Pre-treatment can be time-consuming, expensive and inconvenient for both patients and physicians and can result in uncomfortable or painful side effects and complications. In contrast, the NovaSure procedure is typically performed as an outpatient procedure in the hospital, ambulatory surgery center or physicians office and often does not require the use of general anesthesia.  
+
+Adiana System  
+
+The Adiana System is a minimally invasive procedure that requires no incisions and can be performed in the comfort of the doctors office using local anesthesia. Patients are often able to return to work or resume their daily activities within one day. In contrast, tubal ligation, a traditional method of female permanent contraception, requires more invasive surgical procedures, is usually conducted in a hospital under general anesthesia and typically requires several days of recovery.  
+
+During the Adiana System procedure, a slender, flexible instrument is passed through the bodys natural openings to deliver a low level of radiofrequency (RF) energy to a small section of each fallopian tube. A tiny, soft insert, about the size of a grain of rice, is then placed in each fallopian tube in the location where the energy was applied. During the three months following the procedure, the patient continues to use temporary birth control while new tissue grows in and around the Adiana System inserts, eventually blocking the fallopian tubes. At three months, a special x-ray test (called a hysterosalpingogram or HSG) is performed to confirm the fallopian tubes are completely blocked and the patient may begin relying on the Adiana System for permanent contraception. Because the Adiana insert is fully contained within the fallopian tube and does not use metal, the procedure leaves nothing in the uterus that could interfere with future intra-uterine procedures such as endometrial ablation.  
+
+Skeletal Health Products  
+
+Our skeletal health products include a family of QDR dual energy x-ray bone densitometers and the Sahara Clinical Bone Sonometer, our mini C-arm imaging products and our Esaote line of extremity MRI systems, which are manufactured by an original equipment manufacturer.  
+
+QDR X-Ray Bone Densitometers  
+
+Bone densitometry is the measurement of bone density to assist in the diagnosis and monitoring of osteoporosis and other metabolic bone diseases that can lead to debilitating bone fractures. Osteoporosis is a disease that is most prevalent in post-menopausal women. Our proprietary QDR x-ray bone densitometers incorporate dual-energy x-ray technology to precisely assess bone density of the most important fracture sites, the spine and hip. Since our commercial introduction of the first bone densitometer employing dual-energy x-ray technology in 1987, we have continually improved upon our technology, and the use of dual-energy x-ray technology has become and remains a leading bone densitometry assessment tool. We offer a range of bone densitometers with various features and options to address the requirements of our diverse customer base.  
+
+Sahara Clinical Bone Sonometers  
+
+We have developed and sell a relatively low-cost, lightweight, portable ultrasound bone analyzer, called Sahara, that assesses the bone density of the heel that can assist in initial screening for osteoporosis.  
+
+Mini C-arm Imaging  
+
+We manufacture and distribute Fluoroscan mini C-arm imaging systems. Mini C-arms provide low intensity, real-time x-ray imaging, with high-resolution images at radiation levels and at a cost below those of conventional x-ray and fluoroscopic equipment. Mini C-arm systems are used primarily by orthopedic surgeons to perform minimally invasive surgical procedures on a patients extremities, such as the hand, wrist, knee, foot and ankle.  
+
+9  
+
+Table of Contents 
+
+Extremity MRI  
+
+We distribute extremity MRI systems manufactured by Esaote. The target markets for these products are rheumatology, with specific emphasis on the early detection of rheumatoid arthritis and orthopedics, with an emphasis on orthopedic interventions and surgical planning.  
+
+Marketing, Sales and Service  
+
+We sell and service our products through a combination of direct sales and service forces and a network of independent distributors and sales representatives. In fiscal 2009, 2008 and 2007, no customer accounted for more than 10% of our consolidated revenues.  
+
+As of October 25, 2009, our direct sales and service force consisted of approximately 1,527 people.  
+
+During fiscal year 2009, our U.S. Breast Health and Skeletal Health sales force was comprised of full line modality account managers selling mammography and bone densitometry products, assisted by womens health product specialists. The radiology sales specialists worked together with modality account managers leveraging our strong market presence in womens health, calling on radiologists and breast surgeons, and focused on the sale of breast biopsy devices. Our breast surgery sales specialists focused on breast surgeons and radiation oncologists to sell our MammoSite technology and breast biopsy products. Our U.S. sales efforts also included the use of national account managers focused on obtaining purchasing contracts from large purchasing entities, such as managed care organizations, integrated delivery networks (IDNs) and government healthcare facilities. In addition, in certain regions of the U.S., we use a limited number of independent dealers or distributors to sell and service our product. These relationships enable us to sell into accounts where we might not otherwise have access.  
+
+During fiscal year 2009, we sold our breast health and skeletal health products in international markets through a network of independent distributors and sales representatives, as well as a direct sales and service force in Belgium (and Germany for AEG products). We offer our products in Europe, Latin America, including Argentina, Brazil, Chile and Mexico and into Pacific Rim countries, including Japan, Australia, South Korea, Thailand and Taiwan, by working with local sales representatives and distributors or entering into strategic marketing alliances in those territories. In fiscal 2009, 2008 and 2007 foreign sales accounted for approximately 20%, 20% and 25% of our product sales, respectively. See Note 13 in our Consolidated Financial Statements contained in Item 15 of this Annual Report for geographical information concerning those sales.  
+
+Our worldwide Diagnostics and GYN Surgical sales force consists of more than 335 persons focused on healthcare providers, clinical laboratories and third-party payors. A critical element of our strategy in the United States has been to utilize the results of our clinical trials and expanded FDA labeling to demonstrate safety, efficacy and productivity improvements to our target customers. Our Diagnotics sales force focuses on selling to clinical laboratories and OB/GYN offices, while our GYN Surgical sales force targets GYN surgeons in both hospital and office settings.  
+
+Our Diagnostics and GYN Surgical products are marketed outside of the United States by maintaining a presence in Canada, Europe, Australia and Hong Kong. We established these operations to manage sales, service, training and distribution in the Canadian, European and Asia/Pacific markets. We have also utilized a network of third-party distributors in various other countries throughout the world, including Japan and China. We believe that in order to effectively market our current products and any other new products and applications on a worldwide basis, we will need to continue to increase our international marketing, sales, and service capabilities.  
+
+Our service organization is responsible for installing our products, providing warranty and repair services, applications training and biomedical training. Products sold by our direct sales force typically carry limited warranties covering parts and labor for twelve months. Products sold through dealers also carry limited  
+
+10  
+
+Table of Contents 
+
+ warranties that typically last for twelve months and cover only parts or components. We also offer service contracts to our customers that generally last one to five years after the original warranty period. We provide both repair services and routine maintenance services under these arrangements, and also offer repair and maintenance services on a time and materials basis to customers that do not have service contracts. Internationally, we primarily use distributors, sales representatives and third parties to provide maintenance service for our products.  
+
+As of October 25, 2009, we employed approximately 627 people as field service engineers, internal technical support personnel and related administrative personnel.  
+
+Competition  
+
+The healthcare industry, in general, and the markets in which our products compete are highly competitive and characterized by continual change and improvement in technology. A number of companies have developed, or are expected to develop products that compete or will compete with our products. Many of these competitors offer a range of products in areas other than those in which we compete, which may make these competitors more attractive to hospitals, radiology clients, group purchasing organizations, laboratories, physicians and other potential customers. In addition, many of our competitors and potential competitors are larger and have greater financial resources than we do and offer a range of competitive products broader than our products. Some of the companies with whom we compete have or may have more extensive research, sales, marketing and manufacturing capabilities and significantly greater technical and personnel resources than we do, and may be better positioned to continue to improve their technology in order to compete in an evolving industry. Competitors may develop superior products or products of similar quality for sale at the same or lower prices. Moreover, our products could be rendered obsolete by new industry standards or changing technology. We cannot assure that we will be able to compete successfully with existing or new competitors.  
+
+Our mammography and related products and subsystems compete on a worldwide basis with products offered by a number of competitors, including GE, Siemens, Philips, PlanMed, Agfa, Carestream Health, Fuji, IMS Giotto, Sectra and Toshiba. Our Selenia full field digital mammography system competes with products such as GEs and Siemens full field digital mammography systems, as well as Fujis Computed Radiography (CR) mammography system, a lower-priced alternative to digital mammography. Agfa, Carestream Health, Cedara and Sectra have introduced mammography workstations and are marketing these in competition with our line of radiologist review stations. Other companies are marketing digital mammography systems or technologies in Europe and other international markets and have or are expected to apply for FDA clearance in the U.S. The FDA has announced its intent to reclassify full field digital mammography systems from Class III to Class II devices. A FDA panel meeting was held on November 17, 2009 to review public comments on the proposed FFDM guidance. As a result, these systems are expected to become eligible for clearance for commercialization through the FDAs 510(k) process rather than the more rigorous pre-market approval process, which may increase the number of competitors entering the United States market. We anticipate that competition in the digital mammography market will intensify.  
+
+While we offer a broad product line of breast imaging and related products, we compete most effectively in the high-end segment of the mammography market. We believe that our continued success will depend upon the continued success of our Selenia full field digital mammography system, as well as our ability to maintain our technology leadership through product enhancements and the development of new products and technologies, such as our Dimensions breast tomosynthesis (3D) product, which we recently introduced in Europe and Canada. We have also introduced this product for 2D applications in the United States. We are continuing our clinical trials to support our PMA application to market the 3D configuration of this product in the United States.  
+
+The primary competitor for our biopsy and tissue extraction product line is Ethicon, a Johnson & Johnson company. While there are many companies in the biopsy device market, other principal competitors include SenoRx, Bard and Cardinal. In addition, emerging companies like Sanarus and Intact Medical all share some  
+
+11  
+
+Table of Contents 
+
+ smaller portion of the biopsy device market. We believe that competition for our biopsy and tissue extraction product line is based largely on tissue sampling quality, product features, ease of use, product reliability and price.  
+
+Our MammoSite system faces competition from more commonly-known alternatives, such as treatments using external beam whole breast radiation, which has longer-term data on patient outcomes, and recent market entrants such as SenoRx, Inc. and Cianna Medical, which offer multi-lumen products that may support higher reimbursement rates for radiation oncology users. We believe that we will be able to compete more effectively against these multi-lumen products with the introduction of our multi-lumen MammoSite ML product. Internationally, our MammoSite product faces competition from traditional mastectomy, whole breast radiation therapy after lumpectomy, and a more radical breast-conserving procedure called a quadrantectomy. Additional radiation therapy methods, such as intraoperative radiation therapy, are being used in Europe by some institutions; however, such alternative methods have not yet achieved widespread commercial use.  
+
+Our ThinPrep liquid-based slide preparation faces direct competition in the United States primarily from Becton, Dickinson and Company, which manufactures liquid-based slide preparation systems and slide imaging systems. We also compete with the conventional Pap smear and other alternative methods for detecting cervical cancer and/or its precursors. Our products compete on the basis of a number of factors, including clinical performance, product quality, marketing and sales capabilities, manufacturing efficiency, price and customer service and support. Internationally, our ThinPrep product competes with a variety of companies and other off-market (non-FDA-approved) tests, since fewer regulatory barriers exist in Europe as compared to the United States.  
+
+With our Rapid Fetal Fibronectin Test, we are currently the only provider of a molecular test for predicting the risk of preterm birth. However, this product could experience competition from companies that manufacture and market pregnancy-related diagnostic products and services. In addition, healthcare providers use diagnostic techniques such as clinical examination and ultrasound to diagnose the likelihood of preterm birth. Healthcare providers may choose to continue using these techniques to assess their patients, rather than use the Rapid Fetal Fibronectin Test. They may also choose to use these techniques in conjunction with our Rapid Test to predict preterm birth.  
+
+In the molecular diagnostics market, our Invader products compete with many companies in the U.S. and abroad engaged in the development, commercialization and distribution of similar products intended for clinical molecular diagnostic applications. These companies may have or develop products competitive with the products offered by us. Clinical laboratories also may offer testing services that are competitive with our products. Clinical laboratories may use reagents purchased from us or others to develop their own diagnostic tests. Such laboratory-developed tests may not be subject to the same requirements for clinical trials and FDA submission requirements that may apply to our products.  
+
+In the clinical market, we compete with several companies offering alternative technologies to the Invader chemistry including Abbott Laboratories, Siemens, Becton, Dickinson and Company, Qiagen, Roche Diagnostics Corporation, Gen-Probe, Applera Corporation, Applied Biosystems, Celera, Innogenetics, Inc., and Luminex Corporation. Our Cervista HPV tests, which were approved by the FDA in March 2009, compete with a test marketed by Qiagen, which received FDA approval in 1999. We believe the primary competitive factors of our Invader products are their performance, reliability, cost and ease of use, standardization and our market position. However, we believe the successful completion of our initiative of automating our laboratory products, including our Cervista HPV tests, will be essential to securing the higher volume laboratories as customers.  
+
+Our NovaSure System currently faces direct competition from Johnson & Johnson, Boston Scientific, and American Medical Systems, Inc., each of which currently markets an FDA-approved second generation endometrial ablation device for the treatment of excessive menstrual bleeding. In addition to these devices, there exist alternative treatments to our NovaSure System, such as drug therapy, hysterectomy, dilation and curettage  
+
+12  
+
+Table of Contents 
+
+ and rollerball ablation. Internationally our products compete with drug therapy, as well as other endometrial ablation devices, including Johnson & Johnsons Thermachoice, Boston Scientifics HTA, and two other relatively small companies that market products that are not FDA approved. Because drug therapy is an alternative to our NovaSure procedure, NovaSures competitors also include many major pharmaceutical companies that manufacture hormonal drugs for women. We believe that the initial success of our NovaSure product has been primarily based upon its efficacy, ease of use, including limited patient pre-treatment requirements, and patient recovery.  
+
+Our Adiana System is the only non-incisional, non-hormonal permanent contraception method available that does not leave metal in the uterus that might limit future options for gynecological tests or procedures. Our Adiana product will compete directly with Conceptus, Inc.s Essure product, which is the only other option for hysteroscopic sterilization on the market. We believe the Adiana System has significant advantages in safety and ease of use. In addition, the Adiana System will compete with traditional permanent contraception methods, such as tubal ligation and vasectomy, as well as with other products used for temporary birth control methods, such as diaphragms, condoms, spermicides, birth control pills and IUDs.  
+
+GE is the primary competitor for our skeletal health products. We believe that competition in our skeletal health markets is based upon product versatility and features, price, precision, speed of measurement, reputation, cost and ease of operation, product reliability and quality of service.  
+
+Manufacturing  
+
+We have historically purchased many of the components and raw materials used in our products from numerous suppliers worldwide. For reasons of quality assurance, sole source availability or cost effectiveness, certain components and raw materials used in the manufacture of our products are available only from a sole supplier. We have worked closely with our suppliers to develop contingency plans to assure continuity of supply while maintaining high quality and reliability, and in some cases, we have established long-term supply contracts with our suppliers. In certain instances, we have developed the in-house capability necessary to offset potential shortages caused by sole source suppliers. Due to FDA requirements applicable to the manufacturing of our products, we may not be able to quickly establish additional or replacement sources for certain components or materials. In the event that we are unable to obtain sufficient quantities of raw materials or components on commercially reasonable terms or in a timely manner, our ability to manufacture our products on a timely and cost-competitive basis may be compromised, which may have a material adverse effect on our business, financial condition and results of operations.  
+
+We manufacture our direct radiography detectors at our manufacturing facilities in Newark, Delaware and Warstein, Germany. We manufacture substantially all of our mammography and certain of our breast biopsy systems at our manufacturing facilities in Danbury, Connecticut. We manufacture our CAD line of products, the SecurView Work Stations, our osteoporosis assessment and our mini C-arm imaging systems at our headquarters in Bedford, Massachusetts. We continue to develop our software for our CAD products at our Santa Clara, California facility. The MammoPad breast cushion is manufactured by third parties and drop-shipped from our suppliers directly to our customers. Our breast biopsy disposable products are manufactured in Indianapolis, Indiana. Our ATEC control consoles for breast biopsy are manufactured by a third party, with quality control performed by our employees.  
+
+Our ThinPrep Processors and ThinPrep Imaging Systems are assembled at our facility in Marlborough, Massachusetts. Our ThinPrep PreservCyt vials are filled at our facility in Londonderry, New Hampshire. Our ThinPrep System filters are manufactured at both our Marlborough and Londonderry facilities. The manufacture of our NovaSure disposable devices has been transferred to our new facility in Coyol, Costa Rica. We also transferred production of the RF Controller component of our NovaSure System from an electronics contract manufacturer to our Marlborough facility. We contract with several third-parties to manufacture certain components of our MammoSite System, and we complete the manufacturing process at our Costa Rica and/or  
+
+13  
+
+Table of Contents 
+
+ Marlborough locations, depending on the configuration. We recently transferred the manufacturing of our Adiana System to our new manufacturing facility in Coyol, Costa Rica, and we are in the process of ramping up production to support the full scale launch of this product. We could incur delays and unanticipated costs in connection with our transfer and ramping up these manufacturing operations to our new facility that could delay our full scale launch of the Adiana System.  
+
+We manufacture our molecular diagnostics products at our facility in Madison, Wisconsin and source certain components from various contract manufacturers.  
+
+Backlog  
+
+Our backlog as of November 7, 2009 totaled $304.8 million and as of November 9, 2008 totaled $356.7 million. Backlog consists of customer orders for which a delivery schedule within the next twelve months has been specified. Orders included in backlog may be canceled or rescheduled by customers without significant penalty. Backlog as of any particular date should not be relied upon as indicative of our net revenues for any future period.  
+
+Research and Development  
+
+Our research and development efforts are focused on the further development and improvement of our existing products as well as the engineering and design of new innovative medical diagnostic and interventional devices, therapeutic applications and end use systems focused on womens health. During fiscal 2009, our development projects included the ongoing development, clinical trials and other support for the FDA clearance or approval process for our Dimensions, Adiana System, Cervista HPV HR and Cervista HPV 16/18 and MammoSite ML products as well as the development of improvements to, or next generation products, for our other product lines. We anticipate continuing research and development to support these ongoing efforts.  
+
+In addition to product development, our research and development personnel play an active role in the review of product specifications, clinical protocols and FDA submissions, as well as ensuring that certain of our products conform to European health, safety and environmental requirements (CE marking). Our research and development expenses were $94.3 million in fiscal 2009, $81.4 million in fiscal 2008 and $44.4 million in fiscal 2007.  
+
+Patents and Proprietary Rights  
+
+We rely primarily on a combination of trade secrets, patents, copyright and trademark laws, and confidentiality procedures to protect our technology. Due to the rapid technological changes that characterize the markets we operate in, we believe that the improvement of existing products, reliance upon trade secrets and unpatented proprietary know-how and the development of new products are generally as important as patent protection in establishing and maintaining a competitive advantage. Nevertheless, we have obtained patents and will continue to make efforts to obtain patents, when available, in connection with our product development program.  
+
+We own numerous U.S. patents and have applied for numerous additional U.S. patents relating to our technologies. We also own or have applied for corresponding patents in selected foreign countries. These patents relate to various aspects of most of our products. We do not know if current or future patent applications will be issued with the scope of the claims sought, if at all, or whether any patents issued will be challenged or invalidated. There is a risk that our patent applications will not be granted or that the patent or patent application will not provide significant protection for our products and technology. Unauthorized third parties may infringe our intellectual property rights, copy or reverse engineer portions of our technology. Our competitors may independently develop similar technology that our patents do not cover. In addition, because patent applications in the U.S. are not generally publicly disclosed until eighteen months after the application is filed, applications may have been filed by third parties that relate to our technology. Moreover, there is a risk that foreign  
+
+14  
+
+Table of Contents 
+
+ intellectual property laws will not protect our intellectual property rights to the same extent as intellectual property laws in the U.S. The rights provided by a patent are finite in time. Over the coming years, certain patents relating to current products will expire in the U.S. and abroad thus allowing third parties to utilize certain of our technologies. In the absence of significant patent protection, we may be vulnerable to competitors who attempt to copy our products, processes or technology.  
+
+In addition to the patents we have been issued or we have acquired, we license patents from others on a variety of terms and conditions.  
+
+We are engaged in intellectual property litigation as described in Item 3, Legal Proceedings, and may be notified in the future of claims that we may be infringing intellectual property rights possessed by other third parties. In connection with any such litigation or if any claims are asserted against us or our products, we may seek to enter into settlement and/or licensing arrangements. There is a risk in these situations that no license will be available or that a license will not be available on reasonable terms. Alternatively, we may decide to litigate such claims or to design around the patented technology. These actions could be costly and would divert the efforts and attention of our management and technical personnel. As a result, any infringement claims by third parties or other claims for indemnification by customers resulting from infringement claims, whether or not proven to be true, may harm our business and prospects.  
+
+Regulation  
+
+The manufacture, sale, lease and service of medical diagnostic and surgical devices and pharmaceutical products intended for commercial use are subject to extensive governmental regulation by the FDA in the United States and by a variety of regulatory agencies in other countries. Under the Federal Food, Drug and Cosmetic Act, known as the FD&C Act, manufacturers of medical products and devices must comply with certain regulations governing the design, testing, manufacturing, packaging, servicing and marketing of medical products. Some of our products are also subject to the Radiation Control for Health and Safety Act, administered by the FDA, which imposes performance standards and record keeping, reporting, product testing and product labeling requirements for devices that emit radiation, such as x-rays.  
+
+The FDA generally must clear the commercial sale of new medical devices. Commercial sales of our medical devices within the United States must be preceded by either a pre-market notification filing pursuant to Section 510(k) of the FD&C Act or the granting of a pre-market approval (PMA). A 510(k) pre-market notification filing must contain information establishing that the device to be sold is substantially equivalent to a device commercially distributed prior to May 28, 1976.  
+
+The PMA procedure involves a complex and lengthy testing and review process by the FDA and may require several years to obtain. We may need to first obtain an investigational device exemption, known as an IDE, in order to conduct extensive clinical testing of the device to obtain the necessary clinical data for submission to the FDA. The FDA will grant a PMA only if after evaluating clinical data it finds that the safety and effectiveness of the product has been sufficiently demonstrated. This approval may restrict the number of devices distributed or require additional patient follow-up for an indefinite period of time. In fiscal 2009, we received PMAs for Cervista HPV HR, Cervista HPV 16/18, and the Adiana System, and we received 510(k) clearance for MammoSite ML. In addition, we are conducting additional clinical trials to support our PMA application for our Dimensions 3D system configuration for tomosynthesis. We cannot assure when we will complete these additional clinical trails, whether the results of the clinical trials will be viewed as sufficient by the FDA to support our application, whether or when the FDA may approve our PMA, if at all, or the conditions for use that may be imposed by the FDA if and when the application is approved.  
+
+15  
+
+Table of Contents 
+
+Sales of medical devices outside of the United States are subject to foreign regulatory requirements that vary widely from country to country. The time required to obtain approval from a foreign country to market and sell our products may be longer or shorter than that required for FDA approval and the requirements may differ. In addition, we may be required to meet the FDAs export requirements or receive FDA export approval for export of our products to foreign countries. Moreover, some of our technology is governed by the International Traffic in Arms Regulations of the United States Department of State. As a result, the export of some of our systems to some countries may be limited or prohibited.  
+
+On May 23, 2006, the FDA Radiological Devices Panel recommended the reclassification of full field digital mammography systems from Class III to Class II devices. The reclassification would result in these systems being cleared for commercialization through the 510(k) process. This may result in more competitors entering the United States market. The FDA has issued a guidance document on full field digital mammography for public comment. It is not possible to predict if and when the reclassification will occur. A FDA panel meeting was held on November 17, 2009 to review public comments on the proposed FFDM guidance.  
+
+Our manufacturing processes and facilities are subject to continuing review by the FDA and foreign governments or their representatives. Adverse findings could result in various actions against us, including withdrawal of approvals and product recall.  
+
+The laboratories that purchase our ThinPrep System, ThinPrep Imaging System and the Rapid Fetal Fibronectin Test are subject to extensive regulation under the Clinical Laboratory Improvement Amendments of 1988 (CLIA), which requires laboratories to meet specified standards in the areas of personnel qualifications, administration, participation in proficiency testing, patient test management, quality control, quality assurance and inspections. We believe that the ThinPrep System (including the ThinPrep Imaging System) and the Rapid Test operate in a manner that will allow laboratories purchasing these products to comply with CLIA requirements. However, we cannot assure that adverse interpretations of current CLIA regulations or future changes in CLIA regulations would not have an adverse effect on sales of the ThinPrep System, ThinPrep Imaging System and the Rapid Fetal Fibronectin Test.  
+
+The majority of the current clinical diagnostic products we acquired as part of the Third Wave acquisition were sold as Analyte Specific Reagents, known as ASRs. The FDA restricts the sale of these products to clinical laboratories certified under CLIA to perform high complexity testing and also restricts the types of products that can be sold as ASRs. In 2006, followed by additional clarification in 2007, the FDA issued guidance concerning acceptable examples of reagents that meet the threshold of the ASR regulations. In this guidance, the FDA outlined examples of products and marketing practices that go beyond the scope of the ASR regulations making the reagent part of a test system potentially subject to premarket review. These examples include combining, or promoting for use, a single ASR with another product such as other ASRs, general purpose reagents, controls, laboratory equipment, software, etc., or promoting an ASR with specific analytical or performance claims, instructions for use in a particular test, or instructions for validation of a specific test using the ASR. As a result of this recent guidance we have taken steps to comply with the guidance. This resulted in discontinuing certain Third Wave products that were previously sold as ASRs. We have applied for investigational device exemptions for the remaining products which will permit continued commercialization. There is no assurance that the FDA will grant such exemptions, in which case we may be required to discontinue sales of the product if it does not otherwise qualify for use as an ASR.  
+
+We cannot assure that the FDA or foreign regulatory agencies will give the requisite approvals or clearances for any of our medical devices under development on a timely basis, if at all. Moreover, after clearance is given, these agencies can later withdraw the clearance or require us to change the device or its manufacturing process or labeling, to supply additional proof of its safety and effectiveness, or to recall, repair, replace or refund the cost of the medical device, if it is shown to be hazardous or defective. The process of obtaining clearance to market products is costly and time-consuming and can delay the marketing and sale of our products.  
+
+16  
+
+Table of Contents 
+
+We are subject to various federal and state laws pertaining to healthcare fraud and abuse, including federal and state anti-kickback laws, as well as the Foreign Corrupt Practices Act. Anti-kickback laws make it illegal for an entity to solicit, offer, receive, or pay remuneration or anything of value in exchange for, or to induce, the referral of business or the purchasing, leasing, ordering, or arranging for or recommending the purchase, lease or order of any item or service paid for by Medicare, Medicaid or certain other federal healthcare programs. The statute has been broadly interpreted to cover a wide array of practices. Some states have passed similar laws. The federal government has published regulations that identify safe harbors, which if applicable will assure that certain arrangements will not be found to violate the federal anti-kickback statutes. Our activities relating to the sale and marketing of our products may be subject to scrutiny under these laws. While we make every effort to comply with the regulations, it is possible that our practices might be challenged under federal anti-kickback or similar laws due to the breadth of the statutory provisions and the absence of extensive guidance regarding compliance. Violations of these laws may be punishable by criminal and/or civil sanctions, including fines and civil monetary penalties, as well as the possibility of exclusion from federal healthcare programs (including Medicare and Medicaid). If the government were to raise questions about our behavior or find that we have violated these laws, there could be a material adverse effect on our business. Our activities could be subject to challenge for the reasons discussed above, due to the broad scope of these laws and the increasing attention being given to them by law enforcement authorities.  
+
+We are also subject to numerous federal, state and local laws relating to safe working conditions, manufacturing practices, environmental protection, fire hazard control and disposal of hazardous or potentially hazardous substances, among others. We may be required to incur significant costs to comply with these laws and regulations in the future, and complying with these laws may result in a material adverse effect upon our business, financial condition and results of operations.  
+
+Federal, state and foreign regulations regarding the manufacture and sale of medical devices and pharmaceuticals are subject to future change. We cannot predict what impact, if any, such changes might have on our business.  
+
+Reimbursement  
+
+In the U.S., the Centers for Medicare & Medicaid Services, known as CMS, establishes policies for the coverage and reimbursement of Medicare and Medicaid beneficiaries. Under current CMS policies, varying reimbursement levels have been established for bone density assessment, endometrial ablations, mammography and other imaging, diagnostic tests and surgical procedures performed using our products. Coverage policies for Medicare patients may vary by regional Medicare carrier in the absence of a National Coverage Decision and reimbursement rates for procedures will vary based on the geographic price index. Coverage and reimbursement for patients with private insurance is dependent on the individual private payers decisions and may not follow the policies and rates established by CMS for Medicare. Moreover, private insurance carriers may choose not to follow the CMS reimbursement policies. The use of our products outside the U.S. is similarly affected by reimbursement policies adopted by foreign regulatory and insurance carriers.  
+
+In October 2009, CMS announced 2010 reimbursement rates for physician, hospital and ambulatory surgical center payments. CMS also implemented provisions of the Deficit Reduction Act of 2005 related to certain medical imaging procedures. For 2010, the downward adjustments that affect our products include an approximate 11% decline in reimbursement for CAD, and an approximate 14% reduction in bone density assessments for osteoporosis rates. The CMS reductions that would affect the reimbursement for the use of our products also include a general reduction of 21% in the Sustainable Growth Rate (SGR) factor. This factor is used by CMS in a formula to determine doctor reimbursements. Congress has, from time to time, overridden some or all of the proposed reductions in reimbursement, and there is pending legislation to freeze the SGR for 2010 which would eliminate this potential decrease. However, we cannot assure that Congress will override any part of the recent proposed reductions. Significant reductions in reimbursement rates proposed or implemented for the use of any our products has had and may continue to have a material adverse affect on the sales of those products.  
+
+17  
+
+Table of Contents 
+
+Political, economic and regulatory influences may subject the healthcare industry to fundamental changes. We anticipate that the current administration, Congress and certain state legislatures will continue to review and assess alternative healthcare delivery systems and payment methods with an objective of ultimately reducing healthcare costs and expanding access. The uncertainties regarding the ultimate features of reform initiatives and their enactment and implementation may have an adverse effect on our customers purchasing decisions regarding our products. At this time, we cannot predict which, if any, healthcare reform proposals will be adopted, when they may be adopted or what impact they may have on our business.  
+
+Employees  
+
+As of October 25, 2009, we had approximately 3,959 full-time employees, including 1,473 in manufacturing operations, 390 in research and development, 1,631 in marketing, sales and support services, and 465 in finance and administration. The non-management employees of our subsidiary, AEG, are represented by a union. AEGs approximate 236 non-management German employees were subject to collective bargaining agreements negotiated on a national and regional basis between Unternehmens-Verband Südöstliches Westfalen e.V., the Employers Association of North Rhine-Westphalia, and the German Metal Workers Union, IndustrieGewerkschaft Metall. In addition, AEGs German employees are represented by a works council, a Betriebsrat, with respect to various shop agreements for social matters and working conditions. By Chinese law, all labor contracts of the non-management employees of AEGs Chinese subsidiary are registered at the labor department of the local authorities, but are currently not members of the labor union. During the fourth quarter of fiscal 2009, the majority of these employees were terminated in connection with the closure of our manufacturing facility in China. We believe that our relationship with our employees is good. Except as described herein, none of our other employees are represented by a union.  
+
+ Item 1A. Risk Factors

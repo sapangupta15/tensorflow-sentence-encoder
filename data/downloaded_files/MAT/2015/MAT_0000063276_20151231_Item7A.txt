@@ -1,0 +1,55 @@
+Item 7A.Quantitative and Qualitative Disclosures About Market Risk.
+
+Foreign Currency Exchange Rate Risk
+
+Currency exchange rate fluctuations may impact Mattel’s results of operations and cash flows. Inventory transactions denominated in the Euro, British pound sterling, Mexican peso, Australian dollar, Canadian dollar, Brazilian real, Russian ruble, Malaysian ringgit, and Indonesian rupiah were the primary transactions that caused foreign currency transaction exposure 
+
+44
+
+for Mattel during 2015, 2014, and 2013. Mattel seeks to mitigate its exposure to market risk by monitoring its foreign currency transaction exposure for the year and partially hedging such exposure using foreign currency forward exchange contracts primarily to hedge its purchase and sale of inventory and other intercompany transactions denominated in foreign currencies. These contracts generally have maturity dates of up to 18 months. For those intercompany receivables and payables that are not hedged, the transaction gains or losses are recorded in the consolidated statement of operations in the period in which the exchange rate changes as part of operating income or other non-operating income/expense, net based on the nature of the underlying transaction. Transaction gains or losses on hedged intercompany inventory transactions are recorded in the consolidated statement of operations in the period in which the inventory is sold to customers. In addition, Mattel manages its exposure to currency exchange rate fluctuations through the selection of currencies used for international borrowings. Mattel does not trade in financial instruments for speculative purposes.
+
+Mattel’s financial position is also impacted by currency exchange rate fluctuations on translation of its net investments in subsidiaries with non-US dollar functional currencies. Assets and liabilities of subsidiaries with non-US dollar functional currencies are translated into US dollars at fiscal year-end exchange rates. Income, expense, and cash flow items are translated at weighted average exchange rates prevailing during the fiscal year. The resulting currency translation adjustments are recorded as a component of accumulated other comprehensive loss within stockholders’ equity. Mattel’s primary currency translation exposures during 2015 were related to its net investments in entities having functional currencies denominated in the Euro, Brazilian real, Mexican peso, and British pound sterling.
+
+There are numerous factors impacting the amount by which Mattel’s financial results are affected by foreign currency translation and transaction gains and losses resulting from changes in currency exchange rates, including, but not limited to, the level of foreign currency forward exchange contracts in place at a given time and the volume of foreign currency-denominated transactions in a given period. However, assuming that such factors were held constant, Mattel estimates that a 1 percent change in the US dollar Trade-Weighted Index would impact Mattel’s net sales by approximately 0.5% and its full year earnings per share by approximately $0.00 to $0.01. Mattel’s foreign currency forward exchange contracts that were used to hedge firm foreign currency commitments as of December 31, 2015 are shown below. All contracts in the following table are against the US dollar and are maintained by reporting units with a US dollar functional currency, with the exception of the Indonesian rupiah contracts, which are maintained by entities with an Indonesian rupiah functional currency.
+
+[DATA_TABLE_REMOVED]
+
+45
+
+* The weighted average contract rate for these contracts is quoted in US dollar per local currency. 
+
+For the purchase of foreign currencies, fair value reflects the amount, based on dealer quotes, that Mattel would pay at maturity for contracts involving the same notional amounts, currencies, and maturity dates, if they had been entered into as of December 31, 2015. For the sale of foreign currencies, fair value reflects the amount, based on dealer quotes, that Mattel would receive at maturity for contracts involving the same notional amounts, currencies, and maturity dates, if they had been entered into as of December 31, 2015. The differences between the market forward amounts and the contract amounts are expected to be fully offset by currency transaction gains and losses on the underlying hedged transactions.
+
+In addition to the contracts involving the US dollar detailed in the above table, Mattel also had contracts to sell British pound sterling for the purchase of Euro. As of December 31, 2015, these contracts had a contract amount of $26.1 million and a fair value of $0.3 million.
+
+Had Mattel not entered into hedges to limit the effect of currency exchange rate fluctuations on its results of operations and cash flows, its income before income taxes would have decreased by approximately $6 million in 2015, increased by approximately $32 million in 2014, and decreased by approximately $9 million in 2013.
+
+Venezuelan Operations
+
+Since January 1, 2010, Mattel has accounted for Venezuela as a highly inflationary economy as the three-year cumulative inflation rate for Venezuela exceeded 100%. Accordingly, Mattel’s Venezuelan subsidiary uses the US dollar as its functional currency, and monetary assets and liabilities denominated in Venezuelan bolívar fuerte (“BsF”) generate income or expense for changes in value associated with foreign currency exchange rate fluctuations against the US dollar. From January 2010 through January 2013, Mattel’s Venezuelan subsidiary used the Sistema de Transacciones con Títulos en Moneda Extranjera (“SITME”) rate, which was quoted at 5.30 BsF per US dollar as of December 31, 2012, to remeasure monetary assets and liabilities denominated in BsF. 
+
+During February 2013, the Central Bank of Venezuela revised its official exchange rate to 6.30 BsF per US dollar and eliminated the SITME rate. Since February 2013, Mattel’s Venezuelan subsidiary has used the official exchange rate as its remeasurement rate. 
+
+During March 2013, the Venezuelan government introduced a complementary currency exchange system, the Sistema Complementario de Administración de Divisas 1 (“SICAD 1”). SICAD 1 was intended to function as an auction system, allowing entities in specific sectors to bid for US dollars to be used for specified import transactions. During February 2014, the Venezuelan government introduced an additional currency exchange system, the Sistema Complementario de Administración de Divisas 2 (“SICAD 2”), which was expected to provide a greater supply of US dollars from sources other than the Venezuelan government and increase participation to all sectors and companies.
+
+During February 2015, the Venezuelan government announced the launch of a new three-tiered currency exchange platform, which included a new exchange system called the Marginal Currency System (“SIMADI”). The first tier was used for food, medicine, agriculture, and other essential goods and used the existing official exchange rate of 6.30 BsF per US dollar. The second tier was a merger of the SICAD 1 and SICAD 2 systems, which continued to hold periodic auctions for entities in specific sectors. The third tier was the new SIMADI system, which was intended to be a market-driven exchange that allowed for legal trading of foreign currency based on supply and demand. 
+
+Through December 31, 2015, Mattel continued to be unable to access US dollars in Venezuela through the merged SICAD system due to restrictions placed on eligible participants, the amount of US dollars available to purchase through the auction process, and the ineligibility of past import transactions to be settled through SICAD. As such, Mattel does not believe it would have been appropriate to use the SICAD rate as its remeasurement rate as of December 31, 2015.
+
+To date, Mattel has not accessed US dollars in Venezuela through the SIMADI system due to the restrictions associated with SIMADI and the limited access to the exchange. As such, Mattel does not believe it would have been appropriate to use the SIMADI rate as its remeasurement rate as of December 31, 2015. Had Mattel used the SIMADI rate of 198.70 BsF per US dollar as of December 31, 2015 as its remeasurement rate, it would have recognized a pre-tax charge of approximately $22 million in its consolidated statement of operations. 
+
+During February 2016, the Venezuelan government revised its official exchange rate to 10.00 BsF per US dollar and merged the official exchange rate with the SICAD rate. The official exchange rate will be used for essential imports, such as food and medicine, and the SIMADI rate will be used for all other transactions. Had Mattel used the new official exchange rate of 10.00 BsF per US dollar as of December 31, 2015 as its remeasurement rate, it would have recognized a pre-tax charge of approximately $8 million in its consolidated statement of operations. 
+
+46
+
+Mattel is continuing to evaluate its remeasurement rate and is considering a change of its remeasurement rate to the SIMADI rate in the first quarter of 2016, which could result in a pre-tax charge of approximately $22 million.
+
+Mattel’s Venezuelan subsidiary represented less than 0.01% of Mattel’s consolidated net sales in 2015 and had approximately $22 million of net monetary assets denominated in BsF as of December 31, 2015. Venezuela currency matters, along with economic and political instability, continue to impact the operating results of Mattel’s Venezuelan subsidiary. If the Venezuelan bolívar fuerte significantly devalues in the future, or if the economic or political conditions significantly worsen, Mattel may consider ceasing operations of its Venezuelan subsidiary, which could result in a pre-tax charge to its consolidated statement of operations of up to $95 million. 
+
+Greek Operations 
+
+During July 2015, Greece defaulted on its debt to the International Monetary Fund, which has led to renewed concerns about its economic and financial stability and the possibility that it will no longer use the Euro as its national currency. If Greece ceases to use the Euro as its national currency, the net monetary assets of Mattel’s Greek subsidiary would be subject to remeasurement, with the remeasurement gains and losses impacting the consolidated statements of operations. During 2015, Mattel’s Greek subsidiary represented less than 1% of Mattel’s consolidated net sales, and net monetary assets for Mattel’s Greek subsidiary and other subsidiaries subject to currency exchange risk in Greece were approximately $16 million. 
+
+47
+
+Item 8.Financial Statements and Supplementary Data.

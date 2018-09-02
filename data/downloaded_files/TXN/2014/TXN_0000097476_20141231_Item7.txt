@@ -1,0 +1,229 @@
+ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+Overview
+
+We design, make and sell semiconductors to electronics designers and manufacturers all over the world. Our business model is carefully constructed around several advantages that are unique to TI:
+
+•Industry’s broadest portfolio of differentiated analog and embedded processing semiconductors. Our customers’ design engineers need at least one, and most times multiple, chips for their systems. The breadth of our portfolio means we can solve more of these needs than can our competitors, which gives us access to more customers and the opportunity to generate more revenue per system. We invest more than $1 billion each year to develop new products for our portfolio.
+
+•A strong foundation of manufacturing technology and low-cost production. We invest in manufacturing technologies that differentiate the features of our semiconductors, and we do most of our own production in-house as opposed to outsourcing it. This ability to directly control our manufacturing helps ensure a consistent supply of products for our customers. We produce billions of semiconductors each year on a mixture of 150-, 200- and 300-millimeter wafers, and we are able to keep costs low for manufacturing facilities and equipment because our analog and much of our embedded processing semiconductors can be made using mature assets that we acquire ahead of demand when their prices are most attractive. In 2014 we produced approximately 25 percent of our Analog semiconductors on 300-millimeter wafers, the industry’s largest wafers, which have a 40 percent cost advantage per unpackaged chip over 200-millimeter wafers. The majority of our future Analog growth will be produced on 300-millimeter wafers, which will be meaningful to the growth of our margins and cash flow over the long term.
+
+•Industry’s largest market channels. Our global sales force is larger than those of our competitors, and the breadth of our portfolio attracts tens of millions of visits to our web site each year where customers often begin their initial product searches and design-in journey. These capabilities combine to provide us unique access to more than 100,000 customers.
+
+•Diversity and longevity in our products and in the markets we serve. Together, the advantages above result in diverse and long-lived positions that deliver high terminal value to our shareholders. Because of the breadth of our portfolio we are not dependent on any single product, and because of the breadth of our markets we are not dependent on any single application or customer. Some of our products generate revenue for decades, which strengthens the return on our investments.
+
+These advantages have resulted in consistent share gains and free cash flow growth, and they put us in a unique class of companies with the ability to grow, generate cash, and return that cash to shareholders. 
+
+Management’s discussion and analysis of financial condition and results of operations (MD&A) should be read in conjunction with the financial statements and the related notes that appear elsewhere in this document. In the following discussion of our results of operations:
+
+•All dollar amounts in the tables are stated in millions of U.S. dollars, except per-share amounts.
+
+•When we discuss our results:
+
+◦Unless otherwise noted, changes in our revenue are attributable to changes in customer demand, which are evidenced by fluctuations in shipment volumes. 
+
+◦New products tend not to have a significant impact on our revenue in any given period because we sell such a large number of products.
+
+◦From time to time, our revenue and gross profit are affected by changes in demand for higher-priced or lower-priced products, which we refer to as changes in the “mix” of products shipped.
+
+◦Because we own much of our manufacturing capacity, a significant portion of our operating cost is fixed. When factory loadings decrease, our fixed costs are spread over reduced output and, absent other circumstances, our profit margins decrease. Conversely, as factory loadings increase, our fixed costs are spread over increased output and, absent other circumstances, our profit margins increase. Increases and decreases in factory loadings tend to correspond to increases and decreases in demand.
+
+17
+
+•Our segments represent groups of similar products that are combined on the basis of similar design and development requirements, product characteristics, manufacturing processes and distribution channels, and how management allocates resources and measures results. See Note 1 to the financial statements for more information regarding our segments.
+
+•Our exit from legacy wireless products and the elimination (effective January 1, 2013) of the Wireless segment resulted in changes to our corporate-level expense allocations, which negatively affected Analog and Embedded Processing profitability in the year ended December 31, 2013 and, to a less significant extent, in 2014. We allocate our corporate-level expenses, which are largely fixed, among our product lines in proportion to the operating expenses directly generated by them. Legacy wireless products generated lower operating expenses in 2014 and 2013 than in 2012 because we stopped investing in them. The corporate-level expenses allocated to those products were, therefore, proportionately lower, and the corporate-level expenses allocated to the remaining product lines were proportionately higher. This allocation change affects the profitability of each of our segments, but does not impact operating expense or profitability trends at the consolidated level.
+
+Results of operations
+
+We continued to perform well in 2014, reflecting our focus on Analog and Embedded Processing semiconductors. We believe these products serve highly diverse markets with thousands of applications and have dependable long-term growth opportunities. In 2014, Analog revenue grew 13 percent and Embedded Processing revenue grew 12 percent. These two segments represented 83 percent of TI revenue for the year, up from 79 percent in 2013. Gross margin of 56.9 percent for the year reflects the diversity and longevity of our product portfolio, as well as the efficiency of our manufacturing strategy. Our business model focused on Analog and Embedded Processing allows us to generate strong cash flow from operations. In 2014, free cash flow was 27 percent of revenue, up 3 percentage points from a year ago. During the year, we returned $4.2 billion of cash to investors through a combination of stock repurchases and dividends.
+
+Free cash flow is a non-GAAP financial measure. For a reconciliation to GAAP and an explanation of the reason for providing this non-GAAP measure, see the Non-GAAP financial information section after the Liquidity and capital resources section.
+
+Details of financial results – 2014 compared with 2013
+
+Revenue was $13.05 billion, up $840 million, or 7 percent, from 2013 due to higher revenue from Analog and Embedded Processing. These increases more than offset lower revenue from legacy wireless products.
+
+Gross profit was $7.43 billion, an increase of $1.06 billion, or 17 percent, from 2013 primarily due to higher revenue and, to a lesser extent, a more favorable mix of products shipped. Gross profit margin was 56.9 percent of revenue compared with 52.1 percent in 2013. 
+
+Operating expenses were $1.36 billion for R&D and $1.84 billion for SG&A. R&D expense decreased $164 million, or 11 percent, from 2013 primarily due to savings from ongoing efforts across the company to align costs with growth opportunities, including the previously announced wind-down of our legacy wireless products and restructuring actions in Embedded Processing and Japan. R&D expense as a percent of revenue was 10.4 percent compared with 12.5 percent in 2013. SG&A expense was about even, as higher variable compensation costs were offset by savings from our cost alignment efforts. SG&A expense as a percent of revenue was 14.1 percent compared with 15.2 percent in 2013. 
+
+Acquisition charges were related to our 2011 acquisition of National Semiconductor and were $330 million compared with $341 million in 2013. The charges were primarily from the amortization of intangible assets. See Note 3 to the financial statements for detailed information.
+
+Restructuring charges/other was a net credit of $51 million, which included gains on sales of assets of $75 million, partially offset by restructuring charges and other expenses of $24 million. This compared with a net credit of $189 million in 2013, reflecting a $315 million gain from our transfer of wireless connectivity technology to a customer, partially offset by restructuring charges of $126 million. These amounts are included in Other for segment reporting purposes. For details on the types of costs incurred and the amounts associated with each restructuring action, see Note 4 to the financial statements.
+
+Operating profit was $3.95 billion, or 30.3 percent of revenue, compared with $2.83 billion, or 23.2 percent, in 2013. 
+
+18
+
+The income tax provision was $1.05 billion compared with $592 million in 2013. The increase in the total tax provision was due to higher income before income taxes and, to a lesser extent, the effect of the retroactive reinstatement of the federal research tax credit for 2012 in 2013. Our annual effective tax rates were 27 percent in 2014 and 24 percent in 2013. The federal research tax credit included in the annual effective tax rates for 2014 and 2013 expired at the end of 2014. See Note 7 to the financial statements for a reconciliation of the income tax provision to the statutory federal tax.
+
+Our annual effective tax rate benefits from lower rates (compared to the U.S. statutory rate) applicable to our operations in many of the jurisdictions in which we operate and from U.S. tax benefits. These lower non-U.S. tax rates are generally statutory in nature, without expiration and available to companies that operate in those taxing jurisdictions. We benefit to a lesser extent from tax holidays in non-U.S. jurisdictions, in particular, Malaysia and the Philippines. Pre-tax income related to assembly/test manufacturing facilities in those jurisdictions is included in the non-U.S. effective tax rates reconciling item. 
+
+Net income was $2.82 billion, an increase of $659 million, or 30 percent, from 2013. EPS was $2.57 compared with $1.91 in 2013. EPS benefited $0.07 from 2013 due to a lower number of average shares outstanding as a result of our stock repurchase program.
+
+Segment results – 2014 compared with 2013
+
+Analog (includes High Volume Analog & Logic, Power Management, High Performance Analog and Silicon Valley Analog product lines)
+
+[DATA_TABLE_REMOVED]
+
+Analog revenue increased in all products lines. Revenue from Power grew the most, followed by revenue from, in decreasing order, HPA, HVAL and SVA. Operating profit increased primarily due to higher revenue and associated gross profit.
+
+Embedded Processing (includes Processor, Microcontrollers and Connectivity product lines)
+
+[DATA_TABLE_REMOVED]
+
+Embedded Processing revenue increased primarily due to Microcontrollers and Processor, which contributed about equally to the increase. Connectivity increased to a lesser extent. Revenue from Processor increased as a result of a more favorable mix of products shipped. Operating profit increased primarily due to higher revenue and associated gross profit.
+
+Other (includes DLP products, custom ASIC products, calculators, royalties and legacy wireless products)
+
+[DATA_TABLE_REMOVED]
+
+Other revenue decreased due to legacy wireless products. Operating profit was about even as reductions in operating expenses were offset by changes in Restructuring charges/other. See Note 4 to the financial statements for information regarding Restructuring charges/other.
+
+Prior results of operations
+
+Our performance in 2013 was strong, reflecting our increased focus on Analog and Embedded Processing. During 2013, 79 percent of our revenue came from Analog and Embedded Processing, with Analog revenue increasing 3 percent from 2012 and Embedded Processing revenue increasing 9 percent from 2012. Operating margin for Analog was 25.8 percent, and it exceeded 
+
+19
+
+30 percent during the second half of 2013. Operating margin for Embedded Processing was 7.6 percent. Additionally, we completed our exit from legacy wireless products. Our business model continued to generate strong cash flow from operations, with free cash flow for 2013 of $3 billion, or 24 percent of revenue. During 2013 we returned over $4 billion of cash to investors through a combination of stock repurchases and dividends.
+
+Details of financial results – 2013 compared with 2012
+
+Revenue was $12.20 billion, down $620 million, or 5 percent, from 2012 due to lower revenue from legacy wireless products. 
+
+Despite the decline in overall revenue, gross profit of $6.36 billion was about even with 2012 due to a more favorable mix of products shipped and, to a lesser extent, lower manufacturing costs. Gross profit margin was 52.1 percent of revenue compared with 49.6 percent in 2012. 
+
+Operating expenses were $1.52 billion for R&D and $1.86 billion for SG&A. R&D expense decreased $355 million, or 19 percent, from 2012 primarily reflecting the wind-down of our legacy wireless products. R&D expense as a percent of revenue was 12.5 percent compared with 14.6 percent in 2012. SG&A expense increased $54 million, or 3 percent, from 2012 primarily due to higher variable compensation and other support costs, partially offset by reduced costs from the wind-down of our legacy wireless products. SG&A expense as a percent of revenue was 15.2 percent compared with 14.1 percent in 2012. 
+
+Acquisition charges were related to our 2011 acquisition of National and were $341 million in 2013 compared with $450 million in 2012. The charges were primarily from the amortization of intangible assets. The decrease from 2012 was due to the nonrecurrence of integration-related expenses. 
+
+Restructuring charges/other was a net credit of $189 million, reflecting the $315 million gain from the technology transfer, partially offset by restructuring charges of $126 million. This compared with a net charge of $264 million in 2012, which included restructuring and other charges of $408 million, partially offset by a $144 million gain from the transfer of the obligations and assets of a portion of our Japan pension program from the pension trust to the government of Japan. These net amounts are all included in Other. For details on restructuring actions, see Note 4 to the financial statements.
+
+Operating profit was $2.83 billion, or 23.2 percent of revenue, compared with $1.97 billion, or 15.4 percent of revenue, in 2012. 
+
+The income tax provision was $592 million compared with $176 million for 2012. The increase in the total tax provision was due to higher income before income taxes and, to a lesser extent, lower discrete tax benefits. The discrete tax benefits were $79 million in 2013, primarily due to the effect of the reinstatement of the federal research tax credit for 2012. In 2012, the discrete tax benefits were $252 million, primarily due to additional U.S. tax benefits for manufacturing related to prior years. Our annual effective tax rates were 24 percent in 2013 and 22 percent in 2012. 
+
+Net income was $2.16 billion, an increase of $403 million, or 23 percent, from 2012. EPS was $1.91 compared with $1.51 for 2012. EPS benefited $0.06 from 2012 due to a lower number of average shares outstanding as a result of our stock repurchase program.
+
+Segment results– 2013 compared with 2012
+
+Analog
+
+[DATA_TABLE_REMOVED]
+
+Analog revenue increased primarily due to growth in Power. Revenue from SVA and HPA also increased, but to a lesser extent. HVAL revenue decreased primarily due to a less favorable mix of products shipped. Operating profit increased primarily due to higher gross profit that benefited from higher revenue and lower manufacturing costs. This increase in gross profit was partially offset by higher operating expenses.
+
+20
+
+Embedded Processing
+
+[DATA_TABLE_REMOVED]
+
+Embedded Processing revenue increased primarily due to higher revenue from Microcontrollers, and to a lesser extent, Processor and Connectivity. Operating profit increased due to higher revenue and associated gross profit, partially offset by higher operating expenses. 
+
+Other
+
+[DATA_TABLE_REMOVED]
+
+Revenue from Other decreased primarily due to lower revenue from legacy wireless products. Operating profit from Other increased due to lower operating expenses and Restructuring charges/other. These decreases were partially offset by lower revenue and associated gross profit.
+
+Financial condition
+
+At the end of 2014, total cash (Cash and cash equivalents plus Short-term investments) was $3.54 billion, a decrease of $288 million from the end of 2013.
+
+Accounts receivable were $1.25 billion at the end of 2014. This was an increase of $43 million compared with the end of 2013 due to higher revenue. Days sales outstanding were 34 at the end of 2014 compared with 36 at the end of 2013.
+
+Inventory was $1.78 billion at the end of 2014. This was an increase of $53 million from the end of 2013. Days of inventory at the end of 2014 were 117 compared with 112 at the end of 2013. As sales to distributors become a larger portion of our revenue, we expect consignment inventory to become a larger portion of our total inventory. This may lead to changes in the level of inventory we carry in the future.
+
+Liquidity and capital resources
+
+Our primary source of liquidity is cash flow from operations. Additional sources of liquidity are Cash and cash equivalents, Short-term investments and revolving credit facilities. Cash flow from operating activities for 2014 was $3.89 billion, an increase of $508 million from 2013 due to an increase in Net income.
+
+We had $1.20 billion of Cash and cash equivalents and $2.34 billion of Short-term investments as of December 31, 2014. Our U.S. entities owned 82 percent of total cash at the end of 2014.
+
+We have a variable-rate revolving credit facility with a consortium of investment-grade banks that allows us to borrow up to $2 billion until March 2019. This credit facility also serves as support for the issuance of commercial paper. As of December 31, 2014, our credit facility was undrawn and we had no commercial paper outstanding.
+
+In 2014, investing activities used $377 million compared with $3 million in 2013. For 2014, Capital expenditures were $385 million compared with $412 million in 2013. Capital expenditures in both periods were primarily for semiconductor manufacturing equipment. In 2014, we had purchases of short-term investments, net of sales, that used cash of $141 million. In comparison, in 2013, we had sales of short-term investments, net of purchases, that provided cash proceeds of $342 million. In addition, we had proceeds from sales of assets of $142 million in 2014 compared with $21 million in 2013.
+
+21
+
+In 2014, financing activities used net cash of $3.94 billion compared with $3.17 billion in 2013. In 2014, we received proceeds of $498 million from the issuance of fixed-rate long-term debt (net of original issuance discount) and repaid $1.00 billion of maturing debt. In 2013, we received proceeds of $986 million from the issuance of fixed-rate long-term debt (net of original issuance discount) and repaid $1.50 billion of maturing debt. Dividends paid in 2014 were $1.32 billion compared with $1.18 billion in 2013, reflecting increases in the dividend rate. During 2014, the quarterly dividend increased from $0.30 to $0.34 per share, resulting in an annualized dividend payment of $1.36 per share. In 2013, we announced two increases in our quarterly dividend, increasing from $0.21 to $0.30 per share. In 2014, we used $2.83 billion to repurchase 61.7 million shares of our common stock. This compared with $2.87 billion used in 2013 to repurchase 77.6 million shares. Employee exercises of stock options are also reflected in Cash flows from financing activities. In 2014, these exercises provided cash proceeds of $616 million compared with $1.31 billion in 2013. Stock option exercises in 2013 were higher than historical averages.
+
+We believe we have the necessary financial resources and operating plans to fund our working capital needs, capital expenditures, dividend and debt-related payments, and other business requirements for at least the next 12 months.
+
+Non-GAAP financial information
+
+This MD&A includes references to free cash flow and ratios based on that measure. These are financial measures that were not prepared in accordance with generally accepted accounting principles in the United States (GAAP). Free cash flow was calculated by subtracting Capital expenditures from the most directly comparable GAAP measure, Cash flows from operating activities (also referred to as cash flow from operations). We believe that free cash flow and the associated ratios provide insight into our liquidity, our cash-generating capability and the amount of cash potentially available to return to investors, as well as insight into our financial performance. These non-GAAP measures are supplemental to the comparable GAAP measures. Reconciliation to the most directly comparable GAAP-based measures is provided in the table below.
+
+[DATA_TABLE_REMOVED]
+
+22
+
+Long-term contractual obligations
+
+[DATA_TABLE_REMOVED]
+
+Critical accounting policies
+
+In preparing our consolidated financial statements in conformity with accounting principles generally accepted in the United States, we use statistical analyses, estimates and projections that affect the reported amounts and related disclosures and may vary from actual results. We consider the following accounting policies to be both those that are most important to the portrayal of our financial condition and that require the most subjective judgment. If actual results differ significantly from management’s estimates and projections, there could be a significant effect on our financial statements.
+
+Revenue recognition
+
+We recognize revenue from sales of our products, including direct sales to our distributors, when title and risk of loss pass, which usually occurs upon shipment or delivery to the customer or distributor, depending upon the terms of the sales order; when persuasive evidence of an arrangement exists; when sales amounts are fixed or determinable; and when collectability is reasonably assured. For sales to distributors, payment is due on our standard commercial terms and is not contingent upon resale of the products. In 2014, about 60 percent of our revenue was generated from sales of our products to distributors.
+
+We recognize revenue net of allowances, which are management’s estimates of future credits to be granted to customers or distributors under programs common in the semiconductor industry. These allowances are based on analysis of historical data, current economic conditions, and contractual terms and are recorded when revenue is recognized. Allowances may include volume-based incentives, product returns due to quality issues, incentives designed to maximize growth opportunities and special pricing arrangements. For instance, we sell to distributors at standard published prices, but we may grant them price adjustment credits in response to individual competitive opportunities. To estimate allowances, we use statistical percentages of revenue, which are determined quarterly based upon recent historical adjustment trends. Historical claims data are maintained for each of the programs, with differences among geographic regions taken into consideration. We continually monitor the actual claimed allowances against our estimates, and we adjust our estimates as appropriate to reflect trends in distributor revenue and inventory levels. Allowances are also adjusted when recent historical data do not represent anticipated future activity. 
+
+We may also provide distributors an allowance to scrap certain slow-selling or obsolete products in their inventory, estimated as a negotiated fixed percentage of each distributor’s purchases from us. In addition, if we publish a new price for a product that is lower than that paid by distributors for the same product still remaining in each distributor’s on-hand inventory, we may credit 
+
+23
+
+them for the difference between those prices. The allowance for this type of credit is based on the identified product price difference applied to our estimate of each distributor’s on-hand inventory of that product.
+
+We believe we can reasonably and reliably estimate allowances for credits to distributors in a timely manner. 
+
+Revenue from sales of our products that are subject to inventory consignment agreements, including consignment arrangements with distributors, is recognized in accordance with the principles discussed above, but delivery occurs when the customer or distributor pulls product from consignment inventory that we store at designated locations. About 60 percent of our distributor revenue is generated from sales of consigned inventory. The allowances we record against this revenue are not material.
+
+We determine the amount and timing of royalty revenue based on our contractual agreements with intellectual property licensees. We recognize royalty revenue when earned under the terms of the agreements and when we consider realization of payment to be probable. 
+
+In addition, we record allowances for accounts receivable that we estimate may not be collected. We monitor collectability of accounts receivable primarily through review of the accounts receivable aging. When collection is at risk, we assess the impact on amounts recorded for bad debts and, if necessary, will record a charge in the period such determination is made. We include amounts received from customers for reimbursement of shipping fees in revenue. We include the costs of shipping and handling in COR. 
+
+Income taxes
+
+In determining Net income for financial statement purposes, we must make certain estimates and judgments in the calculation of tax provisions and the resultant tax liabilities, and in the recoverability of deferred tax assets that arise from temporary differences between the tax and financial statement recognition of revenue and expense.
+
+In the ordinary course of global business, there may be many transactions and calculations where the ultimate tax outcome is uncertain. The calculation of tax liabilities involves dealing with uncertainties in the application of complex tax laws. We recognize potential liabilities for anticipated tax audit issues in the U.S. and other tax jurisdictions based on an estimate of the ultimate resolution of whether, and the extent to which, additional taxes will be due. Although we believe the estimates are reasonable, no assurance can be given that the final outcome of these matters will not be different than what is reflected in the historical income tax provisions and accruals.
+
+As part of our financial process, we must assess the likelihood that our deferred tax assets can be recovered. If recovery is not likely, the provision for taxes must be increased by recording a reserve in the form of a valuation allowance for the deferred tax assets that are estimated not to be ultimately recoverable. In this process, certain relevant criteria are evaluated including the existence of deferred tax liabilities that can be used to absorb deferred tax assets, the taxable income in prior years that can be used to absorb net operating losses and credit carrybacks, and taxable income in future years. Our judgment regarding future recoverability of our deferred tax assets based on these criteria may change due to various factors, including changes in U.S. or international tax laws and changes in market conditions and their impact on our assessment of taxable income in future periods. These changes, if any, may require material adjustments to the deferred tax assets and an accompanying reduction or increase in Net income in the period when such determinations are made. Also, our plans for the permanent reinvestment or eventual repatriation of the accumulated earnings of certain of our non-U.S. operations could change. Such changes could have a material effect on tax expense in future years. 
+
+In addition to the factors described above, the effective tax rate reflected in forward-looking statements is based on then-current tax law. Significant changes in tax law enacted during the year could affect these estimates. Retroactive changes in tax law enacted subsequent to the end of a reporting period are reflected in the period of enactment as a discrete tax item. 
+
+Inventory valuation allowances
+
+Inventory is valued net of allowances for unsalable or obsolete raw materials, work-in-process and finished goods. Statistical allowances are determined quarterly for raw materials and work-in-process based on historical disposals of inventory for salability and obsolescence reasons. For finished goods, quarterly statistical allowances are determined by comparing inventory levels of individual parts to historical shipments, current backlog and estimated future sales in order to identify inventory judged unlikely to be sold. A specific allowance for each material type will be carried if there is a significant event not captured by the statistical allowance. Examples are an end-of-life part or demand with imminent risk of cancellation. Allowances are also calculated quarterly for instances where inventoried costs for individual products are in excess of market prices for those products. Actual future write-offs of inventory for salability and obsolescence reasons may differ from estimates and calculations used to determine valuation allowances due to changes in customer demand, customer negotiations, technology shifts and other factors.
+
+24
+
+Impairment of acquisition-related intangibles and goodwill
+
+We review acquisition-related intangible assets for impairment when certain indicators suggest an asset’s carrying amount may not be recoverable. Factors considered include the asset’s underperformance compared with expectations and shortened useful life due to planned changes in its use. Recoverability is determined by comparing the carrying amount of the asset to the estimated future undiscounted cash flow. If the future undiscounted cash flow is less than the carrying amount, an impairment charge would be recognized for the excess of the carrying amount over fair value, determined by utilizing a discounted cash flow technique. Additionally, in the case of an intangible asset that will continue to be used in future periods, a shortened useful life may be utilized if appropriate, resulting in accelerated amortization based upon the expected net realizable value of the asset at the date the asset will no longer be utilized.
+
+We review goodwill for impairment annually, or more frequently if certain impairment indicators arise, such as significant changes in business climate, operating performance or competition, or upon the disposition of a significant portion of a reporting unit. A significant amount of judgment is involved in determining if an indicator of impairment has occurred between annual test dates. This impairment review compares the fair value for each reporting unit containing goodwill to its carrying value. Determining the fair value of a reporting unit involves the use of significant estimates and assumptions, including projected future cash flows, discount rates based on weighted average cost of capital and future economic and market conditions. We base our fair-value estimates on assumptions we believe to be reasonable.
+
+Actual cash flow amounts for future periods may differ from estimates used in impairment testing.
+
+Changes in accounting standards
+
+See Note 2 to the financial statements for information on new accounting standards.
+
+Off-balance sheet arrangements
+
+As of December 31, 2014, we had no significant off-balance sheet arrangements as defined in Item 303(a)(4)(ii) of SEC Regulation S-K.
+
+Commitments and contingencies
+
+See Note 13 to the financial statements for a discussion of our commitments and contingencies.
+
+ITEM 7A. Quantitative and Qualitative Disclosures About Market Risk.

@@ -1,0 +1,331 @@
+ITEM 7.MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+This discussion and analysis of financial condition and results of operations should be read in conjunction with our consolidated financial statements and accompanying notes included in Item 8. "Financial Statements and Supplementary Data."
+
+Cautionary Statement
+
+The statements in this Management’s Discussion and Analysis that are forward-looking, within the meaning of the Private Securities Litigation Reform Act of 1995, involve numerous risks and uncertainties and are based on current expectations. The reader should not place undue reliance on these forward-looking statements. Our actual results could differ materially from those anticipated in these forward-looking statements for many reasons, including those risks discussed under "Risk Factors" and elsewhere in this document. Often, forward-looking statements can be identified by the use of forward-looking words, such as "anticipates," "believes," "continue," "could," "estimates," "expects," "intends," "may," "plans," "projects," "should," "will," "would" and other similar terminology, or the negative of such terms. We disclaim any responsibility to update or revise any forward-looking statement provided in this Management’s Discussion and Analysis for any reason.
+
+Nature of Operations
+
+We design, develop and market programmable devices and associated technologies, including advanced ICs in the form of PLDs, software design tools and predefined system functions delivered as IP. In addition to our programmable platforms, we provide design services, customer training, field engineering and technical support. Our PLDs include FPGAs, CPLDs and programmable SoCs. These devices are standard products that our customers program to perform desired logic functions. Our products are designed to provide high integration and quick time-to-market for electronic equipment manufacturers in end markets such as wired and wireless communications, industrial, scientific and medical, aerospace and defense, consumer and automotive, audio, video and broadcast, and data processing. We sell our products globally through independent domestic and foreign distributors and through direct sales to OEMs by a network of independent sales representative firms and by a direct sales management organization.
+
+Critical Accounting Policies and Estimates
+
+The methods, estimates and judgments we use in applying our most critical accounting policies have a significant impact on the results we report in our consolidated financial statements. The SEC has defined critical accounting policies as those that are most important to the portrayal of our financial condition and results of operations and require us to make our most difficult and subjective judgments, often as a result of the need to make estimates of matters that are inherently uncertain. Based on this definition, our critical accounting policies include: valuation of marketable securities, which impacts losses on debt and equity securities when we record impairments; revenue recognition, which impacts the recording of revenues; and valuation of inventories, which impacts cost of revenues and gross margin. Our critical accounting policies also include: the assessment of impairment of long-lived assets including acquisition-related intangibles, which impacts their valuation; the assessment of the recoverability of goodwill, which impacts goodwill impairment; accounting for income taxes, which impacts the provision or benefit recognized for income taxes, as well as, the valuation of deferred tax assets recorded on our consolidated balance sheet; and valuation and recognition of stock-based compensation, which impacts gross margin, research and development (R&D) expenses, and selling, general and administrative (SG&A) expenses. Below, we discuss these policies further, as well as the estimates and judgments involved. We also have other key accounting policies that are not as subjective, and therefore, their application would not require us to make estimates or judgments that are as difficult, but which nevertheless could significantly affect our financial reporting.
+
+Valuation of Marketable Securities
+
+Our short-term and long-term investments include marketable debt securities. As of March 29, 2014, we had marketable debt securities with a fair value of $3.39 billion.
+
+We determine the fair values for marketable debt securities using industry standard pricing services, data providers and other third-party sources and by internally performing valuation testing and analyses. See "Note 3. Fair Value Measurements" to our consolidated financial statements, included in Item 8. "Financial Statements and Supplementary Data," for details of the valuation methodologies. In determining if and when a decline in value below adjusted cost of marketable debt and equity securities is other than temporary, we evaluate on an ongoing basis the market conditions, trends of earnings, financial condition, credit ratings, any underlying collateral and other key measures for our investments. We did not record any other-than-temporary impairment for marketable debt or equity securities in fiscal 2014, 2013 or 2012.
+
+27
+Revenue Recognition
+
+Sales to distributors are made under agreements providing distributor price adjustments and rights of return under certain circumstances. Revenue and costs relating to distributor sales are deferred until products are sold by the distributors to the distributors’ end customers. For fiscal 2014, approximately 56% of our net revenues were from products sold to distributors for subsequent resale to OEMs or their subcontract manufacturers. Revenue recognition depends on notification from the distributor that product has been sold to the distributor’s end customer. Also reported by the distributor are product resale price, quantity and end customer shipment information, as well as inventory on hand. Reported distributor inventory on hand is reconciled to deferred revenue balances monthly. We maintain system controls to validate distributor data and to verify that the reported information is accurate. Deferred income on shipments to distributors reflects the estimated effects of distributor price adjustments and the estimated amount of gross margin expected to be realized when distributors sell through product purchased from us. Accounts receivable from distributors are recognized and inventory is relieved when title to inventories transfers, typically upon shipment from Xilinx at which point we have a legally enforceable right to collection under normal payment terms.
+
+As of March 29, 2014, we had $75.2 million of deferred revenue and $20.1 million of deferred cost of revenues recognized as a net $55.1 million of deferred income on shipments to distributors. As of March 30, 2013, we had $71.3 million of deferred revenue and $17.9 million of deferred cost of revenues recognized as a net $53.4 million of deferred income on shipments to distributors. The deferred income on shipments to distributors that will ultimately be recognized in our consolidated statement of income will be different than the amount shown on the consolidated balance sheet due to actual price adjustments issued to the distributors when the product is sold to their end customers.
+
+Revenue from sales to our direct customers is recognized upon shipment provided that persuasive evidence of a sales arrangement exists, the price is fixed, title has transferred, collection of resulting receivables is reasonably assured, and there are no customer acceptance requirements and no remaining significant obligations. For each of the periods presented, there were no significant formal acceptance provisions with our direct customers.
+
+Revenue from software licenses is deferred and recognized as revenue over the term of the licenses of one year. Revenue from services is recognized when the service is performed. Revenue from Support Products, which includes software and services sales, was less than 5% of net revenues for all of the periods presented.
+
+Allowances for end customer sales returns are recorded based on historical experience and for known pending customer returns or allowances.
+
+Valuation of Inventories
+
+Inventories are stated at the lower of actual cost (determined using the first-in, first-out method) or market (estimated net realizable value). The valuation of inventory requires us to estimate excess or obsolete inventory as well as inventory that is not of salable quality. We review and set standard costs quarterly to approximate current actual manufacturing costs. Our manufacturing overhead standards for product costs are calculated assuming full absorption of actual spending over actual volumes, adjusted for excess capacity. Given the cyclicality of the market, the obsolescence of technology and product lifecycles, we write down inventory based on forecasted demand and technological obsolescence. These forecasts are developed based on inputs from our customers, including bookings and extended but uncommitted demand forecasts, and internal analyses such as customer historical purchasing trends and actual and anticipated design wins, as well as market and economic conditions, technology changes, new product introductions and changes in strategic direction. These factors require estimates that may include uncertain elements. The estimates of future demand that we use in the valuation of inventory are the basis for our published revenue forecasts, which are also consistent with our short-term manufacturing plans. The differences between our demand forecast and the actual demand in the recent past have not resulted in any material write down in our inventory. If our demand forecast for specific products is greater than actual demand and we fail to reduce manufacturing output accordingly, we could be required to write down additional inventory, which would have a negative impact on our gross margin.
+
+Impairment of Long-Lived Assets Including Acquisition-Related Intangibles
+
+Long-lived assets and certain identifiable intangible assets to be held and used are reviewed for impairment if indicators of potential impairment exist. Impairment indicators are reviewed on a quarterly basis. When indicators of impairment exist and assets are held for use, we estimate future undiscounted cash flows attributable to the assets. In the event such cash flows are not expected to be sufficient to recover the recorded value of the assets, the assets are written down to their estimated fair values based on the expected discounted future cash flows attributable to the assets or based on appraisals. Factors affecting impairment of assets held for use include the ability of the specific assets to generate separately identifiable positive cash flows. 
+
+28
+When assets are removed from operations and held for sale, we estimate impairment losses as the excess of the carrying value of the assets over their fair value. Market conditions are amongst the factors affecting impairment of assets held for sale. Changes in any of these factors could necessitate impairment recognition in future periods for assets held for use or assets held for sale. 
+
+Long-lived assets such as other intangible assets and property, plant and equipment are considered non-financial assets, and are only measured at fair value when indicators of impairment exist.
+
+Goodwill
+
+Goodwill is not amortized but is subject to impairment tests on an annual basis, or more frequently if indicators of potential impairment exist, and goodwill is written down when it is determined to be impaired. We perform an annual impairment review in the fourth quarter of each fiscal year and compare the fair value of the reporting unit in which the goodwill resides to its carrying value. If the carrying value exceeds the fair value, the goodwill of the reporting unit is potentially impaired. For purposes of impairment testing, Xilinx operates as a single reporting unit. We use the quoted market price method to determine the fair value of the reporting unit. Based on the impairment review performed during the fourth quarter of fiscal 2014, there was no impairment of goodwill in fiscal 2014. Unless there are indicators of impairment, our next impairment review for goodwill will be performed and completed in the fourth quarter of fiscal 2015. To date, no impairment indicators have been identified.
+
+Accounting for Income Taxes
+
+Xilinx is a multinational corporation operating in multiple tax jurisdictions. We must determine the allocation of income to each of these jurisdictions based on estimates and assumptions and apply the appropriate tax rates for these jurisdictions. We undergo routine audits by taxing authorities regarding the timing and amount of deductions and the allocation of income among various tax jurisdictions. Tax audits often require an extended period of time to resolve and may result in income tax adjustments if changes to the allocation are required between jurisdictions with different tax rates. 
+
+In determining income for financial statement purposes, we must make certain estimates and judgments. These estimates and judgments occur in the calculation of certain tax liabilities and in the determination of the recoverability of certain deferred tax assets, which arise from temporary differences between the tax and financial statement recognition of revenue and expense. Additionally, we must estimate the amount and likelihood of potential losses arising from audits or deficiency notices issued by taxing authorities. The taxing authorities’ positions and our assessment can change over time resulting in a material effect on the provision for income taxes in periods when these changes occur. 
+
+We must also assess the likelihood that we will be able to recover our deferred tax assets. If recovery is not likely, we must increase our provision for taxes by recording a reserve in the form of a valuation allowance for the deferred tax assets that we estimate will not ultimately be recoverable. 
+
+We perform a two-step approach to recognize and measure uncertain tax positions relating to accounting for income taxes. The first step is to evaluate the tax position for recognition by determining if the weight of available evidence indicates that it is more likely than not that the position will be sustained on audit, including resolution of related appeals or litigation processes, if any. The second step is to measure the tax benefit as the largest amount that is more than 50% likely of being ultimately realized. See "Note 15. Income Taxes" to our consolidated financial statements included in Item 8. "Financial Statements and Supplementary Data."
+
+Stock-Based Compensation
+
+Determining the appropriate fair-value model and calculating the fair value of stock-based awards at the date of grant requires judgment. We use the Black-Scholes option-pricing model to estimate the fair value of employee stock options and rights to purchase shares under our Employee Stock Purchase Plan. Option pricing models, including the Black-Scholes model, also require the use of input assumptions, including expected stock price volatility, expected life, expected dividend rate, expected forfeiture rate and expected risk-free rate of return. We use implied volatility based on traded options in the open market as we believe implied volatility is more reflective of market conditions and a better indicator of expected volatility than historical volatility. In determining the appropriateness of implied volatility, we considered: the volume of market activity of traded options, and determined there was sufficient market activity; the ability to reasonably match the input variables of traded options to those of options granted by us, such as date of grant and the exercise price, and determined the input assumptions were comparable; and the length of term of traded options used to derive implied volatility, which is generally one to two years and which was extrapolated to match the expected term of the employee options granted by us, and determined the length of the option term was reasonable. The expected life of options granted is based on the historical exercise activity as well as the expected disposition of all options outstanding. We will continue to review our input assumptions and make changes as deemed appropriate depending on new 
+
+29
+information that becomes available. Higher volatility and expected lives result in a proportional increase to stock-based compensation determined at the date of grant. The expected dividend rate and expected risk-free rate of return do not have as significant an effect on the calculation of fair value. 
+
+In addition, we developed an estimate of the number of stock-based awards which will be forfeited due to employee turnover. Quarterly changes in the estimated forfeiture rate have an effect on reported stock-based compensation, as the effect of adjusting the rate for all expense amortization is recognized in the period the forfeiture estimate is changed. If the actual forfeiture rate is higher than the estimated forfeiture rate, then an adjustment is made to increase the estimated forfeiture rate, which will result in a decrease to the expense recognized in the financial statements. If the actual forfeiture rate is lower than the estimated forfeiture rate, then an adjustment is made to decrease the estimated forfeiture rate, which will result in an increase to the expense recognized in the financial statements. The impact of forfeiture true up was not material for all periods presented. The expense we recognize in future periods could also differ significantly from the current period and/or our forecasts due to adjustments in the assumed forfeiture rates.
+
+Results of Operations
+
+The following table sets forth statement of income data as a percentage of net revenues for the fiscal years indicated:
+
+[DATA_TABLE_REMOVED]
+
+Net Revenues
+
+[DATA_TABLE_REMOVED]
+
+Net revenues in fiscal 2014 increased 10% to $2.38 billion from $2.17 billion in fiscal 2013. New Product revenues increased in fiscal 2014 but were offset by declines from our Mainstream, Base and Support Products. The increase in New Products was due to higher sales primarily in the Industrial, Aerospace & Defense and Communications end markets. Net revenues in fiscal 2013 decreased 3% compared to fiscal 2012. New Product revenues increased in fiscal 2013 but were offset by declines from our Mainstream, Base and Support Products. The declines were primarily due to lower sales in the Industrial, Aerospace & Defense and Other end markets. See also "Net Revenues by Product" and "Net Revenues by End Markets" below for more information on our product and end-market categories.
+
+No end customer accounted for more than 10% of net revenues for any of the periods presented.
+
+Net Revenues by Product
+
+We sell our products to global manufacturers of electronic products in end markets such as wired and wireless communications, aerospace and defense, industrial, scientific and medical and audio, video and broadcast. The vast majority of our net revenues 
+
+30
+are generated by sales of our semiconductor products, but we also generate sales from support products. We classify our product offerings into four categories: New, Mainstream, Base and Support Products. The composition of each product category is as follows:
+
+•New Products include our most recent product offerings and include the Kintex UltraScale, Virtex-7, Kintex-7, Artix-7, Zynq-7000, Virtex-6 and Spartan-6 product families.
+
+•Mainstream Products include the Virtex-5, Spartan-3 and CoolRunner-II product families.
+
+•Base Products consist of our older product families including the Virtex-4, Virtex-II, Virtex-E, Virtex, Spartan-II, Spartan, CoolRunner and XC9500 products.
+
+•Support Products include configuration solutions, HardWire, software and support/services.
+
+These product categories, except for Support Products, are modified on a periodic basis to better reflect the maturity of the products and advances in technology. The most recent modification was made on April 1, 2012, which was the beginning of our fiscal 2013. The amounts for the prior periods presented have been reclassified to conform to the new categorization. New Products include our most recent product offerings and are typically designed into our customers’ latest generation of electronic systems. Mainstream Products are generally several years old and designed into customer programs that are currently shipping in full production. Base Products are older than Mainstream Products with demand generated generally by the customers’ oldest systems still in production. Support Products are generally products or services sold in conjunction with our semiconductor devices to aid customers in the design process.
+
+Net revenues by product categories for the fiscal years indicated were as follows:
+
+[DATA_TABLE_REMOVED]
+
+Net revenues from New Products increased significantly in fiscal 2014 as a result of sales growth from our 28nm as well as 40 nm product families. Sales from our 28nm products exceeded $380.0 million during fiscal 2014. We expect sales of New Products to continue to grow as more customer programs enter into volume production with our 28nm products. In fiscal 2013, strong market acceptance of our 28nm, 40nm and 45nm product families contributed to the majority of the revenue growth versus the comparable prior year period. 
+
+Net revenues from Mainstream Products decreased in both fiscal 2014 and fiscal 2013 from the comparable prior year periods. The decreases in both periods were largely due to the decline in sales of our Virtex-5 and Spartan-3 product families. 
+
+Net revenues from Base Products decreased in fiscal 2014 and fiscal 2013 from the comparable prior year periods. The decreases in both periods were as expected due to a decline in sales from our Virtex-2 and Virtex-4 product families. Base Products are mature products and their sales are expected to decline over time.
+
+Net revenues from Support Products decreased in fiscal 2014 and 2013 compared to the prior year periods. The decreases in both periods were due to a decline in sales from our PROM products. 
+
+Net Revenues by End Markets
+
+Our end market revenue data is derived from our understanding of our end customers’ primary markets. In the beginning of fiscal 2013, we modified our end market categories in two ways. First, Data Center customers were moved from the Data Processing category into the Communications category. Additionally, all end market categories were renamed to better reflect actual sales composition. Amounts for the prior periods presented have been reclassified to conform to the new categorization. Net revenues by end markets were reclassified into the following four categories: Communications & Data Center; Industrial, Aerospace & Defense; Broadcast, Consumer & Automotive; and Other. The percentage change calculation in the table below represents the year-to-year dollar change in each end market.
+
+31
+Net revenues by end markets for fiscal years indicated were as follows:
+
+[DATA_TABLE_REMOVED]
+
+Net revenues from Communications & Data Center, our largest end market, increased in fiscal 2014 in terms of absolute dollars, from the comparable prior year period. The increase in fiscal 2014 was primarily due to stronger sales from both wireline and wireless communications with wireless communication applications driving most of the growth. Net revenues from Communications & Data Center decreased slightly in fiscal 2013 from the comparable prior year period due to lower sales from wireline communications, which completely offset the increased sales from wireless communications. 
+
+Net revenues from the Industrial, Aerospace & Defense end market increased in fiscal 2014 from the comparable prior year period. The increase in fiscal 2014 was primarily driven by higher sales in defense and industrial, scientific, and medical applications, as well as test and measurement applications. Net revenues from the Industrial, Aerospace & Defense end market decreased in fiscal 2013 compared to the prior year period. The decrease was due to a decline in sales from aerospace and defense and industrial, scientific and medical applications, which more than offset the increase in sales from test and measurement applications.
+
+Net revenues from the Broadcast, Consumer & Automotive end market increased in fiscal 2014 from the comparable prior year period. The increase in fiscal 2014 was due to an increase in sales from consumer, audio, video and broadcast, and automotive applications. Net revenues from the Broadcast, Consumer & Automotive end market increased in fiscal 2013 due to an increase in sales from audio, video and broadcast, and automotive applications. 
+
+Net revenues from the Other end market decreased in fiscal 2014 and 2013 from the comparable prior year periods. The decreases in both periods were primarily due to weaker sales from storage and server applications. 
+
+Net Revenues by Geography
+
+Geographic revenue information reflects the geographic location of the distributors, OEMs or contract manufacturers who purchased our products. This may differ from the geographic location of the end customers. Net revenues by geography for the fiscal years indicated were as follows:
+
+[DATA_TABLE_REMOVED]
+
+Net revenues in North America increased in fiscal 2014 from the comparable prior year period. The increase was primarily due to stronger sales from Industrial and Aerospace & Defense end market, which more than offset lower sales from Communications & Data Center end market. Net revenues in North America decreased in fiscal 2013 from the comparable prior year period. The decrease was primarily due to a decline in sales across most of our end markets, including Communications & Data Center, Industrial and Aerospace & Defense, and Other. 
+
+Net revenues in Asia Pacific increased significantly in fiscal 2014 from the comparable prior year period. The increase in fiscal 2014 was primarily due to an increase in sales across most of our end markets with particular strength from the Communications & Data Center end market, particularly wireless communication applications. Net revenues in Asia Pacific increased slightly in fiscal 2013 from the comparable prior year period. The increase was primarily due to an increase in sales from wireless communication applications, industrial, scientific, and medical, and test and measurement applications.
+
+Net revenues in Europe decreased in fiscal 2014 from the comparable prior year period. The decrease in fiscal 2014 was primarily due to weaker sales from Communications & Data Center, which partly offset the increased sales from aerospace and defense 
+
+32
+applications. Net revenues in Europe decreased in fiscal 2013 from the comparable prior year period. The decrease was due to lower sales from the Communications & Data Center and Broadcast, Consumer, & Automotive end markets.
+
+Net revenues in Japan slightly increased in fiscal 2014 from the comparable prior year period. The increase in fiscal 2014 was primarily due to increased sales in wireline communication applications, which largely offset the decrease from test and measurement applications. The fiscal 2013 decrease in net revenues in Japan, as compared to the prior year period, was primarily driven by lower sales in industrial, scientific, and medical, and test and measurement applications.
+
+Gross Margin 
+
+[DATA_TABLE_REMOVED]
+
+Gross margin was 2.8 percentage points and 1.1 percentage points higher in fiscal 2014 and fiscal 2013 from their comparable prior year period, respectively. The improvement in gross margin was driven primarily by our continued focus on margin expansion and cost reduction across our product portfolio. This improvement was offset, in part, by the significant revenue growth of New Products, which generally have lower gross margins than Mainstream and Base Products as they are in the early stage of their product life cycle and have higher unit costs associated with relatively lower volumes and early manufacturing maturity.
+
+Gross margin may be affected in the future due to multiple factors, including but not limited to those set forth above in "Risk Factors," included in Part I of this Form 10-K", shifts in the mix of customers and products, competitive-pricing pressure, manufacturing-yield issues and wafer pricing. We expect to mitigate any adverse impacts from these factors by continuing to improve yields on our New Products, improve manufacturing efficiencies, and improve average selling price management.
+
+Sales of inventory previously written off were not material during all periods presented. 
+
+In order to compete effectively, we pass manufacturing cost reductions to our customers in the form of reduced prices to the extent that we can maintain acceptable margins. Price erosion is common in the semiconductor industry, as advances in both product architecture and manufacturing process technology permit continual reductions in unit cost. We have historically been able to offset much of this revenue decline in our mature products with increased revenues from newer products.
+
+Research and Development
+
+[DATA_TABLE_REMOVED]
+
+R&D spending increased $16.9 million, or 4%, during fiscal 2014 from the comparable prior year period. The increase was primarily attributable to higher employee compensation related to variable elements of compensation associated with higher operating margin, and higher stock-based compensation driven by a higher stock price and higher overall headcount. These increases were offset by lower mask and wafer expenses related to 28nm development as this product generation is now entirely in production and shipping at an accelerated rate. R&D for fiscal 2014 also included spending for next generation products, including our UltraScale product family.
+
+R&D spending increased $40.2 million, or 9%, during fiscal 2013 from the comparable prior year period. The increase was primarily attributable to higher employee-related expenses (including stock-based compensation expense), and mask and wafer expenses related to our 28nm development activities. 
+
+We plan to continue to selectively invest in R&D efforts in areas such as new products and more advanced process development, IP cores and the development of new design and layout software. We may also consider acquisitions to complement our strategy for technology leadership and engineering resources in critical areas.
+
+33
+Selling, General and Administrative
+
+[DATA_TABLE_REMOVED]
+
+SG&A expenses increased $12.9 million or 4% during fiscal 2014 from the comparable prior year period. We incurred higher employee-related expenses (including employee compensation related to variable spending associated with higher revenue and operating margin, and stock-based compensation expense) in fiscal 2014, but the increases were partially offset by lower legal expenses and continued efforts on controlling other discretionary spending. SG&A expenses were relatively flat during fiscal 2013 compared to the prior year as higher employee-related expenses (including stock-based compensation expense) were offset by lower sales commission due to lower revenues.
+
+Amortization of Acquisition-Related Intangibles
+
+[DATA_TABLE_REMOVED]
+
+Amortization expense for fiscal 2014 and 2013 increased from the comparable prior year periods. The increases were primarily due to the impact of amortization of intangible assets obtained from an acquisition during the second quarter of fiscal 2013. See "Note 18. Business Combination" to our consolidated financial statements, included in Item 8. "Financial Statements and Supplementary Data."
+
+Litigation and Contingencies
+
+On December 19, 2013, we entered into a Settlement and License Agreement with PACT XPP Technologies, AG (PACT). Under the settlement, the parties agreed to dismiss with prejudice all outstanding patent litigation between Xilinx, Avnet, Inc. and PACT and Xilinx agreed to pay PACT a lump sum of $33.5 million. In addition, we received license rights to all patents owned or controlled by PACT. On December 23, 2013, the trial court dismissed the suit and on December 27, 2013, the court of appeals dismissed the appeal.
+
+We previously recorded charges of $15.4 million in fiscal 2012. Due to the $33.5 million settlement, we recorded an additional $9.4 million in fiscal 2014 as a current period charge to the consolidated statements of income. The remainder of the settlement of $8.7 million will be amortized to cost of revenues in subsequent periods.
+
+Stock-Based Compensation
+
+[DATA_TABLE_REMOVED]
+
+The $16.4 million and $10.5 million increases in stock-based compensation expense for fiscal 2014 and 2013, respectively, as compared to the prior year periods were primarily related to higher expenses associated with restricted stock units, as we granted more restricted stock units at a higher fair value in the recent years. The higher expense from restricted stock units was partially offset by lower expenses related to stock option grants as we granted lower number of stock options in the current fiscal year.
+
+34
+Loss on Extinguishment of Convertible Debentures
+
+On March 12, 2014, we paid $1.23 billion in cash to redeem all of the outstanding $689.6 million (principal amount) of our 3.125% Junior Convertible Debentures due March 15, 2037 (2037 Convertible Notes). In accordance with the authoritative guidance for convertible debentures issued by the Financial Accounting Standards Board (FASB), the redemption payment was allocated between the liability ($377.6 million) and equity ($856.5 million) components of the convertible debentures, using the equivalent rate that reflected the borrowing rate for a similar non-convertible debt prior to the redemption. As a result, we recognized a loss on extinguishment of convertible debentures of $9.8 million.
+
+Interest and Other Expense, Net
+
+[DATA_TABLE_REMOVED]
+
+Our net interest and other expense decreased by $4.1 million in fiscal 2014 from the comparable prior year period. The decrease was primarily due to higher interest income from the investment portfolio. The increase in net interest and other expense in fiscal 2013 over the prior-year period was primarily due to an impairment of investments in non-marketable equity securities.
+
+Provision for Income Taxes
+
+[DATA_TABLE_REMOVED]
+
+The difference between the U.S. federal statutory tax rate of 35% and our effective tax rate in all periods is primarily due to income earned in lower tax rate jurisdictions, for which no U.S. income tax has been provided, we intend to permanently reinvest these earnings outside of the U.S. 
+
+The effective tax rate remained flat for fiscal 2014 as compared with fiscal 2013, with underlying increases and decreases that offset each other. Both periods included benefits relating to lapses of statutes of limitation; however, the fiscal 2014 benefit was $5.5 million, which was less than the comparable release in fiscal 2013 of $9.0 million. The fiscal 2014 effective tax rate included a shift in the geographic mix of earnings with proportionally more earnings subject to U.S. tax. These two items, which increased the effective tax rate, were offset by a decrease in the rate when the amount of permanently reinvested foreign earnings, for which no U.S. taxes were provided, was increased.
+
+The effective tax rate remained flat for fiscal 2013 as compared with fiscal 2012. While both periods included benefits related to the U.S. federal research credit, the credit was larger in fiscal 2013 than fiscal 2012 primarily due to the retroactive reinstatement of the research tax credit as part of the American Taxpayer Relief Act of 2012 enacted on January 2, 2013. The income tax provision for fiscal 2013 included five quarters of research tax credit as compared to the fiscal 2012 provision, which included three quarters. The net benefits relating to the federal research credit for fiscal 2013 and 2012 were $12.7 million and $9.1 million, respectively. Both periods also included benefits relating to lapses of statutes of limitation; however, the fiscal 2013 benefit was less than the comparable release in fiscal 2012. The benefits relating to lapses of statutes of limitation for fiscal 2013 and 2012 were $9.0 million and $15.9 million, respectively.
+
+Financial Condition, Liquidity and Capital Resources
+
+We have historically used a combination of cash flows from operations and equity and debt financing to support ongoing business activities, acquire or invest in critical or complementary technologies, purchase facilities and capital equipment, repurchase our common stock and debentures under our repurchase program, pay dividends and finance working capital. Additionally, our investments in debt securities are liquid and available for future business needs.
+
+Fiscal 2014 Compared to Fiscal 2013 
+
+Cash, Cash Equivalents and Short-term and Long-term Investments
+
+The combination of cash, cash equivalents and short-term and long-term investments as of March 29, 2014 and March 30, 2013 totaled $3.65 billion and $3.37 billion, respectively. As of March 29, 2014, we had cash, cash equivalents and short-term investments 
+
+35
+of $2.46 billion and working capital of $2.08 billion. As of March 30, 2013, cash, cash equivalents and short-term investments were $1.71 billion and working capital was $1.91 billion.
+
+As of March 29, 2014, we had $1.84 billion of cash and cash equivalents and short-term investments held by our non-U.S. jurisdictions. From a financial statement perspective, approximately $752.6 million of the $1.84 billion held by our non-U.S. jurisdictions was available for use in the U.S. without incurring additional U.S. income taxes in excess of the amounts already accrued in our financial statements as of March 29, 2014. The remaining amount of non-U.S. cash and cash equivalents and short-term investments was permanently reinvested and, therefore, no U.S. current or deferred taxes accrued on this amount, which is intended for investment in our operations outside the U.S. We believe our U.S. sources of cash and liquidity are sufficient to meet our business needs in the U.S. and do not expect that we will need to repatriate the funds we have designated as permanently reinvested outside the U.S. Under current tax laws, should our plans change and we were to choose to repatriate some or all of the funds we have designated as permanently reinvested outside the U.S., such amounts would be subject to U.S. income taxes and applicable non-U.S. income and withholding taxes.
+
+During fiscal 2014, our operations generated net positive cash flow of $804.9 million, which was $148.4 million higher than the $656.5 million generated during fiscal 2013. The positive cash flow from operations generated during fiscal 2014 was primarily from net income as adjusted for non-cash related items and increases in accounts payable and accrued liabilities. These items were partially offset by decrease in income taxes payable as well as increases in accounts receivable, inventories and other assets. 
+
+Net cash provided by investing activities was $28.6 million during fiscal 2014, as compared to net cash used in investing activities of $511.5 million in fiscal 2013. Net cash provided by investing activities during fiscal 2014 consisted of $57.5 million of net sales of available-for-sale securities and $16.0 million of other investing activities, which was partially offset by $44.9 million for purchases of property, plant and equipment (see further discussion below).
+
+Net cash used in financing activities was $483.4 million in fiscal 2014, as compared to $310.3 million in fiscal 2013. Net cash used in financing activities during fiscal 2014 consisted of $1.23 billion in redemption of the 2037 Convertible Notes, $267.3 million dividend payments to stockholders and $241.1 million of cash payment to repurchase common stocks, which was partially offset by $990.1 million of proceeds from issuance of the 2019 and 2021 Notes, $238.2 million of proceeds from issuance of common stock under employee stock plans and $30.8 million for the excess of the tax benefit from stock-based compensation.
+
+Accounts Receivable
+
+Accounts receivable increased by $38.7 million and days sales outstanding (DSO) increased slightly to 41 days at March 29, 2014 from 38 days at March 30, 2013. The increase was primarily due to timing of shipments and collections.
+
+Inventories
+
+Inventories increased to $234.0 million as of March 29, 2014 from $201.3 million as of March 30, 2013, with combined inventory days at Xilinx and distribution increasing to 125 days at March 29, 2014 from 108 days at March 30, 2013. During fiscal 2014 and 2013, our inventory levels were relatively higher than historical trends due to the build ahead of a number of legacy parts in response to the previously planned closure of a particular foundry process line and the build ahead of our 28nm products in anticipation of ramping sales. We expect to ship the vast majority of these parts over the next two years.
+
+We attempt to maintain sufficient levels of inventory in various product, package and speed configurations in order to keep lead times short and to meet forecasted customer demand as well as address potential supply constraints. Conversely, we also attempt to minimize the handling costs associated with maintaining higher inventory levels and to fully realize the opportunities for cost reductions associated with architecture and manufacturing process advancements. We continually strive to balance these two objectives to provide excellent customer response at a competitive cost.
+
+Property, Plant and Equipment
+
+During fiscal 2014, we invested $44.9 million in property, plant and equipment compared to $30.3 million in fiscal 2013. Primary investments in fiscal 2014 were for equipment and building improvements in order to support our New Products development and infrastructures.
+
+Current Liabilities
+
+Current liabilities increased to $989.4 million at the end of fiscal 2014 from $386.8 million at the end of fiscal 2013. The change was primarily due to the reclassification of our convertible debentures as a current liability on our consolidated balance sheet. See 
+
+36
+"Note 13. Debt and Credit Facility" to our consolidated financial statements, included in Item 8. "Financial Statements and Supplementary Data" for information.
+
+Temporary and Stockholders’ Equity
+
+Temporary and stockholders’ equity decreased $175.6 million during fiscal 2014 from $2.96 billion in fiscal 2013 to $2.79 billion in fiscal 2014. The decrease was primarily due to $646.7 million convertible debt extinguishment, $267.3 million of payment of dividends to stockholders, $242.1 million of repurchase of common stock and $9.2 million of other comprehensive loss. These decreases were partially offset by $630.4 million in net income for fiscal 2014, $94.3 million of stock-based compensation, $238.2 million of issuance of common stock under employee stock plans and increase in temporary equity of $35.0 million (see "Note 13. Debt and Credit Facility" to our consolidated financial statements, included in Item 8. "Financial Statements and Supplementary Data" for more information on temporary equity). 
+
+Fiscal 2013 Compared to Fiscal 2012 
+
+Cash, Cash Equivalents and Short-term and Long-term Investments
+
+The combination of cash, cash equivalents and short-term and long-term investments as of March 30, 2013 and March 31, 2012 totaled $3.37 billion and $3.13 billion, respectively. As of March 30, 2013, we had cash, cash equivalents and short-term investments of $1.71 billion and working capital of $1.91 billion. As of March 31, 2012, cash, cash equivalents and short-term investments were $1.92 billion and working capital was $2.11 billion. 
+
+During fiscal 2013, our operations generated net positive cash flow of $656.5 million, which was $170.2 million lower than the $826.7 million generated during fiscal 2012. The positive cash flow from operations generated during fiscal 2013 was primarily from net income as adjusted for non-cash related items and increase in income taxes payable. These items were partially offset by increases in accounts receivable and other assets, as well as decreases in deferred income on shipments to distributors and accounts payable.
+
+Net cash used in investing activities was $511.5 million during fiscal 2013, as compared to $960.9 million in fiscal 2012. Net cash used in investing activities during fiscal 2013 consisted of $396.2 million of net purchases of available-for-sale securities, $85.1 million of other investing activities and $30.3 million for purchases of property, plant and equipment (see further discussion below).
+
+Net cash used in financing activities was $310.3 million in fiscal 2013, as compared to $299.4 million in fiscal 2012. Net cash used in financing activities during fiscal 2013 consisted of $230.5 million dividend payments to stockholders and $197.7 million of repurchase of common stocks, which was partially offset by $107.7 million of proceeds from issuance of common stock under employee stock plans and $10.2 million for the excess of the tax benefit from stock-based compensation.
+
+Accounts Receivable
+
+Accounts receivable increased by $14.2 million and DSOs increased to 38 days at March 30, 2013 from 35 days at March 31, 2012. The increase was primarily due to timing of shipments and collections.
+
+Inventories
+
+Inventories decreased to $201.3 million as of March 30, 2013 from $204.9 million as of March 31, 2012, but combined inventory days at Xilinx and distribution increased slightly to 108 days at March 30, 2013 from 106 days at March 31, 2012. While we were able to manage our inventory and reduce the balance in terms of absolute dollars at the end of fiscal 2013 from prior year, during fiscal 2013 and 2012 our inventory levels were still relatively higher than historical trends due to our decision to build ahead a number of legacy parts in response to the previously planned closure of a particular foundry process line. 
+
+Property, Plant and Equipment
+
+During fiscal 2013, we invested $30.3 million in property, plant and equipment compared to $70.1 million in fiscal 2012. Primary investments in fiscal 2013 were for equipment, building improvements, testers, handlers, software in order to support our New Products development and infrastructures.
+
+Current Liabilities
+
+Current liabilities increased to $386.8 million at the end of fiscal 2013 from $342.8 million at the end of fiscal 2012. The change was primarily due to an increase in the U.S. federal income tax liability, partially offset by the decrease in deferred income on shipments to distributors.
+
+37
+Stockholders’ Equity
+
+Stockholders’ equity increased $255.6 million during fiscal 2013 from $2.71 billion in fiscal 2012 to $2.96 billion in fiscal 2013. The increase was primarily due to $487.5 million in net income for fiscal 2013, $77.9 million of stock-based compensation, $107.7 million of issuance of common stock under employee stock plans and $1.4 million of other comprehensive income. The increase was partially offset by $197.7 million of repurchase of common stock and $230.5 million of payment of dividends to stockholders.
+
+Liquidity and Capital Resources
+
+Cash generated from operations is used as our primary source of liquidity and capital resources. Our investment portfolio is also available for future cash requirements as is our $250.0 million revolving credit facility entered into in December 2011 (expiring in December 2016). We are not aware of any lack of access to the revolving credit facility; however, we can provide no assurance that access to the credit facility will not be impacted by adverse conditions in the financial markets. Our credit facility is not reliant upon a single bank. There have been no borrowings to date under our existing revolving credit facility.
+
+We repurchased 5.2 million shares of our common stock for $242.1 million during fiscal 2014. During fiscal 2013, we used $197.7 million of cash to repurchase 6.2 million shares of common stock. During fiscal 2014, we paid $267.3 million in cash dividends to stockholders, representing $1.00 per common share. During fiscal 2013, we paid $230.5 million in cash dividends to stockholders, representing $0.88 per common share. On February 11, 2014, our Board of Directors declared a cash dividend of $0.29 per common share for the first quarter of fiscal 2015. The dividend is payable on June 4, 2014 to stockholders of record on May 14, 2014. Our common stock and debentures repurchase program and dividend policy could be impacted by, among other items, our views on potential future capital requirements relating to R&D, investments and acquisitions, legal risks, principal and interest payments on our debentures and other strategic investments.
+
+We anticipate that existing sources of liquidity and cash flows from operations will be sufficient to satisfy our cash needs for the foreseeable future. We will continue to evaluate opportunities for investments to obtain additional wafer capacity, to procure additional capital equipment and facilities, to develop new products, and to potentially acquire technologies or businesses that could complement our business. However, the risk factors discussed in Item 1A and below could affect our cash positions adversely. In addition, certain types of investments such as auction rate securities may present risks arising from liquidity and/or credit concerns. In the event that our investments in auction rate securities become illiquid, we do not expect this will materially affect our liquidity and capital resources or results of operations.
+
+As of March 29, 2014, marketable securities measured at fair value using Level 3 inputs were comprised of $20.2 million of student loan auction rate securities. The amount of assets and liabilities measured using significant unobservable inputs (Level 3) as a percentage of the total assets and liabilities measured at fair value was less than 1% as of March 29, 2014. See "Note 3. Fair Value Measurements" to our consolidated financial statements, included in Item 8. "Financial Statements and Supplementary Data," for additional information.
+
+During fiscal 2014, we redeemed $10.3 million of student loan auction rate securities for cash at par value. 
+
+Contractual Obligations
+
+The following table summarizes our significant contractual obligations as of March 29, 2014 and the effect such obligations are expected to have on our liquidity and cash flows in future periods. This table excludes amounts already recorded on our consolidated balance sheet as current liabilities as of March 29, 2014.
+
+[DATA_TABLE_REMOVED]
+
+38
+[DATA_TABLE_REMOVED]
+
+(2)Due to the nature of our business, we depend entirely upon subcontractors to manufacture our silicon wafers and provide assembly and some test services. The lengthy subcontractor lead times require us to order the materials and services in advance, and we are obligated to pay for the materials and services when completed. We expect to receive and pay for these materials and services in the next three to six months, as the products meet delivery and quality specifications.[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+(5)For purposes of this table we have assumed the principal of our debentures will be paid on maturity dates, which is June 15, 2017 for the 2017 Convertible Notes, March 15, 2019 for the 2019 Notes and March 15, 2021 for the 2021 Notes. See "Note 13. Debt and Credit Facility" to our consolidated financial statements, included in Item 8. "Financial Statements and Supplementary Data," for additional information about our debentures.
+
+As of March 29, 2014, $11.5 million of liabilities for uncertain tax positions and related interest and penalties were classified as long-term income taxes payable in the consolidated balance sheet. Due to the inherent uncertainty with respect to the timing of future cash outflows associated with such liabilities, we are unable to reliably estimate the timing of cash settlement with the respective taxing authorities. Therefore, liabilities for uncertain tax positions have been excluded from the contractual obligations table above.
+
+Off-Balance-Sheet Arrangements
+
+As of March 29, 2014, we did not have any significant off-balance-sheet arrangements, as defined in Item 303(a)(4)(ii) of SEC Regulation S-K.
+
+Recent Accounting Pronouncements
+
+See "Note 2. Summary of Significant Accounting Policies and Concentrations of Risk" to our consolidated financial statements, included in Item 8. "Financial Statements and Supplementary Data," for information about recent accounting pronouncements, including the expected dates of adoption and estimated effects, if any, on our consolidated financial statements.
+
+ITEM 7A.QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK

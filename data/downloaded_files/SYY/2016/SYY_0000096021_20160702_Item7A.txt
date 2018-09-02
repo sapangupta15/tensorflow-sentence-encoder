@@ -1,0 +1,63 @@
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk  
+
+Our market risks consist of interest rate risk, foreign currency exchange rate risk, fuel price risk and investment risk. 
+
+Interest Rate Risk 
+
+We do not utilize financial instruments for trading purposes. Our use of debt directly exposes us to interest rate risk. Floating rate debt, where the interest rate fluctuates periodically, exposes us to short-term changes in market interest rates. Fixed rate debt, where the interest rate is fixed over the life of the instrument, exposes us to changes in market interest rates reflected in the fair value of the debt and to the risk that we may need to refinance maturing debt with new debt at higher rates.
+
+46
+
+We manage our debt portfolio to achieve an overall desired position of fixed and floating rates and may employ interest rate swaps as a tool to achieve that position. The major risks from interest rate derivatives include changes in the interest rates affecting the fair value of such instruments, potential increases in interest expense due to market increases in floating interest rates and the creditworthiness of the counterparties in such transactions.
+
+At July 2, 2016, there were no commercial paper issuances outstanding. Total debt as of July 2, 2016 was $7.4 billion, of which approximately 68% was at fixed rates of interest, including the impact of our interest rate swap agreements.
+
+As of June 27, 2015, we had no commercial paper outstanding. Total debt as of June 27, 2015 was $7.3 billion, of which approximately 74% was at fixed rates of interest, including the impact of our interest rate swap agreement. Included in the total debt amount is $5.0 billion in senior notes that were issued in October 2014, for the proposed merger with US Foods. The October 2014 senior notes contained mandatory redemption features providing that, on the earlier of the merger agreement termination date or October 8, 2015, we were required to redeem all of the senior notes at a redemption price equal to 101% of the principal of the senior notes plus accrued interest. In June 2015, we terminated the merger agreement and redeemed the senior notes in July 2015 using cash on hand and the proceeds from borrowings under our commercial paper facility. 
+
+Details of our outstanding swap agreements as of July 2, 2016 are below:
+
+[DATA_TABLE_REMOVED]
+
+We receive or pay amounts on these interest rate swap agreements on a semi-annual basis. 
+
+As noted in Note 9, "Derivative Financial Instruments", the company terminated interest rate swap agreements used to hedge senior notes issued in the second quarter of fiscal 2016. Payments of $6.1 million were made in the second quarter of fiscal 2016.
+
+The following tables present our interest rate position as of July 2, 2016. All amounts are stated in United States (U.S.) dollar equivalents.
+
+47
+
+[DATA_TABLE_REMOVED]
+
+ (1) Includes fixed rate debt that has been converted to floating rate debt through an interest rate swap agreement.
+
+[DATA_TABLE_REMOVED]
+
+Rate A – six-month LIBOR
+
+Rate B - three month LIBOR
+
+Foreign Currency Exchange Rate Risk
+
+The majority of our foreign subsidiaries use their local currency as their functional currency. To the extent that business transactions are not denominated in a foreign subsidiary’s functional currency, we are exposed to foreign currency exchange rate risk. We will also incur gains and losses within our shareholders’ equity due to the translation of our financial statements from foreign currencies into U.S. dollars. Our income statement trends may be impacted by the translation of the income statements of our foreign subsidiaries into U.S. dollars. The exchange rates used to translate our foreign sales into U.S. dollars negatively impacted sales by 1.3% in fiscal 2016 when compared to fiscal 2015. The exchange rate used to translate our foreign sales into U.S. dollars negatively impacted sales by 1% in fiscal 2015 when compared to fiscal 2014. The impact to our operating income, net earnings and earnings per share was not material in fiscal 2016 or fiscal 2015. A 10% unfavorable change in the fiscal 2016 weighted year-to-date exchange rate and the resulting impact on our financial statements would have negatively impacted fiscal 2016 sales by 4% and would not have materially impacted our operating income, net earnings and earnings per share. We do not routinely enter into material agreements to hedge foreign currency exchange rate risks.
+
+The Brakes Acquisition required payment in pounds sterling, euro and Swedish kroner. The company developed a strategy to hedge the currency exposure related to these cash outlays. A portion of this strategy included foreign currency option contracts to protect Sysco from an increase in the foreign exchange rate between the U.S. dollar and the pound sterling. This helped provide downside protection during the time frame the transaction was being reviewed for anti-trust approval and thereafter during the 
+
+48
+
+volatility around the referendum on June 23, 2016 in the United Kingdom to exit the European Union (the U.K. Referendum). Such contracts were considered economic hedges and did not qualify for hedge accounting. In fiscal 2016, the total realized net loss on our economic hedge foreign exchange option contracts was $45.7 million. These contracts were terminated at or near the company's fiscal year end and did not have a material fair value as of July 2, 2016. A second part of our strategy was to accumulate the currency needed for the acquisition once anti-trust approval was received. This accumulation occurred over a period of time prior to, as well as after, the U.K. Referendum. During this period, the currency rates experienced large fluctuations, particularly with regard to the pound sterling. Our approach allowed us to accumulate this cash at an average rate that was better than our target exchange rate established at the time the transaction was announced. We were required to remeasure this foreign denominated cash into U.S. dollars at the conclusion of the fiscal year and incurred a remeasurement loss of $101.2 million. Both of these related to our purchase price for the acquisition of the Brakes Group, which closed shortly after our fiscal year end. With this cash now expended, we no longer have a significant amount of foreign cash that would require remeasurement.
+
+Our Brakes Acquisition will create additional foreign currency exposure. Subsequent to fiscal 2016, we designated €500 million of Euro notes issued in June 2016 and various intercompany notes as hedges of a portion of our net investment in Euro-denominated and Sterling-denominated foreign operations to reduce foreign currency risk associated with the investment in these operations. Changes in the value of these debt items resulting from fluctuations in the underlying exchange rates to U.S. Dollar exchange rates will be recorded as foreign currency translation adjustments within Accumulated other comprehensive income (loss). Subsequent to fiscal 2016, we entered into various cross currency swaps to mitigate the risk of exchange rate changes when an intercompany loan is not in the functional currency of one of our subsidiaries. These have been designated as cash flow hedges with changes to be recorded within foreign currency translation adjustments within Accumulated other comprehensive income (loss). Additional cross currency swaps were entered into to create additional net investment hedges.
+
+Fuel Price Risk 
+
+Due to the nature of our distribution business, we are exposed to potential volatility in fuel prices. The price and availability of diesel fuel fluctuates due to changes in production, seasonality and other market factors generally outside of our control. Increased fuel costs may have a negative impact on our results of operations in three areas. First, the high cost of fuel can negatively impact consumer confidence and discretionary spending and thus reduce the frequency and amount spent by consumers for food-away-from-home purchases. Second, the high cost of fuel can increase the price we pay for product purchases and we may not be able to pass these costs fully to our customers. Third, increased fuel costs impact the costs we incur to deliver product to our customers. During fiscal 2016 and fiscal 2015, fuel costs related to outbound deliveries represented approximately 0.5% and 0.6% of sales, respectively.
+
+Our activities to mitigate fuel costs include routing optimization with the goal of reducing miles driven, improving fleet utilization by adjusting idling time and maximum speeds and using fuel surcharges. We routinely enter into forward purchase commitments for a portion of our projected monthly diesel fuel requirements. As of July 2, 2016, we had forward diesel fuel commitments totaling approximately $84.9 million through May 2017. These contracts will lock in the price of approximately 45% of our fuel purchase needs for fiscal 2017. Our remaining fuel purchase needs will occur at market rates unless contracted for a fixed price or hedged at a later date. Using current, published quarterly market price projections for diesel and estimates of fuel consumption, a 10% unfavorable change in diesel prices from the market price would result in a potential increase of approximately $13.8 million in our fuel costs on our non-contracted volumes.
+
+Investment Risk
+
+Our company-sponsored qualified pension plan (Retirement Plan) holds investments in public and private equity, fixed income securities and real estate funds. The amount of our annual contribution to the plan is dependent upon, among other things, the return on the plan’s assets and discount rates used to calculate the plan’s liability. Fluctuations in asset values can cause the amount of our anticipated future contributions to the plan to increase and can result in a reduction to shareholders’ equity on our balance sheet as of fiscal year-end, which is when this plan’s funded status is measured. Also, the projected liability of the plan will be impacted by the fluctuations of interest rates on high quality bonds in the public markets. To the extent the financial markets experience declines, our anticipated future contributions and funded status will be affected for future years. A 10% unfavorable change in the value of the investments held by our company-sponsored Retirement Plan at the plan’s fiscal year end (December 31, 2015) would not have a material impact on our anticipated future contributions for fiscal 2016; however, this unfavorable change would increase our pension expense for fiscal 2016 by $32.1 million and would reduce our shareholders’ equity on our balance sheet as of July 2, 2016 by $311.5 million.
+
+49
+
+Item 8. Financial Statements and Supplementary Data

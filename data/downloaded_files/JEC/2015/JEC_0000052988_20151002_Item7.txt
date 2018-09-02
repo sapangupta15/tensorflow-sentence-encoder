@@ -1,0 +1,314 @@
+Item 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+Critical Accounting Policies
+
+In order to understand better the changes that occur to key elements of our financial condition, results of operations, and cash flows, a reader of this Management’s Discussion and Analysis (“MD&A”) should be aware of the critical accounting policies we apply in preparing our consolidated financial statements.
+
+The consolidated financial statements contained in this report were prepared in accordance with U.S. GAAP. The preparation of our consolidated financial statements and the financial statements of any business performing long-term engineering and construction-type contracts requires management to make certain estimates and judgments that affect both the entity’s results of operations and the carrying values of its assets and liabilities. Although our significant accounting policies are described in Note 2 – Significant Accounting Policies of Notes to Consolidated Financial Statements beginning on page F-1 of this Annual Report on Form 10-K, the following discussion is intended to highlight and describe those accounting policies that are especially critical to the preparation of our consolidated financial statements.
+
+Revenue Accounting for Contracts and Use of Joint Ventures—In general, we recognize revenues at the time we provide services. Depending on the commercial terms of the contract, we recognize revenues either when costs are incurred, or using the percentage-of-completion method of accounting by relating contract costs incurred to date to the total estimated costs at completion. This method of revenue recognition requires us to prepare estimates of costs to complete contracts in progress as of the balance sheet dates. In making such estimates, judgments are required to evaluate the possible effects of variances in schedule; the costs of materials and labor; productivity; and the impact of change orders, claims, contract disputes, and achievement of contractual performance standards. Many of our engineering and construction contracts provide for reimbursement of costs plus a fixed or percentage fee. For contracts containing incentive fee arrangements, fees are frequently based on achievement of target completion dates, target costs, and/or other performance criteria. Failure to meet these targets or increases in contract costs can result in unrealized incentive fees or non-recoverable costs, which could exceed revenues recognized from the project.
+
+We provide for contract losses in their entirety in the period they become known without regard to the percentage of completion. For multiple contracts with a single customer we account for each contract separately.
+
+The nature of our business sometimes results in clients, subcontractors or vendors presenting claims to us for recovery of costs they incurred in excess of what they expected to incur, or for which they believe they are not contractually responsible. In those situations where a claim against us may result in additional costs to the contract, we include in the total estimated costs of the contract (and therefore, the estimated amount of margin to be earned under the contract) an estimate, based on all relevant facts and circumstances available, of the additional costs to be incurred. Similarly, and in the normal course of business, we may present claims to our clients for costs we have incurred for which we believe we are not contractually responsible. In those situations where we have presented such claims to our clients, we include in revenues the amount of costs incurred, without profit, to the extent it is probable that the claims will result in additional contract revenue, and the amount of such additional revenue can be reliably estimated. Costs associated with unapproved change orders are included in revenues using substantially the same criteria used for claims.
+
+Certain cost-reimbursable contracts with government customers as well as many commercial clients provide that contract costs are subject to audit and adjustment. In this situation, revenues are recorded at the time services are performed based upon the amounts we expect to realize upon completion of the contracts. In those situations where an audit indicates that we may have billed a client for costs that are not allowable under the terms of the contract, we estimate the amount of such nonbillable costs and adjust our revenues accordingly.
+
+As is common to the industry, we execute certain contracts jointly with third parties through various forms of joint ventures and consortiums. Although the joint ventures own and hold the contracts with the clients, the services required by the contracts are typically performed by us and our joint venture partners, or by other subcontractors under subcontracting agreements with the joint ventures. The assets of our joint ventures, therefore, consist almost entirely of cash and receivables (representing amounts due from clients), and the liabilities of our joint ventures consist almost entirely of amounts due to the joint venture partners (for services provided by the partners to the joint ventures under their individual subcontracts) and other subcontractors. In general, at any given time, the equity of our joint ventures represents the undistributed profits earned on contracts the joint ventures hold with clients. Very few of our joint ventures have employees. None of our joint ventures have 
+
+Page 39
+third-party debt or credit facilities. Our joint ventures, therefore, are simply mechanisms used to deliver engineering and construction services to clients. Rarely do they, in and of themselves, present any risk of loss to us or to our partners separate from those that we would carry if we were performing the contract on our own. Under U.S. GAAP, our share of losses associated with the contracts held by the joint ventures, if and when they occur, has always been reflected in our Consolidated Financial Statements.
+
+In evaluating the Company's joint ventures (also referred to as "variable interest entities", or "VIEs") for accounting and consolidation purposes, we perform a qualitative analysis to determine whether or not the Company has a “controlling financial interest” in the VIE. The Company is deemed to have a controlling financial interest in a VIE if it has (i) the power to direct the activities of the VIE that most significantly impact the VIE's economic performance; and (ii) the right to receive benefits, or obligation to absorb losses, that could potentially be significant to the VIE. In making our qualitative analysis, the Company assesses each VIE to determine those activities that most significantly impact the VIE's economic performance and whether the Company, another entity, or multiple entities have the power to direct those activities.
+
+ If we determine that we have the power to direct those activities of the VIE that most significantly impact its financial performance and have the right or obligation to receive benefits or absorb losses that could potentially be significant to the VIE, then we are the primary beneficiary of the VIE and we consolidate the VIE. If we determine that we do not have the power to direct the most significant activities of the VIE or power is shared by two or more unrelated parties, then we are not the primary beneficiary and we do not consolidate the VIE.
+
+For the Company's unconsolidated joint ventures, we use either the equity method of accounting or proportional consolidation. The Company does not currently participate in any significant VIEs in which it has a controlling financial interest. There were no changes in facts and circumstances in the period that caused the Company to reassess the method of accounting for its VIEs.
+
+Accounting for Stock Issued to Employees and Others— We measure the cost of employee services received in exchange for an award of equity instruments based on the estimated grant-date fair value of the award. We estimate the fair value of stock options granted to employees and directors using the Black-Scholes option-pricing model. Like all option-pricing models, the Black-Scholes model requires the use of highly subjective assumptions including (i) the expected volatility of the market price of the underlying stock, and (ii) the expected term of the award, among others. Accordingly, changes in assumptions and any subsequent adjustments to those assumptions can cause drastically different fair values to be assigned to our stock option awards. For restricted stock units containing service and performance conditions with measures external to the Company, compensation expense is based on the fair value of such units determined using Monte Carlo Simulations. Due to the uncertainties inherent in the use of assumptions and the results of applying Monte Carlo Simulations, the amount of expense recorded in the accompanying consolidated financial statements may not be representative of the effects on our future consolidated financial statements because equity awards tend to vest over several years and additional equity awards may be made in the future.
+
+Accounting for Pension Plans— The accounting for pension plans requires the use of assumptions and estimates in order to calculate periodic pension cost and the value of the plans’ assets and liabilities. These assumptions include discount rates, investment returns, and projected salary increases, among others. The actuarial assumptions used in determining the funded statuses of the plans are provided in Note 6 – Pension Plans of Notes to Consolidated Financial Statements beginning on page F-1 of this Annual Report on Form 10-K.
+
+The expected rates of return on plan assets for fiscal 2016 range from 3.5% to 8.5% compared to 4.5% to 8.5% for the prior year. We believe the range of rates selected for fiscal 2016 reflects the long-term returns expected on the plans’ assets, considering recent market conditions, projected rates of inflation, the diversification of the plans’ assets, and the expected real rates of market returns. The discount rates used to compute plan liabilities were changed from a range of 1.8% to 8.8% in fiscal 2014 to a range of 1.6% to 7.8% in fiscal 2015. These assumptions represent the Company’s best estimate of the rates at which its pension obligations could be effectively settled.
+
+Changes in the actuarial assumptions often have a material effect on the values assigned to plan assets and liabilities, and the associated pension expense. For example, if the discount rate used to value the net pension benefit obligation (“PBO”) at October 2, 2015, was higher (lower) by 0.5%, the PBO would have been lower (higher) at that date by approximately $102.1 million for non-U.S. plans, and by approximately $25.8 million for U.S. plans. If the expected return on plan assets was higher (lower) by 1.0%, the net periodic pension cost for fiscal 2016 would be lower (higher) by approximately $9.0 million for non-U.S. plans, and by approximately $3.6 million for U.S. plans. Differences between actuarial assumptions and actual performance (i.e., actuarial gains and losses) that are not recognized as a component of net periodic pension cost in the period in which such differences 
+
+Page 40
+arise are recorded to accumulated other comprehensive income (loss) and are recognized as part of net periodic pension cost in future periods in accordance with U.S. GAAP. Management monitors trends in the marketplace within which our pension plans operate in an effort to assure the fairness of the actuarial assumptions used.
+
+Contractual Guarantees, Litigation, Investigations, and Insurance— In the normal course of business, we are subject to certain contractual guarantees and litigation. The guarantees to which we are a party generally relate to project schedules and plant performance. Most of the litigation in which we are involved has us as a defendant in workers’ compensation; personal injury; environmental; employment/labor; professional liability; and other similar lawsuits. We maintain insurance coverage for various aspects of our business and operations. We have elected, however, to retain a portion of losses that occur through the use of various deductibles, limits, and retentions under our insurance programs. This situation may subject us to some future liability for which we are only partially insured, or completely uninsured, and we intend to mitigate any such future liability by continuing to exercise prudent business judgment in negotiating the terms and conditions of our contracts.
+
+In accordance with U.S. GAAP, we record in our Consolidated Balance Sheets amounts representing our estimated liability relating to such guarantees, litigation, and insurance claims. We include any adjustments to such liabilities in our consolidated results of operations.
+
+In addition, as a contractor providing services to the U.S. federal government and several of its agencies, we are subject to many levels of audits, investigations, and claims by, or on behalf of, the U.S. federal government with respect to contract performance, pricing, costs, cost allocations, and procurement practices. We adjust revenues based upon the amounts we expect to realize considering the effects of any client audits or governmental investigations.
+
+Testing Goodwill for Possible Impairment— The goodwill carried on our Consolidated Balance Sheets is tested annually for possible impairment. In performing the annual impairment test, we evaluate our goodwill at the reporting unit level. For fiscal 2015 and consistent with prior years, we determined that we have two reporting units, which are based on geography. We refer to these reporting units internally as “Europe” and “Non-Europe”. Each of our reporting units conducts the business activities described elsewhere in this 2015 Form 10-K, which includes providing professional technical services such as design, engineering, and architectural services; construction and/or construction management services; and operations and maintenance services.
+
+Our geography-based reporting units reflect the Company’s organizational structure, which is based predominately on geography, as well as our acquisition strategy, which favors acquisition targets that, among other things, provide access to new geographic areas. Our reporting units represent rational groupings into which substantially all of our major acquisitions (which are responsible for the goodwill appearing in our Consolidated Balance Sheets) have been assimilated, and where all of the operations under each reporting unit share in the benefits of the goodwill created by our acquisitions.
+
+During the first quarter of fiscal 2016, we announced a reorganization of our operations around four global lines of business. This reorganization is intended to better serve our global clients, leverage our workforce, help streamline operations, and provide enhanced growth opportunities. The four global lines of business are: Petroleum & Chemicals, Buildings & Infrastructure, Aerospace & Technology, and Industrial. Each business unit has a president that reports directly to the Company's President & CEO. As part of the reorganization, certain support functions (i.e. Sales), which have been managed centrally for many years, will be embedded in the new business units and will report to the respective line of business presidents. The costs of other support functions (e.g., accounting, legal, human resources, and information technology) and certain other activities (e.g., global insurance) will either be assigned or allocated to each new business unit using a rationale method of assignment / allocation, or will remain an element of corporate general and administrative expenses. In addition, the Company has significantly modified its major cash incentive plan utilizing forecasted performance metrics aligned along the new lines of business. We are in the process of modifying our systems and work processes to report the results of these business units accurately and timely. We are also developing processes for accurately eliminating inter-unit revenue and profit. We expect to complete our system and other process changes so that we may accurately report operating results by line of business to the Company's President & CEO no later than the second quarter of fiscal 2016.
+
+U.S. GAAP does not prescribe a specific valuation method for estimating the fair value of reporting units. The valuation technique used to estimate the fair value of the reporting units requires the use of significant estimates and assumptions, including revenue growth rates, operating margins, discount rates and future market conditions, among others.
+
+For fiscal years 2014 through 2015, we used both an income approach and a market approach to test our goodwill for possible impairment. Such approaches require us to make estimates and judgments. Under the income approach, fair value is 
+
+Page 41
+determined by using the discounted cash flows of our reporting units. Under the market approach, the fair value of our reporting units is determined by reference to guideline companies that are reasonably comparable to our reporting units; the fair values are estimated based on the valuation multiples of the invested capital associated with the guideline companies. In assessing whether there is an indication that the carrying value of goodwill has been impaired, we utilize the results of both valuation techniques and consider the range of fair values indicated. The fair values for each reporting unit exceeded the respective book values by over 20% to 40%. The key assumptions used to determine the fair value of our reporting units in our testing were: 
+
+Income Approach
+
+With respect to the income approach, we utilized internal financial projections through fiscal 2018 (for the fiscal 2014 impairment analysis) and fiscal 2019 (for the fiscal 2015 impairment analysis). We assumed a weighted average cost of capital of 11.00% (for the fiscal 2014 impairment analysis) and 11.25% (for the fiscal 2015 impairment analysis). We also assumed a residual period growth rate of 3.00% (for both the fiscal 2014 and fiscal 2015 impairment analyses).
+
+Market Approach 
+
+With respect to the market approach, for guideline publicly traded companies reasonably comparable to the Company's reporting units, the Company used multiples ranging from 5.9 to 7.6 of EBITDA (earnings before interest, taxes, depreciation, and amortization) and 7.6 to 10.0 of EBIT (earnings before interest and taxes), for the fiscal year 2014 test applied to the projected fiscal year 2014 to 2016 financial results for each of our reporting units. The Company used multiples ranging from 6.3 to 6.4 of EBITDA and 7.4 to 7.5 of EBIT, for the fiscal year 2015 test applied to the projected fiscal year 2015 to 2017 financial results for each of our reporting units.
+
+It is possible that changes in market conditions, economy, facts and circumstances, judgments, and assumptions used in estimating the fair value could change, resulting in possible impairment of goodwill in the future. The fair values resulting from the valuation techniques used are not necessarily representative of the values we might obtain in a sale of the reporting units to willing third parties.
+
+The Company performs the annual goodwill impairment test for the reporting units at the end of the third quarter of our fiscal year. The Company will test goodwill for impairment between annual tests if an event occurs or circumstances change that would more likely than not reduce the fair value of a reporting unit below its carrying amount. We have determined that the fair value of our reporting units substantially exceeded their respective carrying values for fiscal years 2015, 2014, and 2013.
+
+Based on the most recent results of our annual impairment tests, there were no indications of impairment of the goodwill shown in our Consolidated Balance Sheets at either October 2, 2015, or September 26, 2014. Furthermore, the Company performed an interim impairment assessment at October 2, 2015, and concluded that it was not more likely than not that the fair value of either reporting unit had been reduced to an amount below its carrying amount.
+
+Page 42
+Fiscal 2015 — Overview
+
+Fiscal Year
+
+The Company’s fiscal year ends on the Friday closest to September 30 (determined on the basis of the number of workdays) and, accordingly, an additional week of activity is added every five-to-six years. Fiscal 2015 results of operations includes an additional week of operations as compared to fiscal 2014 and fiscal 2013, which was not material to the Company's fiscal 2015 consolidated results of operations.
+
+The 2015 Restructuring
+
+During the second quarter of fiscal 2015, the Company commenced a series of initiatives intended to improve operational efficiency, reduce costs, and better position itself to drive growth of the business in the future (the "2015 Restructuring"). Actions related to the 2015 Restructuring completed during the fiscal year include involuntary terminations, the abandonment of certain leased offices, combining operational organizations, and the co-location of employees into other existing offices. We are not exiting any service types or client end-markets. The Company's consolidated results of operations for fiscal 2015 include a $157.2 million pre-tax impact relating to costs associated with the 2015 Restructuring. The costs of the 2015 Restructuring are almost entirely included in selling, general, and administrative expense in the accompanying Consolidated Statements of Earnings. The Company expects to largely complete the 2015 Restructuring by the end of the first quarter of fiscal 2016. The following table summarizes the effects of the 2015 Restructuring on the Company's consolidated results of operations for fiscal 2015 (in thousands, except for earnings per share):
+
+[DATA_TABLE_REMOVED]
+
+The 2015 Inter-company Debt Refinancing
+
+During the third quarter of fiscal 2015, the Company completed the refinancing of certain international inter-company debt (the "2015 Inter-company Debt Refinancing"). The 2015 Inter-company Debt Refinancing resulted in a one-time tax benefit of $23.1 million, or $0.18 per share. 
+
+The 2014 Restructuring and Other Unusual Events Affecting Fiscal 2014
+
+During the third quarter of fiscal 2014, the Company initiated the "2014 Restructuring". In recognition of the slowdown in several of the Company's clients' end markets, the Company implemented a series of initiatives which, much like the 2015 Restructuring, were intended to improve operational efficiency and reduce costs, and also to accelerate the integration of SKM.
+
+In addition to the 2014 Restructuring and the acquisition of SKM, the Company's consolidated results of operations for fiscal 2014 were affected by the following discrete events:
+
+•$6.8 million, or $0.05 per diluted share, increase to net earnings due to the favorable resolution of an international tax matter in the first quarter of fiscal 2014; as a result of these events, approximately $4.1 million of accrued interest expense was reversed;
+
+•$6.4 million, or $0.05 per diluted share, increase to net earnings related to a gain on the sale of certain intellectual property in the second quarter of fiscal 2014;
+
+Page 43
+•$22.7 million, or $0.18 per diluted share, decrease to net earnings relating to certain specific operational events at SKM and SKM transaction-related costs and expenses incurred during the first half of the fiscal year; and
+
+•$22.3 million, or $0.16 per diluted share, decrease to net earnings due to lower margins associated with certain projects in Europe combined with unusual weather effects in the second quarter of fiscal 2014.
+
+As used herein, the term "2014 Events" refers to the combined effects of both the 2014 Restructuring and the unusual events described above. Within this MD&A, the Company may disclose and discuss its results of operations before the effects of the 2015 Restructuring, the 2014 Events and/or certain other transactions and events described herein. Although such information is non-GAAP in nature, it is presented because management believes it provides a better view of the Company’s operating results to investors to assess the Company’s performance and operating trends. As used herein, the terms "adjusted earnings" and "adjusted net earnings" refer to the Company's GAAP earnings as adjusted to eliminate the effects of the 2014 Events (when used in reference to fiscal 2014 results of operations) and the 2015 Restructuring (when used in reference to fiscal 2015 results of operations).
+
+2015 Overview
+
+The Company's GAAP net earnings for fiscal 2015 decreased by $25.1 million, or 7.6%, compared to fiscal 2014. Included in net earnings for fiscal 2015 is the 2015 Inter-company Debt Refinancing. Included in our fiscal year 2015 results was a $12.1 million negative impact related to the strengthening U.S. Dollar. Excluding the effects of the 2015 Restructuring and the 2014 Restructuring, the Company's adjusted net earnings for fiscal 2015 decreased by $26.4 million, or 6.0%, compared to the prior year. 
+
+The effects of lower prices of crude oil and certain commodities, including copper and iron ore, continue to present headwinds for clients operating in the Refining-Downstream, Oil & Gas-Upstream, and Mining and Minerals industries and markets. Our Infrastructure and National Government Programs groups continue to perform well. Actions taken pursuant to the 2015 Restructuring have begun to lower the Company's overall cost structure, which is helping to offset the negative pressures we are experiencing in certain of our markets.
+
+The Company's results for fiscal 2015 when compared to the prior year were positively impacted by (i) the SKM acquisition, which is included for all of fiscal 2015 compared to only approximately 9-1/2 months in fiscal 2014 and, to a lesser degree, (ii) the other acquisitions completed during fiscal 2014 (described below). Also influencing the comparability of the Company's fiscal 2015 results of operations to fiscal 2014 were the 2015 Restructuring and the 2014 Events. 
+
+The following table summarizes the effects of the 2014 Events on the Company's consolidated results of operations for fiscal 2014 (in thousands, except for earnings per share):
+
+[DATA_TABLE_REMOVED]
+
+Backlog at October 2, 2015 was $18.8 billion, and represents an increase of 2.3% over backlog at September 26, 2014. Backlog remains near record levels despite the negative effects on backlog stemming from foreign exchange. New prospects and new sales remain strong and the Company continues to have a positive outlook for many of the industry groups and markets in which our clients operate.
+
+Page 44
+During fiscal 2015, the Company repurchased and retired 9.7 million shares of its common stock under its share repurchase program. Total cash spent for the shares repurchased during fiscal 2015 was $422.3 million. As of October 2, 2015, the Company exhausted the $500 million approved by the Board of Directors on August 19, 2014. On July 23, 2015, the Board of Directors approved a program to purchase an additional $500 million of the Company's common stock over the next three years. 
+
+Business Combinations Completed During Fiscal 2014
+
+In December 2013, the Company acquired all of the outstanding equity interests in SKM. The acquisition of SKM is described in more detail under Notes to Consolidated Financial Statements, below, as well as on page 7 and beginning on page F-11 of our Annual Report on Form 10-K. 
+
+We also completed a number of other acquisitions during fiscal 2014 including Federal Network Systems LLC ("FNS", formerly a subsidiary of Verizon); Eagleton Engineering, LLC; FMHC Corporation; Stobbarts (Nuclear) Limited; Trompeter Enterprises; and MARMAC Field Services, Inc. The results of operations of these other acquisitions were not material, individually or in the aggregate, to the Company's consolidated results of operations for fiscal 2014. During fiscal 2014, we also acquired an additional 15% interest in Jacobs, Zamel and Turbag Consulting Engineers Company ("ZATE"). This transaction brought the Company's ownership in ZATE to 75%. 
+
+Consistent with other business combinations we have completed in the past, we began integrating SKM and the other businesses we acquired last year into our existing operations almost immediately after each business was acquired. Accordingly, it is not practicable to provide complete financial information for fiscal 2015 on a stand-alone basis for any of the businesses we acquired last year.
+
+Results of Operations
+
+General
+
+Our business focuses exclusively on providing technical professional services and field services to a large number of industrial, commercial, and governmental clients around the world. The services we provide generally fall into four broad categories:
+
+•Project Services (including engineering, design, architecture, interiors, planning, environmental, and similar services);
+
+•Process, Scientific, and Systems Consulting Services (including services performed in connection with scientific testing, analysis, and consulting activities, as well as information technology and systems engineering and integration activities);
+
+•Construction Services (encompassing traditional field construction services as well as modular construction consulting services, direct hire construction, and construction management services); and
+
+•Operations and Maintenance Services (including services performed in connection with operating large, complex facilities on behalf of clients, as well as services involving process plant and facilities maintenance).
+
+The scope of services we can provide our clients, therefore, ranges from consulting and conceptual design services (which are often required by clients in the very early stages of a project) to complete single-responsibility, design-build contracts, to services required in the post start-up phases of a project such as O&M services.
+
+Page 45
+The following table sets forth our revenues by type of service for each of the last three fiscal years (in thousands):
+
+[DATA_TABLE_REMOVED]
+
+Project Services revenues for the year ended October 2, 2015 decreased $269.0 million, or 4.1%, from the corresponding period last year. The decrease in Project Services revenues was due primarily to the lower business volumes in the Refining - Downstream and Chemicals and Polymers markets, particularly in North American and U.K., driven principally by the decline in oil and other commodity prices, combined with the effects of the strengthening U.S. dollar.
+
+Process, Scientific, and Systems Consulting revenues for the year ended October 2, 2015 increased $429.5 million, or 56.6%, from the corresponding period last year. The increase was due primarily to the FNS acquisition completed during the fourth quarter of fiscal 2014. The revenues in this service type relate to science, engineering, and technical support services provided primarily to the U.S. federal government clients and its various agencies. 
+
+Construction revenues for the year ended October 2, 2015 decreased $846.9 million, or 20.5%, from the corresponding period last year. The decrease was primarily due to the winding down of a U.S. project in the Mining and Minerals market combined with lower business volume in the Refining - Downstream line of business.
+
+Operations and Maintenance revenues for the year ended October 2, 2015 increased $106.1 million, or 8.7%, from the corresponding period last year. The increase was primarily due to higher volume in the Chemicals and Polymers and Refining-Downstream markets, partially offset by a decline in National Government Programs.
+
+We focus our services on clients operating in select industry groups and markets. We believe these industry groups and markets have sufficient common needs to permit cross-utilization of our resources. The following table sets forth our revenues by these industry groups and markets for each of the last three fiscal years (in thousands):
+
+[DATA_TABLE_REMOVED]
+
+Revenues decreased $580.3 million, or 4.6%, from $12.7 billion for fiscal 2014 to $12.1 billion for fiscal 2015. Revenues for fiscal year 2015 include a negative impact of $561.0 million related to the strengthening U.S. Dollar.
+
+Page 46
+Revenues from clients operating in the National Government Programs market increased $361.6 million, or 15.8%, to $2.6 billion from $2.3 billion for the corresponding period last year. The increase was due primarily to the FNS acquisition completed during the fourth quarter of fiscal 2014.
+
+Revenues from projects for clients operating in the Chemicals and Polymers industries decreased $604.6 million, or 20.3%, to $2.4 billion from $3.0 billion for the corresponding period last year. The decrease in revenues was due primarily to the normal winding-down and completion of certain projects in the U.S, the U.K, and Europe. Although we continue to receive new awards for FEED (front-end engineering design) and pre-FEED services, larger integrated oil companies continue to re-evaluate their investment opportunities considering current oil prices. We have long-term relationships with numerous chemical companies around the world, and we believe this industry group will provide growth opportunities in the long-term. The acquisition of SKM strengthened our capabilities for customers operating in this market as evidenced by a significant professional services contract we were awarded for what will be the largest chlorine dioxide plant in the world, located in Asia. 
+
+Revenues from clients operating in the Refining - Downstream market decreased $283.6 million, or 12.7%, to $2.0 billion from $2.2 billion for the corresponding period last year. The decrease occurred within our operations in Canada, Europe, and the U.K.
+
+Revenues from clients operating in the Infrastructure market increased $264.3 million, or 19.4%, from $1.4 billion for fiscal 2014 to $1.6 billion for fiscal 2015. The increase was due primarily to increased activity in the U.K., the U.S., and Australia. We believe market conditions may continue to improve within this industry group, particularly for transportation, water, and certain other projects around the globe (although there is higher uncertainty in U.S. federal funding for certain highway projects). One example is the Asset Management Programme (AMP6) cycle in the U.K., where we provide a full range of professional services, including regulatory strategic consultancy, engineering, project support and asset maintenance.
+
+Revenues on projects for clients operating in the Oil & Gas-Upstream market increased $55.9 million, or 6.5%, to $919.2 million from $863.3 million for the corresponding period last year. The increase was due primarily to higher business volume in the U.S. and the Middle East, partially offset by a decrease in Canada. The Company believes that the recent decline in crude oil prices has dampened our client's near-term capital spending plans. As a result, we expect certain clients to begin deploying more of their capital budgets to sustaining capital-type programs (small-cap projects and maintenance-driven work), an area where the Company is strong. 
+
+Revenues from clients operating in the Buildings market increased $66.9 million, or 8.0%, from $834.1 million for fiscal 2014 to $901.0 million for fiscal 2015. We saw growth globally with health care, higher education, mission critical, and certain other technically complex buildings and facilities supported by the acquisition of SKM. We view the Buildings market as improving as our business in this industry group continues to shift towards projects for clients in the private sector.
+
+Revenues from clients operating in the Mining and Minerals markets decreased $461.7 million, or 50.3%, from $918.6 million for fiscal 2014 to $456.9 million for fiscal 2015. The decrease was due to the winding down of several projects in North and South America and Australia without significant new work being added. Globally, continuing pressure on commodity prices have caused our clients in these industries to behave more conservatively when it comes to new spend. It is possible that this situation may continue for the foreseeable future. Accordingly, the Company is refocusing and reallocating its resources onto brownfield and sustaining capital-type projects. Longer-term, we believe we are well positioned to realize incremental business when the current pricing environment improves. 
+
+Direct costs of contracts decreased $474.9 million, or 4.5%, from $10.62 billion during fiscal 2014 to $10.15 billion during fiscal 2015. Direct costs of contracts include all costs incurred in connection with and directly for the benefit of client contracts, including depreciation and amortization relating to assets used in connection with providing the services required by client projects. The level of direct costs of contracts may fluctuate between reporting periods due to a variety of factors including the amount of pass-through costs we incur during a period. On those projects where we are responsible for subcontract labor or third-party materials and equipment, we reflect the amounts of such items in both revenues and costs (and we refer to such costs as “pass-through costs”). On other projects, where the client elects to pay for such items directly and we have no associated responsibility for such items, these amounts are not considered pass-through costs and are, therefore, not reflected in either revenues or costs. To the extent that we incur a significant amount of pass-through costs in a period, our direct cost of contracts are likely to increase as well.
+
+Pass-through costs decreased $352.2 million, or 11.9%, from $2.95 billion during fiscal 2014 to $2.60 billion for fiscal 2015. In general, pass-through costs are more significant on projects that have a higher content of field services activities. Pass-
+
+Page 47
+through costs are generally incurred at a specific point in the lifecycle of a project and are highly dependent on the needs of our individual clients and the nature of the clients’ projects. However, because we have hundreds of projects which start at various times within a fiscal year, the effect of pass-through costs on the level of direct costs of contracts can vary between fiscal years without there being a fundamental or significant change to the underlying business. 
+
+As a percentage of revenues, direct costs of contracts were 83.8% for fiscal 2015, compared to 83.7% for fiscal 2014. The relationship between direct costs of contracts and revenues will fluctuate between reporting periods depending on a variety of factors including the mix of business during the reporting periods being compared as well as the level of margins earned from the various types of services provided. Generally speaking, the more procurement we do on behalf of our clients (i.e., where we purchase equipment and materials for use on projects, and/or procure subcontracts in connection with projects) and the more field services revenues we have relative to technical, professional services revenues, the higher the ratio will be of direct costs of contracts to revenues. Because revenues from pass-through costs typically have lower margin rates associated with them, it is not unusual for us to experience an increase or decrease in such revenues without experiencing a corresponding increase or decrease in our gross margins and operating profit. The ratio of direct costs of contracts to revenues was flat over the prior year period.
+
+Selling, general, and administrative ("SG&A") expenses for fiscal 2015 decreased by $22.9 million, or 1.5%, to $1.52 billion, compared to $1.55 billion for fiscal 2014. The decrease in SG&A expenses was primarily due to lower costs stemming from the 2014 Events, which were partially offset by increased costs related to the 2015 Restructuring. Excluding the effects of the 2015 Restructuring and the 2014 Events, adjusted SG&A expenses for fiscal 2015 decreased $67.4 million, or 4.7%, to $1.37 billion from $1.44 billion for the corresponding period last year.
+
+Net interest expense for fiscal 2015 increased $10.5 million to $12.2 million from $1.7 million in fiscal 2014. Included in net interest expense for fiscal 2014 was the reversal of $4.1 million of accrued interest expense recorded in connection with income tax liabilities relating to certain contested international tax matters which were favorably resolved during the first quarter of fiscal 2014. Adjusting for this reversal of expense, net interest expense for fiscal 2014 was $5.9 million. 
+
+The Company's effective income tax rate for fiscal 2015 declined to 23.5% from 35.1% in fiscal 2014. The decrease was primarily the result of the $23.1 million, or $0.18 per share, tax benefit related to the 2015 Inter-company Debt Refinancing discussed earlier. Also contributing to the decrease in the tax rate when compared to prior year were the benefits realized by other, individually insignificant discrete and non-discrete items realized in the third and fourth quarters of fiscal 2015.
+
+Fiscal 2014 Compared to Fiscal 2013
+
+The Company’s net earnings decreased $95.0 million, or 22.5%, from $423.1 million for fiscal 2013 to $328.1 million for fiscal 2014. In addition to the effects of the 2014 Restructuring and the acquisition of SKM, the Company's consolidated results of operations for fiscal 2014 were affected by the other 2014 events described above.
+
+Revenues increased $876.8 million, or 7.4%, from $11.8 billion for fiscal 2013 to $12.7 billion for fiscal 2014.
+
+Revenues from clients operating in the Chemicals and Polymers industries increased $594.2 million, or 24.9%, from $2.4 billion for fiscal 2013 to $3.0 billion for fiscal 2014. This increase occurred throughout many of the geographic locations in which we operate. We continued to receive new awards for FEED (front-end engineering design) and pre-FEED services. 
+
+Revenues from clients operating in the Infrastructure market increased $345.7 million, or 34.0%, from $1.0 billion for fiscal 2013 to $1.4 billion for fiscal 2014. SKM contributed approximately 50.0% of the increase, with the U.K. and U.S. legacy operations contributing to the remainder of the increase. 
+
+Revenues from clients operating in the Buildings market increased $95.7 million, or 13.0%, from $738.4 million for fiscal 2013 to $834.1 million for fiscal 2014. Although SKM was responsible for most of this increase, the Company saw growth in our U.S. and Middle East markets. 
+
+Revenues from clients operating in the Mining and Minerals markets increased $206.3 million, or 29.0%, from $712.3 million for fiscal 2013 to $918.6 million for fiscal 2014. The increased revenues in 2014 was due primarily to SKM. Globally, our clients in these industries behaved relatively conservatively during fiscal 2014 when it cames to new spend. 
+
+Page 48
+Revenues from clients operating in the Pharmaceutical and Biotechnology markets decreased $70.8 million, or 13.5%, from $523.5 million for fiscal 2013 to $452.7 million for fiscal 2014. The decrease in revenues were due primarily to the normal wind-down and completion of projects, including work on several vaccine plants located in North America. 
+
+ Revenues from clients operating in the Industrial and Other category decreased $141.7 million, or 15.8%, from $899.8 million for fiscal 2013 to $758.0 million for fiscal 2014. The decrease in revenues was due primarily to decreased activity in the Pulp & Paper market in the U.S. and the High-Technology Manufacturing market in Ireland. 
+
+Direct costs of contracts increased $645.3 million, or 6.5%, from $9.98 billion during fiscal 2013 to $10.62 billion during fiscal 2014. Pass-through costs increased $330.0 million, or 12.6%, from $2.62 billion during fiscal 2013 to $2.95 billion for fiscal 2014. 
+
+As a percentage of revenues, direct costs of contracts were 83.7% for fiscal 2014, compared to 84.4% for fiscal 2013. The ratio of direct costs of contracts to revenues over the prior year period decreased, primarily as a result of higher margins in both professional technical services and field services activities and the acquisition of SKM.
+
+SG&A expenses for fiscal 2014 increased by $372.4 million, or 31.7%, to $1.55 billion, compared to $1.17 billion for fiscal 2013. The increase in SG&A expenses reflects the effects of the 2014 Restructuring discussed above as well as the results of operations of SKM. Also included in SG&A expenses for the current fiscal year are transaction-related expenses incurred in connection with the SKM acquisition of $9.2 million. Also included in SG&A expenses for fiscal 2014 are due diligence and other transaction-related costs incurred in connection with other mergers and acquisition activity.
+
+Net interest expense for fiscal 2014 decreased $5.8 million to $1.7 million from $7.5 million in fiscal 2013. The decrease is related to the reassessment during fiscal 2014 of a tax matter involving one of our international subsidiaries which resulted in the reversal of $8.1 million of accrued interest, offset in part by the net impacts of the SKM acquisition.
+
+The Company’s consolidated effective income tax rate was 35.1% for fiscal 2014, compared to 33.5% in fiscal 2013. Contributing to the increase as compared to the prior year was the effect of the 2014 Restructuring. Also contributing to the higher effective tax rate is the stamp duty paid in the first quarter of fiscal 2014 related to the SKM acquisition.
+
+Contractual Obligations
+
+The following table sets forth certain information about our contractual obligations as of October 2, 2015 (in thousands):
+
+[DATA_TABLE_REMOVED]
+
+(a)Assumes the Company will make the end of lease term residual value guarantee payment of $62.4 million in 2025 with respect to the lease of an office building in Houston, Texas. Please refer to Note 10—Commitments and Contingencies, and Derivative Financial Instruments of Notes to Consolidated Financial Statements beginning on page F-1 of this Annual Report on Form 10-K.
+
+(b)Assumes that future contributions will be consistent with amounts projected to be contributed in fiscal 2016, allowing for certain growth based on rates of inflation and salary increases, but limited to the amount recorded as of October 2, 2015. Actual contributions will depend on a variety of factors, including amounts required by local laws and regulations, and other funding requirements.
+
+Page 49
+[DATA_TABLE_REMOVED]
+
+(d)Represents those liabilities estimated to be under firm contractual commitments as of October 2, 2015; primarily accounts payable and accrued payroll.
+
+(e)Determined based on borrowings outstanding at the end of fiscal 2015 using the interest rates in effect at that time and, for our outstanding long term debt, concluding with the expiration date of the 2014 Facility, as defined below.
+
+Backlog
+
+Backlog represents the total dollar amount of revenues we expect to record in the future as a result of performing work under contracts that have been awarded to us. We include in backlog the entire value of contracts at the time the contracts are awarded to us or when we have otherwise been authorized by the client to proceed with the services required by the contracts. With respect to O&M contracts, however, we include in backlog the amount of revenues we expect to receive for only one succeeding year, regardless of the remaining life of the contract. For national government programs (other than U.S. federal O&M contracts), our policy is to include in backlog the full contract award, whether funded or unfunded, excluding option periods. In accordance with industry practice, substantially all of our contracts are subject to cancellation or termination at the discretion of the client. In a situation where a client terminates a contract, we would ordinarily be entitled to receive payment for work performed up to the date of termination and, in certain instances, we may be entitled to allowable termination and cancellation costs. In addition, it is not unusual for clients to change the scope of services required by the contract over the life of the project. Accordingly, backlog can fluctuate from one reporting period to the next due to the timing of when new contracts are added to backlog and when the contract revenue is recognized in our consolidated financial statements. Many of our contracts require us to provide services that span over a number of fiscal quarters (and sometimes over fiscal years). 
+
+Please refer to Item 1A—Risk Factors, above, for a discussion of other factors that may cause backlog to ultimately convert into revenues at different amounts.
+
+The following table summarizes our backlog for each of the last three fiscal years (in millions): 
+
+[DATA_TABLE_REMOVED]
+
+Our backlog at October 2, 2015 increased by $0.4 billion, or 2.3%, to $18.8 billion from $18.4 billion at September 26, 2014. The increase in backlog from September 26, 2014 to October 2, 2015 was due primarily to new awards from clients operating in the Chemicals and Pharmaceuticals industries, off-set in part by an approximate $600 million reduction due to foreign exchange.
+
+Backlog relating to work to be performed either directly or indirectly for the U.S. federal government and its agencies totaled approximately $4.6 billion (or 24.6% of total backlog), $4.4 billion (or 23.9% of total backlog), and $3.9 billion (or 22.9% of total backlog) at October 2, 2015, September 26, 2014, and September 27, 2013, respectively. Most of our federal contracts require that services be provided beyond one year. In general, these contracts must be funded annually (i.e., the amounts to be spent under the contract must be appropriated by the U.S. Congress to the procuring agency, and then the agency must allot these sums to the specific contracts).
+
+We estimate that approximately 7.3 billion, or 38.6%, of total backlog at October 2, 2015 will be realized as revenues within the next fiscal year.
+
+Effects of Inflation
+
+The effects of inflation on our business is discussed in Item 1A—Risk Factors, and is incorporated herein by reference.
+
+Liquidity and Capital Resources
+
+At October 2, 2015, our primary sources of liquidity consisted of $460.9 million of cash and cash equivalents and $1,013.1 million of available borrowing capacity under our $1.60 billion revolving credit facility (the "2014 Facility"). 
+
+Page 50
+Additional information regarding the 2014 Facility is set forth in Note 5 - Borrowings in Notes to Consolidated Financial Statements beginning on page F-1 of this Annual Report on Form 10-K. We finance as much of our operations and growth as possible through cash generated by our operations.
+
+During fiscal 2015, our cash and cash equivalents decreased by $271.8 million from $732.6 million at September 26, 2014 to $460.9 million at October 2, 2015. This compares to a net decrease in cash and cash equivalents of $523.8 million during the corresponding period last year. During fiscal 2015, we experienced net cash inflows of $484.6 million from operating activities offset by outflows of $553.3 million from financing activities, $96.1 million from investing activities, and $106.9 million from the effects of exchange rate changes. 
+
+Operations provided net cash of $484.6 million during fiscal 2015. This compares to net cash inflows of $721.7 million and $448.5 million during fiscal 2014 and 2013, respectively. The $237.1 million decrease in cash provided by operations in fiscal 2015 as compared to fiscal 2014 was due primarily to a $264.6 million unfavorable change in the Company's working capital accounts and a $23.2 million decrease in net earnings attributable to the Group partially offset by a $31.2 million change related to the Company's defined benefit pension plans.
+
+Because such a high percentage of our revenues are earned on cost-plus type contracts, and due to the significance of revenues relating to pass-through costs, most of the costs we incur are included in invoices we send to clients. Although we continually monitor our accounts receivable, we manage the operating cash flows of the Company by managing the working capital accounts in total, rather than by the individual elements. The primary elements of the Company’s working capital accounts are accounts receivable, accounts payable, and billings in excess of cost. Accounts payable consists of obligations to third parties relating primarily to costs incurred for projects which are generally billable to clients. Accounts receivable consist of billings to our clients — a substantial portion of which is for project-related costs. Billings in excess of cost consist of billings to and payments from our clients for costs yet to be incurred.
+
+This relationship between revenues and costs, and between receivables and payables is unique to our industry, and facilitates review of our liquidity at the total working capital level. The changes in cash flows relating to our working capital accounts were due simply to the timing of cash receipts and payments within our working capital accounts and is not indicative of any known trend or fundamental change to the underlying business. We still continue to experience delays in certain payments and have seen an increase in the length of payment terms with certain customers. We believe that this situation does not present a significant risk to the Company's cash flows. We believe the risk of not collecting substantially all of the Company's outstanding receivables is remote. Though the Company provides services in a number of countries outside the U.S., we believe our credit risk is not significant. Our private sector customers are comprised principally of large, well known, and well established multi-national companies. Our government customers are comprised of national, state, and local agencies located principally in the U.S. and the U.K. We have not historically experienced significant collection issues with either of our governmental or non-governmental customers.
+
+We used $96.1 million of cash and cash equivalents for investing activities during fiscal 2015. This compares to $1.5 billion and $157.1 million during fiscal 2014 and 2013, respectively. This decrease was primarily the result of minimal acquisition activity in fiscal 2015 as compared to the Company's acquisition of SKM for $1.2 billion ($1.1 billion net of cash acquired) in fiscal 2014. There was also minimal acquisition activity in fiscal 2013.
+
+Additions to property and equipment totaled $88.4 million, $132.1 million, and $127.3 million for fiscal years 2015, 2014, and 2013, respectively. Included in fiscal 2015 and 2014 activity are significant expenditures for leasehold improvements relating primarily to the consolidation of certain office space, expansion of office space and relocations of certain office space, all occurring in a number of locations. 
+
+Our financing activities resulted in net cash outflows of $553.3 million during fiscal 2015 as compared to net cash inflows of $304.9 million and net cash outflows of $59.7 million during fiscal 2014 and 2013, respectively. The $858.2 million in incremental cash outflows during fiscal 2015 as compared to the previous year was due primarily to (i) a $502.7 million increase in cash used to pay-off long-term debt during fiscal 2015, combined with (ii) $343.9 million used to repurchase shares of Company common stock (discussed in further detail in Part II, Item 5 of this Annual Report on Form 10-K). Substantially all of the amounts borrowed during fiscal 2014 under our 2014 Facility was used to fund the Company's business acquisitions completed last year. 
+
+ The Company had $460.9 million of cash and short term equivalents at October 2, 2015. Of this amount, approximately $99.9 million was held in the U.S. and $361.0 million was held outside of the U.S., primarily in Canada, the U.K., and the Eurozone. Other than the tax cost of repatriating funds held outside the U.S. to the U.S. (see Note 9—Income 
+
+Page 51
+Taxes of Notes to Consolidated Financial Statements beginning on page F-1 of this Annual Report on Form 10-K), there are no impediments to repatriating these funds to the U.S.
+
+The total amount utilized under the 2014 Facility at October 2, 2015 was $586.9 million ($584.4 million in the form of direct borrowings and $2.5 million utilized in the form of letters of credit). Please refer to Note 5—Borrowings of Notes to Consolidated Financial Statements beginning on page F-1 of this Annual Report on Form 10-K for additional information regarding the 2012 facility and the 2014 Facility.
+
+We believe we have adequate liquidity and capital resources to fund our operations, support our acquisition strategy, and service our debt for the next twelve months. We had $460.9 million in cash and cash equivalents at October 2, 2015, compared to $732.6 million at September 26, 2014. Our consolidated working capital position at October 2, 2015 was $1.3 billion; a decrease of $240.4 million from September 26, 2014.
+
+Additionally, there was $1.0 billion of borrowing capacity available at October 2, 2015 under the 2014 Facility. We believe that the remaining capacity, terms and conditions of our revolving credit facility, combined with cash on-hand and the other committed and uncommitted facilities we have in place, are adequate for our working capital and general business requirements.
+
+The Company had $236.4 million of letters of credit outstanding at October 2, 2015. Of this amount, $2.5 million were issued under the 2014 Facility and $233.9 million were issued under separate, committed and uncommitted letter-of-credit facilities.
+
+Off-Balance Sheet Arrangements
+
+We are party to financial instruments with off-balance sheet risk in the form of guarantees not reflected in our balance sheet that arise in the normal course of business. However, such off-balance sheet arrangements are not reasonably likely to have an effect on our financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or resources that is material to investors. See Note 10 – Commitments and Contingencies, and Derivative Financial Instruments of Notes to Consolidated Financial Statements beginning on page F-1 of this Annual Report on Form 10-K.
+
+New Accounting Pronouncements
+
+From time to time, the Financial Accounting Standards Board ("FASB") issues accounting standards updates (each being an "ASU") to its Accounting Standards Codification ("ASC"), which constitutes the primary source of U.S. GAAP. The Company regularly monitors ASUs as they are issued and considers their applicability to its business. All ASUs applicable to the Company are adopted by the due date and in the manner prescribed by the FASB. A discussion of those recently issued ASUs most likely to affect the presentation of the Company's consolidated financial statements follows.
+
+In May 2014, the FASB issued ASU No. 2014-09—Revenue from Contracts with Customers. The new guidance provided by ASU 2014-09 is intended to remove inconsistencies and perceived weaknesses in the existing revenue requirements, provide a more robust framework for addressing revenue issues, improve comparability, provide more useful information and simplify the preparation of financial statements. ASU 2014-09 was initially effective for annual and interim reporting periods beginning after December 15, 2016. On July 9, 2015 the FASB approved a one year deferral of the effective date of this standard. The revised effective date for the standard is for annual reporting periods beginning after December 15, 2017 and interim periods therein. The FASB also approved changes allowing for early adoption of the standard as of the original effective date. The Company continues to evaluate the impact that the new guidance may have on the consolidated financial statements.
+
+In April 2015, the FASB issued ASU No. 2015-03—Simplifying the Presentation of Debt Issuance Costs. ASU 2015-03 was issued to simplify the presentation of debt issuance costs by requiring such costs to be presented as a deduction from the corresponding debt liability. Through this ASU, the FASB intends to make the presentation of debt issuance costs consistent with the presentation of debt discounts or premiums. The guidance is effective for financial statements issued for fiscal years beginning after December 15, 2015, and interim periods within those fiscal years. Early adoption is permitted. The Company does not believe the adoption of this ASU will have a material effect on its consolidated financial statements. 
+
+In May 2015, the FASB issued Accounting Standards Update 2015-07—Disclosures for Investments in Certain Entities that Calculate Net Asset Value Per Share (or its Equivalent). ASU 2015-07 removes the requirement to categorize within the fair value hierarchy investments for which fair values are estimated using the net asset value practical expedient provided by 
+
+Page 52
+ASC 820—Fair Value Measurement. Disclosures about investments in certain entities that calculate net asset value per share are limited under ASU 2015-07 to those investments for which the entity has elected to estimate the fair value using the net asset value practical expedient. ASU 2015-07 is effective for entities (other than public business entities) for fiscal years beginning after December 15, 2016, with retrospective application to all periods presented. Early application is permitted. The Company is evaluating the impact of the ASU, but does not expect the impacts to be material to its consolidated financial statements.
+
+Page 53
+Item 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK

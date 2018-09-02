@@ -1,0 +1,419 @@
+PART I
+
+ITEM 1. BUSINESS
+
+INTRODUCTION
+
+Edison International was incorporated on April 20, 1987, under the laws of the State of California for the purpose of becoming the parent holding company of Southern California Edison Company ("SCE"), a California public utility corporation and Edison Mission Group Inc. ("EMG"), a competitive power generation company. As a holding company, Edison International's progress and outlook are dependent on developments at its operating subsidiaries.
+
+At December 31, 2011, Edison International and its subsidiaries had an aggregate of 19,930 full-time employees. The principal executive offices of Edison International are located at 2244 Walnut Grove Avenue, P.O. Box 976, Rosemead, California 91770, and the telephone number is (626) 302-2222.
+
+Edison International makes available on its investor website, www.edisoninvestor.com, its Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, Proxy Statement and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act, as soon as reasonably practicable after Edison International electronically files such material with, or furnishes it to, the SEC. Such reports are also available on the SEC's internet website at www.sec.gov. The information contained on, or connected to, the Edison investor website is not incorporated by reference into this report.
+
+Subsidiaries of Edison International
+
+Edison International has two business segments for financial reporting purposes: an electric utility segment (SCE) and a competitive power generation segment (EMG). 
+
+SCE is an investor-owned public utility primarily engaged in the business of supplying electricity to an approximately 50,000 square-mile area of southern California. The SCE service territory contains a population of nearly 14 million people. In 2011, SCE's total operating revenue was derived as follows: 41.6% commercial customers, 40.2% residential customers, 5.7% industrial customers, 0.7% resale sales, 5.5% public authorities, and 6.3% agricultural and other customers. SCE had 18,069 full-time employees at December 31, 2011. SCE's operating revenue was approximately $10.6 billion in 2011. 
+
+Sources of energy to serve SCE's customers during 2011 were approximately: 36% purchased power; 21% CDWR; and 43% SCE-owned generation.
+
+SCE separately files reports pursuant to Section 13(a) or 15(d) of the Securities Exchange Act. SCE also files a joint Proxy Statement with its parent, Edison International. Such reports and Proxy Statement are available at www.edisoninvestor.com or on the SEC's website at www.sec.gov. The information contained on, or connected to, the Edison investor website is not incorporated by reference into this report.
+
+EMG is the holding company for its principal wholly owned subsidiary, EME. EME is also a holding company with subsidiaries and affiliates engaged in the business of developing, acquiring, owning or leasing, operating and selling energy and capacity from independent power production facilities. Some of the facilities are operated on a merchant basis, with energy being sold into the marketplace, and others are operated under contracts calling for the delivery of energy to specific purchasers. EME also engages in hedging and energy trading activities in competitive power markets through its Edison Mission Marketing & Trading, Inc. ("EMMT") subsidiary. At December 31, 2011, EMG and its subsidiaries employed 1,795 people. EMG's consolidated operating revenue was approximately $2.2 billion in 2011.
+
+EMG's subsidiaries or affiliates have typically been formed to own full or partial interests in one or more power generation facilities and ancillary facilities, with each plant or group of related plants being individually referred to by EMG as a project. EMG's operating projects primarily consist of coal-fired and natural gas-fired generating facilities, and renewable energy facilities, primarily wind projects. As of December 31, 2011, EMG's subsidiaries and affiliates owned or leased interests in 43 operating projects with an aggregate net physical capacity of 11,504 MW of which EME's pro rata share was 10,379 MW. At December 31, 2011, EME's subsidiaries and affiliates also had one wind project and one natural gas-fired peaker plant under construction, totaling 80 MW and 479 MW, respectively of net generating capacity. 
+
+EME separately files reports pursuant to Section 13(a) or 15(d) of the Securities Exchange Act. Such reports are available at www.edisoninvestor.com or on the SEC's internet website at www.sec.gov. The information contained on, or connected to, the Edison investor website is not incorporated by reference into this report.
+
+Edison International maintains a property and casualty insurance program for itself and its subsidiaries, which includes 
+
+3
+business interruption (for EMG only), and excess liability insurance covering liabilities to third parties for bodily injury or property damage resulting from operations. These policies are subject to specific retentions, sublimits and deductibles, which are comparable to those carried by other utility and electric generating companies of similar size. SCE also has separate insurance programs for nuclear property and liability, workers compensation and solar rooftop construction. EMG maintains a separate wind liability insurance program for its wind projects. For further information on wildfire insurance, see "Item 8. Edison International Notes to Consolidated Financial Statements—Note 9. Commitments and Contingencies."
+
+Regulation of Edison International and Subsidiaries
+
+Edison International and its subsidiaries are subject to extensive regulation. As a public utility holding company, Edison International is subject to the Public Utility Holding Company Act. The Public Utility Holding Company Act primarily obligates Edison International and its utility subsidiaries to provide access to their books and records to the FERC and the CPUC for ratemaking purposes.
+
+Edison International is not a public utility. The 1988 CPUC decision authorizing SCE to reorganize into a holding company structure, however, contains certain obligations on Edison International and its affiliates. These include a requirement that SCE's dividend policy shall continue to be established by SCE's Board of Directors as though SCE were a stand-alone utility company, and that the capital requirements of SCE, as deemed to be necessary to meet SCE's service obligations, shall receive first priority from the Boards of Directors of Edison International and SCE. The CPUC has also promulgated Affiliate Transaction Rules, which, among other requirements, prohibit holding companies from (1) being used as a conduit to provide non-public information to a utility's affiliate and (2) causing or abetting a utility's violation of the rules, including providing preferential treatment to affiliates.
+
+SOUTHERN CALIFORNIA EDISON COMPANY
+
+Regulation
+
+CPUC 
+
+SCE's retail operations are subject to regulation by the CPUC. The CPUC has the authority to regulate, among other things, retail rates, energy purchases on behalf of retail customers, rate of return, rates of depreciation, issuance of securities, disposition of utility assets and facilities, oversight of nuclear decommissioning funding and costs, and aspects of the transmission system planning, site identification and construction.
+
+FERC
+
+SCE's wholesale operations (including sales of electricity into the wholesale markets) are subject to regulation by the FERC. The FERC has the authority to regulate wholesale rates as well as other matters, including unbundled transmission service pricing, accounting practices, and licensing of hydroelectric projects. The FERC also has jurisdiction over a portion of the retail rates and associated rate design.
+
+NERC
+
+The North American Electric Reliability Corporation ("NERC") establishes and enforces reliability standards and critical infrastructure protection standards to protect the bulk power system against potential disruptions from cyber and physical security breaches. The critical infrastructure protection standards focus on controlling access to critical physical and cyber security assets. Compliance with these standards is mandatory. The maximum penalty that may be levied for violating a NERC reliability or critical infrastructure protection standard is $1 million per violation, per day.
+
+SCE has a formal cyber security program that is staffed and has a dedicated budget. The program covers SCE's information technology systems as well as the electric grid where SCE has control of it. Program staff is engaged with industry groups as well as public-private initiatives to reduce risk and to strengthen the security and reliability of SCE's systems and infrastructure. The program is also engaged in the protection of SCE's customer information.
+
+Transmission and Substation Facilities Regulation
+
+The construction, planning and project site identification of SCE's transmission lines and substation facilities require the approval of many governmental agencies and compliance with various laws. These agencies include utility regulatory commissions such as the CPUC and other state regulatory agencies depending on the project location; the CAISO, and other environmental, land management and resource agencies such as the Bureau of Land Management, the U.S. Forest Service, and the California Department of Fish and Game; and regional water quality control boards. In addition, to the extent that 
+
+4
+SCE transmission line projects pass through lands owned or controlled by Native American tribes, consent and approval from the affected tribes and the Bureau of Indian Affairs are also necessary for the project to proceed.
+
+CEC
+
+The construction, planning, and project site identification of SCE's power plants of 50 MW or greater within California are subject to the jurisdiction of the CEC. The CEC is also responsible for forecasting future energy needs. These forecasts are used by the CPUC in determining the adequacy of SCE's electricity procurement plans.
+
+Nuclear Power Plant Regulation
+
+SCE is subject to the jurisdiction of the NRC with respect to the safety of its San Onofre and Palo Verde Nuclear Generating Stations. The NRC regulates commercial nuclear power plants through licensing, oversight and inspection, performance assessment, and enforcement of its requirements.
+
+In light of the events at the Fukushima Daiichi nuclear plant in Japan resulting from the March 2011 earthquake and tsunami, the NRC has been performing and plans to continue to perform additional operational and safety reviews of nuclear facilities in the United States. The NRC's Near Term Task Force ("NTTF") conducted a systematic review of NRC processes and regulations to determine whether additional improvements to the existing nuclear regulatory system are warranted in light of the events in Japan. The NTTF concluded that a sequence of events like the Fukushima accident is unlikely to occur in the U.S., and that continued operation of U.S. reactors does not pose an imminent risk to public health and safety. The NTTF Report proposed changes to regulations applicable to protection against natural phenomena, including earthquakes and flooding and emergency preparedness, and the NTTF made a number of recommendations as to actions that the NRC might implement. In October 2011, the NRC identified seven of the near-term actions recommended by the NRC staff as having the greatest potential for safety improvement. The NRC staff was directed to strive to implement these actions by 2016. Implementation of these actions will require further interactions between the NRC staff and the nuclear industry. These actions may impact future operations and capital requirements at U.S. nuclear facilities at the time of their implementation, including the operations and capital requirements of SCE's nuclear facilities.
+
+Operating License Renewal
+
+In April 2011, the NRC extended the operating license for Palo Verde Operating Units 1, 2 and 3 for an additional 20 years, to 2045, 2046 and 2047, respectively. San Onofre's current operating licenses for Units 2 and 3 will expire in 2022. The NRC's review of a license renewal application typically takes three to five years. Prior to filing a license renewal application at the NRC, SCE would make an application to the CPUC to demonstrate the cost effectiveness of continuing operations at San Onofre and to seek authority to recover the cost of seeking a license renewal at the NRC and pursuing approvals from other state and federal agencies, such as the Department of the Navy and the California Coastal Commission. SCE will consider a decision to file an application for cost recovery at the CPUC in 2012. If SCE were to choose not to pursue license renewal or if SCE' efforts to obtain license renewal were not successful, SCE will need to determine what generation and transmission alternatives would need to be made available to replace the capacity, energy, and grid reliability benefits that SCE's customers now receive from San Onofre by the time San Onofre ceases generating electricity. Should SCE decide to pursue a license extension for San Onofre, SCE will likely need to simultaneously consider generation and transmission alternatives given the long lead times for the NRC to approve a license extension and to site, permit and construct new generation and transmission facilities. The costs of these alternatives could be substantial.
+
+Overview of Ratemaking Process
+
+CPUC 
+
+Revenue authorized by the CPUC through triennial GRC proceedings is intended to provide SCE a reasonable opportunity to recover its costs and earn a return on its net investment in generation and distribution assets (also referred to as “rate base”). The CPUC sets an annual revenue requirement for the base year which is made up of the operation and maintenance costs, depreciation, taxes and a return consistent with the capital structure (discussed below). The return is established by multiplying an authorized rate of return, determined in separate cost of capital proceedings, by SCE's generation and distribution rate base. In the GRC proceedings, the CPUC also generally approves the level of capital spending on a forecast basis. Following the base year, the revenue requirements for the remaining two years are set by a methodology established in the GRC proceeding, which generally, among other items, includes annual allowances for escalation in operation and maintenance costs, additional changes in capital-related investments and the recovery for expected nuclear refueling outages. 
+
+SCE's authorized revenue requirements were $4.83 billion, $5.04 billion and $5.25 billion for the years ended December 31, 2009, 2010 and 2011, respectively. SCE filed its 2012 GRC application with the CPUC on November 23, 2010, to be 
+
+5
+effective on January 1, 2012. For further discussion of the 2012 GRC, see "Edison International Overview—Management Overview of SCE—2012 CPUC General Rate Case" in the MD&A.
+
+CPUC rates decouple authorized revenue from the volume of electricity sales, so that SCE earns revenue equal to amounts authorized. Differences between amounts collected and authorized levels are either collected from or refunded to customers, and, therefore, such differences do not impact operating revenue. Accordingly, SCE is neither benefited nor burdened by the volumetric risk related to retail electricity sales.
+
+The CPUC regulates SCE's capital structure and authorized rate of return. SCE's current authorized capital structure is 48% common equity, 43% long-term debt and 9% preferred equity. SCE's current authorized cost of capital consists of: cost of long-term debt of 6.22%, cost of preferred equity of 6.01% and return on common equity of 11.5%. SCE is scheduled to file a new cost of capital application with the CPUC in April 2012 that will be effective beginning in 2013.
+
+In addition, to the ratemaking process described above, the CPUC has also authorized ratemaking mechanisms outside of the GRC process for significant capital projects, as needed.
+
+Balancing accounts (also referred to as cost-recovery mechanisms) are typically used to track and recover SCE's costs of fuel, purchased-power, and certain operation and maintenance expenses, including certain demand-side management program costs. SCE earns no return on these activities and although differences between forecasted and actual costs do not impact earnings, such differences do impact cash flows and can change rapidly.
+
+SCE's balancing account for fuel and power procurement-related costs is established under the Energy Resource Recovery Account ("ERRA") Mechanism. SCE sets rates based on an annual forecast of the costs that it expects to incur during the following year. In addition, the CPUC has established a "trigger" mechanism for the ERRA balancing account that allows for a rate adjustment if the balancing account over-collection or under-collection exceeds 5% of SCE's prior year's revenue that is classified as generation for retail rates. For 2012, the trigger amount is approximately $237 million.
+
+The majority of costs eligible for recovery through cost-recovery rates are approved upfront by the CPUC though a procurement plan with predefined standards, or through CPUC preapproval, and thus could negatively impact earnings and cash flows if SCE's costs were found to be unreasonable or out of compliance and disallowed.
+
+FERC
+
+Revenue authorized by the FERC is intended to provide SCE a reasonable opportunity to recover its costs and earn a return on its net investment in transmission assets. In August 2011, the FERC accepted SCE's request to implement a formula rate effective January 1, 2012 to determine SCE's FERC transmission revenue requirement, including its construction work in progress ("CWIP") revenue requirement that was previously recovered through a separate mechanism. For further discussion of SCE's FERC formula rates, see "Edison International Overview—Management Overview of SCE—FERC Formula Rates" in the MD&A.
+
+Retail Rates
+
+To develop retail rates, the authorized revenue requirements are allocated among all customer classes (residential, commercial, industrial and agricultural) on a functional basis (i.e., generation, distribution, transmission, etc.). Specific rate components are designed to recover the authorized revenue allocated to each customer class. 
+
+Currently, SCE has a five tier residential rate structure. Each tier represents a certain electricity usage level and within each increasing usage level, the electricity is priced at higher rates per kilowatt hour. The first tier is a baseline tier and has the lowest rate per kilowatt hour. "Baseline" refers to a specific amount of energy allocated for residential customers that is charged at a lower price than energy used in excess of that amount. Baseline quantities are determined by SCE for approval by the CPUC using average residential electricity consumption for nine geographical regions in southern and central California. Seasonal variations in usage are also accounted for in determining baseline allowances.
+
+The intent of the baseline and the tiered structure is to provide a portion of reasonable energy needs (baseline usage) of residential customers at the lowest rate, and to encourage conservation of energy by increasing the rate charges as energy usage increases. Statutory restrictions on tier one and two rates have shifted the burden of residential rate increases to the higher tier/usage customers. As part of the second phase of SCE's 2012 GRC, SCE requested certain rate design modifications that are intended to provide a more equitable, cost-based rate design.
+
+CDWR-Related Rates
+
+As a result of the California energy crisis, in 2001 the CDWR entered into contracts to purchase power for sale at cost 
+
+6
+directly to SCE's retail customers and issued bonds to finance those power purchases. The CDWR's total statewide power charge and bond charge revenue requirements were allocated by the CPUC among the customers of the investor-owned utilities (SCE, PG&E and SDG&E). SCE billed and collected from its customers the costs of power purchased and sold by the CDWR. SCE will continue to bill and collect CDWR bond-related charges and direct access exit fees until 2022. The CDWR-related charges and a portion of direct access exit fees that are remitted directly to the CDWR are not recognized as electric utility operating revenue; but did affect customer rates. All CDWR power contracts that were allocated to SCE expired by the end of 2011. See "SCE: Results of Operations—Supplemental Operating Revenue Information" in the MD&A for further discussion of the impact of CDWR charges on customer rates.
+
+Purchased Power and Fuel Supply
+
+SCE obtains the power needed to serve its customers from its generating facilities and from sales by qualifying facilities, independent power producers, renewable power producers, the CAISO, and other utilities. 
+
+Natural Gas Supply
+
+SCE requires natural gas to meet contractual obligations for power tolling agreements (power contracts in which SCE has agreed to provide or pay for the natural gas burned to generate electricity). SCE also requires natural gas to fuel its Mountainview and peaker plants, which are generation units that are designed to operate in response to changes in demand for power. The physical natural gas purchased by SCE is subject to competitive bidding.
+
+Nuclear Fuel Supply
+
+For San Onofre Units 2 and 3, contractual arrangements are in place covering 100% of the projected nuclear fuel requirements through the years indicated below:
+
+[DATA_TABLE_REMOVED]
+
+For Palo Verde, contractual arrangements are in place covering 100% of the projected nuclear fuel requirements through the years indicated below: 
+
+[DATA_TABLE_REMOVED]
+
+Coal Supply
+
+On January 1, 2010, SCE and the other Four Corners participants entered into a Four Corners Coal Supply Agreement with the BHP Navajo Coal Company, under which coal will be supplied to Four Corners Units 4 and 5 until July 6, 2016. The co-owners of Four Corners (excluding SCE) are currently negotiating a potential new Coal Supply Agreement with BHP Navajo Coal Company for the period after July 6, 2016. In November 2010, SCE entered into an agreement to sell its interest in Four Corners subject to certain conditions and regulatory approvals. See "Item 8. Edison International Notes to Consolidated Financial Statements—Note 2. Property, Plant and Equipment," for more information on the sale of SCE's interest in Four Corners.
+
+CAISO Wholesale Energy Market
+
+In California and other states, wholesale energy markets exist through which competing electricity generators offer their electricity output to electricity retailers. Each state's wholesale electricity market is generally operated by its state ISO or a regional RTO. California's wholesale electricity market is operated by the CAISO. The CAISO schedules power in hourly increments with hourly prices through a real-time and day-ahead market that combines energy, ancillary services, unit commitment and congestion management. SCE participates in the day-ahead and real-time markets for the sale of its generation and purchases of its load requirements.
+
+The CAISO uses a nodal locational pricing model, which sets wholesale electricity prices at system points ("nodes") that 
+
+7
+reflect local generation and delivery costs. Generally, SCE schedules its electricity generation to serve its load but when it has excess generation or the market price of power is more economic than its own generation, SCE may sell power from utility-owned generation assets and existing power procurement contracts into, or buy generation and/or ancillary services to meet its load requirements from, the day-ahead market. SCE will offer to buy its generation at nodes near the source of the generation, but will take delivery at nodes throughout SCE's service territory. Congestion may occur when available energy cannot be delivered due to transmission constraints, which results in transmission congestion charges and differences in prices at various nodes. The CAISO also offers congestion revenue rights or CRRs, a commodity that entitles the holder to receive (or pay) the value of transmission congestion between specific nodes, acting as an economic hedge against transmission congestion charges.
+
+Competition
+
+Because SCE is an electric utility company operating within a defined service territory pursuant to authority from the CPUC, SCE faces retail competition only to the extent that federal and California laws permit other entities to provide electricity and related services to customers within SCE's service territory. While California law provides only limited opportunities for customers to choose to purchase power directly from an energy service provider other than SCE, a California statute was adopted in 2009 that permits a limited, phased-in expansion of customer choice (direct access) for nonresidential customers. SCE also faces some competition from cities and municipal districts that create municipal utilities or community choice aggregators. Competition between SCE and other electricity providers is conducted mainly on the basis of price; customers seek the lowest cost power available. The effect of this competition on SCE generally is to reduce the number of customers purchasing power from SCE, but those departing customers typically continue to utilize and pay for SCE's transmission and distribution services.
+
+Technological developments, such as on-site power generation (self generation), pose additional competitive challenges for traditional utilities. See "Item 1A. Risk Factors—Risks Relating to SCE—Regulatory Risks." In the area of transmission infrastructure, SCE may experience increased competition from merchant transmission providers. The FERC has made changes to its transmission planning requirements with the goal of opening transmission development to competition from independent developers. In July 2011, the FERC adopted new rules that remove incumbent public utility transmission owners' federally-based right of first refusal to construct certain new transmission facilities. The rules direct regional entities, such as ISOs, to create new processes that would allow other providers to develop new transmission projects. The new processes will not become effective until approved by the FERC, which is expected in late 2012. The majority of SCE's 2012 – 2014 transmission capital forecast relates to transmission projects that have been approved by the CAISO and barring a re-evaluation under the new rules, will not be subject to the new processes. SCE does not expect these projects to be re-evaluated. The impact of the new rules on future transmission projects will depend on the processes ultimately implemented by regional entities.
+
+Properties
+
+SCE supplies electricity to its customers through extensive transmission and distribution networks. Its transmission facilities, which are located primarily in California but also in Nevada and Arizona, deliver power from generating sources to the distribution network and consist of lines ranging from 33 kV to 500 kV and substations. SCE's distribution system, which takes power from substations to customers, includes over 59,000 circuit miles of overhead lines, 44,000 circuit miles of underground lines and over 700 distribution substations, all of which are located in California.
+
+8
+SCE owns the generating facilities listed in the following table.
+
+[DATA_TABLE_REMOVED]
+
+1 In November 2010, SCE entered into an agreement to sell its interest in Four Corners to APS for approximately $294 million. The sale is contingent upon the satisfaction of several conditions and the obtaining of multiple regulatory approvals. Currently SCE estimates that the sale will close in the second half of 2012. See "Item 8. Edison International Notes to Consolidated Financial Statements—Note 2. Property, Plant and Equipment" for more information.
+
+San Onofre, Four Corners, certain of SCE's substations, and portions of its transmission, distribution and communication systems are located on lands owned by the United States or others under licenses, permits, easements or leases, or on public streets or highways pursuant to franchises. Certain of the documents evidencing such rights obligate SCE, under specified circumstances and at its expense, to relocate such transmission, distribution, and communication facilities located on lands owned or controlled by federal, state, or local governments.
+
+Twenty-eight of SCE's 36 hydroelectric plants and related reservoirs are located in whole or in part on U.S.-owned lands pursuant to 30- to 50-year FERC licenses that expire at various times between 2012 and 2046. Such licenses impose numerous restrictions and obligations on SCE, including the right of the United States to acquire projects upon payment of specified compensation. When existing licenses expire, the FERC has the authority to issue new licenses to third parties that have filed competing license applications, but only if their license application is superior to SCE's and then only upon payment of specified compensation to SCE. New licenses issued to SCE are expected to contain more restrictions and obligations than the expired licenses because laws enacted since the existing licenses were issued require the FERC to give environmental objectives greater consideration in the licensing process.
+
+Substantially all of SCE's properties are subject to the lien of a trust indenture securing first and refunding mortgage bonds. See "Item 8. Edison International Notes to Consolidated Financial Statements—Note 5. Debt and Credit Agreements."
+
+Seasonality
+
+Due to warm weather during the summer months and SCE's rate design, operating revenue during the third quarter of each year is generally higher than the other quarters.
+
+9
+EDISON MISSION GROUP INC.
+
+Overview
+
+EMG's competitive power generation business primarily consists of the generation and sale into the PJM market of energy and capacity from merchant coal-fired power plants and a portfolio of natural gas and wind projects. EMG's operating results were significantly lower in 2011 compared to 2010 due to lower realized energy and capacity prices and generation at the coal plants.
+
+At December 31, 2011, EME had corporate cash and cash equivalents of $951 million and $498 million of available borrowing capacity under its $564 million revolving credit facility maturing in June 2012 and Midwest Generation had cash and cash equivalents of $213 million and $497 million of available borrowing capacity under its $500 million credit facility maturing in June 2012. Subsequent to the end of the fiscal year, EME terminated its revolving credit facility and there can be no assurance that Midwest Generation will be eligible to draw on its credit facility prior to maturity. Any replacements of these credit lines will likely be on less favorable terms and conditions, and there is no assurance that EME will, or will be able to, replace these credit lines or any portion of them. EME had $3.7 billion of unsecured notes outstanding at December 31, 2011, $500 million of which mature in 2013. Unless energy and capacity prices increase, EME expects that it will experience further reductions in cash flow and losses in 2012 and subsequent years. EME's liquidity will be strained by a continuation of recent adverse trends, combined with pending debt maturities, higher operating costs and the need to retrofit its coal-fired plants to comply with governmental regulations. To address such a scenario, EME would need to consider all options available to it, including potential sales of assets or restructurings or reorganization of the capital structure of EME and its subsidiaries. 
+
+Homer City failed to obtain sufficient interest from market participants to fund the capital improvements during the process undertaken in the fourth quarter of 2011. Homer City is currently engaged in discussions with the owner-lessors regarding the potential for such funding. EME expects that the outcome of any such discussions, if successful in providing funding for the Homer City plant, will likely result in EME's loss of substantially all beneficial economic interest in and material control of the Homer City plant. Failure to resolve the source of funding of necessary capital expenditures for the Homer City plant could result in Homer City's default under the lease agreements giving rise to remedies for the owner-lessors and secured lease obligation bondholders, which could include foreclosing on the leased assets, the general partner of Homer City, or both. For further discussion of these matters, see "Edison International Overview—Management Overview of EMG" in the MD&A.
+
+Regulation
+
+Federal Power Act
+
+The FERC has exclusive jurisdiction over the rates, terms and conditions of wholesale sales of electricity and transmission services in interstate commerce (other than transmission that is "bundled" with retail sales), including ongoing, as well as initial, rate jurisdiction. The FERC also has jurisdiction over the sale or transfer of specified assets, including wholesale power sales contracts and generation facilities and, in some cases, jurisdiction over the issuance of securities or the assumption of specified liabilities. Dispositions of EMG's jurisdictional assets and certain types of financing arrangements may require FERC approval.
+
+Each of EMG's domestic generating facilities is either a qualifying facility, as determined by the FERC, or the subsidiary owning the facility is an exempt wholesale generator. Most qualifying facilities, including EMG's qualifying facilities, are exempt from the ratemaking and several other provisions of the Federal Power Act. EMG's exempt wholesale generators are subject to the FERC's ratemaking jurisdiction under the Federal Power Act, but have been authorized by the FERC to sell power at market-based rates. In addition, EMG's power marketing subsidiaries, including EMMT, have been authorized by the FERC to make wholesale market sales of power at market-based rates and are subject to FERC ratemaking regulation under the Federal Power Act.
+
+If one of the projects in which EMG has an interest were to lose its qualifying facility or exempt wholesale generator status, the project would no longer be entitled to the related exemptions from regulation and could become subject to rate regulation by the FERC and state authorities. Loss of status could also trigger defaults under covenants contained in the project's power sales agreements and financing agreements.
+
+Transmission of Wholesale Power
+
+EMG's projects that sell power to wholesale purchasers other than the local utility to which the project may be interconnected require the transmission of electricity over power lines owned by others. The prices and other terms and conditions of 
+
+10
+transmission contracts are regulated by the FERC when the entity providing the transmission service is subject to FERC jurisdiction.
+
+Markets for Generation
+
+The United States electric industry, including companies engaged in providing generation, transmission, distribution and retail sales and service of electric power, has undergone significant deregulation over the last three decades, which has led to increased competition, especially in the generation sector. In areas where ISOs and RTOs have been formed, market participants have open access to transmission service typically at a system-wide rate. ISOs and RTOs may also operate real-time and day-ahead energy and ancillary service markets, which are governed by FERC-approved tariffs and market rules. The development of such organized markets into which independent power producers are able to sell has reduced their dependence on bilateral contracts with electric utilities. In addition, capacity markets in various regional wholesale power markets compensate supply resources for the capability to supply electricity when needed, and demand resources, for electricity they avoid using.
+
+Wholesale Markets
+
+EMG's largest power plants are its coal power plants located in Illinois, which are collectively referred to as the Midwest Generation plants, and the Homer City plant located in Pennsylvania. Collectively, both the Midwest Generation plants and the Homer City plant are referred to as the coal plants in this annual report. The coal plants sell power primarily into PJM, an RTO which includes all or parts of Delaware, Illinois, Indiana, Kentucky, Maryland, Michigan, New Jersey, North Carolina, Ohio, Pennsylvania, Tennessee, Virginia, West Virginia and the District of Columbia. Sales may also be made from PJM into the Midwest Independent Transmission System Operator ("MISO") RTO, which includes all or parts of Illinois, Wisconsin, Indiana, Michigan, Ohio and other states in the region, and into the NYISO, which controls the transmission grid and energy and capacity markets for New York State.
+
+PJM operates a wholesale spot energy market and determines the market-clearing price for each hour based on bids submitted by participating generators indicating the minimum prices at which a bidder is willing to dispatch energy at various incremental generation levels. PJM requires all load-serving entities and generators, such as Midwest Generation and Homer City, to maintain prescribed levels of capacity, including a reserve margin, to ensure system reliability. PJM's capacity markets have a single market-clearing price for each capacity zone. In May of each year, PJM conducts an annual capacity auction ("RPM") to commit generation, energy efficiency and demand side resources three years forward, and to provide a long-term pricing signal for the construction of capacity resources.
+
+Fuel Supply
+
+The Midwest Generation plants purchase coal from several suppliers located in the Southern PRB of Wyoming. The total volume of coal consumed annually is largely dependent on the amount of generation and has historically ranged between 17 million to 19 million tons. Coal consumption in the current low natural gas price environment may be lower than the historical range. Coal is transported under transportation agreements with Union Pacific Railroad and various short-line carriers. In late 2011, Midwest Generation signed new agreements, effective January 1, 2012, to provide fuel transportation on a long-term basis. For additional information, see "EMG: Results of Operations—Market Risk Exposures—Commodity Price Risk—Coal and Transportation Risk" in the MD&A. As of December 31, 2011, Midwest Generation leased approximately 3,400 railcars to transport the coal from the mines to the generating stations, under leases with remaining terms that range from less than one year to eight years, with options to extend the leases or purchase some railcars at the end of the lease terms.
+
+Homer City's Units 1 and 2 have historically consumed approximately 2.8 million to 3.3 million tons of mid-range sulfur coal per year. Two types of coal are purchased, ready-to-burn and raw coal. Ready-to-burn coal is of the quality that can be burned directly in Units 1 and 2, whereas the raw coal purchased for consumption by Units 1 and 2 must be cleaned in the Homer City coal cleaning facility, which has the capacity to clean up to 5 million tons of coal per year. Unit 3 has historically consumed approximately 1.5 million to 2 million tons of coal per year and can consume either raw or ready-to-burn coal. Coal consumption in the current low natural gas price environment may be lower than the historical range. A wet scrubber FGD system for Unit 3 enables this unit to burn less expensive, higher sulfur coal, while still meeting environmental standards for emission control. In general, the coal purchased for all three units is acquired locally. For additional information, see "Edison International Overview—Management Overview of EMG" and "EMG: Results of Operations—Market Risk Exposures—Commodity Price Risk—Coal and Transportation Risk" in the MD&A.
+
+11
+Competition
+
+EMG is subject to competition from energy marketers, public utilities, government-owned power agencies, industrial companies, financial institutions, and other independent power producers. These companies may have competitive advantages as a result of scale, the location of their generation facilities, or other factors. Some of EMG's competitors have a lower cost of capital than EMG and, in the case of utilities, may be able to recover fixed costs through rate base mechanisms, allowing them to build, buy and upgrade generation without relying exclusively on market clearing prices to recover their investments.
+
+State and local environmental regulations, particularly those that impose stringent state-specific emission limits in Illinois, could put EMG's coal plants at a disadvantage compared with competing power plants operating in nearby states and subject to less stringent state emission limits or to federal emission limits alone. The CPS puts the Midwest Generation plants at a disadvantage compared with competing plants not subject to similar regulations, and federal air quality regulations such as CSAPR and the MATS rule will put EMG's coal plants, particularly Homer City, at a disadvantage compared to plants utilizing other fuels. Potential future climate change regulations could also put EME's coal plants at a disadvantage compared to power plants utilizing other fuels as well as utilities that can also be able to recover climate change compliance costs through rate base mechanisms. The ability of EMG's coal plants to compete may be affected by future environmental regulations, by governmental and regulatory activities designed to support the construction and operation of power generation facilities fueled by renewable energy sources, and by developments such as shale gas technology that lower the price of other fuels.
+
+12
+Properties
+
+Power Plants in Operation
+
+As of December 31, 2011, EMG's operations consisted of ownership or leasehold interests in the following operating projects
+
+[DATA_TABLE_REMOVED]
+
+1 Plant is operated under contract by an EME operations and maintenance subsidiary or the plant is operated or managed directly by an EME subsidiary.
+
+13
+2 Electric purchaser abbreviations are as follows:
+
+[DATA_TABLE_REMOVED]
+
+3 Represents EME's current ownership interest. If the project achieves a specified rate of return, EME's interest will decrease.
+
+4 Composed of six individual wind projects.
+
+5 Two-thirds of project achieved commercial operation in December 2011. The remaining one-third of project achieved commercial operation in January 2012.
+
+Significant Customers
+
+For information on EMG's significant customers, see "Item 8. Edison International Notes to Consolidated Financial Statements—Note 6. Derivative Instruments and Hedging Activities."
+
+Asset Management and Trading Activities
+
+EMG's power marketing and trading subsidiary, EMMT, manages the energy and capacity of EMG's merchant generating plants and, in addition, trades electric power, gas, oil and related commodity and financial products, including forwards, futures, options and swaps. EMMT segregates its activities into two categories:
+
+•Asset Management–EMMT engages in the sale of energy and capacity and the purchase and sale of fuels, including natural gas and fuel oil, through intercompany contracts with EMG's subsidiaries that own or lease EMG's facilities. EMG uses derivative instruments to reduce its exposure to market risks that arise from price fluctuations of electricity, capacity, fuel, emission allowances, and transmission rights. The objective of these activities is to sell the output of EMG's facilities on a forward basis or to hedge the risk of future changes in prices or price differences between different locations. Hedging activities include on-peak and off-peak periods and may include load service requirements contracts with local utilities. Transactions related to hedging activities are designated separately from EMMT's trading activities. Not all contracts entered into by EMMT for hedging purposes qualify as hedges for accounting purposes.
+
+•Trading–EMMT seeks to generate trading profits from volatility in the price of electricity, capacity, fuels, and transmission congestion by buying and selling contracts in wholesale markets under limitations approved by EMG's risk management committee.
+
+14
+Energy and Infrastructure Investments
+
+EMG's energy and infrastructure investments include leveraged leases and affordable housing projects in the United States. As of December 31, 2011, Edison Capital was the lessor with an investment balance (including current lease receivable) of $117 million in the following leveraged leases:
+
+[DATA_TABLE_REMOVED]
+
+1 American Airlines filed for bankruptcy protection under Chapter 11 of the U.S. Bankruptcy Code in November 2011. As a result, Edison Capital recorded a pre-tax $26 million charge related it its net investments in aircraft leases. 
+
+Seasonality
+
+Due to fluctuations in electric demand resulting from warm weather during the summer months and cold weather during the winter months, electric revenues from the coal plants normally vary substantially on a seasonal basis. In addition, maintenance outages generally are scheduled during periods of lower projected electric demand (spring and fall), further reducing generation and increasing major maintenance costs which are recorded as an expense when incurred. Accordingly, income from the coal plants is seasonal and has significant variability from quarter to quarter. Seasonal fluctuations may also be affected by changes in market prices. For further discussion regarding market prices, see "EMG: Market Risk Exposures—Commodity Price Risk—Energy Price Risk" in the MD&A.
+
+EMG's third quarter equity in income from its unconsolidated energy projects is normally higher than equity in income related to other quarters of the year due to seasonal fluctuations and higher energy contract prices during the summer months.
+
+15
+ENVIRONMENTAL REGULATION OF EDISON INTERNATIONAL AND SUBSIDIARIES
+
+Legislative and regulatory activities by federal, state, and local authorities in the United States relating to energy and the environment impose numerous restrictions on the operation of existing facilities and affect the timing, cost, location, design, construction and operation of new facilities by Edison International's subsidiaries, as well as the cost of mitigating the environmental impacts of past operations. Many of these laws, regulations and other activities affect both SCE and EMG's facilities, although not always to the same extent. The environmental regulations and other developments discussed below have the largest impact on fossil-fuel fired power plants, and therefore the discussion in this section focuses on regulations applicable to the states of California, New Mexico, Illinois and Pennsylvania, where such facilities are located.
+
+Edison International continues to monitor legislative and regulatory developments and to evaluate possible strategies for compliance with environmental regulations. Additional information about environmental matters affecting Edison International, including projected environmental capital expenditures, is included in the MD&A under the heading "SCE: Liquidity—Capital Investment Plan," "Item 8. Edison International Notes to Consolidated Financial Statements—Note 9. Commitments and Contingencies" and "—Note 10. Environmental Developments, and "Edison International (Consolidated): Liquidity and Capital Resources—Critical Accounting Estimates and Policies—Impairment of Long-Lived Assets" in the MD&A.
+
+Air Quality
+
+The CAA, which regulates air pollutants from mobile and stationary sources, has a significant impact on the operation of fossil fuel plants, especially coal-fired plants. The CAA requires the US EPA to establish concentration levels in the ambient air for six criteria pollutants to protect public health and welfare. These concentration levels are known as National Ambient Air Quality Standards, or NAAQS. The six criteria pollutants are carbon monoxide, lead, nitrogen dioxide, ozone, particulate matter, and SO2.
+
+Federal environmental regulations of these criteria pollutants require states to adopt state implementation plans, known as SIPs, for certain pollutants, which detail how the state will attain the standards that are mandated by the relevant law or regulation. The SIPs must be equal to or more stringent than the federal requirements and must be submitted to the US EPA for approval. Each state identifies the areas within its boundaries that meet the NAAQS (attainment areas) and those that do not (non-attainment areas), and must develop a SIP both to bring non-attainment areas into compliance with the NAAQS and to maintain good air quality in attainment areas. If the attainment status of areas changes, states may be required to develop new SIPs that address the changes. Many of EMG's facilities are located in areas that have not attained NAAQS for ozone (affected by NOx emissions from power plants) and fine particulate matter (affected by SO2 and NOx emissions from power plants) and much of Southern California is in a non-attainment area for several criteria pollutants.
+
+As described further below, on December 11, 2006, Midwest Generation entered into an agreement with the Illinois EPA, which was subsequently embodied in an Illinois rule called the Combined Pollutant Standard or "CPS," to reduce mercury, NOx and SO2 emissions at the Midwest Generation plants. The CPS requires Midwest Generation to achieve air emission reductions for NOx and SO2, and those reductions should contribute to or effect compliance with various existing US EPA ambient air quality standards. It is possible that if lower ozone, particulate matter, NOx or SO2 NAAQS are finalized by US EPA in the future, Illinois may implement regulations that are more stringent than those required by the CPS.
+
+Nitrogen Oxide and Sulfur Dioxide
+
+Clean Air Interstate and Cross-State Air Pollution Rules
+
+The CAIR, issued by the US EPA on March 10, 2005, mandated significant reductions in NOx and SO2 emission allowance caps under the CAA in 28 eastern states and the District of Columbia. In 2008, the U.S. Court of Appeals for the D.C. Circuit initially vacated the CAIR, but later remanded the CAIR to the US EPA for the issuance of a revised rule. The CAIR remains in effect until a replacement regulation becomes effective.
+
+On July 6, 2011, the US EPA adopted the Cross-State Air Pollution Rule ("CSAPR"). CSAPR establishes emissions reductions for annual SO2 emissions and annual and ozone season NOx emissions in two phases: a first phase originally scheduled to be effective January 1, 2012 and, in most states subject to the program (including Illinois and Pennsylvania), a second phase effective January 1, 2014 that requires additional reductions in annual SO2 emissions.
+
+In December 2011, the United States Court of Appeals for the District of Columbia granted a stay of CSAPR pending completion of its review of the rule's validity. Oral argument is scheduled for April 13, 2012, and a court decision is expected during the third quarter of 2012. The court directed the US EPA to continue administering the CAIR until its review is completed.
+
+16
+CSAPR, like the CAIR, is an allowance-based regulation that provides for emissions trading. If the stay is lifted and CSAPR becomes effective, the amount of actual SO2 or NOx emissions from plant operations will need to be matched by a sufficient amount of SO2 or NOx allowances that are either allocated or purchased in the open market. In connection with CSAPR, the US EPA has, for each phase, established SO2 and NOx allowance allocations for each state and each generating unit subject to the regulation, and at the close of the annual or seasonal compliance period, units will need to surrender allowances for each ton of SO2 and NOx emitted or face penalties. 
+
+With the staying of CSAPR, CAIR SO2 allowances have been provided and a sufficient supply is available for purchase to permit Homer City to continue operations consistent with 2011 levels. If the stay is lifted, the SO2 allowances allocated to Homer City in CSAPR Phase I (25,797 tons in 2012 and 2013) would be significantly lower than the amount that would be required based on Homer City's historical emissions. It is unclear at this time whether Homer City would be able to acquire allowances in sufficient quantity to cover its normal operations during Phase I of CSAPR and whether it would be able to pass through the cost of such allowances in the marketplace. Accordingly, despite the stay, Homer City continues to evaluate alternative options, including reduced dispatch and fuel modifications, for complying with Phase I of CSAPR. The cost of allowances, together with possible operational impacts or reductions of output that may be required to comply with Phase I of CSAPR, could have a material effect on Homer City.
+
+Homer City has begun work on designing SO2 and particulate emissions control equipment for Units 1 and 2. Based on preliminary estimates, Homer City expects the cost of such equipment to be approximately $700 million to $750 million. However, construction of these improvements is dependent upon funding from the owner-lessors or other third parties. For additional information, see "Edison International Overview—Management Overview of EMG—Homer City Lease."
+
+Revised NAAQS for Sulfur Dioxide
+
+In June 2010, the US EPA finalized the primary NAAQS for SO2 by establishing a new one-hour standard at a level of 75 parts per billion. In June 2011, Pennsylvania and Illinois submitted their initial recommended attainment/nonattainment designations in connection with the standard. Pennsylvania recommended designating Indiana County, where the Homer City plant is located, as nonattainment for the SO2 NAAQS. Illinois recommended designating parts of Tazewell County (where the Powerton plant is located) and Will and Cook Counties as nonattainment with this standard. The recommended designation for parts of Will and Cook Counties included the area where the Will County plant is located, but not the areas where Midwest Generation's other plants in those counties are located.
+
+Illinois
+
+On December 11, 2006, Midwest Generation entered into an agreement with the Illinois EPA to reduce mercury, NOx and SO2 emissions at the Midwest Generation plants. The agreement has been embodied in the CPS. All of Midwest Generation's Illinois coal-fired electric generating units are subject to the CPS. The CPS also specifies the control technologies that are to be installed on some units by specified dates. Midwest Generation must either install the required technology by the specified deadline or shut down the unit. The principal emission standards and control technology requirements for NOx and SO2 under the CPS are as described below:
+
+NOx Emissions–Beginning in calendar year 2012 and continuing in each calendar year thereafter, Midwest Generation must comply with an annual and seasonal NOx emission rate of no more than 0.11 lbs/million Btu. Midwest Generation substantially completed installation of SNCR equipment in 2011 for compliance with the emission limitations. Capital expenditures relating to these controls were $105 million.
+
+SO2 Emissions–Midwest Generation must comply with an overall SO2 annual emission rate beginning with 0.44 lbs/million Btu in 2013 and decreasing annually until it reaches 0.11 lbs/million Btu in 2019 and thereafter.
+
+Testing of dry scrubbing using Trona on select Midwest Generation units has demonstrated significant reductions in SO2 emissions. Use of dry sorbent injection technology in conjunction with low sulfur coal is expected to require substantially less capital and time to construct than the use of spray dryer absorber technology, but would likely result in higher ongoing operating costs and may consequently result in lower dispatch rates and competitiveness of Midwest Generation's plants, depending on competitors' costs. For further discussion, see "Edison International Overview—Management Overview of EMG—Midwest Generation and Compliance Plans and Cost" in the MD&A.
+
+Pennsylvania
+
+The Homer City plant was subject to the federal CAIR during 2011 and complied with both the NOx and SO2 requirements by using existing equipment and purchasing SO2 allowances. Pennsylvania adopted a state version of the CAIR, which the US EPA approved in December 2009. Homer City expects to comply with the Pennsylvania CAIR, which is substantially 
+
+17
+similar to the federal CAIR as it existed prior to the implementation of CSAPR, in the same manner in which it complies with the federal standards.
+
+Mercury/Hazardous Air Pollutants
+
+Mercury and Air Toxics Standards Rule
+
+In December 2011, the US EPA announced the Mercury and Toxics Air Standards ("MATS") rule, limiting emissions of hazardous air pollutants from coal- and oil-fired electrical generating units. The rule was published in the Federal Register on February 16, 2012, and becomes effective on April 16, 2012. EMG does not expect that these standards will require Midwest Generation to make material changes to the approach to compliance with state and federal environmental regulations that it contemplates for CPS compliance. EMG also does not expect that these standards will require Homer City to make additional capital expenditures beyond those that would be required for compliance with CSAPR Phase II.
+
+Illinois
+
+The CPS requires that, beginning in calendar year 2015, and continuing thereafter on a rolling 12-month basis, Midwest Generation must either achieve an emission standard of .008 lbs mercury/GWh gross electrical output or a minimum 90% reduction in mercury for each unit (except Unit 3 at the Will County Station, which will be included in calendar year 2016). Midwest Generation will be required to install cold side electrostatic precipitator or baghouse equipment on Unit 7 at the Waukegan Station by December 31, 2013, and on Unit 3 at the Will County Station by December 31, 2015.
+
+Pennsylvania
+
+Pennsylvania currently has no state level mercury regulations.
+
+Ozone
+
+National Ambient Air Quality Standards
+
+In January 2010, the US EPA proposed a revision to the primary and secondary NAAQS for 8-hour ozone that it had finalized in 2008. The 8-hour ozone standard established in 2008 was 0.075 parts per million. In January 2010, the US EPA proposed establishing a primary 8-hour ozone NAAQS between 0.060 and 0.070 parts per million and a distinct secondary standard to protect sensitive vegetation and ecosystems. In September 2011, President Obama announced that the proposed revision was being withdrawn. The ozone NAAQS established in 2008 remains in place, but the implementation process must be completed before the 0.075 parts-per-million standard can be enforced. The US EPA has indicated that it intends to issue initial area designations of attainment, nonattainment, and unclassifiable areas across the nation in 2012. States will then be required to develop and submit SIPs outlining how compliance with the 2008 NAAQS will be achieved. New primary and secondary ozone standards are expected in 2014.
+
+In January 2012, the US EPA indicated that it intended to designate the counties in Illinois where Midwest Generation's coal-fired power plants are located as nonattainment with the 2008 NAAQS. In December 2011, the US EPA indicated that it intended to designate Indiana County, where the Homer City plant is located, as in attainment with the 2008 NAAQS.
+
+Regional Haze
+
+The regional haze rules under the CAA are designed to prevent impairment of visibility in certain federally designated areas. The goal of the rules is to restore visibility in mandatory federal Class I areas, such as national parks and wilderness areas, to natural background conditions by 2064. Sources such as power plants that are reasonably anticipated to contribute to visibility impairment in Class I areas may be required to install best available retrofit technology ("BART") or implement other control strategies to meet regional haze control requirements. 
+
+In relation to Four Corners, the US EPA issued its proposed FIP in October 2010. The proposed FIP would require the installation of SCR pollution control equipment within designated time periods. In November 2010, SCE and APS entered into an agreement for the sale of SCE's interest in Four Corners Units 4 and 5 to APS, subject to regulatory approvals and other conditions. Due to the investment constraints of SB 1368, the California law on GHG emission performance standards discussed below in "—Greenhouse Gas Regulation—Regional Initiatives and State Legislation," SCE does not expect to be a Four Corners participant after the 2016 expiration of the current participant agreements and does not expect to participate in any investment in Four Corners SCRs. See "Item 8. Edison International Notes to Consolidated Financial Statements—Note 2. Property, Plant and Equipment" for more information on the sale of SCE's interest in Four Corners.
+
+18
+Illinois and Pennsylvania
+
+Both Pennsylvania and Illinois have submitted their proposed SIP revisions to the US EPA to address regional haze. Illinois proposed that the emission reductions that the Midwest Generation plants will be required to make pursuant to the CPS, discussed above in "—Nitrogen Oxide and Sulfur Dioxide—Illinois," satisfy the BART requirement. Pennsylvania proposed that the existing particulate matter emission limits on the Homer City plant, as well as the plant's participation in the CAIR, would satisfy the BART requirement in that state. Because the CAIR was scheduled to expire on December 31, 2011, the US EPA proposed, on December 30, 2011, a limited disapproval of Pennsylvania's SIP, as well as a Federal Implementation Plan that would allow the Homer City plant's participation in CSAPR to satisfy the BART requirement. It is unclear how the stay of CSAPR will affect the Pennsylvania SIP. EME believes that the control measures being undertaken to comply with other environmental regulations will likely satisfy the requirements of these SIPs.
+
+New Source Review Requirements
+
+The NSR regulations impose certain requirements on facilities, such as electric generating stations, if modifications are made to air emissions sources at the facility. Since 1999, the US EPA has pursued a coordinated compliance and enforcement strategy to address NSR compliance issues at the nation's coal-fired power plants. The US EPA has filed enforcement actions against Homer City and Midwest Generation alleging NSR violations. For further discussion, see "Item 8. Edison International Notes to Consolidated Financial Statements—Note 9. Commitments and Contingencies."
+
+New Mexico
+
+In April 2009, APS, as operating agent of Four Corners, received a US EPA request pursuant to Section 114 of the CAA for information about Four Corners, including information about Four Corners' capital projects from 1990 to the present. SCE understands that in other cases the US EPA has utilized responses to similar Section 114 letters to examine whether power plants have triggered NSR requirements under the CAA. In October 2011, four environmental organizations filed a lawsuit against the Four Corners owners alleging NSR violations. See "Item 8. Edison International Notes to Consolidated Financial Statements—Note 2. Property, Plant and Equipment," for information on the sale of SCE's interest in Four Corners.
+
+Water Quality
+
+Clean Water Act
+
+Regulations under the federal Clean Water Act govern critical operating parameters at generating facilities, such as the temperature of effluent discharges and the location, design and construction of cooling water intake structures at generating facilities. In March 2011, the US EPA proposed standards under the federal Clean Water Act that would affect cooling water intake structures at generating facilities. The standards are intended to protect aquatic organisms by reducing capture in screens attached to cooling water intake structures (impingement) and in the water volume brought into the facilities (entrainment). The regulations are expected to be finalized by July 2012. The required measures to comply with the proposed standards regarding entrainment are subject to the discretion of the permitting authority, and Edison International is unable at this time to assess potential costs of compliance, which could be significant for the Midwest Generation plants and San Onofre, but are not expected to be material for the Homer City plant, which already has cooling towers.
+
+California—Prohibition on the Use of Ocean-Based Once-Through Cooling
+
+California has a US EPA-approved program to issue individual or group permits for the regulation of Clean Water Act discharges. California also regulates certain discharges not regulated by the US EPA. Effective October 1, 2010, the California State Water Resources Control Board issued a final policy, which establishes closed-cycle wet cooling as required technology for retrofitting existing once-through cooled plants like SCE's San Onofre and many of the existing fossil-fueled power plants along the California coast. The final policy required an independent engineering study to be completed prior to the fourth quarter of 2013 regarding the feasibility of compliance by California's two coastal nuclear power plants. The policy may result in significant capital expenditures at San Onofre and may affect its operations. 
+
+Illinois
+
+Midwest Generation is a party to an administrative proceeding before the Illinois Pollution Control Board to determine whether more stringent thermal and effluent water quality standards for the Chicago Area Waterway System and Lower Des Plaines River, which supply cooling water to Midwest Generation's Will County and Joliet Stations, will be implemented. The rule, if implemented, is expected to affect the manner in which those stations use water for station cooling. It is not possible to predict the timing for resolution of the proceeding, the final form of the rule, or how it would impact the operation of the affected stations; however, significant capital expenditures may be required.
+
+19
+Coal Combustion Wastes
+
+US EPA regulations currently classify coal ash and other coal combustion residuals as solid wastes that are exempt from hazardous waste requirements. This classification enables beneficial uses of coal combustion residuals, such as for cement production and fill materials. Midwest Generation currently provides a portion of its coal combustion residuals for beneficial uses. In June 2010, the US EPA published proposed regulations relating to coal combustion residuals that could result in their reclassification. For further discussion see "Item 8. Edison International Notes to Consolidated Financial Statements— Note 10. Environmental Developments."
+
+Greenhouse Gas Regulation
+
+There have been a number of federal and state legislative and regulatory initiatives to reduce GHG emissions. Any climate change regulation or other legal obligation that would require substantial reductions in GHG emissions or that would impose additional costs or charges for the emission of GHGs could significantly increase the cost of generating electricity from fossil fuels, and especially from coal-fired plants, as well as the cost of purchased power, which could adversely affect Edison International.
+
+Federal Legislative/Regulatory Developments
+
+In June 2010, the US EPA issued the Prevention of Significant Deterioration ("PSD") and Title V Greenhouse Gas Tailoring Rule, known as the "GHG tailoring rule." This regulation generally subjects newly constructed sources of GHG emissions and newly modified existing major sources to the PSD air permitting program beginning in January 2011 (and later, to the Title V permitting program under the CAA); however the GHG tailoring rule significantly increases the emissions thresholds that apply before facilities are subjected to these programs. The emissions thresholds for CO2 equivalents in the final rule vary from 75,000 tons per year to 100,000 tons per year depending on the date and whether the sources are new or modified.
+
+Regulation of GHG emissions pursuant to the PSD program could affect efforts to modify EMG's or SCE's facilities in the future, and could subject new capital projects to additional permitting or emissions control requirements that could delay such projects. In December 2010, the US EPA announced that it had entered into a settlement with various states and environmental groups to resolve a long-standing dispute over regulation of GHGs from electrical generating units pursuant to the New Source Performance Standards in the CAA and would propose performance standards for emissions from new and modified power plants and emissions guidelines for existing power plants. The specific requirements will not be known until the regulations are finalized. Since January 2010, the US EPA's Final Mandatory GHG Reporting Rule has required all sources within specified categories, including electric generation facilities, to monitor emissions and to submit annual reports to the US EPA by March 31 of each year. EMG's 2011 GHG emissions were approximately 43 million metric tons. SCE's 2011 GHG emissions were approximately 5.8 million metric tons. 
+
+Regional Initiatives and State Legislation
+
+Regional initiatives and state legislation may also require reductions of GHG emissions and it is not yet clear whether or to what extent any federal legislation would preempt them. If state and/or regional initiatives remain in effect after federal legislation is enacted, utilities and generators could be required to satisfy them in addition to the federal standards.
+
+Edison International subsidiary operations in California are subject to two laws governing GHG emissions. The first law, the California Global Warming Solutions Act of 2006 (also referred to as AB 32), establishes a comprehensive program to reduce GHG emissions. AB 32 requires the California Air Resources Board ("CARB") to develop regulations, effective in 2012, that would reduce California's GHG emissions to 1990 levels in yearly increments by 2020. In December 2011, the CARB regulation was officially published establishing a California cap-and-trade program. The first compliance period under the regulations is for 2013 GHG emissions. CARB regulations implementing a cap-and-trade program and the cap-and-trade program itself, continue to be the subject of litigation. In December 2011, a federal district court enjoined the Low Carbon Fuel Standard, another AB 32 program regulating the carbon content of transportation fuels, on constitutional commerce clause grounds. Additional litigation challenging the cap-and-trade program on similar grounds is expected, though no suit has been filed to date. 
+
+The second law, SB 1368, required the CPUC and the CEC to adopt GHG emission performance standards restricting the ability of California investor-owned and publicly owned utilities, respectively, to enter into long-term arrangements for the purchase of electricity. The standards that have been adopted prohibit these entities, including SCE, from entering into long-term financial commitments with generators that emit more than 1,100 pounds of CO2 per MWh, the performance of a combined-cycle gas turbine generator. SB 1368 may prohibit SCE from making emission control expenditures at Four Corners. See "Item 8. Edison International Notes to Consolidated Financial Statements—Note 2. Property, Plant and Equipment" for information on the sale of SCE's interest in Four Corners.
+
+20
+California law has also required SCE to increase its electricity generated from renewable resources by at least 1% of its annual retail electricity sales per year so that 20% of its annual electricity sales are provided from such resources (the "RPS Program") by no later than December 31, 2010 or such later date as flexible compliance requirements permit. In accordance with the procurement rules and regulations, SCE demonstrated full compliance with the RPS Program in its March 2011 and August 2011 filings. 
+
+In April 2011, California enacted a law requiring California retail sellers of electricity to procure 33% of their customers' electricity requirements from renewable resources, as defined in the statute. The impact of the new 33% law will depend on how the CPUC and CEC implement the law, which remains uncertain. On December 1, 2011, the CPUC approved a decision setting procurement quantity requirements for CPUC-regulated retail sellers that incrementally increase to 33% over several periods between January 2011 and December 31, 2020. The quantity would remain at 33% of retail sales for each year thereafter. Currently SCE estimates its delivery of eligible renewable resources to customers to be 21% of its total energy portfolio for 2011.
+
+Litigation Developments
+
+Litigation alleging that GHG is a public and private nuisance may affect Edison International and its subsidiaries, whether or not they are named as defendants. The law is unsettled on whether this litigation presents questions capable of judicial resolution or political questions that should be resolved by the legislative or executive branches. For further discussion, see "Item 8. Edison International Notes to Consolidated Financial Statements—Note 10. Environmental Developments."
+
+ITEM 1A. RISK FACTORS

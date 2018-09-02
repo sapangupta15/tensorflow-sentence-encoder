@@ -1,0 +1,219 @@
+PART I  
+
+ ITEM 1. Business.  
+
+Company Overview  
+
+Texas Instruments Incorporated (TI) is headquartered in Dallas, Texas, and has manufacturing, design or sales operations in more than 25 countries. We had two business segments in 2007: 1) Semiconductor, which accounted for 96 percent of our revenue, and 2) Education Technology, which accounted for 4 percent of our revenue.  
+
+Financial information with respect to our business segments and our operations outside the United States is contained in the note to the financial statements captioned Segment and Geographic Area Data on pages 39 through 41 of TIs 2007 annual report to stockholders. It is incorporated herein by reference to such annual report.  
+
+The company began operations in 1930 and is incorporated in Delaware.  
+
+Semiconductor Segment  
+
+Semiconductors are electronic components that serve as the building blocks inside of modern electronic systems and equipment. Semiconductors come in two basic forms: individual transistors and integrated circuits (generally known as chips) that combine different transistors on a single piece of material to form a complete electronic circuit. Our Semiconductor segment designs, manufactures and sells integrated circuits.  
+
+The global semiconductor market is characterized by constant, though generally incremental, advances in product designs and manufacturing methods. Typically, new chips are produced in limited quantities at first and then ramp to high-volume production over time. Chip prices and manufacturing costs tend to decline over time as manufacturing methods and product life cycles mature.  
+
+The semiconductor cycle is an important concept that refers to the ebb and flow of supply and demand. The semiconductor market historically has been characterized by periods of tight supply caused by strong demand and/or insufficient manufacturing capacity, followed by periods of surplus products caused by declining demand and/or excess manufacturing capacity. This cycle is affected by the significant time and money required to build and maintain semiconductor manufacturing facilities.  
+
+We were the worlds fourth largest semiconductor company in 2007 as measured by revenue, according to preliminary estimates from an external source. Historically, our Semiconductor segment averages a significantly higher growth rate than our Education Technology segment.  
+
+The majority of our Semiconductor revenue comes from our core products: analog semiconductors and digital signal processors, or DSPs. These products enhance, and often make possible, a variety of applications that serve the communications, computer, consumer electronics, automotive and industrial markets. We believe that virtually all of todays electronic equipment requires some form of analog or digital signal processing.  
+
+We also design and manufacture other types of semiconductors, such as microcontrollers used in safety-critical automotive applications, DLP® products that enable exceptionally clear video, and microprocessors that serve as the brains of high-end computer servers.  
+
+Knowledge about the systems our products go into is becoming increasingly important, because it enables us to differentiate our product offerings for our customers. Where a customer may previously have required multiple chips for a system to operate, we are now integrating the functionality of those multiple chips onto a few or even a single chip because we have both the system-level knowledge and the manufacturing technology to do so. An example is our single-chip cell phone solution, which combines the functionality of many separate chips onto one. The digitization of electronics also requires more high-performance analog functionality. With expertise in both digital signal processing and analog at the system level, we believe we are one of a very few semiconductor companies capable of integrating both technologies onto a single chip.  
+
+In addition, we enable our customers, particularly original design manufacturers (ODMs), to take advantage of our system-level knowledge and thereby speed their time to market by making available to them standard chipsets and reference designs. (An ODM designs and manufactures products for other companies; those other companies then sell the products under their   
+
+2  
+
+ own brands. A chipset is a group of integrated circuits based principally on our technology that are designed to work together for a specific application and are therefore packaged and sold as a unit. Reference designs are technical blueprints that contain all the essential elements of a system.) Customers using our reference designs, such as cell phone ODMs, may enhance or modify the design as they require. Our ability to deliver integrated solutions and system-level knowledge allows our customers to create more advanced systems and products.  
+
+In each of our product categories, we face significant competition. We believe that competitive performance in the semiconductor market depends upon several factors, including the breadth of a companys product line, technological innovation, quality, reliability, price, customer service, technical support and scale.  
+
+Following is detailed information on each product category:  
+
+Analog  
+
+Analog semiconductors connect digital signal processors and other types of logic devices to the outside world, taking real-world signals, such as sound, temperature, pressure and visual images, conditioning them, amplifying them and converting them into digital form and back into real-world signals. They also help manage power distribution and consumption, aspects critical to todays portable electronic devices.  
+
+The analog semiconductor market is diverse and complex, and it is one of the largest sectors of the semiconductor industry. According to external sources, we are the worlds largest supplier of analog semiconductors. Analog chips generated about 40 percent of our Semiconductor revenue in 2007, and we expect analog to be the primary growth driver for the company in the years ahead.  
+
+Our analog product portfolio includes custom mixed-signal products that are designed to a particular customers or applications specifications. These products account for about 50 percent of our analog revenue. The remainder of our analog revenue comes from standard products that are sold across a range of customers and applications. About 45 percent of our analog revenue is from high-performance standard products and about 5 percent is from commodity standard products.  
+
+Many of our custom and standard products are proprietary and difficult for competitors to imitate. Many standard analog chips tend to have long life spans.  
+
+Our mixed-signal products combine multiple types of analog functionality or analog and digital functions on a single chip. Purchasers of our custom mixed-signal products tend to be very large companies that require high-volume designs for specific applications such as communications, displays, printers and automotive. Entry into this market requires significant up-front investment as well as expertise in both analog and digital functionality. The primary competitive factors in this market include design proficiency, and manufacturing expertise and scale.  
+
+In the standard analog chip sub-category known as high-performance analog, we have a portfolio of about 20,000 products, including data converters, amplifiers, power management devices and interface chips. Our high-performance analog products are used by more than 50,000 customers who incorporate our products into a variety of devices sold both in established markets such as for industrial, communications, computer and consumer devices, and in emerging product markets such as for medical devices. These products are sold primarily through distributors. Prices in this market tend to be stable, with relatively high gross profit margins. The primary competitive factors are a diverse product portfolio to meet wide-ranging customer needs, and manufacturing process technologies that provide differentiated levels of performance. Products with higher levels of performance tend to command a premium price.  
+
+Our other standard analog chips are commodity in nature. We design and manufacture thousands of low-cost, high-volume standard products that are sold primarily through distributors. End applications are very diverse and include portable electronic devices and communications. The primary competitive factors in this market are price and availability. Pricing is strongly influenced by supply and demand.  
+
+Overall in the analog market, we compete globally with numerous large and small companies, both broad-based suppliers and niche suppliers. Our primary competitors include Analog Devices, Inc.; Freescale Semiconductor, Inc.; Infineon Technologies AG; Linear Technology Corporation; Maxim Integrated Products, Inc.; National Semiconductor Corporation; NXP B.V.; and STMicroelectronics NV.  
+
+3  
+
+Digital Signal Processors, or DSPs  
+
+DSPs use complex algorithms and compression techniques to alter and improve a data stream. DSPs perform these functions instantaneously and power-efficiently. These products are ideal for applications that require precise, real-time processing of real-world analog signals that have been converted into digital form. Their power efficiency is important for battery-powered devices.  
+
+Combining DSP and analog functionality enables a broad range of significant applications. In a cell phone, the process works as follows: 1) the senders voice is picked up by an analog sensor in the cell phones microphone; 2) an analog-to-digital converter chip changes the analog sound waves of the senders voice into a digital code; 3) the DSP compresses these digital signals and removes background noise; and 4) in the listeners cell phone, the digital code is converted back into the analog sound of the senders voice. All this happens in real time.  
+
+We offer programmable DSPs, which, among other benefits, enable manufacturers to differentiate their product designs via software rather than having to design new hardware. According to external sources, we are the worlds largest DSP supplier. DSPs represent about 40 percent of our Semiconductor revenue.  
+
+Our DSP portfolio includes custom, application-specific and standard products. Custom products are designed for specific customers with very high volumes in established markets. Application-specific products are implementations crafted for specific applications such as wireless infrastructure, VoIP (Voice over Internet Protocol) gateways, video image enhancement, medical, digital still cameras and residential gateways, to name a few. Our standard DSP products are sold into a broad range of applications and seed the next generation of signal-processing innovation.  
+
+About 80 percent of our DSP revenue comes from the cell phone market. To satisfy diverse customer needs, our portfolio of products for cell phone applications consists of both custom and standard products. These products are typically highly integrated semiconductor devices that allow our customers to differentiate their cell phone products from their competitors products through performance, long battery life, features or cost. Also included in our DSP-based wireless portfolio are the widely used OMAP processors, which are high-performance processors that enable multimedia applications in cell phones and other electronic devices.  
+
+In the DSP market, we compete globally with numerous large and small companies, both broad-based and niche suppliers of DSPs as well as suppliers of other technologies that deliver functionality that competes with DSPs. Primary competitive factors are the ability to design and cost-effectively manufacture products, system-level knowledge about targeted end markets, software expertise and applications support. Our primary competitors in the DSP market are Analog Devices, Inc.; Freescale Semiconductor, Inc.; Infineon Technologies AG; and NXP B.V. Others who offer competing technologies include Broadcom Corp.; Marvell Technology Group, Ltd.; MediaTek Inc.; and QUALCOMM Incorporated.  
+
+Other Semiconductor Products  
+
+Our other Semiconductor products, which combined account for about 20 percent of our Semiconductor revenue, include the following:  
+
+DLP® Products  
+
+Our DLP technology is a digital display technology used in projectors and high-definition televisions (HDTVs). Projectors based on this technology are used in businesses, homes, professional venues and increasingly in movie theaters. The technology consists of micro-electromechanical devices that use optical semiconductors to digitally manipulate light. At the center of every DLP product is an array of up to 2.2 million microscopic mirrors. Each mirror tilts back and forth thousands of times each second to create a high resolution, highly reliable, full color image. This technology is used by more than 50 of the worlds top projector and television manufacturers.  
+
+Our DLP technology competes against other display technologies such as liquid crystal display- (LCD) based projectors, and flat-screen LCD- and plasma-based HDTVs . The primary competitive elements in this market include picture quality, product form factors, reliability and price.  
+
+4  
+
+Reduced Instruction-Set Computing (RISC) Microprocessors  
+
+A microprocessor is the central processing unit of a computer system. RISC microprocessors are designed to provide very fast computing, typically for a specialized application such as servers. Our RISC products are primarily 64-bit microprocessors designed by Sun Microsystems, Inc. for use in Sun servers.  
+
+Microcontrollers  
+
+A microcontroller is a microprocessor designed to control a very specific task for electronic equipment. Key applications for our microcontrollers include personal medical, automotive, utility meters, portable consumer products, industrial applications, motor controls and digital power management. Primary competitive factors in this market include integration of control peripherals for reduced board space and number of components, ultra-low power consumption, an easy-to-use integrated development environment for fast system development and a broad range of microcontroller solutions for upgradeability and flexibility in system design.  
+
+Standard Logic  
+
+Standard logic devices are chips generally used to manage the interchange and manipulation of signals within a system. A substantial number of our standard logic products are considered commodities, for which price and delivery are the key competitive factors. We sell thousands of different standard logic products, primarily to distributors. End applications include consumer products and communications.  
+
+Royalties  
+
+An additional source of revenue for TI is royalties received for our patented technology that we license to other electronics companies.  
+
+Applications for Our Semiconductor Products  
+
+The table below lists the major end markets that use our Semiconductor products and the approximate percentage of our Semiconductor revenue that the market represents. The chart also lists the most frequent applications and our products used within these key markets.  
+
+  [DATA_TABLE_REMOVED] 
+
+Manufacturing  
+
+Semiconductor manufacturing begins with the wafer fabrication manufacturing process: a sequence of photo-lithographic and chemical processing steps that fabricate a number of semiconductor devices on a thin silicon wafer. Each device on the wafer is tested and the wafer is cut into pieces called chips. Each chip is assembled into a package that then may be retested. The entire process typically requires between twelve and eighteen weeks and takes place in highly specialized facilities.  
+
+5  
+
+Digital products require the most advanced and most capital-intensive wafer fabrication manufacturing processes and equipment. Digital products tend to move to more advanced processes and equipment every few years. As a result, maintaining an industry-leadership position in digital manufacturing requires significant capital spending, along with investment in research and development (R&D), in order to develop new manufacturing processes and capabilities.  
+
+Analog products typically do not require the same level of advanced wafer fabrication manufacturing processes and equipment as digital products. Although analog products benefit from unique, proprietary manufacturing processes, these processes can be applied using older, less-expensive equipment. Additionally, analog manufacturing processes and equipment remain usable for production for much longer than digital manufacturing processes and equipment. Consequently, for equivalent capacity, the level of capital and R&D spending needed to support analog manufacturing is considerably less than is needed for digital manufacturing.  
+
+We have semiconductor manufacturing facilities in North America, Asia and Europe. These facilities include high-volume wafer fabrication plants and assembly/test sites. To support our future manufacturing needs, our environmentally efficient Richardson, Texas wafer fabrication facility (RFAB) is complete and ready for equipment installation, allowing for rapid increases of digital or analog capacity whenever the market demands. In addition, an environmentally efficient assembly/test facility in the Philippines is now under construction, with initial production planned in the second half of 2008.  
+
+Our semiconductor manufacturing facilities require substantial investment to construct and are largely fixed-cost assets once operating. Because we own much of our manufacturing capacity, a significant portion of our operating costs are fixed. In general, these costs do not decline when customer demand or our capacity utilization rates drop, potentially hurting our profit margins. Conversely, as product demand rises and factory utilization increases, the fixed costs are spread over increased output, potentially benefiting our profit margins.  
+
+To supplement our internal wafer fabrication capacity, maximize our responsiveness to customer demand and minimize our overall capital expenditures, we have implemented a manufacturing strategy that utilizes the capacity of outside suppliers, commonly known as foundries. For advanced digital chips, our strategy involves installing internal wafer fabrication capacity to a level we believe will remain fully utilized over the equipments useful lifetime and then outsourcing remaining capacity needs to foundries. Currently, external foundries provide about 25 percent of our total wafers and about 50 percent of the wafers for our advanced digital products. We expect the proportion of our advanced digital wafers provided by foundries will increase over time. Conversely, we expect to install sufficient internal wafer fabrication capacity to meet substantially all our analog production needs.  
+
+6  
+
+In addition to using foundries to supplement our wafer fabrication needs, we use subcontractors to supplement our assembly and test needs. We generally use subcontractors for assembly/test of products it would be less cost-efficient to complete in-house (e.g., relatively low-volume products that are unlikely to keep internal equipment fully utilized), or in the event demand temporarily exceeds our internal capacity.  
+
+This internal/external manufacturing strategy is designed to reduce the level of our required capital expenditures, and thereby reduce our subsequent levels of depreciation. Expected end results include less fluctuation in our profit margins due to changing product demand, and lower cash requirements for expanding and updating our manufacturing capabilities.  
+
+Another element of our manufacturing strategy for digital chips involves working collaboratively with our foundry suppliers to develop future generations of digital wafer fabrication manufacturing process technology. Historically, we have developed these manufacturing processes in-house. In 2007, we transitioned to a collaborative development model with our foundry suppliers. This strategic shift will allow us to better serve customers with cost-effective digital manufacturing process technology from our foundry suppliers, while also increasing the efficiency of our own R&D and capital. We will continue to develop our own analog manufacturing process technologies.  
+
+Inventory  
+
+Our inventory practices vary depending on the type of product. For standard products, where the risk of obsolescence is low, we generally carry higher levels of inventory. These products usually have many customers and long life cycles, and are often ordered in small quantities. Standard product inventory is sometimes held in unfinished wafer form, giving us greater flexibility to meet final package and test configurations. Examples of these products are high-performance analog, standard DSPs, and standard microcontrollers. For custom products, where the risk of obsolescence is higher, we carry lower levels of inventory when possible. These products usually have a single customer, are sold in high volumes and have comparatively shorter life cycles. Life cycles of these products are often determined by end-equipment upgrade cycles and can be as short as 12 to 24 months. Examples of these products are digital baseband processors for cell phones and custom application-specific analog and digital products. In addition, our inventory levels have increased over time due to the impact of consignment programs at our largest customers, our distributors desire to carry less inventory, and our increased mix of standard products such as high-performance analog.  
+
+Design Centers  
+
+Our design centers provide design, engineering and product application support as well as after-sales customer service. The design centers are strategically located around the world to take advantage of key technical and engineering talent and proximity to key customers.  
+
+Customers  
+
+Our Semiconductor products are sold to original equipment manufacturers (OEMs), ODMs, contract manufacturers and distributors. (An OEM designs and sells products under its own brand that it manufactures in-house or has manufactured by others.) Our largest single customer in 2007 was an OEM, the Nokia group of companies. Direct sales to Nokia were more than 15 percent of our revenue in 2007 and more than 10 percent of our revenue in 2006.  
+
+Sales and Distribution  
+
+We market and sell our products through a direct sales force, distributors and authorized third-party sales representatives. We have sales or marketing offices in over 25 countries worldwide and have expanded our sales networks in the emerging markets of China, India and Eastern Europe. Distributors located around the world account for about 30 percent of our overall Semiconductor revenue, and a majority of our revenue from many standard products (e.g., high-performance analog, standard DSP and standard logic products). Our distributors maintain an inventory of our products and sell directly to a wide range of customers. They also sell products from our competitors.  
+
+Education Technology Segment  
+
+Education Technology is a leading supplier of graphing handheld calculators. This business segment also provides its customers with business and scientific calculators and a wide range of advanced classroom tools and professional development resources to help students and teachers interactively explore math and science. Education Technology relies on third-party manufacturers to build its products. This segment contributed 4 percent of our 2007 revenue.  
+
+7  
+
+Competition  
+
+Our principal competitors in this business are United States- and Japan-based companies, including Casio Computer Co., Ltd. and Hewlett-Packard Company. The principal competitive factors are an understanding of the education market, technology expertise and price.  
+
+Sales and Distribution  
+
+Education Technology sells its products primarily through retailers and instructional dealers.  
+
+Acquisitions, Divestitures and Investments  
+
+From time to time we consider acquisitions and divestitures that may strengthen or better focus our business portfolio. We also make investments directly or indirectly in private companies. Investments are focused primarily on next-generation technologies and markets strategic to us.  
+
+In July 2007, we completed the sale of our broadband digital subscriber line (DSL) customer-premises equipment semiconductor product line to Infineon Technologies AG for $61 million.  
+
+Backlog  
+
+We define backlog as of a particular date as firm purchase orders with a customer-requested delivery date within a specified length of time. As customer requirements and industry conditions change, orders may be, under certain circumstances, subject to cancellation or modification of terms such as pricing, quantity or delivery date. Customer order placement practices continually evolve based on customers individual business needs and capabilities, as well as industry supply and capacity considerations. Accordingly, we believe that our backlog at any particular date may not be indicative of revenue for any future period. Although we ship a substantial number of orders in the quarter in which they are received, our backlog of orders was $1.50 billion at December 31, 2007, and $1.64 billion at December 31, 2006.  
+
+Raw Materials   
+
+We purchase materials, parts and supplies from a number of suppliers. In some cases we purchase such items from sole source suppliers. The materials, parts and supplies essential to our business are generally available at present, and we believe that such materials, parts and supplies will be available in the foreseeable future.  
+
+Intellectual Property  
+
+We own many patents, and have many patent applications pending, in the United States and other countries in fields relating to our business. We have developed a strong, broad-based patent portfolio and continually add patents to that portfolio. We also have agreements with numerous companies involving license rights and anticipate that other license agreements may be negotiated in the future. In general, our license agreements have multi-year terms and may be renewed after renegotiation.  
+
+Our Semiconductor patent portfolio is an ongoing contributor to Semiconductor revenue. We do not consider our business materially dependent upon any one patent or patent license, although taken as a whole, our rights and the products made and sold under patents and patent licenses are important to our business.  
+
+We often participate in industry initiatives to set technical standards. Our competitors may also participate in the same initiatives. Participation in these initiatives may require us to license our patents to other companies.  
+
+We own trademarks that are used in the conduct of our business. These trademarks are valuable assets, the most important of which are Texas Instruments and our corporate monogram. Other valuable trademarks include DLP® and OMAPTM.  
+
+Research and Development  
+
+Our primary area of R&D investment is semiconductor products and semiconductor manufacturing technology. We conduct most of our R&D internally. However, we also closely engage with a wide range of external industry consortia and universities and collaborate with our foundry suppliers.  
+
+8  
+
+From time to time we may terminate R&D projects before completion or decide not to manufacture and sell a developed product. We do not expect that all of our R&D projects will result in products that are ultimately released for sale or that our projects will contribute to revenue until at least a few years following completion.  
+
+Our R&D expense was $2.15 billion in 2007, compared with $2.20 billion in 2006 and $1.99 billion in 2005.  
+
+Seasonality  
+
+Our revenue and operating results are subject to some seasonal variation. Education Technology experiences its strongest results in the second and third quarters in preparation for the back-to-school season. The Semiconductor segment generally is seasonally weaker in the first quarter than it is in other quarters, particularly for products sold into cell phone and consumer electronics applications that have stronger sales later in the year as manufacturers prepare for the holiday selling season.  
+
+Executive Officers of the Registrant  
+
+The following is an alphabetical list of the names and ages of the executive officers of the company and the positions or offices with the company presently held by each person named:  
+
+  [DATA_TABLE_REMOVED] 
+
+The term of office of the above-listed officers is from the date of their election until their successor shall have been elected and qualified. As we announced on January 17, 2008, Mr. Engibous will retire immediately after our 2008 stockholders meeting on April 17. All executive officers of the company have been employees of the company for more than five years. Ms. West and Messrs. Engibous, Hames, Hubach, Lowe and Templeton have served as executive officers of the company for more than five years. Mr. March became an executive officer of the company in 2003. Ms. Lovett and Mr. Ritchie became executive officers of the company in 2004. Mr. Van Scoter became an executive officer of the company in 2005. Mr. George and Ms. Whitaker became executive officers of the company in 2006. Messrs. Delagi and Heacock became executive officers of the company in 2007.  
+
+Employees  
+
+At December 31, 2007, we had 30,175 employees.  
+
+Available Information  
+
+Our Internet address is www.ti.com. Information on our web site is not a part of this report. We make available, free of charge, through our investor relations web site our reports on Forms 10-K, 10-Q and 8-K, and amendments to those reports, as soon as reasonably practicable after they are filed with the SEC. Also available through the TI investor relations web site are reports filed by our directors and executive officers on Forms 3, 4 and 5, and amendments to those reports.  
+
+9  
+
+Available on our web site at www.ti.com/corporategovernance are: (i) our Corporate Governance Guidelines; (ii) charters for the Audit, Compensation, and Governance and Stockholder Relations Committees of our board of directors; (iii) our Code of Business Conduct; and (iv) our Code of Ethics for TI Chief Executive Officer and Senior Financial Officers. Stockholders may request copies of these documents free of charge by writing to Texas Instruments Incorporated, P.O. Box 660199, MS 8657, Dallas, Texas, 75266-0199, Attention: Investor Relations.  
+
+ ITEM 1A. Risk Factors.

@@ -1,0 +1,725 @@
+Item 7.  
+
+Management’s Discussion and Analysis of Financial Condition and Results of Operations  
+
+Introduction  
+
+The following discussion and analysis should be read together with the accompanying consolidated financial statements and related notes thereto. Further, this report may contain material that includes forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 that reflect, when made, Nielsen’s current views with respect to current events and financial performance. These forward-looking statements are subject to numerous risks and uncertainties, including, but not limited to, those described in “Item 1A. Risk Factors.” Statements, other than those based on historical facts, which address activities, events or developments that we expect or anticipate may occur in the future are forward-looking statements. Such forward-looking statements are and will be, as the case may be, subject to many risks, uncertainties and factors relating to Nielsen’s operations and business environment that may cause actual results to be materially different from any future results, express or implied, by such forward-looking statements. See “Cautionary Statement Regarding Forward-Looking Statements” in Part I of this Annual Report on Form 10-K. The terms “Company,” “Nielsen,” “we,” “our” or “us,” as used herein, refer to Nielsen Holdings plc and its consolidated subsidiaries unless otherwise stated or indicated by context.  
+
+Background and Executive Summary  
+
+We are a leading global performance management company that provides clients with a comprehensive understanding of consumers and consumer behavior. We deliver critical media and marketing information, analytics and industry expertise about what consumers buy (referred to herein as “Buy”) and what consumers read, watch and listen to (consumer interaction across the television, radio, digital and mobile viewing and listening platforms referred to herein as “Watch”) on a global and local basis. Our measurement and analytical services help our clients maintain and strengthen their market positions and identify opportunities for profitable growth. We have a presence in more than 100 countries, including many emerging markets, and hold leading market positions in many of our services and geographies.  
+
+We believe that important measures of our results of operations include revenue, operating income and Adjusted EBITDA (defined below). Our long-term financial objectives include consistent revenue growth and expanding operating margins. Accordingly, we are focused on geographic market and service offering expansion to drive revenue growth and improve operating efficiencies, including effective resource utilization, information technology leverage and overhead cost management.  
+
+Our business strategy is built upon a model that has traditionally yielded consistent revenue performance. Typically, before the start of each year, more than 70% of our annual revenue has been committed under contracts in our combined Buy and Watch segments, which provides us with a high degree of stability for our revenue and allows us to effectively manage our profitability and cash flows. We continue to look for growth opportunities through global expansion, specifically within emerging markets, as well as through the cross-platform expansion of our analytical services and measurement services.  
+
+Our restructuring and other productivity initiatives have been focused on a combination of improving operating leverage through targeted cost-reduction programs, business process improvements and portfolio restructuring actions, while at the same time investing in key programs to enhance future growth opportunities.  
+
+Achieving our business objectives requires us to manage a number of key risk areas. Our growth objective of geographic market and service expansion requires us to maintain the consistency and integrity of our information and underlying processes on a global scale, and to invest effectively our capital in technology and infrastructure to keep pace with our clients’ demands and our competitors. Core to managing these key risk areas is our commitment to data privacy and security as it drives our ability to deliver quality insights for our clients in line with evolving regulatory requirements and governing standards across all the geographies and industries in which we operate. Our operating footprint across more than 100 countries requires disciplined global and local resource management of internal and third party providers to ensure success. In addition, our high level of indebtedness requires active management of our debt profile, with a focus on underlying maturities, interest rate risk, liquidity and operating cash flows. 
+
+Business Segment Overview  
+
+We align our business into two reporting segments: what consumers buy (consumer purchasing measurement and analytics), and what consumers watch and listen to (media audience measurement and analytics). Our Buy and Watch segments are built on a foundation of proprietary data assets that are designed to yield essential insights for our clients to successfully measure, analyze and grow their businesses.  
+
+31 
+
+Our Buy segment provides measurement services, which include our core tracking and scan data (primarily transactional measurement data and consumer behavior information), and analytical services to businesses in the consumer packaged goods industry. Our services also enable our clients to better manage their brands, uncover new sources of demand, launch and grow new products, analyze their sales, improve their marketing mix and establish more effective consumer relationships. Our data is used by our clients to measure their market share, tracking billions of sales transactions per month in retail outlets around the world. Our extensive database of retail and consumer information, combined with our advanced analytical capabilities, helps generate strategic insights that influence our clients’ key business decisions. Within our Buy segment, we have two primary geographic groups, developed and emerging markets. Developed markets primarily include the United States, Canada, Western Europe, Japan, Australia and South Korea while emerging markets primarily include Africa, Latin America, Eastern Europe, Russia, China, India and Southeast Asia.  
+
+Our Watch segment provides viewership and listening data and analytics primarily to the media and advertising industries for television, radio, digital and mobile viewing and listening platforms. Our Watch data is used by our media clients to understand their audiences, establish the value of their advertising inventory and maximize the value of their content, and by our advertising clients to plan and optimize their spending.  
+
+Certain corporate costs, other than those described above, including those related to selling, finance, legal, human resources, and information technology systems, are considered operating costs and are allocated to our segments based on either the actual amount of costs incurred or on a basis consistent with the operations of the underlying segment.  
+
+Critical Accounting Policies  
+
+The discussion and analysis of our financial condition and results of operations is based on our consolidated financial statements, which have been prepared in accordance with U.S. generally accepted accounting principles (“GAAP”). The preparation of financial statements requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, revenues and expenses and the related disclosure of contingent assets and liabilities. The most significant of these policies relate to: revenue recognition; business combinations including purchase price allocations; accruals for pension costs and other post-retirement benefits; accounting for income taxes; and valuation of long-lived assets including goodwill and indefinite-lived intangible assets, computer software and stock-based compensation. We base our estimates on historical experience and on various other assumptions that we believe are reasonable under the circumstances, the results of which form the basis for making judgments about the valuation of assets and liabilities that are not readily apparent from other sources. We evaluate these estimates on an ongoing basis. Actual results could vary from these estimates under different assumptions or conditions. For a summary of the significant accounting policies, including the critical accounting policies discussed below, see Note 1 – “Description of Business, Basis of Presentation and Significant Accounting Policies” – to our consolidated financial statements.  
+
+Revenue Recognition  
+
+We recognize revenues when persuasive evidence of an arrangement exists, services have been rendered or information has been delivered, the fee is fixed or determinable and the collectability of the related revenue is reasonably assured.  
+
+A significant portion of our revenue is generated from information (primarily retail measurement and consumer panel services) and measurement (primarily from television, radio, internet and mobile audiences) services. We generally recognize revenue from the sale of services as the services are performed and delivered to the consumer, which is usually ratably over the term of the contract(s). Invoiced amounts are recorded as deferred revenue until earned. Substantially all of our customer contracts are non-cancelable and non-refundable.  
+
+Certain of our revenue arrangements include multiple deliverables and in these arrangements, the individual deliverables within the contract that have stand-alone value to the customer are separated and recognized upon delivery based upon our best estimate of their selling prices. These arrangements are not significant to our results of operations. In certain cases, software is included as part of these arrangements to allow our customers to view delivered information and is provided for the term of the arrangement and is not significant to the marketing effort and is not sold separately. Accordingly, software provided to our customers is considered to be incidental to the arrangements and is not recognized as a separate element.  
+
+A discussion of our revenue recognition policies, by segment, follows:  
+
+Buy  
+
+Revenue from our Buy segment, primarily from retail measurement services and consumer panel services, is recognized over the period during which the services are performed and information is delivered to the customer, primarily on a straight-line basis.  
+
+32 
+
+We also provide insights and solutions to customers through analytical studies that are recognized into revenue as value is delivered to the customer. The pattern of revenue recognition for these contracts varies depending on the terms of the individual contracts, and may be recognized proportionally or deferred until the end of the contract term and recognized when the information has been delivered to the customer.  
+
+Watch  
+
+Revenue from our Watch segment is primarily generated from television, radio, digital and mobile measurement services and recognized over the contract period, as the service is delivered to the customer, primarily on a straight-line basis.  
+
+Stock-Based Compensation  
+
+Expense Recognition  
+
+Our stock-based compensation programs are comprised of both stock options and restricted stock units (“RSUs”). We measure the cost of all stock-based payments, including stock options, at fair value on the grant date and recognize such costs within the consolidated statements of operations; however, no expense is recognized for stock-based payments that do not ultimately vest. We recognize expense associated with stock-based payments that vest upon a single date using the straight-line method. For those that vest over time, an accelerated graded vesting is used. We recorded $45 million, $51 million and $48 million of expense associated with stock-based compensation for the years ended December 31, 2017, 2016 and 2015, respectively. As of December 31, 2017, the aggregate grant date fair value of all outstanding vested and unvested options was $30 million and $13 million, respectively. As of December 31, 2017, approximately $49 million of unearned stock-based compensation related to unvested RSUs (net of estimated forfeitures) is expected to be recognized over a weighted average period of 3.4 years.  
+
+Fair Value Measurement  
+
+Determining the fair value of stock-based awards at the grant date requires considerable judgment. Stock-based compensation expense for time-based stock options is primarily based on the estimated grant date fair value using the Black-Scholes option pricing model, which considers factors such as estimating the expected term of stock options, expected volatility of our stock, and the number of stock-based awards expected to be forfeited due to future terminations. Some of the critical assumptions used in estimating the grant date fair value are presented in the table below:  
+
+ [DATA_TABLE_REMOVED] 
+
+We consider the historical option exercise behavior of our employees in estimating the expected life of our options granted, which we believe are representative of future behavior. For 2017, 2016 and 2015, expected volatility was based on our historical volatility.  
+
+In addition, for stock-based awards where vesting is dependent upon achieving certain operating performance goals, we estimate the likelihood of achieving the performance goals. The total number of performance restricted share units to be earned is subject to achievement of cumulative performance goals for the three year period. Forty percent of the target award will be determined based on the Company’s relative total shareholder return and sixty percent of the target award will be determined based on free cash flow achievements. The maximum payout is 200% of target. The fair value of the target award related to free cash flow was the fair value on the date of the grant, and the fair value of the target awards related to relative shareholder return was based on the Monte Carlo model. Differences between actual results and these estimates could have a material effect on our financial results.  
+
+The assumptions used in calculating the fair value of stock-based awards represent our best estimates and, although we believe them to be reasonable, these estimates involve inherent uncertainties and the application of management’s judgment. If factors change and we employ different assumptions in the application of our option-pricing model in future periods or if we experience different forfeiture rates, the compensation expense that is derived may differ significantly from what we have recorded in the current year.  
+
+33 
+
+Cash and Cash Equivalents 
+
+Cash and cash equivalents include cash and short-term, highly liquid investments with an original maturity date of three months or less. Cash and cash equivalents are carried at fair value. 
+
+Accounts Receivable 
+
+The Company extends non-interest bearing trade credit to its customers in the ordinary course of business. To minimize credit risk, ongoing credit evaluations of client’s financial condition are performed. An estimate of the allowance for doubtful accounts is made when collection of the full amount is no longer probable or returns are expected. 
+
+During the years ended December 31, 2017 and 2016, we sold $202 million and $137 million, respectively, of accounts receivables to third parties and recorded an immaterial loss on the sales to interest expense, net in the consolidated statement of operations. As of December 31, 2017 and 2016, $110 million and $71 million, respectively, remained outstanding. The sales were accounted for as true sales, without recourse. We maintain servicing responsibilities of the receivables, for which the related costs are not significant. The proceeds of $202 million and $137 million from the sales were reported as a component of the changes in trade and other receivables, net within operating activities in the consolidated statement of cash flows.  
+
+Goodwill and Indefinite-Lived Intangible Assets  
+
+Goodwill and other indefinite-lived intangible assets are stated at historical cost less accumulated impairment losses, if any.  
+
+Goodwill and other indefinite-lived intangible assets, consisting of certain trade names and trademarks, are each tested for impairment on an annual basis and whenever events or circumstances indicate that the carrying amount of such asset may not be recoverable. We have designated October 1st as the date in which the annual assessment is performed as this timing corresponds with the development of our formal budget and business plan review. We review the recoverability of our goodwill by comparing the estimated fair values of reporting units with their respective carrying amounts. We established, and continue to evaluate, our reporting units based on our internal reporting structure and define such reporting units at our operating segment level or one level below. The estimates of fair value of a reporting unit are determined using a combination of valuation techniques, primarily by an income approach using a discounted cash flow analysis and supplemented by a market-based approach.  
+
+A discounted cash flow analysis requires the use of various assumptions, including expectations of future cash flows, growth rates, discount rates and tax rates in developing the present value of future cash flow projections. Many of the factors used in assessing fair value are outside of the control of management, and these assumptions and estimates can change in future periods. Changes in assumptions or estimates could materially affect the determination of the fair value of a reporting unit, and therefore could affect the amount of potential impairment. The following assumptions are significant to our discounted cash flow analysis:  
+
+•  
+
+Business projections – expected future cash flows and growth rates are based on assumptions about the level of business activity in the marketplace as well as applicable cost levels that drive our budget and business plans. The budget and business plans are updated at least annually and are frequently reviewed by management and our Board of Directors. Actual results of operations, cash flows and other factors will likely differ from the estimates used in our valuation, and it is possible that differences and changes could be material. A deterioration in profitability, adverse market conditions and a slower or weaker economic recovery than currently estimated by management could have a significant impact on the estimated fair value of our reporting units and could result in an impairment charge in the future. Should such events or circumstances arise, management would evaluate other options available at that time that, if executed, could result in future profitability.  
+
+•  
+
+Long-term growth rates – the assumed long-term growth rate representing the expected rate at which a reporting unit’s earnings stream, beyond that of the budget and business plan period, is projected to grow. These rates are used to calculate the terminal value, or value at the end of the future earnings stream, of our reporting units, and are added to the cash flows projected for the budget and business plan period. The long-term growth rate for each reporting unit is influenced by general market conditions as well as factors specific to the reporting unit such as the maturity of the underlying services. The long-term growth rates we used for each of our reporting units in our 2017 evaluation were between 2.5% and 3.0%.  
+
+•  
+
+Discount rates – the reporting unit’s combined future cash flows are discounted at a rate that is consistent with a weighted-average cost of capital that is likely to be used by market participants. The weighted-average cost of capital is our estimate of the overall after-tax rate of return required by equity and debt holders of a business enterprise. The discount rate for each reporting unit is influenced by general market conditions as well as factors specific to the reporting unit. The discount rates we used in our 2017 evaluation of our reporting units were between 9.0% and 12.0%.  
+
+34 
+
+These estimates and assumptions vary between each reporting unit depending on the facts and circumstances specific to that unit. We believe that the estimates and assumptions we made are reasonable, but they are susceptible to change from period to period.  
+
+We also use a market-based approach in estimating the fair value of our reporting units. The market-based approach utilizes available market comparisons such as indicative industry multiples that are applied to current year revenue and earnings as well as recent comparable transactions.  
+
+To validate the reasonableness of the reporting unit fair values, we reconcile the aggregate fair values of our reporting units to our enterprise market capitalization. Enterprise market capitalization includes, among other factors, the market value of our common stock and the appropriate redemption values of our debt.  
+
+We did not have any indicators of impairment during the year ended December 31, 2017 that would require us to perform an interim impairment assessment. The following table summarizes the results of the three reporting units that were subject to the October 1, 2017 annual impairment testing and the related goodwill value associated with the reporting units for (a) fair values exceeding carrying values by less than 10%, (b) fair values exceeding carrying values between 10% and 20%, and (c) fair values exceeding carrying values by more than 20%. The table below represents the reporting units goodwill balances as of December 31, 2017. 
+
+ [DATA_TABLE_REMOVED] 
+
+We perform sensitivity analyses on our assumptions, primarily around both long-term growth rate and discount rate assumptions. Our sensitivity analyses include several combinations of reasonably possible scenarios with regard to these assumptions. However, we consistently test a one percent movement in both our long-term growth rate and discount rate assumptions. When applying these sensitivity analyses, we noted that the fair value was greater than the underlying book value for all of our reporting units. While management believes that these sensitivity analyses provide a reasonable basis on which to evaluate the recovery of our goodwill, other facts or circumstances may arise that could impact the impairment assessment and therefore these analyses should not be used as a sole predictor of impairment. 
+
+The impairment test for other indefinite-lived intangible assets consists of a comparison of the fair value of the intangible asset with its carrying amount. If the carrying amount of the intangible asset exceeds its fair value, an impairment loss is recognized in an amount equal to that excess. The estimates of fair value of trade names and trademarks are determined using a “relief from royalty” discounted cash flow valuation methodology. Significant assumptions inherent in this methodology include estimates of royalty rates and discount rates. Discount rate assumptions are based on an assessment of the risk inherent in the respective intangible assets. Assumptions about royalty rates are based on the rates at which comparable trade names and trademarks are being licensed in the marketplace.  
+
+Pension Costs  
+
+We provide a number of retirement benefits to our employees, including defined benefit pension plans and post-retirement medical plans. Pension costs, in respect of defined benefit pension plans, primarily represent the increase in the actuarial present value of the obligation for pension benefits based on employee service during the year and the interest on this obligation in respect of employee service in previous years, net of the expected return on plan assets. Differences between this expected return and the actual return on these plan assets and actuarial changes are not recognized in the statement of operations, unless the accumulated differences and changes exceed a certain threshold. The excess is amortized and charged to the statement of operations over, at the maximum, the average remaining term of employee service. We recognize obligations for contributions to defined contribution pension plans as expenses in the statement of operations as they are incurred.  
+
+The determination of benefit obligations and expenses is based on actuarial models. In order to measure benefit costs and obligations using these models, critical assumptions are made with regard to the discount rate, the expected return on plan assets and the assumed rate of compensation increases. We provide retiree medical benefits to a limited number of participants in the U.S. Therefore, retiree medical care cost trend rates are not a significant driver of our post retirement costs. Management reviews these critical assumptions at least annually. Other assumptions involve demographic factors such as turnover, retirement and mortality rates. Management reviews these assumptions periodically and updates them as necessary.  
+
+35 
+
+The discount rate is the rate at which the benefit obligations could be effectively settled. For our U.S. plans, the discount rate is based on a bond portfolio that includes only long-term bonds with an Aa rating, or equivalent, from a major rating agency. For the Dutch and other non-U.S. plans, the discount rate is set by reference to market yields on high-quality corporate bonds. We believe the timing and amount of cash flows related to the bonds in these portfolios are expected to match the estimated payment benefit streams of our plans. 
+
+Effective January 1, 2016, we changed our approach to calculating the discount rate for our retirement benefit pension plans from a weighted-average yield curve approach to a spot-rate approach. Under the spot-rate approach, we use individual spot rates along the yield curve that correspond with the timing of each future cash outflow for benefit payments in order to calculate interest cost and service cost within net periodic benefit costs. The spot-rate approach represents a more precise measurement of interest and service cost. The new approach represents a change in accounting estimate that is inseparable from a change in accounting principle and accordingly is accounted for prospectively.  
+
+To determine the expected long-term rate of return on pension plan assets, we consider, for each country, the structure of the asset portfolio and the expected rates of return for each of the components. For our U.S. plans, a 50 basis point decrease in the expected return on assets would increase pension expense on our principal plans by approximately $1 million per year. A similar 50 basis point decrease in the expected return on assets would increase pension expense on our principal Dutch plans by approximately $3 million per year. We assumed that the weighted-averages of long-term returns on our pension plans were 4.6% for the year ended December 31, 2017, 5.1% for the year ended December 31, 2016 and 6.0% for the year ended December 31, 2015. The expected long-term rate of return is applied to the fair value of pension plan assets. The actual return on plan assets will vary year to year from this assumption. Although the actual return on plan assets will vary from year to year, it is appropriate to use long-term expected forecasts in selecting our expected return on plan assets. As such, there can be no assurance that our actual return on plan assets will approximate the long-term expected forecasts.  
+
+Income Taxes  
+
+We have a presence in more than 100 countries. We have completed many material acquisitions and divestitures which have generated complex tax issues requiring management to use its judgment to make various tax determinations. We try to organize the affairs of our subsidiaries in a tax efficient manner, taking into consideration the jurisdictions in which we operate. Although we are confident that tax returns have been appropriately prepared and filed, there is risk that additional tax may be assessed on certain transactions or that the deductibility of certain expenditures may be disallowed for tax purposes. Our policy is to estimate tax risk to the best of our ability and provide accordingly for those risks and take positions in which a high degree of confidence exists that the tax treatment will be accepted by the tax authorities. The policy with respect to deferred taxation is to provide in full for temporary differences using the liability method.  
+
+Deferred tax assets and deferred tax liabilities are computed by assessing temporary differences resulting from differing treatment of items for tax and accounting purposes. The carrying value of deferred tax assets is adjusted by a valuation allowance to the extent that these deferred tax assets are not considered to be realized on a more likely than not basis. Realization of deferred tax assets is based, in part, on our judgment and various factors including reversal of deferred tax liabilities, our ability to generate future taxable income in jurisdictions where such assets have arisen and potential tax planning strategies. Valuation allowances are recorded in order to reduce the deferred tax assets to the amount expected to be realized in the future.  
+
+The Tax Cuts and Jobs Act (the “TCJ Act”) was enacted in December of 2017. The TCJ Act reduces the U.S. federal corporate income tax rate from 35 percent to 21 percent, effective as of January 1, 2018, and creates a territorial-style taxing system. The TCJ Act also requires companies to pay a one-time transition tax on earnings of certain foreign subsidiaries that were previously deferred and also creates new taxes on certain types of foreign earnings. We are subject to the provisions of the Financial Accounting Standards Board ("FASB") ASC 740-10, Income Taxes, which requires that the effect on deferred tax assets and liabilities of a change in tax rates be recognized in the period the tax rate change was enacted. In December of 2017, the SEC staff issued SAB 118 which provides that companies that have not completed their accounting for the effects of the TCJ Act but can determine a reasonable estimate of those effects should include a provisional amount based on their reasonable estimate in their financial statements. The guidance in SAB 118 also allows companies to adjust the provisional amounts during a one year measurement period which is similar to the measurement period used when accounting for business combinations. As of December 31, 2017, we have not completed our accounting for all of the tax effects associated with the enactment of the TCJ Act. However, we have, in certain cases made a reasonable estimate of the (a) effects on our existing deferred tax balances, and (b) the one-time transition tax. Consequently, our fourth quarter of 2017 and full year 2017 results of operations reflect a non-cash provisional net expense of $104 million. See Note 13 – “Income Taxes” - to the consolidated financial statements for more information relating to these items.  
+
+36 
+
+We record a liability for unrecognized tax benefits resulting from uncertain tax positions taken or expected to be taken in a tax return. Such tax positions are, based solely on their technical merits, more likely than not to be sustained upon examination by taxing authorities and reflect the largest amount of benefit, determined on a cumulative probability basis that is more likely than not to be realized upon settlement with the applicable taxing authority with full knowledge of all relevant information. We recognize interest and penalties, if any, related to unrecognized tax benefits in income tax expense.  
+
+Long-Lived Assets  
+
+We are required to assess whether the value of our long-lived assets, including our buildings, improvements, technical and other equipment, and amortizable intangible assets have been impaired whenever events or changes in circumstances indicate that the carrying amount of the assets might not be recoverable. We do not perform a periodic assessment of assets for impairment in the absence of such information or indicators. Conditions that would necessitate an impairment assessment include a significant decline in the observable market value of an asset, a significant change in the extent or manner in which an asset is used or a significant adverse change that would indicate that the carrying amount of an asset or group of assets is not recoverable. Recoverability of assets that are held and used is measured by comparing the sum of the future undiscounted cash flows expected to be derived from an asset (or a group of assets) to their carrying value. If the carrying value of the asset (or the group of assets) exceeds the sum of the future undiscounted cash flows, impairment is considered to exist. If impairment is considered to exist based on undiscounted cash flows, the impairment charge is measured using an estimation of the assets’ fair value, typically using a discounted cash flow method. The identification of impairment indicators, the estimation of future cash flows and the determination of fair values for assets (or groups of assets) requires us to make significant judgments concerning the identification and validation of impairment indicators, expected cash flows and applicable discount rates. These estimates are subject to revision as market conditions and our assessments change. No impairment indicators were noted for the years ended December 31, 2017, 2016 and 2015.  
+
+We capitalize software development costs with respect to major internal use software initiatives or enhancements. The costs are capitalized from the time that the preliminary project stage is completed, and we consider it probable that the software will be used to perform the function intended until the time the software is placed in service for its intended use. Once the software is placed in service, the capitalized costs are generally amortized over periods of three to seven years. If events or changes in circumstances indicate that the carrying value of software may not be recovered, a recoverability analysis is performed based on estimated undiscounted cash flows to be generated from the software in the future. If the analysis indicates that the carrying value is not recoverable from future cash flows, the software cost is written down to estimated fair value and an impairment is recognized. These estimates are subject to revision as market conditions and as our assessments change. There were no impairment charges for the year ended December 31, 2017.  
+
+Factors Affecting Nielsen’s Financial Results  
+
+Acquisitions, Dispositions and Investments in Affiliates  
+
+Acquisitions 
+
+On February 1, 2017, we completed the acquisition of Gracenote Inc., Gracenote Canada, Inc., Gracenote Netherlands Holdings B.V., Tribune Digital Ventures, LLC, and Tribune International Holdco, LLC (each, a “Gracenote Company” and together “Gracenote”) through the purchase of 100% of each Gracenote Company’s outstanding common stock from Tribune Media Company for a total purchase price of $585 million. We acquired the data and technology that underpins the programming guides and personalized user experience for major video, music, audio and sports content. This acquisition expands our footprint with major clients including Gracenote’s global content database which spans across platforms including multichannel video programming distributors (MVPD’s), smart television, streaming music services, connected devices, media players and in-car infotainment systems.  
+
+The acquisition of Gracenote was accounted for using the acquisition method of accounting which requires, among other things, the assets acquired and the liabilities assumed be recognized at their fair values as of the acquisition date. Effective February 1, 2017, the financial results of Gracenote were included within the Watch segment of our consolidated financial statements. For the year ended December, 31, 2017, our consolidated statement of operations includes $215 million of revenues related to the Gracenote acquisition. 
+
+37 
+
+The purchase price was allocated based upon the fair value of the assets acquired and liabilities assumed at the date of acquisition using available information and certain assumptions management believed reasonable. The following table summarizes the purchase price allocation: 
+
+ [DATA_TABLE_REMOVED] 
+
+As of the acquisition date, the fair value of accounts receivable approximated historical cost. The gross contractual receivable was $37 million and is included in other current assets above, of which $1 million was deemed uncollectible.  
+
+The allocation of the purchase price to goodwill and identified intangible assets was $316 million and $341 million, respectively. All of the Gracenote related goodwill and intangible assets are attributable to our Watch segment. As of December 31, 2017, $21 million of goodwill is expected to be deductible for income tax purposes. 
+
+Intangible assets and their estimated useful lives consist of the following:  
+
+ [DATA_TABLE_REMOVED] 
+
+Goodwill is calculated as the excess of the consideration transferred over the net assets recognized and represents expected synergies and the going concern nature of Gracenote.  
+
+We incurred acquisition-related expenses of $6 million for the year ended December 31, 2017, which primarily consisted of transaction fees, legal, accounting and other professional services that are included in selling, general and administrative expenses in the consolidated statement of operations. 
+
+The following unaudited pro forma information presents the consolidated results of operations of us and Gracenote for the year ended December 31, 2017, as if the acquisition had occurred on January 1, 2016, with pro forma adjustments to give effect to amortization of intangible assets, an increase in interest expense from acquisition financing, and certain other adjustments: 
+
+ [DATA_TABLE_REMOVED] 
+
+The unaudited pro forma results do not reflect any synergies and are not necessarily indicative of the results that we would have attained had the acquisition of Gracenote been completed as of the beginning of the reporting period. 
+
+For the year ended December 31, 2017, excluding Gracenote, we paid cash consideration of $210 million associated with both current period and previously executed acquisitions, net of cash acquired. Had these 2017 acquisitions occurred as of January 1, 2017, the impact on our consolidated results of operations would not have been material.  
+
+38 
+
+For the year ended December 31, 2016, we paid cash consideration of $285 million associated with both current period and previously executed acquisitions, net of cash acquired. Had these 2016 acquisitions occurred as of January 1, 2016, the impact on our consolidated results of operations would not have been material.  
+
+For the year ended December 31, 2015, we paid cash consideration of $246 million associated with both current period and previously executed acquisitions, net of cash acquired. Included in this amount is $45 million for an additional 13.5% interest in Nielsen Catalina Solutions, a joint venture between us and Catalina (“NCS”) that we historically accounted for under the equity method of accounting. As part of this transaction we gained control of NCS and, as such accounted for it as a step-acquisition and calculated the fair value of the investment immediately before the acquisition to be $161 million. As a result, during the fourth quarter of 2015, we recorded a $158 million gain on the investment in NCS to other income/(expense), net in the consolidated statement of operations. Commencing October 1, 2015, NCS was reflected as a consolidated subsidiary within our consolidated financial statements. Had these 2015 acquisitions occurred as of January 1, 2015, the impact on our consolidated results of operations would not have been material.  
+
+Dispositions 
+
+In December 2016, we completed the sale of Claritas, a business focusing on consumer segmentation insights within our Buy segment, for cash consideration of $34 million and a note receivable for $60 million. The note is payable at any time over three years and bears interest at 3% in year one, 5% in year two and 7% in year three. As a result of this transaction we recorded a $14 million gain on the sale to other income/(expense), net in the consolidated statement of operations. This disposition did not qualify to be classified as a discontinued operation. In 2017, upon finalization of working capital and other settlement matters, we reduced the note receivable to $51 million and recorded a charge of $13 million to other income/(expense), net in the consolidated statement of operations.  
+
+In November 2015, we completed the sale of the National Research Group, Inc., a leader in providing market research to movie studios within our Watch segment, for total cash consideration of $34 million and recorded an $18 million gain on the sale to other income/(expense), net in the consolidated statement of operations. This disposition did not qualify to be classified as a discontinued operation. 
+
+Income Taxes 
+
+The Tax Cuts and Jobs Act (the “TCJ Act”) was enacted in December of 2017. The Act reduces the U.S. federal corporate income tax rate from 35 percent to 21 percent, effective as of January 1, 2018, and creates a territorial-style taxing system. The TCJ Act also requires companies to pay a one-time transition tax on earnings of certain foreign subsidiaries that were previously deferred and also creates new taxes on certain types of foreign earnings. We are subject to the provisions of the Financial Accounting Standards Board ("FASB") ASC 740-10, Income Taxes, which requires that the effect on deferred tax assets and liabilities of a change in tax rates be recognized in the period the tax rate change was enacted. In December of 2017, the SEC staff issued SAB 118, which provides that companies that have not completed their accounting for the effects of the TCJ Act but can determine a reasonable estimate of those effects should include a provisional amount based on their reasonable estimate in their financial statements. The guidance in SAB 118 also allows companies to adjust the provisional amounts during a one year measurement period which is similar to the measurement period used when accounting for business combinations. As of December 31, 2017, we have not completed our accounting for all of the tax effects associated with the enactment of the TCJ Act. However, we have, in certain cases made a reasonable estimate of the (a) effects on our existing deferred tax balances, and (b) the one-time transition tax. Consequently, our fourth quarter of 2017 and full year 2017 results of operations reflect a non-cash provisional expense of $104 million. See Note 13 to our Consolidated Financial Statements for more information relating to these items.  
+
+Foreign Currency  
+
+Our financial results are reported in U.S. dollars and are therefore subject to the impact of movements in exchange rates on the translation of the financial information of individual businesses whose functional currencies are other than U.S. dollars. Our principal foreign exchange revenue exposure is spread across several currencies, primarily the Euro. The table below sets forth the profile of our revenue by principal currency.  
+
+ [DATA_TABLE_REMOVED] 
+
+39 
+
+As a result, fluctuations in the value of foreign currencies relative to the U.S. dollar impact our operating results. Impacts associated with fluctuations in foreign currency are discussed in more detail under “Item 7A.—Quantitative and Qualitative Disclosures about Market Risk.” In countries with currencies other than the U.S. dollar, assets and liabilities are translated into U.S. dollars using end-of-period exchange rates; revenues, expenses and cash flows are translated using average rates of exchange. The average U.S. dollar to Euro exchange rate was $1.13 to €1.00, $1.11 to €1.00 and $1.11 to €1.00 for the years ended December 31, 2017, 2016 and 2015, respectively. Constant currency growth rates used in the following discussion of results of operations eliminate the impact of year-over-year foreign currency fluctuations.  
+
+We evaluate our results of operations on both an as reported and a constant currency basis. The constant currency presentation, which is a non-GAAP financial measure, excludes the impact of year-over-year fluctuations in foreign currency exchange rates. We believe providing constant currency information provides valuable supplemental information regarding our results of operations, thereby facilitating period-to-period comparisons of our business performance and is consistent with how management evaluates the Company’s performance. We calculate constant currency percentages by converting our prior-period local currency financial results using the current period exchange rates and comparing these adjusted amounts to our current period reported results. This calculation may differ from similarly-titled measures used by others and, accordingly, the constant currency presentation is not meant to be a substitution for recorded amounts presented in conformity with GAAP nor should such amounts be considered in isolation.  
+
+Results of Operations – Years Ended December 31, 2017, 2016 and 2015  
+
+The following table sets forth, for the periods indicated, the amounts included in our consolidated statements of operations:  
+
+ [DATA_TABLE_REMOVED] 
+
+Net Income to Adjusted EBITDA Reconciliation  
+
+We define Adjusted EBITDA as net income or loss from our consolidated statements of operations before interest income and expense, income taxes, depreciation and amortization, restructuring charges, stock-based compensation expense and other non-operating items from our consolidated statements of operations as well as certain other items considered outside the normal course of our operations specifically described below. 
+
+Restructuring charges: We exclude restructuring expenses, which primarily include employee severance, office consolidation and contract termination charges, from our Adjusted EBITDA to allow more accurate comparisons of the financial results to historical operations and forward-looking guidance. By excluding these expenses from our non-GAAP measures, we are better able to evaluate our ability to utilize our existing assets and estimate the long-term value these assets will generate for us. Furthermore, we believe that the adjustments of these items more closely correlate with the sustainability of our operating performance. 
+
+40 
+
+Stock-based compensation expense: We exclude the impact of costs relating to stock-based compensation. Due to the subjective assumptions and a variety of award types, we believe that the exclusion of stock-based compensation expense, which is typically non-cash, allows for more meaningful comparisons of our operating results to peer companies. Stock-based compensation expense can vary significantly based on the timing, size and nature of awards granted. 
+
+Other non-operating (expense)/income, net: We exclude foreign currency exchange transaction gains and losses primarily related to intercompany financing arrangements as well as other non-operating income and expense items, such as gains and losses recorded on business combinations or dispositions, sales of investments, net income attributable to noncontrolling interests and early redemption payments made in connection with debt refinancing. We believe that the adjustments of these items more closely correlate with the sustainability of our operating performance. 
+
+Other items: To measure operating performance, we exclude certain expenses and gains that arise outside the ordinary course of our operations. Such costs primarily include legal settlements, acquisition related expenses, business optimization costs and other transactional costs. We believe the exclusion of such amounts allows management and the users of the financial statements to better understand our financial results. 
+
+Adjusted EBITDA is not a presentation made in accordance with GAAP, and our use of the term Adjusted EBITDA may vary from the use of similarly-titled measures by others in our industry due to the potential inconsistencies in the method of calculation and differences due to items subject to interpretation.  
+
+We use Adjusted EBITDA to measure our performance from period to period both at the consolidated level as well as within our operating segments, to evaluate and fund incentive compensation programs and to compare our results to those of our competitors. In addition to Adjusted EBITDA being a significant measure of performance for management purposes, we also believe that this presentation provides useful information to investors regarding financial and business trends related to our results of operations and that when non-GAAP financial information is viewed with GAAP financial information, investors are provided with a more meaningful understanding of our ongoing operating performance.  
+
+Adjusted EBITDA should not be considered as an alternative to net income or loss, operating income, cash flows from operating activities or any other performance measures derived in accordance with GAAP as measures of operating performance or cash flows as measures of liquidity. Adjusted EBITDA has important limitations as an analytical tool and should not be considered in isolation or as a substitute for analysis of our results as reported under GAAP.  
+
+The below table presents a reconciliation from net income to Adjusted EBITDA for the years ended December 31, 2017, 2016 and 2015:  
+
+ [DATA_TABLE_REMOVED] 
+
+(a)  
+
+For the year ended December 31, 2017, other items primarily consist of transaction related costs and business optimization costs. For the year ended December 31, 2016, other items primarily consist of business optimization costs. For the year ended December 31, 2015, other items primarily consists of a $36 million donation to the Nielsen Foundation, a $14 million charge for the partial settlement of certain U.S. pension plan participants, and business optimization costs.  
+
+Consolidated Results for the Year Ended December 31, 2017 Compared to the Year Ended December 31, 2016  
+
+Revenues  
+
+Revenues increased 4.2% to $6,572 million for the year ended December 31, 2017 from $6,309 million for the year ended December 31, 2016, or an increase of 3.8% on a constant currency basis, excluding a 0.4% unfavorable impact of changes in foreign currency exchange rates. Revenues within our Buy segment decreased 2.7%, or 3.3% on a constant currency basis, excluding a 0.6%  
+
+41 
+
+unfavorable impact of changes in foreign currency exchange rates. Revenues within our Watch segment increased 11.9%, or 11.7% on a constant currency basis, excluding a 0.2% unfavorable impact of changes in foreign currency exchange rates. Refer to the “Business Segment Results” section for further discussion of our revenue performance. 
+
+Cost of Revenues, Exclusive of Depreciation and Amortization  
+
+Cost of revenues increased 6.1% to $2,765 million for the year ended December 31, 2017 from $2,607 million for the year ended December 31, 2016, or an increase of 5.7% on a constant currency basis, excluding a 0.4% favorable impact of changes in foreign currency exchange rates.  
+
+Costs within our Buy segment increased 0.7%, or 0.1% on a constant currency basis. Excluding a 0.6% favorable impact of changes in foreign currency exchange rates, cost of revenues increased primarily due to the continued global investment in our services.  
+
+Costs within our Watch segment increased 11.2% on a reported and constant currency basis. Cost of revenues increased primarily due to the impact of the Gracenote acquisition. 
+
+Selling, General and Administrative Expenses, Exclusive of Depreciation and Amortization  
+
+Selling, general and administrative expenses increased 0.6% to $1,862 for the year ended December 31, 2017 from $1,851 million for the year ended December 31, 2016, or 0.5% on a constant currency basis, excluding a 0.1% favorable impact of changes in foreign currency exchange rates. 
+
+Costs within our Buy segment decreased 5.7%, or 5.8% on a constant currency basis. Excluding a 0.1% favorable impact of changes in foreign currency exchange rates, selling, general and administrative expenses decreased due to productivity initiatives including dispositions as we continue to execute our portfolio pruning initiatives.  
+
+Costs within our Watch segment increased 17.9%, or 17.7% on a constant currency basis. Excluding a 0.2% favorable impact of changes in foreign currency exchange rates, selling, general and administrative expenses increased primarily due to the impact of the Gracenote acquisition. 
+
+Depreciation and Amortization  
+
+Depreciation and amortization expense was $640 million for the year ended December 31, 2017 as compared to $603 million for the year ended December 31, 2016. This increase was primarily due to higher depreciation and amortization expense associated with tangible and intangible assets acquired as part of the Gracenote acquisition on February 1, 2017. 
+
+Depreciation and amortization expense associated with tangible and intangibles assets acquired in business combinations increased to $219 million for the year ended December 31, 2017 from $210 million for the year ended December 31, 2016.  
+
+Restructuring Charges  
+
+We recorded $80 million and $105 million in restructuring charges primarily related to employee severance associated with productivity initiatives and contract termination costs for the years ended December 31, 2017 and 2016, respectively. 
+
+Operating Income  
+
+Operating income for the year ended December 31, 2017 was $1,225 million compared to operating income of $1,143 million for the year ended December 31, 2016. Operating income within our Buy segment decreased to $322 million for the year ended December 31, 2017 from $331 million for the year ended December 31, 2016. Operating income within our Watch segment increased to $1,033 million for the year ended December 31, 2017 from $935 million for the year ended December 31, 2016. Corporate operating expenses increased to $130 million for the year ended December 31, 2017 from $123 million for the year ended December 31, 2016.  
+
+Interest Expense  
+
+Interest expense was $374 million for the year ended December 31, 2017 compared to $333 million for the year ended December 31, 2016. This increase is primarily related to higher average debt balances including the incurrence of an additional $500 million 5.00% Senior Notes in January 2017 and higher USD LIBOR senior secured term loan interest rates. 
+
+42 
+
+Foreign Currency Exchange Transaction Losses, Net  
+
+Foreign currency exchange transaction losses, net, represent the net loss on revaluation of certain cash, external debt, intercompany loans and other receivables and payables. Fluctuations in the value of foreign currencies relative to the U.S. Dollar, particularly the Euro, have a significant effect on our operating results. The average U.S. Dollar to Euro exchange rate was $1.13 to €1.00 and $1.11 to €1.00 for the years ended December 31, 2017 and 2016, respectively.  
+
+We realized net losses of $10 million for the year ended December 31, 2017, resulting primarily from fluctuations in certain foreign currencies associated with intercompany transactions. 
+
+We realized net losses of $6 million for the year ended December 31, 2016, resulting primarily from fluctuations in certain foreign currencies associated with intercompany transactions and the loss of $5 million from the revaluation of our U.S.-denominated debt and cash held in EURO functional entities, partially offset by a gain of $1 million associated with foreign currency derivative financial instruments. 
+
+Other (Expense)/Income, Net  
+
+Other expense, net of $17 million for the year ended December 31, 2017 is primarily related to the finalization of working capital and other matters associated with dispositions. 
+
+Other income, net of $8 million for the year ended December 31, 2016 is primarily related to the gain of $14 million on the dispositions partially offset by the loss of $4 million related to certain costs incurred in connection with the B-3 term loan refinancing.  
+
+Income Before Income Taxes and Equity in Net Income of Affiliates  
+
+Income was $828 million for the year ended December 31, 2017 compared to $816 million for the year ended December 31, 2016 due primarily to the consolidated results mentioned above.  
+
+Income Taxes 
+
+The effective tax rates for the years ended December 31, 2017 and 2016 were 47% and 38%, respectively.  
+
+Our effective tax rate of 47% for the year ended December 31, 2017 was significantly impacted by the TCJ Act. Those impacts are described further in Note 13 to the Consolidated Financial Statements. Excluding the impact of the TCJ Act, our effective tax rate was 34% for the year ended December 31, 2017. It was higher than the UK statutory rate as a result of the impact of the TCJ Act as well as tax rate differences in other jurisdictions where the Company files tax returns, the effect of global licensing activities, withholding and foreign taxes as well as state and local income taxes, offset by the favorable impact of certain financing activities and releases of valuation allowances. The effective tax rate for the year ended December 31, 2016 was higher than the UK statutory rate as a result of the impact of tax rate differences in other jurisdictions where the Company files tax returns, the effect of global licensing activities, withholding and foreign taxes as well as state and local income taxes, offset by the favorable impact of certain financing activities, windfall tax benefits from stock option exercises and releases of uncertain tax positions. 
+
+At December 31, 2017 and 2016, we had gross uncertain tax positions of $452 million and $432 million, respectively. We also have accrued interest and penalties associated with these uncertain tax positions as of December 31, 2017 and 2016 of $53 million and $33 million, respectively. 
+
+Estimated interest and penalties related to the underpayment of income taxes is classified as a component of our provision or benefit for income taxes. It is reasonably possible that a reduction in a range of $5 million to $18 million of uncertain tax positions may occur within the next twelve months as a result of projected resolutions of worldwide tax disputes. 
+
+Our future effective tax rates could be adversely affected by earnings being lower than anticipated in countries where statutory rates are lower and earnings being higher than anticipated in countries where statutory rates are higher, or by changes in tax laws, regulations, accounting principles, or interpretations thereof. Other factors that may affect our effective income tax rate include, but are not limited to, the requirement to exclude from our quarterly worldwide effective income tax calculations losses in jurisdictions where no income tax benefit can be recognized, changes in the valuation of deferred tax assets and liabilities, the establishment of valuation allowances against deferred income tax assets if we determined that it is more likely than not that future income tax benefits will not be realized, and audits by taxing authorities. 
+
+43 
+
+Adjusted EBITDA  
+
+Adjusted EBITDA increased 5.0% to $2,035 million for the year ended December 31, 2017 from $1,938 million for the year ended December 31, 2016, or 4.3% on a constant currency basis, excluding a 0.7% unfavorable impact of changes in foreign currency exchange rates. Our Adjusted EBITDA margin increased to 30.96% for the year ended December 31, 2017 from 30.72% for the year ended December 31, 2016. See “Results of Operations – Years Ended December 31, 2017, 2016 and 2015” for the reconciliation of net income to Adjusted EBITDA.  
+
+Consolidated Results for the Year Ended December 31, 2016 Compared to the Year Ended December 31, 2015  
+
+Revenues  
+
+Revenues increased 2.2% to $6,309 million for the year ended December 31, 2016 from $6,172 million for the year ended December 31, 2015, or an increase of 4.1% on a constant currency basis, excluding a 1.9% unfavorable impact of changes in foreign currency exchange rates. Revenues within our Buy segment decreased 0.7%, or an increase of 2.3% on a constant currency basis, excluding a 3.0% unfavorable impact of changes in foreign currency exchange rates. Revenues within our Watch segment increased 5.7%, or 6.3% on a constant currency basis, excluding a 0.6% unfavorable impact of changes in foreign currency exchange rates. Refer to the “Business Segment Results” section for further discussion of our revenue performance. 
+
+Cost of Revenues, Exclusive of Depreciation and Amortization  
+
+Cost of revenues increased 2.7% to $2,607 million for the year ended December 31, 2016 from $2,539 million for the year ended December 31, 2015, or an increase of 5.0% on a constant currency basis, excluding a 2.3% favorable impact of changes in foreign currency exchange rates.  
+
+Costs within our Buy segment decreased 1.1%, or an increase of 2.4% on a constant currency basis. Excluding a 3.3% favorable impact of changes in foreign currency exchange rates, cost of revenues increased due to the continued global investments in our services.  
+
+Costs within our Watch segment increased 9.0%, or 9.8% on a constant currency basis. Excluding a 0.8% favorable impact of changes in foreign currency exchange rates, cost of revenues increased due to higher spending on product portfolio management initiatives, including our digital and Marketing Effectiveness product offerings. 
+
+Selling, General and Administrative Expenses, Exclusive of Depreciation and Amortization  
+
+Selling, general and administrative expenses decreased 3.3% to $1,851 for the year ended December 31, 2016 from $1,915 million for the year ended December 31, 2015, or a decrease of 1.2% on a constant currency basis, excluding a 2.1% favorable impact of changes in foreign currency exchange rates. 
+
+Costs within our Buy segment decreased 0.2%, or an increase of 2.7% on a constant currency basis. Excluding a 2.9% favorable impact of changes in foreign currency exchange rates, selling, general and administrative expenses increased due to continued global investments associated with our services.  
+
+Costs within our Watch segment decreased 2.7%, or a decrease of 1.8% on a constant currency basis. Excluding a 0.9% favorable impact of changes in foreign currency exchange rates, selling, general and administrative expenses decreased due to the impact of productivity initiatives. 
+
+Corporate costs decreased by $47 million for the year ended December 31, 2016, primarily due to a $36 million donation to the Nielsen Foundation and a $14 million charge for the partial settlement of certain U.S. pension plans for the year ended December 31, 2015. 
+
+Depreciation and Amortization  
+
+Depreciation and amortization expense was $603 million for the year ended December 31, 2016 as compared to $574 million for the year ended December 31, 2015. This increase was primarily due to higher depreciation and amortization expense associated with assets acquired in business combinations and higher capital expenditures. 
+
+Depreciation and amortization expense associated with tangible and intangibles assets acquired in business combinations increased to $210 million for the year ended December 31, 2016 from $205 million for the year ended December 31, 2015.  
+
+44 
+
+Restructuring Charges  
+
+We recorded $105 million and $51 million in restructuring charges primarily related to employee severance associated with productivity initiatives and contract termination costs for the years ended December 31, 2016 and 2015, respectively.  
+
+Operating Income  
+
+Operating income for the year ended December 31, 2016 was $1,143 million compared to operating income of $1,093 million for the year ended December 31, 2015. Operating income within our Buy segment decreased to $331 million for the year ended December 31, 2016 from $369 million for the year ended December 31, 2015. Operating income within our Watch segment increased to $935 million for the year ended December 31, 2016 from $880 million for the year ended December 31, 2015. Corporate operating expenses decreased to $123 million for the year ended December 31, 2016 from $156 million for the year ended December 31, 2015.  
+
+Interest Expense  
+
+Interest expense was $333 million for the year ended December 31, 2016 compared to $311 million for the year ended December 31, 2015. This increase is primarily due to higher average debt balances due to the incurrence of an additional $500 million in senior secured term loan in 2016 and higher USD LIBOR senior secured term loan interest rates. 
+
+Foreign Currency Exchange Transaction Losses, Net  
+
+Foreign currency exchange transaction losses, net, represent the net loss on revaluation of certain cash, external debt, intercompany loans and other receivables and payables. Fluctuations in the value of foreign currencies relative to the U.S. Dollar, particularly the Euro, have a significant effect on our operating results. The average U.S. Dollar to Euro exchange rate was $1.11 to €1.00 for each of the years ended December 31, 2016 and 2015, respectively.  
+
+We realized net losses of $6 million for the year ended December 31, 2016, resulting primarily from fluctuations in certain foreign currencies associated with intercompany transactions and the loss of $5 million from the revaluation of our U.S.-denominated debt and cash held in EURO functional entities, partially offset by a gain of $1 million associated with foreign currency derivative financial instruments. 
+
+We realized net losses of $31 million for the year ended December 31, 2015, resulting primarily from the revaluation of our U.S. denominated debt and cash held in Euro functional currency entities of $14 million, the devaluation of the Venezuelan bolivars of $8 million as discussed in the “Foreign Currency” section of “Factors Affecting Nielsen’s Financial Results,” as well as the fluctuations in certain foreign currencies associated with intercompany transactions, partially offset by a gain of $2 million associated with foreign currency derivative financial instruments. 
+
+Other Income/(expense), Net  
+
+Other income, net of $8 million for the year ended December 31, 2016 is primarily related to the gain of $14 million on dispositions partially offset by the loss of $4 million related to certain costs incurred in connection with the B-3 term loan refinancing. 
+
+Other income, net of $206 million for the year ended December 31, 2015 is primarily related to the gains recorded from the step acquisition of Nielsen Catalina Solutions in the amount of $158 million, sale of an equity investment in the amount of $30 million and the disposition of National Research Group in the amount of $18 million.  
+
+Income from Before Income Taxes and Equity in Net Income of Affiliates  
+
+Income was $816 million for the year ended December 31, 2016 compared to $961 million for the year ended December 31, 2015 due primarily to the consolidated results mentioned above.  
+
+Income Taxes 
+
+The effective tax rates for the years ended December 31, 2016 and 2015 were 38% and 40%, respectively.  
+
+The effective tax rate for the year ended December 31, 2016 was higher than the UK statutory rate as a result of the impact of tax rate differences in other jurisdictions where the Company files tax returns, the effect of global licensing activities, withholding and foreign taxes as well as state and local income taxes, offset by the favorable impact of certain financing activities, windfall tax benefits from stock option exercises and releases of uncertain tax positions. The effective tax rate for the year ended December 31, 2015 was higher than the UK statutory rate as a result of the impact of tax rate differences in other jurisdictions where the Company files tax  
+
+45 
+
+returns, the effect of global licensing activities, withholding and foreign taxes as well as state and local income taxes, offset by the favorable impact of certain financing activities and foreign distributions. 
+
+At December 31, 2016 and 2015, we had gross uncertain tax positions of $432 million and $461 million, respectively. We also have accrued interest and penalties associated with these uncertain tax positions as of December 31, 2016 and 2015 of $33 million and $34 million, respectively. 
+
+Estimated interest and penalties related to the underpayment of income taxes is classified as a component of our provision or benefit for income taxes. It is reasonably possible that a reduction in a range of $12 million to $20 million of uncertain tax positions may occur within the next twelve months as a result of projected resolutions of worldwide tax disputes. 
+
+Our future effective tax rates could be adversely affected by earnings being lower than anticipated in countries where statutory rates are lower and earnings being higher than anticipated in countries where statutory rates are higher, or by changes in tax laws, regulations, accounting principles, or interpretations thereof. 
+
+Adjusted EBITDA  
+
+Adjusted EBITDA increased 4.3% to $1,938 million for the year ended December 31, 2016 from $1,858 million for the year ended December 31, 2015, or 5.2% on a constant currency basis, excluding a 0.9% unfavorable impact of changes in foreign currency exchange rates. Our Adjusted EBITDA margin increased to 30.72% for the year ended December 31, 2016 from 30.10% for the year ended December 31, 2015. See “Results of Operations – Years Ended December 31, 2017, 2016 and 2015” for the reconciliation of net income to Adjusted EBITDA.  
+
+Business Segment Results for the Year Ended December 31, 2017 Compared to the Year Ended December 31, 2016  
+
+Revenues  
+
+The table below sets forth our segment revenue performance data for the year ended December 31, 2017 compared to the year ended December 31, 2016, both on an as-reported and constant currency basis.  
+
+ [DATA_TABLE_REMOVED] 
+
+Buy Segment Revenues  
+
+Revenues decreased 2.7% to $3,231 million for the year ended December 31, 2017 from $3,322 million for the year ended December 31, 2016, or 3.3% on a constant currency basis, excluding a 0.6% unfavorable impact of changes in foreign currency exchange rates.  
+
+46 
+
+Revenues from emerging markets increased 9.5% to $1,164 million, or an increase of 8.8% on a constant currency basis, excluding a 0.7% unfavorable impact of changes in foreign currency exchange rates. Excluding the impact of foreign currency exchange rates, revenue growth was driven by our global footprint, coverage expansion and broad product offerings which continue to position us well with both local and multinational clients. For the year ended December 31, 2017, these investments drove double-digit growth in Latin America, India and Eastern Europe along with high single-digit growth in South East Asia and Africa. 
+
+Revenues from developed markets decreased 4.6% to $1,999 million, or 5.2% on a constant currency basis, excluding a 0.6% unfavorable impact of changes in foreign currency exchange rates. Excluding the impact of foreign currency exchange rates, revenues decreased as a result of softness in the U.S. partially offset by growth in our European developed markets. 
+
+Revenues from Corporate Buy decreased 58.3% to $68 million on a reported and constant currency basis. Corporate includes slow growth and non-core services that are part of portfolio pruning initiatives.  
+
+Watch Segment Revenues  
+
+Revenues increased 11.9% to $3,341 million for the year ended December 31, 2017 from $2,987 million for the year ended December 31, 2016 or an increase of 11.7% on a constant currency basis, excluding a 0.2% unfavorable impact of changes in foreign currency exchange rates. Excluding the Gracenote acquisition, revenues increased 4.7% (4.5% on a constant currency basis). Excluding a 0.2% unfavorable impact of changes in foreign currency exchange rates, revenue growth was primarily driven by growth in Audience Measurement of Video and Text, which increased 16.7% (16.3% on a constant currency basis). Excluding the Gracenote acquisition, Audience Measurement of Video and Text revenues increased 5.8% (5.5% on a constant currency basis), due to our ongoing investments and continued client adoption of our Total Audience Measurement initiative. Audio revenues increased 0.2% on a reported and constant currency basis. Our Marketing Effectiveness revenue grew 22.0% (21.1% on a constant currency basis), due to the continued strength in audience-based solutions, including data deliveries, that help advertisers and publishers measure the return on investment in media spend and investments in our product portfolio. Corporate/Other Watch revenues decreased by 18.0% (16.5% on a constant currency basis) due to our continued exit of non-core media analytics products. Our Core Watch revenue grew 14.2% (13.9% on a constant currency basis). Excluding the Gracenote acquisition, our Core Watch revenue grew 6.5% (6.2% on a constant currency basis).  
+
+47 
+
+Business Segment Profitability  
+
+We do not allocate items below operating income/(loss) to our business segments and therefore the tables below set forth a reconciliation of operating income/(loss) at the business segment level for the years ended December 31, 2017 and 2016, adjusting for certain items affecting operating income/(loss), such as restructuring charges, depreciation and amortization, stock-based compensation expense and certain other items described below resulting in a presentation of our non-GAAP business segment profitability. Non-GAAP business segment profitability provides useful supplemental information to management and investors regarding financial and business trends related to our results of operations. When this non-GAAP financial information is viewed with our GAAP financial information, investors are provided with a meaningful understanding of our ongoing operating performance. It is important to note that the non-GAAP business segment profitability corresponds in total to our consolidated Adjusted EBITDA described within our consolidated results of operations above, which our chief operating decision maker and other members of management use to measure our performance from period to period both at the consolidated level as well as within our operating segments, to evaluate and fund incentive compensation programs and to compare our results to those of our competitors. These non-GAAP measures should not be considered as an alternative to net income, operating income, cash flows from operating activities or any other performance measures derived in accordance with GAAP as measures of operating performance or cash flows as measures of liquidity. These non-GAAP measures may differ from similarly-titled measures used by others and have important limitations as analytical tools. Accordingly, they should not be considered in isolation or as a substitute for analysis of our results as reported under GAAP.  
+
+ [DATA_TABLE_REMOVED] 
+
+(1)  
+
+For the year ended December 31, 2017, other items consist primarily of transaction related costs and business optimization costs. For the year ended December 31, 2016, other items consist primarily of business optimization costs.  
+
+ [DATA_TABLE_REMOVED] 
+
+Buy Segment Profitability  
+
+Operating income was $322 million for the year ended December 31, 2017 as compared to $331 million for the year ended December 31, 2016. The decrease was driven by the revenue performance discussed above, partially offset by lower restructuring charges. Non-GAAP business segment income decreased 7.3% on a constant currency basis. 
+
+Watch Segment Profitability  
+
+Operating income was $1,033 million for the year ended December 31, 2017 as compared to $935 million for the year ended December 31, 2016. The increase was driven by the revenue performance discussed above, partially offset by higher depreciation and amortization expense. Non-GAAP business segment income increased 9.6% on a constant currency basis. 
+
+48 
+
+Corporate Expenses and Eliminations  
+
+Operating expenses were $130 million for the year ended December 31, 2017 as compared to $123 million for the year ended December 31, 2016, primarily due to an increase in transaction related costs and business optimization costs partially offset by the decrease in restructuring charges and stock-based compensation expense.  
+
+Business Segment Results for the Year Ended December 31, 2016 Compared to the Year Ended December 31, 2015  
+
+Revenues  
+
+The table below sets forth our segment revenue performance data for the year ended December 31, 2016 compared to the year ended December 31, 2015, both on an as-reported and constant currency basis.  
+
+ [DATA_TABLE_REMOVED] 
+
+Buy Segment Revenues  
+
+Revenues decreased 0.7% to $3,322 million for the year ended December 31, 2016 from $3,345 million for the year ended December 31, 2015, or an increase of 2.3% on a constant currency basis, excluding a 3.0% unfavorable impact of changes in foreign currency exchange rates.  
+
+Revenues from emerging markets increased 1.8% to $1,063 million, or an increase of 8.6% on a constant currency basis, excluding a 6.8% unfavorable impact of changes in foreign currency exchange rates. Excluding the impact of foreign currency exchange rates, revenue growth was driven by our continued commitment to invest in coverage, which resulted in broad based demand for our services with both our multinational and local clients. For the year ended December 31, 2016, these investments drove double-digit growth in South East Asia along with high single-digit growth in Latin America, Eastern Europe and China and mid single-digit growth in India. 
+
+Revenues from developed markets decreased 0.7% to $2,096 million, or an increase of 0.9% on a constant currency basis, excluding a 1.6% unfavorable impact of changes in foreign currency exchange rates. Excluding the impact of foreign currency exchange rates, revenues increased as a result of modest strength in Western Europe, partially offset by softness in our U.S. market.  
+
+Revenues from Corporate Buy decreased 14.7% to $163 million on a reported and constant currency basis. Corporate includes slow growth and non-core services that are part of portfolio pruning initiatives.  
+
+Watch Segment Revenues  
+
+Revenues increased 5.7% to $2,987 million for the year ended December 31, 2016 from $2,827 million for the year ended December 31, 2015 or an increase of 6.3% on a constant currency basis, excluding a 0.6% unfavorable impact of changes in foreign currency exchange rates. Excluding the impact of foreign currency exchange rates, revenue growth was primarily driven by growth in Audience Measurement of Video and Text, which increased 7.5% (8.3% on a constant currency basis) due to our ongoing investments and continued client adoption of our Total Audience Measurement systems. Audio revenues decreased 0.8% on a reported basis or 0.6% on a constant currency basis. Our Marketing Effectiveness offerings grew 14.3% (16.2% on a constant currency basis), due to  
+
+49 
+
+our investments in our product portfolio and client’s growing demand for our advertising ROI and precision targeting tools. Corporate/Other Watch revenues decreased by 4.3% (5.1% on a constant currency basis) due to the sale of the National Research Group, Inc., which was completed in the fourth quarter of 2015. Our Core Watch services grew 6.6%, or 7.3% on a constant currency basis.  
+
+Business Segment Profitability  
+
+We do not allocate items below operating income/(loss) to our business segments and therefore the tables below set forth a reconciliation of operating income/(loss) at the business segment level for the years ended December 31, 2016 and 2015, adjusting for certain items affecting operating income/(loss), such as restructuring charges, depreciation and amortization, stock-based compensation expense and certain other items described below resulting in a presentation of our non-GAAP business segment profitability. Non-GAAP business segment profitability provides useful supplemental information to management and investors regarding financial and business trends related to our results of operations. When this non-GAAP financial information is viewed with our GAAP financial information, investors are provided with a meaningful understanding of our ongoing operating performance. It is important to note that the non-GAAP business segment profitability corresponds in total to our consolidated Adjusted EBITDA described within our consolidated results of operations above, which our chief operating decision maker and other members of management use to measure our performance from period to period both at the consolidated level as well as within our operating segments, to evaluate and fund incentive compensation programs and to compare our results to those of our competitors. These non-GAAP measures should not be considered as an alternative to net income, operating income, cash flows from operating activities or any other performance measures derived in accordance with GAAP as measures of operating performance or cash flows as measures of liquidity. These non-GAAP measures may differ from similarly-titled measures used by others and have important limitations as analytical tools. Accordingly, they should not be considered in isolation or as a substitute for analysis of our results as reported under GAAP.  
+
+ [DATA_TABLE_REMOVED] 
+
+(1)  
+
+For the year ended December 31, 2016, other items consist primarily of business optimization costs. For the year ended December 31, 2015, other items consist of a $36 million donation to the Nielsen Foundation, $14 million charge for the partial settlement of certain U.S. pension plans, and business optimization costs.  
+
+ [DATA_TABLE_REMOVED] 
+
+Buy Segment Profitability  
+
+Operating income was $331 million for the year ended December 31, 2016 as compared to $369 million for the year ended December 31, 2015. The decrease was driven by the revenue performance discussed above, higher restructuring charges and an increase in depreciation and amortization expense. Non-GAAP business segment income increased 1.6% on a constant currency basis. 
+
+50 
+
+Watch Segment Profitability  
+
+Operating income was $935 million for the year ended December 31, 2016 as compared to $880 million for the year ended December 31, 2015. The increase was driven by the revenue performance discussed above, partially offset by higher depreciation and amortization expense and restructuring charges. Non-GAAP business segment income increased 7.0% on a constant currency basis. 
+
+Corporate Expenses and Eliminations  
+
+Operating expenses were $123 million for the year ended December 31, 2016 as compared to $156 million for the year ended December 31, 2015 primarily due to decreases in other items outlined in the table above, partially offset by the increase in restructuring charges in 2016.  
+
+Liquidity and Capital Resources  
+
+Cash flows from operations provided a source of funds of $1,310 million, $1,296 million and $1,209 million during the years ended December 31, 2017, 2016 and 2015, respectively. This increase was driven primarily by the Adjusted EBITDA performance discussed above and the $36 million cash contribution to Nielsen Foundation during the year ended December 31, 2016, partially offset by higher tax payments, and higher interest payments during the year ended December 31, 2017 related to higher debt balances and higher USD LIBOR senior secured term loan interest rates.  
+
+We provide for additional liquidity through several sources, including maintaining an adequate cash balance, access to global funding sources and a committed revolving credit facility. The following table provides a summary of the major sources of liquidity for the years ended December 31, 2017, 2016 and 2015:  
+
+ [DATA_TABLE_REMOVED] 
+
+Of the $656 million in cash and cash equivalents at December 31, 2017, approximately $520 million was held in jurisdictions outside the U.S. We regularly review the amount of cash and cash equivalents held outside of the U.S. to determine the amounts necessary to fund the current operations of our foreign operations and their growth initiatives and amounts needed to service our U.S. indebtedness and related obligations.  
+
+The below table illustrates our weighted average interest rate and cash paid for interest over the last three years. 
+
+ [DATA_TABLE_REMOVED] 
+
+Our contractual obligations, commitments and debt service requirements over the next several years are significant. We believe we will have available resources to meet both our short-term and long-term liquidity requirements, including our senior secured debt service. We expect the cash flow from our operations, combined with existing cash and amounts available under the revolving credit facility, will provide sufficient liquidity to fund our current obligations, projected working capital requirements, restructuring obligations, dividend payments and capital spending over the next year. In addition, we may, from time to time, purchase, repay, redeem or retire any of our outstanding debt securities (including any publicly issued debt securities) in privately negotiated or open market transactions, by tender offer or otherwise. 
+
+51 
+
+Long-term borrowings  
+
+The following table provides a summary of our outstanding long-term borrowings as of December 31, 2017: 
+
+ [DATA_TABLE_REMOVED] 
+
+Term Loan Facilities  
+
+In October 2016, we entered into a second amendment to our Fourth Amended and Restated Credit Agreement, and as subsequently amended, the (“Existing Credit Agreement”). The Existing Credit Agreement provides for term loan facilities as shown in the table above. 
+
+In April 2017, we entered into a third amendment to our Fourth Amended and Restated Credit Agreement (as amended prior to April 2017, the “Existing Credit Agreement,” and as amended in April 2017 by the third amendment, the “Amended Credit Agreement”), providing for a new class of Class B-4 Term Loans in an aggregate principal amount of $2.25 billion, the proceeds of which were used to replace or refinance the entire outstanding principal of existing Class B-3 Term Loans and a portion of existing Class A Term Loans.  
+
+The Class B-4 Term Loans will mature in full on October 4, 2023, and are required to be repaid in equal quarterly installments in an aggregate annual amount equal to 1.00% of the original principal amount of the Class B-4 Term Loans, with the balance payable on October 4, 2023. The Class B-4 Term Loans bear interest equal to, at our election (i) a base rate or LIBOR rate, plus (ii) an applicable margin, which is equal to 2.00% (in the case of LIBOR loans) or 1.00% (in the case of base rate loans).  
+
+The Amended Credit Agreement contains the same affirmative and negative covenants as those of the Existing Credit Agreement. 
+
+Obligations under the Amended Credit Agreement are guaranteed by TNC B.V., substantially all of the wholly-owned U.S. subsidiaries of TNC B.V. and certain of the non-U.S. wholly-owned subsidiaries of TNC B.V., and are secured by substantially all of the existing and future property and assets of the U.S. subsidiaries of TNC B.V. and by a pledge of substantially all of the capital stock of the guarantors, the capital stock of substantially all of the U.S. subsidiaries of TNC B.V., and up to 65% of the capital stock of certain of the non-U.S. subsidiaries of TNC B.V. Under a separate security agreement, substantially all of the assets of TNC B.V. are pledged as collateral for amounts outstanding under the Amended Credit Agreement. 
+
+52 
+
+Covenants  
+
+The Amended Credit Agreement contains a number of covenants that, among other things, restrict, subject to certain exceptions, the ability of Nielsen Holding and Finance B.V. and its restricted subsidiaries (which together constitute most of our subsidiaries) to incur additional indebtedness or guarantees, incur liens and engage in sale and leaseback transactions, make certain loans and investments, declare dividends, make payments or redeem or repurchase capital stock, engage in certain mergers, acquisitions and other business combinations, prepay, redeem or purchase certain indebtedness, amend or otherwise alter terms of certain indebtedness, sell certain assets, transact with affiliates, enter into agreements limiting subsidiary distributions and alter the business they conduct. These entities are restricted, subject to certain exceptions, in their ability to transfer their net assets to us. Such restricted net assets amounted to approximately $4.3 billion at December 31, 2017. In addition, these entities are subject to a total leverage covenant. The leverage ratio requires that we not permit the ratio of total net debt (as defined in the Amended Credit Agreement) at the end of any calendar quarter to Consolidated EBITDA (as defined in the Amended Credit Agreement) for the four quarters then ended to exceed a specified threshold. The maximum permitted ratio is 5.50 to 1.00. Neither we nor TNC B.V. is currently bound by any financial or negative covenants contained in the Amended Credit Agreement. The Amended Credit Agreement also contains certain customary affirmative covenants and events of default. Certain significant financial covenants are described further below. 
+
+Failure to comply with this financial covenant would result in an event of default under our Amended Credit Agreement unless waived by certain of our term lenders and our revolving lenders. An event of default under our Amended Credit Agreement can result in the acceleration of our indebtedness under the facilities, which in turn would result in an event of default and possible acceleration of indebtedness under the agreements governing our debt securities as well. As our failure to comply with the financial covenant described above can cause us to go into default under the agreements governing our indebtedness, management believes that our Amended Credit Agreement and this covenant are material to us. As of December 31, 2017, we were in full compliance with the financial covenant described above.  
+
+Pursuant to our Amended Credit Agreement, we are subject to making mandatory prepayments on the term loans within our Amended Credit Agreement to the extent in any full calendar year we generate Excess Cash Flow (“ECF”), as defined in the Amended Credit Agreement. The percentage of ECF that must be applied as a repayment is a function of several factors, including our ratio of total net debt to Covenant EBITDA, as well other adjustments, including any voluntary term loan repayments made in the course of the calendar year. To the extent any mandatory repayment is required pursuant to this ECF clause; such payment must generally occur on or around the time of the delivery of the annual consolidated financial statements to the lenders. At December 31, 2017, our ratio of total net debt to Covenant EBITDA was less than 5.00 to 1.00 and therefore no mandatory repayment was required. Our next ECF measurement date will occur upon completion of the 2017 results, and although we do not expect to be required to issue any mandatory repayments in 2018 or beyond, it is uncertain at this time if any such payments will be required in future periods.  
+
+Revolving Credit Facility  
+
+The Amended Credit Agreement also contains a senior secured revolving credit facility under which Nielsen Finance LLC, TNC (US) Holdings, Inc., and Nielsen Holding and Finance B.V. can borrow revolving loans. The revolving credit facility can also be used for letters of credit, guarantees and swingline loans. The existing revolving credit facility has commitments of $575 million with a final maturity of April 2019. 
+
+The senior secured revolving credit facility is provided under the Amended Credit Agreement and so contains covenants and restrictions as noted under the “Term loan facilities” section above. Obligations under the revolving credit facility are guaranteed by the same entities that guarantee obligations under the Amended Credit Agreement and Senior Secured Loan Agreement.  
+
+As of December 31, 2017, we had zero borrowings outstanding and outstanding letters of credit of $13 million. As of December 31, 2016, we had zero borrowings outstanding and outstanding letters of credit of $6 million. As of December 31, 2017, we had $562 million available for borrowing under the revolving credit facility.  
+
+Debenture Loans  
+
+The indentures governing certain of our debenture loans limit the majority of our subsidiaries’ ability to incur additional indebtedness, pay dividends or make other distributions or repurchase our capital stock, make certain investments, enter into certain types of transactions with affiliates, use assets as security in other transactions and sell certain assets or merge with or into other companies subject to certain exceptions. Upon a change in control, we are required to make an offer to redeem all of the Senior Notes at a redemption price equal to the 101% of the aggregate accreted principal amount plus accrued and unpaid interest. The Senior Notes are jointly and severally guaranteed by Nielsen Holdings plc, substantially all of the wholly owned U.S. subsidiaries of Nielsen Holdings plc, and certain of the non-U.S. wholly-owned subsidiaries of Nielsen Holdings plc.  
+
+53 
+
+In January 2017, we issued $500 million aggregate principal amount of 5.0% Senior Notes due 2025 at par, with cash proceeds of approximately $495 million, net of fees and expenses. 
+
+Dividends and Share Repurchase Program 
+
+We remain committed to driving shareholder value as evidenced in 2013 with the adoption of a quarterly cash dividend policy by our Board of Directors, under which we have paid $474 million and $434 million in cash dividends during the years ended December 31, 2017 and 2016, respectively. Any decision to declare and pay dividends in the future will be made at the discretion of our Board of Directors and will be subject to the Board’s continuing determination that the dividend policy and the declaration of dividends thereunder are in the best interests of our shareholders, and are in compliance with all laws and agreements to which we are subject. The below table summarizes the dividends declared on our common stock during 2016 and 2017. 
+
+ [DATA_TABLE_REMOVED] 
+
+Our Board of Directors approved a share repurchase program, as included in the below table, for up to $2 billion of our outstanding common stock. The primary purposes of the program are to return value to shareholders and to mitigate dilution associated with our equity compensation plans. 
+
+ [DATA_TABLE_REMOVED] 
+
+Repurchases under these plans will be made in accordance with applicable securities laws from time to time in the open market or otherwise depending on our evaluation of market conditions and other factors. This program has been executed within the limitations of the authority granted by our shareholders.  
+
+As of December 31, 2017, there have been 37,206,365 shares of our common stock purchased at an average price of $45.74 per share (total consideration of approximately $1,702 million) under this program. 
+
+54 
+
+The following table provides a summary of share repurchase program activity through December 31, 2017. 
+
+ [DATA_TABLE_REMOVED] 
+
+Cash Flows 2017 versus 2016  
+
+Operating activities. Net cash provided by operating activities was $1,310 million for the year ended December 31, 2017, compared to $1,296 million for the year ended December 31, 2016. This increase was driven primarily by the Adjusted EBITDA performance discussed above and the $36 million cash contribution to the Nielsen Foundation during the year ended December 31, 2016, partially offset by higher tax payments, and higher interest payments during the year ended December 31, 2017 related to higher debt balances and higher USD LIBOR senior secured term loan interest rates. Our key collections performance measure, days billing outstanding (DBO), stayed consistent for the year ended December 31, 2017, as compared to a 3 day decrease for the year ended December 31, 2016.  
+
+Investing activities. Net cash used in investing activities was $1,236 million for the year ended December 31, 2017, compared to $642 million for the year ended December 31, 2016. The increase was primarily driven by increased acquisition payments and capital expenditures during the year ended December 31, 2017, as compared to 2016.  
+
+Financing activities. Net cash used in financing activities was $215 million for the year ended December 31, 2017, compared to $248 million for the year ended December 31, 2016. The decrease in cash used in financing activities is primarily due to lower share repurchasing, as described in the “Dividends and Share Repurchase Program” section above, partially offset by decreased net proceeds from the issuance and repayment of debt during the year ended December 31, 2017, higher dividend payments, as described in the “Dividends and Share Repurchase Program” section above, and an increase in capital lease financing during the year ended December 31, 2017, as compared to the same period of 2016.  
+
+Cash Flows 2016 versus 2015  
+
+Operating activities. Net cash provided by operating activities was $1,296 million for the year ended December 31, 2016, compared to $1,209 million for the year ended December 31, 2015. This increase was driven primarily by the Adjusted EBITDA performance discussed above and our focus on working capital management, partially offset by our $36 million cash contribution to the Nielsen Foundation during the year ended December 31, 2016 and higher interest payments during the year ended December 31, 2016 related to higher debt balances and higher USD LIBOR senior secured term loan interest rates. Our key collections performance measure, days billing outstanding (DBO), decreased by 3 days for the year ended December 31, 2016, as compared to a 1 day increase for the year ended December 31, 2015. 
+
+Investing activities. Net cash used in investing activities was $642 million for the year ended December 31, 2016, compared to $581 million for the year ended December 31, 2015. The increase was primarily driven by increased acquisition payments and capital expenditures during the year ended December 31, 2016, as compared to 2015.  
+
+55 
+
+Financing activities. Net cash used in financing activities was $248 million for the year ended December 31, 2016, compared to $492 million for the year ended December 31, 2015. The decrease in cash used in financing activities is primarily due to lower share repurchasing, as described in the “Dividends and Share Repurchase Program” section above, and increased net proceeds from the issuance and repayment of debt during the year ended December 31, 2016, as compared to the same period of 2015, partially offset by higher dividend payments, as described in the “Dividends and Share Repurchase Program” section above, and an increase in capital lease financing during the year ended December 31, 2016, as compared to the same period of 2015.  
+
+Capital Expenditures  
+
+Investments in property, plant, equipment, software and other assets totaled $489 million, $433 million and $408 million in 2017, 2016 and 2015, respectively. In addition, the Company received $42 million of proceeds from the sale of certain property, plant and equipment and other assets during each of the years ended December 31, 2017 and 2016, respectively.  
+
+Commitments and Contingencies  
+
+Outsourced Services Agreements  
+
+In October 2017, we amended and restated in its entirety, our Amended and Restated Master Services Agreement, dated as of October 1, 2007, with Tata America International Corporation and Tata Consultancy Services Limited (jointly, “TCS”) (as amended prior to the Second Amendment and Restatement, the “Prior Agreement”) by entering into a Second Amended and Restated Master Services Agreement (the “Agreement”), dated as of October 1, 2017 and effective as of January 1, 2017 (the “Effective Date”), with TCS. The term of the Agreement has been extended for an additional five years, so as to expire on December 31, 2025, with three one-year renewal options granted to us. We have committed to purchase services from TCS from the Effective Date through the remaining term of the Agreement (the “Minimum Commitment”) in the amount of $2.25 billion, including a commitment to purchase at least $320 million in services per year from 2017 through 2020, $186 million in services per year from 2021 through 2024, and $139.5 million in services in 2025 (in each of the foregoing cases, the “Annual Commitment”). We met the Minimum Commitment in 2017. In connection with the entry into the Agreement, the parties have agreed to terminate the separate Global Infrastructure Services Agreement between them as of the Effective Date and include the services provided thereunder in one or more Statements of Work (“SOWs”) arising under the Agreement. TCS’s charges under such SOWs will continue to be credited against the Minimum Commitment and the Annual Commitment. TCS globally provides us with professional services relating to information technology (including application development and maintenance), business process outsourcing, client service knowledge process outsourcing, management sciences, analytics, and financial planning. As we order specific services under the Agreement, the parties will execute SOWs describing the specific scope of the services to be performed by TCS. The amount of the Minimum Commitment and the Annual Commitment may be reduced on the occurrence of certain events, some of which also provide us with the right to terminate the Agreement or SOWs, as applicable.  
+
+Nielsen Foundation, Inc. 
+
+In November 2015, we established the Nielsen Foundation, Inc. (the “Foundation”) for charitable, educational, scientific, and literary purposes including the making of distributions to organizations that qualify as tax exempt organizations under section 501(c)(3) of the Internal Revenue Code. The assets and transactions of the Foundation are not included in our consolidated financial statements. Donations to the Foundation are expensed when committed by us. In December 2015, our Board of Directors approved an unconditional donation of $36 million to the Foundation, at which time it was recorded in selling, general and administrative expenses in the consolidated statement of operations. In March 2016, we paid the cash contribution to the Foundation.  
+
+Other Contractual Obligations  
+
+Our other contractual obligations include capital lease obligations (including interest portion), facility leases, leases of certain computer and other equipment, agreements to purchase data and telecommunication services, the payment of principal and interest on debt and pension fund obligations.  
+
+56 
+
+At December 31, 2017, the minimum annual payments under these agreements and other contracts that had initial or remaining non-cancelable terms in excess of one year are as listed in the following table. Due to the uncertainty with respect to the timing of future cash flows associated with our unrecognized tax positions at December 31, 2017, we are unable to make reasonably reliable estimates of the timing of any potential cash settlements with the respective taxing authorities. Therefore, $505 million in uncertain tax positions (which includes interest and penalties of $53 million) have been excluded from the contractual obligations table below. See Note 13 – “Income Taxes” – to the consolidated financial statements for a discussion on income taxes.  
+
+ [DATA_TABLE_REMOVED] 
+
+(a)  
+
+Our short-term and long-term debt obligations, including capital lease and other financing obligations, are described in Note 10 – “Long-Term Debt and Other Financing Arrangements” – to our consolidated financial statements.  
+
+(b)  
+
+Our operating lease obligations are described in Note 15 – “Commitments and Contingencies” – to our consolidated financial statements.  
+
+(c)  
+
+Other contractual obligations represent obligations under agreements, which are not unilaterally cancelable by us, are legally enforceable and specify fixed or minimum amounts or quantities of goods or services at fixed or minimum prices. We generally require purchase orders for vendor and third party spending. The amounts presented above represent the minimum future annual services covered by purchase obligations including data processing, building maintenance, equipment purchasing, photocopiers, land and mobile telephone service, computer software and hardware maintenance, and outsourcing. Our remaining commitments as of December 31, 2017, under the outsourced services agreement with TCS have been included above based on the Annual Commitment minimum required payments.  
+
+(d)  
+
+Interest payments consist of interest on both fixed-rate and variable-rate debt based on LIBOR as of December 31, 2017.  
+
+(e)  
+
+Our contributions to pension and other post-retirement defined benefit plans were $21 million, $21 million and $25 million during 2017, 2016 and 2015, respectively. Future minimum pension and other post-retirement benefits contributions are not determinable for time periods after 2018. See Note 9 – “Pensions and Other Post-Retirement Benefits” – to our consolidated financial statements for a discussion on plan obligations.  
+
+Guarantees and Other Contingent Commitments  
+
+At December 31, 2017, we were committed under the following significant guarantee arrangements:  
+
+Sub-lease guarantees. We provide sub-lease guarantees in accordance with certain agreements pursuant to which we guarantee all rental payments upon default of rental payment by the sub-lessee. To date, we have not been required to perform under such arrangements, and do not anticipate making any significant payments related to such guarantees and, accordingly, no amounts have been recorded.  
+
+Letters of credit. Letters of credit issued and outstanding amount to $13 million at December 31, 2017.  
+
+Legal Proceedings and Contingencies  
+
+We are subject to litigation and other claims in the ordinary course of business, some of which include claims for substantial sums. Accruals have been recorded when the outcome is probable and can be reasonably estimated. While the ultimate results of claims and litigation cannot be determined, we expect that the ultimate disposition of these matters will not have a material adverse effect on our operations or financial condition. However, depending on the amount and the timing, an unfavorable resolution of some or all of these matters could materially affect our future results of operations or cash flows in a particular period.  
+
+57 
+
+Off-Balance Sheet Arrangements  
+
+Except as disclosed above, we have no off-balance sheet arrangements that currently have or are reasonably likely to have a material effect on our consolidated financial condition, changes in financial condition, results of operations, liquidity, capital expenditure or capital resources.  
+
+Summary of Recent Accounting Pronouncements 
+
+Revenue Recognition 
+
+In May 2014, the FASB issued an Accounting Standards Update (“ASU”), “Revenue from Contracts with Customers.” The new revenue recognition standard provides a five step analysis of transactions to determine when and how revenue is recognized. The new model will require revenue recognition to depict the transfer of promised goods or services to customers in an amount that reflects the consideration a company expects to receive in exchange for those goods or services and shall be applied retrospectively to each period presented or as a cumulative-effect adjustment as of the date of adoption if using the modified retrospective transition method. In addition, the new standard requires disclosure of the nature, amount, timing and uncertainty of revenue and cash flows arising from contracts with customers. This standard is effective for annual periods beginning after December 15, 2017.  
+
+In 2014, we established a cross-functional implementation team consisting of representatives from across all of its business segments. Management utilized a bottoms-up approach to analyze the impact of the standard on our contract portfolio by reviewing the current accounting policies and practices to identify potential differences that would result from applying the requirements of the new standard to our revenue contracts. In addition, management identified, and are in the process of implementing appropriate changes to our business processes, systems and controls to support the recognition and disclosure under the new standard.  
+
+Based on management’s assessment, we believe the most significant impact the adoption of the new standard will have on our consolidated financial statements are the required financial statement disclosures. Except for the required financial statement disclosures, we do not believe the adoption of the ASU will have a material impact on our consolidated financial statements and will adopt the ASU using the modified retrospective transition method. 
+
+Leases 
+
+In February 2016, the FASB issued an ASU, “Leases”. The new standard amends the recognition of lease assets and lease liabilities by lessees for those leases currently classified as operating leases and amends disclosure requirements associated with leasing arrangements. The new standard increases assets and liabilities on the balance sheet. The new standard is effective for fiscal years and interim periods within those fiscal years beginning after December 15, 2018. Early adoption is permitted. The new standard must be adopted using a modified retrospective transition, and provides for certain practical expedients. Transition will require application of the new guidance at the beginning of the earliest comparative period presented. We are currently assessing the impact the adoption of this ASU will have on our consolidated financial statements. 
+
+Financial Instruments – Credit Losses 
+
+In June 2016, the FASB issued an ASU, “Financial Instruments – Credit Losses (Topic 326), Measurement of Credit Losses on Financial Instruments.” The standard significantly changes how entities will measure credit losses for most financial assets and certain other instruments that are not measured at fair value through net income. The standard will replace today’s “incurred loss” approach with an “expected loss” model for instruments measured at amortized cost. For available-for-sale debt securities, entities will be required to record allowances rather than reduce the carrying amount, as they do today under the other-than-temporary impairment model. It also simplifies the accounting model for purchased credit-impaired debt securities and loans. The new standard is effective for fiscal years and interim periods within those fiscal years beginning after December 15, 2019. Early adoption is permitted for fiscal years and interim periods within those fiscal years beginning after December 15, 2018. We are currently assessing the impact the adoption of this ASU will have on our consolidated financial statements.  
+
+Intangibles- Goodwill and Other 
+
+In January 2017, the FASB issued an ASU, “Intangibles—Goodwill and Other” to simplify the subsequent measurement of goodwill. The update requires only a single-step quantitative test to identify and measure impairment based on the excess of a reporting unit's carrying amount over its fair value. A qualitative assessment may still be completed first for an entity to determine if a quantitative impairment test is necessary. The update is effective for fiscal year 2021 and is to be adopted on a prospective basis. Early adoption is permitted for interim or annual goodwill impairment tests performed on testing dates after January 1, 2017. We elected to early adopt this ASU effective January 1, 2017. There was no impact on our consolidated financial statements. 
+
+58 
+
+Other Income—Gains and Losses from the Derecognition of Nonfinancial Assets 
+
+In February 2017, the FASB issued an ASU, “Other Income—Gains and Losses from the Derecognition of Nonfinancial Assets,” which clarifies the scope and application of ASC 610-20 on the sale or transfer of nonfinancial assets and in substance nonfinancial assets to noncustomers, including partial sales. It requires the application of certain recognition and measurement principles in ASC 606 when derecognizing nonfinancial assets and in substance nonfinancial assets, and the counterparty is not a customer. This ASU is effective for fiscal years (and interim reporting periods within those years) beginning after December 15, 2017. We are currently assessing the impact the adoption of this ASU will have on our consolidated financial statements. 
+
+Retirement Benefits: Improving the Presentation of Net Periodic Pension Cost and Net Periodic Postretirement Benefit Cost 
+
+In March 2017, the FASB issued an ASU, Compensation — Retirement Benefits: Improving the Presentation of Net Periodic Pension Cost and Net Periodic Postretirement Benefit Cost, which will change the presentation of net periodic benefit cost related to employer sponsored defined benefit plans and other postretirement benefits. Service cost will be included within the same income statement line item as other compensation costs arising from services rendered during the period, while other components of net periodic benefit pension cost will be presented separately outside of operating income. Additionally, only service costs may be capitalized in assets. This ASU is effective for fiscal years (and interim reporting periods within those years) beginning after December 15, 2017. We are currently assessing the impact the adoption of this ASU will have on our consolidated financial statements. 
+
+Compensation- Stock Compensation 
+
+In May 2017, the FASB issued an ASU, Compensation- Stock Compensation (Topic 718), “Scope of Modification Accounting”, which amends the scope of modification accounting for share-based payment arrangements. The standard provides guidance on the types of changes to the terms or conditions of share-based payment awards to which an entity would be required to apply modification accounting under ASC 718. Specifically, an entity would not apply modification accounting if the fair value, vesting conditions, and classification of the awards are the same immediately before and after the modification. The new standard is effective for annual periods beginning after December 15, 2017 and interim periods within those years. Early adoption is permitted. We do not expect the adoption of this ASU to have a material impact on our consolidated financial statements. 
+
+Derivatives and Hedging 
+
+In August 2017, the FASB issued an ASU “Derivatives and Hedging- Targeted Improvements to Accounting for Hedging Activities” (“ASU 2017-12”). The amendments expand an entity’s ability to apply hedge accounting for nonfinancial and financial risk components and allow for a simplified approach for fair value hedging of interest rate risk. ASU 2017-12 eliminates the need to separately measure and report hedge ineffectiveness and generally requires the entire change in fair value of a hedging instrument to be presented in the same income statement line as the hedged item. Additionally, the standard simplifies the hedge documentation and effectiveness assessment requirements under the previous guidance. The amendments of this ASU are effective for reporting periods beginning after December 15, 2018, with early adoption permitted. We elected to early adopt this ASU during the third quarter of 2017. See footnote 7 “Fair Value Measurement,” for the additional disclosures related to this ASU. The adoption of this ASU did not have a material impact on our consolidated financial statements. 
+
+Item 7A.

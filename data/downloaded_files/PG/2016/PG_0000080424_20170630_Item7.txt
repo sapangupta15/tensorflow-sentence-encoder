@@ -1,0 +1,757 @@
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations.
+
+Management's Discussion and Analysis
+
+Forward-Looking Statements
+
+Certain statements in this report, other than purely historical information, including estimates, projections, statements relating to our business plans, objectives and expected operating results and the assumptions upon which those statements are based, are “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. Forward-looking statements may appear throughout this report, including, without limitation, in the following sections: “Management's Discussion and Analysis” and “Risk Factors.” These forward-looking statements generally are identified by the words “believe,” “project,” “expect,” “anticipate,” “estimate,” “intend,” “strategy,” “future,” “opportunity,” “plan,” “may,” “should,” “will,” “would,” “will be,” “will continue,” “will likely result” and similar expressions. Forward-looking statements are based on current expectations and assumptions, which are subject to risks and uncertainties that may cause results to differ materially from those expressed or implied in the forward-looking statements. A detailed discussion of risks and uncertainties that could cause results and events to differ materially from such forward-looking statements is included in the section titled "Economic Conditions and Uncertainties" and the section titled “Risk Factors” (Item 1A of this Form 10-K). Forward-looking statements are made as of the date of this report, and we undertake no obligation to update or revise publicly any forward-looking statements, whether because of new information, future events or otherwise.
+
+The purpose of Management's Discussion and Analysis (MD&A) is to provide an understanding of Procter & Gamble's financial condition, results of operations and cash flows by focusing on changes in certain key measures from year to year. The MD&A is provided as a supplement to, and should be read in conjunction with, our Consolidated Financial Statements and accompanying notes. The MD&A is organized in the following sections:
+
+•Overview
+
+•Summary of 2017 Results 
+
+•Economic Conditions and Uncertainties
+
+•Results of Operations
+
+•Segment Results
+
+•Cash Flow, Financial Condition and Liquidity
+
+•Significant Accounting Policies and Estimates
+
+•Other Information
+
+Throughout the MD&A we refer to measures used by management to evaluate performance, including unit volume growth, net sales and net earnings. We also refer to a number of financial measures that are not defined under accounting principles generally accepted in the United States of America (U.S. GAAP), including organic sales growth, core earnings per share (Core EPS), adjusted free cash flow and adjusted free 
+
+cash flow productivity. Organic sales growth is net sales growth excluding the impacts of the Venezuela deconsolidation, acquisitions, divestitures and foreign exchange from year-over-year comparisons. Core EPS is diluted net earnings per share from continuing operations excluding certain items that are not judged to be part of the Company's sustainable results or trends. Adjusted free cash flow is operating cash flow less capital spending and certain divestiture impacts. Adjusted free cash flow productivity is the ratio of adjusted free cash flow to net earnings excluding certain one-time items. We believe these measures provide our investors with additional information about our underlying results and trends, as well as insight to some of the metrics used to evaluate management. The explanation at the end of the MD&A provides more details on the use and the derivation of these measures.
+
+Management also uses certain market share and market consumption estimates to evaluate performance relative to competition despite some limitations on the availability and comparability of share and consumption information. References to market share and market consumption in the MD&A are based on a combination of vendor-reported consumption and market size data, as well as internal estimates. All market share references represent the percentage of sales in dollar terms on a constant currency basis of our products, relative to all product sales in the category.
+
+OVERVIEW
+
+P&G is a global leader in fast-moving consumer goods, focused on providing branded consumer packaged goods of superior quality and value to our consumers around the world. Our products are sold in more than 180 countries and territories primarily through mass merchandisers, grocery stores, membership club stores, drug stores, department stores, distributors, baby stores, specialty beauty stores, e-commerce, high-frequency stores and pharmacies. We have on-the-ground operations in approximately 70 countries.
+
+Our market environment is highly competitive with global, regional and local competitors. In many of the markets and industry segments in which we sell our products, we compete against other branded products, as well as retailers' private-label brands. Additionally, many of the product segments in which we compete are differentiated by price tiers (referred to as super-premium, premium, mid-tier and value-tier products). We are well positioned in the industry segments and markets in which we operate, often holding a leadership or significant market share position.
+
+12 The Procter & Gamble Company
+
+ORGANIZATIONAL STRUCTURE
+
+Our organizational structure is comprised of Global Business Units (GBUs), Selling and Market Operations (SMOs), Global Business Services (GBS) and Corporate Functions (CF).
+
+Global Business Units
+
+Our GBUs are organized into ten product categories. Under U.S. GAAP, the GBUs underlying the ten product categories are aggregated into five reportable segments: Beauty; Grooming; Health Care; Fabric & Home Care; and Baby, Feminine & Family Care. The GBUs are responsible for developing overall brand strategy, new product upgrades and innovations and marketing plans. The following provides additional detail on our reportable segments and the ten product categories and brand composition within each segment.
+
+[DATA_TABLE_REMOVED]
+
+(1) Percent of Net sales and Net earnings from continuing operations for the year ended June 30, 2017 (excluding results held in Corporate).
+
+(2) The Grooming product category is comprised of the Shave Care and Appliances GBUs.   
+
+Recent Developments: During fiscal 2017, the Company completed the previously announced plan to significantly streamline our product portfolio by divesting, discontinuing or consolidating about 100 non-strategic brands. The resulting portfolio of about 65 key brands are in 10 category-based businesses where P&G has leading market positions, strong brands and consumer-meaningful product technologies. 
+
+During fiscal 2017, the Company completed the divestiture of four product categories, which included 43 of the Company's beauty brands ("Beauty Brands"), including the global salon professional hair care and color, retail hair color, cosmetics and the fine fragrance businesses, along with select hair styling brands. The Beauty Brands had historically been part of the Company’s Beauty reportable segment. The results of the Beauty Brands are presented as discontinued operations and, as such, are excluded from both continuing operations and segment results for all periods presented. Additionally, the Beauty Brands balance sheet positions as of June 30, 2016 are presented as held for sale in the Consolidated Balance Sheets. The Company recorded an after-tax gain on the final transaction of $5.3 billion ($1.95 per share), net of transaction and related costs.
+
+During fiscal 2016, the Company completed the divestiture of its Batteries business. The Batteries business had historically been part of the Company’s Fabric & Home Care reportable segment. The results of the Batteries business are presented as discontinued operations and, as such, are excluded from both continuing operations and segment results for all periods presented. 
+
+During fiscal 2015, the Company completed the divestiture of its Pet Care business. The gain on the transaction was not material. The results of the Pet Care business are presented as discontinued operations and, as such, are excluded from both continuing operations and segment results for all periods presented. 
+
+Refer to Note 13 to our Consolidated Financial Statements for more details on each of these divestiture transactions.
+
+While our ongoing business model may include a certain level of acquisition and divestiture activity, with the aforementioned transactions and other recent minor brand divestitures, the Company has completed the strategic portfolio reshaping program. 
+
+The Procter & Gamble Company 13
+
+As of June 30, 2015, the Company deconsolidated our Venezuelan subsidiaries and began accounting for our investment in those subsidiaries using the cost method of accounting. This change resulted in a fiscal 2015 one-time after-tax charge of $2.1 billion ($0.71 per share). Beginning in fiscal 2016, our financial results only include sales of finished goods to our Venezuelan subsidiaries to the extent we receive cash payments from Venezuela (expected to be largely through the DIPRO and DICOM exchange market). Accordingly, we no longer include the results of our Venezuelan subsidiaries' operations in reporting periods following fiscal 2015 (see Note 1 to the Consolidated Financial Statements and additional discussion in the MD&A under "Venezuela Impacts" in Results of Operations).
+
+Beauty: We are a global market leader in the beauty category. Most of the beauty markets in which we compete are highly fragmented with a large number of global and local competitors. We compete in skin and personal care and in hair care. In skin and personal care, we offer a wide variety of products, ranging from deodorants to personal cleansing to skin care, such as our Olay brand, which is one of the top facial skin care brands in the world with nearly 6% global market share. We are the global market leader in the retail hair care market with over 20% global market share primarily behind our Pantene and Head & Shoulders brands. 
+
+Grooming: We compete in Shave Care and Appliances. In Shave Care, we are the global market leader in the blades and razors market. Our global blades and razors market share is nearly 65%, primarily behind the Gillette franchise including our Fusion, Mach3, Prestobarba and Venus brands. Our appliances, such as electric razors and epilators, are sold under the Braun brand in a number of markets around the world where we compete against both global and regional competitors. We hold nearly 25% of the male shavers market and over 50% of the female epilators market.
+
+Health Care: We compete in oral care and personal health care. In oral care, there are several global competitors in the market and we have the number two market share position with nearly 20% global market share behind our Oral-B and Crest brands. In personal health care, we are a top ten competitor in a large, highly fragmented industry, primarily behind respiratory treatments (Vicks brand), non-prescription heartburn medications (Prilosec OTC brand) and digestive wellness products (Metamucil, Pepto Bismol, and Align brands). Nearly all of our sales outside the U.S. in personal health care are generated through the PGT Healthcare partnership with Teva Pharmaceuticals Ltd. 
+
+Fabric & Home Care: This segment is comprised of a variety of fabric care products including laundry detergents, additives and fabric enhancers; and home care products including dishwashing liquids and detergents, surface cleaners and air fresheners. In fabric care, we generally have the number one or number two market share position in the markets in which we compete and are the global market leader with over 25% global market share, primarily behind our Tide, Ariel and Downy brands. Our global home care market share is over 20% across the categories in which we compete.
+
+Baby, Feminine & Family Care:  In baby care, we are the global market leader and compete mainly in diapers, pants and baby wipes with over 25% global market share. We are the number one or number two baby care competitor in most of the key markets in which we compete, primarily behind Pampers, the Company's largest brand, with annual net sales of more than $8 billion. We are the global market leader in the feminine care category with over 25% global market share, primarily behind Always. We also compete in the adult incontinence category in certain markets, achieving over 10% market share in the markets where we compete. Our family care business is predominantly a North American business comprised largely of the Bounty paper towel and Charmin toilet paper brands. U.S. market shares are over 40% for Bounty and over 25% for Charmin.
+
+Selling and Market Operations
+
+Our SMOs are responsible for developing and executing go-to-market plans at the local level. The SMOs include dedicated retail customer, trade channel and country-specific teams. Our SMOs are organized under six regions comprised of North America, Europe, Latin America, Asia Pacific, Greater China and India, Middle East and Africa (IMEA). Throughout the MD&A, we reference business results in developed markets, which are comprised of North America, Western Europe and Japan, and developing markets which are all other markets not included in developed. 
+
+Corporate Functions
+
+CF provides company-level strategy and portfolio analysis, corporate accounting, treasury, tax, external relations, governance, human resources and legal, as well as other centralized functional support.
+
+Global Business Services
+
+GBS provides technology, processes and standard data tools to enable the GBUs, the SMOs and Corporate Functions to better understand the business and better serve consumers and customers. The GBS organization is responsible for providing world-class solutions at a low cost and with minimal capital investment.
+
+STRATEGIC FOCUS
+
+P&G aspires to serve the world’s consumers better than our best competitors in every category and in every country in which we compete, and, as a result, deliver total shareholder return in the top one-third of our peer group. Delivering and sustaining leadership levels of shareholder value creation requires balanced top-line growth, bottom-line growth and strong cash generation.
+
+Our strategic choices are focused on winning with consumers. The consumers who purchase and use our products are at the center of everything we do. We increase the number of users - and the usage - of our brands when we win at the zero, first and second moments of truth: when consumers research our categories and brands, purchase them in a store or online and use them in their homes.
+
+Winning with consumers around the world and against our best competitors requires innovation. Innovation has always been, and continues to be, P&G’s lifeblood. Innovation requires 
+
+14 The Procter & Gamble Company
+
+consumer insights and technology advancements that lead to product improvements, improved marketing and merchandising programs and game-changing inventions that create new brands and categories. 
+
+Productivity improvement is critical to delivering our balanced top-line growth, bottom-line growth and value creation objectives. Productivity improvement and sales growth reinforce and fuel each other. We are driving productivity improvement across all elements of cost, including cost of goods sold, marketing and promotional expenses and non-manufacturing overhead. Productivity improvements and cost savings are being reinvested in product and packaging improvements, brand awareness-building advertising and trial-building sampling programs, increased sales coverage and R&D programs.
+
+We are improving operational effectiveness and organizational culture through enhanced clarity of roles and responsibilities, accountability and incentive compensation programs.
+
+The Company has undertaken an effort to focus and strengthen its business portfolio to compete in categories and with brands that are structurally attractive and that play to P&G's strengths. 
+
+The ongoing portfolio of businesses consists of 10 product categories. These are categories where P&G has leading market positions, strong brands and consumer-meaningful product technologies.
+
+We believe these strategies are right for the long-term health of the Company and our objective of delivering total shareholder return in the top one-third of our peer group.
+
+The Company expects the delivery of the following long-term annual financial targets will result in total shareholder returns in the top third of the competitive peer group:
+
+•Organic sales growth above market growth rates in the categories and geographies in which we compete;
+
+•Core EPS growth of mid-to-high single digits; and
+
+•Adjusted free cash flow productivity of 90% or greater.
+
+In periods with significant macroeconomic pressures, we intend to maintain a disciplined approach to investing so as not to sacrifice the long-term health of our businesses to meet short-term objectives in any given year.
+
+SUMMARY OF 2017 RESULTS
+
+[DATA_TABLE_REMOVED]
+
+•Net sales were unchanged at $65.1 billion including a negative 2% impact from foreign exchange.[DATA_TABLE_REMOVED]
+
+◦Unit volume increased 1%. Volume increased low single digits in Grooming, Health Care, Fabric & Home Care and Baby, Feminine & Family Care. Volume decreased low single digits in Beauty.[DATA_TABLE_REMOVED]
+
+•Net earnings from discontinued operations increased $4.6 billion primarily due to the net impact of a gain on the sale of our Beauty business in fiscal 2017, partially offset by 
+
+the base period results, which included the net earnings of the Batteries and Beauty Brands businesses prior to divestiture, a gain on the sale of the Batteries business and impairment charges on the Batteries business prior to divestiture.[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+•Cash flow from operating activities was $12.8 billion.
+
+◦Adjusted free cash flow was $9.8 billion.
+
+◦Adjusted free cash flow productivity was 94%.
+
+The Procter & Gamble Company 15
+
+ECONOMIC CONDITIONS AND UNCERTAINTIES
+
+We discuss expectations regarding future performance, events and outcomes, such as our business outlook and objectives, in annual and quarterly reports, press releases and other written and oral communications. All such statements, except for historical and present factual information, are "forward-looking statements" and are based on financial data and our business plans available only as of the time the statements are made, which may become out-of-date or incomplete. We assume no obligation to update any forward-looking statements as a result of new information, future events or other factors. Forward-looking statements are inherently uncertain and investors must recognize that events could be significantly different from our expectations. For more information on risks that could impact our results, refer to Item 1A Risk Factors in this Form 10-K.
+
+Global Economic Conditions. Current macroeconomic factors remain dynamic, and any causes of market size contraction, such as reduced GDP in commodity-dependent economies, greater political unrest in the Middle East and Central & Eastern Europe, further economic instability in the European Union, political instability in certain Latin American markets, further economic slowdowns in Japan and China and changes to international trade agreements in North America and elsewhere, could reduce our sales or erode our operating margin, in either case reducing our earnings.
+
+Changes in Costs. Our costs are subject to fluctuations, particularly due to changes in commodity prices and our own productivity efforts. We have significant exposures to certain commodities, in particular certain oil-derived materials like resins, and volatility in the market price of these commodity input materials has a direct impact on our costs. If we are unable to manage commodity fluctuations through pricing actions, cost savings projects and sourcing decisions as well as through consistent productivity improvements, it may adversely impact our gross margin, operating margin and net earnings. Sales could also be adversely impacted following pricing actions if there is a negative impact on consumption of our products. We strive to implement, achieve and sustain cost improvement plans, including outsourcing projects, supply chain optimization and general overhead and workforce optimization. As discussed later in this MD&A, we initiated certain non-manufacturing overhead reduction projects along with manufacturing and other supply chain cost improvements projects in fiscal 2012. In fiscal 2017, we announced an additional multi-year cost reduction program. These programs are resulting in significant enrollment and other savings. If we are not successful in executing and sustaining these changes, there could be a negative impact on our operating margin and net earnings.
+
+Foreign Exchange. We have both translation and transaction exposure to the fluctuation of exchange rates. Translation exposures relate to exchange rate impacts of measuring income statements of foreign subsidiaries that do not use the U.S. dollar as their functional currency. Transaction exposures relate to 1) the impact from input costs that are denominated in a currency other than the local reporting currency and 2) the revaluation of transaction-related working capital balances 
+
+denominated in currencies other than the functional currency. Over the past four years, the U.S. dollar has strengthened versus a number of foreign currencies leading to lower sales and earnings from these foreign exchange impacts. Certain countries experiencing significant exchange rate fluctuations, like Argentina, Egypt, Nigeria, and the United Kingdom have had, and could continue to have, a significant impact on our sales, costs and earnings. Increased pricing in response to these fluctuations in foreign currency exchange rates may offset portions of the currency impacts but could also have a negative impact on consumption of our products, which would affect our sales.
+
+Government Policies. Our net earnings could be affected by changes in U.S. or foreign government tax policies. For example, the U.S. is considering corporate tax reform that may significantly impact the corporate tax rate and change the U.S. tax treatment of international earnings. Additionally, we attempt to carefully manage our debt and currency exposure in certain countries with currency exchange, import authorization and pricing controls, such as Nigeria and Ukraine. Changes in government policies in these areas might cause an increase or decrease in our sales, operating margin and net earnings. For example, during fiscal 2015, the Company deconsolidated its Venezuelan subsidiaries due to evolving conditions that resulted in an other-than-temporary lack of exchangeability between the Venezuelan bolivar and U.S. dollar and restricted our ability to pay dividends and satisfy certain other obligations denominated in U.S. dollars.
+
+RESULTS OF OPERATIONS
+
+The key metrics included in our discussion of our consolidated results of operations include net sales, gross margin, selling, general and administrative costs (SG&A), other non-operating items and income taxes. The primary factors driving year-over-year changes in net sales include overall market growth in the categories in which we compete, product initiatives, competitive activities (the level of initiatives and other activities by competitors), geographic expansion and acquisition and divestiture activity, all of which drive changes in our underlying unit volume, as well as pricing actions (which can also indirectly impact volume), changes in product and geographic mix and foreign currency impacts on sales outside the U.S.
+
+Most of our cost of products sold and SG&A are to some extent variable in nature. Accordingly, our discussion of these operating costs focuses primarily on relative margins rather than the absolute year-over-year changes in total costs. The primary drivers of changes in gross margin are input costs (energy and other commodities), pricing impacts, geographic mix (for example, gross margins in developed markets are generally higher than in developing markets for similar products), product mix (for example, the Beauty segment has higher gross margins than the Company average), foreign exchange rate fluctuations (in situations where certain input costs may be tied to a different functional currency than the underlying sales), the impacts of manufacturing savings projects and reinvestments (for example, product or package improvements) and to a lesser extent scale impacts (for costs 
+
+16 The Procter & Gamble Company
+
+that are fixed or less variable in nature). The primary drivers of SG&A are marketing-related costs and non-manufacturing overhead costs. Marketing-related costs are primarily variable in nature, although we may achieve some level of scale benefit over time due to overall growth and other marketing efficiencies. Overhead costs are also variable in nature, but on a relative basis, less so than marketing costs due to our ability to leverage our organization and systems infrastructures to support business growth. Accordingly, we generally experience more scale-related impacts for these costs.
+
+The Company is in the midst of a productivity and cost savings plan to reduce costs in the areas of supply chain, certain marketing activities and overhead expenses. The plan is designed to accelerate cost reductions by streamlining management decision making, manufacturing and other work processes to fund the Company's growth strategy.
+
+Net Sales
+
+Fiscal year 2017 compared with fiscal year 2016 
+
+Net sales were unchanged at $65.1 billion in 2017 on a 1% increase in unit volume versus the prior year period. Volume increased low single digits in Grooming, Health Care, Fabric & Home Care and Baby, Feminine & Family Care. Volume decreased low single digits in Beauty.
+
+Volume increased low single digits in developed regions and was unchanged in developing regions. Organic volume increased low single digits in both developed and developing markets. Unfavorable foreign exchange reduced net sales by 2%. Neither pricing nor mix had any net impact on net sales for the year. Organic sales grew 2% driven by a 2% increase in organic volume.
+
+Fiscal year 2016 compared with fiscal year 2015 
+
+Net sales decreased 8% to $65.3 billion in 2016 on a 3% decrease in unit volume versus the prior year period. Volume decreased low single digits in Grooming, Health Care, Fabric & Home Care and Baby, Feminine & Family Care and decreased mid-single digits in Beauty. Volume increased low single digits in developed regions and declined high single digits in developing regions, in part due to increased pricing to address foreign exchange devaluations and due to the Venezuela deconsolidation and minor brand divestitures. Organic volume declined mid-single digits in developing markets. Unfavorable foreign exchange reduced net sales by 6%, while higher pricing drove a 1% favorable impact on net sales. Organic volume decreased 1% and organic sales grew 1% driven by higher pricing.
+
+Operating Costs
+
+[DATA_TABLE_REMOVED]
+
+Fiscal year 2017 compared with fiscal year 2016
+
+Gross margin increased 40 basis points (bps) to 50.0% of net sales in 2017. Gross margin increased primarily due to:
+
+•a 230 basis-point positive impact from total manufacturing cost savings (210 basis points net of product and packaging reinvestments),
+
+•a 20 basis-point benefit from lower restructuring charges and
+
+•a 10 basis-point benefit from positive scale impacts due to higher volume.
+
+These impacts were partially offset by:
+
+•a 90 basis-point decrease from unfavorable product mix between segments (caused primarily by the lower relative proportion of sales in Grooming, which has higher than company-average gross margins) and within segments (due to disproportionate growth of lower margin products, forms and package sizes in certain businesses),
+
+•a 40 basis-point negative impact from unfavorable foreign exchange and
+
+•a combined 70 basis-point impact due to higher commodities and other costs.
+
+Total SG&A decreased 2% to $18.6 billion as increased overhead and advertising spending were more than offset by a reduction in other operating expenses, primarily due to a reduction in net foreign exchange transactional costs and gains on real estate sales. SG&A as a percentage of net sales decreased 50 basis points to 28.5% as a result of the decline in other operating expenses.
+
+•Marketing spending as a percentage of net sales increased 10 basis points due to an increase in marketing activities, partially offset by productivity savings.
+
+•Overhead costs as a percentage of net sales increased 20 basis points, primarily driven by wage inflation and increased sales personnel in certain businesses, partially offset by 20 basis points of productivity savings.
+
+•Other operating expenses as a percent of net sales declined 80 basis points. Lower foreign exchange transactional charges reduced SG&A as a percentage of net sales by 
+
+The Procter & Gamble Company 17
+
+approximately 20 basis points. The balance of the reduction is primarily driven by gains on sales of real estate.
+
+Fiscal year 2016 compared with fiscal year 2015 
+
+Gross margin increased 200 basis points to 49.6% of net sales in 2016. Gross margin increased primarily due to:
+
+•a 210 basis-point positive impact from manufacturing cost savings,
+
+•a 110 basis-point benefit from lower commodity costs and
+
+•a 70 basis-point benefit of higher pricing.
+
+These impacts were partially offset by:
+
+•a 70 basis-point negative impact from unfavorable foreign exchange,
+
+•a 70 basis-point decrease due to unfavorable product mix caused by the disproportionate decline of higher margin segments like Beauty and by product form mix within the segments,
+
+•a 20 basis-point decrease from negative scale impacts due to lower volume and
+
+•a 20 basis-point decline due to incremental restructuring activity.
+
+Total SG&A decreased 8% to $18.9 billion in 2016 primarily due to reduced overhead spending and a decrease in foreign exchange transaction charges. SG&A as a percentage of net sales declined 10 basis points to 29.0%, as negative scale impacts of lower net sales and inflationary impacts were more than offset by cost savings efforts, mainly in overhead spending, and lower foreign exchange transactional charges. 
+
+•Marketing spending as a percentage of net sales increased 90 basis points due to the negative scale impacts from reduced sales.
+
+•Overhead costs as a percentage of net sales decreased 20 basis points, as 90 basis points of productivity savings were partially offset by wage inflation, increased sales personnel in certain businesses and investments in research and development. 
+
+•Lower foreign exchange transactional charges reduced SG&A as a percentage of net sales by approximately 70 basis points. A pre-deconsolidation balance sheet remeasurement charge in Venezuela in fiscal year 2015 drove 20 basis points of this decline. The balance of the reduction relates to lower transactional charges from revaluing receivables and payables from transactions denominated in a currency other than a local entity’s functional currency.
+
+In addition to the gross margin expansion and decrease in SG&A as a percent of net sales discussed above, operating margin also increased by 290 basis points in 2016 due to a $2.0 billion charge in 2015 related to the deconsolidation of the Company's Venezuelan subsidiaries.
+
+Non-Operating Items
+
+Fiscal year 2017 compared with fiscal year 2016[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+•Other non-operating income/(expense), which consists primarily of divestiture gains, investment income, and other non-operating items, was a net expense of $404 million in 2017 versus a net income of $325 million in 2016, a $729 million year-over-year decrease. This change is due to a $543 million current-year charge related to early extinguishment of long-term debt and a reduction in gains on minor brand divestitures. In 2017, we had approximately $110 million in minor brand divestiture gains, including Hipoglos (a baby care brand sold primarily in Brazil) and other minor brands. The prior year divestiture activities included approximately $300 million in minor brand divestiture gains, including Escudo and certain hair care brands in Europe and IMEA.
+
+Fiscal year 2016 compared with fiscal year 2015
+
+•Interest expense was $579 million in 2016, a decrease of $47 million versus the prior year due to lower average debt balances.
+
+•Interest income was $182 million in 2016, an increase of $33 million versus the prior year primarily due to increasing cash, cash equivalents and investment securities balances.
+
+•Other non-operating income, which primarily includes divestiture gains and investment income, decreased $115 million to $325 million in 2016, due primarily to lower gains on minor brand divestitures. In 2016, we had approximately $300 million in minor brand divestiture gains, including Escudo and certain hair care brands in Europe and IMEA. The prior year acquisition and divestiture activities included approximately $450 million in divestiture gains, including Zest, Camay, Fekkai and Wash & Go hair care brands and Vaposteam.
+
+Income Taxes
+
+Fiscal year 2017 compared with fiscal year 2016 
+
+The effective tax rate on continuing operations decreased 190 basis points to 23.1%. The rate declined due to:
+
+•a 130 basis-points impact from excess tax benefits associated with share-based payments due to the adoption of FASB Accounting Standards Update (ASU) 2016-09 Improvements to Employee Share-based Payment Accounting in 2017,
+
+•a 150 basis-point benefit from discrete impacts related to uncertain income tax positions (which netted to approximately 205 basis points in the current year versus 55 basis points in the prior year),
+
+•a 50 basis-point benefit from the tax impact of the early extinguishment of long-term debt, and
+
+•a 130 basis-point benefit from the prior year establishment of a valuation allowance on deferred tax assets related to net operating loss carryforwards.
+
+These benefits were partially offset by a 230 basis-point increase from unfavorable geographic mix, primarily due to a greater proportion of total income taxed in the U.S. and a 40 basis-point increase due to the impact of minor brand divestitures.
+
+18 The Procter & Gamble Company
+
+Fiscal year 2016 compared with fiscal year 2015 
+
+The effective tax rate on continuing operations increased 30 basis points to 25.0% in 2016 mainly due to:
+
+•a 260 basis-point negative impact from the unfavorable geographic mix of earnings, and
+
+•a 130 basis-point impact in 2016 from the establishment of valuation allowances on deferred tax assets related to net operating loss carryforwards and the impact of favorable discrete adjustments related to uncertain income tax positions (which netted to 55 basis points in 2016 versus 85 basis points in 2015).
+
+These benefits were partially offset by a 400 basis point decrease related to the non-deductibility of the Venezuelan deconsolidation charge in 2015.
+
+Net Earnings
+
+Fiscal year 2017 compared with fiscal year 2016 
+
+Net earnings from continuing operations increased $167 million, or 2%, to $10.2 billion. Operating income improved $514 million, or 4%, due to improved gross margin and reduced SG&A costs. Net earnings also benefitted from a lower tax rate in 2017. These benefits were partially offset by the increase in net non-operating expenses, discussed above. Foreign exchange impacts reduced net earnings by approximately $420 million in 2017 due to weakening of certain currencies against the U.S. dollar, including those in Argentina, Nigeria, Egypt and the United Kingdom. This impact includes both transactional charges as discussed above in Operating Costs and translational impacts from converting earnings from foreign subsidiaries to U.S. dollars.
+
+Net earnings from discontinued operations increased $4.6 billion in 2017 to $5.2 billion. This change was driven by the $5.3 billion gain on the sale of the Beauty Brands in the current year, partially offset by the impact of the base period results, which included the net earnings of the Batteries and Beauty Brands businesses prior to divestiture, a gain on the sale of the Batteries business and impairment charges on the Batteries business prior to divestiture (see Note 13 to the Consolidated Financial Statements).
+
+Net earnings attributable to Procter & Gamble increased $4.8 billion, or 46%, to $15.3 billion.
+
+Diluted net earnings per share from continuing operations increased $0.20, or 6%, to $3.69 due to the increase in net earnings from continuing operations and a reduction in the number of weighted average shares outstanding following the shares tendered in the sale of the Beauty Brands to Coty (see Note 13 to the Consolidated Financial Statements), along with ongoing share repurchases.
+
+Diluted net earnings per share from discontinued operations were $1.90. This was an increase of $1.70 per share versus the prior year primarily resulting from the gain on the sale of the Beauty Brands. Diluted net earnings per share increased $1.90, or 51%, to $5.59.
+
+Core EPS increased 7% to $3.92. Core EPS in fiscal year 2017 represents diluted net earnings per share from continuing operations excluding the charge related to early extinguishment of long-term debt and incremental 
+
+restructuring charges related to our productivity and cost savings plan. The increase was driven by operating margin expansion, lower effective tax rate and the reduction in the number of weighted average shares outstanding discussed above.
+
+Fiscal year 2016 compared with fiscal year 2015 
+
+Net earnings from continuing operations increased $1.7 billion, or 21%, to $10.0 billion in 2016 primarily due to the base period charge of $2.1 billion after-tax related to the deconsolidation of Venezuelan subsidiaries. Earnings also declined due to the impact of the decline in net sales in fiscal 2016, partially offset by improved gross margin and the reduction in SG&A. Foreign exchange impacts reduced net earnings by about $880 million in 2016 due to weakening of certain key currencies against the U.S. dollar, primarily in Argentina, Brazil, Canada, Mexico and Russia. This impact includes both transactional charges as discussed above in Operating Costs and translational impacts from converting earnings from foreign subsidiaries to U.S. dollars.
+
+Net earnings from discontinued operations improved $1.7 billion in 2016 to $577 million. Batteries drove a $2.1 billion improvement due primarily to a $1.8 billion reduction in after-tax impairment charges in the Batteries business ($350 million in 2016 compared to $2.1 billion in 2015) and a $422 million after-tax gain in 2016 from the sale of the Batteries business. This was partially offset by a decrease in the earnings of the Beauty Brands in 2016 (see Notes 4 and 13 to the Consolidated Financial Statements).
+
+Net earnings attributable to Procter & Gamble increased $3.5 billion, or 49% to $10.5 billion.
+
+Diluted net earnings per share from continuing operations increased $0.65, or 23%, to $3.49 in 2016 due to the increase in net earnings and a decline in the average number of shares outstanding. Diluted net earnings per share from discontinued operations were $0.20 primarily resulting from the gain on the sale of the Batteries business. This was an improvement of $0.60 per share versus the prior year. Diluted net earnings per share increased $1.25, or 51%, to $3.69.
+
+Core EPS decreased 2% to $3.67 in 2016. Core EPS in fiscal year 2016 represents diluted net earnings per share from continuing operations excluding charges for certain European legal matters and incremental restructuring related to our productivity and cost savings plan. The decline was driven by reduced net sales and foreign exchange impacts, partially offset by gross margin expansion.
+
+Venezuela Impacts
+
+There are a number of currency and other operating controls and restrictions in Venezuela, which have evolved over time and may continue to evolve in the future. These evolving conditions resulted in an other-than-temporary lack of exchangeability between the Venezuelan bolivar and U.S. dollar and restricted our Venezuelan operations’ ability to pay dividends or pay for certain raw and package materials, finished goods and services denominated in U.S. dollars. For accounting purposes, this resulted in a lack of control over our Venezuelan subsidiaries. Therefore, in accordance with the applicable accounting standards for consolidation, effective 
+
+The Procter & Gamble Company 19
+
+June 30, 2015, we deconsolidated our Venezuelan subsidiaries and began accounting for our investment in those subsidiaries using the cost method of accounting. This resulted in a write-off of all of the net assets of our Venezuelan subsidiaries, along with Venezuela related assets held by other subsidiaries. Beginning in fiscal 2016, our financial results only include 
+
+sales of finished goods to our Venezuelan subsidiaries to the extent we receive payments from Venezuela. Accordingly, we no longer include the results of our Venezuelan subsidiaries’ operations in our financial results.
+
+SEGMENT RESULTS
+
+Segment results reflect information on the same basis we use for internal management reporting and performance evaluation. The results of these reportable segments do not include certain non-business unit specific costs such as interest expense, investing activities and certain restructuring and asset impairment costs. These costs are reported in our Corporate segment and are included as part of our Corporate segment discussion. Additionally, as described in Note 2 to the Consolidated Financial Statements, we apply blended statutory tax rates in the segments. Eliminations to adjust segment results to arrive at our consolidated effective tax rate are included in Corporate. All references to net earnings throughout the discussion of segment results refer to net earnings from continuing operations.
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+(1) Net sales percentage changes are approximations based on quantitative formulas that are consistently applied.
+
+(2) Other includes the sales mix impact from acquisitions and divestitures and rounding impacts necessary to reconcile volume to net sales.
+
+BEAUTY
+
+[DATA_TABLE_REMOVED]
+
+Fiscal year 2017 compared with fiscal year 2016
+
+Beauty net sales were unchanged at $11.4 billion in 2017 on a 2% decrease in unit volume. Unfavorable foreign exchange 
+
+reduced net sales by 2%. Price increases had a 1% positive impact on net sales. Favorable product mix added 2% to net sales, primarily due to growth of the super-premium SK-II brand, which has higher than segment average selling prices. Organic sales increased 3% on organic volume that increased 1%.  Global market share of the Beauty segment decreased 0.6 points. Volume decreased low single digits in developed regions. Volume decreased low single digits in developing regions. Excluding minor brand divestitures, organic volume in developing regions increased low single digits.[DATA_TABLE_REMOVED]
+
+20 The Procter & Gamble Company
+
+digits mainly due to competitive activity. Developing regions decreased low single digits due to minor brand divestitures. Organic volume increased low single digits in developing regions behind product innovation and market growth. Global market share of the hair care category decreased more than half a point.[DATA_TABLE_REMOVED]
+
+Net earnings decreased 3% to $1.9 billion due to a 50 basis point decrease in net earnings margin, behind an increase in SG&A as a percentage of net sales. SG&A as a percentage of net sales increased due to increased overhead spending including investments in sales resources and incremental marketing activity. Gross margin decreased slightly as the benefits from productivity savings and higher pricing were more than offset by higher commodity costs and unfavorable mix impacts (driven by Hair Care from an increase in the proportion of lower margin forms and categories, and unfavorable geographic mix, which more than offset benefit from Skin and Personal Care, driven by the growth of SK-II).  
+
+Fiscal year 2016 compared with fiscal year 2015 
+
+Beauty net sales decreased 9% to $11.5 billion in fiscal 2016 on a 5% decrease in unit volume. Unfavorable foreign exchange reduced net sales by 6%. Price increases had a 2% positive impact on net sales. Organic sales were unchanged on organic volume that decreased 2%. Global market share of the Beauty segment decreased 1.0 points. Volume decreased low single digits in developed markets and decreased high single digits in developing markets.
+
+•Volume in Hair Care was down mid-single digits. Developed markets declined mid-single digits due to competitive activity while developing markets declined mid-single digits driven by increased pricing, the Venezuela deconsolidation and minor brand divestitures. Global market share of the hair care category decreased more than a point.
+
+•Volume in Skin and Personal Care decreased high single digits, while organic volume decreased low single digits, with the difference attributable to the Camay and Zest brand divestitures and the Venezuela deconsolidation. Organic volume was unchanged in developed regions as commercial innovation was offset by ongoing competitive activity. Organic volume declined mid-single digits in developing regions primarily due to increased pricing and competitive activity. Global market share of the skin and personal care category decreased nearly a point.
+
+Net earnings decreased 9% to $2.0 billion in 2016 primarily due to the reduction in net sales, along with a 10 basis-point decrease in net earnings margin. Net earnings margin decreased due to an increase in SG&A as a percentage of net sales, largely offset by gross margin expansion. Gross margin 
+
+improved due to productivity savings, increased pricing and lower commodity costs, partially offset by negative mix. SG&A as a percentage of net sales increased as lower marketing and overhead spending from the Company's focus on efficiencies was more than offset by the negative scale impacts from the reduction in sales.
+
+GROOMING
+
+[DATA_TABLE_REMOVED]
+
+Fiscal year 2017 compared with fiscal year 2016 
+
+Grooming net sales decreased 3% to $6.6 billion in 2017 on a 2% increase in unit volume. Unfavorable foreign exchange reduced net sales by 2%. Unfavorable mix reduced net sales by 2% driven by disproportionate growth in emerging markets, where average selling prices are lower than in developed regions, in part due to a higher relative proportion of disposable razors in those markets. Price reductions in the U.S. during the second half of the year taken to address consumer price-competitiveness drove a 1% reduction in net sales. Organic sales were unchanged on organic volume that increased 3%. Global market share of the Grooming segment decreased 0.7 points. Volume increased low single digits in developed and developing regions.[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+Net earnings decreased 1% to $1.5 billion due to the reduction in net sales, partially offset by an increase in net earnings margin. Net earnings margin increased 40 basis points due to a decrease in SG&A as a percent of net sales and improved gross margin. SG&A as a percent of net sales decreased due to a gain on the sale of real estate, partially offset by increased overhead spending. Gross margin increased as the benefits of productivity efforts were only partially offset by unfavorable foreign exchange impacts, reduced pricing and negative mix driven by growth in emerging markets, where average selling prices are lower than in developed regions, in part due to a higher relative proportion of disposable razors in those markets.
+
+The Procter & Gamble Company 21
+
+Fiscal year 2016 compared with fiscal year 2015
+
+Grooming net sales decreased 8% to $6.8 billion in 2016 on a 2% decrease in unit volume. Unfavorable foreign exchange reduced net sales by 9%. Price increases in Shave Care contributed 5% to net sales. Unfavorable product mix decreased net sales by 2% due to a higher relative mix of disposable razors, which have lower than segment average selling prices compared to system razor cartridges. Organic sales increased 2%. Global market share of the Grooming segment decreased 1.1 points. Volume decreased low single digits in developed and developing regions.
+
+•Shave Care volume decreased low single digits in both developed and developing regions due to competitive activity and increased pricing. Global market share of the shave care category decreased more than half a point.
+
+•Volume in Appliances was up mid-single digits due to a mid-single-digit increase in developed regions from product innovation. Volume in developing regions increased low single digits due to growth from product innovation, partially offset by reductions due to increased pricing. Global market share of the Appliances category decreased more than half a point.
+
+Net earnings decreased 13% to $1.5 billion in 2016 due to the reduction in net sales and a 130 basis-point decrease in net earnings margin. Net earnings margin decreased due to increased SG&A as a percentage of net sales partially offset by a lower tax rate. Gross margin was unchanged as the benefits of increased pricing and productivity efforts were largely offset by unfavorable foreign exchange impacts and negative product mix caused by an increase in the proportion of disposable razor sales compared to system razor cartridges. SG&A as a percentage of net sales increased due to increased marketing spending and the negative scale impact of lower net sales. The tax rate declined due to the geographic mix of earnings.
+
+HEALTH CARE
+
+[DATA_TABLE_REMOVED]
+
+Fiscal year 2017 compared with fiscal year 2016
+
+Health Care net sales increased 2% to $7.5 billion in 2017 on a 3% increase in unit volume. Unfavorable foreign exchange reduced net sales by 2%. Favorable product mix contributed 1% to net sales due primarily to an increase in power toothbrushes in Oral Care, which have higher than segment-average selling prices. Organic sales increased 5% on organic volume that increased 4%. Global market share of the Health Care segment decreased 0.2 points.  Volume increased low single digits in developed regions and increased mid-single digits in developing regions.[DATA_TABLE_REMOVED]
+
+increased mid-single digits in developing regions driven by market growth and product innovation. Global market share of the oral care category decreased slightly.[DATA_TABLE_REMOVED]
+
+Net earnings increased 2% to $1.3 billion due to the increase in net sales. Operating margin was unchanged as a higher gross margin was offset by increased SG&A as a percentage of net sales. Gross margin increased due to productivity cost savings, partially offset by unfavorable geographic mix driven by the disproportionate growth of developing regions, which have lower than segment-average margins. SG&A increased as a percentage of net sales due to increased overhead spending, partially offset by reduced marketing spending.
+
+Fiscal year 2016 compared with fiscal year 2015
+
+Health Care net sales were down 5% to $7.4 billion in 2016 on a 2% decrease in unit volume. Unfavorable foreign exchange reduced net sales by 6%. Price increases contributed 2% to net sales, mainly in developing markets. Favorable geographic mix increased net sales 1%, primarily driven by a decline in Oral Care volume in developing regions, which have lower than segment average selling prices. Organic sales increased 2%. Global market share of the Health Care segment decreased 0.7 points. Volume was up low single digits in developed regions and declined high single digits in developing regions.
+
+•Oral Care volume declined low single digits due to a high single-digit decrease in developing regions caused by increased pricing, competitive activity and reduced customer inventory. Volume in developed regions increased low single digits driven by product innovation. Global market share of the oral care category was down less than a point.
+
+•Volume in Personal Health Care decreased mid-single digits primarily due to a mid-single-digit decrease in developed regions driven by competitive activity and a weak cough/cold season. Volume in developing markets decreased low single digits due to increased pricing. Global market share of the personal health care category decreased half a point.
+
+Net earnings increased 7% to $1.3 billion in 2016 as the reduction in net sales was more than offset by a 190 basis-point increase in net earnings margin. Gross margin increased primarily due to manufacturing cost savings and increased pricing. SG&A as a percentage of net sales decreased primarily due to reduced marketing spending from the focus on productivity and cost savings efforts.
+
+22 The Procter & Gamble Company
+
+FABRIC & HOME CARE
+
+[DATA_TABLE_REMOVED]
+
+Fiscal year 2017 compared with fiscal year 2016
+
+Fabric & Home Care net sales were unchanged in 2017 at $20.7 billion on a 1% increase in unit volume. Unfavorable foreign exchange reduced net sales by 2%. Favorable geographic mix increased net sales 1%, primarily driven by increased volume in developed regions, which have higher than segment-average selling prices. Organic sales increased 3% on organic volume that increased 2%. Global market share of the Fabric & Home Care segment decreased 0.1 points. Volume increased low single digits in developed regions and decreased low single digits in developing regions. Excluding minor brand divestitures, organic volume increased mid-single digits in developed regions and decreased low single digits in developing regions.[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+Net earnings decreased 2% to $2.7 billion due to a 30 basis-point decrease in net earnings margin. Net earnings margin decreased due to an increase in the effective tax rate driven by the geographic mix of earnings. Gross margin expanded slightly, driven by manufacturing cost savings, partially offset by unfavorable foreign exchange impacts and increased commodity costs. SG&A as a percentage of net sales increased slightly due to increased overhead spending.
+
+Fiscal year 2016 compared with fiscal year 2015
+
+Fabric & Home Care net sales in 2016 were down 7% to $20.7 billion on unit volume that declined 1%. Unfavorable foreign exchange reduced net sales by 6%. Organic sales increased 1% on a 1% increase in organic volume, which excludes minor brand divestitures and the Venezuela deconsolidation. Global market share of the Fabric & Home Care segment decreased 0.2 points. Volume increased mid-single digits in developed regions and was down high single digits in developing regions.
+
+•Fabric Care volume declined low single digits due to a double-digit decrease in developing regions driven by increased pricing, reduced distribution of less profitable brands, minor brand divestitures and the Venezuela 
+
+deconsolidation. Organic volume in developing regions decreased high single digits. Volume in developed markets increased mid-single digits due to innovation and increased marketing. Global market share of the fabric care category was flat.
+
+•Home Care volume increased low single digits. Developed market volume increased low single digits as benefits from product innovation more than offset impacts from competitive activity. This was partially offset by a low single-digit decrease in developing regions following increased pricing. Global market share of the home care category was down slightly.
+
+Net earnings increased 5% to $2.8 billion in 2016 behind a 160 basis-point increase in net earnings margin, which more than offset the reduction in net sales. Net earnings margin increased due to gross margin expansion, partially offset by increased SG&A as a percentage of net sales. Increased gross margin was driven by manufacturing cost savings and lower commodity costs. SG&A as a percentage of net sales increased due to an increase in marketing spending and the negative scale impacts from the reduction in net sales.
+
+BABY, FEMININE & FAMILY CARE
+
+[DATA_TABLE_REMOVED]
+
+Fiscal year 2017 compared with fiscal year 2016
+
+Baby, Feminine & Family Care net sales decreased 1% to $18.3 billion in 2017 on a 2% increase in unit volume. Unfavorable foreign exchange reduced net sales by 2%. Lower pricing had a negative 1% impact on net sales. Organic sales increased 1% on organic volume that increased 2%. Global market share of the Baby, Feminine & Family Care segment decreased 0.1 points. Volume increased low single digits in developed regions and was unchanged in developing regions.[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+The Procter & Gamble Company 23
+
+Net earnings decreased 6% to $2.5 billion due to the reduction in net sales and a 60 basis point decrease in net earnings margin. Net earnings margin decreased as increased SG&A as a percent of net sales was only partially offset by an increase in gross margin. SG&A as a percentage of net sales increased due to increased marketing and overhead spending. Gross margin increased driven by manufacturing cost savings partially offset by unfavorable foreign exchange impacts, lower pricing and unfavorable product mix across business units due to increased net sales in product forms and larger package sizes with lower than segment-average margins.
+
+Fiscal year 2016 compared with fiscal year 2015
+
+Baby, Feminine & Family Care net sales decreased 9% to $18.5 billion in 2016 on a 3% decline in unit volume. Unfavorable foreign exchange reduced net sales by 6%. Organic sales declined 1% on a 2% decline in organic volume. Global market share of the Baby, Feminine & Family Care segment decreased 1.1 points. Volume increased low single digits in developed regions and decreased double digits in developing regions.
+
+•Volume in Baby Care was down mid-single digits due to a high single-digit decrease in developing regions caused by price increases in the previous fiscal year, the Venezuela deconsolidation and competitive activity. Organic volume in developing markets was down mid-single digits. Volume was up low single digits in developed regions as product innovation and market growth more than offset competitive activity. Global market share of the baby care category decreased less than two points, primarily attributable to developing markets.
+
+•Volume in Feminine Care declined low single digits due to a mid-single-digit decrease in developing regions caused by competitive activity and price increases in the previous fiscal year, partially offset by market growth. In developed regions, volume was unchanged. Global market share of the feminine care category decreased more than half a point.
+
+•Volume in Family Care decreased low single digits due to a double-digit decline in developing regions driven by the discontinuation of non-strategic products. Volume in developed regions increased low single digits due to product innovation and increased merchandising. In the U.S., all-outlet share of the family care category decreased nearly half a point.
+
+Net earnings decreased 10% to $2.7 billion in 2016 primarily due to the reduction in net sales. Net earnings margin decreased 20 basis points as higher gross margin was more than offset by an increase in SG&A as a percentage of net sales and a higher tax rate. Gross margin increased driven by manufacturing cost savings and lower commodity costs, partially offset by negative product mix. SG&A as a percentage of net sales increased due to the negative scale impact from the reduction in net sales. The higher tax rate versus the prior year was due to the geographic mix of earnings.
+
+CORPORATE
+
+[DATA_TABLE_REMOVED]
+
+Corporate includes certain operating and non-operating activities not allocated to specific business segments. These include: the incidental businesses managed at the corporate level; financing and investing activities; certain employee benefit costs; other general corporate items; gains and losses related to certain divested brands and categories; and certain restructuring-type activities to maintain a competitive cost structure, including manufacturing and workforce optimization. Corporate also includes reconciling items to adjust the accounting policies used in the segments to U.S. GAAP. The most significant reconciling item is income taxes to adjust from blended statutory rates that are reflected in the segments to the overall Company effective tax rate.
+
+Fiscal year 2017 compared with fiscal year 2016
+
+Corporate net sales increased 20%, or $83 million, to $505 million in 2017 primarily due to an increase in the incidental businesses managed at the corporate level. Corporate net earnings from continuing operations improved by approximately $421 million in 2017, primarily due to:
+
+•lower restructuring charges in 2017 compared to the prior year,
+
+•a gain on the sale of real estate in the current fiscal year, 
+
+•lower foreign exchange transactional charges,
+
+•a reduction in the proportion of corporate overhead spending not allocated to the segments, consisting in part of reduced stranded overheads following divestitures, and
+
+•current year tax benefits resulting from the adoption of a new accounting standard on the tax impacts of share-based payments to employees (see Note 1 to the Consolidated Financial Statements).
+
+These benefits were partially offset by a $345 million after-tax charge on the early extinguishment of long-term debt in fiscal 2017 and lower gains from minor brand divestitures compared to 2016.
+
+Fiscal year 2016 compared with fiscal year 2015
+
+Corporate net sales decreased $44 million in 2016 to $422 million. Corporate net earnings from continuing operations improved by approximately $2.2 billion in 2016, primarily due to the $2.1 billion Venezuela deconsolidation charge in the prior fiscal year and lower foreign currency transactional charges. Additional discussion of these items impacting net earnings in Corporate are included in the Results of Operations section.
+
+Productivity and Cost Savings Plan
+
+In 2012, the Company initiated a productivity and cost savings plan to reduce costs and better leverage scale in the areas of supply chain, research and development, marketing and overheads. The plan was designed to accelerate cost reductions by streamlining management decision making, manufacturing 
+
+24 The Procter & Gamble Company
+
+and other work processes to fund the Company's growth strategy. In 2016 the Company communicated additional multi-year productivity and cost savings targets. In 2017, the Company communicated specific elements of the productivity and cost savings targets.
+
+As part of the original plan, the Company incurred approximately $5.6 billion in before-tax restructuring costs over a six-year period (from fiscal 2012 through fiscal 2017). Savings generated from the restructuring costs are difficult to estimate, given the nature of the activities, the timing of the execution and the degree of reinvestment. Through 2017, these costs and other non-manufacturing enrollment reductions delivered approximately $2.9 billion in annual before-tax gross savings. 
+
+The additional productivity and cost savings plan will further reduce costs in the areas of supply chain, certain marketing activities and overhead expenses. As part of this plan, the Company expects to incur approximately $1.2 billion in total before-tax restructuring costs in fiscal 2018 and 2019. This program is expected to result in meaningful non-manufacturing enrollment reductions, along with further optimization of the supply chain and other manufacturing processes.
+
+Restructuring accruals of $277 million as of June 30, 2017 are classified as current liabilities. During fiscal 2017, 48% of the restructuring charges incurred either have been or will be settled with cash. Consistent with our historical policies for ongoing restructuring-type activities, the resulting charges are funded by and included within Corporate for segment reporting.
+
+In addition to our restructuring programs, we have additional ongoing savings efforts in our supply chain, marketing and overhead areas that yield additional benefits to our operating margins.
+
+Refer to Note 3 to the Consolidated Financial Statements for more details on the restructuring program and to the Operating Costs section of the MD&A for more information about the total benefit to operating margins from our total savings efforts.
+
+CASH FLOW, FINANCIAL CONDITION AND LIQUIDITY
+
+We believe our financial condition continues to be of high quality, as evidenced by our ability to generate substantial cash from operations and to readily access capital markets at competitive rates.
+
+Operating cash flow provides the primary source of cash to fund operating needs and capital expenditures. Excess operating cash is used first to fund shareholder dividends. Other discretionary uses include share repurchases and acquisitions to complement our portfolio of businesses, brands and geographies. As necessary, we may supplement operating cash flow with debt to fund these activities. The overall cash position of the Company reflects our strong business results and a global cash management strategy that takes into account liquidity management, economic factors and tax considerations.
+
+Operating Cash Flow
+
+Fiscal year 2017 compared with fiscal year 2016 
+
+Operating cash flow was $12.8 billion in 2017, a 17% decrease from the prior year. Net earnings, adjusted for non-cash items (depreciation and amortization, share-based compensation, deferred income taxes, loss/(gain) on sale of assets and impairment charges) and the loss on early extinguishment of debt generated $13.0 billion of operating cash flow. Working capital and other impacts used $281 million of operating cash flow.
+
+•An increase in accounts receivable used $322 million of cash due to higher relative sales late in the period as compared to the prior period, partially offset by collection of approximately $150 million of retained receivables from the Beauty Brands business. In addition, the number of days sales outstanding increased 1 day due in part to foreign exchange impacts. 
+
+•Lower inventory generated $71 million of cash mainly due to supply chain optimizations, partially offset by increases to support business growth and increased commodity costs. Inventory days on hand decreased approximately 1 day primarily due to supply chain optimizations. 
+
+•Accounts payable, accrued and other liabilities decreased, using $149 million in operating cash flow. This was caused by reduced accruals from lower fourth quarter marketing and overhead activities as compared to the base period, as well as the payment of approximately $595 million of accounts payable and accrued liabilities related to the divestiture of the Beauty Brands business, including liabilities retained by the Company pursuant to the terms of the agreement. These impacts were partially offset by approximately $700 million related to extended payment terms with our suppliers. These factors, along with the impact of foreign exchange, drove a 4 day increase in days payable outstanding. Although difficult to project due to market and other dynamics, we anticipate incremental cash flow benefits from the extended payment terms with suppliers could decline slightly over the next fiscal year.
+
+•Other operating assets and liabilities used $43 million of cash.
+
+Fiscal year 2016 compared with fiscal year 2015 
+
+Operating cash flow was $15.4 billion in 2016, a 6% increase from the prior year. Net earnings, adjusted for non-cash items (depreciation and amortization, share-based compensation, deferred income taxes, loss/(gain) on sale of assets and impairment charges) generated $13.6 billion of operating cash flow. Working capital and other impacts generated $1.8 billion of operating cash flow.
+
+•Reduced accounts receivable generated $35 million of cash due to improved collection results partially offset by sales mix. The number of days sales outstanding increased 1 day due to foreign exchange impacts. 
+
+•Lower inventory generated $116 million of cash mainly due to supply chain optimizations and lower commodity costs. Inventory days on hand increased 4 days primarily due to foreign exchange impacts. 
+
+The Procter & Gamble Company 25
+
+•Accounts payable, accrued and other liabilities increased, generating $1.3 billion in operating cash flow, of which approximately $0.8 billion was driven by extended payment terms with our suppliers. The balance was primarily driven by an increase in fourth quarter marketing activity versus the prior year. These items, along with the impact of foreign exchange, drove a 24 day increase in days payable outstanding. 
+
+•Other operating assets and liabilities generated $204 million of cash.
+
+Adjusted Free Cash Flow. We view adjusted free cash flow as an important measure because it is a factor impacting the amount of cash available for dividends, share repurchases, acquisitions and other discretionary investment. It is defined as operating cash flow less capital expenditures and excluding tax payments related to certain divestitures and is one of the measures used to evaluate senior management and determine their at-risk compensation. 
+
+Fiscal year 2017 compared with fiscal year 2016 
+
+Adjusted free cash flow was $9.8 billion in 2017, a decrease of 19% versus the prior year. The decrease was primarily driven by the decrease in operating cash flows. Adjusted free cash flow productivity, defined as the ratio of adjusted free cash flow to net earnings, excluding the loss on debt extinguishment and impacts of the sale of the Beauty Brands, was 94% in 2017. 
+
+Fiscal year 2016 compared with fiscal year 2015 
+
+Adjusted free cash flow was $12.1 billion in 2016, an increase of 4% versus the prior year. The increase was driven by the increase in operating cash flows and decrease in capital spending. Adjusted free cash flow productivity, defined as the ratio of adjusted free cash flow to net earnings excluding the impairment charges and gain on the sale of the Batteries business, was 115% in 2016. 
+
+Investing Cash Flow
+
+Fiscal year 2017 compared with fiscal year 2016 
+
+Net investing activities consumed $5.7 billion in cash in 2017 mainly due to capital spending and purchases of short-term investments, partially offset by proceeds from asset sales, transactions related to the close of the Beauty Brands divestiture and sales and maturities of short-term investments. 
+
+Fiscal year 2016 compared with fiscal year 2015 
+
+Net investing activities consumed $5.6 billion in cash in 2016 mainly due to capital spending, divestiture transactions and purchases of short-term investments, partially offset by sales and maturities of short-term investments. 
+
+Capital Spending. Capital expenditures, primarily to support capacity expansion, innovation and cost efficiencies, were $3.4 billion in 2017 and $3.3 billion in 2016. Capital spending as a percentage of net sales increased 10 basis points to 5.2% in 2017. Capital spending as a percentage of net sales was 5.1% in 2016.
+
+Acquisitions.  Acquisition activity was not material in 2017 or 2016. 
+
+Proceeds from Divestitures and Other Asset Sales. Proceeds from asset sales in 2017 contributed $571 million in cash, primarily from real estate sales and other minor brand divestitures. Proceeds from asset sales contributed $432 million in cash in 2016 primarily from plant asset sales and other minor brand divestitures. In fiscal 2016, the Company invested $1.0 billion of cash, received from the pre-Beauty Brands divestiture issuance of transaction-related debt, in restricted cash. In fiscal 2017, the Company invested an additional $874 million of cash, received from the issuance of debt, in restricted cash. At the closing of the Beauty Brands transaction, $1.9 billion of restricted cash was released and returned to cash and cash equivalents and $475 million of cash was transferred to the discontinued Beauty Brands business. 
+
+Financing Cash Flow
+
+Dividend Payments. Our first discretionary use of cash is dividend payments. Dividends per common share increased 1.5% to $2.70 per share in 2017. Total dividend payments to common and preferred shareholders were $7.2 billion in 2017 and $7.4 billion in 2016. In April 2017, the Board of Directors declared an increase in our quarterly dividend from $0.6695 to $0.6896 per share on Common Stock and Series A and B ESOP Convertible Class A Preferred Stock. This represents a 3% increase compared to the prior quarterly dividend and is the 61st consecutive year that our dividend has increased. We have paid a dividend for 127 years, every year since our incorporation in 1890.
+
+Long-Term and Short-Term Debt. We maintain debt levels we consider appropriate after evaluating a number of factors, including cash flow expectations, cash requirements for ongoing operations, investment and financing plans (including acquisitions and share repurchase activities) and the overall cost of capital. Total debt was $31.6 billion as of June 30, 2017 and $30.6 billion as of June 30, 2016.
+
+Treasury Purchases. Total share repurchases were $5.2 billion in 2017 and $4.0 billion in 2016. In addition, the cash infusion of $1.7 billion in the Batteries divestiture was reflected as a purchase of treasury stock in 2016.
+
+Liquidity
+
+At June 30, 2017, our current liabilities exceeded current assets by $3.7 billion largely due to short-term borrowings under our commercial paper program. We anticipate being able to support our short-term liquidity and operating needs largely through cash generated from operations. The Company regularly assesses its cash needs and the available sources to fund these needs. As of June 30, 2017, $15.0 billion of the Company’s cash, cash equivalents and marketable securities is held off-shore by foreign subsidiaries. Amounts held by foreign subsidiaries are generally subject to U.S. income taxation upon repatriation to the U.S. Under current law, we do not expect restrictions or taxes on repatriation of cash held outside of the U.S. to have a material effect on our overall liquidity, financial condition or the results of operations for the foreseeable future. Of the June 30, 2017 balance of off-shore cash, cash equivalents and marketable securities, the majority relates to various Western European countries. As of June 30, 2017, we did not have material cash, cash equivalents and 
+
+26 The Procter & Gamble Company
+
+marketable securities balances in any country subject to exchange controls that significantly restrict our ability to access or repatriate the funds.
+
+We utilize short- and long-term debt to fund discretionary items, such as acquisitions and share repurchases. We have strong short- and long-term debt ratings, which have enabled, and should continue to enable, us to refinance our debt as it becomes due at favorable rates in commercial paper and bond markets. In addition, we have agreements with a diverse group of financial institutions that, if needed, should provide sufficient credit funding to meet short-term financing requirements.
+
+On June 30, 2017, our short-term credit ratings were P-1 (Moody's) and A-1+ (Standard & Poor's), while our long-term credit ratings were Aa3 (Moody's) and AA- (Standard & Poor's), all with a stable outlook.
+
+We maintain bank credit facilities to support our ongoing commercial paper program. The current facility is an $8.0 
+
+billion facility split between a $3.2 billion five-year facility and a $4.8 billion 364-day facility, which expire in November 2021 and November 2017, respectively. Both facilities can be extended for certain periods of time as specified in the terms of the credit agreement. These facilities are currently undrawn and we anticipate that they will remain undrawn. These credit facilities do not have cross-default or ratings triggers, nor do they have material adverse events clauses, except at the time of signing. In addition to these credit facilities, we have an automatically effective registration statement on Form S-3 filed with the SEC that is available for registered offerings of short- or long-term debt securities. For additional details on debt see Note 10 to the Consolidated Financial Statements.
+
+Guarantees and Other Off-Balance Sheet Arrangements
+
+We do not have guarantees or other off-balance sheet financing arrangements, including variable interest entities, which we believe could have a material impact on our financial condition or liquidity.
+
+Contractual Commitments
+
+The following table provides information on the amount and payable date of our contractual commitments as of June 30, 2017.
+
+[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+(2) Operating lease obligations are shown net of guaranteed sublease income.
+
+(3) Represents future pension payments to comply with local funding requirements. These future pension payments assume the Company continues to meet its future statutory funding requirements. Considering the current economic environment in which the Company operates, the Company believes its cash flows are adequate to meet the future statutory funding requirements. The projected payments beyond fiscal year 2020 are not currently determinable.
+
+(4) Primarily reflects future contractual payments under various take-or-pay arrangements entered into as part of the normal course of business. Commitments made under take-or-pay obligations represents minimum commitments under take-or-pay agreements with suppliers and are in line with expected usage. This includes service contracts for information technology, human resources management and facilities management activities that have been outsourced. Such amounts also include arrangements with suppliers that qualify as embedded operating leases. While the amounts listed represent contractual obligations, we do not believe it is likely that the full contractual amount would be paid if the underlying contracts were canceled prior to maturity. In such cases, we generally are able to negotiate new contracts or cancellation penalties, resulting in a reduced payment. The amounts do not include other contractual purchase obligations that are not take-or-pay arrangements. Such contractual purchase obligations are primarily purchase orders at fair value that are part of normal operations and are reflected in historical operating cash flow trends. We do not believe such purchase obligations will adversely affect our liquidity position.
+
+SIGNIFICANT ACCOUNTING POLICIES AND ESTIMATES
+
+In preparing our financial statements in accordance with U.S. GAAP, there are certain accounting policies that may require
+
+ a choice between acceptable accounting methods or may require substantial judgment or estimation in their application. These include income taxes, certain employee benefits and goodwill and intangible assets. We believe these accounting 
+
+The Procter & Gamble Company 27
+
+policies, and others set forth in Note 1 to the Consolidated Financial Statements, should be reviewed as they are integral to understanding the results of operations and financial condition of the Company.
+
+The Company has discussed the selection of significant accounting policies and the effect of estimates with the Audit Committee of the Company's Board of Directors.
+
+Income Taxes
+
+Our annual tax rate is determined based on our income, statutory tax rates and the tax impacts of items treated differently for tax purposes than for financial reporting purposes. Also inherent in determining our annual tax rate are judgments and assumptions regarding the recoverability of 
+
+certain deferred tax balances, primarily net operating loss and other carryforwards, and our ability to uphold certain tax positions.
+
+Realization of net operating losses and other carryforwards is dependent upon generating sufficient taxable income in the appropriate jurisdiction prior to the expiration of the carryforward periods, which involves business plans, planning opportunities and expectations about future outcomes. Although realization is not assured, management believes it is more likely than not that our deferred tax assets, net of valuation allowances, will be realized.
+
+We operate in multiple jurisdictions with complex tax policy and regulatory environments. In certain of these jurisdictions, we may take tax positions that management believes are supportable, but are potentially subject to successful challenge by the applicable taxing authority. These interpretational differences with the respective governmental taxing authorities can be impacted by the local economic and fiscal environment.
+
+A core operating principle is that our tax structure is based on our business operating model, such that profits are earned in line with the business substance and functions of the various legal entities. However, because of the complexity of transfer pricing concepts, we may have income tax uncertainty related to the determination of intercompany transfer prices for our various cross-border transactions. We have obtained and continue to prioritize the strategy of seeking advance rulings with tax authorities to reduce this uncertainty. We estimate that our current portfolio of advance rulings reduces this uncertainty with respect to over 70% of our global earnings. We evaluate our tax positions and establish liabilities in accordance with the applicable accounting guidance on uncertainty in income taxes. We review these tax uncertainties in light of changing facts and circumstances, such as the progress of tax audits, and adjust them accordingly. We have a number of audits in process in various jurisdictions. Although the resolution of these tax positions is uncertain, based on currently available information, we believe that the ultimate outcomes will not have a material adverse effect on our financial position, results of operations or cash flows.
+
+Because there are a number of estimates and assumptions inherent in calculating the various components of our tax provision, certain changes or future events such as changes in tax legislation, geographic mix of earnings, completion of tax audits or earnings repatriation plans could have an impact on 
+
+those estimates and our effective tax rate. For additional details on the Company's income taxes, see Note 5 to the Consolidated Financial Statements.
+
+Employee Benefits
+
+We sponsor various post-employment benefits throughout the world. These include pension plans, both defined contribution plans and defined benefit plans, and other post-employment benefit (OPEB) plans, consisting primarily of health care and life insurance for retirees. For accounting purposes, the defined benefit pension and OPEB plans require assumptions to estimate the projected and accumulated benefit obligations, including the following variables: discount rate; expected salary increases; certain employee-related factors, such as turnover, retirement age and mortality; expected return on assets; and health care cost trend rates. These and other assumptions affect the annual expense and obligations recognized for the underlying plans. Our assumptions reflect our historical experiences and management's best judgment regarding future expectations. As permitted by U.S. GAAP, the net amount by which actual results differ from our assumptions is deferred. If this net deferred amount exceeds 10% of the greater of plan assets or liabilities, a portion of the deferred amount is included in expense for the following year. The cost or benefit of plan changes, such as increasing or decreasing benefits for prior employee service (prior service cost), is deferred and included in expense on a straight-line basis over the average remaining service period of the employees expected to receive benefits.
+
+The expected return on plan assets assumption impacts our defined benefit expense since many of our defined benefit pension plans and our primary OPEB plan are partially funded. The process for setting the expected rates of return is described in Note 8 to the Consolidated Financial Statements. For 2017, the average return on assets assumptions for pension plan assets and OPEB assets was 6.9% and 8.3%, respectively. A change in the rate of return of 100 basis points for both pension and OPEB assets would impact annual after-tax benefit expense by approximately $100 million.
+
+Since pension and OPEB liabilities are measured on a discounted basis, the discount rate impacts our plan obligations and expenses. Discount rates used for our U.S. defined benefit pension and OPEB plans are based on a yield curve constructed from a portfolio of high quality bonds for which the timing and amount of cash outflows approximate the estimated payouts of the plan. For our international plans, the discount rates are set by benchmarking against investment grade corporate bonds rated AA or better. The average discount rate on the defined benefit pension plans of 2.4% represents a weighted average of local rates in countries where such plans exist. A 1.0% change in the discount rate would impact annual after-tax benefit expense by approximately $200 million. The average discount rate on the OPEB plan of 3.9% reflects the higher interest rates generally applicable in the U.S., which is where a majority of the plan participants receive benefits. A 1.0% change in the discount rate would impact annual after-tax OPEB expense by approximately $70 million. For additional details on our defined benefit pension and OPEB plans, see Note 8 to the Consolidated Financial Statements.
+
+28 The Procter & Gamble Company
+
+Goodwill and Intangible Assets
+
+Significant judgment is required to estimate the fair value of our goodwill reporting units and intangible assets. Accordingly, we typically obtain the assistance of third-party valuation specialists for significant goodwill reporting units and intangible assets. The fair value estimates are based on available historical information and on future expectations. We typically estimate the fair value of these assets using the income method, which is based on the present value of estimated future cash flows attributable to the respective assets. The valuations used to test goodwill and intangible assets for impairment are dependent on a number of significant estimates and assumptions, including macroeconomic conditions, overall category growth rates, competitive activities, cost containment and margin expansion, Company business plans and the discount rate applied to cash flows.
+
+Assumptions used in our impairment evaluations, such as forecasted growth rates and cost of capital, are consistent with internal projections and operating plans. We believe these estimates and assumptions are reasonable and comparable to those that would be used by other marketplace participants. Unanticipated market or macroeconomic events and circumstances may occur, which could affect the accuracy or validity of the estimates and assumptions. For example, future changes in the judgments, assumptions and estimates that are used in our impairment testing for goodwill and indefinite lived intangible assets, including discount and tax rates or future cash flow projections, could result in significantly different estimates of the fair values. In addition, changes to, or a failure to, achieve business plans or deterioration of macroeconomic conditions could result in reduced cash flows or higher discount rates, leading to a lower valuation that would trigger an impairment of the goodwill and intangible assets of these businesses.
+
+We test individual indefinite lived intangible assets by comparing the book value of each asset to the estimated fair value. Our impairment testing for goodwill is performed separately from our impairment testing of indefinite lived intangible assets. The test to evaluate goodwill for impairment is a two step process. In the first step, we compare the fair value of the reporting unit to its carrying value. If the fair value of the reporting unit is less than its carrying value, we perform a second step to determine the implied fair value of the reporting unit's goodwill. The second step of the impairment analysis requires a valuation of a reporting unit's tangible and intangible assets and liabilities in a manner similar to the allocation of purchase price in a business combination. If the resulting implied fair value of the reporting unit's goodwill is less than its carrying value, that difference represents an impairment.
+
+Determining the useful life of an intangible asset also requires judgment. Certain brand intangible assets are expected to have indefinite lives based on their history and our plans to continue to support and build the acquired brands. Other acquired intangible assets (e.g., certain brands, all customer relationships, patents and technologies) are expected to have determinable useful lives. Our assessment as to brands that have an indefinite life and those that have a determinable life 
+
+is based on a number of factors including competitive environment, market share, brand history, underlying product life cycles, operating plans and the macroeconomic environment of the countries in which the brands are sold. Determinable-lived intangible assets are amortized to expense over their estimated lives. Impairment assessment for determinable-lived intangibles is only required when an event or change in circumstances indicates that the carrying amount of the asset may not be recoverable. Indefinite-lived intangible assets and goodwill are not amortized, but are tested separately at least annually for impairment. 
+
+Most of our goodwill reporting units are comprised of a combination of legacy and acquired businesses and as a result have fair value cushions that, at a minimum, exceed two times their underlying carrying values. Certain of our goodwill reporting units, in particular Shave Care and Appliances, are comprised entirely of acquired businesses and as a result have fair value cushions that are not as high. Both of these wholly-acquired reporting units have fair value cushions that currently exceed the underlying carrying values. However, the Shave Care cushion, as well as the related Gillette indefinite-lived intangible asset cushion, have been reduced to below 10% due in large part to an increased competitive market environment in the U.S., a deceleration of category growth caused by changing grooming habits and significant currency devaluations in a number of countries relative to the U.S. dollar that have occurred in recent years and resulted in reduced cash flow projections. As a result, this unit is more susceptible to impairment risk from adverse changes in business operating plans, category development and macroeconomic environment conditions, including any further significant devaluation of major currencies relative to the U.S. dollar. While management has implemented strategies to address these events, adverse changes in the future could reduce the underlying cash flows used to estimate fair values and could result in a decline in fair value that could trigger future impairment charges of the business unit's goodwill and indefinite-lived intangibles (carrying values of Shave Care goodwill and the Gillette indefinite-lived intangible asset as of June 30, 2017 are $19 billion and $16 billion, respectively).
+
+See Note 4 to the Consolidated Financial Statements for additional discussion on goodwill and intangible asset impairment testing results.
+
+New Accounting Pronouncements
+
+Refer to Note 1 to the Consolidated Financial Statements for recently adopted accounting pronouncements and recently issued accounting pronouncements not yet adopted as of June 30, 2017.
+
+The Procter & Gamble Company 29
+
+OTHER INFORMATION
+
+Hedging and Derivative Financial Instruments
+
+As a multinational company with diverse product offerings, we are exposed to market risks, such as changes in interest rates, currency exchange rates and commodity prices. We evaluate exposures on a centralized basis to take advantage of natural exposure correlation and netting. Except within financing operations, we leverage the Company's diversified portfolio of exposures as a natural hedge and prioritize operational hedging activities over financial market instruments. To the extent we choose to further manage volatility associated with the net exposures, we enter into various financial transactions which we account for using the applicable accounting guidance for derivative instruments and hedging activities. These financial transactions are governed by our policies covering acceptable counterparty exposure, instrument types and other hedging practices. See Note 9 to the Consolidated Financial Statements for a discussion of our accounting policies for derivative instruments.
+
+Derivative positions are monitored using techniques including market valuation, sensitivity analysis and value-at-risk modeling. The tests for interest rate, currency rate and commodity derivative positions discussed below are based on the CorporateManager™ value-at-risk model using a one-year horizon and a 95% confidence level. The model incorporates the impact of correlation (the degree to which exposures move together over time) and diversification (from holding multiple currency, commodity and interest rate instruments) and assumes that financial returns are normally distributed. Estimates of volatility and correlations of market factors are drawn from the RiskMetrics™ dataset as of June 30, 2017. In cases where data is unavailable in RiskMetrics™, a reasonable proxy is included.
+
+Our market risk exposures relative to interest rates, currency rates and commodity prices, as discussed below, have not changed materially versus the previous reporting period. In addition, we are not aware of any facts or circumstances that would significantly impact such exposures in the near term.
+
+Interest Rate Exposure on Financial Instruments. Interest rate swaps are used to hedge exposures to interest rate movement on underlying debt obligations. Certain interest rate swaps denominated in foreign currencies are designated to hedge exposures to currency exchange rate movements on our investments in foreign operations. These currency interest rate swaps are designated as hedges of the Company's foreign net investments.
+
+Based on our interest rate exposure as of and during the year ended June 30, 2017, including derivative and other instruments sensitive to interest rates, we believe a near-term change in interest rates, at a 95% confidence level based on historical interest rate movements, would not materially affect our financial statements.
+
+Currency Rate Exposure on Financial Instruments. Because we manufacture and sell products and finance operations in a number of countries throughout the world, we are exposed to the impact on revenue and expenses of movements in currency exchange rates. Corporate policy prescribes the range of 
+
+allowable hedging activity. To manage the exchange rate risk associated with the financing of our operations, we primarily use forward contracts with maturities of less than 18 months. In addition, we have entered into certain currency swaps with maturities of up to five years to hedge our exposure to exchange rate movements on intercompany financing transactions.
+
+Based on our currency rate exposure on derivative and other instruments as of and during the year ended June 30, 2017, we believe, at a 95% confidence level based on historical currency rate movements, the impact on such instruments of a near-term change in currency rates would not materially affect our financial statements.
+
+Commodity Price Exposure on Financial Instruments. We use raw materials that are subject to price volatility caused by weather, supply conditions, political and economic variables and other unpredictable factors. We may use futures, options and swap contracts to manage the volatility related to the above exposures.
+
+As of and during the years ended June 30, 2017 and June 30, 2016, we did not have any commodity hedging activity.
+
+Measures Not Defined By U.S. GAAP
+
+Our discussion of financial results includes several "non-GAAP" financial measures. We believe that these measures provide useful perspective of underlying business trends (i.e. trends excluding non-recurring or unusual items) and results and provide a supplemental measure of year-on-year results. The non-GAAP measures described below are used by management in making operating decisions, allocating financial resources and for business strategy purposes. These measures may be useful to investors as they provide supplemental information about business performance and provide investors a view of our business results through the eyes of management. These measures are also used to evaluate senior management and are a factor in determining their at-risk compensation. These non-GAAP measures are not intended to be considered by the user in place of the related GAAP measure, but rather as supplemental information to our business results. These non-GAAP measures may not be the same as similar measures used by other companies due to possible differences in method and in the items or events being adjusted. These measures include:
+
+Organic Sales Growth. Organic sales growth is a non-GAAP measure of sales growth excluding the impacts of the Venezuela deconsolidation, acquisitions, divestitures and foreign exchange from year-over-year comparisons. We believe this measure provides investors with a supplemental understanding of underlying sales trends by providing sales growth on a consistent basis, and this measure is used in assessing achievement of management goals for at-risk compensation.
+
+30 The Procter & Gamble Company
+
+The following tables provide a numerical reconciliation of organic sales growth to reported net sales growth:
+
+[DATA_TABLE_REMOVED]
+
+(1) Acquisition/Divestiture Impact also includes the impact of the Venezuela deconsolidation and the rounding impacts necessary to reconcile net sales to organic sales.
+
+Adjusted Free Cash Flow. Adjusted free cash flow is defined as operating cash flow less capital spending and excluding certain divestiture impacts (tax payments related to certain divestitures). Adjusted free cash flow represents the cash that the Company is able to generate after taking into account planned maintenance and asset expansion. We view adjusted free cash flow as an important measure because it is one factor used in determining the amount of cash available for dividends, share repurchases, acquisitions and other discretionary investment.
+
+The following table provides a numerical reconciliation of adjusted free cash flow ($ millions):
+
+[DATA_TABLE_REMOVED]
+
+(1) Divestiture impacts relate to tax payments for the Beauty Brands divestiture in fiscal 2017 and the Pet Care divestiture in fiscal 2015.
+
+Adjusted Free Cash Flow Productivity. Adjusted free cash flow productivity is defined as the ratio of adjusted free cash flow to net earnings excluding Batteries impairments, the gain on the sale of the Batteries and Beauty Brands businesses, the loss on early debt extinguishment and the Venezuela deconsolidation charges. We view adjusted free cash flow productivity as a useful measure to help investors understand P&G’s ability to generate cash. Adjusted free cash flow productivity is used by management in making operating decisions, in allocating financial resources and for budget planning purposes. This measure is used in assessing the achievement of management goals for at-risk compensation. The Company's long-term target is to generate annual adjusted free cash flow productivity at or above 90 percent.
+
+The following table provides a numerical reconciliation of adjusted free cash flow productivity ($ millions):
+
+[DATA_TABLE_REMOVED]
+
+(1) Adjustments to Net Earnings relate to the loss on early debt extinguishment and gain on the sale of the Beauty Brands business in fiscal 2017, the gain on the sale of the Batteries business and the Batteries impairment in fiscal 2016, and the Batteries impairment and Venezuela deconsolidation charges in fiscal 2015.
+
+The Procter & Gamble Company 31
+
+Core EPS. Core EPS is a measure of the Company's diluted net earnings per share from continuing operations adjusted as indicated. Management views these non-GAAP measures as a useful supplemental measure of Company performance over time. The table below provides a reconciliation of diluted net earnings per share to Core EPS, including the following reconciling items:
+
+•Incremental restructuring: The Company has had and continues to have an ongoing level of restructuring activities. Such activities have resulted in ongoing annual restructuring related charges of approximately $250 - $500 million before tax. Beginning in 2012 Procter & Gamble began a $10 billion strategic productivity and cost savings initiative that includes incremental restructuring activities. In 2017, the company announced elements of an additional multi-year productivity and cost savings plan. These plans result in incremental restructuring charges to accelerate productivity efforts and cost savings. The adjustment to Core earnings includes only the restructuring costs above what we believe are the normal recurring level of restructuring costs.
+
+•Early debt extinguishment charges: During fiscal 2017, the Company recorded a charge of $345 million after tax due to the early extinguishment of certain long-term debt. This charge represents the difference between the reacquisition price and the par value of the debt extinguished.
+
+•Charges for certain European legal matters: Several countries in Europe issued separate complaints alleging that the Company, along with several other companies, engaged in violations of competition laws in prior periods. The Company established Legal Reserves related to these charges. 
+
+•Venezuela deconsolidation charge: For accounting purposes, evolving conditions resulted in a lack of control over our Venezuelan subsidiaries. Therefore, in accordance with the applicable accounting standards for consolidation, effective June 30, 2015, we deconsolidated our Venezuelan subsidiaries and began accounting for our investment in those subsidiaries using the cost method of accounting. The charge was incurred to write off our net assets related to Venezuela.
+
+•Venezuela balance sheet remeasurement & devaluation impacts: Venezuela is a highly inflationary economy under U.S. GAAP. Prior to deconsolidation, the government enacted episodic changes to currency exchange mechanisms and rates, which resulted in currency remeasurement charges for non-dollar denominated monetary assets and liabilities held by our Venezuelan subsidiaries.
+
+We do not view the above items to be indicative of underlying business results and their exclusion from Core earnings measures provides a more comparable measure of year-on-year results. These items are also excluded when evaluating senior management in determining their at-risk compensation.
+
+[DATA_TABLE_REMOVED]
+
+* Diluted net earnings per share are calculated on Net earnings attributable to Procter & Gamble. 
+
+ CHANGE VERSUS YEAR AGO  
+
+ CORE EPS7% 
+
+32 The Procter & Gamble Company
+
+[DATA_TABLE_REMOVED]
+
+* Diluted net earnings per share are calculated on Net earnings attributable to Procter & Gamble.
+
+ CHANGE VERSUS YEAR AGO  
+
+ CORE EPS(2)% 
+
+[DATA_TABLE_REMOVED]
+
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk.

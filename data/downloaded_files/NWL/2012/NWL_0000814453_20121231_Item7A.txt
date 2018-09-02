@@ -1,0 +1,43 @@
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+Market Risk
+
+The Company’s market risk is impacted by changes in interest rates, foreign currency exchange rates and certain commodity prices. Pursuant to the Company’s policies, natural hedging techniques and derivative financial instruments may be utilized to reduce the impact of adverse changes in rates and prices. The Company does not hold or issue derivative instruments for trading purposes.
+
+Interest Rates
+
+Interest rate risk is present with both fixed- and floating-rate debt. The Company manages its interest rate exposure through its mix of fixed- and floating-rate debt and its conservative debt ratio target. Interest rate swap agreements designated as fair value hedges are used to mitigate the Company’s exposure to changes in the fair value of fixed-rate debt resulting from fluctuations in benchmark interest rates. Accordingly, benchmark interest rate fluctuations impact the fair value of the Company’s fixed-rate debt, which are offset by corresponding changes in the fair value of the swap agreements. Interest rate swaps may also be used to adjust interest rate exposures when appropriate, based on market conditions, and for qualifying hedges, the interest differential of swaps is included in interest expense. Excluding debt for which a fixed rate has been swapped for a floating rate, fixed-rate debt represented approximately 48.3% of the Company’s $1.92 billion of total debt as of December 31, 2012.
+
+Foreign Currency Exchange Rates
+
+The Company is exposed to foreign currency risk in the ordinary course of business since a portion of the Company’s sales, expenses and operating transactions is conducted on a global basis in various foreign currencies. To the extent that business transactions are not denominated in the functional currency of the entity entering into the transaction, the Company is exposed to transactional foreign currency exchange rate risk. The Company’s foreign exchange risk management policy emphasizes hedging anticipated intercompany and third-party commercial transaction exposures of one-year duration or less. The Company uses foreign exchange forward contracts as economic hedges for commercial transactions and to offset the future impact of gains and losses resulting from changes in the expected amount of functional currency cash flows to be received or paid upon settlement of the anticipated intercompany and third-party commercial transactions. Gains and losses related to the settlement of qualifying hedges of commercial and intercompany transactions are deferred and included in the basis of the underlying transactions. The Company also uses natural hedging techniques such as offsetting or netting like foreign currency flows and denominating contracts in the appropriate functional currency.
+
+The Company also realizes gains and losses recorded within shareholders’ equity due to the translation of the financial statements from the functional currency of its subsidiaries to U.S. Dollars. The Company utilizes capital structures of foreign subsidiaries combined with forward contracts to minimize its exposure to foreign currency risk. The Company may hedge portions of its net investments in foreign subsidiaries, including intercompany loans, with forward contracts and cross-currency hedges. Gains and losses related to qualifying forward exchange contracts and cross-currency hedges, which are generally used to hedge intercompany loans and net investments in foreign subsidiaries, are recognized in other comprehensive income (loss).
+
+47
+Commodity Prices
+
+The Company purchases certain raw materials, including resin, corrugate, steel, stainless steel, aluminum and other metals, which are subject to price volatility caused by unpredictable factors. The Company’s resin purchases are principally comprised of polyethylene and polypropylene in roughly equal quantities. While future movements of raw material costs are uncertain, a variety of programs, including periodic raw material purchases, purchases of raw materials for future delivery and customer price adjustments help the Company address this risk. Where practical, the Company uses derivatives as part of its risk management process.
+
+Financial Instruments
+
+In managing the impact of interest rate changes and foreign currency fluctuations, the Company uses interest rate swaps, foreign currency forward contracts and cross-currency swaps. Derivatives were recorded at fair value in the Company’s Consolidated Balance Sheet at December 31, 2012 as follows (in millions):
+
+[DATA_TABLE_REMOVED]
+
+See Footnote 11 of the Notes to Consolidated Financial Statements for additional information on derivatives.
+
+Value at Risk
+
+The amounts shown below represent the estimated potential economic loss that the Company could incur from adverse changes in either interest rates or foreign exchange rates using the value-at-risk estimation model. The value-at-risk model uses historical foreign exchange rates and interest rates to estimate the volatility and correlation of these rates in future periods. It estimates a loss in fair market value using statistical modeling techniques that are based on a variance/covariance approach and includes substantially all market risk exposures (specifically excluding cost and equity method investments). The fair value losses shown in the table below represent the Company’s estimate of the maximum loss that could arise in one day. The amounts presented in the table are shown as an illustration of the impact of potential adverse changes in interest and foreign currency exchange rates. The following table sets forth the one-day value-at-risk as of and for the year ended December 31, (in millions, except percentages):
+
+[DATA_TABLE_REMOVED]
+
+(1)The Company generally does not enter into material derivative contracts for commodities; therefore, commodity price risk is not shown because the amounts are not material.
+
+The year-over-year decline in value-at-risk for interest rates is primarily due to the Company swapping a fixed rate for a short-term floating rate for $500 million of the Company’s medium-term notes due 2020, because the short-term rate has less risk compared to the longer-term rate and the shorter-term rate has less historical volatility. The year-over-year decline in value-at-risk for foreign exchange is due to generally lower foreign currency positions at December 31, 2012 compared to December 31, 2011 and lower exchange rate volatility in late 2012 compared to late 2011.
+
+The 95% confidence interval signifies the Company’s degree of confidence that actual losses would not exceed the estimated losses shown above. The amounts shown here disregard the possibility that interest rates and foreign currency exchange rates could move in the Company’s favor. The value-at-risk model assumes that all movements in these rates will be adverse. Actual experience has shown that gains and losses tend to offset each other over time, and it is highly unlikely that the Company could experience losses such as these over an extended period of time. Additionally, since the Company operates globally, and therefore, among a broad basket of currencies, its foreign currency exposure is diversified. These amounts should not be considered projections of future losses, because actual results may differ significantly depending upon activity in the global financial markets.
+
+48
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

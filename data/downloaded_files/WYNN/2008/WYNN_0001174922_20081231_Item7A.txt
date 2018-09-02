@@ -1,0 +1,73 @@
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK  
+
+Market risk is the risk of loss arising from adverse changes in market rates and prices, such as interest rates, foreign currency exchange rates and commodity prices.  
+
+Interest Rate Risks  
+
+One of our primary exposures to market risk is interest rate risk associated with our debt facilities that bear interest based on floating rates. See Item 7. Managements Discussion and Analysis of Financial Condition and Results of Operations  Liquidity and Capital Resources  Financing Activities. We attempt to manage interest rate risk by managing the mix of long-term fixed rate borrowings and variable rate borrowings supplemented by hedging activities as believed by us to be appropriate. We cannot assure you that these risk management strategies have had the desired effect, and interest rate fluctuations could have a negative impact on our results of operations.  
+
+The following table provides estimated future cash flow information derived from our best estimates of repayments at December 31, 2008 of our expected long-term indebtedness. However, we cannot predict the LIBOR or HIBOR rates that will be in effect in the future. As of December 31, 2008, such rates were at historic lows and have been very volatile in recent months. Actual rates will vary. The one-month LIBOR and HIBOR rates at December 31, 2008 of 0.436% and 0.299%, respectively were used for all variable rate calculations in the table below. The information is presented in U.S. dollar equivalents.  
+
+  [DATA_TABLE_REMOVED] 
+
+Interest Rate Swap Information  
+
+We have entered into floating-for-fixed interest rate swap arrangements relating to certain of our floating-rate debt facilities. We account for these swaps under SFAS No. 133 and its related interpretations.  
+
+Wynn Resorts  
+
+On February 1, 2008, we entered into an interest rate swap to hedge the underlying interest rate risk on all of the borrowings under the $1 billion Term Loan, which bears interest at LIBOR plus 2.25%. Pursuant to the terms of this interest rate swap, we paid a fixed rate of 2.836% on the $1 billion notional amount and received payments based on LIBOR. This swap fixed the interest rate at approximately 5.09%. On December 8, 2008, we modified the terms of this swap so that the current notional amount is $375 million, which matches the current debt outstanding. Pursuant to the amendment, we now pay a fixed rate of 3.95% which fixes the interest rate at approximately 6.2%. Changes in the fair value of this interest rate swap have and will continue to be recorded as an increase/decrease in swap fair value in our Consolidated Statements of Income as the swap does not qualify for hedge accounting. This swap matures in June 2010.  
+
+Wynn Las Vegas  
+
+On December 31, 2008, our interest rate swap at Wynn Las Vegas matured. This interest rate swap arrangement was intended to hedge the underlying interest rate risk on a total of $200 million of borrowings under the Wynn Las Vegas Term Loan, which bears interest at LIBOR plus 1.875%. Under this interest rate swap   
+
+58  
+
+Table of Contents 
+
+ arrangement, we received payments at a variable rate of LIBOR and paid a fixed rate of 3.793% on the $200 million notional amount. Although this interest rate swap was highly effective economically in fixing the interest rate on borrowings under the Wynn Las Vegas Term Loan at approximately 5.7%, changes in the fair value of our interest rate swap for each reporting period was recorded as an increase/decrease in swap fair value in our Consolidated Statements of Income, as the swap did not qualify for hedge accounting.  
+
+Wynn Macau  
+
+As of December 31, 2008, we had two interest rate swaps intended to hedge a portion of the underlying interest rate risk on borrowings under the Wynn Macau Term Loan. Under the first swap agreement, we pay a fixed interest rate of 3.632% on U.S. dollar borrowings of $153.8 million incurred under the Wynn Macau Term Loan in exchange for receipts on the same amounts at a variable interest rate based on the applicable LIBOR at the time of payment. Under the second swap agreement, we pay a fixed interest rate of 3.39% on Hong Kong dollar borrowings of approximately HK $991.6 million (approximately U.S. $127.9 million) incurred under the Wynn Macau Term Loan in exchange for receipts on the same amounts at a variable interest rate based on the applicable HIBOR at the time of payment. The term of both swap agreements is from August 2008 through August 2011.  
+
+These interest rate swaps fix the interest rates on the current U.S. dollar and Hong Kong dollar borrowings under the Wynn Macau Term Loan at approximately 5.382% and 5.14%, respectively. However, changes in the fair values of these interest rate swaps for each reporting period recorded are, and will continue to be, recognized as an increase/decrease in swap fair value in our Consolidated Statements of Income, as the swaps do not qualify for hedge accounting.  
+
+Summary of Historical Fair Values  
+
+The following table presents the historical asset or liability fair values as of December 31, 2008 and 2007, of our interest rate swap arrangements (amounts in thousands):  
+
+  [DATA_TABLE_REMOVED] 
+
+The fair value approximates the amount we would receive (pay) if these contracts were settled at the respective valuation dates. Fair value is estimated based upon current, and predictions of future, interest rate levels along a yield curve, the remaining duration of the instruments and other market conditions, and therefore, is subject to significant estimation and a high degree of variability of fluctuation between periods.  
+
+Other Interest Rate Swap Information  
+
+The following table provides information about our interest rate swaps, by contractual maturity dates, as of December 31, 2008 and using estimated future LIBOR and HIBOR rates based upon implied forward rates in the yield curve. The information is presented in U.S. dollar equivalents, which is the Companys reporting currency:  
+
+  [DATA_TABLE_REMOVED] 
+
+59  
+
+Table of Contents 
+
+We do not use derivative financial instruments, other financial instruments or derivative commodity instruments for trading or speculative purposes.  
+
+Interest Rate Sensitivity  
+
+As of December 31, 2008, approximately 55% of our long-term debt was based on fixed rates, including the notional amounts related to interest rate swaps. Based on our borrowings as of December 31, 2008, an assumed 1% change in variable rates would cause our annual interest cost to change by $19.5 million.  
+
+Foreign Currency Risks  
+
+The currency delineated in Wynn Macaus concession agreement with the government of Macau is the Macau pataca. The Macau pataca, which is not a freely convertible currency, is linked to the Hong Kong dollar, and in many cases the two are used interchangeably in Macau. The Hong Kong dollar is linked to the U.S. dollar and the exchange rate between these two currencies has remained relatively stable over the past several years. However, the exchange linkages of the Hong Kong dollar and the Macau pataca, and the Hong Kong dollar and the U.S. dollar, are subject to potential changes due to, among other things, changes in Chinese governmental policies and international economic and political developments.  
+
+If the Hong Kong dollar and the Macau pataca are not linked to the U.S. dollar in the future, severe fluctuations in the exchange rate for these currencies may result. We also cannot assure you that the current rate of exchange fixed by the applicable monetary authorities for these currencies will remain at the same level.  
+
+Because many of Wynn Macaus payment and expenditure obligations are in Macau patacas, in the event of unfavorable Macau pataca or Hong Kong dollar rate changes, Wynn Macaus obligations, as denominated in U.S. dollars, would increase. In addition, because we expect that most of the revenues for any casino that Wynn Macau operates in Macau will be in Hong Kong dollars, we are subject to foreign exchange risk with respect to the exchange rate between the Hong Kong dollar and the U.S. dollar. Also, if any of our Macau-related entities incur U.S. dollar-denominated debt, fluctuations in the exchange rates of the Macau pataca or the Hong Kong dollar, in relation to the U.S. dollar, could have adverse effects on Wynn Macaus results of operations, financial condition, and ability to service its debt. To date, we have not engaged in hedging activities intended to protect against foreign currency risk.  
+
+60  
+
+Table of Contents 
+
+ ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

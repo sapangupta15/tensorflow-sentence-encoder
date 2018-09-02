@@ -1,0 +1,122 @@
+Item 7A —Quantitative and Qualitative Disclosures about Market Risk
+
+The information in this section is provided as of December 31, 2015, and thus includes information on Legacy Willis only.
+
+Legacy Willis Financial Risk Management
+
+We are exposed to market risk from changes in foreign currency exchange rates and interest rates. In order to manage the risk arising from these exposures, we enter into a variety of interest rate and foreign currency derivatives. We do not hold financial or derivative instruments for trading purposes.
+
+A discussion of our accounting policies for financial and derivative instruments is included in Note 2 — ‘Basis of Presentation and Significant Accounting Policies’ of Notes to the Consolidated Financial Statements, and further disclosure is provided in Note 24 — ‘Derivative Financial Instruments and Hedging Activities’.
+
+Legacy Willis Foreign Exchange Risk 
+
+Because of the large number of countries and currencies we operate in, movements in currency exchange rates may affect our results.
+
+We report our operating results and financial condition in US dollars. Our US operations earn revenue and incur expenses primarily in US dollars. Outside the United States, we predominantly generate revenues and expenses in the local currency with the exception of our London market operations which earns revenues in several currencies but incurs expenses predominantly in pounds sterling.
+
+The table below gives an approximate analysis of revenues and expenses by currency in 2015.
+
+[DATA_TABLE_REMOVED]
+
+Our principal Legacy Willis exposures to foreign exchange risk arise from:
+
+•our London market operations; and
+
+•translation.
+
+London market operations
+
+The Company’s primary foreign exchange risks in its London market operations arise from changes in the exchange rate between US dollars and Pounds sterling as its London market operations earn the majority of their revenues in US dollars and incur expenses predominantly in Pounds sterling, and may also hold a significant net sterling asset or liability position on the balance sheet. In addition, the London market operations earn significant revenues in Euros and Japanese yen.
+
+The foreign exchange risks in its London market operations are hedged to the extent that:
+
+88
+Market risk
+
+•forecast Pound sterling expenses exceed Pound sterling revenues, the Company limits its exposure to this exchange rate risk by the use of forward contracts matched to specific, clearly identified cash outflows arising in the ordinary course of business; 
+
+•the UK operations earn significant revenues in Euros and Japanese yen, the Company limits its exposure to changes in the exchange rate between the US dollar and these currencies by the use of forward contracts matched to a percentage of forecast cash inflows in specific currencies and periods. In addition, we are also exposed to foreign exchange risk on any net sterling asset or liability position in our London market operations; and
+
+•Miller Insurance Services LLP, which is a sterling functional entity, earns significant non-functional currency revenues, the Company limits its exposure to exchange rate changes by the use of forward contracts matched to a percentage of forecast cash inflows in specific currencies and periods.
+
+However, where the foreign exchange risk relates to any sterling pension assets benefit or liability for pensions benefit, we do not hedge the risk. Consequently, if our London market operations have a significant pension asset or liability, we may be exposed to accounting gains and losses if the US dollar and pounds sterling exchange rate changes. We do, however, hedge the pounds sterling contributions into the pension plan.
+
+Translation risk
+
+Outside our US and London market operations, we predominantly earn revenues and incur expenses in the local currency. When we translate the results and net assets of these operations into US dollars for reporting purposes, movements in exchange rates will affect reported results and net assets. For example, if the US dollar strengthens against the Euro, the reported results of our Eurozone operations in US dollar terms will be lower.
+
+With the exception of foreign currency hedges for certain intercompany loans that are not designated as hedging instruments, we do not hedge translation risk.
+
+The table below provides information about our foreign currency forward exchange contracts, which are sensitive to exchange rate risk. The table summarizes the US dollar equivalent amounts of each currency bought and sold forward and the weighted average contractual exchange rates. All forward exchange contracts mature within three years.
+
+[DATA_TABLE_REMOVED]
+
+_________________
+
+(i) Represents the difference between the contract amount and the cash flow in US dollars which would have been receivable had the foreign currency forward exchange contracts been entered into on December 31, 2015 at the forward exchange rates prevailing at that date.
+
+89
+Willis Towers Watson plc
+
+[DATA_TABLE_REMOVED]
+
+_________________
+
+(i) Represents the difference between the contract amount and the cash flow in US dollars which would have been receivable had the foreign currency forward exchange contracts been entered into on December 31, 2014 at the forward exchange rates prevailing at that date.
+
+Income earned within foreign subsidiaries outside of the United Kingdom is generally offset by expenses in the same local currency but the Company does have exposure to foreign exchange movements on the net income of these entities. 
+
+Legacy Willis Interest Rate Risk 
+
+Our operations are financed principally by $1,906 million fixed rate senior notes issued by Legacy Willis maturing through 2043 (shown gross of debt issuance costs) and $240 million under a 7-year term loan facility. Of the fixed rate senior notes, $300 million are due 2016, $394 million are due 2017, $187 million are due 2019, $500 million are due 2021, $250 million are due 2023, and $275 million are due 2043. The 7-year term loan facility is repayable in quarterly installments and a final repayment of $186 million is due in the third quarter of 2018. 
+
+The Company has access to (i) $800 million under a revolving credit facility expiring July 23, 2018, (ii) $400 million under a revolving credit facility expiring April 28, 2016 and a repayment date of April 28, 2017, which will be available for regulatory capital purposes related to securities underwriting only, and (iii) $22 million under two further revolving credit facilities, of which $20 million is also only available for specific regulatory purposes. As of December 31, 2015 $467 million (2014: $nil) was drawn on these facilities. Additionally, the Company has access to a 1-year term loan in two tranches of €550 million ($598 million) and $400 million to be used for the specific purposes of the acquisitions of Gras Savoye and Towers Watson, respectively. As of December 31, 2015 the equivalent of $592 million was drawn on the €550 million tranche and $nil on the $400 million tranche. The interest rate applicable to the bank borrowing is variable according to the period of each individual drawdown.
+
+On December 31, 2015, Legacy Willis consolidated $79 million under a bank overdraft arrangement undertaken by Gras Savoye. This borrowing had been entered into by Gras Savoye in the ordinary course of its insurance broking operations and was repaid on January 11, 2016.
+
+We are also subject to market risk from exposure to changes in interest rates based on our investing activities where our primary interest rate risk arises from changes in short-term interest rates in both US dollars and pounds sterling.
+
+As a result of our operating activities, we receive cash for premiums and claims which we deposit in short-term investments denominated in US dollars and other currencies. We earn interest on these funds, which is included in our consolidated financial statements as investment income. These funds are regulated in terms of access and the instruments in which they may be invested, most of which are short-term in maturity. 
+
+During the year ended December 31, 2015, the Company, in order to manage interest rate risk arising from these financial assets, entered into interest rate swaps to receive a fixed rate of interest and pay a variable rate of interest. The use of interest rate contracts essentially converted groups of short-term variable rate investments to fixed rates. These derivatives were designated as hedging instruments and were for a total notional amount of $300 million.
+
+The table below provides information about our derivative instruments and other financial instruments that are sensitive to changes in interest rates. For interest rate swaps, the table presents notional principal amounts and average interest rates analyzed by expected maturity dates. Notional principal amounts are used to calculate the contractual payments to be exchanged under the contracts. The duration of the interest rate swaps was three years, with re-fixing periods of three months. 
+
+90
+Market risk
+
+Average fixed and variable rates are, respectively, the weighted-average actual and market rates for the interest rate hedges in place. Market rates are the rates prevailing at December 31, 2015 or 2014, as appropriate.
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED] 
+
+_________________
+
+(i) Represents the net present value of the expected cash flows discounted at current market rates of interest or quoted market rates as appropriate.
+
+(ii) Represents the estimated interest rate payable.
+
+Legacy Willis Liquidity Risk 
+
+Our objective is to ensure we have the ability to generate sufficient cash either from internal or external sources, in a timely and cost-effective manner, to meet our commitments as they fall due. Our management of liquidity risk is embedded within our overall risk management framework. Scenario analysis is continually undertaken to ensure that our resources can meet our liquidity requirements. These resources are supplemented by access to $1,222 million under four revolving credit facilities, of which $355 million is available (and undrawn) for general corporate purposes. We undertake short-term foreign exchange swaps for liquidity purposes.
+
+See ‘Liquidity and Capital Resources’ section under Item 7, ‘Management’s Discussion and Analysis of Financial Condition and Results of Operations’.
+
+Legacy Willis Credit Risk and Concentrations of Credit Risk
+
+Credit risk represents the loss that would be recognized at the reporting date if counterparties failed to perform as contracted and from movements in interest rates and foreign exchange rates. The Company currently does not anticipate non-performance by its counterparties. The Company generally does not require collateral or other security to support financial instruments with credit risk.
+
+Concentrations of credit risk that arise from financial instruments exist for groups of customers or counterparties when they have similar economic characteristics that would cause their ability to meet contractual obligations to be similarly affected by changes in economic or other conditions. Financial instruments on the balance sheet that potentially subject the Company to concentrations of credit risk consist primarily of cash and cash equivalents, fiduciary funds, accounts receivable and derivatives which are recorded at fair value.
+
+91
+Willis Towers Watson plc
+
+The Company maintains a policy providing for the diversification of cash and cash equivalent investments and places such investments in an extensive number of financial institutions to limit the amount of credit risk exposure. These financial institutions are monitored on an ongoing basis for credit quality predominantly using information provided by credit agencies.
+
+Concentrations of credit risk with respect to receivables are limited due to the large number of clients and markets in which the Company does business, as well as the dispersion across many geographic areas. Management does not believe significant risk exists in connection with the Company’s concentrations of credit as of December 31, 2015.
+
+92
+Financial statements
+
+Item 8 —Financial Statements and Supplementary Data

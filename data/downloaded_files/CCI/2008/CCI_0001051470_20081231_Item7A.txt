@@ -1,0 +1,65 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk  
+
+Our primary exposures to market risks are related to changes in interest rates and foreign currency exchange rates which may adversely affect our results of operations and financial position. We seek to manage exposure to changes in interest rates where economically prudent to do so by utilizing predominately fixed rate debt and interest rate swaps. We do not currently hedge against foreign currency exchange risks.  
+
+Interest Rate Risk  
+
+Our interest rate risk relates primarily to the impact of interest rate movements on the following, inclusive of the 9% senior notes issued January 2009 and the purchase of debt in January and February 2009: (1) the anticipated refinancing of the vast majority of our existing $6.8 billion of debt, (2) our $808.0 million of floating rate debt representing 12% of our total debt, and (3) potential future borrowings of incremental debt. The following discussion and tables below summarize our market risk exposure to interest rates, including our use of interest rate swaps to manage and reduce this risk. See also Item 1A. Risk Factors.  
+
+By the end of 2011, we expect to have refinanced a substantial amount of our outstanding debt; and we have entered into interest rate swaps to hedge the variability in cash flows from changes in LIBOR on these anticipated refinancings. We do not hedge our exposure to changes in credit spreads on these anticipated refinancings, as the rates fixed by our interest rate swaps are exclusive of any credit spread. We typically do not hedge our exposure to interest rates on potential future borrowings of additional debt for a substantial period prior to issuance. The current credit environment has resulted in a significant widening of credit spreads in the market since the original issuance of our existing debt. Unless the credit markets improve, our prospective debt financings will likely have higher costs, including in 2010 and 2011 when we anticipate refinancing a significant portion of our debt. In addition, if our tower revenue notes are not paid in full by their anticipated repayment dates (June 2010 or November 2011), then the interest rate increases by an additional approximately 5% per annum.  
+
+We have managed our exposure to market interest rates on our existing debt by (1) controlling the mix of fixed and floating rate debt and (2) utilizing interest rate swaps to hedge variability in cash flows from changes in LIBOR on our outstanding floating rate debt. As of December 31, 2008, we had $808.0 million of floating rate debt, of which $625.0 million is effectively converted to a fixed rate through an interest rate swap until December 2009. As a result, a hypothetical unfavorable fluctuation in market interest rates on our existing debt of one percentage point over a twelve-month period would increase our interest expense by approximately $1.8 million.  
+
+40  
+
+Table of Contents 
+
+Index to Financial Statements 
+
+A hypothetical decrease of 50 basis points in the prevailing LIBOR yield curve as of December 31, 2008 would increase the liability for our swaps by nearly $140 million. We are exposed to non-performance risk from the counterparties to our interest rate swaps. In October 2008, a subsidiary of Lehman Brothers that was our counterparty for two interest rate swaps filed for bankruptcy. These two interest rate swaps have a combined notional value of $475 million and represent a liability of approximately $46.3 million as of December 31, 2008. Our other interest rate swaps are with Morgan Stanley and the Royal Bank of Scotland plc who have credit ratings of A or better. See note 6 to our consolidated financial statements and the tables below.  
+
+As of February 17, 2009, the fair value of debt was $6.3 billion representing an amount less than carrying value of approximately $422 million, compared to an amount less than carrying value of approximately $1.3 billion at December 31, 2008. As of February 17, 2009, the settlement value of interest rate swaps was a liability of $520.5 million, a decrease of $95.7 million from December 31, 2008.  
+
+41  
+
+Table of Contents 
+
+Index to Financial Statements 
+
+The following tables provide information about our market risk related to changes in interest rates. The future principal payments, weighted-average interest rates and the interest rate swaps are presented as of December 31, 2008, after giving effect to (1) the extension of the revolving credit facility maturity to January 2010 from January 2009, (2) purchases of debt in January and February 2009, and (3) issuance of the 9% senior notes in January 2009 exclusive of the impact of using the proceeds to make future purchases and repayments of debt. These debt maturities reflect contractual maturity dates and do not consider the impact of the principal payments that will commence following the anticipated repayment dates on the tower revenue notes (see footnote (b)). See note 6 to our consolidated financial statements for additional information regarding our debt and interest rate swaps.  
+
+  [DATA_TABLE_REMOVED] 
+
+  [DATA_TABLE_REMOVED] 
+
+ (a) The average interest rate represents the weighted-average stated coupon rate (see footnote (b)).  
+
+ (b) As previously discussed, if the tower revenue notes are not repaid in full by their anticipated repayment dates (June 2010 or November 2011) then the interest rate increases by an additional approximately 5% per annum and monthly principal payments commence using the Excess Cash Flow of the Issuers of the tower revenue notes. The tower revenue notes are presented based on their contractual maturity dates in 2035 and 2036 and include the impact of an assumed 5% increase in interest rate that would occur following the anticipated repayment dates but exclude the impact of monthly principal payments that would commence using Excess Cash Flow of the Issuers of the tower revenue notes. The Excess Cash Flow of the Issuers is nearly $350 million for the annualized quarter ended December 31, 2008.  
+
+ (c) Our variable rate debt consists of $169.4 million outstanding under our revolving credit facility and $638.6 million outstanding under our term loans.  
+
+ (d) The interest rate on our revolving credit facility and term loans represents the rate currently in effect, exclusive of the effect of our interest rate swaps. LIBOR on $625.0 million of the 2007 term loans has effectively been converted to a fixed rate of 4.1% until December 2009 through interest rate swaps. See the table below.  
+
+ (e) These interest rate swaps are forward starting interest rate swaps that hedge exposure to variability in future cash flows attributable to changes in LIBOR on the expected future refinancing of our fixed rate debt. These interest rate swaps have a contractual maturity on their respective effective dates (projected refinancing dates of the hedged debt) upon which they will be terminated and settled in cash. See note 6 to our consolidated financial statements for additional information regarding our forward starting interest rate swaps.  
+
+ (f) Exclusive of any applicable credit spreads.  
+
+ (g) The fair value of our debt is based on indicative quotes (that is, non-binding quotes) from brokers that require judgment to interpret market information, including implied credit spreads for similar borrowings on recent trades or bid/ask offers. These fair values are not necessarily indicative of the amount which could be realized in a current market exchange. See discussion above regarding the change in fair value from December 31, 2008 to February 17, 2009.  
+
+ (h) Inclusive of the previously mentioned swaps with a subsidiary of Lehman Brothers that filed bankruptcy.  
+
+ (i) The fair value of interest rate swaps is determined using the income approach and is predominately based on observable interest rates and yield curves. The fair value predominately results from the difference between the fixed rate and the prevailing LIBOR yield curve and, to a lesser extent, the contract counterparties and our credit risk. As of December 31, 2008, $75.0 million of the fair value related to credit risk (primarily our non-performance risk) and the amount of the liability on a cash settlement basis is approximately $616.2 million. See discussion above regarding the change in fair value from December 31, 2008 to February 17, 2009.  
+
+42  
+
+Table of Contents 
+
+Index to Financial Statements 
+
+Foreign Currency Risk  
+
+The vast majority of our foreign currency risk is related to the Australian dollar which is the functional currency of CCAL. CCAL represented 6% of both our consolidated revenues and operating income for 2008. As of February 17, 2009, the Australian dollar exchange rate had declined approximately 24% from the average rate for 2008. If the foreign currency exchange rate had been 0.65 for 2008, our consolidated revenues and operating income would have been reduced by approximately $21 million and $4 million, respectively.  
+
+Foreign exchange markets have recently been volatile, and we expect foreign exchange markets to continue to be volatile over the near term. We believe the risk related to our financial instruments (exclusive of inter-company financing deemed a long-term investment) denominated in Australian dollars should not be material to our financial condition. However, our revenues and costs have been, and will continue to be, impacted by changes in the Australian dollar exchange rates.  
+
+ Item 8. Financial Statements and Supplementary Data

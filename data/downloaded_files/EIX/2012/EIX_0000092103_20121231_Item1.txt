@@ -1,0 +1,271 @@
+PART I
+
+ITEM 1. BUSINESS
+
+INTRODUCTION
+
+Edison International was incorporated on April 20, 1987, under the laws of the State of California for the purpose of becoming the parent holding company of SCE, a California public utility corporation, and subsidiaries that are competitive businesses related to the delivery or use of electricity (the "Competitive Businesses"). As a holding company, Edison International's progress and outlook are dependent on developments at its operating subsidiaries. 
+
+The principal executive offices of Edison International and SCE are located at 2244 Walnut Grove Avenue, P.O. Box 976, Rosemead, California 91770, and the telephone numbers are (626) 302-2222 for Edison International and (626) 302-1212 for SCE.
+
+This is a combined Annual Report on Form 10-K for Edison International and SCE. Edison International and SCE make available at www.edisoninvestor.com: Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, Proxy Statements and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act, as soon as reasonably practicable after Edison International and SCE electronically file such material with, or furnishes it to, the SEC. Such reports are also available on the SEC's internet website at www.sec.gov. The information contained on, or connected to, the Edison investor website is not incorporated by reference into this report.
+
+Subsidiaries of Edison International 
+
+SCE is an investor-owned public utility primarily engaged in the business of supplying electricity to an approximately 50,000 square-mile area of southern California. The SCE service territory contains a population of nearly 14 million people and SCE serves the population through approximately 5 million customer accounts. In 2012, SCE's total operating revenue of $11.9 billion was derived as follows: 41.4% commercial customers, 42.2% residential customers, 5.5% industrial customers, 0.5% resale sales, 5.2% public authorities, and 5.2% agricultural and other customers. Sources of energy to serve SCE's customers during 2012 were approximately: 75% purchased power and 25% SCE-owned generation.
+
+Prior to December 17, 2012, Edison International had a competitive power generation segment (EMG), the majority of which consisted of its indirectly, wholly-owned subsidiary, EME. EME is a holding company with subsidiaries and affiliates engaged in the business of developing, acquiring, owning or leasing, operating and selling energy and capacity from independent power production facilities. On December 17, 2012 (the "Petition Date"), EME and certain of its wholly-owned subsidiaries filed voluntary petitions for relief under Chapter 11 of the United States Bankruptcy Code (the "Bankruptcy Code") in the United States Bankruptcy Court for the Northern District of Illinois, Eastern Division (the "Bankruptcy Court"). The EME companies that filed for bankruptcy retained control of their assets and are authorized to operate their businesses as debtors-in-possession under the jurisdiction of the Bankruptcy Court. The factors that led EME and certain of its wholly owned subsidiaries to take this action are discussed in the MD&A and in Note 17 of Item 8. Notes to Consolidated Financial Statements. As a result of the bankruptcy filing and beginning on the Petition Date, Edison International determined that it no longer retains significant influence over EME and accordingly, EME's results of operations are no longer consolidated with those of Edison International. Additionally, EME's results of operations prior to December 17, 2012 and for prior periods, are reflected as discontinued operations in the consolidated financial statements and Edison International now accounts for its investment in EME using the cost method of accounting prospectively. 
+
+EME, Edison International and certain of EME's senior unsecured noteholders have entered into a Transaction Support Agreement dated December 16, 2012 (the “Support Agreement”) in which each party agrees, subject to certain conditions, to further document and support Bankruptcy Court approval of certain transactions (collectively, the “Settlement Transaction”), including Edison International's ceasing to have any continuing ownership interest in EME following effectiveness of a plan of reorganization. For further information regarding the Support Agreement and Settlement Transaction, see "Management Overview—EME Chapter 11 Bankruptcy Filing" in the MD&A.
+
+Edison International continues to see merit in the ownership and operation of Competitive Businesses as a matter of corporate strategy and is exploring business ventures in a number of areas related to the provision of electric power and infrastructure, including distributed generation, electrification of transportation, water purification, and power management services to the commercial and industrial sector. Edison International has several subsidiaries that have been formed to hold assets, equity interests and businesses in emerging sectors of the electricity industry. To date, the holdings of these subsidiaries are not material for financial reporting purposes.
+
+3
+
+Regulation of Edison International as a Holding Company
+
+Edison International and its subsidiaries are subject to extensive regulation. As a public utility holding company, Edison International is subject to the Public Utility Holding Company Act. The Public Utility Holding Company Act primarily obligates Edison International and its utility subsidiaries to provide access to their books and records to the FERC and the CPUC for ratemaking purposes.
+
+Edison International is not a public utility and its capital structure is not regulated by the CPUC. The 1988 CPUC decision authorizing SCE to reorganize into a holding company structure, however, contains certain obligations on Edison International and its affiliates. These obligations include a requirement that SCE's dividend policy shall continue to be established by SCE's Board of Directors as though SCE were a stand-alone utility company, and that the capital requirements of SCE, as deemed to be necessary to meet SCE's service obligations, shall receive first priority from the Boards of Directors of Edison International and SCE. The CPUC has also promulgated Affiliate Transaction Rules, which, among other requirements, prohibit holding companies from (1) being used as a conduit to provide non-public information to a utility's affiliate and (2) causing or abetting a utility's violation of the rules, including providing preferential treatment to affiliates.
+
+Employees
+
+At December 31, 2012, Edison International and its consolidated subsidiaries had an aggregate of 16,593 full-time employees, 16,515 of which are full-time employees at SCE. 
+
+Insurance
+
+Edison International maintains a property and casualty insurance program for itself and its subsidiaries and excess liability insurance covering liabilities to third parties for bodily injury or property damage resulting from operations. These policies are subject to specific retentions, sub-limits and deductibles, which are comparable to those carried by other utility and electric generating companies of similar size. SCE also has separate insurance programs for nuclear property and liability, workers compensation and solar rooftop construction. For further information on nuclear and wildfire insurance, see "Item 8. Notes to Consolidated Financial Statements—Note 9. Commitments and Contingencies."
+
+SOUTHERN CALIFORNIA EDISON COMPANY
+
+Regulation
+
+CPUC
+
+The CPUC has the authority to regulate, among other things, retail rates, energy purchases on behalf of retail customers, rate of return, issuance of securities, disposition of utility assets and facilities, oversight of nuclear decommissioning funding and costs, and aspects of the transmission system planning, site identification and construction.
+
+FERC
+
+The FERC has the authority to regulate wholesale rates as well as other matters, including unbundled transmission service pricing, accounting practices, and licensing of hydroelectric projects. The FERC also has jurisdiction over a portion of the retail rates and associated rate design.
+
+NERC
+
+The FERC assigned administrative responsibility to the NERC to establish and enforce reliability standards and critical infrastructure protection standards, which protect the bulk power system against potential disruptions from cyber and physical security breaches. The critical infrastructure protection standards focus on controlling access to critical physical and cyber security assets. Compliance with these standards is mandatory. The maximum penalty that may be levied for violating a NERC reliability or critical infrastructure protection standard is $1 million per violation, per day.
+
+SCE has a formal cyber security program that is staffed and has a dedicated budget. The program covers SCE's information technology systems as well as supervisory control and data acquisition systems for the electric grid. Program staff is engaged with industry groups as well as public-private initiatives to reduce risk and to strengthen the security and reliability of SCE's systems and infrastructure. The program is also engaged in the protection of SCE's customer information.
+
+Transmission and Substation Facilities Regulation
+
+The construction, planning and project site identification of SCE's transmission lines and substation facilities require the approval of many governmental agencies and compliance with various laws. These agencies include utility regulatory commissions such as the CPUC and other state regulatory agencies depending on the project location; the CAISO, and other 
+
+4
+
+environmental, land management and resource agencies such as the Bureau of Land Management, the U.S. Forest Service, and the California Department of Fish and Game; and regional water quality control boards. In addition, to the extent that SCE transmission line projects pass through lands owned or controlled by Native American tribes, consent and approval from the affected tribes and the Bureau of Indian Affairs are also necessary for the project to proceed.
+
+CEC
+
+The construction, planning, and project site identification of SCE's power plants (excluding solar and hydro plants) of 50 MW or greater within California are subject to the jurisdiction of the CEC. The CEC is also responsible for forecasting future energy needs. These forecasts are used by the CPUC in determining the adequacy of SCE's electricity procurement plans.
+
+Nuclear Power Plant Regulation
+
+SCE is subject to the jurisdiction of the NRC with respect to the safety of its San Onofre and Palo Verde Nuclear Generating Stations. The NRC regulates commercial nuclear power plants through licensing, oversight and inspection, performance assessment, and enforcement of its requirements. For further information, see "Management Overview—San Onofre Outage, Inspection and Repair Issues" in the MD&A.
+
+Operating License Renewal 
+
+In April 2011, the NRC extended the operating license for Palo Verde Operating Units 1, 2 and 3 for an additional 20 years, to 2045, 2046 and 2047, respectively. San Onofre's current operating licenses for Units 2 and 3 will expire in 2022. The NRC's review of a license renewal application typically takes three to five years. Prior to filing a license renewal application at the NRC, SCE would make an application to the CPUC to demonstrate the cost effectiveness of continuing operations at San Onofre and to seek authority to recover the cost of seeking a license renewal at the NRC and pursuing approvals from other state and federal agencies, such as the Department of the Navy and the California Coastal Commission. SCE has made no decision to seek license renewal or to file an application for cost recovery at the CPUC. If SCE were to choose not to pursue license renewal or if SCE' efforts to obtain license renewal were not successful, SCE will need to determine what generation and transmission alternatives would need to be made available to replace the capacity, energy, and grid reliability benefits that SCE's customers now receive from San Onofre by the time San Onofre ceases generating electricity. Should SCE decide to pursue a license renewal for San Onofre, SCE will likely need to simultaneously consider generation and transmission alternatives given the long lead times for the NRC to approve a license renewal and to site, permit and construct new generation and transmission facilities. The costs of these alternatives could be substantial. SCE completed several transmission upgrades to ensure grid reliability with San Onofre not operating during the summer of 2012 and is currently pursuing additional transmission upgrades should San Onofre not operate during the summer of 2013.
+
+Overview of Ratemaking Process
+
+CPUC
+
+Revenue authorized by the CPUC through triennial GRC proceedings is intended to provide SCE a reasonable opportunity to recover its costs and earn a return on its net investments in generation and distribution assets and general plant (also referred to as “rate base”). The CPUC sets an annual revenue requirement for the base year which is made up of the operation and maintenance costs, taxes and a return consistent with the capital structure (discussed below). The return is established by multiplying an authorized rate of return, determined in separate cost of capital proceedings, by SCE's authorized CPUC rate base. In the GRC proceedings, the CPUC also generally approves the level of capital spending on a forecast basis. Following the base year, the revenue requirements for the remaining two years are set by a methodology established in the GRC proceeding, which generally, among other items, includes annual allowances for escalation in operation and maintenance costs, additional changes in capital-related investments and the recovery for expected nuclear refueling outages.
+
+SCE's authorized revenue requirements for 2009, 2010, and 2011 were $4.8 billion, $5.0 billion, and $5.3 billion, respectively. In November 2012, the CPUC approved a decision authorizing a revenue requirement of approximately $5.7 billion for 2012 and a formula that would result in authorized revenue requirements of approximately $5.8 billion and $6.2 billion for 2013 and 2014, respectively. For further discussion of the 2012 GRC, see “Management Overview—2012 CPUC General Rate Case” in the MD&A.
+
+CPUC rates decouple authorized revenue from the volume of electricity sales so that SCE earns revenue equal to amounts authorized. Differences between amounts collected and authorized levels are either collected from or refunded to customers, and, therefore, such differences do not impact operating revenue. Accordingly, SCE is neither benefited nor burdened by the volumetric risk related to retail electricity sales.
+
+5
+
+The CPUC regulates SCE's capital structure and authorized rate of return. SCE's current authorized capital structure is 48% common equity, 43% long-term debt and 9% preferred equity. SCE's current authorized cost of capital, as authorized by the CPUC in December 2012 as part of the 2013 Cost of Capital Application, consists of: cost of long-term debt of 5.49%, cost of preferred equity of 5.79% and return on common equity of 10.45%. These costs were implemented in rates effective January 1, 2013. For further discussion of the 2013 Cost of Capital Application, see “Management Overview—2013 Cost of Capital Application” in the MD&A.
+
+Balancing accounts (also referred to as cost-recovery mechanisms) are typically used to track and recover SCE's costs of fuel, purchased-power, and certain operation and maintenance expenses, including certain demand-side management program costs. SCE earns no return on these activities and although differences between forecasted and actual costs do not impact earnings, such differences do impact cash flows and can change rapidly.
+
+SCE's balancing account for fuel and power procurement-related costs is referred to as the ERRA mechanism. SCE sets rates based on an annual forecast of the costs that it expects to incur during the subsequent year. In addition, the CPUC has established a "trigger" mechanism for the ERRA balancing account that allows for a rate adjustment if the balancing account over- or under-collection exceeds 5% of SCE's prior year's revenue that is classified as generation for retail rates. For 2013, the trigger amount is approximately $280 million.
+
+The majority of procurement-related costs eligible for recovery through cost-recovery rates are effectively pre-approved by the CPUC through a procurement plan with predefined standards that establish the eligibility for cost recovery. If such costs are subsequently found to be non-compliant with this procurement plan, then this could negatively impact SCE's earnings and cash flows. In addition, the CPUC retrospectively reviews outages associated with utility-owned generation and SCE's power procurement contract administration activities through the annual ERRA review proceeding. If SCE is found to be unreasonable or imprudent with respect to its utility-owned generation outages and contract administration activities, then this could negatively impact SCE's earnings and cash flows.
+
+FERC
+
+Revenue authorized by the FERC is intended to provide SCE with recovery of its prudently-incurred transmission costs, including a return on its net investment in transmission assets. In August 2011, the FERC accepted, subject to refund and settlement procedures, SCE's request to implement a formula rate effective January 1, 2012 to determine SCE's FERC transmission revenue requirement, including its construction work in progress ("CWIP") revenue requirement that was previously recovered through a separate mechanism. Under operation of the formula rate, transmission revenue will be trued-up to actual cost of service annually. At December 31, 2012, revenue collected in excess of recognized revenue under the proposed formula rate was $106 million. Under the formula rate, the transmission revenue requirement and rates are updated each October 1, to reflect a forecast of costs for the upcoming rate period, as well as a true up of costs incurred by SCE in the prior calendar year. Settlement discussions regarding the formula rate are ongoing. In September 2012, SCE filed its first formula rate update with the FERC. For further discussion of SCE's FERC formula rates, see “Liquidity and Capital Resources—SCE—Regulatory Proceedings—FERC Formula Rates” in the MD&A.
+
+Retail Rates Structure
+
+To develop retail rates, the authorized revenue requirements are allocated among all customer classes (residential, commercial, industrial and agricultural) on a functional basis (i.e., generation, distribution, transmission, etc.). Specific rate components are designed to recover the authorized revenue allocated to each customer class.
+
+Currently, SCE has a five tier residential rate structure. Each tier represents a certain electricity usage level and within each increasing usage level, the electricity is priced at a higher rate per kilowatt hour. The first tier is a baseline tier and has the lowest rate per kilowatt hour. "Baseline" refers to a specific amount of energy allocated for residential customers that is charged at a lower price than energy used in excess of that amount. Baseline quantities are determined by SCE for approval by the CPUC using average residential electricity consumption for nine geographical regions in southern and central California. 
+
+The intent of the baseline and the tiered structure is to provide a portion of reasonable energy needs (baseline usage) of residential customers at the lowest rate, and to encourage conservation of energy by increasing the rate charged as energy usage increases. Statutory restrictions on tier one and two rates have shifted some of the cost of residential rate increases to the higher tier/usage customers. As part of the second phase of SCE's 2012 GRC, SCE requested certain rate design modifications that are intended to provide a more equitable, cost-based rate design. A decision in the second phase is expected in the first half of 2013.
+
+6
+
+Energy Efficiency Incentive Mechanism
+
+In December 2012, the CPUC adopted an energy efficiency incentive mechanism for the 2010 – 2012 energy efficiency program performance period. The mechanism uses an incentive calculation that is based on actual energy efficiency expenditures. The December 2012 CPUC decision provided shareholder earnings for the 2010 program performance period and allows SCE the opportunity to claim future shareholder earnings in both 2013 and 2014 associated with SCE's 2011 and 2012 program performance periods using this incentive calculation. A proposed decision on the mechanism for the 2013 – 2014 program years is expected in the first quarter of 2013. For further discussion of SCE's energy efficiency incentive awards for 2010, 2011 and 2012, see “Liquidity and Capital Resources—SCE—Regulatory Proceedings—Energy Efficiency Incentive Mechanism” in the MD&A.
+
+CDWR-Related Rates
+
+As a result of the California energy crisis, in 2001 the CDWR entered into contracts to purchase power for sale at cost directly to SCE's retail customers and issued bonds to finance those power purchases. The CDWR's total statewide power and bond charge revenue requirements were allocated by the CPUC among the customers of the investor-owned utilities (SCE, PG&E and SDG&E). SCE billed and collected from its customers the costs of power purchased and sold by the CDWR. All CDWR power contracts that were allocated to SCE expired by the end of 2011. SCE will continue to bill and collect CDWR bond-related charges and direct access exit fees until 2022. The CDWR-related charges and a portion of direct access exit fees that are remitted directly to the CDWR are not recognized as operating revenue; but affect customer rates. See "Results of Operations—SCE—Supplemental Operating Revenue Information" in the MD&A for further discussion of the impact of CDWR charges on customer rates.
+
+Purchased Power and Fuel Supply
+
+SCE obtains power needed to serve its customers from its generating facilities and purchases from qualifying facilities, independent power producers, the CAISO, and other utilities.
+
+Natural Gas Supply
+
+SCE requires natural gas to meet contractual obligations for power tolling agreements (power contracts in which SCE has agreed to provide or pay for the natural gas burned to generate electricity). SCE also requires natural gas to fuel its Mountainview and peaker plants, which are generation units that are designed to operate in response to changes in demand for power. The physical natural gas purchased by SCE is subject to competitive bidding.
+
+Nuclear Fuel Supply
+
+For San Onofre Units 2 and 3, contractual arrangements are in place covering 100% of the projected nuclear fuel requirements through the years indicated below. These arrangements are under review as a result of events at San Onofre. For more information, see "Management Overview—San Onofre Outage, Inspection and Repair Issues" in the MD&A.
+
+[DATA_TABLE_REMOVED]
+
+For Palo Verde, contractual arrangements are in place covering 100% of the projected nuclear fuel requirements through the years indicated below.
+
+[DATA_TABLE_REMOVED]
+
+Coal Supply
+
+On January 1, 2010, SCE and the other Four Corners co-owners entered into a Four Corners Coal Supply Agreement with the BHP Navajo Coal Company, to supply coal to Four Corners Units 4 and 5 until July 6, 2016. In November 2010, SCE entered into an agreement to sell its interest in Four Corners to APS, subject to certain conditions including securing a long-term fuel 
+
+7
+
+supply agreement for the plant that extends beyond 2016. See "Item 8. Notes to Consolidated Financial Statements—Note 2. Property, Plant and Equipment" for more information on the pending sale of SCE's interest in Four Corners. In December 2012, BHP Navajo Coal Company and the Navajo Nation announced that they are in negotiations to transfer ownership of the coal mining operation that supplies Four Corners. The Four Corners co-owners (other than SCE), BHP Navajo Coal Company and the Navajo Nation are currently negotiating a potential new Coal Supply Agreement for Four Corners to extend beyond 2016.
+
+CAISO Wholesale Energy Market
+
+In California and other states, wholesale energy markets exist through which competing electricity generators offer their electricity output to electricity retailers. Each state's wholesale electricity market is generally operated by its state ISO or a regional RTO. California's wholesale electricity market is operated by the CAISO. The CAISO schedules power in hourly increments with hourly prices through a real-time and day-ahead market that combines energy, ancillary services, unit commitment and congestion management. SCE participates in the day-ahead and real-time markets for the sale of its generation and purchases of its load requirements.
+
+The CAISO uses a nodal locational pricing model, which sets wholesale electricity prices at system points ("nodes") that reflect local generation and delivery costs. Generally, SCE schedules its electricity generation to serve its load but when it has excess generation or the market price of power is more economic than its own generation, SCE may sell power from utility-owned generation assets and existing power procurement contracts into, or buy generation and/or ancillary services to meet its load requirements from, the day-ahead market. SCE will offer to buy its generation at nodes near the source of the generation, but will take delivery at nodes throughout SCE's service territory. Congestion may occur when available energy cannot be delivered due to transmission constraints, which results in transmission congestion charges and differences in prices at various nodes. The CAISO also offers congestion revenue rights or CRRs, a commodity that entitles the holder to receive (or pay) the value of transmission congestion between specific nodes, acting as an economic hedge against transmission congestion charges.
+
+Competition
+
+Because SCE is an electric utility company operating within a defined service territory pursuant to authority from the CPUC, SCE faces retail competition only to the extent that federal and California laws permit other entities to provide electricity and related services to customers within SCE's service territory. While California law provides only limited opportunities for customers to choose to purchase power directly from an energy service provider other than SCE, a California statute was adopted in 2009 that permits a limited, phased-in expansion of customer choice (direct access) for nonresidential customers. SCE also faces some competition from cities and municipal districts that create municipal utilities or community choice aggregators. Competition between SCE and other electricity providers is conducted mainly on the basis of price. The effect of this competition on SCE generally is to reduce the number of customers purchasing power from SCE, but those departing customers typically continue to utilize and pay for SCE's transmission and distribution services.
+
+SCE faces increased competition from distributed power generation alternatives, such as roof-top solar facilities, becoming available to its customers as a result of technological developments, federal and state subsidies, and declining costs of such alternatives. See "Item 1A. Risk Factors—Risks Relating to Southern California Edison Company—Regulatory Risks."
+
+In the area of transmission infrastructure, SCE may experience increased competition from merchant transmission providers. The FERC has made changes to its transmission planning requirements with the goal of opening transmission development to competition from independent developers. In July 2011, the FERC adopted new rules that remove incumbent public utility transmission owners' federally-based right of first refusal to construct certain new transmission facilities. The rules direct regional entities, such as ISOs, to create new processes that would allow other providers to develop certain types of new transmission projects. The CAISO filed its processes, as required by the rule, with the FERC in October 2012. The FERC has not yet approved these processes. The majority of SCE's 2013 – 2014 transmission capital forecast relates to transmission projects that have been approved by the CAISO and barring a re-evaluation under the new rules, will not be subject to the new processes. SCE does not expect these projects to be re-evaluated. The impact of the new rules on future transmission projects will depend on the processes ultimately implemented by regional entities.
+
+Properties
+
+SCE supplies electricity to its customers through extensive transmission and distribution networks. Its transmission facilities, which include sub-transmission facilities and are located primarily in California but also in Nevada and Arizona, deliver power from generating sources to the distribution network and consist of lines ranging from 33 kV to 500 kV and substations. SCE's distribution system, which takes power from substations to customers, includes over 59,000 circuit miles of overhead 
+
+8
+
+lines, 44,000 circuit miles of underground lines and over 700 distribution substations, all of which are located in California. SCE owns the generating facilities listed in the following table.
+
+[DATA_TABLE_REMOVED]
+
+In November 2010, SCE entered into an agreement to sell its interest in Four Corners to APS for approximately $294 million. The sale remains contingent upon APS obtaining a satisfactory long-term coal supply agreement for the plant. As of January 2013, the sale agreement may be terminated by either party. As of the date of this report, the agreement has not been terminated by either party. The purchase price is subject to certain adjustments under the sale agreement, which includes, among other adjustments, a reduction in the purchase price of $7.5 million for each month between October 1, 2012 and the closing date. See "Item 8. Notes to Consolidated Financial Statements—Note 2. Property, Plant and Equipment" for more information.
+
+San Onofre, Four Corners, certain of SCE's substations, and portions of its transmission, distribution and communication systems are located on lands owned by the federal, state or local governments under licenses, permits, easements or leases, or on public streets or highways pursuant to franchises. Certain of the documents evidencing such rights obligate SCE, under specified circumstances and at its expense, to relocate such transmission, distribution, and communication facilities located on lands owned or controlled by federal, state, or local governments.
+
+Thirty-one of SCE's 36 hydroelectric plants and related reservoirs are located in whole or in part on U.S.-owned lands and are subject to FERC licenses. Twenty of these plants have 29- to 40-year FERC licenses that expire at various times between 2021 and 2046. Eight plants are currently being relicensed and are operating under temporary annual permits with new FERC licenses expected within one to two years and three plants are not operating and undergoing decommissioning. FERC licenses impose numerous restrictions and obligations on SCE, including the right of the United States to acquire projects upon payment of specified compensation. When existing licenses expire, the FERC has the authority to issue new licenses to third parties that have filed competing license applications, but only if their license application is superior to SCE's and then only upon payment of specified compensation to SCE. New licenses issued to SCE are expected to contain more restrictions and obligations than the expired licenses because laws enacted since the existing licenses were issued require the FERC to give environmental objectives greater consideration in the licensing process. Substantially all of SCE's properties are subject to the lien of a trust indenture securing first and refunding mortgage bonds. See "Item 8. Notes to Consolidated Financial Statements—Note 5. Debt and Credit Agreements."
+
+Seasonality
+
+Due to warm weather during the summer months and SCE's rate design, operating revenue during the third quarter of each year is generally higher than the other quarters.
+
+ENVIRONMENTAL REGULATION OF EDISON INTERNATIONAL AND SUBSIDIARIES
+
+Legislative and regulatory activities by federal, state, and local authorities in the United States relating to energy and the environment impose numerous restrictions on the operation of existing facilities and affect the timing, cost, location, design, construction and operation of new facilities by Edison International's subsidiaries, as well as the cost of mitigating the 
+
+9
+
+environmental impacts of past operations. The environmental regulations and other developments discussed below have the largest impact on SCE's fossil-fuel fired power plants, and therefore the discussion in this section focuses mainly on regulations applicable to the states of California and New Mexico, where SCE's facilities are located.
+
+Edison International and SCE continue to monitor legislative and regulatory developments and to evaluate possible strategies for compliance with environmental regulations. Additional information about environmental matters affecting Edison International and its subsidiaries, including projected environmental capital expenditures, is included in the MD&A under the heading "Liquidity and Capital Resources—SCE—Capital Investment Plan" and in "Item 8. Notes to Consolidated Financial Statements—Note 9. Commitments and Contingencies—Environmental Remediation" and "—Note 10. Environmental Developments."
+
+Air Quality
+
+The CAA, which regulates air pollutants from mobile and stationary sources, has a significant impact on the operation of fossil fuel plants, especially coal-fired plants. The CAA requires the US EPA to establish concentration levels in the ambient air for six criteria pollutants to protect public health and welfare. These concentration levels are known as NAAQS. The six criteria pollutants are carbon monoxide, lead, nitrogen dioxide, ozone, particulate matter, and SO2.
+
+Federal environmental regulations of these criteria pollutants require states to adopt state implementation plans, known as SIPs, for certain pollutants, which detail how the state will attain the standards that are mandated by the relevant law or regulation. The SIPs must be equal to or more stringent than the federal requirements and must be submitted to the US EPA for approval. Each state identifies the areas within its boundaries that meet the NAAQS (attainment areas) and those that do not (non-attainment areas), and must develop a SIP both to bring non-attainment areas into compliance with the NAAQS and to maintain good air quality in attainment areas. If the attainment status of areas changes, states may be required to develop new SIPs that address the changes. Much of southern California is in a non-attainment area for several criteria pollutants.
+
+National Ambient Air Quality Standards
+
+Ozone
+
+In January 2010, the US EPA proposed a revision to the primary and secondary NAAQS for 8-hour ozone that it had finalized in 2008. The 8-hour ozone standard established in 2008 was 0.075 parts per million but the implementation process must be completed before the 0.075 parts-per-million standard can be enforced. The US EPA issued initial area designations of attainment, nonattainment, and unclassifiable areas across the nation in 2012. Areas in SCE's service territory were classified in various degrees of nonattainment, including Los Angeles (known as the South Coast Air Basin), which was designated as extreme nonattainment; Kern County (marginal nonattainment); Riverside County (severe nonattainment); Ventura County (serious nonattainment); and the San Joaquin Valley (extreme nonattainment). States will then be required to develop and submit state implementation plans outlining how compliance with the 2008 NAAQS will be achieved. 
+
+Particulate Matter
+
+In December 2012, the US EPA lowered the primary annual NAAQS for fine particulate matter (known as PM2.5) from 15 to 12 micrograms per cubic meter (mg/m3). The EPA retained the existing 24-hour NAAQS for PM2.5 (35 mg/m3) and for coarse particulate matter (known as PM10) (150 mg/m3). These new limits take effect in 2020. States must recommend attainment designations to EPA by December 2013, with final designations expected in 2015 and implementation plans due in 2018. 
+
+Regional Haze
+
+The regional haze rules under the CAA are designed to prevent impairment of visibility in certain federally designated areas. The goal of the rules is to restore visibility in mandatory federal Class I areas, such as national parks and wilderness areas, to natural background conditions by 2064. Sources such as power plants that are reasonably anticipated to contribute to visibility impairment in Class I areas may be required to install best available retrofit technology ("BART") or implement other control strategies to meet regional haze control requirements.
+
+In relation to Four Corners, the US EPA issued its final FIP in August 2012. The FIP requires the installation of SCR pollution control equipment within designated time periods, or alternatively the shutdown of Units 1-3 and installation of SCRs on Units 4 and 5 within other designated times periods. In November 2010, SCE and APS entered into an agreement for the sale of SCE's interest in Four Corners Units 4 and 5 to APS, subject to regulatory approvals and other conditions. Due to the investment constraints of SB 1368, the California law on GHG emission performance standards discussed below in "—Greenhouse Gas Regulation—Regional Initiatives and State Legislation," SCE does not intend to be a Four Corners participant after the 2016 expiration of the current participant agreements and does not expect to participate in any investment 
+
+10
+
+in Four Corners SCRs. See "Item 8. Notes to Consolidated Financial Statements—Note 2. Property, Plant and Equipment" for more information on the pending sale of SCE's interest in Four Corners.
+
+New Source Review Requirements
+
+The NSR regulations impose certain requirements on facilities, such as electric generating stations, if modifications are made to air emissions sources at the facility. Since 1999, the US EPA has pursued a coordinated compliance and enforcement strategy to address NSR compliance issues at the nation's coal-fired power plants.
+
+In April 2009, APS, as operating agent of Four Corners, received a US EPA request pursuant to Section 114 of the CAA for information about Four Corners, including information about Four Corners' capital projects from 1990 to the present. SCE understands that in other cases the US EPA has utilized responses to similar Section 114 letters to examine whether power plants have triggered NSR requirements under the CAA. In October 2011, four environmental organizations filed a lawsuit against the Four Corners owners alleging NSR violations. In January 2012, the organizations amended their complaint, also alleging related New Source Performance Standards violations, and served it on the Four Corners owners. The proceeding is currently stayed, to allow for settlement discussions until March 2013. See "Item 8. Notes to Consolidated Financial Statements—Note 2. Property, Plant and Equipment" for information on the pending sale of SCE's interest in Four Corners and "—Note 9. Commitments and Contingencies—Four Corners New Source Review Litigation" for more information on the lawsuit.
+
+Water Quality
+
+Clean Water Act
+
+Regulations under the federal Clean Water Act dictate permitting and mitigation requirements for many of SCE's construction projects, and govern critical parameters at generating facilities, such as the temperature of effluent discharges and the location, design, and construction of cooling water intake structures at generating facilities. In March 2011, the US EPA proposed standards under the federal Clean Water Act that would affect cooling water intake structures at generating facilities. The standards are intended to protect aquatic organisms by reducing capture in screens attached to cooling water intake structures (impingement) and in the water volume brought into the facilities (entrainment). These standards are expected to be finalized by June 2013. SCE is evaluating the proposed standards and believes, from a preliminary review, that compliance with the proposed standards regarding impingement will be achievable without incurring material additional capital expenditures or operating costs. The required measures to comply with the proposed standards regarding entrainment are subject to the discretion of the permitting authority, and SCE is unable at this time to assess potential costs of compliance, which could be significant for San Onofre.
+
+California-Prohibition on the Use of Ocean-Based Once-Through Cooling
+
+California has a US EPA-approved program to issue individual or group permits for the regulation of Clean Water Act discharges. California also regulates certain discharges not regulated by the US EPA. Effective October 1, 2010, the California State Water Resources Control Board issued a final policy, which establishes closed-cycle wet cooling as required technology for retrofitting existing once-through cooled plants like SCE's San Onofre and many of the existing natural gas power plants along the California coast. The final policy required an independent engineering study to be completed prior to the fourth quarter of 2013 regarding the feasibility of compliance by California's two coastal nuclear power plants. The policy may result in significant capital expenditures at San Onofre and may affect its operations.
+
+Coal Combustion Residuals
+
+US EPA regulations currently classify coal ash and other coal combustion residuals as solid wastes that are exempt from hazardous waste requirements. This classification enables beneficial uses of coal combustion residuals, such as for cement production and fill materials. In June 2010, the US EPA published proposed regulations relating to coal combustion residuals that could result in their reclassification. Two different proposed approaches are under consideration, and SCE understands that US EPA issuance of a final rule is not expected before late 2013.
+
+The first approach, under which the US EPA would list these residuals as special wastes subject to regulation as hazardous wastes, could require the owners of Four Corners to incur additional capital and operating costs. The second approach, under which the US EPA would regulate these residuals as nonhazardous wastes, would establish minimum technical standards for units that are used for the disposal of coal combustion residuals, but would allow procedural and enforcement mechanisms (such as permit requirements) to be exclusively a matter of state law.
+
+11
+
+Greenhouse Gas Regulation
+
+There have been a number of federal and state legislative and regulatory initiatives to reduce GHG emissions. Any climate change regulation or other legal obligation that would require substantial reductions in GHG emissions or that would impose additional costs or charges for the emission of GHGs could significantly increase the cost of generating electricity from fossil fuels, and especially from coal-fired plants, as well as the cost of purchased power.
+
+Federal Legislative/Regulatory Developments
+
+In June 2010, the US EPA issued the Prevention of Significant Deterioration ("PSD") and Title V Greenhouse Gas Tailoring Rule, known as the "GHG tailoring rule." This regulation generally subjects newly constructed sources of GHG emissions and newly modified existing major sources to the PSD air permitting program beginning in January 2011 (and later, to the Title V permitting program under the CAA); however the GHG tailoring rule significantly increases the emissions thresholds that apply before facilities are subjected to these programs. The emissions thresholds for CO2 equivalents in the final rule vary from 75,000 tons per year to 100,000 tons per year depending on the date and whether the sources are new or modified. In March 2012, the US EPA announced proposed carbon dioxide emission limits for new power plants. 
+
+Regulation of GHG emissions pursuant to the PSD program could affect efforts to modify SCE's facilities in the future, and could subject new capital projects to additional permitting or emissions control requirements that could delay such projects. 
+
+In December 2010, the US EPA announced that it had entered into a settlement with various states and environmental groups to resolve a long-standing dispute over regulation of GHGs from electrical generating units pursuant to the New Source Performance Standards in the CAA and would propose performance standards for emissions from new and modified power plants and emissions guidelines for existing power plants. The specific requirements will not be known until the regulations are finalized. Since January 2010, the US EPA's Final Mandatory GHG Reporting Rule has required all sources within specified categories, including electric generation facilities, to monitor emissions, and to submit annual reports to the US EPA by March 31 of each year. SCE's 2012 GHG emissions from utility-owned generation were approximately 6.9 million metric tons.
+
+Regional Initiatives and State Legislation
+
+Regional initiatives and state legislation may also require reductions of GHG emissions and it is not yet clear whether or to what extent any federal legislation would preempt them. If state and/or regional initiatives remain in effect after federal legislation is enacted, utilities and generators could be required to satisfy them in addition to the federal standards.
+
+SCE's operations in California are subject to two laws governing GHG emissions. The first law, the California Global Warming Solutions Act of 2006 (also referred to as AB 32), establishes a comprehensive program to reduce GHG emissions. AB 32 required the California Air Resources Board ("CARB") to develop regulations, which became effective in 2012, that would reduce California's GHG emissions to 1990 levels in yearly increments by 2020. In December 2011, the CARB regulation was officially published establishing a California cap-and-trade program. The first compliance period for the cap-and-trade program is for 2013 GHG emissions. The first auction, held on November 14, 2012 cleared at $10.09/metric ton, nine cents above the floor price. 
+
+CARB regulations implementing a cap-and-trade program and the cap-and-trade program itself, continue to be the subject of litigation. In March 2012, environmental groups filed a case against CARB challenging the cap-and-trade program's offset provisions. SCE intervened as part of a broad business coalition to support the offset provisions. In November 2012, the California Chamber of Commerce filed a suit alleging that the auction itself violated AB 32 and the California Constitution. Both suits are pending. 
+
+The second law, SB 1368, required the CPUC and the CEC to adopt GHG emission performance standards restricting the ability of California investor-owned and publicly owned utilities, respectively, to enter into long-term arrangements for the purchase of electricity. The standards that have been adopted prohibit these entities, including SCE, from entering into long-term financial commitments with generators that emit more than 1,100 pounds of CO2 per MWh, the performance of a combined-cycle gas turbine generator. SB 1368 may prohibit SCE from making emission control expenditures at Four Corners. See "Item 8. Notes to Consolidated Financial Statements—Note 2. Property, Plant and Equipment" for information on the sale of SCE's interest in Four Corners.
+
+In April 2011, California enacted a law to require California retail sellers of electricity to procure 33% of their customers' electricity requirements from renewable resources, as defined in the statute. On December 1, 2011, the CPUC approved a decision setting procurement quantity requirements for CPUC-regulated retail sellers that incrementally increase to 33% over several periods between January 2011 and December 31, 2020. The quantity would remain at 33% of retail sales for each 
+
+12
+
+year thereafter. SCE's delivery of eligible renewable resources to customers was 21% of its total energy portfolio for 2011 and its delivery of eligible renewable resources to customers is estimated to be approximately 20% of its total energy portfolio for 2012.
+
+Litigation Developments
+
+Litigation alleging that GHG is a public and private nuisance may affect SCE, whether or not it is named as a defendant. The law is unsettled on whether or not this litigation presents questions capable of judicial resolution or political questions that should be resolved by the legislative or executive branches. For further discussion see "Item 8. Notes to Consolidated Financial Statements—Note 10. Environmental Developments."
+
+ITEM 1A. RISK FACTORS

@@ -1,0 +1,501 @@
+PART I  
+
+Item 1. Business  
+
+General  
+
+We are the worlds largest provider of enterprise software and a leading provider of computer hardware products and services. Our software, hardware systems, and services businesses develop, manufacture, market, host and support database and middleware software, applications software, and hardware systems, with the latter consisting primarily of computer server and storage products. Our businesses provide products and services that are built upon industry standards, are engineered to work together or independently within existing customer information technology (IT) environments, and run securely on a wide range of customer IT environments, including cloud computing environments.  
+
+Cloud computing environments provide on demand access to a shared pool of computing resources in a scalable, self-service manner, delivering advantages in speed, agility and efficiency. Cloud computing has evolved from technologies and services that Oracle has provided for many years, including clustering, server virtualization, Service-Oriented Architecture (SOA), shared services, large-scale management automation, and more recently, engineered systems. Our secure, reliable, and scalable product offerings are designed to improve business efficiencies at a lower total cost of ownership. We seek to be an industry leader in each of the product categories in which we compete, and to expand into new and emerging markets.  
+
+We believe our ability to offer our customers choice and flexibility in the manner in which they deploy our products and serviceswhile maintaining enterprise-grade reliability, security, and interoperability based upon industry standardsis important to our corporate strategy. Oracle Fusion Applications, for example, offer customers a choice of deployment models to run our standards-based software applications in on-premise or cloud computing IT environments. Oracle Cloud is a family of our cloud-based software subscription offerings that provides access to select Oracle software applications and software platforms on a subscription basis in a secure, standards-based cloud computing environment. Oracle Cloud includes software applications as a service, such as Oracle Fusion Human Capital Management (HCM) Cloud Service and Oracle Fusion Customer Relationship Management (CRM) Cloud Service, and software platform services such as Oracle Database Cloud Service and Oracle Java Cloud Service, among others.  
+
+We believe our internal growth and continued innovation with respect to our software, hardware and services businesses are the foundation of our long-term strategic plans. In each of fiscal 2012 and 2011, we invested $4.5 billion and in fiscal 2010, we invested $3.3 billion in research and development to enhance our existing portfolio of products and services and to develop new products and services. We continue to focus the engineering of our hardware and software products to make them work together more effectively and deliver improved computing performance, reliability, and security to our customers. For example, Oracle Engineered Systems, which include our Oracle Exadata Database Machine, Oracle Exalogic Elastic Cloud, and SPARC SuperCluster products, amongst others, combine certain of our hardware and software offerings to provide engineered systems that increase computing performance and reduce storage requirements relative to our competitors products, creating time savings, efficiencies, and operational cost advantages for our customers.  
+
+We also believe that an active acquisition program is an important element of our corporate strategy as it strengthens our competitive position, enhances the products and services that we can offer to customers, expands our customer base, provides greater scale to accelerate innovation, grows our revenues and earnings and increases stockholder value. In recent years, we have invested billions of dollars to acquire a number of companies, products, services and technologies that add to, are complementary to, or have otherwise enhanced our existing offerings. We expect to continue to acquire companies, products, services and technologies to further our corporate strategy.  
+
+We are organized into three businessessoftware, hardware systems and serviceswhich are further divided into certain operating segments. Our software business is comprised of two operating segments: (1) new software licenses and (2) software license updates and product support. Our hardware systems business consists of two operating segments: (1) hardware systems products and (2) hardware systems support. Our services business is comprised of the remainder of our operating segments and offers consulting services, managed cloud services,  
+
+3  
+
+Table of Contents 
+
+ and education services. Our software, hardware systems and services businesses represented 70%, 17% and 13% of our total revenues, respectively, in fiscal 2012; 68%, 19% and 13%, respectively, in fiscal 2011; and 77%, 9% and 14%, respectively, in fiscal 2010. Prior to our acquisition of Sun Microsystems, Inc. (Sun) in January 2010, we did not have a hardware systems business. See Note 16 of Notes to Consolidated Financial Statements, included elsewhere in this Annual Report, for additional information related to our operating segments.  
+
+Oracle Corporation was incorporated in 2005 as a Delaware corporation and is the successor to operations originally begun in June 1977.  
+
+Oracle and Cloud Computing  
+
+Our cloud computing strategy offers customers a broad portfolio of enterprise-grade software and hardware products and services that are secure, scalable, and reliable, and based upon industry standards to enable interoperability and portability. Additionally, we offer customers a pragmatic roadmap to adopt the cloud computing environment that best fits their needs, whether that is a private cloud or a public cloud. Private clouds are exclusive to a single organization, whereas public clouds are used by multiple organizations on a shared basis and hosted and managed by a third-party service provider. Our enterprise-grade software and hardware products and services for private and public cloud computing environments include, among others:  
+
+       Oracle Cloud, which was created to give access to certain Oracle software in a secure, elastically scalable, highly available, cloud-based IT environment that we offer to customers on a subscription basis, includes access, hosting, infrastructure management, the use of software updates, and support;  
+
+       Oracle Engineered Systems, which include our Oracle Exadata Database Machine, Oracle Exalogic Elastic Cloud, Oracle Exalytics In-Memory Machine, and Oracle SPARC SuperCluster products, and which are designed to be foundations for cloud computing by incorporating pre-integrated and optimized combinations of hardware and software that deliver high performance efficiently and at a lower total cost of ownership;  
+
+       Our Oracle software product and hardware-related software portfolio, which includes:  
+
+   ¡      Oracle Fusion Applications in the cloud, which are the newest generation of applications offered to customers. With over 100 modules available, Oracle is the only company with such a broad cloud based application suite;  
+
+   ¡      Oracle SOA Suite and Oracle Business Process Management Suite for process integration and Oracle Data Integrator and Oracle GoldenGate for data integration, which are both designed to enable integration within and across public and private clouds;  
+
+   ¡      Oracle Identity Management and Oracle Database Security, which are designed to enable customers to secure their own cloud environments and integrate with public clouds;  
+
+   ¡      Oracle VM for SPARC and x86, which are designed to enable customers to create virtual environments for multiple applications to share a physical server for higher utilization and efficiency; and which simplify and accelerate software deployment by enabling pre-configured software images to be created and rapidly deployed onto virtualized servers;  
+
+   ¡      Oracle operating systems and management, which include Oracle Solaris and Oracle Linux, which are the foundation for building, deploying and managing IaaS clouds and provide secure, reliable operating environments for SPARC and x86 servers; and,  
+
+   ¡      Oracle Enterprise Manager, which is designed to provide a complete management solution for clouds from application to diskincluding IaaS and PaaS offeringsand enables customers to plan and set up clouds; package, test and deploy applications on clouds; manage and monitor clouds and applications on clouds; and meter, charge and optimize clouds over time; and  
+
+       Our Oracle hardware product portfolio, which includes our Oracle Engineered Systems hardware, our SPARC and x86 based servers, and our storage and networking products, and which provides the underlying mission-critical infrastructure for Oracles various cloud offerings and our customers and partners private and public cloud offerings, including software-as-a-service (SaaS, software that we offer on a subscription basis and deliver as a service to customers that includes access, hosting,  
+
+4  
+
+Table of Contents 
+
+     infrastructure management, the use of software updates and support), platform-as-a-service (PaaS, an application development and deployment platform delivered as a service to developers who use the platform to build, deploy and manage applications) and infrastructure-as-a-service (IaaS, which consists of computing servers, storage and networking delivered as a service) clouds.  
+
+Oracle Cloud  
+
+Oracle Cloud is a family of our cloud-based software subscription offerings that provides our customers and partners subscription-based, self-service access to certain of our database and middleware, and applications software. Oracle Cloud provides many common services including: resource management and isolation, security, data exchange and integration, virus scanning, and centralized self-service monitoring.  
+
+Oracle Cloud provides customers with flexible deployment models to run our business applications in cloud computing or on-premise IT environments, and includes Oracle Fusion CRM Cloud Service, Oracle Fusion HCM Cloud Service and the Oracle Social Network. We also offer certain software applications via subscription-based, cloud computing delivery models including Oracle RightNow Customer Experience and Oracle Taleo Talent Management Cloud Service, among others.  
+
+Oracle Cloud also provides our software platforms as services including Oracle Java Cloud Service and Oracle Database Cloud Service. Oracle Java Cloud Service provides customers with an open, standards-based Java application development and deployment platform built on Oracles WebLogic Server functionality in a cloud environment that we manage and offer to customers via a subscription-based arrangement. Customers and partners are able to use standard Java Integrated Development Environments such as Oracle JDeveloper, NetBeans and Eclipse to create applications that can then be deployed on the Oracle Java Cloud Service. Oracle Database Cloud Service provides customers with Oracle Database functionality in a cloud environment that we manage and offer to customers via a subscription-based arrangement. Oracle Database Cloud Service includes the Oracle Application Express (APEX) application development environment and a set of business productivity applications that are designed to be easy to use and can be quickly provisioned.  
+
+Oracle Engineered Systems  
+
+An important element of our corporate strategy and product development efforts is to engineer our hardware and software products together to deliver efficiencies that simplify our customers IT environments; provide increased IT performance, reliability, and security; and free up resources that customers can use to invest in innovation and competitive differentiation. Oracle Engineered Systems are a part of our hardware systems segment, and are pre-integrated products engineered to include multiple elements of Oracle software and hardware products. Oracle Engineered Systems provide the foundation for IT consolidation and cloud computing, and are designed to deliver high performance and scalability; provide faster time to production; reduce data storage costs; and enable customers to efficiently purchase, deploy and support their IT environments. All Oracle Engineered Systems are tested in the factory and delivered ready to run. These pre-integrated products are also designed to be upgraded effectively and efficiently. As integrated systems, Oracle Engineered Systems simplify routine maintenance, such as software patching, by providing a single solution that covers the entire system. Oracle Engineered Systems include Oracle Exadata Database Machine, Oracle Exalogic Elastic Cloud, Oracle Exalytics In-Memory Machine, SPARC SuperCluster, Oracle Database Appliance, and Oracle Big Data Appliance.  
+
+Oracle Exadata Database Machine  
+
+Oracle Exadata Database Machine is a family of integrated software and hardware products that combines our database, storage and operating system software with our server, storage and networking hardware. Oracle Exadata Database Machine is designed to enable customers to consolidate databases, manage large volumes of data, improve query response times, and reduce costs by improving data storage and using fewer IT resources.  
+
+Oracle Exalogic Elastic Cloud  
+
+Oracle Exalogic Elastic Cloud is an engineered system that combines Oracle Fusion Middleware software with our hardware to run Java and non-Java applications and provide customers with an applications platform for cloud computing. Oracle Exalogic Elastic Cloud is designed to improve the performance of applications that run  
+
+5  
+
+Table of Contents 
+
+ on it and enable customers to consolidate multiple applications onto a single system that is designed to be scalable, reliable and secure.  
+
+Oracle Exalytics In-Memory Machine  
+
+The Oracle Exalytics In-Memory Machine is a single server that is designed to be configured for in-memory analytics for business intelligence workloads. The Oracle Exalytics In-Memory Machine features an optimized Oracle Business Intelligence Foundation Suite and Oracle TimesTen In-Memory Database. The Oracle Business Intelligence Foundation Suite takes advantage of large memory, processors, storage, networking, operating system and system configuration of the Oracle Exalytics hardware. This optimization is designed to provide better query responsiveness, higher user scalability and lower total cost of ownership.  
+
+SPARC SuperCluster  
+
+Our SPARC SuperCluster is a general purpose engineered system that combines the computing power of our SPARC processor, the performance and scalability of Oracle Solaris, the optimized database performance of Oracle Exadata storage and the accelerated middleware processing of the Oracle Exalogic Elastic Cloud. Oracle SPARC SuperCluster is designed to provide the scalability and performance demanded by a wide range of Oracle and non-Oracle enterprise workloads. It is an ideal mission-critical consolidation platform that is designed to run multiple tiers, from database to middleware to application, and to support multiple applications and operating systems side by side. SPARC SuperCluster enables faster deployment, increased systems utilization and reduced data center space and energy requirements.  
+
+Oracle Database Appliance  
+
+Oracle Database Appliance is an integrated, fault resilient system of software, servers, storage and networking in a single box that is designed to deliver high-availability database services for a wide range of homegrown and packaged online transaction processing (OLTP) and data warehousing applications. The Oracle Database Appliance is designed to enable enterprises to consolidate OLTP and data warehousing databases up to four terabytes in size.  
+
+Oracle Big Data Appliance  
+
+Oracle Big Data Appliance is an engineered system designed for acquiring, organizing and loading unstructured data into an Oracle database. By integrating the key components of a big data platform into a single product, Oracle Big Data Appliance is a scalable and supported big data infrastructure that reduces the risks of a custom built solution. Built using our industry-standard hardware, Oracle Big Data Appliance is installed and configured for high performance and availability.  
+
+Software, Hardware Systems and Services Businesses  
+
+Software Business  
+
+Our software business consists of our new software licenses segment and software license updates and product support segment.  
+
+New Software Licenses  
+
+The new software licenses operating segment of our software business primarily includes the licensing of database and middleware software, as well as applications software.  
+
+Our software solutions are designed to help customers reduce the cost and complexity of their IT infrastructures by delivering solutions via an industry standards-based, integrated architecture. This standards-based architecture enables our software to work in customer environments that may include Oracle or non-Oracle hardware or software components. This approach is designed to support customer choice, to reduce customer risk and to be adapted to the specific needs of any industry or application. In this model, our database and certain of our middleware offerings are designed to manage and protect a customers underlying business information, while  
+
+6  
+
+Table of Contents 
+
+ application servers run enterprise applications that are designed to automate multiple business functions and provide intelligence in critical functional areas. Our software products are designed to operate on both single server and clustered server configurations for on-premise or cloud computing IT environments and to support a choice of operating systems, including, for example, Oracle Solaris, Oracle Linux, Microsoft Windows and third party UNIX products.  
+
+New software license revenues represented 27%, 26% and 28% of total revenues in fiscal 2012, 2011 and 2010, respectively.  
+
+Database and Middleware Software  
+
+Our database and middleware software provide a range of offerings that are designed to provide a cost-effective, high-performance platform for running and managing business applications for midsize businesses, as well as large, global enterprises. Our customers are increasingly focused on reducing the total cost of their IT infrastructure and we believe that our software offerings help them achieve this goal. Our software is designed to accommodate demanding, non-stop business environments using clustered middleware and database servers and storage. These clusters are designed to scale incrementally as required to address our customers IT capacity, satisfy their planning and procurement needs, support their business applications with a standardized platform architecture, reduce their risk of data loss and IT infrastructure downtime and efficiently utilize available IT resources to meet quality of service expectations.  
+
+New software license revenues from database and middleware products represented 70% of our new software license revenues in fiscal 2012 and 72% in each of fiscal 2011 and 2010.  
+
+Database Software  
+
+Oracle Database software is the worlds most popular enterprise database software. It is designed to enable reliable and secure storage, retrieval and manipulation of all forms of data, including: transactional data, business information, and analytics; semi-structured and unstructured data in the form of weblogs, text, social media feeds, XML files, office documents, images, video and spatial images; and other specialized forms of data, such as human genomic and medical data. Oracle Database software is used for a variety of purposes, including packaged applications, custom application development, OLTP applications, data warehousing and business intelligence, and as a document repository or specialized data store.  
+
+Oracle Database software is available in four editions: Enterprise Edition, Standard Edition, Standard Edition One and Express Edition. All editions are built using the same underlying code, which means that our database software can scale from small, single processor servers to clusters of multi-processor servers and our Oracle Exadata Database Machines.  
+
+We also offer customers in-memory database software, including Oracle TimesTen In-Memory, the worlds most popular in-memory database, and Oracle In-Memory Database Cache. Oracle TimesTen In-Memory Database is designed to deliver real-time data management and transaction processing speeds for performance-critical applications, from complex analytical queries and speed-of-thought data visualization, to mission-critical, industry-specific applications such as call centers, trading platforms, reservation systems, and smart meters. Oracle TimesTen In-Memory Database supports multiple computing platforms, is compatible with Oracle Database software, and can work as a standalone database at the applications tier. Oracle In-Memory Database Cache acts as a high performance cache for Oracle Database Enterprise Edition and is used to provide immediate access to historical data in existing Oracle Databases that are frequently accessed such as customer and user lists, open orders, and product catalogs.  
+
+A number of optional add-on products are available with Oracle Database Enterprise Edition software to address specific customer requirements. In the areas of performance and scalability, we offer Oracle Real Application Clusters, Oracle Advanced Compression and Oracle Partitioning software options. In the area of data security, we offer Oracle Advanced Security, Oracle Database Vault, Oracle Audit Vault and Oracle Database Firewall software options.  
+
+7  
+
+Table of Contents 
+
+In addition to the four editions of Oracle Database, we also offer a portfolio of specialized database software products to address particular customer requirements, including:  
+
+       MySQL, the worlds most popular open source database, designed for high performance and scalability of web applications and embedded applications, available in Enterprise, Standard, Classic, Cluster and Community editions;  
+
+       Oracle Berkeley DB, a family of open source, embeddable, relational, XML and key-value (NoSQL) databases designed for developers to embed within their applications and devices; and  
+
+       Oracle NoSQL Database, a distributed key-value database designed for high availability and massive scalability of high volume transaction processing with predictable low-latency.  
+
+Middleware Software  
+
+Oracle Fusion Middleware software is a broad family of integrated application infrastructure software products that is designed to form a reliable and scalable foundation on which customers can build, deploy, secure, access and integrate business applications and automate their business processes. Built with Oracles Java technology platform, Oracle Fusion Middleware products can be used as a foundation for custom, packaged and composite applicationsor applications that can be deployed in private or public cloud environments.  
+
+Oracle Fusion Middleware software is designed to protect customers IT investments and work with both Oracle and non-Oracle database, middleware and applications software through its open architecture and adherence to industry standards such as Java Enterprise Edition (Java EE) and Business Process Execution Language (BPEL), among others.  
+
+By using Oracle Fusion Middleware software, we believe customers can better adapt to business changes rapidly, reduce their risks related to security and compliance, increase user productivity and drive better business decisions. Specifically, Oracle Fusion Middleware software is designed to enable customers to integrate heterogeneous business applications, automate business processes, scale applications to meet customer demand, simplify security and compliance, manage lifecycles of documents and get actionable, targeted business intelligence; all while continuing to utilize their existing IT systems. In addition, Oracle Fusion Middleware software supports multiple development languages and tools, which enables developers to build and deploy web services, websites, portals and web-based applications.  
+
+Oracle Fusion Middleware software is used to integrate, extend, rapidly configure and secure enterprise applications. Oracle Fusion Middleware integrates with Oracle Applications as well as other third party applications, including applications in clouds. Oracle Fusion Middleware software is also the foundation for Oracle Fusion Applicationsproviding customers greater benefits from a unified application platform.  
+
+Oracle Fusion Middleware software is available in various software products and suites, including the following functional areas:  
+
+       Application Server and Cloud Application Foundation;  
+
+       Service-Oriented Architecture and Business Process Management;  
+
+       Business Intelligence;  
+
+       Identity and Access Management;  
+
+       Data Integration;  
+
+       Web Experience Management, Portals, Content Management and Social Networks; and  
+
+       Development Tools.  
+
+Application Server and Cloud Application Foundation  
+
+The foundation of Oracle Fusion Middleware software is Oracle WebLogic Serveran application server that is compliant with the Java EE specification. Oracle WebLogic Server incorporates clustering and caching technology,  
+
+8  
+
+Table of Contents 
+
+ which increases application reliability, performance, security and scalability. In addition to Oracle WebLogic, Oracle combines cloud infrastructure components into the Oracle cloud application foundation, including Oracle Virtual Assembly Builder, Oracle Coherence, Oracle JRockit, Oracle Tuxedo and Oracle GlassFish Server.  
+
+Oracle Virtual Assembly Builder works with Oracle WebLogic Server to increase the efficiency of application virtualization and to enable users to quickly and easily design and deploy multi-tier applications to virtualized IT environments, both conventional and cloud. Oracle Coherence is an in-memory data grid solution that enables organizations to predictably scale applications by providing fast and reliable access to frequently used data. Oracle JRockit is a high performance Java Virtual Machine designed to run Java applications on multi-core processors with higher and more predictable performance. Oracle Tuxedo runs legacy, mainframe and non-Java applications written in the C, C++ and COBOL languages that have transaction reliability, scalability and performance requirements. Oracle GlassFish Server enhances the value of Oracle Fusion Middleware software for developers by accelerating development practices and decreasing application time-to-market.  
+
+Service-Oriented Architecture and Business Process Management  
+
+Service-Oriented Architecture is a software development and architecture methodology that creates a modular, re-usable approach to applications development; makes it easy to integrate systems with each other; and reduces the need for costly custom development. Oracle SOA Suite is a suite of middleware software products used to create, deploy and manage applications on a Service-Oriented Architecture including Oracle JDeveloper, Oracle BPEL Process Manager, Oracle Web Services Manager, Oracle Business Rules, Oracle Business Activity Monitoring and Oracle Service Bus. Oracle Business Process Management Suite is a suite of software that is designed to enable business and IT professionals to design, implement, automate and evolve business processes and workflows within and across organizations. Oracle SOA Governance is designed to maintain the security and integrity of our customers SOA deployments.  
+
+Business Intelligence  
+
+Oracle Business Intelligence (BI) is a comprehensive set of analytic software products designed to provide customers with the information they need to make better business decisions. Oracles Business Intelligence software products include Oracle BI Suite Enterprise Edition, a comprehensive query and analysis server; Oracle Essbase, an online analytical processing server; Oracle BI Publisher, a self-service production and operational reporting tool; and Oracle Real-Time Decisions, a real-time data classification and optimization solution. Users can access these tools from a variety of user interfaces including browser-based interactive dashboards; ad hoc query and analysis; proactive detection and alerts integrated with e-mail; Microsoft Office integration including support for Excel, Word and PowerPoint; and mobile analytics for mobile and smart phones.  
+
+Identity and Access Management  
+
+Oracles identity and access management software products are designed to enable customers to manage internal and external users, secure corporate information from potential software threats and streamline compliance initiatives while lowering the total cost of their security and compliance initiatives. These software products include a lightweight directory access protocol (LDAP) directory service to store and manage user identities and policies; identity provisioning to provision users and roles in multiple enterprise applications and systems; access management to manage access control and entitlements for customers, partners and employees; and identity analytics to audit and identify users attempting to access systems for which they are not authorized.  
+
+Data Integration  
+
+Oracles data integration offerings consist of Oracle GoldenGate, Oracle Data Integrator and Oracle Enterprise Data Quality products. Oracle GoldenGate is a high performance data movement and continuous availability solution designed to capture transaction records on one system and to move and apply them to other systems with low impact on system and network performance. Oracle Data Integrator is an extract-transform-load (ETL) solution that enables users to extract data from one system, transform it from the source systems format to a target systems format and load it into the target system (such as a data warehouse). Oracle Data Integrator also  
+
+9  
+
+Table of Contents 
+
+ includes big data capabilities to transform and load unstructured data from non-Oracle environments into Oracle Database or Oracle Exadata. Additionally, Oracle Enterprise Data Quality enables users to profile any type of data (customer or product-oriented) and to clean it using a variety of automated matching and cleansing rules making the data more reliable and more accurate.  
+
+Web Experience Management, Portals, Content Management and Social Networks  
+
+Oracle WebCenter is designed to deliver a complete user engagement platform for social business, connecting people and information. It brings together a broad portfolio of portal, web experience management, content, social and collaboration technologies into a single product suite. Oracle WebCenter is designed to improve customer loyalty and sales by helping marketing-driven organizations deliver contextual and targeted web experiences to users and give employees readily available access to information and applications in the context of an interaction and business process through portals and composite applications. Oracle WebCenter helps people work together more efficiently through contextual collaboration tools that optimize connections among people, information and applications while ensuring users have access to the right information in the context of their daily business processes.  
+
+Oracle WebCenter Content is an enterprise content management software suite that is designed to enable users to capture, manage and publish information that is either unstructured, not easily readable or has not been stored, including documents, images, audio, video and a wide variety of other forms of digital content. Oracle WebCenter Sites enables marketers and business users to easily create and manage contextually relevant, social and interactive online experiences across multiple channels on a global scale. Oracle WebCenter Portal is a portal and composite applications solution that is designed to deliver intuitive user experiences for the enterprise that are seamlessly integrated with enterprise applications. Oracle WebCenter social, which includes Oracle Social Network and Oracle WebCenter Real-Time Collaboration, enables secure social networking and enterprise collaboration tools for the enterprise.  
+
+Development Tools  
+
+Oracle JDeveloper is an integrated software environment that is designed to facilitate rapid development of a variety of different types of applications using Oracle Fusion Middleware software and popular open source technologies. Oracle JDeveloper software provides support for developing Java applications; web services, composite SOA applications and business processes; rich user interfaces using AJAX/DHTML and Flash technologies; and websites using popular scripting languages. Oracle JDeveloper software also provides comprehensive application lifecycle management facilities including modeling, building, debugging, unit testing, profiling and optimizing applications and is integrated with the Oracle Application Development Framework software, which provides a declarative framework for building business applications and popular open source tools, including Eclipse and NetBeans.  
+
+Java  
+
+Java is the computer industrys most widely-used software development language and is viewed as a global standard. The Java programming language and platform together represent one of the most popular and powerful development environments in the world, one that is used by millions of developers globally to develop business applications. Oracle Fusion Middleware software products and Oracle Fusion Applications are built using our Java technology platform, which we believe is a key advantage for our business.  
+
+Java is designed to enable developers to write software on a single platform and run it on many other different platforms, independent of operating system and hardware architecture. Java has been adopted by both independent software vendors (ISV) that have built their products on Java and by enterprise organizations building custom applications or consuming Java-based ISV products.  
+
+For customers, the Java platform is designed to enable a variety of compatible applications, independent of their vendor, and to support a global community of Java developers, support engineers and knowledge bases that can help customers reduce the risk of and time to deployment as well as the ongoing cost of ownership and maintenance.  
+
+10  
+
+Table of Contents 
+
+There are three primary editions of Java (Standard, Enterprise and Micro) that support a broad spectrum of usage ranging from mobile phones to desktop computers to server applications. Java can also be found embedded in a variety of devices and machines, including printers, cars, airplanes, tablets, DVD players, set-top boxes, pens, smart meters and bank ATM machines; and JavaCard is designed for specialized use in smart cards. Certain of our products are built primarily to enable customers to run Java applications on and with them, such as Oracle WebLogic Server and Oracle Coherence. Many more of our products are built with and rely on Java, such as the Oracle Fusion Middleware software product family and Oracle Fusion Applications. We expect to continue to innovate and invest in Java technology for the benefit of customers and the Java community.  
+
+Management Software  
+
+Oracle Enterprise Manager is Oracles integrated enterprise IT management and cloud management family of products. Oracle Enterprise Manager is designed to combine the self-management capabilities built into Oracle products with its business-driven IT management capabilities to deliver a holistic approach to IT management across the entire Oracle technology portfolio, including Oracle Database and Oracle Exadata, Oracle Fusion Middleware and Oracle Exalogic Elastic Cloud, Oracle Applications, Oracle Solaris, Oracle Linux, Oracle VM and our complete hardware portfolio. Oracle Enterprise Manager is designed to manage Oracles software and hardware portfolio whether deployed using traditional IT architectures or in cloud computing architectures. In both cases, Oracle Enterprise Manager is designed to provide a complete IT lifecycle management approach, including configuring elements of an IT environment, monitoring service levels; diagnosing and troubleshooting problems, patching and provisioning IT environments, managing compliance reporting, and providing change management in a unified way across physical and virtualized IT environments.  
+
+Virtualization Software  
+
+Oracle VM is server virtualization software for both Oracle SPARC and x86-based servers, and supports both Oracle and non-Oracle applications. Oracle VM software is designed to enable different applications to share a single physical system for higher utilization and efficiency, and simplify software deployment by enabling pre-configured software images to be created and rapidly deployed without installation or configuration errors.  
+
+Applications Software  
+
+Oracle Applications are designed using an industry standards-based, integrated architecture to manage and automate core business functions across the enterprise, as well as help customers differentiate and innovate in those processes unique to their industries or organizations. Oracle Applications are also designed to reduce the risk, cost, and complexity of our customers IT infrastructures, while supporting customer choice and providing flexibility in deployment models and upgrade paths.  
+
+Through a focused strategy of investments in internal research and development and strategic acquisitions, we also provide industry-specific solutions for customers in a number of different industries, including communications, engineering and construction, financial services, health services, manufacturing, public sector, retail, and utilities. We continue to broaden the number of software applications that we offer on a subscription basis via a cloud computing environment to provide our customers with choice and flexibility in how they manage their software investments and software deployments. New software license revenues from applications software represented 30% of our new software license revenues in fiscal 2012 and 28% in each of fiscal 2011 and 2010.  
+
+Oracles Applications strategy provides customers with a secure path to adopt our latest technology advances which are designed to improve the customer software experience and enable better business performance. Central to that strategy is Oracles Applications Unlimited program, which is our commitment to customer choice through ongoing investment and innovation in our current applications offerings. Oracle Fusion Applications build upon this commitment and are designed to work with and evolve customer investments in their existing applications portfolio. Oracle Lifetime Support helps ensure customers will continue to have a choice in upgrade paths based on their enterprise needs.  
+
+11  
+
+Table of Contents 
+
+We protect our customers current investments in Oracle Applications by delivering new product releases that incorporate customer-specific and industry-specific innovations across product lines. Since announcing our Applications Unlimited program in 2005, we have delivered major releases on all applications product lines by combining business functionality with innovative technologies such as role-based analytics, secure search, identity management, self-service and workflow to deliver adaptive industry processes, business intelligence and insights, and optimal end-user productivity.  
+
+Oracle Fusion Applications are part of a comprehensive suite of modular, next-generation software applications that enable efficient management of core business functions across the enterprise. Oracle Fusion Applications are designed using commercially-available technology standards such as Java and BPEL; the principles of SOA; and a common approach and architecture for the user experience, business intelligence, social networking and mobility. With their tailored user experience and embedded analytical capabilities, Oracle Fusion Applications are designed to increase user productivity and allow customers to manage functions across different environments more effectively. Using a SOA approach, Oracle Fusion Applications are engineered to provide customers with more flexibility to innovate and adopt next-generation technologies at their own pace, whether via one module, a product family, or an entire suite. Oracle Fusion Applications are engineered to be cloud-ready and thus offer flexible deployment options, including on-premise, public cloud, private cloud, or a combination of these options.  
+
+We also continue to offer and enhance Oracle Applications, including our Oracle E-Business Suite, Siebel, PeopleSoft, and JD Edwards product families. All Oracle Applications are enterprise-grade and based upon industry standards, and designed to automate core business processes and address industry-specific needs.  
+
+The primary applications software offerings include:  
+
+       Human Capital Management;  
+
+       Customer Relationship Management;  
+
+       Financials;  
+
+       Governance, Risk and Compliance (GRC);  
+
+       Procurement;  
+
+       Supply Chain Management (SCM);  
+
+       Enterprise Project Portfolio Management (EPPM) ;  
+
+       Enterprise Performance Management (EPM);  
+
+       Business Intelligence / Analytic Applications;  
+
+       Web Commerce; and  
+
+       Industry-Specific Applications.  
+
+Human Capital Management  
+
+We offer a broad portfolio of Human Resource and Talent Management applications, and flexible deployment options for on-premise or cloud computing IT environments. Our complete and integrated offerings provide core human resource transactions, workforce service automation and delivery, and complete enterprise talent management. Our global, web-based, single system architecture is designed for organizations of every size, industry and region. In fiscal 2012, we acquired Taleo Corporation, a leading provider of cloud-based talent management software that helps organizations attract, develop, motivate, and retain human capital. We believe our portfolio of HCM solutions creates a broad offering for organizations to manage their human resource operations and employee careers, either via cloud offerings such as Oracle Fusion HCM Cloud Service and Oracle Taleo Talent Management service; or on-premise solutions, including Oracle Fusion HCM (which is also cloud ready), Oracle E-Business Suite HCM, and PeopleSoft HCM.  
+
+12  
+
+Table of Contents 
+
+Customer Relationship Management  
+
+We offer a broad portfolio of CRM applications, including Siebel CRM, Oracle E-Business Suite CRM, PeopleSoft CRM, Oracle Fusion Applications for CRM, and Oracle RightNow CX Service Cloud, that are designed to help our customers manage their selling processes more efficiently; integrate marketing campaigns and content into their selling processes more effectively; and deliver high quality customer service across multiple channels, including call centers, web, and mobile devices. Our Oracle CRM On Demand and Siebel CRM offerings also provide many industry-specific features designed to support the specialized needs of users in key sectors, such as communications, consumer products, financial services, high technology, insurance, life sciences and the public sector. Customers may also elect to use our subscription-based CRM cloud offerings, including Oracle Fusion CRM Cloud Service and Oracle RightNow Customer Experience, among others.  
+
+Financials and Governance, Risk and Compliance  
+
+Our financial management and GRC solutions are designed to enable our customers to meet fiduciary and statutory requirements, more efficiently manage risk across a global enterprise, accelerate the credit-to-cash cycle of business transactions, track financial operations and cash flow through accounting and treasury functions and manage business performance. In addition to our portfolio of financial management applications from Oracle E-Business Suite, PeopleSoft, and JD Edwards, we also offer Oracle Fusion GRC, a component of the Oracle Fusion Applications suite, to provide unified intelligence and insight into all GRC activities, end-to-end support for cross-industry and industry-specific GRC processes, and automated controls that work across multiple business applications.  
+
+Procurement  
+
+We offer a broad portfolio of advanced procurement applications, including JD Edwards EnterpriseOne Supply Management, JD Edwards World Distribution Management and Supplier Self-Service, Oracle E-Business Suite Advanced Procurement, Oracle Fusion Procurement, and PeopleSoft Supplier Relationship Management, among others. These integrated procurement applications are designed to provide packaged integration to back-office applications that fully support source-to-settle processes for all categories of spend, including capital goods, direct materials, indirect goods and services. Our procurement applications also provide industry-specific capabilities and the flexibility to leverage applications on demand, on-premise or in any combination to achieve procurement objectives.  
+
+Supply Chain Management  
+
+We offer a broad portfolio of SCM applications, including Agile, Demantra, JD Edwards, Oracle E-Business Suite, and Oracle Fusion Applications, among others, that support supply chain management processes such as demand management, order management, supply chain planning, sales and operations planning, procurement and sourcing to product development, manufacturing, transportation and warehouse management. Our SCM software offerings are designed to provide our customers with the ability to forecast and fulfill demand for their products through end-to-end, integrated, yet modular software. For example, customers can use Demantra products to predict demand and market requirements; Agile products to manage the lifecycle of their products, innovate, and adapt them in response to volatile market conditions; Oracle Advanced Procurement products to optimize supplier and procurement networks and reduce costs; Oracle Fusion Order Orchestration to orchestrate and fulfill orders across global networks; and Oracle, PeopleSoft, and JD Edwards manufacturing applications to deploy lean, mixed-mode manufacturing with integrated manufacturing execution systems that meet both discrete and process requirements.  
+
+Enterprise Project Portfolio Management  
+
+We offer a broad portfolio of EPPM applications, including JD Edwards EnterpriseOne Project Management, Oracle E-Business Suites family of Oracle Projects, Oracle Fusion Project Portfolio Management, PeopleSoft Enterprise Service Automation, and Primavera Project Portfolio Management. Oracle EPPM applications target project-intensive industries such as engineering and construction, aerospace and defense, utilities, oil and gas,  
+
+13  
+
+Table of Contents 
+
+ manufacturing, professional services, and project-intensive departments within other industries. Our EPPM products help companies propose, prioritize and select project investments; and plan, manage and control the most complex projects and project portfolios. Additionally, our Primavera Project Portfolio Management family of products provides industry-specific solutions for project-intensive industries such as oil and gas, utilities, engineering and construction, aerospace and defense, and public sector. Through role-based user experience, embedded analytics, and collaborative tools, our EPPM solutions are designed to provide project stakeholders, project managers, and team members with the information needed to plan, mandate and deliver across the organization.  
+
+Enterprise Performance Management  
+
+Our Oracle Hyperion Performance Management suite of products are a modular set of integrated applications that integrate with both Oracle and non-Oracle transactional systems to help organizations automate, integrate and administer a broad range of financial and operational management processes. Our EPM applications include Hyperion Strategy Management; Hyperion Financial Close and Reporting; Hyperion Planning, Budgeting and Forecasting; and Hyperion Profitability and Cost Management. These applications enable organizations to define and model their financial structure, define their operating plans and manage financial budgets, allocate indirect revenues and costs to better understand business unit profitability, consolidate and aggregate financial results from a variety of systems, and manage the financial close and statutory reporting processes.  
+
+Business Intelligence / Analytic Applications  
+
+We provide packaged business intelligence applications for cross-industry business processes as well as industry-specific analytic applications. Each of our business intelligence applications features packaged data models, packaged ETL processes, packaged key performance indicators (KPIs), and packaged dashboards to deliver insight that is tailored for specific business processes. Our business intelligence applications are built on Oracles business intelligence technology, and source data from multiple versions of Oracles comprehensive portfolio of applications as well as from non-Oracle data sources. Our EPM and business intelligence applications, together with our business intelligence technology, enable us to offer our customers an integrated solution that spans planning and budgeting, financial management, operational analytics, and reporting.  
+
+Web Commerce  
+
+Our Web Commerce solutions are designed to enable enterprises to deliver a consistent, relevant and personalized cross-channel buying experience through catalog, merchandising, marketing, guided search and navigation, personalization, automated recommendations and live-help capabilities. By combining certain technologies that we have recently acquired including Art Technology Group, Inc.s and Endeca Technologies Inc.s Web Commerce software with our legacy Oracle and Siebel CRM software, we offer a unified cross-channel commerce and CRM platform, which is designed to enable businesses to deliver a consistent experience across a variety of different customer points of contact, including online, in-store, mobile, social and kiosk. This combined platform is designed to enable our customers to strengthen their customers loyalty, improve brand value, achieve better operating results, increase customer service and improve business response times across online and traditional commerce environments.  
+
+Industry-Specific Applications  
+
+Oracle Applications can be tailored to offer customers a variety of industry-specific solutions. As a part of our strategy, we strive to ensure that our applications portfolio addresses the major industry-influenced technology challenges of customers in key industries that we view as strategic to our future growth, including communications, consumer goods, education, energy, engineering and construction, financial services, healthcare, life sciences, manufacturing, professional services, public sector, retail, travel, transportation and utilities. For example, we offer the financial services sector a suite of applications addressing cash management, trade, treasury, payments, lending, private wealth management, asset management, compliance, enterprise risk and business analytics, among others. We offer the retail sector software solutions designed to provide unified and actionable data among store, merchandising and financial operations. Our applications for consumer goods  
+
+14  
+
+Table of Contents 
+
+ manufacturers are designed to provide them with the ability to build their brand against retail private label programs by engaging directly with the consumer. Our Public Sector solutions are designed to provide national and local governments with the ability to improve service delivery to citizens, increase internal efficiency and improve transparency. Our ability to offer applications to address industry-specific complex processes provides us an opportunity to expand our customers knowledge of our broader product offerings and address customer specific technology challenges.  
+
+Software License Updates and Product Support  
+
+We seek to protect and enhance our customers current investments in Oracle software by offering proactive and personalized support services, including our Lifetime Support policy and unspecified product enhancements and upgrades. Software license updates provide customers with rights to unspecified software product upgrades and maintenance releases and patches released during the term of the support period. Product support includes internet and telephone access to technical support personnel located in our global support centers, as well as internet access to technical content through My Oracle Support. Software license updates and product support contracts are generally priced as a percentage of the net new software license fees. Substantially all of our customers purchase software license updates and product support contracts when they acquire new software licenses and renew their software license updates and product support contracts annually. Our software license updates and product support revenues represented 43%, 42% and 49% of our total revenues in fiscal 2012, 2011 and 2010, respectively.  
+
+Hardware Systems Business  
+
+Our hardware systems business consists of two operating segments: hardware systems products and hardware systems support.  
+
+Hardware Systems Products  
+
+We provide a complete selection of hardware systems and related services including servers, storage, networking, virtualization software, operating systems, and management software to support diverse public and private cloud computing environments. We engineer our hardware systems with virtualization and management capabilities to enable the rapid deployment and efficient management of cloud infrastructures. Oracles hardware systems support many of the worlds largest public and private clouds, and power Oracles own internal cloud initiatives, including our software development private cloud and Oracle Universitys self-service private cloud.  
+
+Our hardware products and services are designed to be open, or to work in customer environments that may include other Oracle or non-Oracle hardware or software components. These products and services also help to meet customers demands to manage growing amounts of data and business requirements to meet increasing compliance and regulatory demands and to reduce energy, space and operational costs. We have also engineered our hardware systems products to create performance and operational cost advantages for customers when our hardware and software products are combined as Oracle Engineered Systems.  
+
+Our Oracle Engineered Systems include Oracle Exadata Database Machine, Oracle Exalogic Elastic Cloud, Oracle Exalytics In-Memory Machine, SPARC SuperCluster, Oracle Database Appliance and Oracle Big Data Appliance. By combining our server and storage hardware with our software, our open, integrated products better address customer and cloud computing requirements for performance, scalability, reliability, security, ease of management and lower total cost of ownership. Our hardware systems products represented 10%, 12% and 6% of our total revenues in fiscal 2012, 2011 and 2010, respectively.  
+
+Servers  
+
+We offer a wide range of server systems using our SPARC microprocessor. Our SPARC servers are differentiated by their reliability, security and scalability; and by the customer environments that they target (general purpose or specialized systems). Our midsize and large servers are designed to offer greater performance and lower total cost of ownership than mainframe systems for business critical applications and for customers having more computationally intensive needs. Our SPARC servers run the Oracle Solaris operating system and  
+
+15  
+
+Table of Contents 
+
+ are designed for the most demanding mission critical enterprise environments at any scale. SPARC servers are also a core component of the SPARC SuperCluster, one of our Oracle Engineered Systems.  
+
+We also offer enterprise x86 servers. These x86 servers are primarily based on microprocessor platforms from Intel Corporation (Intel) and are also compatible with Oracle Solaris, Oracle Linux, Microsoft Windows and other operating systems. Our x86 systems are also a core component of many of Oracle Engineered Systems, including Oracle Exadata Database Machine, Oracle Exalogic Elastic Cloud, Oracle Exalytics In-Memory Machine and Oracle Big Data Appliance.  
+
+Our Netra line of products are aimed at the unique needs of original equipment manufacturers (OEMs) and network equipment providers (NEPs). Rack-optimized systems and our blade product offerings combine high-density hardware architecture and system management software that OEMs find particularly useful in building their own solution architectures.  
+
+Storage 
+
+Our storage products are designed to securely manage, protect, archive and restore customers mission critical data assets and consist of tape, disk, hardware-related software including file systems software, back-up and archive software and storage management software and networking for mainframe and open systems environments. Our storage products are designed to improve data availability by providing fast data access and dynamic data protection for restoration and secure archiving for compliance. Our storage products are designed to work together, to work with Oracle software and to work with multi-vendor application and systems environments to maximize performance and efficiency while minimizing management overhead and reducing the total cost of ownership.  
+
+Our Sun ZFS Storage Appliance Network Attached Storage (NAS) offering is designed to provide improved performance, manageability and reduced total cost of ownership by combining third-generation software with high-performance controllers, flash-based caches and disks. Our Oracle Pillar Axiom Storage Area Network (SAN) system leverages a patented quality-of-service architecture designed to meet business critical service level agreements under dynamic, multi-application loads and enable customers to consolidate storage applications into a single data center storage solution.  
+
+Our tape storage product line includes StorageTEK libraries, drives, virtualization systems, media and device software. These products are intended to provide robust solutions for both long-term preservation and near-term protection of customer data at a lower total cost of ownership.  
+
+Oracle Solaris and Oracle Linux Operating Systems and Hardware-Related Software  
+
+The Oracle Solaris operating system is designed to provide a reliable, secure and scalable operating system environment through significant core feature development, networking, security and file system technologies as well as close integration with hardware features. This design provides us with an ability to combine Oracle Solaris with our own hardware components to achieve certain performance and efficiency advantages in comparison to our competitors. The Oracle Solaris operating system is based on the UNIX operating system, but is unique among UNIX systems in that it is available on our SPARC servers and x86 servers that are substantially based upon microprocessors from Intel. We also support Oracle Solaris deployed on other companies hardware products.  
+
+Oracle provides a broad virtualization solution from the desktop to the data center. Oracle Solaris 11 provides comprehensive, built-in virtualization capabilities for the operating system, network and storage resources. In addition to its built-in virtualization capabilities, Oracle Solaris 11 is engineered for server virtualization on both x86 and SPARC based systems.  
+
+The Oracle Linux operating system with Oracles Unbreakable Enterprise Kernel is a Linux operating system for enterprise workloads including databases, middleware and applications. Oracles Unbreakable Enterprise Kernel is designed to work well with Oracle products to patch core operating systems without downtime.  
+
+In addition to Oracle Solaris and Oracle Linux operating systems, we also develop a range of other hardware-related software, including development tools, compilers, management tools for servers and storage, diagnostic tools, virtualization, and file systems.  
+
+16  
+
+Table of Contents 
+
+Hardware Systems Support  
+
+Our hardware systems support offerings provide customers with software updates for the software components that are essential to the functionality of our server and storage products, such as Oracle Solaris and can include product repairs, maintenance services and technical support services. We continue to evolve hardware systems support processes that are intended to proactively identify and solve quality issues and to increase the amount of new hardware systems support contracts sold in connection with the sales of our hardware systems products. Hardware systems support contracts are generally priced as a percentage of the net hardware systems products fees. Our hardware systems support revenues represented 7% of our total revenues in each of fiscal 2012 and 2011 and 3% in fiscal 2010.  
+
+Services Business  
+
+We deliver an integrated services solution to help customers and partners maximize the performance of their investments in Oracle technology. Our services are differentiated based on our focus on Oracle technology, extensive experience and broad set of intellectual property and best practices. Our services business is comprised of the remainder of our operating segments and offers consulting services, managed cloud services and education services. Our services business represented 13% of our total revenues in each of fiscal 2012 and 2011 and 14% of our total revenues in fiscal 2010.  
+
+Consulting  
+
+Oracle Consulting is designed to help our customers more successfully architect and deploy our products. Our consulting services include business and IT strategy alignment, enterprise architecture planning and design, initial product implementation and integration and ongoing product enhancements and upgrades. Together, these services are designed to help our customers achieve their business goals, reduce the risk associated with their IT initiatives and maximize their return on investment. Oracle Consulting engages customers directly and provides specialized expertise to our global systems integrator partners. We utilize a global, blended delivery model to optimize value for our customers and partners, consisting of on-premise consultants from local geographies, industry specialists and consultants from our global delivery and solution centers.  
+
+Managed Cloud Services  
+
+Oracle managed cloud services provide comprehensive software and hardware management and maintenance servicesincluding deployment, management, monitoring, patching, security and upgrade servicesfor customers hosted at our Oracle data center facilities, select partner data centers, or physically on-premise at customer facilities. Additionally, we provide support services, both on-premise and remote, to Oracle customers to enable increased performance and higher availability of their products and services. We believe that our managed cloud services offerings provide our customers with greater value and choice through increased business performance, reduced risk, a predictable cost and more flexibility in terms of service in order to maximize the performance of their Oracle software and hardware products and services.  
+
+Education  
+
+We provide training to customers, partners and employees as a part of our mission of accelerating the adoption and use of our software and hardware products and to create opportunities to grow our product revenues. Our training is provided through a variety of formats, including instructor-led classes at our education centers, live virtual training, self-paced online training, training via CD-ROM, private events and custom training. Our live virtual class offerings allow students anywhere in the world to receive real-time, interactive training online. In addition, we also offer a certification program certifying database administrators, developers, implementers, consultants and architects.  
+
+Marketing and Sales  
+
+We directly market and sell our products and services to businesses of many sizes and in many industries, government agencies and educational institutions. We also market and sell our products through indirect channels. No single customer accounted for 10% or more of our total revenues in fiscal 2012, 2011 or 2010.  
+
+17  
+
+Table of Contents 
+
+In the United States, our sales and service employees are based in our headquarters and in field offices throughout the country. Outside the United States, our international subsidiaries sell and support our products in their local countries as well as within other foreign countries where we do not operate through a direct sales subsidiary. Our geographic coverage allows us to draw on business and technical expertise from a global workforce, provides stability to our operations and revenue streams to offset geography-specific economic trends and offers us an opportunity to take advantage of new markets for our products. Our international operations subject us to certain risks, which are more fully described in Risk Factors included in Item 1A. of this Annual Report. A summary of our domestic and international revenues and long-lived assets is set forth in Note 16 of Notes to Consolidated Financial Statements included elsewhere in this Annual Report.  
+
+We also market our products worldwide through indirect channels. The companies that comprise our indirect channel network are members of the Oracle Partner Network. The Oracle Partner Network is a global program that manages our business relationships with a large, broad-based network of companies, including independent software and hardware vendors, system integrators and resellers that deliver innovative solutions and services based upon our products. By offering our partners access to our premier products, educational information, technical services, marketing and sales support, the Oracle Partner Network program extends our market reach by providing our partners with the resources they need to be successful in delivering solutions to customers globally. The majority of our hardware systems products are sold through indirect channels including independent distributors and value added resellers.  
+
+Seasonality and Cyclicality  
+
+Our quarterly revenues have historically been affected by a variety of seasonal factors, including the structure of our sales force incentive compensation plans, which are common in the technology industry. Our total revenues and operating margins are typically highest in our fourth fiscal quarter and lowest in our first fiscal quarter. The operating margins of our businesses are generally affected by seasonal factors in a similar manner as our revenues (in particular, our new software licenses segment) as certain expenses within our cost structure are relatively fixed in the short term. See Selected Quarterly Financial Data in Item 7 of this Annual Report for a more complete description of the seasonality and cyclicality of our revenues, expenses and margins.  
+
+Competition  
+
+We face intense competition in all aspects of our business. The nature of the IT industry creates a competitive landscape that is constantly evolving as firms emerge, expand or are acquired, as technology evolves and as customer demands and competitive pressures otherwise change.  
+
+Our customers are demanding less complexity and lower total cost in the implementation, sourcing, integration and ongoing maintenance of their enterprise software and hardware systems. Our enterprise software and hardware offerings compete directly with some offerings from some of the largest and most competitive companies in the world, including Microsoft Corporation (Microsoft), International Business Machines Corporation (IBM), Intel, Hewlett-Packard Company (HP) and SAP AG, and smaller companies like Salesforce.com, as well as many others. In addition, the low barriers to entry in many of our market segments regularly introduce new technologies and new and growing competitors to challenge our offerings. Our competitors range from companies offering broad IT solutions across many of our lines of business to vendors providing point solutions, or offerings focused on a specific functionality, product area or industry. In addition, as we expand into new market segments, we will face increased competition as we will compete with existing competitors, as well as firms that may be partners in other areas of our business and other firms with whom we have not previously competed. Moreover, we or our competitors may take certain strategic actionsincluding acquisitions, partnerships and joint ventures, or repositioning of product lineswhich invite even greater competition in one or more product categories.  
+
+Key competitive factors in each of the segments in which we currently compete and may compete in the future include: total cost of ownership, performance, scalability, reliability, security, functionality, efficiency, ease of management and quality of technical support. Our product sales (and the relative strength of our products versus those of our competitors) are also directly and indirectly affected by the following, among other things:  
+
+       the adoption of SaaS, hosted or cloud software offerings;  
+
+       the adoption of commodity servers and microprocessors;  
+
+18  
+
+Table of Contents 
+
+       the broader platform competition between our industry standard Java technology platform and the .NET programming environment of Microsoft;  
+
+       operating system competition among, primarily, our Oracle Solaris operating system, Microsofts Windows Server, UNIX (including HP-UX from HP and AIX from IBM) and Linux;  
+
+       the adoption of open source alternatives to commercial software by enterprise software customers;  
+
+       products, features and functionality developed internally by customers and their IT staff;  
+
+       products, features or functionality customized and implemented for customers by consultants, systems integrators or other third parties; and  
+
+       attractiveness of offerings from business processing outsourcers.  
+
+For more information about the competitive risks we face, refer to Item 1A. Risk Factors.  
+
+Manufacturing  
+
+To produce our hardware systems products, we rely on both our internal manufacturing operations as well as third party manufacturing partners. Our internal manufacturing operations consist primarily of final assembly, test and quality control of our enterprise and data center servers and storage systems. For substantially all other manufacturing, we rely on third party manufacturing partners. We distribute most of our hardware systems products either from our facilities or partner facilities. Our manufacturing processes are based on standardization of components across product types, centralization of assembly and distribution centers and a build-to-order methodology in which products generally are built only after customers have placed firm orders. Production of our hardware products requires that we purchase materials, supplies, product subassemblies and full assemblies from a number of vendors. For most of our hardware products, we have existing alternate sources of supply or such sources are readily available. However, we do rely on sole sources for certain of our hardware products. As a result, we continue to evaluate potential risks of disruption to our supply chain operations. Refer to Risk Factors included in Item 1A. within this Annual Report for additional discussion of the challenges we encounter with respect to the sources and availability of supplies for our products and the related risks to our business.  
+
+Research and Development  
+
+We develop the substantial majority of our products internally. In addition, we have extended our product offerings and intellectual property through acquisitions of businesses and technologies. We also purchase or license intellectual property rights in certain circumstances. Internal development allows us to maintain technical control over the design and development of our products. We have a number of United States and foreign patents and pending applications that relate to various aspects of our products and technology. While we believe that our patents have value, no single patent is essential to us or to any of our principal business segments. Research and development expenditures were $4.5 billion in each of fiscal 2012 and 2011 and $3.3 billion in fiscal 2010, or 12%, 13% and 12% of total revenues in fiscal 2012, 2011 and 2010, respectively. Rapid technological advances in hardware and software development, evolving standards in computer hardware and software technology, changing customer needs and frequent new product introductions and enhancements characterize the software and hardware markets in which we compete. We plan to continue to dedicate a significant amount of resources to research and development efforts to maintain and improve our current product and services offerings.  
+
+Employees  
+
+As of May 31, 2012, we employed approximately 115,000 full-time employees, including approximately 30,000 in sales and marketing, approximately 9,000 in software license updates and product support, approximately 1,000 in the manufacturing of our hardware systems products, approximately 6,000 in hardware systems support, approximately 26,000 in services, approximately 32,000 in research and development and approximately 11,000 in general and administrative positions. Of these employees, approximately 42,000 were located in the United States and approximately 73,000 were employed internationally. None of our employees in the United States is represented by a labor union; however, in certain foreign subsidiaries workers councils represent our employees.  
+
+19  
+
+Table of Contents 
+
+Available Information  
+
+Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to reports filed pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as amended, are available, free of charge, on our Investor Relations web site at www.oracle.com/investor as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC. The information posted on our web site is not incorporated into this Annual Report.  
+
+Executive Officers of the Registrant  
+
+Our executive officers are listed below.  
+
+  [DATA_TABLE_REMOVED] 
+
+Mr. Ellison, 67, has been Chief Executive Officer and a Director since he founded Oracle in June 1977. He served as Chairman of the Board from May 1995 to January 2004.  
+
+Mr. Henley, 67, has served as Chairman of the Board since January 2004 and as a Director since June 1995. He served as Executive Vice President and Chief Financial Officer from March 1991 to July 2004.  
+
+Ms. Catz, 50, has been a President since January 2004, Chief Financial Officer most recently since April 2011 and has served as a Director since October 2001. She was previously Chief Financial Officer from November 2005 until September 2008 and Interim Chief Financial Officer from April 2005 until July 2005. Prior to being named President, she held various other positions with us since joining Oracle in 1999. She also currently serves as a director of HSBC Holdings plc.  
+
+Mr. Hurd, 55, has been a President and served as a Director since September 2010. Prior to joining us, he served as Chairman of the Board of Directors of HP from September 2006 to August 2010 and as Chief Executive Officer, President and a member of the Board of Directors of HP from April 2005 to August 2010.  
+
+Mr. Fowler, 51, has been Executive Vice President, Systems since February 2010. Prior to joining us, Mr. Fowler served as Sun Microsystems, Inc.s Executive Vice President, Systems Group from May 2006 to February 2010, as Executive Vice President, Network Systems Group from May 2004 to May 2006, as Chief Technology Officer, Software Group from July 2002 to May 2004 and Director, Corporate Development from July 2000 to July 2002.  
+
+Mr. Kurian, 45, has been Executive Vice President, Product Development since July 2009. He served as Senior Vice President of Development from February 2001 until July 2009. Mr. Kurian worked in Oracle Server Technologies as Vice President of Development from March 1999 until February 2001. He also held various other positions with us since joining Oracle in 1996.  
+
+Ms. Daley, 53, has been Senior Vice President, General Counsel and Secretary since October 2007. She served as Vice President, Legal, Associate General Counsel and Assistant Secretary from June 2004 to October 2007, as Associate General Counsel and Assistant Secretary from October 2001 to June 2004, and as Associate General Counsel from February 2001 to October 2001. She held various other positions with us since joining Oracles Legal Department in 1992.  
+
+Mr. West, 50, has been Senior Vice President, Corporate Controller and Chief Accounting Officer since February 2008 and was Vice President, Corporate Controller and Chief Accounting Officer from April 2007 to February 2008. His previous experience includes 14 years with Arthur Andersen LLP, most recently as a partner.  
+
+20  
+
+Table of Contents 
+
+Item 1A. Risk Factors

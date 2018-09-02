@@ -1,0 +1,53 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk   
+
+Quantitative and Qualitative Disclosures about Market Risk  
+
+Financial Instruments  
+
+Financial instruments that potentially subject us to concentrations of credit risk consist principally of temporary cash investments, marketable securities and accounts receivable. We believe we had no significant concentrations of credit risk as of January 3, 2010.  
+
+We use derivative instruments as part of our risk management strategy only, and include derivatives utilized as economic hedges that are not designated as hedging instruments. By nature, all financial instruments involve market and credit risks. We enter into derivative instruments with major investment grade financial institutions and have policies to monitor the credit risk of those counterparties. We do not enter into derivative contracts for trading or other speculative purposes, nor do we use leveraged financial instruments. Approximately 60% of our business is conducted outside of the United States, generally in foreign currencies. The fluctuations in foreign currency can increase the costs of financing, investing and operating the business. The intent of these economic hedges is to offset gains and losses that occur on the underlying exposures from these currencies, with gains and losses resulting from the forward currency contracts that hedge these exposures.  
+
+In the ordinary course of business, we enter into foreign exchange contracts for periods consistent with our committed exposures to mitigate the effect of foreign currency movements on transactions denominated in foreign currencies. Transactions covered by hedge contracts include intercompany and third-party receivables and payables. The contracts are primarily in European and Asian currencies, have maturities that do not exceed 12 months, have no cash requirements until maturity, and are recorded at fair value on the consolidated balance sheets. Unrealized gains and losses on our foreign currency contracts are recognized immediately in earnings for hedges designated as fair value and, for hedges designated as cash flow, the related unrealized gains or losses are deferred as a component of other comprehensive (loss) income in the accompanying consolidated balance sheets. Deferred gains and losses are recognized in income in the period in which the underlying anticipated transaction occurs and impacts earnings. We did not have any outstanding cash flow hedges during fiscal year 2009.  
+
+61  
+
+Table of Contents 
+
+Principal hedged currencies include the British Pound (GBP), Canadian Dollar (CAD), Euro (EUR), Japanese Yen (JPY), and Singapore Dollar (SGD). We held forward foreign exchange contracts with U.S. equivalent notional amounts totaling $168.5 million at January 3, 2010 and $160.8 million at December 28, 2008, and the approximate fair value of these foreign currency derivative contracts was insignificant. The gains and losses realized on foreign currency derivative contracts are not material. The duration of these contracts was generally 30 days during fiscal years 2009, 2008 and 2007.  
+
+We entered into forward interest rate contracts in October 2007, with notional amounts totaling $300.0 million and a weighted average interest rate of 4.25%, that were intended to hedge movements in interest rates prior to our expected debt issuance. In May 2008, we settled forward interest rate contracts with notional amounts totaling $150.0 million upon the issuance of our 6% senior unsecured notes, and recognized $8.4 million, net of taxes of $5.4 million, of accumulated derivative losses in other comprehensive (loss) income. During the fourth quarter of fiscal year 2008, we concluded that the remaining portion of the expected debt issuance, with a notional amount totaling $150.0 million, was no longer probable. As a result of the debt issuance no longer being probable, we discontinued and settled the forward interest rate contracts with notional amounts totaling $150.0 million and recognized a loss of $17.5 million, in interest and other expense, net. As of January 3, 2010, the balance remaining in accumulated other comprehensive (loss) income related to the effective cash flow hedges was $6.5 million, net of taxes of $4.2 million. The derivative losses are being amortized into interest expense when the hedged exposure affects interest expense. We amortized into interest expense $2.0 million during fiscal year 2009 and $1.2 million during fiscal year 2008 for these derivative losses.  
+
+Market Risk  
+
+Market Risk. We are exposed to market risk, including changes in interest rates and currency exchange rates. To manage the volatility relating to these exposures, we enter into various derivative transactions pursuant to our policies to hedge against known or forecasted market exposures.  
+
+Foreign Exchange Risk. The potential change in foreign currency exchange rates offers a substantial risk to us, as approximately 60% of our business is conducted outside of the United States, generally in foreign currencies. Our risk management strategy currently uses forward contracts to mitigate certain balance sheet foreign currency transaction exposures. The intent is to offset gains and losses that occur on the underlying exposures, with gains and losses resulting from the forward contracts that hedge these exposures. Moreover, we are able to partially mitigate the impact that fluctuations in currencies have on our net income as a result of our manufacturing facilities located in countries outside the United States, material sourcing and other spending which occur in countries outside the United States, resulting in a natural hedge.  
+
+Although we attempt to manage our foreign currency exchange risk through the above activities, when the U.S. dollar weakens against other currencies in which we transact business, generally sales and net income will be positively but not proportionately impacted.  
+
+Foreign Currency RiskValue-at-Risk Disclosure. We utilize a Value-at-Risk model to determine the potential earning/fair value exposures presented by our foreign currency related financial instruments. As discussed above, we seek to minimize this exposure through our hedging program. Our Value-at-Risk computation is based on the Monte Carlo simulation, utilizing a 95% confidence interval and a holding period of 30 days. As of January 3, 2010, this computation estimated that there is a 5% chance that the market value of the underlying exposures and the corresponding derivative instruments either increase or decrease due to foreign currency fluctuations by more than $0.4 million. This Value-At-Risk measure is consistent with our financial statement disclosures relative to our foreign currency hedging program. Specifically, during each of the four quarters ended in fiscal year 2009, the Value-At-Risk ranged between $0.4 million and $0.9 million, with an average of approximately $0.5 million.  
+
+Interest Rate Risk. As described above, our debt portfolio includes variable rate instruments. Fluctuations in interest rates can therefore have a direct impact on both our short-term cash flows, as they relate to interest, and  
+
+62  
+
+Table of Contents 
+
+ our earnings. To manage the volatility relating to these exposures, we periodically enter into various derivative transactions pursuant to our policies to hedge against known or forecasted interest rate exposures.  
+
+We entered into forward interest rate contracts in October 2007, with notional amounts totaling $300.0 million and a weighted average interest rate of 4.25%, that were intended to hedge movements in interest rates prior to our expected debt issuance. In May 2008, we settled forward interest rate contracts with notional amounts totaling $150.0 million upon the issuance of our 6% senior unsecured notes, and recognized $8.4 million, net of taxes of $5.4 million, of accumulated derivative losses in other comprehensive (loss) income. During the fourth quarter of fiscal year 2008, we concluded that the remaining portion of the expected debt issuance, with a notional amount totaling $150.0 million, was no longer probable. As a result of the debt issuance no longer being probable, we discontinued and settled the forward interest rate contracts with notional amounts totaling $150.0 million and recognized a loss of $17.5 million, in interest and other expense, net. As of January 3, 2010, the balance remaining in accumulated other comprehensive (loss) income related to the effective cash flow hedges was $6.5 million, net of taxes of $4.2 million. The derivative losses are being amortized into interest expense when the hedged exposure affects interest expense. We amortized into interest expense $2.0 million during fiscal year 2009 and $1.2 million during fiscal year 2008 for these derivative losses.  
+
+Interest Rate RiskSensitivity. As of January 3, 2010, our debt portfolio consisted of $406.0 million of variable rate debt. In addition, our cash and cash equivalents, for which we receive interest at variable rates, were $179.7 million at January 3, 2010. Our current earnings exposure for changes in interest rates can be summarized as follows:  
+
+(i) Changes in interest rates can cause interest charges on our variable rate debt, consisting of $406.0 million of revolving debt facilities, to fluctuate. An increase of 10%, or approximately 7 basis points, in current interest rates would cause an additional pre-tax charge to our earnings of $0.3 million for fiscal year 2010.  
+
+(ii) Changes in interest rates can cause our cash flows relative to interest payments on variable rate debt to fluctuate. As described above, an increase of 10%, or approximately 7 basis points, in current interest rates would cause our cash outflows to increase by $0.3 million for fiscal year 2010.  
+
+(iii) Changes in interest rates can cause our interest income and cash flows to fluctuate.  
+
+63  
+
+Table of Contents 
+
+Item 8. Financial Statements and Supplemental Data

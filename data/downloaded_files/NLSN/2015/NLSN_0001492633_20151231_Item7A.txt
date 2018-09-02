@@ -1,0 +1,59 @@
+Item 7A.  
+
+Quantitative and Qualitative Disclosures About Market Risk   
+
+Market risk is the potential loss arising from adverse changes in market rates and market prices such as interest rates, foreign currency exchange rates, and changes in the market value of equity instruments. We are exposed to market risk, primarily related to foreign exchange and interest rates. We actively monitor these exposures. Historically, in order to manage the volatility relating to these exposures, we entered into a variety of derivative financial instruments, mainly interest rate swaps, cross-currency swaps and forward rate agreements. Currently we only employ basic contracts, that is, without options, embedded or otherwise. Our objective is to reduce, where it is deemed appropriate to do so, fluctuations in earnings, cash flows and the value of our net investments in subsidiaries resulting from changes in interest rates and foreign currency rates. It is our policy not to trade in financial instruments.  
+
+Foreign Currency Exchange Rate Risk  
+
+We operate globally and we predominantly generate revenues and expenses in local currencies. Because of fluctuations (including possible devaluations) in currency exchange rates or the imposition of limitations on conversion of foreign currencies into our reporting currency, we are subject to currency translation exposure on the profits of our operations, in addition to transaction exposure.  
+
+Foreign currency translation risk is the risk that exchange rate gains or losses arise from translating foreign entities’ statements of earnings and balance sheets from functional currency to our reporting currency (the U.S. Dollar) for consolidation purposes. Translation risk exposure is managed by creating “natural hedges” in our financing or by using derivative financial instruments aimed at offsetting certain exposures in the statement of earnings or the balance sheet. For the years ended December 31, 2015 and 2014, we recorded a net gain of $2 million and zero, respectively, associated with foreign currency derivative financial instruments within foreign currency exchange transactions losses, net in our consolidated statements of operations. We had foreign currency derivative financial instruments outstanding with an immaterial fair value as of December 31, 2015 and no foreign currency derivative instruments outstanding as of December 31, 2014. The table below details the percentage of revenues and expenses by currency for the years ended December 31, 2015 and 2014:  
+
+ [DATA_TABLE_REMOVED] 
+
+Based on the year ended December 31, 2015, a one cent change in the U.S. dollar/Euro exchange rate would have impacted revenues by approximately $5 million annually, with an immaterial impact on operating income.  
+
+We have operations in both the Buy and Watch segments in Venezuela and the functional currency for these operations was the Venezuelan bolivars. Venezuela’s currency has been considered hyperinflationary since January 1, 2010 and, accordingly, the local currency transactions have been denominated in U.S. dollars since January 1, 2010 and will continue to be until Venezuela’s currency is deemed to be non-hyperinflationary.  
+
+Since early 2013, there have been a number of changes in the foreign exchange regime in Venezuela that have impacted the conversion rates used by us for the conversion of Venezuelan bolivars into U.S. Dollars in its financial statements, resulting in foreign currency exchange transaction losses in the consolidated statement of operations, reflecting the write-down of monetary assets and liabilities in our Venezuelan operations.  
+
+In February 2013, the official exchange rate was moved from 4.30 to 6.30 bolivars to U.S. dollars and the regulated System of Transactions with Securities in Foreign Currency market was suspended.  
+
+Based on facts and circumstances present at March 31, 2014, we began using the exchange rate determined by periodic auctions for U.S. dollars conducted under Venezuela’s Complementary System of Foreign Currency Administration (“SICAD I”) as the SICAD I exchange rate represented what was the most realistic official exchange rate at which to remeasure the U.S. dollar value of the bolivar-denominated monetary assets and liabilities of our Venezuelan operations at that time. At March 31, 2014, the SICAD I exchange rate was 10.8 bolivars to the U.S. dollar. As a result of this change, we recorded a pre-tax charge of $20 million during the first quarter of 2014.  
+
+Due to the lack of access to the SICAD I auction system throughout the remainder of 2014, as of December 31, 2014 we decided it was more likely that we would be able to gain access to U.S. dollars through the SICAD II mechanism to settle transactions  
+
+54 
+
+conducted by the Company in Venezuela as SICAD II was created to provide a more open mechanism that was designed to permit any company to request U.S. dollars for any purpose. At December 31, 2014, the SICAD II exchange rate was 50.0 bolivars to the U.S. dollar. As a result of the changes in exchange rate assumptions, we recorded a pre-tax charge of $32 million for the fourth quarter of 2014 and a total of $52 million for the year ended December 31, 2014. 
+
+On February 12, 2015, the Venezuelan government replaced SICAD II with a new foreign exchange market mechanism (“SIMADI”). We currently expect to be able to access U.S. dollars through the SIMADI market. SIMADI has significantly higher foreign exchange rates than those available through the other foreign exchange mechanisms. At December 31, 2015, the SIMADI exchange rate was 198.7 bolivars to the U.S. dollar. As a result of this change, we recorded a pre-tax charge of $8 million during the year ended December 31, 2015. 
+
+We will continue to assess the appropriate conversion rate based on events in Venezuela and our specific facts and circumstances. Total net monetary assets in U.S. dollars at the December 31, 2015 SIMADI rate totaled $3 million. 
+
+Interest Rate Risk  
+
+We continually review our fixed and variable rate debt along with related hedging opportunities in order to ensure our portfolio is appropriately balanced as part of our overall interest rate risk management strategy and through this process we consider both short-term and long-term considerations in the U.S. and global financial markets in making adjustments to our tolerable exposures to interest rate risk. At December 31, 2015, we had $3,496 million of floating-rate debt under our senior secured credit facilities, of which $2,325 million (excluding $550 million of forward interest swaps effective after December 31, 2015) was subject to effective floating-fixed interest rate swaps. A one percent increase in interest rates applied to our floating rate indebtedness would therefore increase annual interest expense by approximately $12 million ($35 million without giving effect to any of our interest rate swaps).  
+
+In July 2015, we entered into a $150 million in notional amount of three-year forward interest rate swap agreement with a starting date in July 2016. This agreement fixes the LIBOR-related portion of the interest rates of a corresponding amount of our variable-rate debt at an average rate of 1.62%. This derivative instrument has been designated as an interest rate cash flow hedge. 
+
+In April 2015, we entered into a $150 million in notional amount of three-year forward interest rate swap agreement with a starting date in April 2016. This agreement fixes the LIBOR-related portion of the interest rates of a corresponding amount of our variable-rate debt at an average rate of 1.40%. This derivative instrument has been designated as an interest rate cash flow hedge. 
+
+In November 2014, we entered into a $250 million in notional amount of two-year forward interest swap agreement with a starting date in May 2016. This agreement fixes the LIBOR-related portion of the interest rate of a corresponding amount of the Company’s variable-rate debt at an average rate of 1.78%. This derivative instrument has been designated as interest rate cash flow hedge. 
+
+In November 2014, we entered into a $250 million in notional amount of two-year forward interest swap agreement with a starting date in September 2015. This agreement fixes the LIBOR-related portion of the interest rate of a corresponding amount of the Company’s variable-rate debt at an average rate of 1.26%. This derivative instrument has been designated as interest rate cash flow hedge. 
+
+In October and November 2013, we entered into $1,000 million in aggregate notional amount of three-year interest rate swap agreements with starting dates in November 2013. These agreements fix the LIBOR related portion of interest rates of a corresponding amount of our variable-rate debt at a weighted average rate of 0.46%. The commencement date of these interest rate swaps coincided with the $1,000 million aggregate notional amount of interest rate swaps that matured in November 2013. These derivative instruments have been designated as interest rate cash flow hedges.  
+
+In July 2013, we entered into $575 million in aggregate notional amount of three-year interest swap agreements with starting dates in July 2013. These agreements fix the LIBOR-related portion of interest rates of a corresponding amount of the Company’s variable-rate debt at an average rate of 0.67%. These derivative instruments have been designated as interest rate cash flow hedges. 
+
+In November 2012, we entered into $500 million in aggregate notional amount of four-year interest rate swap agreements with starting dates in November 2012. These agreements fix the LIBOR related portion of interest rates of a corresponding amount of our variable-rate debt at a weighted average rate of 0.57%. The commencement date of these interest rate swaps coincided with the $500 million aggregate notional amount of interest rate swaps that matured in November 2012. These derivative instruments have been designated as interest rate cash flow hedges.  
+
+55 
+
+Derivative instruments involve, to varying degrees, elements of non-performance, or credit risk. We do not believe that we currently face a significant risk of loss in the event of non-performance by the counterparties associated with these instruments, as these transactions were executed with a diversified group of major financial institutions with a minimum investment-grade or better credit rating. Our credit risk exposure is managed through the continuous monitoring of our exposures to such counterparties.  
+
+56 
+
+Item 8.

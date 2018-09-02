@@ -1,0 +1,63 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk  
+
+Our primary exposures to market risks are related to changes in interest rates, equity security prices and foreign currency exchange rates which may adversely affect our results of operations and financial position. We seek to manage exposure to changes in interest rates where economically prudent to do so by utilizing predominately fixed rate debt and interest rate swaps. We do not currently hedge against foreign currency exchange risks or attempt to reduce our equity security price risk on our investment in FiberTower.  
+
+Interest Rate Risk  
+
+Certain of the financial instruments we have used to obtain capital are subject to market risks for fluctuations in market interest rates. As of February 19, 2008, we had $795.1 million (approximately 13% of total debt) of floating rate indebtedness, of which $625.0 million is effectively locked through an interest rate swap at a fixed rate until December 2009. As a result, a hypothetical unfavorable fluctuation in market interest rates of one percentage point over a twelve-month period would increase our interest expense by approximately $1.7 million after giving affect to our interest rate swaps. In addition, we anticipate refinancing the majority, if not all, of our debt within the next five years.  
+
+We have used, and may continue to use when we deem prudent, interest rate swaps to manage and reduce our interest rate risk, including the use of interest rate swaps to hedge the variability in cash flows from changes in LIBOR on anticipated refinancing and outstanding variable rate debt. We do not enter into interest rate swaps for speculative or trading purposes. Our interest rate swaps call for us to pay interest at a fixed rate in exchange for receiving interest at a variable rate equal to LIBOR. We have hedged our exposure to variability in LIBOR on the expected future refinancing of our tower revenue notes and mortgage loans through the use of forward starting interest rate swaps with maturity dates between December 2014 and November 2016. Additional interest rate swaps have effectively locked in the interest rate on $625.0 million of our term loans issued in 2007 at a fixed rate until December 2009. The interest rate swaps are exclusive of any credit spread that would be incremental to the interest rate of the anticipated financing. See the tables below.  
+
+Our outstanding debt as of December 31, 2006 and 2007 was $3.5 billion and $6.1 billion, respectively. The combined notional amount of outstanding interest rate swaps as of December 31, 2006 and 2007 was $3.5 billion and $5.9 billion, respectively. The increase in outstanding debt and the combined notional value of our outstanding interest rate swaps is primarily related to the $1.8 billion mortgage loans that remained outstanding following the Global Signal Merger and forward starting interest rate swaps to hedge our exposure to LIBOR on the forecasted refinancing of the mortgage loans.  
+
+During 2005 and 2006, we terminated certain interest rate swaps relating to the tower revenue notes issued in 2005 and 2006, respectively. The effective interest rate on the tower revenue notes issued in 2005 and 2006 is approximately 4.95% and 5.83%, respectively, inclusive of an increase of approximately 0.06% and 0.12%, respectively, in the effective interest rate relating to interest rate swaps and exclusive of deferred financing costs. See note 7 to our consolidated financial statements.  
+
+41  
+
+Table of Contents 
+
+Index to Financial Statements 
+
+The following tables provide information about our market risk related to changes in interest rates. The expected principal payments, weighted-average interest rates and the interest rate swaps are presented as of December 31, 2007, after giving effect to our $75.0 million of borrowings during January 2008 under our revolving credit facility and extension of the maturity to January 2009 from January 2008.  
+
+  [DATA_TABLE_REMOVED] 
+
+  [DATA_TABLE_REMOVED] 
+
+ (a) The average interest rate represents the weighted-average stated coupon rate.  
+
+ (b) The tower revenue notes are presented assuming we elect to repay in full on the anticipated repayment dates (five years from original issuance). If the tower revenue notes are not repaid in full by their anticipated repayment dates then our interest rates substantially increase and monthly principal payments commence. See note 7 to our consolidated financial statements.  
+
+ (c) Our variable rate debt consists of $150.0 million outstanding under our revolving credit facility and $645.1 million outstanding under our term loans.  
+
+ (d) The interest rate on our revolving credit facility and term loans represents the rate currently in effect, exclusive of the effect of our interest rate swaps. The interest rate on $625.0 million of the 2007 term loans has effectively been converted to a fixed rate of 5.6% until December 2009 through interest rate swaps. See the table below.  
+
+ (e) These interest rate swaps are forward starting interest rate swaps that hedge exposure to variability in future cash flows attributable to changes in LIBOR on the expected future refinancing of 99% of our fixed rate debt. Additional information on our forward starting interest rate swaps is included in the table shown below.  
+
+ (f) Exclusive of any applicable credit spreads.  
+
+  [DATA_TABLE_REMOVED] 
+
+ (a) The forward starting interest rate swaps are hedges of exposure to variability in future cash flows attributable to changes in LIBOR on forecasted refinancing of these debt instruments. See note 7 to our consolidated financial statements.  
+
+ (b) Exclusive of any applicable credit spreads.  
+
+ (c) Amounts presented in asset (liability) format. The fair value results from the difference between our fixed rate and the prevailing LIBOR rate as of December 31, 2007.  
+
+ (d) Fair value as of January 31, 2008 was $(133.6) million using the same fair value methodology as applied during 2007. The increase in the liability since December 31, 2007 is as a result of decreases in LIBOR during January 2008.  
+
+42  
+
+Table of Contents 
+
+Index to Financial Statements 
+
+Equity Security Price Risk  
+
+We are exposed to price fluctuations on our available-for-sale investment in FiberTower equity securities. We do not currently attempt to reduce or eliminate the market exposure on these securities. For the year ended December 31, 2007, we recorded a charge of $75.6 million to write-down the value of our investment in FiberTower relating to a decline in value deemed other-than-temporary. Our potential future write-downs are limited to the carrying value of our investment of $60.1 million as of December 31, 2007. As of February 19, 2008, the fair value of our investment in FiberTower was $41.4 million (at $1.57 per FiberTower share). As of December 31, 2007, a 50% hypothetical adverse change in the FiberTower equity price would result in an approximately $30.0 million decrease in the fair value of our available-for-sale equity investments. The offsetting adjustment resulting from the hypothetical future decrease in fair value would be to accumulated other comprehensive income or, if determined to be an other-than-temporary decline, to impairment of available-for-sale securities on our consolidated statement of operations and comprehensive income (loss). See note 6 to our consolidated financial statements and Item 1A. Risk Factors.  
+
+Foreign Currency Risk  
+
+Our business activities in Australia, Canada and the U.K., expose us to fluctuations in foreign currency exchange rates. The vast majority of our foreign currency transactions are denominated in the Australian dollar, which is the functional currency of CCAL. As a result of CCALs transactions being denominated and settled in such functional currencies, the risks associated with currency fluctuations are primarily associated with foreign currency translation adjustments. We do not currently hedge against foreign currency translation risks. We do not currently believe our financial instruments denominated in foreign currencies expose us to material foreign currency exchange risk based on the estimated impact of a hypothetical 15% unfavorable change in currency exchange rates. As of December 31, 2007, the Company had approximately $24.0 million in cash and cash equivalents denominated in Australian dollars.  
+
+  Item 8. Financial Statements and Supplementary Data

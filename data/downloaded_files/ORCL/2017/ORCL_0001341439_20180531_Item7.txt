@@ -1,0 +1,817 @@
+Item 7. Managements Discussion and Analysis of Financial Condition and Results of Operations  
+
+We begin Managements Discussion and Analysis of Financial Condition and Results of Operations with an overview of our businesses and significant trends. This overview is followed by a summary of our critical accounting policies and estimates that we believe are important to understanding the assumptions and judgments incorporated in our reported financial results. We then provide a more detailed analysis of our results of operations and financial condition.  
+
+Business Overview  
+
+Oracle Corporation provides products and services that address all aspects of corporate information technology (IT) environmentsapplications, platform and infrastructure. Our applications, platform and infrastructure offerings are delivered to customers worldwide through a variety of flexible and interoperable IT deployment models, including cloud-based, on-premise, or hybrid, which enable customer choice and flexibility. We market and sell our offerings globally to businesses of many sizes, government agencies, educational institutions and resellers with a worldwide sales force that is employed by our domestic and international subsidiaries and is positioned to offer the combinations that best meet customer needs.  
+
+We have three businesses: cloud and license; hardware; and services; each of which comprises a single operating segment. The descriptions set forth below as a part of Managements Discussion and Analysis of Financial Condition and Results of Operations and the information contained within Note 15 of Notes to Consolidated Financial Statements included elsewhere in this Annual Report provide additional information related to our businesses and operating segments and align as to how our chief operating decision makers (CODMs), which include our Chief Executive Officers and Chief Technology Officer, view our operating results and allocate resources.  
+
+Cloud and License Business  
+
+Our cloud and license line of business, which represented 82%, 80% and 78% of our total revenues in fiscal 2018, 2017 and 2016, respectively, markets, sells and delivers a broad spectrum of applications, platform and infrastructure technologies through our cloud and license offerings.  
+
+Cloud services and license support revenues include:  
+
+       
+
+license support revenues, which is our largest revenues stream. Oracle license support grants rights to unspecified product upgrades and maintenance releases and patches released during the term of the support period, as well as technical support assistance. Substantially all of our customers opt to purchase license support contracts when they purchase Oracle applications, platform and/or infrastructure licenses and substantially all customers renew their license support contracts annually in order to continue to benefit from Oracles research and development investments that are utilized as a part of unspecified periodic license updates that may be released and that customers with current license support contracts are entitled to. Our license support contracts are generally priced as a percentage of the net fees paid by the customer to access the license, are generally billed in advance of the support services being performed and are generally recognized as revenues ratably as the support services are delivered over the contractual terms; and  
+
+  [DATA_TABLE_REMOVED] 
+
+35  
+
+Table of Contents 
+
+Index to Financial Statements 
+
+Cloud license and on-premise license revenues include revenues from the licensing of our software products including Oracle Applications, Oracle Database, Oracle Fusion Middleware and Java, among others which our customers use for cloud-based, on-premise and other IT environments. Our cloud license and on-premise license transactions are generally perpetual in nature and are generally recognized when unrestricted access to the license is granted to the customer provided all other revenue recognition criteria are met. The timing of a few large license transactions can substantially affect our quarterly license revenues, which is different than the typical revenue recognition pattern for our cloud services and license support revenues in which revenues are generally recognized ratably over the contractual periods. Cloud license and on-premise license customers have the option to purchase license support contracts, as described above.  
+
+Providing choice and flexibility to our customers as to when and how they deploy our applications, platform and infrastructure technologies is an important element of our corporate strategy. In recent periods, customer demand has increased for our Oracle Cloud Services. To address customer demand and enable customer choice, we have introduced certain programs for customers to pivot their applications, platform and infrastructure licenses and license support to the Oracle Cloud for new deployments and to migrate to and expand with the Oracle Cloud for their existing workloads. We expect these trends to continue.  
+
+Our cloud services revenues growth and our cloud license and on-premise license revenues growth are affected by the strength of general economic and business conditions, governmental budgetary constraints, the strategy for and competitive position of our offerings, our acquisitions, our ability to deliver and renew our cloud services contracts with our existing customers and foreign currency rate fluctuations. Our license support revenues growth is primarily influenced by three factors: (1) the continuity of substantially all of our license support customer contract base renewing their license support contracts and substantially all customers continuing to purchase license support contracts in connection with their purchase of a new license; (2) the pricing of license support contracts sold in connection with the sale of new licenses; and (3) the pricing of new licenses sold. Customers do so in order to benefit from Oracles research and development investments that are utilized as a part of unspecified periodic license updates that may be released and that customers with current license support contracts are entitled to.  
+
+On a constant currency basis, we expect that our total cloud and license revenues generally will continue to increase due to:  
+
+       
+
+expected growth in our cloud services and license support offerings, including the high percentage of customers that purchase and renew their license support contracts;  
+
+       
+
+continued demand for our cloud license and on-premise license offerings; and  
+
+       
+
+contributions from our acquisitions.  
+
+We believe all of these factors should contribute to future growth in our cloud and license revenues, which should enable us to continue to make investments in research and development to develop and improve our cloud and license products and services.  
+
+Our cloud and license business margin has historically trended upward over the course of the four quarters within a particular fiscal year due to the historical upward trend of our cloud license and on-premise license revenues over those quarterly periods and because the majority of our costs for this business are generally fixed in the short term.  
+
+Hardware Business  
+
+Our hardware business, which represented 10%, 11% and 13% of our total revenues in fiscal 2018, 2017 and 2016, respectively, provides a broad selection of hardware products and hardware-related software products including Oracle Engineered Systems, servers, storage, industry-specific hardware, operating systems, virtualization, management and other hardware related software, and related hardware support. Hardware transactions are generally recognized as revenues upon delivery to the customer provided all other revenue recognition criteria are met. Our hardware business also offers related hardware support. We expect to make investments in research and development to improve existing hardware products and services and to develop new hardware products and services. The majority of our hardware products are sold through indirect channels,  
+
+36  
+
+Table of Contents 
+
+Index to Financial Statements 
+
+ including independent distributors and value-added resellers. Our hardware support offerings provide customers with unspecified software updates for software components that are essential to the functionality of our hardware products and associated software products such as Oracle Solaris. Our hardware support offerings can also include product repairs, maintenance services and technical support services. Hardware support contracts are entered into at the option of the customer, are generally priced as a percentage of the net hardware products fees and are generally recognized as revenues ratably as the hardware support services are delivered over the contractual terms.  
+
+We generally expect our hardware business to have lower operating margins as a percentage of revenues than our cloud and license business due to the incremental costs we incur to produce and distribute these products and to provide support services, including direct materials and labor costs.  
+
+Our quarterly hardware revenues are difficult to predict. Our hardware revenues, cost of hardware and hardware operating margins that we report are affected by, among others: our ability to timely manufacture or deliver a few large hardware transactions; our strategy for and the position of our hardware products relative to competitor offerings; customer demand for competing offerings such as PaaS and IaaS; the strength of general economic and business conditions; governmental budgetary constraints; whether customers decide to purchase hardware support contracts at or in close proximity to the time of hardware product sale; the percentage of our hardware support contract customer base that renews its support contracts and the close association between hardware products, which have a finite life, and customer demand for related hardware support as hardware products age; customer decisions to either maintain or upgrade their existing hardware infrastructure to newly developed technologies that are available; certain of our acquisitions; and foreign currency rate fluctuations.  
+
+Services Business  
+
+Our services business helps customers and partners maximize the performance of their investments in Oracle applications, platform and infrastructure technologies. We believe that our services are differentiated based on our focus on Oracle technologies, extensive experience and broad sets of intellectual property and best practices. Our services offerings include consulting services, advanced support services and education services and represented 8% of our total revenues in fiscal 2018 and 9% of our total revenues in each of fiscal 2017 and 2016. Our services business has lower margins than our cloud and license and hardware businesses. Our services revenues are impacted by, among others: our strategy for, and the competitive position of, our services; customer demand for our cloud and license and hardware offerings and the associated services for these offerings; our strategic emphasis on growing our cloud revenues; certain of our acquisitions; general economic conditions; governmental budgetary constraints; personnel reductions in our customers IT departments; and tighter controls over discretionary spending.  
+
+Acquisitions  
+
+Our selective and active acquisition program is another important element of our corporate strategy. In recent years, we have invested billions of dollars to acquire a number of complementary companies, products, services and technologies, including NetSuite in fiscal 2017.  
+
+We expect to continue to acquire companies, products, services and technologies in furtherance of our corporate strategy. Note 2 of Notes to Consolidated Financial Statements included elsewhere in this Annual Report provides additional information related to our recent acquisitions.  
+
+We believe that we can fund our future acquisitions with our internally available cash, cash equivalents and marketable securities, cash generated from operations, additional borrowings or from the issuance of additional securities. We estimate the financial impact of any potential acquisition with regard to earnings, operating margin, cash flow and return on invested capital targets before deciding to move forward with an acquisition.  
+
+Critical Accounting Policies and Estimates  
+
+Our consolidated financial statements are prepared in accordance with U.S. generally accepted accounting principles (GAAP) as set forth in the Financial Accounting Standards Boards (FASB) Accounting Standards  
+
+37  
+
+Table of Contents 
+
+Index to Financial Statements 
+
+ Codification (ASC), and we consider the various staff accounting bulletins and other applicable guidance issued by the U.S. Securities and Exchange Commission (SEC). GAAP, as set forth within the ASC, requires us to make certain estimates, judgments and assumptions. We believe that the estimates, judgments and assumptions upon which we rely are reasonable based upon information available to us at the time that these estimates, judgments and assumptions are made. These estimates, judgments and assumptions can affect the reported amounts of assets and liabilities as of the date of the financial statements as well as the reported amounts of revenues and expenses during the periods presented. To the extent that there are differences between these estimates, judgments or assumptions and actual results, our financial statements will be affected. The accounting policies that reflect our more significant estimates, judgments and assumptions and which we believe are the most critical to aid in fully understanding and evaluating our reported financial results include:  
+
+       
+
+Revenue Recognition;  
+
+       
+
+Business Combinations;  
+
+       
+
+Goodwill and Intangible AssetsImpairment Assessments;  
+
+       
+
+Accounting for Income Taxes; and  
+
+       
+
+Legal and Other Contingencies.  
+
+In many cases, the accounting treatment of a particular transaction is specifically dictated by GAAP and does not require managements judgment in its application. There are also areas in which managements judgment in selecting among available alternatives would not produce a materially different result. Our senior management has reviewed our critical accounting policies and related disclosures with the Finance and Audit Committee of the Board of Directors.  
+
+Revenue Recognition  
+
+Our sources of revenues include:  
+
+  [DATA_TABLE_REMOVED] 
+
+       
+
+hardware revenues, which include the sale of hardware products including Oracle Engineered Systems, servers, storage, industry-specific hardware; and hardware support revenues; and  
+
+       
+
+services revenues, which are earned from providing cloud-, license- and hardware-related services including consulting, advanced customer support and education services.  
+
+Revenue Recognition for Cloud Services Offerings, Hardware Products, Hardware Support and Related Services (Non-software Elements)  
+
+Our revenue recognition policy for non-software deliverables including our cloud services offerings, hardware products, hardware support and related services is based upon the accounting guidance contained in ASC 605-25, Revenue Recognition, Multiple-Element Arrangements, and we exercise judgment and use estimates in connection with the determination of the amount of cloud services revenues, hardware products revenues, hardware support and related services revenues to be recognized in each accounting period.  
+
+Revenues from the sales of our non-software elements are recognized when: (1) persuasive evidence of an arrangement exists; (2) we deliver the products or services; (3) the sale price is fixed or determinable; and (4) collection is reasonably assured. Revenues that are not recognized at the time of sale because the foregoing conditions are not met are recognized when those conditions are subsequently met.  
+
+Revenues for our cloud services offerings sold on a subscription basis are generally recognized ratably over the contract term commencing with the date the service is made available to customers. Revenues for cloud services offerings sold on a usage basis are generally recognized as the customer consumes the service, provided all other revenue recognition criteria have been satisfied.  
+
+38  
+
+Table of Contents 
+
+Index to Financial Statements 
+
+Revenues from the sale of hardware products are generally recognized upon delivery of the hardware product to the customer provided all other revenue recognition criteria are satisfied. Hardware support contracts are entered into at the customers option and are recognized ratably over the contractual term of the arrangements, which is typically one year, provided all other revenue recognition criteria have been satisfied.  
+
+Revenue Recognition for Multiple-Element ArrangementsCloud Services Offerings, Hardware Products, Hardware Support and Related Services (Non-software Arrangements)  
+
+We enter into arrangements with customers that purchase non-software related products and services from us at the same time, or within close proximity of one another (referred to as non-software multiple-element arrangements). Each element within a non-software multiple-element arrangement is accounted for as a separate unit of accounting provided the following criteria are met: the delivered products or services have value to the customer on a standalone basis; and for an arrangement that includes a general right of return relative to the delivered products or services, delivery or performance of the undelivered product or service is considered probable and is substantially controlled by us. We consider a deliverable to have standalone value if the product or service is sold separately by us or another vendor or could be resold by the customer. Further, our revenue arrangements generally do not include a general right of return relative to the delivered products. Where the aforementioned criteria for a separate unit of accounting are not met, the deliverable is combined with the undelivered element(s) and treated as a single unit of accounting for the purposes of allocation of the arrangement consideration and revenue recognition. For those units of accounting that include more than one deliverable but are treated as a single unit of accounting, we generally recognize revenues over the contractual period of the arrangement, or in the case of our cloud services offerings, we generally recognize revenues over the contractual term of the cloud services subscription. For the purposes of revenue classification of the elements that are accounted for as a single unit of accounting, we allocate revenue to the respective revenue line items within our consolidated statements of operations based on a rational and consistent methodology utilizing our best estimate of relative selling prices of such elements.  
+
+For our non-software multiple-element arrangements, we allocate revenue to each element based on a selling price hierarchy at the arrangements inception. The selling price for each element is based upon the following selling price hierarchy: vendor-specific objective evidence (VSOE) if available, third-party evidence (TPE) if VSOE is not available, or estimated selling price (ESP) if neither VSOE nor TPE are available (a description as to how we determine VSOE, TPE and ESP is provided below). If a tangible hardware product includes software, we determine whether the tangible hardware product and the software work together to deliver the products essential functionality and, if so, the entire product is treated as a non-software deliverable. The total arrangement consideration is allocated to each separate unit of accounting for each of the non-software deliverables using the relative selling prices of each unit based on the selling price hierarchy. We limit the amount of revenue recognized for delivered elements to an amount that is not contingent upon future delivery of additional products or services or meeting of any specified performance conditions.  
+
+When possible, we establish VSOE of selling price for deliverables in software and non-software multiple-element arrangements using the price charged for a deliverable when sold separately. TPE is established by evaluating similar and interchangeable competitor products or services in standalone arrangements with similarly situated customers. If we are unable to determine the selling price because VSOE or TPE does not exist, we determine ESP for the purposes of allocating the arrangement by reviewing historical transactions, including transactions whereby the deliverable was sold on a standalone basis and considering several other external and internal factors.  
+
+Revenue Recognition for Cloud License and On-Premise License and License Related Services (Software Elements)  
+
+The basis for our cloud license and on-premise license revenues and related services revenue recognition is substantially governed by the accounting guidance contained in ASC 985-605, Software-Revenue Recognition. We exercise judgment and use estimates in connection with the determination of the amount of cloud license and on-premise license revenues and related services revenues to be recognized in each accounting period.  
+
+39  
+
+Table of Contents 
+
+Index to Financial Statements 
+
+For license arrangements that do not require significant modification or customization of the underlying license, we recognize cloud license and on-premise license revenues when: (1) we enter into a legally binding arrangement with a customer for the license of software; (2) we deliver the products; (3) the sale price is fixed or determinable and free of contingencies or significant uncertainties; and (4) collection is probable. Revenues that are not recognized at the time of license sale because the foregoing conditions are not met, are generally recognized when those conditions are subsequently met.  
+
+The vast majority of our cloud license and on-premise license arrangements include license support contracts, which are entered into at the customers option. We recognize the related fees ratably over the term of the arrangement, typically one year. License support contracts provide customers with rights to unspecified software product upgrades, maintenance releases and patches released during the term of the support period and include internet access to technical content, as well as internet and telephone access to technical support personnel. License support contracts are generally priced as a percentage of the net cloud license and on-premise license fees and are generally invoiced in full at the beginning of the support term. Substantially all of our customers renew their license support contracts annually.  
+
+Revenue Recognition for Multiple-Element ArrangementsCloud License and On-Premise License, Support and Related Services (Software Arrangements)  
+
+We often enter into arrangements with customers that purchase cloud licenses and on-premise licenses, license support and related services from us at the same time, or within close proximity of one another (referred to as software related multiple-element arrangements). For those software related multiple-element arrangements, we have applied the residual method to determine the amount of cloud license and on-premise license revenues to be recognized pursuant to ASC 985-605. Under the residual method, if VSOE exists for undelivered elements in a multiple-element arrangement, VSOE of the undelivered elements is deferred with the remaining portion of the arrangement consideration generally recognized upon delivery of the license. Where VSOE does not exist for the undelivered element in such arrangement, no revenue is recognized until the earlier of the point in time at which 1) VSOE has been established for such element; or 2) the element that does not have VSOE has been delivered.  
+
+Revenue Recognition for Multiple-Element ArrangementsArrangements with Software and Non-software Elements  
+
+We also enter into multiple-element arrangements that may include a combination of our various software related and non-software related products and services offerings including cloud licenses and on-premise licenses, license support, cloud services offerings, hardware products, hardware support, consulting, advanced customer support services and education. In such arrangements, we first allocate the total arrangement consideration based on the relative selling prices of the software group of elements as a whole and the non-software group of elements. We then further allocate consideration within the software group to the respective elements within that group following the guidance in ASC 985-605 and our policies as described above. In addition, we allocate the consideration within the non-software group to each respective element within that group based on a selling price hierarchy at the arrangements inception as described above. After the arrangement consideration has been allocated to the software group of elements and non-software group of elements, we account for each respective element in the arrangement as described above and below.  
+
+Other Revenue Recognition Policies Applicable to Software and Non-software Elements  
+
+Many of our cloud license and on-premise license arrangements include consulting implementation services sold separately under consulting engagement contracts and are included as a part of our services business. Consulting revenues from these arrangements are generally accounted for separately from cloud license and on-premise license revenues because the arrangements qualify as services transactions as defined in ASC 985-605. The more significant factors considered in determining whether the revenues should be accounted for separately include the nature of services (i.e., consideration of whether the services are essential to the functionality of the licensed product), degree of risk, availability of services from other vendors, timing of payments and impact of milestones or acceptance criteria on the realizability of the license fee. Revenues for consulting services are generally recognized as the services are performed.  
+
+40  
+
+Table of Contents 
+
+Index to Financial Statements 
+
+If an arrangement contains multiple elements and does not qualify for separate accounting for the product and service transactions, then cloud license and on-premise license revenues and/or hardware products revenues, including the costs of hardware products, are generally recognized together with the services based on contract accounting using either the percentage-of-completion or completed-contract method.  
+
+We also evaluate arrangements with governmental entities containing fiscal funding or termination for convenience provisions, when such provisions are required by law, to determine the probability of possible cancellation. We consider multiple factors, including the history with the customer in similar transactions, the essential use of the license or hardware products and the planning, budgeting and approval processes undertaken by the governmental entity. If we determine upon execution of these arrangements that the likelihood of cancellation is remote, we then recognize revenues for such arrangements once all of the criteria described above have been met. If such a determination cannot be made, revenues are recognized upon the earlier of cash receipt or approval of the applicable funding provision by the governmental entity for such arrangements.  
+
+We assess whether fees are fixed or determinable at the time of sale and recognize revenues if all other revenue recognition requirements are met. Our standard payment terms are net 30 days. However, payment terms may vary based on the country in which the agreement is executed. We evaluate non-standard payment terms based on whether we have successful collection history on comparable arrangements (based upon similarity of customers, products, and arrangement economics) and, if so, generally conclude such payment terms are fixed and determinable and thereby satisfy the required criteria for revenue recognition.  
+
+While most of our arrangements for sales within our businesses include short-term payment terms, we have a standard practice of providing long-term financing to creditworthy customers primarily through our financing division. Since fiscal 1989, when our financing division was formed, we have established a history of collection, without concessions, on these receivables with payment terms that generally extend up to five years from the contract date. Provided all other revenue recognition criteria have been met, we recognize cloud license and on-premise license revenues and hardware products revenues for these arrangements upon delivery, net of any payment discounts from financing transactions. We have generally sold receivables financed through our financing division on a non-recourse basis to third-party financing institutions within 90 days of the contracts dates of execution and we classify the proceeds from these sales as cash flows from operating activities in our consolidated statements of cash flows. We account for the sales of these receivables as true sales as defined in ASC 860, Transfers and Servicing, as we are considered to have surrendered control of these financing receivables.  
+
+Our customers include several of our suppliers and, occasionally, we have purchased goods or services for our operations from these vendors at or about the same time that we have sold our products to these same companies (Concurrent Transactions). Cloud license and on-premise license agreements, sales of hardware or sales of services that occur within a common period from the date we have purchased goods or services from that same customer are reviewed for appropriate accounting treatment and disclosure. When we acquire goods or services from a customer, we negotiate the purchase separately from any sales transaction, at terms we consider to be at arms length and settle the purchase in cash. We recognize revenues from Concurrent Transactions if all of our revenue recognition criteria are met and the goods and services acquired are necessary for our current operations.  
+
+Business Combinations  
+
+We apply the provisions of ASC 805, Business Combinations, in accounting for our acquisitions. It requires us to recognize separately from goodwill the assets acquired and the liabilities assumed at the acquisition date fair values. Goodwill as of the acquisition date is measured as the excess of consideration transferred over the net of the acquisition date fair values of the assets acquired and the liabilities assumed. While we use our best estimates and assumptions to accurately value assets acquired and liabilities assumed at the acquisition date as well as any contingent consideration, where applicable, our estimates are inherently uncertain and subject to refinement. As a result, during the measurement period, which may be up to one year from the acquisition date, we record adjustments to the assets acquired and liabilities assumed with the corresponding offset to  
+
+41  
+
+Table of Contents 
+
+Index to Financial Statements 
+
+ goodwill. Upon the conclusion of the measurement period or final determination of the values of assets acquired or liabilities assumed, whichever comes first, any subsequent adjustments are recorded to our consolidated statements of operations.  
+
+Accounting for business combinations requires our management to make significant estimates and assumptions, especially at the acquisition date, including our estimates for intangible assets, contractual obligations assumed, pre-acquisition contingencies and any contingent consideration, where applicable. Although we believe that the assumptions and estimates we have made in the past have been reasonable and appropriate, they are based in part on historical experience and information obtained from the management of the acquired companies and are inherently uncertain. Unanticipated events and circumstances may occur that may affect the accuracy or validity of such assumptions, estimates or actual results.  
+
+We estimate the fair values of our cloud services and license support, and hardware obligations assumed as part of an acquisition. The estimated fair values of these performance obligations are determined utilizing a cost build-up approach. The cost build-up approach determines fair value by estimating the costs related to fulfilling these assumed obligations plus a normal profit margin. The estimated costs to fulfill the assumed obligations are based on the historical direct costs related to providing the services including the correction of any errors in the products acquired. The sum of these costs and operating profit approximates, in theory, the amount that we would be required to pay a third party to assume the performance obligations. We do not include any costs associated with selling efforts or research and development or the related fulfillment margins on these costs. Profit associated with any selling efforts is excluded because the acquired entities would have concluded those selling efforts on the performance obligations prior to the acquisition date. We also do not include the estimated research and development costs in our fair value determinations, as these costs are not deemed to represent a legal obligation at the time of acquisition. As a result of our fair value estimates for these obligations, we did not recognize certain cloud services and license support revenue amounts and hardware revenue amounts that would have been otherwise recorded by the acquired businesses as independent entities upon delivery of the contractual obligations (refer to Supplemental Disclosure Related to Certain Charges below for further discussion). To the extent customers to which these contractual obligations pertain renew these contracts with us, we expect to recognize revenues for the full contracts values over the respective contracts renewal periods.  
+
+In connection with a business combination or other strategic initiative, we may estimate costs associated with restructuring plans committed to by our management. Restructuring costs are typically comprised of employee severance costs, costs of consolidating duplicate facilities and contract termination costs. Restructuring expenses are based upon plans that have been committed to by our management, but may be refined in subsequent periods. We account for costs to exit or restructure certain activities of an acquired company separately from the business combination pursuant to ASC 420, Exit or Disposal Cost Obligations. A liability for costs associated with an exit or disposal activity is recognized and measured at its fair value in our consolidated statement of operations in the period in which the liability is incurred. When estimating the fair value of facility restructuring activities, assumptions are applied regarding estimated sub-lease payments to be received, which can differ materially from actual results. This may require us to revise our initial estimates which may materially affect our results of operations and financial position in the period the revision is made.  
+
+For a given acquisition, we may identify certain pre-acquisition contingencies as of the acquisition date and may extend our review and evaluation of these pre-acquisition contingencies throughout the measurement period in order to obtain sufficient information to assess whether we include these contingencies as a part of the fair value estimates of assets acquired and liabilities assumed and, if so, to determine their estimated amounts.  
+
+If we cannot reasonably determine the fair value of a pre-acquisition contingency (non-income tax related) by the end of the measurement period, which is generally the case given the nature of such matters, we will recognize an asset or a liability for such pre-acquisition contingency if: (1) it is probable that an asset existed or a liability had been incurred at the acquisition date and (2) the amount of the asset or liability can be reasonably estimated. Subsequent to the measurement period, changes in our estimates of such contingencies will affect earnings and could have a material effect on our results of operations and financial position.  
+
+42  
+
+Table of Contents 
+
+Index to Financial Statements 
+
+In addition, uncertain tax positions and tax related valuation allowances assumed in connection with a business combination are initially estimated as of the acquisition date. We reevaluate these items quarterly based upon facts and circumstances that existed as of the acquisition date with any adjustments to our preliminary estimates being recorded to goodwill if identified within the measurement period. Subsequent to the measurement period or our final determination of the tax allowances or contingencys estimated value, whichever comes first, changes to these uncertain tax positions and tax related valuation allowances will affect our provision for income taxes in our consolidated statement of operations and could have a material impact on our results of operations and financial position.  
+
+Goodwill and Intangible AssetsImpairment Assessments  
+
+We review goodwill for impairment annually and whenever events or changes in circumstances indicate its carrying value may not be recoverable in accordance with ASC 350, IntangiblesGoodwill and Other. According to ASC 350, we can opt to perform a qualitative assessment to test a reporting units goodwill for impairment or we can directly perform the quantitative impairment test. Should the qualitative assessment be used for any given fiscal year, qualitative factors to consider include cost factors; financial performance; legal, regulatory, contractual, political, business, or other factors; entity specific factors; industry and market considerations, macroeconomic conditions, and other relevant events and factors affecting the reporting unit. If we determine that it is more likely than not that the fair value of the reporting unit is less than its carrying value, a quantitative test is then performed; otherwise, no further testing is required. For those reporting units tested using a quantitative approach, we compare the fair value of each reporting unit with the carrying amount of the reporting unit, including goodwill. If the estimated fair value of the reporting unit is less than the carrying amount of the reporting unit, goodwill impairment is recognized for the difference, limited to the amount of goodwill recognized for the reporting unit.  
+
+Determining the fair value of a reporting unit involves the use of significant estimates and assumptions. These estimates and assumptions include revenue growth rates and operating margins used to calculate projected future cash flows, risk-adjusted discount rates, future economic and market conditions and the determination of appropriate market comparables. We base our fair value estimates on assumptions which we believe to be reasonable but that are inherently uncertain. Actual future results may differ from those estimates. In addition, we make certain judgments and assumptions in allocating shared assets and liabilities to determine the carrying values for each of our reporting units.  
+
+Our most recent annual goodwill impairment analysis, which was performed on March 1, 2018, did not result in a goodwill impairment charge, nor did we recognize an impairment charge in fiscal 2017 or 2016.  
+
+We make judgments about the recoverability of purchased finite lived intangible assets whenever events or changes in circumstances indicate that impairment may exist. Each period we evaluate the estimated remaining useful lives of purchased intangible assets and whether events or changes in circumstances warrant a revision to the remaining periods of amortization. Recoverability of finite lived intangible assets is measured by comparison of the carrying amount of the asset to the future undiscounted cash flows the asset is expected to generate. If the asset is considered to be impaired, the amount of any impairment is measured as the difference between the carrying value and the fair value of the impaired asset.  
+
+Assumptions and estimates about future values and remaining useful lives of our intangible assets are complex and subjective. They can be affected by a variety of factors, including external factors such as industry and economic trends and internal factors such as changes in our business strategy and our internal forecasts. Although we believe that the historical assumptions and estimates we have made are reasonable and appropriate, different assumptions and estimates could materially impact our reported financial results. We did not recognize any intangible asset impairment charges in fiscal 2018, 2017 or 2016.  
+
+Accounting for Income Taxes  
+
+Significant judgment is required in determining our worldwide income tax provision. In the ordinary course of a global business, there are many transactions and calculations where the ultimate tax outcome is uncertain. Some of these uncertainties arise as a consequence of revenue sharing and cost reimbursement arrangements  
+
+43  
+
+Table of Contents 
+
+Index to Financial Statements 
+
+ among related entities, the process of identifying items of revenues and expenses that qualify for preferential tax treatment and segregation of foreign and domestic earnings and expenses to avoid double taxation. Although we believe that our estimates are reasonable, the final tax outcome of these matters could be different from that which is reflected in our historical income tax provisions and accruals. Such differences could have a material effect on our income tax provision and net income in the period in which such determination is made.  
+
+On December 22, 2017 the U.S. Tax Cuts and Jobs Act of 2017 (the Tax Act), was signed into law. The net expense related to the enactment of the Tax Act has been accounted for during fiscal 2018 based on provisional estimates pursuant to the SEC Staff Accounting Bulletin No. 118. Subsequent adjustments, if any, will be accounted for in the period such adjustments are identified. The provisional estimates incorporate, among other factors, assumptions made based on interpretations of the Tax Act and existing tax laws and a range of historical and forecasted financial and tax-specific facts and information, including, without limitation, the amount of cash and other specified assets anticipated to be held by the companys foreign subsidiaries on relevant dates and estimates of deferred tax balances during interim periods pending finalization of those balances.  
+
+We record a valuation allowance to reduce our deferred tax assets to the amount that is more likely than not to be realized. In order for us to realize our deferred tax assets, we must be able to generate sufficient taxable income in those jurisdictions where the deferred tax assets are located. We consider future growth, forecasted earnings, future taxable income, the mix of earnings in the jurisdictions in which we operate, historical earnings, taxable income in prior years, if carryback is permitted under the law and prudent and feasible tax planning strategies in determining the need for a valuation allowance. In the event we were to determine that we would not be able to realize all or part of our net deferred tax assets in the future, an adjustment to the deferred tax assets valuation allowance would be charged to earnings in the period in which we make such a determination, or goodwill would be adjusted at our final determination of the valuation allowance related to an acquisition within the measurement period. If we later determine that it is more likely than not that the net deferred tax assets would be realized, we would reverse the applicable portion of the previously provided valuation allowance as an adjustment to earnings at such time.  
+
+We record deferred tax assets for stock-based compensation awards that result in deductions on certain of our income tax returns based on the amount of stock-based compensation recognized and the fair values attributable to the vested portion of stock awards assumed in connection with a business combination at the statutory tax rates in the jurisdictions that we are able to recognize such tax deductions. The impacts of the actual tax deductions for stock-based awards that are realized in these jurisdictions are generally recognized to our consolidated statements of operations in the period that a restricted stock-based award vests or a stock option is exercised with any shortfall/windfall relative to the deferred tax asset established recorded as a discrete detriment/benefit to our provision for income taxes in this period. Such detriment/benefit can materially impact our reported effective tax rate for fiscal 2018 and prospective periods.  
+
+We calculate our current and deferred tax provision based on estimates and assumptions that could differ from the actual results reflected in income tax returns filed during the subsequent year. Adjustments based on filed returns are generally recorded in the period when the tax returns are filed and the global tax implications are known, which can materially impact our effective tax rate.  
+
+The amount of income tax we pay is subject to ongoing audits by federal, state and foreign tax authorities, which often result in proposed assessments. Our estimate of the potential outcome for any uncertain tax issue is highly judgmental. A description of our accounting policies associated with tax related contingencies assumed as a part of a business combination is provided under Business Combinations above. For those tax related contingencies that are not a part of a business combination, we account for these uncertain tax issues pursuant to ASC 740, Income Taxes, which contains a two-step approach to recognizing and measuring uncertain tax positions taken or expected to be taken in a tax return. The first step is to determine if the weight of available evidence indicates that it is more likely than not that the tax position will be sustained in an audit, including resolution of any related appeals or litigation processes. The second step is to measure the tax benefit as the largest amount that is more than 50% likely to be realized upon ultimate settlement. Although we believe that  
+
+44  
+
+Table of Contents 
+
+Index to Financial Statements 
+
+ we have adequately reserved for our uncertain tax positions, no assurance can be given with respect to the final outcome of these matters. We adjust reserves for our uncertain tax positions due to changing facts and circumstances, such as the closing of a tax audit, judicial rulings, and refinement of estimates or realization of earnings or deductions that differ from our estimates. To the extent that the final outcome of these matters is different than the amounts recorded, such differences generally will impact our provision for income taxes in the period in which such a determination is made. Our provisions for income taxes include the impact of reserve provisions and changes to reserves that are considered appropriate and also include the related interest and penalties.  
+
+In addition, as a part of our accounting for business combinations, intangible assets are recognized at fair values and goodwill is measured as the excess of consideration transferred over the net estimated fair values of assets acquired. Impairment charges associated with goodwill are generally not tax deductible and will result in an increased effective income tax rate in the period that any impairment is recorded. Amortization expenses associated with acquired intangible assets are generally not tax deductible pursuant to our existing tax structure; however, deferred taxes have been recorded for non-deductible amortization expenses as a part of the accounting for business combinations. We have taken into account the allocation of these identified intangibles among different taxing jurisdictions, including those with nominal or zero percent tax rates, in establishing the related deferred tax liabilities.  
+
+Legal and Other Contingencies  
+
+We are currently involved in various claims and legal proceedings. Quarterly, we review the status of each significant matter and assess our potential financial exposure. A description of our accounting policies associated with contingencies assumed as a part of a business combination is provided under Business Combinations above. For legal and other contingencies that are not a part of a business combination, we accrue a liability for an estimated loss if the potential loss from any claim or legal proceeding is considered probable, and the amount can be reasonably estimated. Significant judgment is required in both the determination of probability and the determination as to whether the amount of an exposure is reasonably estimable. Because of uncertainties related to these matters, accruals are based only on the best information available at the time the accruals are made. As additional information becomes available, we reassess the potential liability related to our pending claims and litigation and may revise our estimates. Such revisions in the estimates of the potential liabilities could have a material impact on our results of operations and financial position.  
+
+Results of Operations  
+
+Impacts of the U.S. Tax Cuts and Jobs Act of 2017  
+
+The comparability of our operating results in fiscal 2018 compared to the corresponding prior year periods, and of our consolidated balance sheets as of May 31, 2018 relative to May 31, 2017, was impacted by the U.S. Tax Cuts and Jobs Act of 2017 (the Tax Act), which was signed into law on December 22, 2017. Effective January 1, 2018, the Tax Act reduces the U.S. federal corporate tax rate from 35% to 21%; creates a quasi-territorial tax system that a) generally allows, among other provisions, companies to repatriate certain foreign source earnings without incurring additional U.S. income tax for such earnings generated after December 31, 2017 and b) generally requires companies to pay a one-time transition tax on certain foreign subsidiary earnings generated prior to December 31, 2017 that, in substantial part, were previously tax deferred; creates new taxes on certain foreign sourced earnings; limits deductibility of certain future compensation arrangements to certain highly compensated employees; and provides tax incentives for the exportation of U.S. products to foreign jurisdictions and for the purchase of qualifying capital equipment, among other provisions.  
+
+Because we have a May 31 fiscal year end, our fiscal 2018 blended U.S. federal statutory tax rate was approximately 29%.  
+
+45  
+
+Table of Contents 
+
+Index to Financial Statements 
+
+During fiscal 2018, our provision for income taxes increased and our net income decreased, primarily as a result of the following items related to the enactment of the Tax Act:  
+
+       
+
+$7.8 billion of income tax expense, which we refined by a $166 million increase as of May 31, 2018 from our initial estimate made in our third quarter of fiscal 2018 in accordance with SEC Staff Accounting Bulletin No. 118 (SAB 118), related to the application of the one-time transition tax to certain foreign subsidiary earnings that were generated prior to December 31, 2017 and for which such expense was substantially recorded to non-current income taxes payable in our consolidated balance sheet and corresponds to the amount we currently expect to periodically settle over an eight year period as provided by the Tax Act;  
+
+partially offset by:  
+
+       
+
+$820 million of income tax benefit, which we refined by a $76 million increase as of May 31, 2018 from our initial estimate made in our third quarter of fiscal 2018 in accordance with SAB 118, related to the remeasurement of our net deferred tax liabilities based on the rates at which they are expected to reverse in the future; and  
+
+       
+
+the net favorable impacts of the Tax Act on our tax profile and effective tax rate beginning on January 1, 2018, which we generally expect will continue into future periods.  
+
+The net expense related to the enactment of the Tax Act has been accounted for during fiscal 2018 based on provisional estimates pursuant to SAB 118. Subsequent adjustments, if any, will be accounted for in the period such adjustments are identified. The provisional estimates incorporate, among other factors, assumptions made based on interpretations of the Tax Act and existing tax laws and a range of historical financial and tax-specific facts and information, including among other items, the amount of cash and other specified assets and liabilities of the company and its foreign subsidiaries on relevant dates and estimates of deferred tax balances pending finalization of those balances.  
+
+We expect the enactment of the Tax Act to generally provide greater flexibility for us to access and utilize our cash, cash equivalent and marketable securities balances held by certain of our foreign subsidiaries as of January 1, 2018, as well as for prospective assets generated by these foreign subsidiaries future earnings and profits. We believe we have sufficient cash, cash equivalent and marketable securities balances, as well as access to other capital resources, if required, to settle the $7.8 billion one-time transition tax described above.  
+
+Impacts of Acquisitions  
+
+The comparability of our operating results in fiscal 2018 compared to fiscal 2017 and in fiscal 2017 compared to fiscal 2016 was impacted by our recent acquisitions, including our acquisition of NetSuite during the second quarter of fiscal 2017. In our discussion of changes in our results of operations from fiscal 2018 compared to fiscal 2017 and fiscal 2017 compared to fiscal 2016, we may qualitatively disclose the impact of our acquired products and services (for the one-year period subsequent to the acquisition date) to the growth in certain of our businesses revenues where such qualitative discussions would be meaningful for an understanding of the factors that influenced the changes in our results of operations. When material, we may also provide quantitative disclosures related to such acquired products and services. Expense contributions from our recent acquisitions for each of the respective period comparisons may not be separately identifiable due to the integration of these businesses into our existing operations, and/or were insignificant to our results of operations during the periods presented.  
+
+We caution readers that, while pre- and post-acquisition comparisons, as well as any quantified amounts themselves, may provide indications of general trends, any acquisition information that we provide has inherent limitations for the following reasons:  
+
+       
+
+any qualitative and quantitative disclosures cannot specifically address or quantify the substantial effects attributable to changes in business strategies, including our sales force integration efforts. We believe that if our acquired companies had operated independently and sales forces had not been integrated, the relative mix of products and services sold would have been different; and  
+
+46  
+
+Table of Contents 
+
+Index to Financial Statements 
+
+       
+
+the amounts shown as cloud services and license support deferred revenues and hardware deferred revenues in our Supplemental Disclosure Related to Certain Charges (presented below) are not necessarily indicative of revenue improvements we will achieve upon contract renewals to the extent customers do not renew.  
+
+Presentation of Operating Segment Results and Other Financial Information  
+
+In our results of operations discussion below, we provide an overview of our total consolidated revenues, total consolidated expenses and total consolidated operating margin, all of which are presented on a GAAP basis. We also present a GAAP-based discussion below for substantially all of the other expense items as presented in our consolidated statement of operations that are not directly attributable to our three businesses.  
+
+In addition, we discuss below the results of each our three businessescloud and license, hardware and serviceswhich are our operating segments as defined pursuant to ASC 280, Segment Reporting. The financial reporting for our three businesses that is presented below is presented in a manner that is consistent with that used by our CODMs. Our operating segment presentation below reflects revenues, direct costs and sales and marketing expenses that correspond to and are directly attributable to each of our three businesses. We also utilize these inputs to calculate and present a segment margin for each business in the discussion below.  
+
+Consistent with our internal management reporting processes, the below operating segment presentation includes revenues adjustments related to cloud services and license support contracts and hardware contracts that would have otherwise been recorded by the acquired businesses as independent entities but were not recognized in our consolidated statements of operations for the periods presented due to business combination accounting requirements. Refer to Supplemental Disclosure Related to Certain Charges below for additional discussion of these items and Note 15 of Notes to Consolidated Financial Statements included elsewhere in this Annual Report for a reconciliation of the summations of our total operating segment revenues as presented in the discussion below to total revenues as presented per our consolidated statements of operations for all periods presented.  
+
+In addition, research and development expenses, general and administrative expenses, stock-based compensation expenses, amortization of intangible assets, certain other expense allocations, acquisition related and other expenses, restructuring expenses, interest expense, non-operating income, net and provision for income taxes are not attributed to our three operating segments because our management does not view the performance of our three businesses including such items and/or it is impractical to do so. Refer to Supplemental Disclosure Related to Certain Charges below for additional discussion of certain of these items and Note 15 of Notes to Consolidated Financial Statements included elsewhere in this Annual Report for a reconciliation of the summations of total segment margin as presented in the discussion below to total income before provision of income taxes as presented per our consolidated statements of operations for all periods presented.  
+
+Constant Currency Presentation  
+
+Our international operations have provided and are expected to continue to provide a significant portion of each of our businesses revenues and expenses. As a result, each businesses revenues and expenses and our total revenues and expenses will continue to be affected by changes in the U.S. Dollar against major international currencies. In order to provide a framework for assessing how our underlying businesses performed excluding the effects of foreign currency rate fluctuations, we compare the percent change in the results from one period to another period in this Annual Report using constant currency disclosure. To present this information, current and comparative prior period results for entities reporting in currencies other than U.S. Dollars are converted into U.S. Dollars at constant exchange rates (i.e., the rates in effect on May 31, 2017, which was the last day of our prior fiscal year) rather than the actual exchange rates in effect during the respective periods. For example, if an entity reporting in Euros had revenues of 1.0 million Euros from products sold on May 31, 2018 and 2017, our financial statements would reflect reported revenues of $1.16 million in fiscal 2018 (using 1.16 as the month-end average exchange rate for the period) and $1.11 million in fiscal 2017 (using 1.11 as the month-end average exchange rate for the period). The constant currency presentation,  
+
+47  
+
+Table of Contents 
+
+Index to Financial Statements 
+
+ however, would translate the fiscal 2018 results using the fiscal 2017 exchange rate and indicate, in this example, no change in revenues during the period. In each of the tables below, we present the percent change based on actual, unrounded results in reported currency and in constant currency.  
+
+Total Revenues and Operating Expenses  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1)   
+
+Comprised of Europe, the Middle East and Africa  
+
+ (2)   
+
+The Asia Pacific region includes Japan  
+
+Fiscal 2018 Compared to Fiscal 2017: Excluding the effects of currency rate fluctuations, our total revenues increased in fiscal 2018 primarily due to growth in our cloud and license revenues, partially offset by decreases in our hardware revenues and services revenues. The constant currency increase in our cloud and license revenues during fiscal 2018 was attributable to growth in our cloud services and license support revenues as customers purchased our applications, platform and infrastructure technologies via cloud and license deployment models and renewed their related contracts to continue to gain access to our latest technology and support services. To a lesser extent, our cloud and license revenues also increased due to revenue contributions from our recent acquisitions. The constant currency decrease in our hardware revenues during fiscal 2018 was due to the reduction in our hardware products revenues and hardware support revenues primarily due to the emphasis we placed on the marketing and sale of our cloud and license technologies. The constant currency decrease in our services revenues during fiscal 2018 was attributable to declines in our education and advanced customer support services revenues. In constant currency, the Americas, EMEA and Asia Pacific regions contributed 78%, 10% and 12%, respectively, to the growth in our fiscal 2018 total revenues.  
+
+Excluding the effects of currency rate fluctuations, our total operating expenses increased during fiscal 2018 primarily due to higher cloud services and license support expenses resulting primarily from increased headcount and infrastructure expenses to support the increases in our revenues; higher sales and marketing expenses related to our cloud and license business; increased stock-based compensation expenses; higher general and administrative expenses; increased restructuring expenses; and higher intangible asset amortization. These constant currency expense increases were partially offset by certain expense decreases in fiscal 2018, which primarily consisted of lower research and development expenses primarily related to lower  
+
+48  
+
+Table of Contents 
+
+Index to Financial Statements 
+
+ employee expenses; and lower hardware products costs and a related decrease in hardware sales and marketing costs, both of which aligned to lower hardware revenues.  
+
+In constant currency, our total operating margin increased during fiscal 2018 primarily due to the increase in revenues and total operating margin as a percentage of total revenues remained flat.  
+
+Fiscal 2017 Compared to Fiscal 2016: Excluding the effects of foreign currency rate variations, our total revenues increased in fiscal 2017 due to growth in our cloud and license revenues and our services revenues, partially offset by a decrease in our hardware revenues. The constant currency increases in our cloud and license revenues during fiscal 2017 and constant currency decreases in our hardware revenues during fiscal 2017 were primarily attributable to similar reasons as noted above for the fiscal 2018 changes of each. The constant currency services revenues increase during fiscal 2017 was primarily attributable to certain acquisitions. In constant currency, the Americas region contributed 54%, the EMEA region contributed 24% and the Asia Pacific region contributed 22% to the growth in our total revenues during fiscal 2017.  
+
+Excluding the effects of foreign currency rate variations, our total operating expenses increased during fiscal 2017 relative to the prior year period due to higher sales and marketing and research and development expenses, which were primarily attributable to increased headcount and increased stock-based compensation expenses; and higher cloud services and license support expenses resulting primarily from increased headcount and infrastructure expenses to support the increase in our revenues. These constant currency expense increases were partially offset by certain expense decreases in fiscal 2017, primarily lower hardware expenses due to similar reasons noted for the fiscal 2018 decrease above and lower intangible asset amortization in fiscal 2017 due to certain of our intangible assets that became fully amortized.  
+
+In constant currency, our total operating margin increased in fiscal 2017 due to the increase in our total revenues while total operating margin as a percentage of revenues was flat.  
+
+Supplemental Disclosure Related to Certain Charges  
+
+To supplement our consolidated financial information, we believe that the following information is helpful to an overall understanding of our past financial performance and prospects for the future. You should review the introduction under Impact of Acquisitions (above) for a discussion of the inherent limitations in comparing pre- and post-acquisition information.  
+
+Our operating results reported pursuant to GAAP included the following business combination accounting adjustments and expenses related to acquisitions and certain other expense and income items that affected our GAAP net income:  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1)   
+
+In connection with our acquisitions, we have estimated the fair values of the cloud services and license support contracts and hardware contracts assumed. Due to our application of business combination accounting rules, we did not recognize the cloud services and license support revenue amounts and hardware revenue amounts as presented in the above table that would have otherwise been recorded by the acquired businesses as independent entities upon delivery of the contractual obligations. To the extent customers for which these contractual obligations pertain renew these contracts with us, we expect to recognize revenues for the full contracts values over the respective contracts renewal periods.  
+
+49  
+
+Table of Contents 
+
+Index to Financial Statements 
+
+ (2)  
+
+Certain acquired companies capitalized sales commissions associated with subscription agreements and amortized these amounts over the related contractual terms. Business combination accounting rules generally require us to eliminate these acquired capitalized sales commissions balances as of the acquisition date and our post-combination GAAP sales and marketing expenses generally do not reflect the amortization of these acquired deferred sales commissions balances. This adjustment is intended to include, and thus reflect, the full amount of amortization related to such balances as though the acquired companies operated independently in the periods presented.  
+
+ (3)  
+
+Represents the amortization of intangible assets, substantially all of which were acquired in connection with our acquisitions. As of May 31, 2018, estimated future amortization related to intangible assets was as follows (in millions):  
+
+  [DATA_TABLE_REMOVED] 
+
+ (4)  
+
+Acquisition related and other expenses primarily consist of personnel related costs and stock-based compensation expenses for transitional and certain other employees, integration related professional services, certain business combination adjustments including certain adjustments after the measurement period has ended and certain other operating items, net.  
+
+ (5)   
+
+Restructuring expenses during fiscal 2018 and 2017 primarily related to employee severance in connection with our Fiscal 2017 Oracle Restructuring Plan (2017 Restructuring Plan). Restructuring expenses during fiscal 2016 primarily related to costs incurred pursuant to our Fiscal 2015 Restructuring Plan (2015 Restructuring Plan) and our Fiscal 2013 Oracle Restructuring Plan (2013 Restructuring Plan). Additional information regarding certain of our restructuring plans is provided in the discussion below under Restructuring Expenses and in Note 8 of Notes to Consolidated Financial Statements included elsewhere in this Annual Report.  
+
+ (6)   
+
+Stock-based compensation was included in the following operating expense line items of our consolidated statements of operations (in millions):  
+
+  [DATA_TABLE_REMOVED] 
+
+Stock-based compensation included in acquisition related and other expenses resulted from unvested stock options and restricted stock-based awards assumed from acquisitions whose vesting was accelerated generally upon termination of the employees pursuant to the terms of those stock options and restricted stock-based awards.  
+
+ (7)  
+
+For fiscal 2018, the applicable jurisdictional tax rates applied to our income before provision for income taxes after adjusting for the effects of the items within the table above, excluding income tax reform (see footnote (8) below), resulted in an effective tax rate of 21.1%, which represented our effective tax rate as derived per our consolidated statements of operations, primarily due to the exclusion of stock-based compensation expense and acquisition related items, including the tax effects of amortization of intangible assets. The income tax effects presented for fiscal 2017 and 2016 were calculated reflecting effective tax rates of 22.8% and 23.2%, respectively, which represented our effective tax rates as derived per our consolidated statements of operations, primarily due to the net tax effects of acquisition related items, including the tax effects of amortization of intangible assets, and the net tax effects of stock-based compensation.  
+
+ (8)  
+
+The income tax reform adjustments for fiscal 2018 presented in the table above were due to the our enactment of the Tax Act (refer to Impacts of the U.S. Tax Cuts and Jobs Act of 2017 above for additional discussion), which increased our GAAP provision for income taxes during fiscal 2018.  
+
+Cloud and License Business  
+
+Our cloud and license business engages in the sale, marketing and delivery of our applications, platform and infrastructure technologies through various deployment models including license support offerings; Oracle  
+
+50  
+
+Table of Contents 
+
+Index to Financial Statements 
+
+ Cloud Services offerings; and cloud license and on-premise license offerings. License support revenues are typically generated through the sale of license support contracts related to cloud license and on-premise licenses purchased by our customers at their option and are generally recognized as revenues ratably over the contractual term. Our Oracle Cloud Services offerings deliver certain of our applications, platform and infrastructure technologies on a subscription basis via cloud-based deployment models that we host, manage and support, and revenues are generally recognized over the subscription period. Cloud license and on-premise license revenues represent fees earned from granting customers licenses, generally on a perpetual basis, to use our database and middleware and our applications software products within cloud and on-premise IT environments and are generally recognized as revenues when unrestricted access to the license is granted, provided all other revenue recognition criteria are met. We continue to place significant emphasis, both domestically and internationally, on direct sales through our own sales force. We also continue to market our offerings through indirect channels. Costs associated with our cloud and license business are included in cloud services and license support expenses, and sales and marketing expenses. These costs are largely personnel and infrastructure related including the cost of providing our cloud services and license support offerings, salaries and commissions earned by our sales force for the sale of our cloud and license offerings, and marketing program costs.  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1)  
+
+Includes cloud services and license support revenue adjustments related to certain cloud services and license support contracts that would have otherwise been recorded as revenues by the acquired businesses as independent entities but were not recognized in our GAAP-based consolidated statements of operations for the periods presented due to business combination accounting requirements. Such revenue adjustments were included in our operating segment results for purposes of reporting to and review by our CODMs. See Presentation of Operating Segment Results and Other Financial Information above for additional information.  
+
+ (2)  
+
+Excludes stock-based compensation and certain expense allocations. Also excludes amortization of intangible assets and certain other GAAP-based expenses, which were not allocated to our operating segment results for purposes of reporting to and review by our CODMs, as further described under Presentation of Operating Segment Results and Other Financial Information above.  
+
+Fiscal 2018 Compared to Fiscal 2017: Excluding the effects of currency rate fluctuations, total revenues from our cloud and license business increased in fiscal 2018 due to growth in our cloud services and license support revenues and revenue contributions from our recent acquisitions. The increases in our constant currency cloud  
+
+51  
+
+Table of Contents 
+
+Index to Financial Statements 
+
+ services and license support revenues during fiscal 2018 were primarily due to the purchase and renewal of our cloud-based services and license support services, and due to contributions from our recent acquisitions. These revenues increases were partially offset by decreases in our cloud license and on-premise license revenues during fiscal 2018. In constant currency, our total applications revenues and total platform and infrastructure revenues grew during fiscal 2018 as customers continued to deploy our applications, platform and infrastructure technologies through a wide array of different deployment models that we offer that enable customer choice. In constant currency, the Americas region contributed 71%, the EMEA region contributed 15% and Asia Pacific region contributed 14% of the constant currency revenues growth for this business during fiscal 2018.  
+
+In constant currency, total cloud and license expenses increased in fiscal 2018 primarily due to higher cloud services and license support expenses and higher sales and marketing expenses, both of which increased primarily due to higher employee related expenses from higher headcount. In addition, our constant currency cloud services and license support expenses increased during fiscal 2018 due to higher technology infrastructure expenses that supported the growth in our revenues.  
+
+Excluding the effects of currency rate fluctuations, our cloud and license segments total margin increased during fiscal 2018 primarily due to the increase in revenues for this segment while total margin as a percentage of revenues decreased slightly due to expenses growth for this segment.  
+
+Fiscal 2017 Compared to Fiscal 2016: Excluding the effects of currency rate fluctuations, total revenues, total expenses and total margin from our cloud and license business each increased in fiscal 2017 relative to fiscal 2016 due to similar reasons as noted above for the increases in fiscal 2018 relative to fiscal 2017. During fiscal 2017, the Americas, EMEA and Asia Pacific regions contributed 63%, 20% and 17%, respectively, of the constant currency revenues growth for this business.  
+
+Excluding the effects of currency rate fluctuations, our cloud and license business total margin as a percentage of revenues decreased in fiscal 2017 as our total expenses grew at a faster rate than our total revenues for this business.  
+
+52  
+
+Table of Contents 
+
+Index to Financial Statements 
+
+Hardware Business  
+
+Our hardware business revenues are generated from the sales of our Oracle Engineered Systems, server, storage, and industry-specific hardware products that are generally recognized as revenues upon delivery to the customer, provided all other revenue recognition criteria are met. Our hardware business also earns revenues from the sale of hardware support contracts purchased by our customers at their option and are generally recognized as revenues ratably as the hardware support services are delivered over the contractual term. The majority of our hardware products are sold through indirect channels such as independent distributors and value-added resellers and we also market and sell our hardware products through our direct sales force. Operating expenses associated with our hardware business include the cost of hardware products, which consists of expenses for materials and labor used to produce these products by our internal manufacturing operations or by third-party manufacturers, warranty expenses and the impact of periodic changes in inventory valuation, including the impact of inventory determined to be excess and obsolete; the cost of materials used to repair customer products; the cost of labor and infrastructure to provide support services; and sales and marketing expenses, which are largely personnel related and include variable compensation earned by our sales force for the sales of our hardware offerings.  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1)  
+
+Includes hardware revenue adjustments related to certain hardware contracts that would have otherwise been recorded as revenues by the acquired businesses as independent entities but were not recognized in our GAAP-based consolidated statements of operations for the periods presented due to business combination accounting requirements. Such revenue adjustments were included in our operating segment results for purposes of reporting to and review by our CODMs. See Presentation of Operating Segment Results and Other Financial Information above for additional information.  
+
+ (2)  
+
+Excludes stock-based compensation and certain expense allocations. Also excludes amortization of intangible assets and certain other GAAP-based expenses, which were not allocated to our operating segment results for purposes of reporting to and review by our CODMs, as further described under Presentation of Operating Segments and Other Financial Information above.  
+
+Excluding the effects of currency rate fluctuations, total hardware revenues decreased in fiscal 2018 and 2017, each relative to the corresponding prior year period, due to lower hardware products revenues and, to a lesser extent, lower hardware support revenues. The decreases in hardware products revenues in both fiscal 2018 and 2017, each relative to the corresponding prior year period, were primarily attributable to our continued emphasis on the marketing and sale of our cloud-based infrastructure technologies, which resulted in reduced sales volumes of certain of our hardware product lines and also impacted the volume of customers that purchased hardware support contracts.  
+
+Excluding the effects of currency rate fluctuations, total hardware expenses decreased in fiscal 2018 and 2017, each relative to the corresponding prior year period, primarily due to lower hardware products costs and lower employee related expenses, which aligned to lower hardware revenues.  
+
+53  
+
+Table of Contents 
+
+Index to Financial Statements 
+
+In constant currency, total margin and total margin as percentage of revenues for our hardware segment increased during fiscal 2018 and 2017, each relative to the corresponding prior year period, due to expense decreases in each of these periods.  
+
+Services Business  
+
+We offer services to customers and partners to help to maximize the performance of their investments in Oracle applications, platform and infrastructure technologies. Services revenues are generally recognized as the services are performed. The cost of providing our services consists primarily of personnel related expenses, technology infrastructure expenditures, facilities expenses and external contractor expenses. 
+
+  [DATA_TABLE_REMOVED] 
+
+ (1)  
+
+Excludes stock-based compensation and certain expense allocations. Also excludes amortization of intangible assets and certain other GAAP-based expenses, which were not allocated to our operating segment results for purposes of reporting to and review by our CODMs, as further described under Presentation of Operating Segments and Other Financial Information above.  
+
+Fiscal 2018 Compared to Fiscal 2017: Excluding the effects of currency rate fluctuations, our total services revenues decreased during fiscal 2018 due primarily to revenue declines in our advanced customer services and education revenues. Constant currency decreases in our services revenues in the Americas region were partially offset by a constant currency services revenues increase in the Asia Pacific region, while services revenues in the EMEA region were flat.  
+
+In constant currency, total services expenses were flat during fiscal 2018. Total margin and total margin as a percentage of total services revenues decreased in fiscal 2018 due to the revenue decreases for this segment.  
+
+Fiscal 2017 Compared to Fiscal 2016: Excluding the effects of currency rate fluctuations, our total services revenues were flat in fiscal 2017. Constant currency increases in our consulting revenues during fiscal 2017, which were primarily attributable to our recent acquisitions, were substantially offset by constant currency decreases in our education revenues. On a constant currency basis, modest services revenues growth in the EMEA region during fiscal 2017 was offset by services revenues declines in the Asia Pacific region, while the Americas region was flat.  
+
+In constant currency, total services margin and total margin as a percentage of total services revenues decreased and total services expenses increased during fiscal 2017, primarily due to an increase in expenses associated with our consulting offerings, primarily higher consulting expense contributions from our recent acquisitions.  
+
+54  
+
+Table of Contents 
+
+Index to Financial Statements 
+
+Research and Development Expenses: Research and development expenses consist primarily of personnel related expenditures. We intend to continue to invest significantly in our research and development efforts because, in our judgment, they are essential to maintaining our competitive position.  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1)   
+
+Excluding stock-based compensation  
+
+Fiscal 2018 Compared to Fiscal 2017: On a constant currency basis, total research and development expenses decreased during fiscal 2018, primarily due to lower fiscal 2018 employee related expenses related to lower headcount resulting from the restructuring of certain of our research and development operations during fiscal 2018. These fiscal 2018 cost savings were partially offset by investments in the development of our cloud-based offerings and by higher stock-based compensation during fiscal 2018.  
+
+Fiscal 2017 Compared to Fiscal 2016: On a constant currency basis, total research and development expenses increased in fiscal 2017, primarily due to increased employee related expenses and higher stock-based compensation.  
+
+General and Administrative Expenses: General and administrative expenses primarily consist of personnel related expenditures for IT, finance, legal and human resources support functions.  
+
+  [DATA_TABLE_REMOVED] 
+
+ (1)   
+
+Excluding stock-based compensation  
+
+Fiscal 2018 Compared to Fiscal 2017: Excluding the effects of currency rate fluctuations, total general and administrative expenses increased in fiscal 2018 due to increased employee related expenses from increased headcount and higher stock-based compensation.  
+
+Fiscal 2017 Compared to Fiscal 2016: Excluding the effects of currency rate fluctuations, total general and administrative expenses increased in fiscal 2017 primarily due to similar reasons noted above, which were partially offset by lower professional services expenses that were primarily legal related.  
+
+55  
+
+Table of Contents 
+
+Index to Financial Statements 
+
+Acquisition Related and Other Expenses: Acquisition related and other expenses consist of personnel related costs and stock-based compensation for transitional and certain other employees, integration related professional services, and certain business combination adjustments including certain adjustments after the measurement period has ended and certain other operating items, net. Stock-based compensation expenses included in acquisition related and other expenses resulted from unvested restricted stock-based awards and stock options assumed from acquisitions whereby vesting was accelerated generally upon termination of the employees pursuant to the original terms of those restricted stock-based awards and stock options.  
+
+  [DATA_TABLE_REMOVED] 
+
+Fiscal 2018 Compared to Fiscal 2017: On a constant currency basis, acquisition related and other expenses decreased in fiscal 2018 primarily due to lower stock-based compensation expenses and were also offset by certain benefits we recorded to professional fees and other, net during fiscal 2018.  
+
+Fiscal 2017 Compared to Fiscal 2016: On a constant currency basis, acquisition related and other expenses increased in fiscal 2017 primarily due to higher stock-based compensation expenses as a result of our acquisition of NetSuite and higher professional fees. In addition, we recognized an acquisition related benefit of $19 million in fiscal 2016, which decreased acquisition related and other expenses during this period.  
+
+Amortization of Intangible Assets: Substantially all of our intangible assets were acquired through our business combinations. We amortize our intangible assets over, and monitor the appropriateness of, the estimated useful lives of these assets. We also periodically review these intangible assets for potential impairment based upon relevant facts and circumstances. Note 6 of Notes to Consolidated Financial Statements included elsewhere in this Annual Report has additional information regarding our intangible assets and related amortization.  
+
+  [DATA_TABLE_REMOVED] 
+
+Fiscal 2018 Compared to Fiscal 2017: Amortization of intangible assets increased in fiscal 2018 due to additional amortization from intangible assets that we acquired in connection with our acquisitions, primarily our acquisition of NetSuite.  
+
+Fiscal 2017 Compared to Fiscal 2016: Amortization of intangible assets decreased in fiscal 2017 due to a reduction in expenses associated with certain of our intangible assets that became fully amortized, partially offset by additional amortization from intangible assets that we acquired in connection with our acquisitions made in fiscal 2017, including those associated with our acquisition of NetSuite.  
+
+Restructuring Expenses: Restructuring expenses resulted from the execution of management approved restructuring plans that were generally developed to improve our cost structure and/or operations, often in conjunction with our acquisition integration strategies. Restructuring expenses consist of employee severance costs and may also include charges for duplicate facilities and other contract termination costs to improve our  
+
+56  
+
+Table of Contents 
+
+Index to Financial Statements 
+
+ cost structure prospectively. For additional information regarding our restructuring plans, see Note 8 of Notes to Consolidated Financial Statements included in our Annual Report.  
+
+  [DATA_TABLE_REMOVED] 
+
+Restructuring expenses in fiscal 2018 and fiscal 2017 primarily related to our 2017 Restructuring Plan which is substantially complete. Restructuring expenses in fiscal 2016 primarily related to our 2015 Restructuring Plan which is complete. Our management approved, committed to and initiated these plans in order to restructure and further improve efficiencies in our operations. We may incur additional restructuring expenses in future periods due to the initiation of new restructuring plans or from changes in estimated costs associated with existing restructuring plans.  
+
+The majority of the initiatives undertaken by our 2017 Restructuring Plan were effected to implement our continued move toward developing, marketing and selling our cloud-based offerings. These initiatives impacted certain of our sales and marketing and research and development operations. Cost savings realized pursuant to our 2017 Restructuring Plan initiatives were primarily offset by investments in resources and geographies that address the development, marketing and sale of our cloud-based offerings as customer preferences pivot to the Oracle Cloud.  
+
+Interest Expense:  
+
+  [DATA_TABLE_REMOVED] 
+
+Fiscal 2018 Compared to Fiscal 2017: Interest expense increased in fiscal 2018 primarily due to higher average borrowings resulting from our issuance of $10.0 billion of senior notes in November 2017, which was partially offset by a reduction in interest expense resulting from the maturity and repayment of $6.0 billion of senior notes in fiscal 2018. See Recent Financing Activities below and Note 7 of Notes to Consolidated Financial Statements included elsewhere in this Annual Report for additional information regarding our borrowings.  
+
+Fiscal 2017 Compared to Fiscal 2016: Interest expense increased in fiscal 2017 primarily due to higher average borrowings resulting from our issuance of $14.0 billion of senior notes in July 2016. This increase in interest expense during fiscal 2017 was partially offset by a reduction in interest expense resulting from the maturity and repayment of $2.0 billion of senior notes in January 2016.  
+
+Non-Operating Income, net: Non-operating income, net consists primarily of interest income, net foreign currency exchange gains (losses), the noncontrolling interests in the net profits of our majority-owned subsidiaries (primarily Oracle Financial Services Software Limited and Oracle Corporation Japan) and net other income (losses), including net realized gains and losses related to all of our investments and net unrealized gains and losses related to the small portion of our investment portfolio that we classify as trading.  
+
+  [DATA_TABLE_REMOVED] 
+
+57  
+
+Table of Contents 
+
+Index to Financial Statements 
+
+Fiscal 2018 Compared to Fiscal 2017: On a constant currency basis, our non-operating income, net for fiscal 2018 increased primarily due to higher interest income in fiscal 2018 resulting from higher cash, cash equivalent and short-term investment balances and higher interest rates, lower foreign currency losses in fiscal 2018, and an increase in other income, net in fiscal 2018 related to higher net realized gains on the sale of certain marketable securities.  
+
+Fiscal 2017 Compared to Fiscal 2016: On a constant currency basis, our non-operating income, net for fiscal 2017 increased primarily due to higher interest income resulting from higher cash, cash equivalent and short-term investment balances and higher interest rates. In addition, we incurred higher other income, net during fiscal 2017 related to investment gains for our deferred compensation plan investments that we held and classified as trading in comparison to net losses for such investments during fiscal 2016. The aforementioned favorable movements in non-operating income, net during fiscal 2017 were partially offset by higher foreign currency losses, net during fiscal 2017.  
+
+Provision for Income Taxes: Our effective tax rates for each of the periods presented were the result of the mix of income earned in various tax jurisdictions that apply a broad range of income tax rates. In fiscal 2018, the Tax Act was signed into law. The more significant provisions of the Tax Act as applicable to us are described above under Impacts of the U.S. Tax Cuts and Jobs Act of 2017. Our provision for income taxes for the fiscal 2018 presented varied from the 21% U.S. statutory rate imposed by the Tax Act due primarily to the January 1, 2018 effective date of the Tax Act, the impacts of the Tax Act upon adoption, state taxes, the U.S. research and development tax credit, settlements with tax authorities, the tax effects of stock-based compensation, and the U.S. domestic production activity deduction. Prior to the January 1, 2018 effective date of the Tax Act, our provision for income taxes historically differed from the tax computed at the previous U.S. federal statutory income tax rate due primarily to certain earnings considered as indefinitely reinvested in foreign operations, state taxes, the U.S. research and development tax credit, settlements with tax authorities, the tax effects of stock-based compensation and the U.S. domestic production activity deduction. Future effective tax rates could be adversely affected by an unfavorable shift of earnings weighted to jurisdictions with higher tax rates, by unfavorable changes in tax laws and regulations, by adverse rulings in tax related litigation, or by shortfalls in stock-based compensation realized by employees relative to stock-based compensation that was recorded for book purposes, among others.  
+
+  [DATA_TABLE_REMOVED] 
+
+Fiscal 2018 Compared to Fiscal 2017: Provision for income taxes increased in fiscal 2018, relative to fiscal 2017, primarily due to the net unfavorable impacts due to our initial accounting for the enactment of the Tax Act on January 1, 2018 (refer to Impacts of the U.S. Tax Cuts and Jobs Act of 2017 above for additional information) and, to a lesser extent, by the tax effect of higher income before provision for income taxes (determined after taking into account the net favorable impact of the Tax Act on our tax profile) during fiscal 2018; an unfavorable shift in jurisdiction mix of earnings in fiscal 2018; and a decrease in unrecognized tax benefits due to settlements with tax authorities and other events during fiscal 2018. These unfavorable impacts to our provision for income taxes were partially offset by higher fiscal 2018 realized excess tax benefits related to stock-based compensation expense.  
+
+Fiscal 2017 Compared to Fiscal 2016: Provision for income taxes in fiscal 2017 decreased relative to fiscal 2016 primarily due to the favorable impact of excess tax benefits recognized in fiscal 2017 that related to stock-based compensation, which were recorded as a benefit to provision for income taxes in fiscal 2017, in comparison to fiscal 2016 when such benefits were recognized as an increase to additional paid in capital. To a lesser extent, the provision for income taxes in fiscal 2017 also benefited from a favorable jurisdictional mix of earnings, as well as net favorable changes in fiscal 2017 relating to unrecognized tax benefits from audit settlements, statute of limitation releases, and other events.  
+
+58  
+
+Table of Contents 
+
+Index to Financial Statements 
+
+Liquidity and Capital Resources  
+
+  [DATA_TABLE_REMOVED] 
+
+Working capital: The increase in working capital as of May 31, 2018 in comparison to May 31, 2017 was primarily due to our issuance of $10.0 billion of long-term senior notes in November 2017 (refer to Recent Financing Activities Below for additional information), the favorable impacts to our net current assets resulting from our net income during fiscal 2018 and cash proceeds from stock option exercises. These favorable working capital movements were partially offset by cash used for repurchases of our common stock, cash used to pay dividends to our stockholders, cash used for capital expenditures and cash used for acquisitions in fiscal 2018.  
+
+The increase in working capital as of May 31, 2017 in comparison to May 31, 2016 was primarily due to our issuance of $14.0 billion of long-term senior notes in July 2016, the favorable impacts to our net current assets resulting from our net income during fiscal 2017 and cash proceeds from stock option exercises. These favorable working capital movements were partially offset by cash used for acquisitions, including $9.0 billion of net cash used for our acquisition of NetSuite in the second quarter of fiscal 2017, cash used for repurchases of our common stock, cash used to pay dividends to our stockholders and cash used for capital expenditures.  
+
+Our working capital may be impacted by some or all of the aforementioned factors in future periods, the amounts and timing of which are variable.  
+
+Cash, cash equivalents and marketable securities: Cash and cash equivalents primarily consist of deposits held at major banks, Tier-1 commercial paper and other securities with original maturities of 90 days or less. Marketable securities consist of Tier-1 commercial paper debt securities, corporate debt securities and certain other securities. The increase in cash, cash equivalents and marketable securities at May 31, 2018 in comparison to May 31, 2017 was primarily due to the issuance of $12.5 billion of cash inflows from fiscal 2018 debt issuances (refer to Recent Financing Activities Below for additional information), cash inflows generated by our operations and cash inflows from stock option exercises. These cash inflows were partially offset by certain fiscal 2018 cash outflows, primarily $11.3 billion of repurchases of our common stock, the repayment of $9.8 billion of borrowings, payments of cash dividends to our stockholders and cash used for capital expenditures.  
+
+As a result of the enactment of the Tax Act on January 1, 2018, we expect greater flexibility in accessing and utilizing our cash, cash equivalent and marketable securities balances held by certain of our foreign subsidiaries, as well as prospective assets generated by these foreign subsidiaries future earnings and profits. We believe we have sufficient cash, cash equivalent and marketable securities balances and access to additional capital resources, if required, to settle the $7.8 billion one-time transition tax described under Impacts of the U.S. Tax Cuts and Jobs Act of 2017 above.  
+
+The amount of cash, cash equivalents and marketable securities that we report in U.S. Dollars for a significant portion of the cash, cash equivalents and marketable securities balances held by our foreign subsidiaries is subject to translation adjustments caused by changes in foreign currency exchange rates as of the end of each respective reporting period (the offset to which is substantially recorded to accumulated other comprehensive loss in our consolidated balance sheets and is also presented as a line item in our consolidated statements of comprehensive income included elsewhere in this Annual Report). As the U.S. Dollar generally weakened against certain major international currencies during fiscal 2018, the amount of cash, cash equivalents and marketable securities that we reported in U.S. Dollars for these subsidiaries increased on a net basis as of May 31, 2018 relative to what we would have reported using constant currency rates from our May 31, 2017 balance sheet date.  
+
+The increase in cash, cash equivalents and marketable securities at May 31, 2017 in comparison to May 31, 2016 was primarily due to cash inflows generated by our operations during fiscal 2017, $13.6 billion of net cash inflows from fiscal 2017 debt issuances, net of debt repayments, and cash inflows from fiscal 2017 stock option  
+
+59  
+
+Table of Contents 
+
+Index to Financial Statements 
+
+ exercises. These fiscal 2017 cash inflows were partially offset by certain fiscal 2017 cash outflows, primarily acquisitions, including our acquisition of NetSuite, repurchases of our common stock, payments of cash dividends to our stockholders, and cash used for capital expenditures. Additionally, our reported cash, cash equivalents and marketable securities balances as of May 31, 2017 decreased on a net basis in comparison to May 31, 2016 as the U.S. Dollar generally strengthened in comparison to most major international currencies during fiscal 2017.  
+
+  [DATA_TABLE_REMOVED] 
+
+Cash flows from operating activities: Our largest source of operating cash flows is cash collections from our customers following the purchase and renewal of their license support agreements. Payments from customers for these support agreements are generally received near the beginning of the contracts terms, which are generally one year in length. Over the course of a fiscal year, we also have historically generated cash from the sales of new licenses, cloud services, hardware offerings and services. Our primary uses of cash from operating activities are for employee related expenditures, material and manufacturing costs related to the production of our hardware products, taxes and leased facilities.  
+
+Fiscal 2018 Compared to Fiscal 2017: Net cash provided by operating activities increased during fiscal 2018 primarily due to higher net income after adjusting for the one-time income tax accounting effects of our adoption of the Tax Act (refer to Impacts of the U.S. Tax Cuts and Jobs Act of 2017 for additional discussion).  
+
+Fiscal 2017 Compared to Fiscal 2016: Net cash provided by operating activities increased during fiscal 2017 primarily due to the cash favorable effects of higher net income in fiscal 2017 in relation to fiscal 2016.  
+
+Cash flows from investing activities: The changes in cash flows from investing activities primarily relate to our acquisitions, the timing of our purchases, maturities and sales of our investments in marketable debt securities and investments in capital and other assets, including certain intangible assets, to support our growth.  
+
+Fiscal 2018 Compared to Fiscal 2017: Net cash used for investing activities decreased in fiscal 2018 relative to fiscal 2017 primarily due to a decrease in net cash used for acquisitions, net of cash acquired, and a decrease in cash used to purchase marketable securities and other investments, net of proceeds received from sales and maturities.  
+
+Fiscal 2017 Compared to Fiscal 2016: Net cash used for investing activities increased in fiscal 2017 relative to fiscal 2016 primarily due to an increase in cash used for acquisitions, net of cash acquired in fiscal 2017, an increase in cash used to purchase marketable securities and other investments (net of proceeds received from sales and maturities) in fiscal 2017 and increased capital expenditures primarily related to our fiscal 2017 real estate purchases and investments in equipment to support our infrastructure to deliver our cloud services.  
+
+Cash flows from financing activities: The changes in cash flows from financing activities primarily relate to borrowings and repayments related to our debt instruments as well as stock repurchases, dividend payments and net proceeds related to employee stock programs.  
+
+Fiscal 2018 Compared to Fiscal 2017: Net cash used for financing activities in fiscal 2018 was $10.0 billion in comparison to net cash provided by financing activities of $9.1 billion during fiscal 2017. The increase in cash used for financing activities during fiscal 2018 was primarily due to increased stock repurchase activity in fiscal 2018 (we used $11.3 billion in fiscal 2018 for stock repurchases in comparison to $3.6 billion in fiscal 2017) and debt related cash flows for which we had $2.6 billion of cash inflows from borrowings, net of repayments, in fiscal 2018 in comparison to $13.6 billion of cash inflows from borrowings, net of repayments, in fiscal 2017.  
+
+Fiscal 2017 Compared to Fiscal 2016: Net cash provided by financing activities in fiscal 2017 was $9.1 billion in comparison to net cash used for financing activities of $10.0 billion during fiscal 2016. The change in financing activities cash flows during fiscal 2017 in comparison to fiscal 2016 was primarily related to borrowing activities,  
+
+60  
+
+Table of Contents 
+
+Index to Financial Statements 
+
+ net of debt repayments and stock repurchase activity. We received $13.6 billion of net cash inflows from borrowing activities during fiscal 2017 in comparison to $1.8 billion of net cash inflows from fiscal 2016 borrowing activities. In addition, we significantly reduced our stock repurchase activity in fiscal 2017, using $3.6 billion, in comparison to fiscal 2016 when we used $10.4 billion.  
+
+Free cash flow: To supplement our statements of cash flows presented on a GAAP basis, we use non-GAAP measures of cash flows on a trailing 4-quarter basis to analyze cash flows generated from our operations. We believe that free cash flow is also useful as one of the bases for comparing our performance with our competitors. The presentation of non-GAAP free cash flow is not meant to be considered in isolation or as an alternative to net income as an indicator of our performance, or as an alternative to cash flows from operating activities as a measure of liquidity. We calculate free cash flow as follows:  
+
+  [DATA_TABLE_REMOVED] 
+
+Long-Term Customer Financing: We offer certain of our customers the option to acquire licenses, cloud services, hardware and services offerings through separate long-term payment contracts. We generally sell these contracts that we have financed for our customers on a non-recourse basis to financial institutions within 90 days of the contracts dates of execution. We generally record the transfers of amounts due from customers to financial institutions as sales of financing receivables because we are considered to have surrendered control of these financing receivables. We financed $1.5 billion in fiscal 2018, $912 million in 2017 and $1.2 billion in fiscal 2016, respectively, or approximately 24%, 14% and 16% of our cloud license and on-premise license revenues in fiscal 2018, 2017 and 2016, respectively.  
+
+Recent Financing Activities:  
+
+Cash Dividends: In fiscal 2018, we declared and paid cash dividends of $0.76 per share that totaled $3.1 billion. In June 2018, our Board of Directors declared a quarterly cash dividend of $0.19 per share of our outstanding common stock payable on July 31, 2018 to stockholders of record as of the close of business on July 17, 2018. Future declarations of dividends and the establishment of future record and payment dates are subject to the final determination of our Board of Directors.  
+
+Swap Agreements: In May 2018, we entered into certain cross-currency interest rate swap agreements to manage the foreign currency exchange risk and interest rate risk associated with our 750 million of 3.125% senior notes due July 2025 (July 2025 Notes) by effectively converting the fixed-rate, Euro denominated July 2025 Notes, including the annual interest payments and the payment of principal at maturity, to variable-rate, U.S. Dollar denominated debt. The economic effect of the swap agreement was to eliminate the uncertainty of the principal balance in U.S. Dollars associated with the July 2025 Notes by fixing the principal amount of the July 2025 Notes at $868 million and modify the related fixed interest obligations so that the interest payable on these notes became variable based on LIBOR. As of May 31, 2018, our July 2025 Notes had an effective interest rate of 5.17% after considering the effects of the aforementioned cross-currency interest rate swap arrangement. We are accounting for these cross-currency interest rate swap agreements as fair value hedges pursuant to ASC 815, Derivatives and Hedging (ASC 815).  
+
+In April 2018, we entered into certain interest rate swap agreements that have the economic effect of modifying the fixed interest obligations associated with our $1.5 billion of 6.50% senior notes due April 2038 (April 2038 Notes), so that the interest payable on these notes became variable based on LIBOR. As of May 31, 2018, our April 2038 Notes had effective interest rates of 5.65% after considering the effects of the aforementioned interest rate swap arrangements. We are accounting for these interest rate swap agreements as fair value hedges pursuant to ASC 815.  
+
+61  
+
+Table of Contents 
+
+Index to Financial Statements 
+
+Additional details regarding our senior notes and related interest rate swap agreements are included in Notes 7 and 10 of Notes to Consolidated Financial Statements, included elsewhere in this Annual Report.  
+
+Revolving Credit Agreements: In May 2018, we entered into three revolving credit agreements with JPMorgan Chase Bank, N.A., as initial lender and administrative agent (the 2018 Credit Agreements) and borrowed $2.5 billion pursuant to these agreements. The 2018 Credit Agreements provided us with short-term borrowings for working capital and other general corporate purposes. Interest for the 2018 Credit Agreements is based on either (1) a LIBOR-based formula or (2) the Base Rate formula, each as set forth in the 2018 Credit Agreements. The borrowings are due and payable on June 28, 2018, which is the termination date of the 2018 Credit Agreements. Additional details regarding the 2018 Credit Agreements are included in Note 7 of Notes to Consolidated Financial Statements included elsewhere in this Annual Report.  
+
+Common Stock Repurchase Program: Our Board of Directors has approved a program for us to repurchase shares of our common stock. During fiscal 2018, our Board of Directors approved expansions of our stock repurchase program totaling $24.0 billion. As of May 31, 2018, approximately $17.8 billion remained available for stock repurchases pursuant to our stock repurchase program. We repurchased 238.0 million shares for $11.5 billion, 85.6 million shares for $3.5 billion, and 271.9 million shares for $10.4 billion in fiscal 2018, 2017 and 2016, respectively. Our stock repurchase authorization does not have an expiration date and the pace of our repurchase activity will depend on factors such as our working capital needs, our cash requirements for acquisitions and dividend payments, our debt repayment obligations or repurchases of our debt, our stock price, and economic and market conditions. Our stock repurchases may be effected from time to time through open market purchases and pursuant to a Rule 10b5-1 plan. Our stock repurchase program may be accelerated, suspended, delayed or discontinued at any time.  
+
+Senior Notes: In November 2017, we issued $10.0 billion of senior notes comprised of the following:  
+
+       
+
+$1.25 billion of 2.625% senior notes due February 2023;  
+
+       
+
+$2.00 billion of 2.95% senior notes due November 2024;  
+
+       
+
+$2.75 billion of 3.25% senior notes due November 2027;  
+
+       
+
+$1.75 billion of 3.80% senior notes due November 2037; and  
+
+       
+
+$2.25 billion of 4.00% senior notes due November 2047.  
+
+We issued the senior notes for general corporate purposes, which may include stock repurchases, payment of cash dividends on our common stock, repayment of indebtedness and future acquisitions. Additionally, in fiscal 2018, we repaid $3.5 billion of senior notes pursuant to their terms. Additional details regarding our senior notes are included in Note 7 of Notes to Consolidated Financial Statements included elsewhere in this Annual Report.  
+
+Contractual Obligations: The contractual obligations presented in the table below represent our estimates of future payments under our fixed contractual obligations and commitments. Changes in our business needs, cancellation provisions, changing interest rates and other factors may result in actual payments differing from these estimates. We cannot provide certainty regarding the timing and amounts of payments. We have presented below a summary of the most significant assumptions used in preparing this information within the context of our consolidated financial position, results of operations and cash flows. The following is a summary of certain of our contractual obligations as of May 31, 2018:  
+
+  [DATA_TABLE_REMOVED] 
+
+62  
+
+Table of Contents 
+
+Index to Financial Statements 
+
+ (1)   
+
+Represents the principal balances and interest payments to be paid in connection with our senior notes and other borrowings outstanding as of May 31, 2018 after considering:  
+
+       
+
+certain interest rate swap agreements for certain series of senior notes that have the economic effect of modifying the fixed-interest obligations associated with these senior notes so that they effectively became variable pursuant to a LIBOR-based index. Interest payments on these senior notes have been presented in the table above after consideration of these fixed to variable interest rate swap agreements based upon the interest rates applicable as of May 31, 2018 and are subject to change in future periods;  
+
+       
+
+interest payments on our floating-rate senior notes that are based upon the interest rates applicable to the senior notes as of May 31, 2018 and are subject to change in future periods;  
+
+       
+
+certain cross-currency swap agreements for our 1.25 billion 2.25% senior notes due 2021 that have the economic effect of converting our fixed-rate, Euro-denominated debt, including annual interest payments and the payment of principal at maturity, to a fixed-rate, U.S. Dollar-denominated debt with a fixed annual interest rate. Principal and interest payments for these senior notes were calculated and presented in the table above based on the terms of these cross-currency swap agreements; and  
+
+       
+
+certain cross-currency interest rate swap agreements for our 750 million 3.125% senior notes due July 2025 that have the economic effect of converting our fixed-rate, Euro-denominated debt, including annual interest payments and the payment of principal at maturity, to a variable-rate, U.S. Dollar-denominated debt. Principal and interest payments for these senior notes were calculated and presented in the table above based on the terms of these cross-currency interest rate swap agreements.  
+
+Refer to Notes 7 and 10 of Notes to Consolidated Financial Statements included elsewhere in this Annual Report for additional information related to our notes payable and other borrowings and related derivative agreements.  
+
+ (2)   
+
+Primarily represents leases of facilities and includes future minimum rent payments for facilities that we have vacated pursuant to our restructuring and merger integration activities. We have approximately $61 million in facility obligations, net of estimated sublease income, for certain vacated locations in accrued restructuring on our consolidated balance sheet at May 31, 2018.  
+
+ (3)   
+
+Primarily represents amounts associated with agreements that are enforceable and legally binding and specify terms, including: fixed or minimum quantities to be purchased; fixed, minimum or variable price provisions; and the approximate timing of the payment. We utilize several external manufacturers to manufacture sub-assemblies for our hardware products and to perform final assembly and testing of finished hardware products. We also obtain individual hardware components for our products from a variety of individual suppliers based on projected demand information. Such purchase commitments are based on our forecasted component and manufacturing requirements and typically provide for fulfillment within agreed upon lead-times and/or commercially standard lead-times for the particular part or product and have been included in the amount presented in the above contractual obligations table. Routine arrangements for other materials and goods that are not related to our external manufacturers and certain other suppliers and that are entered into in the ordinary course of business are not included in the amounts presented above, as they are generally entered into in order to secure pricing or other negotiated terms and are difficult to quantify in a meaningful way.  
+
+As of May 31, 2018, we had $6.6 billion of gross unrecognized income tax benefits, including related interest and penalties, recorded on our consolidated balance sheet, and all such obligations have been excluded from the contractual obligations table above due to the uncertainty as to when they might be settled. We cannot make a reasonably reliable estimate of the period in which the remainder of our unrecognized income tax benefits will be settled or released with the relevant tax authorities, although we believe it is reasonably possible that certain of these liabilities could be settled or released during fiscal 2019. We are involved in claims and legal proceedings. All such claims and obligations have been excluded from the contractual obligations table above due to the uncertainty of claims and legal proceedings and associated estimates and assumptions, all of which are inherently unpredictable and many aspects of which are out of our control. Notes 14 and 17 of Notes to Consolidated Financial Statements included elsewhere in this Annual Report includes additional information regarding these contingencies.  
+
+We believe that our current cash, cash equivalents and marketable securities and cash generated from operations will be sufficient to meet our working capital, capital expenditures and contractual obligation requirements, including the $7.8 billion one-time transition tax described under Impacts of the U.S. Tax Cuts and Jobs Act of 2017 above. In addition, we believe that we could fund our future acquisitions, dividend payments and repurchases of common stock or debt with our internally available cash, cash equivalents and marketable securities, cash generated from operations, additional borrowings or from the issuance of additional securities.  
+
+Off-Balance Sheet Arrangements: We do not have any off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources that are material to investors.  
+
+63  
+
+Table of Contents 
+
+Index to Financial Statements 
+
+Selected Quarterly Financial Data  
+
+Quarterly revenues, expenses and operating income have historically been affected by a variety of seasonal factors, including the structure of sales force incentive compensation plans. In addition, our European operations generally provide lower revenues in our first fiscal quarter because of the reduced economic activity in Europe during the summer. These seasonal factors are common in the technology industry. These factors have historically caused a decrease in our first quarter revenues as compared to revenues in the immediately preceding fourth quarter, which historically has been our highest revenue quarter within a particular fiscal year. Similarly, the operating income of our business is affected by seasonal factors in a similar manner as our revenues (in particular, our cloud and license business and hardware business) as certain expenses within our cost structure are relatively fixed in the short term. We expect these trends to continue in fiscal 2019.  
+
+The following tables set forth selected unaudited quarterly information for our last eight fiscal quarters. We believe that all necessary adjustments, which consisted only of normal recurring adjustments, have been included in the amounts stated below to present fairly the results of such periods when read in conjunction with the consolidated financial statements and related notes included elsewhere in this Annual Report. The sum of the quarterly financial information may vary from annual data due to rounding.  
+
+  [DATA_TABLE_REMOVED] 
+
+Restricted Stock-Based Awards and Stock Options  
+
+Our stock-based compensation program is a key component of the compensation package we provide to attract and retain certain of our talented employees and align their interests with the interests of existing stockholders.  
+
+We recognize that restricted stock-based awards and stock options dilute existing stockholders and have sought to control the number of stock-based awards granted while providing competitive compensation packages. Consistent with these dual goals, our cumulative potential dilution since June 1, 2015 has been a weighted-average annualized rate of 1.7% per year. The potential dilution percentage is calculated as the average annualized new restricted stock-based awards or stock options granted and assumed, net of restricted stock-based awards and stock options forfeited by employees leaving the company, divided by the weighted-average outstanding shares during the calculation period. This maximum potential dilution will only result if all restricted stock-based awards vest and stock options are exercised. Of the outstanding stock options at May 31, 2018, which generally have a ten-year exercise period, approximately 19% have exercise prices higher than the market price of our common stock on such date. In recent years, our stock repurchase program has more than offset the dilutive effect of our stock-based compensation program. However, we may modify the levels of our stock repurchases in the future depending on a number of factors, including the amount of cash we have available for acquisitions, to pay dividends, to repay or repurchase indebtedness or for other purposes. At May 31, 2018, the maximum potential dilution from all outstanding restricted stock-based awards and  
+
+64  
+
+Table of Contents 
+
+Index to Financial Statements 
+
+ unexercised stock options, regardless of when granted and regardless of whether vested or unvested and including stock options where the strike price is higher than the market price as of such date, was 9.8%.  
+
+During fiscal 2018, the Compensation Committee of the Board of Directors reviewed and approved the annual organization-wide stock-based award grants to selected employees, all stock-based award grants to executive officers and any individual grant of restricted stock units of 62,500 or greater. Each member of a separate executive officer committee, referred to as the Plan Committee, was allocated a fiscal 2018 equity budget that could be used throughout the fiscal year to grant equity within his or her organization, subject to certain limitations established by the Compensation Committee.  
+
+Restricted stock-based award and stock option activity from June 1, 2015 through May 31, 2018 is summarized as follows (shares in millions):  
+
+  [DATA_TABLE_REMOVED] 
+
+Our Compensation Committee approves the annual organization-wide stock-based award grants to certain employees. These annual stock-based award grants are generally made during the ten business day period following the second trading day after the announcement of our fiscal fourth quarter earnings report.  
+
+Recent Accounting Pronouncements  
+
+For information with respect to recent accounting pronouncements, if any, and the impact of these pronouncements on our consolidated financial statements, if any, see Note 1 of Notes to Consolidated Financial Statements included elsewhere in this Annual Report.  
+
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk

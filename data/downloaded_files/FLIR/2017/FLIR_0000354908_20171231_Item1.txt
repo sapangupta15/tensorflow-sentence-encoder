@@ -1,0 +1,509 @@
+PART I
+
+ITEM 1.BUSINESS
+
+GENERAL
+
+FLIR Systems, Inc. (“FLIR,” the “Company,” “we,” “us,” or “our”) is a world leader in developing technologies that enhance perception and awareness. We design, develop, market, and distribute solutions that detect people, objects and substances that may not be perceived by human senses and improve the way people interact with the world around them. We bring these innovative technologies - which include thermal imaging systems, visible-light imaging systems, locater systems, measurement and diagnostic systems, and advanced threat-detection solutions - into daily life. 
+
+Founded in 1978, FLIR is a pioneer in advanced sensors and integrated sensor systems that enable the gathering, measurement, and analysis of critical information through a wide variety of applications in commercial, industrial, government, and consumer markets worldwide. We offer the broadest range of infrared, also known as thermal, imaging solutions in the world, with products that range from consumer-use thermal camera smartphone accessories to highly advanced aircraft-mounted imaging systems for military and search and rescue applications, with products in between serving a multitude of markets, customers, and applications. As the cost of thermal imaging technology has declined, our opportunities to increase the adoption of thermal technology and create new markets for the technology have expanded. In order to better serve the customers in these markets, we have augmented our thermal product offerings with complementary sensing technologies, such as visible imaging, radar, laser, sonar, chemical sensing, and environmental sensing technologies.
+
+Our goal is to both enable our customers to benefit from the valuable information produced by advanced sensing technologies and to deliver sustained superior financial performance for our shareholders. We create value for our customers by improving personal and public safety and security, providing advanced intelligence, surveillance, reconnaissance, and tactical defense capabilities, facilitating air, ground, and maritime-based situational awareness, enhancing enjoyment of the outdoors, detecting electrical, mechanical and building envelope problems, displaying process irregularities, detecting volatile organic gas emissions, and a variety of other uses of thermal and other sensing technologies. 
+
+Our business model and range of solutions allow FLIR to sell products to various end markets, including industrial, original equipment manufacturing ("OEM"), military, homeland security, enterprise, infrastructure, environmental, and consumer. We sell off-the-shelf products in configurations to suit specific customer requirements in an efficient, timely, and affordable manner, and support those customers with training and ongoing support and services. Centered on the design of products for low-cost manufacturing and high-volume distribution, our commercial operating model has been developed over time and provides us with 
+
+1
+
+a unique ability to adapt to market changes and meet our customers’ needs. Because we aggregate product demand and production across these markets, we are able to generate significant volume - this volume drives down cost, which then increases demand, enabling a virtuous cycle of lower prices and higher unit volumes. Our manufacturing and supply processes are vertically integrated, minimizing lead times, facilitating prompt delivery, controlling costs and ensuring that components satisfy our high quality standards.
+
+We have evolved our product suite over time, expanding our reach into markets that are adjacent to thermal imaging, with the intent of expanding the adoption and channel development for thermal imaging technology. Examples of this evolution include our entrance into the visible-image security and surveillance market, the maritime electronics market, the industrial machine vision market, and the traffic monitoring and signal control market. We intend to continue this evolution as we continue to lower the cost of advanced sensing products. As the cost to own thermal technology continues to decline, the application of these sensors is expanding beyond imaging to areas such as data acquisition where thermal sensors can provide important data that can be used for a wide variety of applications.
+
+We believe that FLIR's brand is known for quality, innovation and trust and that customers are drawn to us for products and solutions that are effective, innovative, easy to use, and sold at competitive market prices. We intend to: continue to reduce the cost of thermal technology through higher volumes and new product and process improvements; innovate new applications and form-factors for our technology based on customer feedback; improve the customer experience through improved user-interface, ease-of-use, and software; increase customer loyalty and trust by providing world-class product warranties and support; and improve operational processes to realign resources to be nimble in response to customers’ needs and market trends.
+
+Through December 31, 2017, our business was organized into six operating segments: Surveillance, Instruments, Security, OEM & Emerging Markets, Maritime and Detection. In August 2017, we announced a realignment of our business into three principle business units: Government and Defense, Industrial, and Commercial. For the purposes of this report, all business descriptions and financial results are based upon our reporting structure as of December 31, 2017.
+
+As of December 31, 2017, we were organized into the following six operating segments:
+
+Surveillance: The Surveillance segment provides enhanced imaging and recognition solutions under our commercially developed, military qualified ("CDMQ") model to a wide variety of military, law enforcement, public safety, and other government customers around the world for the protection of borders, troops, and public welfare. Surveillance also develops hand-held and weapon-mounted thermal imaging systems for use by consumers. These products are sold off-the-shelf or can be customized for specific applications and range in price from under $1,000 for certain hand-held and weapon-mounted systems to over $1 million for our most advanced stabilized multi-spectral targeting systems. Revenue from Surveillance was $545.8 million in 2017, which represented approximately 30 percent of consolidated revenue.
+
+Instruments: The Instruments segment provides devices that image, measure, and assess thermal energy, gases, electricity, and other environmental elements for industrial, commercial, and scientific applications under the FLIR and Extech brands. These tools are used by professionals in electrical and mechanical, building envelope, manufacturing plant facility maintenance, petrochemical, utilities, HVAC/R, firefighting, safety and health, and a variety of other sectors. Revenue from Instruments was $357.8 million in 2017, which represented approximately 20 percent of consolidated revenue.
+
+Security: The Security segment develops and manufactures a wide spectrum of cameras and video recording systems for use in commercial, critical infrastructure, and home monitoring applications. The segment sells products under the FLIR and Lorex brands. Revenue from Security was $231.5 million in 2017, which represented approximately 13 percent of consolidated revenue. On February 6, 2018, we completed the sale of Lorex and our consumer and small and medium-sized visible-spectrum security products business. This sale is expected to enable us to focus the Security segment on critical infrastructure and enterprise segments of the broader security market. See Note 21, "Subsequent Events," to the Consolidated Financial Statements in Item 8 for additional information.
+
+OEM & Emerging Markets: The OEM & Emerging Markets segment provides thermal and visible-spectrum imaging camera cores and components that are utilized by third parties to create thermal, industrial, and other types of imaging systems. This segment also houses our emerging businesses, including intelligent traffic systems, imaging solutions for the smartphone and mobile devices market, and thermal imaging solutions for commercial-use unmanned aerial systems ("UAS"). Revenue from OEM & Emerging Markets was $347.2 million in 2017, which represented approximately 19 percent of consolidated revenue.
+
+2
+
+Maritime: The Maritime segment develops and manufactures electronics and imaging instruments for the recreational and commercial maritime market under the FLIR and Raymarine brands. The segment provides boats of all sizes, a full suite of electronic instruments, control systems, and communications equipment. Revenue from Maritime was $189.7 million in 2017, which represented approximately 11 percent of consolidated revenue.
+
+Detection: The Detection segment offers sensors, instruments, and integrated platform solutions for the detection, identification, and suppression of chemical, biological, radiological, nuclear, and explosives ("CBRNE") threats for military force protection, homeland security, first responders, and commercial applications. Detection has strengths in understanding the nature of sophisticated security threats, the technological potential of advanced detection instruments and systems, and the complex procurement processes of United States and many international government customers. Revenue from Detection was $128.5 million in 2017, which represented 7 percent of consolidated revenue.
+
+For additional information concerning the Company’s segments, including revenues from external customers, earnings from operations, and total assets by segment presented in accordance with our segment structure, see Note 17 to the Consolidated Financial Statements in Item 8. 
+
+Our headquarters are located at 27700 SW Parkway Avenue, Wilsonville, Oregon, 97070, and the telephone number at this location is (503) 498-3547. Information about the Company is available on our website at www.flir.com.
+
+TECHNOLOGY AND CAPABILITIES
+
+Infrared is a portion of the electromagnetic spectrum that is adjacent to the visible spectrum but is invisible to the human eye due to its longer wavelengths. Unlike visible light, infrared radiation (or heat) is emitted directly by all objects above absolute zero in temperature. Thermal imaging systems detect this infrared radiation and convert it into an electronic signal, which is then processed into a video signal and displayed on a video screen. Thermal sensors provide several benefits over ubiquitous visible light-based sensing technologies, including the ability to see in complete darkness, measure temperature remotely and without touching the surface of the object, image through obscurants such as smoke and fog, detect and discriminate living beings in an efficient and reliable way, see over long distances with minimal atmospheric interference, and image many types of otherwise invisible gases. For these reasons we feel the potential of our core technology to grow in prevalence and importance is significant, particularly as the cost to produce the technology continues to decline.
+
+Thermal imaging systems are different than other types of “low light” night vision systems, such as visible light intensification systems used in green or gray sighted night vision goggles, because thermal imaging systems are not adversely affected by the presence of visible light, so they can be used day or night and are not susceptible to rapid changes in visible light levels. Thermal imaging systems are particularly well-suited for security applications involving the early detection of human activity due to the typically large temperature difference found between a human and the surrounding background. Since infrared systems are detecting emitted infrared radiation, they are passive - and thus more covert than certain “active” or “illuminated” infrared systems. Additionally, thermal imaging systems have the ability to measure absolute temperatures remotely, a critical feature for a variety of commercial, industrial, and scientific applications.
+
+An infrared detector, which collects or absorbs infrared radiation and converts it into an electronic signal, is the primary component of thermal imaging systems. The two types of infrared detectors we manufacture and use in our systems are often referred to as “cooled” and “uncooled” detectors. Cooled detectors utilize a mechanical sterling cycle micro-cooler to reduce the operating temperature of the infrared sensor to approximately -200°C. These detectors offer very high sensitivity and spatial resolution for long-range applications or those applications requiring high measurement precision. Cooled detectors, while more sensitive and thus able to see farther, result in a product that is more expensive, heavier, more complex, and uses more power than those using uncooled detectors. Uncooled detectors operate at room temperature and do not require a micro-cooler, resulting in products that are lighter, use less power and are less expensive to produce than those using cooled detectors. The cost of both types of detectors is declining, and we expect to continue reducing costs as volumes rise and the technology advances.
+
+We have expertise in the calibration and repair of our products, and maintain service facilities at many locations worldwide. Each of our service facilities have the capability to perform the complex calibrations required to service thermal imaging systems. We also maintain field service capabilities under the direction of our independent representatives or distributors in certain locations outside the United States.
+
+3
+
+As our customers have sought, and will continue to seek, new ways to address their needs and requirements in the most cost-effective and efficient manner, we have integrated thermal imaging with complementary technologies such as visible imaging, lasers, radar, and more. The following capabilities and disciplines are integrated into our business and processes:
+
+System Design and Integration
+
+We have developed extensive competencies in the design and integration of numerous capabilities and payloads into integrated systems or sub-systems. Competencies such as stabilization, packaging and systems integration allow us to effectively combine a wide variety of technologies and payloads to suit our customers’ needs. We strive to minimize the size, weight, power consumption, and cost in each of our product designs. 
+
+Radiometry
+
+Our ability to produce thermal imaging systems that can accurately measure temperature remotely is critical in many of our Instruments segment markets. We have demonstrated know-how in designing and producing systems that can measure temperature to within very precise tolerances while maintaining accuracy and stability over time and over a wide range of ambient temperatures. We believe our skills in this area, known as thermal radiometry, offer an important competitive advantage over many of our competitors.
+
+Mechanical Engineering
+
+The design and production of thermal imaging systems involves highly sophisticated mechanical engineering techniques, particularly in the design and assembly of the supporting structures for system components such as detector arrays, micro-coolers, and optics. We also have expertise in designing stabilized assemblies used in our gimbal-mounted products utilizing precise electro-mechanical control, gyroscopes, electronic stabilization, and specialized optical control mechanisms. Also, through our 2016 acquisition of Prox Dynamics, we develop and manufacture nano-class UAS that are specifically designed to be man-portable and highly covert surveillance and reconnaissance sensors.
+
+Infrared Detector Design Manufacturing
+
+We design and manufacture both cooled and uncooled infrared detector arrays, in high volumes and at low costs. We believe our uncooled vanadium oxide microbolometers and cooled detectors using indium antimonide and indium gallium arsenide are among the highest performing infrared detectors of their type available in the world. Internal design and manufacturing of these detectors provides significant cost and engineering advantages compared with the use of external sources.
+
+Integrated Circuits and Electronic Design
+
+We have significant electronic design capabilities across several specialized areas, including readout-integrated circuit design, signal processing, image processing, and electronics integration. Our design expertise lies in the areas of reliability, low power consumption, and extreme environmental survivability. 
+
+Software Development
+
+Software is an increasingly important aspect of our overall engineering and design activity. We offer networking capabilities, video analytics, command and control, and advanced firmware in our camera and other sensing systems. Many of our products are supported by a software eco-system that includes dedicated desktop and mobile platform applications. Our products are typically developed with broad compatibility with common industry standards and protocols.
+
+Optical Design, Fabrication and Coating
+
+We design and manufacture sophisticated infrared optics using materials such as silicon, germanium, and zinc selenide that are required to produce a thermal imaging system. This capability allows us to rapidly develop optics optimized for use with our cameras and avoid costs and delays associated with reliance on third-party optics suppliers. We also have the capability to produce silicon wafer-level micro-optics at high volumes and the ability to apply custom multi-layer, vapor-deposited coatings to improve the transmission of the lens materials that are used in infrared systems.
+
+4
+
+Micro-Coolers
+
+We manufacture some of the industry’s smallest, lightest, and lowest power micro-coolers for use in cooling infrared detectors. Our coolers are especially effective in hand-held applications, where light weight and long battery life are essential.
+
+Lasers and Laser Components
+
+Many of our more sophisticated systems are increasingly being offered with various types of laser payloads, including pointers, illuminators, rangefinders, and designators. We design and manufacture purpose-built laser rangefinders and designators for inclusion in some of our gimbaled multi-sensor systems. We also manufacture certain laser-related materials and components for external customers. 
+
+Tactical Platforms
+
+We develop and manufacture comprehensive and integrated solutions for surveillance, assessment, and response. These platform solutions draw from our Surveillance and Detection products, as well as products sourced outside of the Company. These unmanned and manned networkable mobile and vehicle mounted systems can be deployed in nearly any environment and have provided security at borders, at theme parks, for police and military forces, at national monuments, and at high-profile events, both in the United States and internationally.
+
+RESEARCH & DEVELOPMENT
+
+Our success has been, and will continue to be, substantially affected by our ability to innovate new products and technologies that both augment our existing offerings and create new avenues for growth. We strive to differentiate ourselves from our competition with our research and development ("R&D") capabilities. Our internally funded R&D expenses were $170.7 million, $147.5 million, and $132.9 million in 2017, 2016 and 2015, respectively. We intend to continue to have significant internal R&D expenses in the future to provide a continuing flow of innovative and high-quality products to maintain and enhance our competitive position in each of our business segments. In addition to these internally funded activities, we engage in R&D projects that were reimbursed by government agencies or prime contractors pursuant to development contracts we undertook. We believe our R&D capabilities are most efficiently deployed in a commercial environment, where we are free to innovate to meet market and customer needs, as such, the amount of externally funded R&D work that we undertake has been declining.
+
+COMPETITIVE STRENGTHS
+
+With our decades of experience in developing and marketing infrared sensor products, we have built several unique competitive advantages that are core to our success. We look to leverage these strengths to continue to increase the availability of and uses for advanced sensing technologies and to grow our revenue and profitability:
+
+Commercial Operating Model 
+
+A key differentiator of our business model is our commercial approach to technology investment and product strategy. This is characterized by our commercial approach to R&D as described above, as well as our focus on global deployment, innovative marketing communications, superior customer service, rapid product development cycles, innovation of new technologies and unique products, ability to design for large-volume and low-cost production, and control of multiple production inputs through our vertically integrated operations. 
+
+Vertically Integrated Manufacturing and Supply
+
+We have built a vertically integrated manufacturing operation that provides control over several key component technologies. Through acquisitions and internal development, we have created this internal supply network that allows for optimized manufacturing throughput, rapid response to changes in customer demand, increased product design flexibility, enhanced product reliability, and independence in designing key components. Further, this integrated approach enables us to lower costs and improve the functionality of critical components so that they work together most efficiently within our products. In comparison to competitors that do not possess a similar level of vertical integration, our model helps us deliver products in a more timely and cost-effective manner as we rely less on third-party suppliers for critical components.
+
+5
+
+Industry-Leading Market Position 
+
+We are a leading developer of advanced, proprietary sensor systems that are highly reliable, accurate, and effective. We strive to develop products that lead in the areas of Size, Weight, Power and Cost ("SWAP-c"). We believe we have achieved significant penetration into many markets, including the government, industrial, commercial, and consumer markets by pioneering new applications and being a "first-mover" in these markets. Having a leading position in the markets we serve allows us to secure new and continuing business while also achieving manufacturing economies of scale. Increased unit volumes work to reduce costs throughout our business, which allows us to create new products that feature lower price points. This creates a virtuous cycle whereby we are able to make advanced sensor technologies more affordable to a wide array of end-users while reducing costs. This established presence across multiple markets enhances our competitive position.
+
+Broad Product Lines 
+
+We offer a wide array of sensor products, including infrared imaging cameras and systems, detector cores, visible-light cameras, CBRNE threat detectors, test and measurement instruments, radars, maritime electronics, and related products and solutions. Our customers can buy these products off the shelf or request a customized sensor solution. This ability to serve a variety of customers with disparate needs and specifications allows us to be successful in facilitating the use of advanced sensors in a broad range of applications. We have the ability to rapidly conceive, design, prototype, and manufacture new products to meet the evolving landscapes of the markets we serve. Our development process incorporates significant customer satisfaction and field-use data and results in the rapid creation of new features that are able to address the changing needs of the end-user. This continual evolution of our products has proven successful through our high level of customer retention and revenue and income growth. 
+
+Internally Funded Innovation
+
+We have expertise in developing sensing instruments that are both highly advanced from a technical standpoint and commercially viable and salable across multiple types of customers. Since the beginning of 2013, we have invested $741.6 million in internally funded research and development of new technologies and products. Utilizing our own funds for R&D provides us with full ownership of the development process and the end product, and also focuses our R&D teams on projects that will result in products that are commercially viable, yield the highest expected financial return and can be marketed to multiple markets for multiple applications. 
+
+Diverse Customer Base
+
+We sell our products to thousands of commercial and government customers for use in a variety of applications and markets worldwide. The buyers and users of our products include United States and foreign governments and government agencies, aerospace and defense contractors, electricians and tradesmen, commercial seaports, first responders, critical infrastructure operators, electrical generation and gas processing plants, heating and air conditioning technicians, building inspectors, food processors, automobile parts manufacturers, commercial and residential security providers, research and lab technicians, manufacturing companies, recreational boaters, and general commercial consumers. We believe that the diversity of our customers, end-user markets, and applications helps to mitigate fluctuations in demand from any particular customer or market. The diversity of our customers and of the end-users of sensor technologies provides us with multiple long-term growth opportunities.
+
+Global Distribution Capabilities 
+
+Our core infrared imaging products have expanded from high-end products sold primarily to military customers and niche research firms to everyday tools providing valuable information-gathering and assessment capabilities for a multitude of industrial, government, and commercial entities and consumers. With the widening adoption of these technologies, distribution has become a key advantage to our business globally. We believe our sales and distribution organization is among the largest in the industry and effectively covers the world with a combination of direct sales, third-party representatives and distributors, independent dealers, retail outlets, application engineers, and service and training centers. Internationally, we have invested heavily to build a strong presence to sell and service our products, a key advantage in penetrating certain markets, such as foreign governments. Our sales representatives, including third-party distributors, undergo a comprehensive training program on each product’s technical specifications, functions, and applications. We also continuously update our training programs to incorporate technological and competitive shifts and changes. We sell in many distinct markets and have established specific sales channels for each market. We intend to continue to expand this distribution platform through internal growth and external acquisitions. 
+
+6
+
+Investment in Research and Development and Intellectual Property Platform
+
+We have invested heavily in R&D, resulting in industry-leading innovations and a robust and growing patent portfolio that is focused on our core technologies as well as many of our emerging technologies and businesses. To complement our patent portfolio, we continue to strengthen our key brands by unifying critical design features across product lines, enhancing our worldwide trademark coverage, refining our domain portfolio, and growing brand awareness through social media outlets. 
+
+Consistent Generation and Distribution of Cash Flows
+
+Our earnings, combined with our modest capital expenditure requirements, result in the generation of significant free cash flows. In the years ended December 31, 2017 and 2016, our net cash provided by operating activities was $308.3 million and $319.8 million, respectively. Our operating cash flows have exceeded our net earnings in each of the last five years. This ability to consistently convert revenues into net operating cash provides us significant flexibility in making growth and capital deployment decisions, such as consummating strategic acquisitions, undertaking new product and technology development initiatives, expanding our distribution and marketing presence, making capital investments, paying dividends, and repurchasing shares of our common stock in the open market. Since 2013, we have utilized approximately $531.5 million of cash for acquisitions, $490.6 million for share repurchases, $317.8 million for dividends, and $259.4 million for capital expenditures. Since we began paying dividends in 2011, we have annually increased our dividend at a compound annual growth rate of approximately 16 percent.
+
+STRATEGY
+
+Our clear and consistent strategy has enabled strong and steady business performance while allowing expansion into areas of growth. We look to build on our leading position in advanced sensor systems by leveraging our key competitive strengths through a focused corporate strategy that will yield growth in both revenue and profitability. Key elements of the FLIR growth strategy include:
+
+Control the corners 
+
+We seek to have strong positions in both the entry-level and high-performance price points in each market we serve. We believe this will provide us with the ability to innovate solutions throughout the full solution spectrum of each market and sell products for the broadest customer base in the market. We believe this approach has created a significant competitive advantage for many of our businesses. Our focus will remain on continuous cost reduction of sensor technology, innovative next-generation solutions for evolving customer needs, and creating virtuous cycles of demand across all of our markets.
+
+Lower costs, increase awareness
+
+We strive to aggressively lower the cost and increase awareness of thermal sensor technology to enable our approach to high-volume markets. The price and awareness of thermal technology have been and continue to be the barriers to broad adoption. By increasing the awareness of thermal imaging, through thoughtful and impactful marketing and solution design, we believe our customers will recognize the benefits of thermal sensing and, as prices decline, recognize the value proposition of infrared technology. 
+
+Identify needs
+
+We consistently look to identify customers' needs that can be solved by our capabilities. When we identify such a market need, we invest in research, distribution, product development, and staffing to create the best product solution and most efficient go-to-market strategy. This has allowed us to pioneer several new markets for thermal imaging. Our experience in finding and building these new markets has allowed us to create a repeatable system for continuing to expand the uses and demand for advanced sensor-based technologies. 
+
+Brand, distribution, and innovation
+
+We intend to grow the size and our share of the markets we participate in as well as develop markets for our technology that do not currently exist through a strong brand, broad distribution, and highly innovative products and solutions. We invest in brand development to support our goal of being the top brand in thermal sensing, and intend to expand our brand power into new arenas. We have developed and utilize both our own distribution infrastructure and that of hundreds of partners, resulting in a diverse, 
+
+7
+
+efficient, and effective platform for selling and delivering our products. We also leverage a strong innovation engine, built from a talented and driven employee base and a willingness to invest in high-return opportunities, to create valuable intellectual property and cutting-edge products. 
+
+Build trust
+
+We believe trust is our most valuable asset. We focus on building trust with stakeholders - including current and future customers, shareholders, employees, and our communities. We build that trust by operating on an uncompromising foundation of ethical behavior and producing products that deliver a differentiated value proposition to our customers. We also build trust by maintaining an effective and open line of communication with our employees, stakeholders, and community members.
+
+Financial discipline
+
+We intend to continue to operate with financial discipline in order to create value for our stakeholders. We believe that the cornerstones to financial discipline are revenue and profit growth. We are focused on growing our top-line revenues and converting that to profits for bottom-line growth. We also intend to focus on continuous improvement through creating process efficiencies, building operational scale, and utilizing robust financial controls. We believe that these factors will ultimately generate superior long-term returns on investment for our shareholders. 
+
+BUSINESS SEGMENTS
+
+Surveillance Segment
+
+The Surveillance segment develops and manufactures enhanced imaging and situational awareness solutions for a wide variety of military, law enforcement, public safety, and other government entities around the world. The segment also develops and sells hand-held and mounted scopes for consumers in the hunting and outdoors markets. Our solutions are used to protect borders, surveil a scene, conduct search and rescue missions, gather intelligence, and protect critical infrastructure by providing the capability to see over long distances, day or night, through adverse weather conditions, through many obscurants, and from a wide variety of vehicle, man-portable, and fixed-installation platforms. 
+
+Surveillance infrared imaging systems typically employ cooled infrared detector and numerous other imaging technologies to identify and track objects from long distances and at high resolution. The Surveillance segment also utilizes uncooled thermal technology to enable markets where size, weight, power consumption, and cost are important considerations. Uncooled Surveillance segment products include hand-held and tripod-mount monoculars and binoculars, weapon sights, man-portable UAS, and military-vehicle vision systems. We also design and manufacture lasers and laser components, such as rangefinders, illuminators, and target markers.
+
+Our customers require systems that operate in demanding environments such as extreme climatic conditions, battlefield and military environments, or maritime conditions. Systems are often installed onto larger platforms and must be able to integrate with other systems such as aircraft avionics, radars, remote weapon systems, laser systems, command and control centers, and large, broad-based security networks.
+
+We address our core markets through either a commercial, off-the-shelf ("COTS") model or CDMQ model. The products we develop under the COTS model are applicable to a range of commercial and government customers and markets, including military applications. CDMQ products are specifically designed to meet military specifications. In both the COTS and CDMQ product development models, we use internally generated funds for research and development, and we generally own all rights to the products and their design.
+
+Markets
+
+Search and rescue 
+
+Thermal imaging systems are used in airborne, shipborne, and land-based missions to rescue individuals in danger, distress, or who are wounded or lost in adverse conditions. These systems are in use today by organizations such as the United States Army, United States Air Force, United States Coast Guard, United States Marine Corps, United States Air National Guard, and many international customers.
+
+8
+
+Force protection 
+
+In instances where military or other personnel are deployed in hostile areas, thermal imaging systems and radars mounted on towers or other platforms are deployed to detect, identify, and defeat potential threats at an early stage. Our systems are deployed for this purpose by the United States Army, United States Marine Corps, and other organizations worldwide.
+
+Border and maritime patrol 
+
+Our systems are used in airborne, shipborne, hand-held and fixed-installation applications for border and maritime surveillance, particularly at night, to enforce borders and monitor coastal waters, to support national fishing boundaries and to prevent smuggling. Our cameras are currently deployed along numerous borders worldwide, including in the United States, Europe, and the Middle East.
+
+Surveillance and reconnaissance 
+
+High-definition thermal imaging systems are used in surveillance and reconnaissance applications for the precise positioning of objects or people from substantial distances and for enhanced situational awareness, particularly at night or in conditions of reduced or obscured visibility. We also offer high-resolution, frequency-modulated, continuous-wave radars that enable wide-area surveillance capable of detecting potential threats before they cross a perimeter. These systems can be installed on fixed platforms, manned-mobile platforms, and UAS. With our acquisition of Prox Dynamics in 2016, we develop and sell nano-class UAS solutions that are highly portable and rapidly deployable real-time imaging solutions.
+
+Airborne law enforcement  
+
+We are a leader in the supply of stabilized airborne thermal imaging systems for federal, state, and local law enforcement agencies. This type of equipment gives those agencies the ability to track suspects, locate lost persons, and provide situational awareness to officers on the ground. 
+
+Targeting 
+
+We offer several products that provide precise target location and designation capabilities in applications ranging from man-portable devices to high-definition, multi-spectral, stabilized airborne laser designator systems.
+
+Drug interdiction 
+
+Thermal imaging systems enable government agencies to expand their drug interdiction and support activities by allowing 24/7 wide-area surveillance and detection capabilities. Our systems are in use by the United States Customs Service, United States Drug Enforcement Agency and United States Federal Bureau of Investigation, as well as by similar foreign government agencies.
+
+Personal vision 
+
+We develop easy to use, affordable, and lightweight personal vision thermal and image-intensified cameras, such as monoculars and hunting scopes, that provide people the ability to see at night and stay safe in various settings. They enhance people’s enjoyment of the outdoors by enabling them to keep track of their camping party, see and track animals, and navigate during deteriorated weather conditions. We believe the personal vision systems market is very large and is becoming increasingly accessible as we reduce the price of advanced thermal imaging products.
+
+Sales and Distribution
+
+Our Surveillance business has a direct sales staff and a network of independent representatives and distributors covering major government markets worldwide. Included in this organization are technical and customer support staff in the United States, Europe, the Middle East, and Asia Pacific regions who provide application development, technical training, and operational assistance to direct and indirect sales personnel as well as to customers.
+
+The Surveillance segment typically has the highest backlog of our segments relative to revenue and in absolute terms. At December 31, 2017, the Surveillance segment had a total backlog of $354 million. Backlog represents orders that have been received for products, contract research and development, or other services for which a contractual agreement is in place and delivery or performance is expected to occur within 12 months.
+
+Customers
+
+Surveillance segment customers generally consist of United States and foreign government agencies, including civilian, military, paramilitary, and police forces, as well as defense contractors and aircraft manufacturers. A substantial portion of Surveillance segment consolidated revenue is derived from sales to United States and foreign government agencies, and our business will 
+
+9
+
+continue to be substantially dependent upon such sales. We expect revenue outside the United States to continue to account for a significant portion of our Surveillance segment's revenue. The Surveillance segment is susceptible to some seasonality in its orders primarily based on the United States government budget year end. The result is that the third quarter tends to exhibit the largest amount of orders for our Surveillance segment. However, fiscal policy trends, increased revenue from outside the United States, budget delays, and general economic trends can overshadow this seasonality in any given year.
+
+Competition
+
+The Surveillance segment operates in a highly competitive market. Many of our competitors in the government sector are well-established contractors for various governments and have more financial and other resources than we possess. The principal competitive factors in the government markets include technical innovation, agency relationships, product quality and reliability, price, and ability to deliver. We believe we compete successfully in these markets with our best-in-class technologies, our products’ abilities to outperform customer requirements and competitors’ products, our lower-priced solutions that result from our CDMQ operating model, and our service and support functions that exist in the field and near the customer. Our current principal competitors in the Surveillance markets include divisions of BAE Systems, DRS (a Finmeccanica company), Elbit Systems, General Dynamics, L-3 Communications, Lockheed Martin, Raytheon, Sagem, Sofradir, and Thales.
+
+Instruments Segment
+
+The Instruments segment develops hand-held, fixed mount, and desktop imaging and measurement products. Thermal imaging camera products detect and measure heat and surface temperature differences, offering high accuracy, sophisticated diagnostic functionality, and a product range that spans a wide price spectrum. The Instruments segment's thermal cameras and related products are utilized by a growing number of industrial plant professionals, residential construction and contracting firms, energy production workers, manufacturing equipment and production line technicians, tradesmen, and homeowners. 
+
+The Instruments segment offers a broad range of cooled and uncooled thermal products, with thermal cameras for laboratory and research and development applications; optical gas imagers for oil, power, and chemical production applications; highly ruggedized cameras for firefighters that are used for fire attack, overhaul, and search-and-rescue operations; fixed and pan-tilt thermal cameras for factory line automation and plant safety monitoring; and multiple lines of professional and mid-level thermal cameras for building analysis, predictive maintenance, and electrical systems analysis. 
+
+Under our FLIR and Extech brands, the Instruments segment provides a comprehensive line of rugged and reliable test and measurement instruments, such as moisture meters, electrical test clamp meters, power analyzers, and multi-functional meters. These measurement instruments are used to evaluate electrical and environmental factors, including voltage, sound, light, heat index, and water quality. Leveraging our low-cost thermal sensors, we augment and enhance these familiar tools used in many industrial and commercial trades with Infrared Guided Measurement ("IGM"). IGM allows users to more efficiently address issues by first discovering via a thermal image the precise area of over-heating, moisture damage, or air ingress, allowing them to then apply the relevant sensor, such as voltage, current, spot temperature, or moisture probe, at the point of concern.
+
+Markets
+
+Building and HVAC/R 
+
+Thermal imaging cameras are increasingly used by building and home inspectors, roofing specialists, plumbers, general contractors, and real estate firms to evaluate and measure the integrity of buildings by quickly revealing structural problems, such as air leaks and missing insulation, to help ensure efficient use of energy and other resources. Heating, ventilation, air conditioning, and refrigeration ("HVAC/R") and mechanical contractors use thermal cameras and test and measurement equipment to ensure comfort in residences and workplaces by discovering, monitoring, and documenting airflow, leaks, and temperatures in ductwork and other forms of heating/cooling distribution systems. Hand-held test and measurement tools are used to measure airflow, humidity, carbon monoxide levels, light, sound, and other environmental factors. 
+
+Electrical 
+
+Electricians and mechanical technicians utilize thermal cameras and test and measurement equipment to quickly conduct electrical diagnostics, such as identifying circuit overloads, finding loose wire connections, and measuring currents, all without having to touch dangerous components. From overheating electrical circuits to corroded connections, thermal cameras and test meters provide the diagnostic functions needed to verify correct installations, quickly trace the source of problems, and enable efficient electrical 
+
+10
+
+systems. Hand-held test and measurement tools are used to measure currents, voltage, resistance, continuity, and other electrical parameters.
+
+Predictive maintenance 
+
+Thermal imaging systems are used for monitoring the condition of mechanical and electrical equipment. Such monitoring enables factory and plant maintenance technicians to quickly reveal equipment faults, manifested as hot or cold spots, so they can be repaired before they fail. This increases equipment productivity and avoids catastrophic failures or major damage, which reduces operating expenses by lowering repair costs and reducing downtime. Improved functionality of image analysis software, smaller size and weight, and simplicity of system operation are critical factors for this well-established market segment. Hand-held test and measurement tools are used to measure airflow, humidity, carbon monoxide levels, sound, vibration and other environmental factors.
+
+Firefighting  
+
+Thermal imaging is a well-known technology in the firefighting market, with firefighters and first responders worldwide utilizing thermal imaging cameras for protecting their own life and saving the lives of others. Thermal imaging technology allows first responders to assess conditions of a space prior to and after entry by providing them the ability to see through most forms of smoke. This also allows them to search for people and animals and identify fire hot spots in burning buildings or smoke filled environments. Providing the ability to measure temperatures in a non-contact mode from a safe distance helps firefighters to protect themselves against dangerous phenomena like roll-overs and flash-overs. 
+
+Research and science 
+
+High-end thermal imaging systems provide the unique ability to detect very small differences in temperature. This capability is useful in industrial R&D, where developers study, see, and quantify the heat dissipation, stress tolerance, and thermal characteristics of their materials, components, and products. At colleges and universities, instructors use thermal imagery to help students visualize the theories of heat transfer and thermodynamics, improving student comprehension of key concepts, and for both fundamental and applied research. In the defense sector, cooled thermal imaging cameras are used in the development of firearms, ammunition, guided missiles, and aircraft. 
+
+Oil and gas production  
+
+Thermal imaging cameras can visualize and pinpoint certain gas leaks. In industrial, utility, and oil and gas refinery settings, optical gas imagers visually reveal plumes of gases such as SF6 (Sulfur Hexafluoride), hydrocarbons, carbon monoxide and carbon dioxide from a safe distance. Optical gas imaging cameras can continuously scan installations in remote areas or in zones that are difficult to access. Continuous monitoring allows the user to be informed when a dangerous or costly gas leak appears. Typical examples are monitoring pipelines, petrochemical industry and offshore operations.
+
+Manufacturing process control 
+
+Temperature consistency is critical to the quality of many manufactured components, materials, and products, including metals, plastics, paper, and glass. Thermal cameras, both fixed and mobile, help factories ensure product quality and identify other defects in both products and in the manufacturing process itself through the continuous monitoring of the production line, resulting in higher output and nearly perfect quality control. Other users of thermal cameras in the manufacturing sectors include worker safety and fire prevention, analysis of welding and fastening effectiveness, food inspection, packaging quality, and electronic and mechanical component manufacturing, ranging in size from small hybrid integrated circuits to jet engines. 
+
+Sales and Distribution
+
+Our Instruments business has a direct sales staff and a network of distributors and retailers covering major markets worldwide, including technical and customer support staff in the United States and internationally who provide application development, technical training, and operational assistance to direct and indirect sales personnel as well as to customers. Dedicated staffs of business development managers for the firefighting, science, optical gas imaging and automation markets assist the distribution channel with application development, technical training, and operational assistance. With a focused sales organization and specialized sales teams that serve the specific R&D market, we have been successful at building and leveraging strong relationships with various research institutes and universities worldwide. 
+
+At December 31, 2017, the Instruments segment had a total backlog of $30 million. Backlog represents orders that have been received for products or services for which a contractual agreement is in place and delivery or performance is expected to occur within 12 months.
+
+11
+
+Customers
+
+Instruments segment customers are found around the world in commercial, government, trades, educational, research, agricultural, and non-professional/consumer segments. They include utility companies, electrical contractors, building inspectors, damage restoration contractors, first responders, universities, and numerous commercial enterprises. Given the high-value nature of many of our thermography-related instruments, our thermography products’ revenues tend to be correlated with seasonal trends, in particular capital spending trends. In general, customers in markets like predictive maintenance and R&D are sensitive to the broad economy because our cameras are viewed as capital expenditure items. We expect revenue outside the United States to continue to account for more than half of our Instrument segment revenue. 
+
+Competition
+
+The Instruments segment operates in highly competitive markets. The primary competitive factors include brand reputation, technical innovation, product breadth, functionality, quality, reliability, and price. We believe we compete successfully in these markets with our innovative products, multi-function capabilities, our high value-to-price ratio, and our service and support functions. Our current principal competitors in the Instruments segment's markets include Fortive, Testo, Seek Thermal, SATIR, OPGAL, Infratec, Guide Infrared, and Nippon Avionics for thermal imaging cameras. The test and measurement products compete with products from Fortive, Testo, Gossen Metrawatt, Textron, General Tools, Ideal Industries, and others. The firefighting camera products compete primarily with Bullard, ISG/Scott, Argus, Dräger, and MSA.
+
+Security Segment
+
+The Security segment provides security solutions for a multitude of applications, from home and small business monitoring to enterprise and infrastructure security. The segment develops video security solutions for use in commercial, critical infrastructure, perimeter surveillance, and home security applications. These solutions include thermal and visible-spectrum cameras, digital and networked video recorders, and related video management systems ("VMS") software and video analytics software accessories that enable the efficient and effective safeguarding of assets at all hours of the day and night and during adverse weather conditions. 
+
+Our video security cameras are marketed under the FLIR brand name, for thermal and professional-grade visible spectrum cameras, and the Lorex brand name, for the consumer do-it-yourself ("DIY") and small business user. Security segment cameras come in indoor/outdoor, fixed, pan/tilt, and dome configurations, are network-ready, available with a variety of lens options, and provide analog and digital video outputs. Our Megapixel over Coax ("MPX") products allow customers to upgrade security systems to high-definition resolution using an existing coax cable that may already be present, saving the time and money of rewiring their building. We also offer a full spectrum of end to end security systems complete with video analytics and advanced VMS capability. In addition, our security products comply with several industry standards, can be integrated with dozens of video management systems and video analytics providers, and are accessible remotely on Apple iOS, Android, PC, or Mac devices through our FLIR Cloud service. 
+
+Markets
+
+Utilities 
+
+Power plants, electrical substations, and water facilities utilize visible spectrum and thermal imaging cameras to provide continuous surveillance day or night. Our cameras are integrated with video analytics to provide automated alarm notification. At electrical substations, our thermal products provide protection against materials theft and acts of sabotage, and provide notifications when connections switchgear and transformers reach dangerous operating temperatures.
+
+Nuclear power 
+
+Recent rules from the United States Nuclear Regulatory Commission require nuclear facilities to provide continuous 24-hour surveillance, observation, and monitoring of their perimeter and control areas. Our thermal security cameras are well suited for this requirement, providing true 24/7 monitoring capability even during most adverse weather conditions.
+
+Petrochemical 
+
+Our thermal security cameras help petrochemical facilities meet the United States Department of Homeland Security's Chemical Facility Anti-Terrorism Standards. Thermal security cameras are highly effective in meeting the standards' requirements for monitoring a facility's perimeter, securing applicable assets, and solidifying a deter, detect, and delay strategy.
+
+12
+
+Ports and borders 
+
+Our long range thermal and visible security cameras provide "beyond the fence" situational awareness and advanced warning capabilities. Airport and border authorities around the world utilize our thermal security cameras to help keep people and equipment safe, operating day and night, in nearly all weather or lighting conditions.
+
+Commercial and residential 
+
+FLIR’s full-spectrum security solutions offer a comprehensive line of thermal and visible cameras to protect commercial facilities. Our products are also used in a wide range of home applications that may include the use of thermal, visible or image-intensified cameras as well as network video recorders and other peripheral equipment.
+
+Sales and Distribution
+
+Our Security segment sales organization specializes in delivering complete solutions for thermal and visible security. Our Lorex products are sold through both brick and mortar and online retail outlets. Commercial and professional-grade security products utilize direct sales, a network of independent reps, and distributors covering major markets worldwide. 
+
+At December 31, 2017, the Security segment had a total backlog of $23 million. Backlog represents orders that have been received for products or services for which a contractual agreement is in place and delivery or performance is expected to occur within 12 months.
+
+Customers
+
+Our Security segment serves a broad customer base that is expanding every year. Our visible-spectrum solutions are purchased by high-end critical infrastructure users, security hardware distributors, systems integrators, contractors, and homeowners. Thermal security cameras are currently sold in all global regions, with most customers falling into the high-end critical infrastructure category. However, recent volume production of our thermal camera cores has allowed us to drop the cost of thermal security cameras to a point where it is an affordable option for many commercial security networks. 
+
+Competition
+
+The Security segment operates in highly competitive markets. Many of our competitors are well-established brands. Key competitive factors include technical innovation, analytics, video monitoring, system integration and compatibility, price, and ability to deliver. Our competitive advantages include our broad line of thermal camera offerings, which combined with our DIY consumer product line offers both high- and low-end solutions to our customers. Our current principal competitors include Axis Communications, Bosch, Hikvision, Dahua, Infinova, Avigilon, Sony, Samsung, Q-see, and Panasonic.
+
+OEM & Emerging Markets Segment
+
+The OEM & Emerging Markets segment develops and manufactures thermal and visible spectrum imaging camera cores and related components. A thermal camera core is an integrated, plug-and-play camera system that includes the infrared or visible spectrum sensor as well as the related image processing electronics and an optical lens. We offer cooled and uncooled thermal cores that are based on long wave infrared ("LWIR"), mid-wave infrared ("MWIR"), and short wave infrared ("SWIR") sensors. Our visible spectrum camera cores are utilized primarily for machine vision and people counting applications and are based on complementary metal-oxide semiconductors ("CMOS") and charged-coupled device ("CCD") sensors that are produced by third parties. We also sell to third parties thermal sensors and readout integrated circuit ("ROIC") products, which are used to convert pixel-level information into digital information, essential in the design of infrared, visible, ultra violet, and X-Ray sensors. 
+
+Our vertically integrated manufacturing capability, built over many years, enables us to provide thermal camera core and component products to other FLIR segments at low cost, as well as sell cores and components to third party customers. Our cores and components are designed for easy and efficient integration into higher levels of product assembly. Third party OEMs integrate these cores and components into their own branded products. We operate under this model so to aggregate the largest amount of volume possible, which lowers our total cost to produce camera cores and components.
+
+The OEM & Emerging Markets segment also houses our Emerging Markets businesses, which are businesses that are identified as high-potential but do not yet have the scale to represent their own segment. Included in Emerging Markets is our Intelligent 
+
+13
+
+Traffic Systems business, which develops and manufactures software-enabled automotive and pedestrian monitoring and control systems, our Mobile products business, makers of thermal imaging accessories for the smartphone market, and our commercial UAS business, which provides thermal cameras and cores for use on, or integration into, UAS systems, which are often referred to as “drones.”
+
+Markets 
+
+OEM 
+
+We supply cooled and uncooled thermal and visible spectrum camera cores, sensors, and ROICs on an OEM basis to an array of manufacturers of finished products in both the military and commercial spaces. These customers require a product at a lower level of integration than a fully developed thermal imaging system. Examples of major applications in this segment are automotive, industrial automation systems, firefighting, smartphones, UAS, medical devices, military, digital X-ray, and security.
+
+Mobile 
+
+Leveraging our ability to produce thermal sensors at a low cost and with low size, weight, and power consumption, we created a line of personal thermal imaging cameras that attach to smartphones. The mass adoption of smartphones has driven significant growth in the development of tools that extend the utility of these devices, and our FLIR ONE® products do this by empowering consumers with thermal imaging on their smartphones. We believe that the potential of thermal imaging as a tool for consumers provides this segment with an emerging opportunity for growth. 
+
+Intelligent Transportation  
+
+Visible and thermal imaging helps transportation departments all over the world monitor vehicles and pedestrians in urban environments, detect incidents on highways and in tunnels, collect traffic data, control traffic signals, and ensure the safety on public roads and railways. These systems are able to detect vehicles and use the information to control traffic lights in order to improve traffic flow. While road-embedded magnetic loops have historically been the primary technology for analyzing intersections and roadways, visible and thermal imaging are increasingly being used for this application. Thermal imaging technology has shown to be highly effective at detecting the presence of vehicles as it is not impeded by darkness, colors, shadows, direct sunlight, light from oncoming traffic, or weather effects. We believe that the value of these solutions in terms of improved traffic flow, fuel conservation, and public safety is significant. 
+
+Sales and Distribution
+
+We employ primarily a direct sales force for selling and distributing our thermal cores and components, and both direct sales and distributors for our visible-spectrum camera cores. The majority of our Mobile market sales are generated through wholesale channels, which include national and regional consumer electronics chains, large online retailers, and specialty retailers. We also sell our Mobile products directly to consumers through our own network of e-commerce websites. In addition, we sell our products to independent distributors in various countries where we generally do not have direct sales operations, and through licensees. A dedicated staff of business development managers for the Intelligent Traffic products assist the distribution channel, made up of traffic control systems integrators and engineering consultants, with application development, technical training, and operational assistance. 
+
+At December 31, 2017, the OEM & Emerging Markets segment had a total backlog of $169 million. Backlog represents orders that have been received for products, contract research and development, or other services for which a contractual agreement is in place and delivery or performance is expected to occur within 12 months.
+
+Customers
+
+Typical OEM customers include makers of military aircraft and vehicles, automotive safety equipment, firefighting equipment, manufacturing automation systems, security cameras, hunting equipment, smartphones, UAS, and maritime equipment. Our OEM sales personnel maintain direct relationships with most of these customers. We sell our Mobile products to a diverse group of consumers, including homeowners, outdoors people, and technology enthusiasts. Customers for our Intelligent Traffic products are traffic and public transportation authorities in cities and municipalities all over the world who deploy thermal imaging cameras and other equipment in urban areas, on highways, in tunnels, and on bridges. 
+
+14
+
+Competition
+
+While our market share in OEM cores and components is estimated to be nearly 50 percent based on independent industry research, we view the thermal OEM market as highly competitive. We believe the key drivers of success in these markets are: technological proficiency in imaging sensors, product quality, product cost, and scalability of operations. We believe we are well positioned to operate in this competitive environment given our demonstrated ability to innovate high-quality sensors at low cost due to our vertically-integrated operating model, our advanced R&D capabilities, and our broad product offering. Our primary competitors in the OEM space are ULIS, DRS, L-3, BAE Systems, Basler, and Allied Vision. In Mobile products, our competitors include Seek Thermal and Opgal. In the Intelligent Traffic product space, our major competitors include Image Sensing Systems, Iteris, and Citilog.
+
+Maritime Segment
+
+The Maritime segment develops and manufactures a broad range of thermal imaging and marine electronic products for recreational and commercial customers globally. The segment provides boats of all sizes a full suite of electronic systems including multi-function helm displays, navigational instruments, autopilots, radars, sonar systems, thermal and visible imaging systems, and communications equipment. These products are utilized for general navigation, sport fishing, cruising, and sailing.
+
+Our primary product offering is multifunction navigation displays ("MFDs"). Our MFDs are designed to provide boaters visual navigation data from multiple sensors, including GPS, autopilot, sonar, and radar. We have several lines of MFD products, serving leisure and fishing boats of all sizes, in saltwater or freshwater environments. Our Dragonfly® product line addresses the MFD needs of the small-boat recreational fishermen, including kayakers and freshwater bass anglers, while our larger MFDs serve large saltwater boat end-users. We also integrate our MFDs to use and control thermal and visual cameras, onboard entertainment products, engine instruments, and data services like satellite weather. Recognizing the importance of mobile devices to boaters, we offer Wi-Fi enabled MFDs along with mobile apps that give boaters access to the MFD and sensors from anywhere on board the vessel.
+
+Our marine instrument products are dedicated displays and sensors for monitoring depth, boat speed, and wind information. Our sonar solutions are engineered to serve the needs of both the inland and saltwater fishing customers. These sonars serve as fishermen’s eyes below the water so they can detect fish, locate underwater structure, and identify the habitat of the fish they are trying to catch. We also offer autopilot solutions that provide precision steering control for open water passages. To keep boaters connected, we offer several communication products, such as VHF marine radios for ship-to-ship and ship-to-shore communications, and our automatic identification system ("AIS") solutions enable the wireless exchange of navigation status between vessels and vessel-monitoring centers. The Maritime segment’s thermal camera solutions are designed to enhance a boater’s overall situational awareness in limited visibility and are used primarily to identify other vessels, navigation aids, and hazards. Thermal maritime cameras are also utilized for search and rescue and local law enforcement surveillance operations.
+
+We market our Maritime segment products under both the FLIR and Raymarine brands. FLIR-branded maritime products consist of thermal cameras designed for recreational, commercial, and first-responder vessels. The Raymarine line of marine electronics is designed and marketed primarily to recreational boaters and light-commercial customers.
+
+Markets
+
+Recreational Boating 
+
+The recreational boating market, which represents the majority of our sales, is comprised of fresh and saltwater fishing, sport/cruising, and sailing. Our core MFD products are engineered to address the needs of all three markets. We also develop products specifically for strategic markets and customers, such as Dragonfly® sonars for freshwater fishermen, wind instruments for sailors, and vessel automation for boat builders.
+
+Commercial Maritime 
+
+The commercial maritime market is comprised of light commercial, heavy commercial, and light-defense segments. We address these commercial markets with both our thermal maritime cameras and our marine electronics systems. 
+
+15
+
+Sales and Distribution
+
+Our Maritime segment sells products worldwide through a network of aftermarket distributors, technical dealers, boat builders/OEMs, and retailers. We have a dedicated business development team to address the unique requirements of our OEM boat-builder channel. With our OEM boat builders, we differentiate ourselves by providing full system solutions. We also add value to our boat-building partners through technical installation training of the OEM factory staff. In the United States, we devote special teams to the retail channel so we can address this channel’s dynamic and unique merchandising and promotional needs. Our sales team is supported by technical support teams and applications engineers. The technical teams provide customer support and conduct regular training sessions with our technical dealer and OEM customers.
+
+At December 31, 2017, the Maritime segment had a total backlog of $17 million. Backlog represents orders that have been received for products or services for which a contractual agreement is in place and delivery or performance is expected to occur within 12 months.
+
+Customers
+
+Our FLIR maritime thermal cameras are supplied to an array of commercial customers including tugboats, work boats, and passenger vessels. Both FLIR and Raymarine maritime-branded thermal cameras are supplied to recreational sport fishing and cruising powerboat customers. Raymarine’s primary end consumers include freshwater and saltwater fishing boat owners, cruising power boats, and sailboat owners. In the fishing segment, Raymarine customers include kayakers, bass boat owners, bay boats, center consoles, and offshore sport fish boat owners. The cruising segment includes owners of sport boats, cruisers, and trawlers. Sailing customers include owners of day sailors, racers, cruising yachts and multi-hull sailboats. 
+
+Our Maritime segment also supplies thermal cameras to maritime first responders and maritime law enforcement organizations around the globe, including the United States Coast Guard. Our cameras are used by marine divisions of city fire and police departments along with local fish and wildlife enforcement organizations.
+
+Competition
+
+Our Maritime segment operates in a highly competitive market for marine electronics. Like consumer electronics, delivering innovative features and lower price points are critical to the success of our marine electronics products. Consumers typically purchase marine electronics as a system of products from one brand, so it is critical that we deliver a competitive offering in each of our product lines. Our primary marine electronic competitors include Garmin, Navico, Furuno, and Humminbird. 
+
+Detection Segment
+
+Our Detection segment develops and manufactures field-ready sensor instruments and integrated platform solutions for the accurate detection, identification, classification, and suppression of chemical, biological, radiological, nuclear, and explosives ("CBRNE") threats for military force protection, homeland security, and commercial applications.
+
+Detection segment solutions combine multi-threat detection and identification technologies into single hand-held or desktop instruments. Product lines include hand-held and fixed radiation detectors, hand-held and desktop explosives trace detectors, desktop and portable mass spectrometers, and continuous air monitoring devices for aerosolized biological threats and disclosure sprays. The segment also manufactures integrated systems of multiple pieces of equipment to create turn-key solutions used by first responders for the detection, identification, sample collection, decontamination, marking, and hazard reporting of CBRNE threats.
+
+Our products utilize mission-based user interfaces to expedite decision-making for field operators and advanced technicians. Our advanced CBRNE detection instruments provide lab-quality confidence in a field-proven, highly reliable, and ruggedized package. Customers around the world use our products for forensic analysis, military reconnaissance, force protection, public security, law enforcement, emergency response, environmental monitoring, building and event security, teaching, and research.
+
+The Detection segment leverages an established technical R&D organization that enables the business to offer smart, simple, and reliable products that meet the evolving needs of government and commercial security providers. With many years of experience working in collaboration with multiple government agencies, the Detection segment has developed relationships with various government decision-makers and has substantial knowledge of the governmental procurement process.
+
+16
+
+Markets
+
+Government and private sector entities continue to seek new ways to address increasingly sophisticated terrorist threats and to respond to other security risks, natural disasters, and unintentional incidents that threaten public safety. Our multi-purpose products meet the requirements for a broad range of end-users and end uses.
+
+We offer biological air monitors that are used by various governmental agencies for security at facilities and events. Our explosives detection products are used to identify military-grade explosives and homemade explosive devices in a wide array of military and public safety applications, such as screening high-risk individuals at checkpoints and identifying improvised explosive device ("IED") makers, and our radiation products protect the public by warning of radionuclide exposure.
+
+Sales and Distribution
+
+The Detection segment sells products worldwide primarily through a combination of a direct sales force and a distributor network, but also utilizes third-party sales representatives, value-added resellers, and systems integrators. With a centralized sales organization and specialized sales teams that serve specific markets, we have been successful at building and leveraging strong relationships with key decision-makers at various government agencies and commercial entities. Some Detection segment products are designed as components or sub-systems that are incorporated into third-party products or systems.
+
+The Detection segment derives a portion of its revenue, approximately 9 percent in 2017, from funding received from agencies of the United States government pursuant to research projects. The revenue recognized under these contracts represents reimbursement by the customer for time periods ranging from several months to several years. Our participation in these and other development programs has culminated in the development of a number of commercial products. In general, our contracts with the United States government permit us to retain all rights to patents emerging from the funded R&D efforts.
+
+At December 31, 2017, the Detection segment had a total backlog of $59 million. Backlog represents orders that have been received for products, contract research and development, or other services for which a contractual agreement is in place and delivery or performance is expected to occur within 12 months.
+
+Customers
+
+The Detection segment sells its products, systems, and services to a broad base of federal, state, and local government customers, to all branches of the United States military, foreign militaries, private sector businesses and commercial ports both in the United States and internationally. Using a regionally deployed sales force, the business sells to agencies of the United States government, such as the Departments of Homeland Security, Defense, and Energy, as well as the Transportation Security Administration, the Federal Bureau of Investigation, NASA, the Secret Service, the Coast Guard, and agencies of multiple state and local governments in the United States. Similar to our Surveillance segment, the Detection segment experiences some seasonality in its orders due to the United States government budget year end.
+
+Competition
+
+The markets in which the Detection segment competes are dynamic and highly competitive. Success in these markets depends on our ability to develop new technologies to meet rapidly evolving customer needs, reduce production and development costs, integrate with third-party devices and systems, establish and foster relationships with key government and commercial customers, and recruit highly technical personnel. The Detection segment competes in various markets with companies such as Agilent Technologies, Canberra Industries, Safran, SAIC, Smiths Detection, Thermo Fisher Scientific, and United Technologies.
+
+SALES, MARKETING, CUSTOMER SUPPORT, AND TRAINING
+
+Our sales and distribution organization covers the world with a combination of direct sales, third-party representatives and distributors, system integrators, independent dealers, retail outlets, application engineers, and service and training centers. Internationally, we have invested heavily to build a strong presence to sell and service our products, a key advantage in penetrating certain markets, such as foreign governments. Our sales representatives, including third-party distributors, undergo a comprehensive training program on each product’s technical specifications, functions, and applications. We also continuously update our training programs to incorporate technological and competitive shifts and changes. We sell in many distinct markets and have established specific sales channels for each market. 
+
+17
+
+Our primary marketing activities include online advertising, participating in trade shows, partner sponsorships, optimizing our website for search keywords so that prospects searching for imaging and sensing solutions online find FLIR quickly, press releases about new products and company developments, social media outreach, and cooperative advertising.
+
+We offer a strong product warranty coupled with responsive support accessible via phone, web, and e-mail, and our localized support locations for high-end systems helps us stand out in our markets. 
+
+Our Infrared Training Center ("ITC") offers training, certification, and re-certification in all aspects of thermography, including specialized instruction in building diagnostics, roofing, electrical, mechanical, research and science, and optical gas imaging. Online courses cover the basics of thermal camera operation and reporting software. The ITC is also the premier sponsor of InfraMation, thermal imaging’s leading users conference which is typically held annually. 
+
+MANUFACTURING
+
+We manufacture many of the critical components for our products, including but not limited to infrared detectors, gimbals, pan-tilts, optics and coatings, laser sub-systems, and micro-coolers, and develop much of the software and middleware for our systems. This vertical integration minimizes lead times, facilitates prompt delivery of our products, controls costs, and ensures that these components satisfy our quality standards. We purchase other parts pre-assembled, including certain detectors, coolers and optics, circuit boards, cables, and wire harnesses. These purchased and manufactured components are then assembled into finished systems and tested at one of our primary production facilities located in the United States, Sweden, Estonia, and Canada. Certain components and finished goods, including some of our visible-spectrum cameras, test and measurement products and maritime electronics, are produced by contract manufacturers.
+
+Our manufacturing operations are, from time to time, audited by certain customers, which include several major aircraft manufacturers, and have been certified as meeting their quality standards. Substantially all of our manufacturing locations are either ISO 9001:2000 or :2008 certified with certain locations having higher certifications.
+
+INTELLECTUAL PROPERTY
+
+To support our focus on being an innovation leader in our key markets and protect our proprietary information, we rely on a combination of patent, trademark, copyright, and trade secret rights, a strong internet domain presence, confidentiality agreements, joint development agreements, and contractual provisions. Over the past several years we have intensified our efforts to protect our innovations through increased United States and international patent filings, and to strengthen our core brands through thoughtful trademark procurement and domain portfolio refinement. We will continue to actively develop our intellectual property and intend to emphasize initiatives that will further promote innovation and leadership in marketable technologies. We cannot, however, be certain or give any assurance that we can secure patent or trademark protection on all our innovations, maintain our competitive advantage or that competitors will not develop similar or superior capabilities. 
+
+GOVERNMENT REGULATION
+
+Thermal technology is controlled for export, re-export and retransfer by the United States government. Depending on the technology, the export of infrared products may be controlled by the United States Department of State or the Bureau of Industry and Security. In general, the more sophisticated the technology and the higher the performance of the product, the more restrictive are the licensing requirements. Licensing requirements differ from country to country, end user to end user and differ with product performance and field of intended use. The export of some of our products are controlled by the International Traffic and Arms Regulation ("ITAR") or are identified on the Commerce Control List (“CCL”) requiring an export license from the United States Department of Commerce. Thermal and infrared products identified in Category XII of the United States Munitions List like those manufactured by the Company have recently been the subject of export control reform moving classification and control of some products from the ITAR to the CCL and adding additional license restrictions under regulations administered by the United States Department of Commerce.
+
+18
+
+ As a United States government supplier, we must comply with specific procurement regulations and other requirements and are subject to routine audits and investigations by United States government agencies. If we fail to comply with these rules and regulations, the results could include: reductions in the value of contracts; contract modifications or termination; the assessment of penalties and fines; and/or suspension or debarment from United States government contracting or subcontracting for a period of time or permanently.
+
+EMPLOYEES
+
+As of December 31, 2017, we had 3,542 employees of which 1,840 were located in the United States and 1,702 located outside of the United States. We have generally been successful in attracting highly skilled technical, marketing, and management personnel. None of our employees in the United States are represented by a union or other bargaining group. Certain employees in Europe are represented by unions and workers councils whose contracts are subject to periodic renegotiations. We believe our relationships with our employees, unions and workers councils are generally good.
+
+ENVIRONMENTAL MATTERS
+
+Our operations are subject to a variety of federal, state, local and foreign environmental laws and regulations relating to the discharge, treatment, storage, disposal and remediation of certain materials, substances, and wastes used in our operations. We continually assess our obligations and compliance with respect to these requirements. We have also assessed the risk for environmental contamination for our various manufacturing facilities, including our acquired businesses and facilities and, where appropriate, have obtained indemnification from the sellers of those businesses and facilities.
+
+We believe that our current operations are in substantial compliance with all existing applicable environmental laws and permits. Operating and maintenance costs associated with environmental compliance are a normal, recurring part of our operations. Historically, these costs have not been material.
+
+AVAILABLE INFORMATION
+
+Our internet website address is www.flir.com. This Report, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 and other required filings are available through our internet website as soon as reasonably practicable after we electronically file such material with, or furnish it to, the Securities and Exchange Commission. Our internet website and the information contained therein or connected thereto are not intended to be incorporated into this Report.
+
+19
+
+ITEM 1A.RISK FACTORS
